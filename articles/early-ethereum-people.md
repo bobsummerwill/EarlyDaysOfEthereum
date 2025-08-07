@@ -50,23 +50,23 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Bin Lu](https://twitter.com/bitgulu) – Jan 2014 to present (but never in the EF)
 - Jerry Liu – Jan 2014 to ?
 - Emanuele Costa – Jan 2014 to ?
-- [Eric Lombrozo](https://www.linkedin.com/in/ericlombrozo/) – Jan 2014 to ?
+- [Eric Lombrozo](https://www.linkedin.com/in/ericlombrozo/) – Jan 2014 to ???
 - Max Kaye – Jan 2014 to ?
-- [Wendell Davis](https://www.youtube.com/watch?v=4jGqmlA4KEY) – Jan 2014 to ?
-- [Paul Snow](https://www.linkedin.com/in/paulsn/) – Jan 2014 to ?
-- [Chris Odom](https://www.linkedin.com/in/chris-odom-257236/) – Jan 2014 to ?
-- [Steve Dakh](https://www.linkedin.com/in/steve-dakh/) – Jan 2014 to ?
-- Kyle Kurbegovich – Jan 2014 to ?
-- Dino Mark – Jan 2014 to ?
+- [Wendell Davis](https://www.youtube.com/watch?v=4jGqmlA4KEY) – Jan 2014 to ???
+- [Paul Snow](https://www.linkedin.com/in/paulsn/) – Jan 2014 to ???
+- [Chris Odom](https://www.linkedin.com/in/chris-odom-257236/) – Jan 2014 to ???
+- [Steve Dakh](https://www.linkedin.com/in/steve-dakh/) – Jan 2014 to ???
+- Kyle Kurbegovich – Jan 2014 to ???
+- Dino Mark – Jan 2014 to ???
 
 ## February 2014
 - [Ian Meikle](https://www.linkedin.com/in/ian-meikle-9455a891/) – Feb 2014 to Nov 2018 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m43s))
 - [Aeron Buchanon](https://www.linkedin.com/in/ambuchanan/) – Feb 2014 to Nov 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=15m42s))
 - [Russell Verbeeten](https://www.linkedin.com/in/russellverbeeten/) – Feb 2014 to Jul 2014
 - [Nicolas Fierro](https://www.linkedin.com/in/nicolasfierro/) – Feb 2014 to Jan 2015
-- [Ryan Taylor](https://twitter.com/AdjyLeak) – dates?
-- [Karl Gluck](https://www.linkedin.com/in/karlgluck/) – dates?
-- Houwu Chen – dates?
+- [Ryan Taylor](https://twitter.com/AdjyLeak) – ??? to ???
+- [Karl Gluck](https://www.linkedin.com/in/karlgluck/) – ??? to ???
+- Houwu Chen – ??? to ???
 
 ## March 2014
 - [Ethan Wilding](https://www.linkedin.com/in/ethanwilding/) – Mar 2014 to Apr 2017
@@ -80,7 +80,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## April 2014
 - [Vlad Zamfir](https://www.linkedin.com/in/vlad-zamfir/) (“[vladzamfir](https://github.com/vladzamfir)”) – Apr 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s))
 - [Joseph Chow](https://www.linkedin.com/in/josephmchow/) (“[ethers](https://github.com/ethers)”) – April 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=20m11s))
-- [Addison Cameron-Huff](https://www.linkedin.com/in/addisoncameronhuff/) – dates?
+- [Addison Cameron-Huff](https://www.linkedin.com/in/addisoncameronhuff/) – ??? to ???
 
 ## May 2014
 - [Brian Fabian Crain](https://www.linkedin.com/in/bfcrain/) – May 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=30m37s))
@@ -117,7 +117,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Lefteris Karapetsas](https://www.linkedin.com/in/eleftherios-karapetsas-1a18b919/) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
 - [Jutta Steiner](https://www.linkedin.com/in/jutta-steiner/) – Nov 2014 to Oct 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=27m24s))
 - [Ken Kappler](https://www.linkedin.com/in/kenneth-kappler-7160ba92/) – Nov 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m19s))
-- [Vinay Gupta](https://www.linkedin.com/in/vinay-gupta-0072/) – Nov 2014 (Maybe) to ???? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m29s))
+- [Vinay Gupta](https://www.linkedin.com/in/vinay-gupta-0072/) – Nov 2014 (Maybe) to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m29s))
 - [Sven Ehlert](https://www.linkedin.com/in/svenehlert/) – Nov 2014 to Mar 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s))
 - [Konrad Feldmeier](https://github.com/konradkonrad) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0 intro](https://youtu.be/_BvvUlKDqp0?t=28m41s))
 - [Henning Diedrich](https://twitter.com/hdiedrich) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0 intro](https://youtu.be/_BvvUlKDqp0?t=27m58s))

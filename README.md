@@ -6,8 +6,8 @@
 
 This project is a continuation of the information which [Bob Summerwill](https://bobsummerwill.com/about) gathered in 2017/2018 on the early contributors to the [Ethereum project](https://ethereum.org) and of people who were involved with the [Ethereum Foundation](https://ethereum.foundation/) in its early years:
 
-- [Ethereum Foundation People](https://bobsummerwill.com/ethereum-foundation-people/) - first released 31st March 2018 ([X post](https://x.com/BobSummerwill/status/980328322625290240))
-- [Ethereum Foundation Timeline](https://bobsummerwill.com/ethereum-foundation-timeline/) - first released 4th May 2018 ([X post](https://x.com/BobSummerwill/status/992382419289411585))
+- [Ethereum Foundation People](https://bobsummerwill.com/ethereum-foundation-people/) - released 31st March 2018 ([X post](https://x.com/BobSummerwill/status/980328322625290240))
+- [Ethereum Foundation Timeline](https://bobsummerwill.com/ethereum-foundation-timeline/) - released 4th May 2018 ([X post](https://x.com/BobSummerwill/status/992382419289411585))
 
 The time range which Bob detailed was from November 2013, when [Vitalik Buterin](https://x.com/vitalikbuterin) released the whitepaper, until 31st January 2018 when [Ming Chan left the EF](https://blog.ethereum.org/2018/01/31/to-infinity-and-beyond) and [Aya Miyaguchi was announced](https://blog.ethereum.org/2018/01/31/farewell-and-welcome) as the new Executive Director.
 
@@ -21,8 +21,8 @@ This is an ongoing project and all contributions towards this public record are 
 
 # Articles
 
-- [Early Days of Ethereum People](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/people/early-ethereum-people.md)- released 7th August 2025
-- [Early Days of Ethereum Timeline](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/timeline/early-ethereum-timeline.md)- released 7th August 2025
+- [Early Days of Ethereum People](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/people/early-ethereum-people.md) - released 7th August 2025
+- [Early Days of Ethereum Timeline](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/timeline/early-ethereum-timeline.md) - released 7th August 2025
 - [Early Days of Ethereum Videos - Notes on episodes I and II](https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/) - released 17th October 2023
 - [Early Days of Ethereum Videos - Notes on episode III](https://bobsummerwill.com/2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/) - released 17th October 2023
 

@@ -1,6 +1,6 @@
 # Early Days Of Ethereum
 
-Records and artifacts from the early days of the Ethereum project.
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/main/images/ethereum_org_12_march_2024.png)
 
 # Back story
 

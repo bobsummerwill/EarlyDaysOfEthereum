@@ -170,7 +170,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - Thomas Greco – Mar 2016 to present?
 
 ## May 2016
-- [Vladislav Martynov](https://www.linkedin.com/in/vladmartynov/) – May 2016 to present?
+- [Vladislav Martynov](https://www.linkedin.com/in/vladmartynov/) – May 2016 to May 2019
 
 ## June 2016
 - [Everton Fraga](https://www.linkedin.com/in/evertonfraga/) – Jun 2016 (maybe) to 2020

@@ -186,7 +186,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Yoichi Hirai](https://www.linkedin.com/in/yoichi-hirai-780567b/) – Sep 2016 to Oct 2018
 
 ## October 2016
-- **[Virgil Griffith](https://www.linkedin.com/in/virgilgr/) – Oct 2016 to present**
+- [Virgil Griffith](https://www.linkedin.com/in/virgilgr/) – Oct 2016 to Nov 2019
 - **[Patrick Karl Storchenegger](https://www.moneyhouse.ch/en/person/storchenegger-patrick-karl-61252579401) – Oct 2016 to present**
 
 ## December 2016

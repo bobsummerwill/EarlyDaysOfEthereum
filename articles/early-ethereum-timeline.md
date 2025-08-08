@@ -22,7 +22,9 @@ See also the partial public histories in:
 
 - **Who were the Founders of Ethereum?**
   - [Reddit Discussion](https://www.reddit.com/r/ethereum/comments/5w9i0j/who_are_the_founders_of_ethereum/?st=japhmhor&sh=594afb35)
-  - Old photo of website shows a selection of the early [People](https://doublethinkco.atlassian.net/wiki/spaces/TFT/pages/1245795/People) ([Image](https://imgur.com/a/OBYqj))
+
+![Image](https://i.imgur.com/txxPTG4.png)
+  (Old photo of ethereum.org website shows a selection of the early people)
 
 - **Introducing Ethereum, 23rd Jan 2014**
   - [YouTube Video](https://www.youtube.com/watch?v=q5FDvzj8YX4)
@@ -37,7 +39,7 @@ See also the partial public histories in:
 
 (The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)
 
-(this image is from [Visions of Ether](https://tokeneconomy.co/visions-of-ether-590858bf848e) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
+(this image is from [Visions of Ether](https://archive.ph/xqce1) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
 - **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
   - [Vimeo Video](https://vimeo.com/92563841)

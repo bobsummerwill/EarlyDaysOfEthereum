@@ -33,6 +33,12 @@ See also the partial public histories in:
 
 - **Beach house in Miami in February, where first face-to-face development happened.**
 
+-- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/miami/miami-group-shot.webp)
+
+(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)
+
+(this image is from [Visions of Ether](https://tokeneconomy.co/visions-of-ether-590858bf848e) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
+
 - **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
   - [Vimeo Video](https://vimeo.com/92563841)
 

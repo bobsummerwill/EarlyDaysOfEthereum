@@ -125,9 +125,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## December 2014
 - [Arkadiy Paronyan](https://www.linkedin.com/in/arkadiy-paronyan-a1882514/) – Dec 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s))
+- [Dimitry Kholkov](https://www.linkedin.com/in/dimitry-kh-a001185b/) (“[winsvega](https://github.com/winsvega)”) – Dec 2014 to Jun 2025
 
 ## January 2015
-- **[Dimitry Kholkov](https://www.linkedin.com/in/dimitry-kh-a001185b/) (“[winsvega](https://github.com/winsvega)”) – Jan 2015 to present**
 - [Fabian Vogelsteller](https://www.linkedin.com/in/fabian-vogelsteller-46365042/) (“[frozeman](https://github.com/frozeman)”) – Jan 2015 to Aug 2018
 - [Liana Husikyan](https://www.linkedin.com/in/liana-husikyan-b3a2a54/) – Jan 2015 to around June 2016
 

@@ -36,12 +36,12 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Jeremy Wood](https://www.linkedin.com/in/jeremykwood/) – Dec 2013 to May 2014 (executive assistant to Charles)
 - [Amir Chetrit](https://angel.co/amir-chetrit) – Dec 2013 to May 2014 **(co-Founder)**
 - [Jonathan Mohan](https://www.linkedin.com/in/jonathanmohan/) – Dec 2013 to Jun 2014
+- [Anthony DOnofrio](https://www.linkedin.com/in/anthony-donofrio-23036660/) (“Texture”) – Dec 2013 to ???
 
 ## January 2014
 - [Joseph Lubin](https://www.linkedin.com/in/joseph-lubin-48406489/) – Jan 2014 to May 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m7s)) **(co-Founder)**
 - [Jason Colby](https://www.linkedin.com/in/jasoncolbyethereum/) – Jan 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m26s))
 - [Stephan Tual](https://www.linkedin.com/in/stephantual/) – Jan 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m15s))
-- [Anthony DOnofrio](https://www.linkedin.com/in/anthony-donofrio-23036660/) (“Texture”) – Jan 2014 to ???
 - [Roxana Sureanu](https://www.linkedin.com/in/roxana-adriana-sureanu-13a6b791/) – Jan 2014 to July 2015
 - [Steven Nerayoff](https://www.linkedin.com/in/nerayoff/) – Jan 2014 to Dec 2014
 - [Mathias Grønnebæk](https://www.linkedin.com/in/mathiasg/) – Jan 2014 to Oct 2014

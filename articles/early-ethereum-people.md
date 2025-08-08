@@ -28,6 +28,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## December 2013
 - [Gavin Wood](https://www.linkedin.com/in/gavin-wood-88843316/) (“[gavofyork](https://github.com/gavofyork)”) – Dec 2013 to Oct 2015 ([DEVCON0](https://www.youtube.com/watch?v=_BvvUlKDqp0)) **(co-Founder)**
+- Jeff Wilcke (“[obscuren](https://github.com/obscuren)”) – Dec 2013 to Feb 2017 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?si=1RLejjvbxhIn1sDP&t=2018)) **(co-Founder)**
 - [Taylor Gerring](https://www.linkedin.com/in/taylorgerring/) (“[tgerring](https://github.com/tgerring)”) – Dec 2013 to Dec 2016
 - [Anthony di Iorio](https://www.linkedin.com/in/anthonydiiorio1/) – Dec 2013 to Dec 2015 **(co-Founder)**
 - Nancy Wu – Dec 2013 to Dec 2015 (early founding member)
@@ -223,4 +224,3 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - Are there any other key characters who were are missing here?
 - Viktor Tron says he has corrected/updates and will do those when this is on Github.
 - Missing axic
-- Missing Jeff Wilcke!

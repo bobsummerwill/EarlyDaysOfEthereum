@@ -1,7 +1,5 @@
 # Ethereum Foundation Timeline
 
-*Any help with the accuracy of this public record much appreciated. I will Github it sometime.*
-
 This is an attempt by [Bob Summerwill](https://bobsummerwill.com/about) (along with [Ethereum Foundation People](https://bobsummerwill.com/ethereum-foundation-people/)) at building up some canonical history of the Ethereum Project and the Ethereum Foundation.
 
 See also the partial public histories in:

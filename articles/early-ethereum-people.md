@@ -8,8 +8,6 @@
 
 In February 2020, I learnt that the BitcoinTalk announcement of the Ethereum project was modified 8 months after the fact to write various people out of the history, which is very sad. Compare and contrast the [original post](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) with the [current post](https://bitcointalk.org/index.php?topic=428589.0). See also [original website team page](https://web.archive.org/web/20150214231051/https://blog.ethereum.org/team/).
 
-*Help with accuracy of this public record much appreciated. I will Github it sometime.*
-
 This is a catalog of everybody who has been involved with the Ethereum Project in the phase **prior** to the creation of the Ethereum Foundation, or involved with the Ethereum Foundation after that was incorporated.
 
 For simplicity, I am also including individuals here who were employed or contracted by Ethereum DEG UG (Berlin) and other Ethereum project legal entities in Amsterdam, London, etc. These people (including the author) were never directly employed by the EF in a strict legal sense, but for all practical purposes did “work for the Ethereum Foundation”, as they were working part-time or full-time on the project with that work being funded by the EF.

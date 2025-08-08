@@ -80,7 +80,7 @@ See also the partial public histories in:
 
 - **ÐΞVcon-0 conference in Berlin**
   - [Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0), 24th Nov 2014
-  - [ÐΞVcon-0 Recap](https://blog.ethereum.org/2014/12/05/d%CE%BEvcon-0-recap/), 12th Dec 2014
+  - [ÐΞVcon-0 Recap](https://blog.ethereum.org/2014/12/05/devcon-0-recap/), 12th Dec 2014
 
 - **Gavin Wood – Allegality – Systems Which Cannot Care, 10th Dec 2014**
   - [YouTube Video](https://www.youtube.com/watch?v=WdgQI6CA4-E)
@@ -88,7 +88,7 @@ See also the partial public histories in:
 ## Timeline 2015
 
 - **Gav’s Ethereum ÐΞV Update V, 2nd March 2015**
-  - [Blog Post](https://blog.ethereum.org/2015/03/02/gavs-ethereum-d%CE%BEv-update-v/)
+  - [Blog Post](https://blog.ethereum.org/2015/03/02/gavs-ethereum-dev-update-v/)
 
 - **The Ethereum Launch Process, Vinay Gupta, 3rd March 2015**
   - [Blog Post](https://blog.ethereum.org/2015/03/03/ethereum-launch-process/)

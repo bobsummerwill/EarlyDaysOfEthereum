@@ -18,7 +18,7 @@ This is an ongoing project and all contributions towards this public record are 
 - [Early Days of Ethereum](https://www.youtube.com/watch?v=EuXc6WPrK_k) - released 28th August 2023
 - [Early Days of Ethereum - part II](https://youtu.be/b0jpu6be4lI?si=yi4z6XZHt3127CnK) - released 9th October 2023
 - [Early Days of Ethereum - part III ft Bob Summerwill](https://youtu.be/BDs4bDHZO1Q?si=CwxjMbWZZzjl2XS9) - released 8th November 2023
-- [Early Days of Ethereum - part IV ft Taylor Gerring](https://www.youtube.com/watch?v=dbcFifV_yVo) - released 7th August 2025
+- [Early Days of Ethereum - part IV ft Taylor Gerring](https://www.youtube.com/watch?v=24A8B9IgfLQ) - released 8th August 2025
 
 # Back story
 

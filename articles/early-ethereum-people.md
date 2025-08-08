@@ -223,3 +223,4 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - Are there any other key characters who were are missing here?
 - Viktor Tron says he has corrected/updates and will do those when this is on Github.
 - Missing axic
+- Missing Jeff Wilcke!

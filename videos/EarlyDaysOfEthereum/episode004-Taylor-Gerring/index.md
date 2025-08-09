@@ -5,4 +5,6 @@ After a long hiatus since [Episode III](https://github.com/bobsummerwill/EarlyDa
 
 Ethereum OG and "co Founder" [Taylor Gerring](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/people/TaylorGerring/index.md) joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 
+Bob Summerwill hosted this episode with [Kieren James-Lubin](https://x.com/kjameslubin) commenting a few times.  Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
+
 [![Watch The Early Days of Ethereum Part IV](https://img.youtube.com/vi/24A8B9IgfLQ/0.jpg)](https://www.youtube.com/watch?v=24A8B9IgfLQ)

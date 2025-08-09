@@ -1,7 +1,7 @@
 ## Early Days of Ethereum
 ### Episode IV featuring Taylor Gerring - released 8th August 2025
 
-After a long hiatus since [Episode III](https://bobsummerwill.com/2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/) in November 2023, we returned with another episode of The Early Days of Ethereum.
+After a long hiatus since [Episode III](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/videos/EarlyDaysOfEthereum/episode003/index.md) in November 2023, we returned with another episode of The Early Days of Ethereum.
 
 Ethereum OG and "co Founder" [Taylor Gerring](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/people/TaylorGerring/index.md) joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 

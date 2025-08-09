@@ -17,7 +17,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 **Bold names** are still associated with the Ethereum Foundation or other legal entities.
 
 ## Pre-Ethereum
-- [Amir Taaki](https://twitter.com/Narodism) (“Anarchist Amir” to Amir Chetrit’s “Capitalist Amir, Gav met Johnny through Amir Taaki).
+- [Amir Taaki](https://twitter.com/Narodism) (“Anarchist Amir“ to Amir Chetrit’s “Capitalist Amir“, Gav met Johnny through Amir Taaki).
 - [Jonathan James Harrison](https://youtu.be/QCVjk_PU-1U?t=760) (“Johnny Bitcoin”) who [“gave Gav the heads-up”](https://twitter.com/BobSummerwill/status/1060955276096892928) in late 2013.
 - [Yanislav Malahov](https://www.linkedin.com/in/%F0%9F%A6%B8%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8Fyanislav-malahov-5025b712/) – the [“Godfather of Ethereum”](https://yanislav.medium.com/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5).
 

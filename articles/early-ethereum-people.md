@@ -22,7 +22,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Yanislav Malahov](https://www.linkedin.com/in/%F0%9F%A6%B8%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8Fyanislav-malahov-5025b712/) – the [“Godfather of Ethereum”](https://yanislav.medium.com/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5).
 
 ## November 2013
-- **[Vitalik Buterin](https://vitalik.ca/) (“[vbuterin](https://github.com/vbuterin)”) – Nov 2013 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m)) **(co-Founder)**
+- **[Vitalik Buterin](https://vitalik.eth.limo/) (“[vbuterin](https://github.com/vbuterin)”) – Nov 2013 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m)) **(co-Founder)**
 
 ## December 2013
 - [Gavin Wood](https://www.linkedin.com/in/gavin-wood-88843316/) (“[gavofyork](https://github.com/gavofyork)”) – Dec 2013 to Oct 2015 ([DEVCON0](https://www.youtube.com/watch?v=_BvvUlKDqp0)) **(co-Founder)**

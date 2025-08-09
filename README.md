@@ -10,7 +10,7 @@ This is an ongoing project and all contributions towards this public record are 
 
 - [Early Days of Ethereum People](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/articles/early-ethereum-people.md) - released 7th August 2025
 - [Early Days of Ethereum Timeline](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/articles/early-ethereum-timeline.md) - released 7th August 2025
-- [Early Days of Ethereum Videos - Notes on episodes I and II](https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/) - released 17th October 2023
+- [Early Days of Ethereum Videos - Notes on episodes I and II](https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/) - released 10th November 2023
 - [Early Days of Ethereum Videos - Notes on episode III](https://bobsummerwill.com/2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/) - released 17th October 2023
 
 # Videos

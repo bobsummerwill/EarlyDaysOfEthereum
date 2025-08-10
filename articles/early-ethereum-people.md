@@ -146,7 +146,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## July 2015
 - [Ming Chan](https://www.linkedin.com/in/mingchan88/) – Jul 2015 to Jan 2018
 - [Tung Chan](https://www.linkedin.com/in/tung-chan-b652914/) – Jul 2015 to Apr 2018
-- [William Mougayar](https://www.linkedin.com/in/williammougayar/) – Jul 2015 to Feb 2017
+- [William Mougayar](https://x.com/wmougayar) – Jul 2015 to Feb 2017
 
 ## August 2015
 - [Jacob Stenum Czepluch](https://www.linkedin.com/in/jacobstenumczepluch/) – Aug 2015 to Dec 2015

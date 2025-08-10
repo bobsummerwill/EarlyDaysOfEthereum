@@ -152,13 +152,13 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Jacob Stenum Czepluch](https://www.linkedin.com/in/jacobstenumczepluch/) – Aug 2015 to Dec 2015
 
 ## September 2015
-- [Stefano Bartolo](https://twitter.com/sclopit) – Sep 2015 to unknown?
+- [Stefano Bartolo](https://twitter.com/sclopit) – Sep 2015 to Feb 2017
 
 ## October 2015
 - [Bernd Lapp](https://www.linkedin.com/in/berndlapp/) – Oct 2015 to Feb 2017
 
 ## December 2015
-- [Yessin Schiegg](https://www.linkedin.com/in/yessin-schiegg-9558a017/) – Dec 2015 to Feb 2017
+- [Yessin Schiegg](https://x.com/yessinschiegg) – Dec 2015 to Feb 2017
 
 ## February 2016
 - [Bob Summerwill](https://www.linkedin.com/in/bobsummerwill/) – Feb 2016 to Oct 2016

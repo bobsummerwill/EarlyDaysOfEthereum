@@ -161,6 +161,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Yessin Schiegg](https://x.com/yessinschiegg) – Dec 2015 to Feb 2017
 
 ## February 2016
+- [Alex Beregszaszi](https://www.linkedin.com/in/alexberegszaszi) – Jan 2016 to present?
+
+## February 2016
 - [Bob Summerwill](https://www.linkedin.com/in/bobsummerwill/) – Feb 2016 to Oct 2016
 - [David Ben Kay](https://www.linkedin.com/in/davidbenkay/) – Feb 2016 to Dec 2016
 
@@ -221,6 +224,6 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - “Nora”
 - Are there any other key characters who were are missing here?
 - Viktor Tron says he has corrected/updates and will do those when this is on Github.
-- Missing axic
 - Nick Fierro mentioned by Taylor
 - Toya Budunguud - volunteer at devcon2, effectively assistant to Ming for devcon3 prep
+- Lorenzo Patuzzo, carpenter

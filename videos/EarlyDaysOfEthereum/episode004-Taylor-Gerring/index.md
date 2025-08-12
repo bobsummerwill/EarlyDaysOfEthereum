@@ -65,11 +65,15 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 One thing I like to point out is that conference there's some photos some of which I took and some of which others took but the way the story goes is that room was standing room only he was in to give the announcement of Ethereum and then afterwards the questions kept coming in and kept coming in and the organizers had to ask him to step outside and I just remember these photos of like him being mobbed by a group of people just wanting to ask them questions.  I think Joe Lubin was standing right there. Probably Anthony Di Iorio was probably real close. But that's a very iconic picture in my mind, at least.
 
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.26.jpeg)
+
 But anyway, the house that Anthony Di Iorio had organized became kind of the hub and the central place where we all gathered around.  I think Jonathan Monaghan? Mohan?
 
 **Bob:** Mohan, yeah.
 
 **Taylor:** He was doing some recording stuff there. I remember Charles Hoskinson being there out on the back patio with Joe and Vitalik.  I was in my photography era, so I was doing more photo taking. But I didn't know where to sleep, and I had brought a hammock down with me.  And so I ended up sleeping in the backyard on a hammock between two trees, looking out over the canal that ran past the house for two nights.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.25.jpeg)
 
 **Bob:**  Nice. Yeah. Same with that iconic photograph. I can't remember the guy's name now, but at some point I met the guy who had the speaking slot after Vitalik.  And he said "... and everyone just sodded off!"  It's like nobody left in the room for him.
 
@@ -77,19 +81,37 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 **Bob"**  Yeah. So, yeah, saying about a great number of photos from January, March through July of 2014.  If you look on my Twitter thread from yesterday, I linked to some of those.
 
+*(Since this interview, Bob has started gathering all of Taylor's photos from 2014 into a new [page on this site](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/articles/taylorgerring-photos.md). Original Twitter posts are [JAN-FEB 2014](https://x.com/TaylorGerring/status/1948427437731193004), [MAR 2014](https://x.com/TaylorGerring/status/1948429487252644114) and [APR-JUL 2014](https://x.com/TaylorGerring/status/1948430165794566358))*
+
 **Taylor:**  It was a really interesting time I don't think anybody really knew what was going on I just felt like documenting as much as I could while I was there was like the way to do it because everybody was just living in the moment
 
 **Kieren:** I think Bob's audio was glitching for a little bit and now he's muted again can everyone hear me?
 
-**Bob:** Oh I'm back.  I was just saying on that thread on the photo thread that you got, Taylor, that was that sort of iconic everyone crowding around Vitalik yeah with Anthony and Joe there and then some photos on you on the back patio.  Then there's that group shot with everyone there and some other bits and pieces so so yeah it's saying February the 9th was the day that we arrived in Europe so that's where the Zug adventure began?
+**Bob:** Oh I'm back.  I was just saying on that thread on the photo thread that you got, Taylor, that was that sort of iconic everyone crowding around Vitalik yeah with Anthony and Joe there and then some photos on you on the back patio.  Then there's that group shot with everyone there and some other bits and pieces.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg)
+
+*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
+
+**Bob:**  So yeah it's saying February the 9th was the day that we arrived in Europe so that's where the Zug adventure began?
 
 **Taylor:**  Yeah, it would be interesting to go back and check the actual timeline. I felt like things happened kind of fast.  Where we landed in Zug was, I mean, we landed in Zurich, but then we took the train to a small farm town called Meierskoppel. And there was a handful group there that was just staying on Airbnb.  And I went along with my friend Nick Fierro, who kind of came with me. We met up in, I think, Germany somewhere and continued on to Zurich.  But we landed there, and it was just very chaotic in the sense that nobody had a good sense of what was happening, on what timeline, for what reason, you know, whether it was just sleeping quarters or getting the website online or who was arriving.
 
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg)
+
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_ian_meikle.png)
+
+*(Ian Meikle, from https://duncan.co/ethereum/)*
 
 **Bob:**  Richard Wild?
 
 **Taylor:**  Richard Wild. That's right. Richard was actually the first one who was introduced to the project.  He brought Ian along. And I think Ian ended up sticking around longer.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_richard_wild.png)
+
+*(Taylor and Richard Wild, from https://duncan.co/ethereum/)*
 
 **Bob:** Yeah. Though he wasn't originally called Wild. Funny little tidbit. That's actually his wife's surname that he took when they got married. I forget her name, though.
 
@@ -115,21 +137,30 @@ One of the things I one of the fun stories I remember is dealing with the German
 
 Thinking about setting up a server for Gavin.  We were crammed in a tiny little apartment and he wanted something set up and i didn't do it fast enough and i definitely heard a little bit from him and i probably could have been faster but i didn't realize he was kind of just waiting on the other end for me.  So yeah it was it was just very interesting.  I was in my own little bubble with the Switzerland crew but then uh gosh it was probably only a few weeks before we got moved up and out into a larger house and and things became much more complicated much more quickly.
 
-Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb.
+Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.20.jpeg)
 
 **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 
 **Bob:** Right.  Then I'm just looking in March, the March photos. "Charles bought dinner for 10 people on March 1st". Watching Fight Club.
 
+TODO - Add photo
+
 **Taylor:** You know, like looking back, And one thing that kind of stands out to me is it was definitely like a ragtag team of people there and trying to figure out what we were doing. Like this became a constant like wedge in the group is like what our contribution was, right, from a code perspective.  And I was responsible for the website stuff. So I think to our credit, getting the team kind of motivated up and going to go from we just met and within a couple of few weeks here, we started spinning prototypes of the website and working together in our different capacities to kind of get this machine in motion and prepared for what would eventually become the crowd sale.  It was like kind of no small task, I guess, just having to learn how to get together and figure out your skills and know how you're going to plug into the rest of the global organization.
 
-But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site. And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
+But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/internetarchive/internetarchive_snapshot_ethereum.org_2014.02.08.png)
+
 
 **Bob:** I believe that at the Miami time or shortly afterwards it was announced that the crowdsale would happen within a month or two months, it was like a really super short timeline that was thought at that point but then yeah, I guess all of that got delayed both with technical and more importantly legal concerns.
 
+*(As per Cryptopians, the crowdsale was slated for 1st February 2024, almost immediately after the Miami conference.  That was delayed on 26th January 2014, as soon as the conference ended)*
+
 **Taylor:** Yeah getting kind of our legal footing where we as a team felt comfortable proceeding.  And it wasn't just like one or two guys, right?  You have to get, you know, 8, 10, 12 leaders going in the right same direction and get them to agree when they want vastly different things.  But, yeah, it was like I think way back then the whole joke was two weeks, right? two weeks, two weeks, two weeks. Everything was two weeks away. And two weeks eventually turns into months and months. Because the crowdsale wasn't until what, June, July?
 
-**Bob:**  I think July or September.
+**Bob:**  I think July or September *(Edit - it was actually July and August)*
 
 **Kieren:** And it ran for like 49 days or something like that. So I was like in New York for the later part of this time.  And it was funny to have the sort of stiff attorneys come by what was then our Times Square office, which I was there with Joe and Jonathan Mohan and Stephen Narayoff (now infamous).  And, yeah, I think there was always this, like, global communication going on. And, like, on the one hand, I think everyone was massaging the stiff law firm into, you know, what the parameters needed to be and the opinion letter and so on and so forth.  And, you know, I think from a capability perspective, technically, that was probably running faster. Although we were not – I think Joe spent a ton of time on, like, the terms of service and the docs and did a lot of the support during the crowd sale.
 
@@ -139,7 +170,9 @@ But, yeah, it was like the app was being developed. Who built the app that gener
 
 **Kieren:**  Damn, that might be right. He might have gone in. Did he go to work at ConsenSys afterwards? I think that might have been the case, but I could be misremembering.
 
-**Taylor:**  Because he wrote the EthStats app, I thought.
+*(Edit - his name is actually Marian Oancea and he is listed on the [People page](https://github.com/bobsummerwill/EarlyDaysOfEthereum/blob/main/articles/early-ethereum-people.md))*
+
+**Taylor:**  Because he wrote the [EthStats app](https://ethstats.dev/), I thought.
 
 **Kieren:**  I think that's right, too. Yeah. EthStats app. I forgot about that.
 
@@ -183,7 +216,7 @@ So it's a really hard thing to do. I mean, other industries certainly, like, the
 
 I mean it's kind of what we joke we call Web3 but I think it had a more concrete idea way back when which was like Web2 but decentralized.  Something that wasn't controlled and owned by the corporations or had more like anonymous abilities so that we could continue to communicate online without having to worry about like a real ID or anything like this.  So I think it was a lot closer to the Cypherpunk ideal of like maintaining free and open access of the internet for everybody, was kind of the core tenets that I felt most passionate about with respect to Ethereum, far more so than building prediction markets or like a CryptoKitties.  Not that those things aren't interesting but that was'nt necessarily my focus.  My focus was on how do we maintain an open Internet in light of the fact that we have corporations and governments that would like to apply censorship and control over it
 
-**Bob:**  Yeah. Yeah. So, I mean, those three sub protocols were Ethereum, you know, so your decentralized compute. Swarm. So Swarm is your decentralized storage with incentives layer on top of it. And then Whisper was the decentralized messaging. So Whisper kind of died. It didn't really work.  It turns out there's a successor to that called Waku, which Status have been developing for a good amount of time. Swarm is still going, but has ended up being very little used. IPFS really seemed to win there. Apart from it hadn't got the incentive layer, which is what Filecoin is trying to build on top of that. I think it's sort of like, with all of these things you could do with decentralized anything, right? That you could have your smart contracts executing your logic that decentralized storage could store like your web content, you know, that you have a hosted front end that was all kind of within that kind of system, you know, like a BitTorrent-y kind of thing, but with incentives and then that messaging there.  So yeah, that was really exciting to me as well because it's like, oh, here's like a computer. Here's a platform and you can do all of the things that you could do with a Web2, but in a completely unstoppable way with built-in payments and you can build whatever incentive mechanism you like.  Texture talked about like a social operating system. A societal operating system.
+**Bob:**  Yeah. Yeah. So, I mean, those three sub protocols were Ethereum, you know, so your decentralized compute. Swarm. So Swarm is your decentralized storage with incentives layer on top of it. And then Whisper was the decentralized messaging. So Whisper kind of died. It didn't really work.  It turns out there's a successor to that called Waku, which Status have been developing for a good amount of time. Swarm is still going, but has ended up being very little used. IPFS really seemed to win there. Apart from it hadn't got the incentive layer, which is what Filecoin is trying to build on top of that. I think it's sort of like, with all of these things you could do with decentralized anything, right? That you could have your smart contracts executing your logic that decentralized storage could store like your web content, you know, that you have a hosted front end that was all kind of within that kind of system, you know, like a BitTorrent-y kind of thing, but with incentives and then that messaging there.  So yeah, that was really exciting to me as well because it's like, oh, here's like a computer. Here's a platform and you can do all of the things that you could do with a Web2, but in a completely unstoppable way with built-in payments and you can build whatever incentive mechanism you like.  Texture [talked about it like a social operating system](https://x.com/iamtexture/status/950400638034198528).   A societal operating system.
 
 **Taylor:** Do you or Kieren or anybody else up here, does anyone feel that Ethereum didn't accomplish what it set out to accomplish in light of the fact that we really just shipped the compute layer?  Do we miss the mark in any way?
 
@@ -205,7 +238,9 @@ But, you know, that stuff just, I think, was quite naive because the cost and ov
 
 **Taylor:**  I hold Apple partially responsible for making such good laptops that everybody started switching over to laptops. I think way back then, a lot more people had desktops. The idea of having idle storage and compute just sitting there was a greater thing.  But now that a lot of people, myself included, don't even really bust out the laptop.  I live on my phone, work on my phone, and there's no good way to support the network as a server client on the phone.  So to some degree, it feels like the mobilification of all of our devices is to blame for some of those original ideas not panning out as we had hoped.
 
-**Bob:**  Yeah, I'd agree. I mean, the first thing I was doing on Ethereum was doing ARM Linux cross builds to get a client running on smartphones, smartwatch, Raspberry Pi and all of that.  And I had the real naive view at that point. It's like, all right, yeah, just got it working. And, you know, there'll be some like client thing. And, you know, you can just do everything, right. And this will just be like a background task or, hey, you know, we're defining this protocol.  And like Ethereum will just be a protocol that will just be in operating systems it will just be part of the Linux you know part of the Linux distro you know you just write yeah you've got Ethereum running in the background and you know off you go and that absoultely didn't take off in the way that it was originally envisioned I don't think.
+**Bob:**  Yeah, I'd agree. I mean, the first thing I was doing on Ethereum was doing [ARM Linux cross builds](https://github.com/doublethinkco/cpp-ethereum-cross) to get a client running on smartphones, smartwatch, Raspberry Pi and all of that.  And I had the real naive view at that point. It's like, all right, yeah, just got it working. And, you know, there'll be some like client thing. And, you know, you can just do everything, right. And this will just be like a background task or, hey, you know, we're defining this protocol.  And like Ethereum will just be a protocol that will just be in operating systems it will just be part of the Linux you know part of the Linux distro you know you just write yeah you've got Ethereum running in the background and you know off you go and that absoultely didn't take off in the way that it was originally envisioned I don't think.
+
+![image](https://camo.githubusercontent.com/2d3ca9609b5da22f41292f280f46df3f5f7ce6742afbf69aa5976fef36cbe332/68747470733a2f2f646f75626c657468696e6b636f2e66696c65732e776f726470726573732e636f6d2f323031352f31312f32303135313132305f3038333932362e6a70673f773d373838)
 
 And the DAO question I think maybe it's as simple as that people don't care about lots of things, right?  It's kind of like having a job, having to participate in a DAO. You have to try and understand what's going on. Like, you know, I think that's a human scaling thing, right? It was a sort of a, we don't like hierarchy kind of naivety.  You know, like hierarchies are a scaling mechanism. They help us solve large scale problems by breaking things up. I think having hierarchies that you can never change and be powerless within is a terrible thing, but hierarchies per se, I think are very useful.
 
@@ -221,11 +256,17 @@ And the DAO question I think maybe it's as simple as that people don't care abou
 
 So I think just kind of the frustrations rose and it got to a point where some hard decisions had to be made because the organization definitely was not moving forward.  Charles, I think on his part, was a little bit more on the let's set this up like Google, and make it a corporation, and I was definitely more on the side of open source and making it available to everybody.  So I don't know what kind of, like, weight that had in Vitalik's head when he was making his decisions, but it felt like, to me, in hindsight, it felt like a huge exhale after that whole incident happened.
 
-I feel like looking at the photos, you see pictures of, like, how much money we think we're going to get, what we think we're going to do with those funds. We started imagining up these DAO sort of ideas, really started moving forward on a lot of things where it felt like we were kind of locked within the grasp of each other trying to duke it out on who was going to win politically inside the org. I remember the day being very, very uncomfortable.  Everybody had come to Zug.  There were girlfriends and partners there in addition to just the people involved with Ethereum.  And it was just very uncomfortable for a very long time. It was an emotionally exhausting day.
+I feel like looking at the photos, you see pictures of, like, how much money we think we're going to get, what we think we're going to do with those funds. We started imagining up these DAO sort of ideas, really started moving forward on a lot of things where it felt like we were kind of locked within the grasp of each other trying to duke it out on who was going to win politically inside the org.
+
+![image](https://pbs.twimg.com/media/FUvXdOyWQAAElYL?format=jpg&name=4096x4096)
+
+I remember the day being very, very uncomfortable.  Everybody had come to Zug.  There were girlfriends and partners there in addition to just the people involved with Ethereum.  And it was just very uncomfortable for a very long time. It was an emotionally exhausting day.
 
 And I think I have a picture of being on the back patio where we kind of all crammed in while Vitalik was just, like, on the front patio walking around trying to make his decision.  And it was entirely up to him at that point. So who knows what would have happened if he had made the decision any other way. I like to think that by choosing to put Stephan and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered.  And maybe it would have gotten delivered anyway, but I don't know. I feel like making that change when that happened is what ultimately enabled us to ship Ethereum in a relatively on-time way and doing what we all promised it would do.
 
-***Bob:** So just to ask a little beyond that, so when that decision had been made, so the Ethereum Foundation was that legal entity set up in Switzerland and you were one of three directors at that point?
+![image](https://pbs.twimg.com/media/FUKp5AtX0AEL20b?format=jpg&name=4096x4096)
+
+**Bob:** So just to ask a little beyond that, so when that decision had been made, so the Ethereum Foundation was that legal entity set up in Switzerland and you were one of three directors at that point?
 
 **Taylor:**  Yeah, at first it was just Vitalik, Mihai, and myself were the three people. Part of that was because we were the only three people physically present in Switzerland at the time.  Everybody else was remoted in. And it just made things a lot more concrete to be signing a wet pen on a tree, the people who were physically located inside the municipality.  I served in that position for, I don't know, probably a few months, a handful of months before, you know, just truth be told, no shade at Gavin.  We buried the hatchet as far as I'm aware. But, you know, Gavin was pushing very, very hard to not have Mihai and myself be involved on the board. And he eventually won that battle of attrition.
 
@@ -235,19 +276,31 @@ Switzerland was treating us really, really well up until that point and they off
 
 **Bob:**  So yeah. So, not to go on too much longer, but the next phase was the phase of Ming.  So, Ming arrived in 2015, right?
 
-**Taylor:** Ming arrived. She cleared out some of the cruft, which I think was very necessary. A lot of people still had ties with the organization but weren't as actively involved.  To a degree, myself included with that. My role kept changing with the org. First, it was scaling the initial website. Then it was the crowdsale.  Then I started helping on doing not QA work, but unit testing work on the go-ethereum clients.  So doing some coding there, writing the first complete RPC implementation was my responsibility, least some of the terrible namings of the functions. You can definitely blame me for those.  Then eventually kind of like traveling around the world and speaking in places that Vitalik was too busy for or didn't desire to go to, I would kind of go do those talks. So my role had kept shifting and I wasn't the only one that maybe some of the positions that were valuable in the earliest of days were no longer as valuable and she kind of had to come and clean house a little bit. And, you know, to her credit, she did what she needed to do at that time.
+**Taylor:** [Ming arrived](https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director). She cleared out some of the cruft, which I think was very necessary. A lot of people still had ties with the organization but weren't as actively involved.  To a degree, myself included with that. My role kept changing with the org. First, it was scaling the initial website. Then it was the crowdsale.  Then I started helping on doing not QA work, but unit testing work on the go-ethereum clients.  So doing some coding there, writing the first complete RPC implementation was my responsibility, least some of the terrible namings of the functions. You can definitely blame me for those.  Then eventually kind of like traveling around the world and speaking in places that Vitalik was too busy for or didn't desire to go to, I would kind of go do those talks. So my role had kept shifting and I wasn't the only one that maybe some of the positions that were valuable in the earliest of days were no longer as valuable and she kind of had to come and clean house a little bit. And, you know, to her credit, she did what she needed to do at that time.
 
-**Bob:**  Yeah, I mean, there was a lot of spending, wasn't there? I mean, I ended up joining the EF in January, February 2016, which was maybe about seven months after she'd joined, really as a consequence of the C++ team being cut, you know, and then because I think at that point there only like four months of runway left at one point there, with the spending rate there was and ETH price has not even really taken off since the crown sale.  So it was, you know, that was actually when Whisper and Swarm both got their budgets cut entirely at that point, along with the C++ team, getting rid of the spaceship and various other bits and pieces.
+**Bob:**  Yeah, I mean, there was a lot of spending, wasn't there? I mean, I ended up [joining the EF in January, February 2016](https://bobsummerwill.com/2016/02/10/dream-job-working-for-ethereum-foundation/), which was maybe about seven months after she'd joined, really as a consequence of the C++ team being cut, you know, and then because I think at that point there only like four months of runway left at one point there, with the spending rate there was and ETH price has not even really taken off since the crown sale.  So it was, you know, that was actually when Whisper and Swarm both got their budgets cut entirely at that point, along with the C++ team, getting rid of the spaceship and various other bits and pieces.
 
-So, yeah, maybe just one last piece then is, later there in 2015, you had DEVCON1, which was the very first public conference there in London, which nearly didn't happen because of that running out of money.  And my understanding is really that Joe and Andrew of ConsenSys really funded that. So what are your memories of that first conference?  How was it to have a big public conference and people interested and some big companies represented as well?
+So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCON1](https://archive.devcon.org/watch/?event=devcon-1&sort=eventId&order=desc), which was the very first public conference there in London, which nearly didn't happen because of that running out of money.  And my understanding is really that Joe and Andrew of ConsenSys really funded that. So what are your memories of that first conference?  How was it to have a big public conference and people interested and some big companies represented as well?
+
+![image](https://d.ibtimes.co.uk/en/full/1465178/devcon-1.webp?w=736&f=ed81cfaae45c4d164c0121f363bb4726)
 
 **Taylor:** Yeah.  Your recollection is the same as mine in the sense that ConsenSys definitely carried the weight of that conference in terms of financial and organizational. From my standpoint I remember being so thrilled to have an event that was like all our own we had been crashing you know quote unquote crashing Bitcoin sort of parties which we were feeling less and less welcome to.  Bitcoin Expo 2014 it was like we had a booth there but there was a lot of not concern, not criticism, but like just people were not entirely sure of what we had going on.
 
-DEVCON0 being like an in-house kind of private only event, this was the first time that it felt like showing off a little bit. We had interest from, I think Microsoft was involved as a sponsor.  Fun little fact I had come up with the colored Ethereum logo with Microsoft colors and that ended up being adopted and being used as like a de facto logo for that conference.
+[DEVCON0](https://archive.devcon.org/watch/?event=devcon-0&sort=eventId&order=desc) being like an in-house kind of private only event, this was the first time that it felt like showing off a little bit.
+
+![image](https://pbs.twimg.com/media/D92kBZRXUAIOgkN?format=jpg&name=4096x4096)
+
+**Taylor:** We had interest from, I think Microsoft was involved as a sponsor.  Fun little fact I had come up with the colored Ethereum logo with Microsoft colors and that ended up being adopted and being used as like a de facto logo for that conference.
 
 **Kieren:** That thing was everywhere I didn't know you did that it was all over the place.
 
-**Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that and then we had the big Bitcoiner guy, I can't remember his name off the top of my head.
+**Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that.
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/victorwong/victorwong_devcon1_sticker.jpeg)
+
+*(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo)*
+
+**Taylor**:  And then we had the big Bitcoiner guy, I can't remember his name off the top of my head.
 
 **Bob:**  Nick Szabo
 
@@ -261,7 +314,7 @@ DEVCON0 being like an in-house kind of private only event, this was the first ti
 
 **Kieren:** I have to interject. it felt like during his presentation he strongly implied he invented Bitcoin like he almost put it on the screen you know, like 2003 is the time frame or something he didn't come out and say it but it was funny
 
-**Bob:** Yeah I'm trying to remember what year it was it was like oh 1994 smart contracts were was termed.  Quite a while back.  OK, I think that's maybe a good point to leave it, unless Kieren and Taylor would like to talk a little bit about football.
+**Bob:** Yeah I'm trying to remember what year it was it was like oh [1994 smart contracts were was termed](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html).  Quite a while back.  OK, I think that's maybe a good point to leave it, unless Kieren and Taylor would like to talk a little bit about football.
 
 **Taylor:** I only talk about golf these days.
 

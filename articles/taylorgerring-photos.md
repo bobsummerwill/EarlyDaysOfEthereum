@@ -28,6 +28,10 @@ I have started copying them across into this repository and will add captions to
 
 ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg)
 
+*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
+
+*(This image is from [Visions of Ether](https://archive.ph/xqce1) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))*
+
 ----
 *8 years ago tonight was my last day as a typical Chicagoan. Taken at The Green Lady, I would get far too little sleep for my early flight the next morning. The time could not have come sooner, as I had all but lost my ability to talk about anything except blockchain #MyEthJourney* - 8th February 2014
 

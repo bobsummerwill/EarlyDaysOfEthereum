@@ -26,66 +26,68 @@ I have started copying them across into this repository and will add captions to
 ----
 *Ethereum at the end of January 2014. This photo was *not* taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 28th January 2014
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.28.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.28.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_2.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_3.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_4.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_5.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_6.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.08.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_4.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_5.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_6.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_2.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_3.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_4.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.11.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.10_4.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.11.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_1.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_2.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_2.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_3.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_4.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.12_3.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.14.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.13_4.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.15_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.15_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.14.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.16_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.16_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.15_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.15_2.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.17.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.16_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.16_2.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.18.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.17.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.19.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.18.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.20.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.19.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_2.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_3.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_4.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.20.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.22.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.21_4.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_2.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_3.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_4.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.22.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.24_1.jpeg)
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.24_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_2.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_3.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.23_4.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.25.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.24_1.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.24_2.jpeg)
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.28.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.25.jpeg)
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.28.jpeg)

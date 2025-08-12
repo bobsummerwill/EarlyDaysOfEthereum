@@ -37,7 +37,7 @@ See also the partial public histories in:
 
 *(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
 
-(this image is from [Visions of Ether](https://archive.ph/xqce1) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
+(this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
 - **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
   - [Vimeo Video](https://vimeo.com/92563841)

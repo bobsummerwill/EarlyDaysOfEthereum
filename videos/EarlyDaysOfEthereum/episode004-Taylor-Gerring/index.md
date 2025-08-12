@@ -7,7 +7,7 @@ Ethereum OG and "co Founder" [Taylor Gerring](https://github.com/bobsummerwill/E
 
 Bob Summerwill hosted this episode with [Kieren James-Lubin](https://x.com/kjameslubin) commenting a few times.  Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
-[![Watch The Early Days of Ethereum Part IV](https://img.youtube.com/vi/24A8B9IgfLQ/0.jpg)](https://www.youtube.com/watch?v=24A8B9IgfLQ)
+[![Watch The Early Days of Ethereum Part IV](https://img.youtube.com/vi/24A8B9IgfLQ/0.jpg)](https://www.youtube.com/watch?v=24A8B9IgfLQ)  <-- click to view
 
 ## Transcript
 **Bob:** Welcome everyone, so yeah, really happy to have Taylor Gerring here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, Taylor
@@ -50,9 +50,12 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 **Bob:** No. He was at DEVCON1 doing a talk about Grants actually and I got my name on the screen.  I didn't get to go to London but I was on the screen as a named contributor to EthEmbedded.  But yeah, I didn't see him around in Ethereum that much, much beyond that kind of timeline.
 
+[![Watch DEVCON1: DEVgrants - Wendell Davis](https://img.youtube.com/vi/4jGqmlA4KEY/0.jpg)](https://www.youtube.com/watch?v=4jGqmlA4KEY)  <-- click to view
+
+
 **Taylor:** There's a lot of that, though. A lot of people have, you know, they put in their contribution and they go attend to other aspects of life, right? Life isn't just working about, working on startups.  I mean, some people want to have families and stuff. So, you know, there's a lot of people who have done their thing and gone off to greener pastures, whatever that means for them. And no hard feelings to any of those.  I mean, I find myself in a similar space where I'm not contributing like I once was and trying to enjoy other facets of life. but I think it's just part of the natural cycle of things.
 
-**Bob:** Yeah, yeah, for sure. I mean, like I was saying on that Twitter thread last night, I think a crazy project I could do at some point would be trying to talk to and interview all of these early contributors, you know, 80 or 100 people.  Many forgotten to the mists of time and many of those have probably never been really asked about their story or their experience.
+**Bob:** Yeah, yeah, for sure. I mean, like I was saying on [that Twitter thread last night](https://x.com/BobSummerwill/status/1952898609542021402), I think a crazy project I could do at some point would be trying to talk to and interview all of these early contributors, you know, 80 or 100 people.  Many forgotten to the mists of time and many of those have probably never been really asked about their story or their experience.
 
 **Taylor:** Yeah and kind of to your point, it would be great to capture that because especially with 10 years in the past I know not all these memories are being perfectly remembered.  You know our brains are kind of faulty and it'd be nice to get some of it down in video or or books or whatever just to capture all that for future posterity
 

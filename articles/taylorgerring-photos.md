@@ -24,9 +24,9 @@ I have started copying them across into this repository and will add captions to
 -- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.27.jpeg)
 
 ----
-*Ethereum at the end of January 2014. This photo was *not* taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 28th January 2014
+*Ethereum at the end of January 2014. This photo was *not* taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 31st January 2014
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.28.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg)
 
 ----
 *8 years ago tonight was my last day as a typical Chicagoan. Taken at The Green Lady, I would get far too little sleep for my early flight the next morning. The time could not have come sooner, as I had all but lost my ability to talk about anything except blockchain #MyEthJourney* - 8th February 2014

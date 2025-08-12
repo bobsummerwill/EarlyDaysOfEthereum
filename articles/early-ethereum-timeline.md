@@ -125,6 +125,9 @@ See also the partial public histories in:
 - **Cut and Try: building a dream (Taylor Gerring), 9th Feb 2016**
   - [Blog Post](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/)
 
+- **Ethereum Foundation page, 4th March 2016**
+  - [Internet Archive snapshot](https://web.archive.org/web/20160304212822/https://www.ethereum.org/foundation)
+
 - **Can Ethereum Restore Online Freedom & Transform the Internet? Reason TV, 18th March 2016**
   - [YouTube Video](https://www.youtube.com/watch?v=H6bGuKN3m6E)
 
@@ -172,6 +175,6 @@ See also the partial public histories in:
 - **I remember Cardano now… Red flags everywhere., 30th Nov 2017**
   - [Reddit Discussion](https://www.reddit.com/r/ethtrader/comments/7grmiq/i_remember_cardano_now_red_flags_everywhere/?st=jap372rr&sh=87fee4a0)
 
-
-- [X](https://bobsummerwill.com/ethereum-foundation-timeline/?share=twitter)
-- [Facebook](https://bobsummerwill.com/ethereum-foundation-timeline/?share=facebook)
+- **Visions of Ether, 16th Nov 2018**
+  - [Blog post](https://tokeneconomy.co/visions-of-ether-590858bf848e)
+  - 

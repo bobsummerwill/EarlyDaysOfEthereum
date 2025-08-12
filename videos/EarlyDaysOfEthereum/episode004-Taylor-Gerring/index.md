@@ -65,7 +65,8 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 One thing I like to point out is that conference there's some photos some of which I took and some of which others took but the way the story goes is that room was standing room only he was in to give the announcement of Ethereum and then afterwards the questions kept coming in and kept coming in and the organizers had to ask him to step outside and I just remember these photos of like him being mobbed by a group of people just wanting to ask them questions.  I think Joe Lubin was standing right there. Probably Anthony Di Iorio was probably real close. But that's a very iconic picture in my mind, at least.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.26.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.26.jpeg" style="width: 75%; height: auto;">
+
 
 But anyway, the house that Anthony Di Iorio had organized became kind of the hub and the central place where we all gathered around.  I think Jonathan Monaghan? Mohan?
 
@@ -73,7 +74,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 **Taylor:** He was doing some recording stuff there. I remember Charles Hoskinson being there out on the back patio with Joe and Vitalik.  I was in my photography era, so I was doing more photo taking. But I didn't know where to sleep, and I had brought a hammock down with me.  And so I ended up sleeping in the backyard on a hammock between two trees, looking out over the canal that ran past the house for two nights.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.25.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.25.jpeg" style="width: 75%; height: auto;">
 
 **Bob:**  Nice. Yeah. Same with that iconic photograph. I can't remember the guy's name now, but at some point I met the guy who had the speaking slot after Vitalik.  And he said "... and everyone just sodded off!"  It's like nobody left in the room for him.
 
@@ -89,7 +90,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 **Bob:** Oh I'm back.  I was just saying on that thread on the photo thread that you got, Taylor, that was that sort of iconic everyone crowding around Vitalik yeah with Anthony and Joe there and then some photos on you on the back patio.  Then there's that group shot with everyone there and some other bits and pieces.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg" style="width: 75%; height: auto;">
 
 *(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
 
@@ -97,11 +98,11 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 **Taylor:**  Yeah, it would be interesting to go back and check the actual timeline. I felt like things happened kind of fast.  Where we landed in Zug was, I mean, we landed in Zurich, but then we took the train to a small farm town called Meierskoppel. And there was a handful group there that was just staying on Airbnb.  And I went along with my friend Nick Fierro, who kind of came with me. We met up in, I think, Germany somewhere and continued on to Zurich.  But we landed there, and it was just very chaotic in the sense that nobody had a good sense of what was happening, on what timeline, for what reason, you know, whether it was just sleeping quarters or getting the website online or who was arriving.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg" style="width: 75%; height: auto;">
 
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_ian_meikle.png)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_ian_meikle.png" style="width: 25%; height: auto;">
 
 *(Ian Meikle, from https://duncan.co/ethereum/)*
 
@@ -109,7 +110,7 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Taylor:**  Richard Wild. That's right. Richard was actually the first one who was introduced to the project.  He brought Ian along. And I think Ian ended up sticking around longer.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_richard_wild.png)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/duncan.co/duncan.co_cropped_richard_wild.png" style="width: 50%; height: auto;">
 
 *(Taylor and Richard Wild, from https://duncan.co/ethereum/)*
 
@@ -139,7 +140,7 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.20.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.02.20.jpeg" style="width: 75%; height: auto;">
 
 **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 
@@ -151,8 +152,7 @@ TODO - Add photo
 
 But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/internetarchive/internetarchive_snapshot_ethereum.org_2014.02.08.png)
-
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/internetarchive/internetarchive_snapshot_ethereum.org_2014.02.08.png" style="width: 75%; height: auto;">
 
 **Bob:** I believe that at the Miami time or shortly afterwards it was announced that the crowdsale would happen within a month or two months, it was like a really super short timeline that was thought at that point but then yeah, I guess all of that got delayed both with technical and more importantly legal concerns.
 
@@ -240,7 +240,7 @@ But, you know, that stuff just, I think, was quite naive because the cost and ov
 
 **Bob:**  Yeah, I'd agree. I mean, the first thing I was doing on Ethereum was doing [ARM Linux cross builds](https://github.com/doublethinkco/cpp-ethereum-cross) to get a client running on smartphones, smartwatch, Raspberry Pi and all of that.  And I had the real naive view at that point. It's like, all right, yeah, just got it working. And, you know, there'll be some like client thing. And, you know, you can just do everything, right. And this will just be like a background task or, hey, you know, we're defining this protocol.  And like Ethereum will just be a protocol that will just be in operating systems it will just be part of the Linux you know part of the Linux distro you know you just write yeah you've got Ethereum running in the background and you know off you go and that absoultely didn't take off in the way that it was originally envisioned I don't think.
 
-![image](https://camo.githubusercontent.com/2d3ca9609b5da22f41292f280f46df3f5f7ce6742afbf69aa5976fef36cbe332/68747470733a2f2f646f75626c657468696e6b636f2e66696c65732e776f726470726573732e636f6d2f323031352f31312f32303135313132305f3038333932362e6a70673f773d373838)
+<img src="https://camo.githubusercontent.com/2d3ca9609b5da22f41292f280f46df3f5f7ce6742afbf69aa5976fef36cbe332/68747470733a2f2f646f75626c657468696e6b636f2e66696c65732e776f726470726573732e636f6d2f323031352f31312f32303135313132305f3038333932362e6a70673f773d373838" style="width: 75%; height: auto;">
 
 And the DAO question I think maybe it's as simple as that people don't care about lots of things, right?  It's kind of like having a job, having to participate in a DAO. You have to try and understand what's going on. Like, you know, I think that's a human scaling thing, right? It was a sort of a, we don't like hierarchy kind of naivety.  You know, like hierarchies are a scaling mechanism. They help us solve large scale problems by breaking things up. I think having hierarchies that you can never change and be powerless within is a terrible thing, but hierarchies per se, I think are very useful.
 
@@ -258,13 +258,13 @@ So I think just kind of the frustrations rose and it got to a point where some h
 
 I feel like looking at the photos, you see pictures of, like, how much money we think we're going to get, what we think we're going to do with those funds. We started imagining up these DAO sort of ideas, really started moving forward on a lot of things where it felt like we were kind of locked within the grasp of each other trying to duke it out on who was going to win politically inside the org.
 
-![image](https://pbs.twimg.com/media/FUvXdOyWQAAElYL?format=jpg&name=4096x4096)
+<img src="https://pbs.twimg.com/media/FUvXdOyWQAAElYL?format=jpg&name=4096x4096" style="width: 75%; height: auto;">
 
 I remember the day being very, very uncomfortable.  Everybody had come to Zug.  There were girlfriends and partners there in addition to just the people involved with Ethereum.  And it was just very uncomfortable for a very long time. It was an emotionally exhausting day.
 
 And I think I have a picture of being on the back patio where we kind of all crammed in while Vitalik was just, like, on the front patio walking around trying to make his decision.  And it was entirely up to him at that point. So who knows what would have happened if he had made the decision any other way. I like to think that by choosing to put Stephan and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered.  And maybe it would have gotten delivered anyway, but I don't know. I feel like making that change when that happened is what ultimately enabled us to ship Ethereum in a relatively on-time way and doing what we all promised it would do.
 
-![image](https://pbs.twimg.com/media/FUKp5AtX0AEL20b?format=jpg&name=4096x4096)
+<img src="https://pbs.twimg.com/media/FUKp5AtX0AEL20b?format=jpg&name=4096x4096" style="width: 75%; height: auto;">
 
 **Bob:** So just to ask a little beyond that, so when that decision had been made, so the Ethereum Foundation was that legal entity set up in Switzerland and you were one of three directors at that point?
 
@@ -282,13 +282,13 @@ Switzerland was treating us really, really well up until that point and they off
 
 So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCON1](https://archive.devcon.org/watch/?event=devcon-1&sort=eventId&order=desc), which was the very first public conference there in London, which nearly didn't happen because of that running out of money.  And my understanding is really that Joe and Andrew of ConsenSys really funded that. So what are your memories of that first conference?  How was it to have a big public conference and people interested and some big companies represented as well?
 
-![image](https://d.ibtimes.co.uk/en/full/1465178/devcon-1.webp?w=736&f=ed81cfaae45c4d164c0121f363bb4726)
+<img src="https://d.ibtimes.co.uk/en/full/1465178/devcon-1.webp?w=736&f=ed81cfaae45c4d164c0121f363bb4726" style="width: 75%; height: auto;">
 
 **Taylor:** Yeah.  Your recollection is the same as mine in the sense that ConsenSys definitely carried the weight of that conference in terms of financial and organizational. From my standpoint I remember being so thrilled to have an event that was like all our own we had been crashing you know quote unquote crashing Bitcoin sort of parties which we were feeling less and less welcome to.  Bitcoin Expo 2014 it was like we had a booth there but there was a lot of not concern, not criticism, but like just people were not entirely sure of what we had going on.
 
 [DEVCON0](https://archive.devcon.org/watch/?event=devcon-0&sort=eventId&order=desc) being like an in-house kind of private only event, this was the first time that it felt like showing off a little bit.
 
-![image](https://pbs.twimg.com/media/D92kBZRXUAIOgkN?format=jpg&name=4096x4096)
+<img src="https://pbs.twimg.com/media/D92kBZRXUAIOgkN?format=jpg&name=4096x4096" style="width: 75%; height: auto;">
 
 **Taylor:** We had interest from, I think Microsoft was involved as a sponsor.  Fun little fact I had come up with the colored Ethereum logo with Microsoft colors and that ended up being adopted and being used as like a de facto logo for that conference.
 
@@ -296,9 +296,9 @@ So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCO
 
 **Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that.
 
-![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/victorwong/victorwong_devcon1_sticker.jpeg)
+<img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/victorwong/victorwong_devcon1_sticker.jpeg" style="width: 25%; height: auto;">
 
-*(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo)*
+*(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo!)*
 
 **Taylor**:  And then we had the big Bitcoiner guy, I can't remember his name off the top of my head.
 

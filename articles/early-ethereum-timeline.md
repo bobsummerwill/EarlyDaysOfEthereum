@@ -31,11 +31,11 @@ See also the partial public histories in:
   - [YouTube Video](https://www.youtube.com/watch?v=l9dpjN3Mwps)
   - [Vitalik Buterin (Ethereum), a star is born](https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/) – North American Bitcoin Conference in Miami (Jan 2014)
 
-- **Beach house in Miami in February, where first face-to-face development happened.**
+**Beach house in Miami in February, where first face-to-face development happened - 31st January 2014**
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/miami/miami-group-shot.webp)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg)
 
-(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)
+*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
 
 (this image is from [Visions of Ether](https://archive.ph/xqce1) blog post, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 

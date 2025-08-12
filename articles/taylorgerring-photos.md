@@ -8,11 +8,23 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 
 I have started copying them across into this repository and will add captions to them all.  Maybe Taylor has higher resolution versions we can substitute in later, or additional photos which did not make the cut during this initial drop?
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.25.jpeg)
+----
+*GM! 8 years ago today, I arrived at the Miami house rented by Decentral. Since I showed up unannounced and there were no more beds, my only choice was to sleep under the stars. I don’t know anyone, don’t have a car, and don’t know what I’m there to do.* - 25th January 2014
 
--- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.26.jpeg)
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.25.jpeg)
+
+----
+*8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. Joe Lubin and Anthony Di’Iorio can be seen next to Vitalik as the crowd encroaches* - 26th January 2014
+
+![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.26.jpeg)
+
+----
+*Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday’s photo, appearing below are Charles, Jon, Jeremy, Dino, and one unidentified smoker. My hammock is back and to the left. #EthYearsAgo* - 27th January 2014
 
 -- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.27.jpeg)
+
+----
+*Ethereum at the end of January 2014. This photo was *not* taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 28th January 2014
 
 -- ![image](https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.28.jpeg)
 

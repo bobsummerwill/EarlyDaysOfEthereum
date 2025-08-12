@@ -43,7 +43,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Stephan Tual](https://www.linkedin.com/in/stephantual/) – Jan 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m15s))
 - [Roxana Sureanu](https://www.linkedin.com/in/roxana-adriana-sureanu-13a6b791/) – Jan 2014 to July 2015
 - [Steven Nerayoff](https://www.linkedin.com/in/nerayoff/) – Jan 2014 to Dec 2014
-- [Mathias Grønnebæk](https://www.linkedin.com/in/mathiasg/) – Jan 2014 to Oct 2014
+- [Mathias Grønnebæk](https://www.linkedin.com/in/mathiasg/) – Jan 2014 to Oct 2014 (["My experience in the founding of Ethereum"](https://medium.com/@mathias_61938/behind-the-scenes-my-experience-in-the-founding-of-ethereum-a4a609b0657d))
 - [Matthew Wampler-Doty](https://www.linkedin.com/in/matthew-wampler-doty-42583b19/) – Jan 2014 to Apr 2014
 - [Hai Nguyen](https://www.linkedin.com/in/mrhainguyen/) – Jan 2014 to Jul 2015
 - [Bin Lu](https://twitter.com/bitgulu) – Jan 2014 to present (but never in the EF)

@@ -227,3 +227,4 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - Nick Fierro mentioned by Taylor
 - Toya Budunguud - volunteer at devcon2, effectively assistant to Ming for devcon3 prep
 - Lorenzo Patuzzo, carpenter
+- Marius?  mentioned in Taylor interview?

@@ -10,7 +10,7 @@ In February 2020, I learnt that the BitcoinTalk announcement of the Ethereum pro
 
 This is a catalog of everybody who has been involved with the Ethereum Project in the phase **prior** to the creation of the Ethereum Foundation, or involved with the Ethereum Foundation after that was incorporated.
 
-For simplicity, I am also including individuals here who were employed or contracted by Ethereum DEG UG (Berlin) and other Ethereum project legal entities in Amsterdam, London, etc. These people (including the author) were never directly employed by the EF in a strict legal sense, but for all practical purposes did “work for the Ethereum Foundation”, as they were working part-time or full-time on the project with that work being funded by the EF.
+For simplicity, I am also including individuals here who were employed or contracted by Ethereum DEV UG (Berlin) and other Ethereum project legal entities in Amsterdam, London, etc. These people (including the author) were never directly employed by the EF in a strict legal sense, but for all practical purposes did “work for the Ethereum Foundation”, as they were working part-time or full-time on the project with that work being funded by the EF.
 
 Obviously, the list of people who have been involved with the Ethereum Project as a whole since its inception is now an astronomically long list. That is not the focus here – only on the Ethereum Foundation and other legal entities (to 2018), and on people involved in its pre-historical period, whether or not they actually worked for the EF or other legal entities during that nascent period.
 

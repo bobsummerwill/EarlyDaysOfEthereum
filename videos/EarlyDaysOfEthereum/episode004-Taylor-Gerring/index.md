@@ -92,7 +92,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 <img src="https://raw.githubusercontent.com/bobsummerwill/EarlyDaysOfEthereum/refs/heads/main/images/taylorgerring/taylorgerring_2014.01.31.jpeg" style="width: 75%; height: auto;">
 
-*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislave Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
+*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislav Malahov, Charles Hoskinson, Antony D’Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich)*
 
 **Bob:**  So yeah it's saying February the 9th was the day that we arrived in Europe so that's where the Zug adventure began?
 

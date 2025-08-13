@@ -161,7 +161,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Yessin Schiegg](https://x.com/yessinschiegg) – Dec 2015 to Feb 2017
 
 ## February 2016
-- [Alex Beregszaszi](https://www.linkedin.com/in/alexberegszaszi) – Jan 2016 to present?
+- [Alex Beregszaszi](https://www.linkedin.com/in/alexberegszaszi) – Jan 2016 to July 2025 (started volunteering Oct 2015)
 
 ## February 2016
 - [Bob Summerwill](https://www.linkedin.com/in/bobsummerwill/) – Feb 2016 to Oct 2016

@@ -41,10 +41,10 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }}) – Dec 2013 to May 2014 (executive assistant to Charles)
 - [Amir Chetrit]({{ '/people/amir-chetrit/' | relative_url }}) – Dec 2013 to May 2014 **(co-Founder)**
 - [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}) – Dec 2013 to Jun 2014
-- [Anthony DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}) ("Texture") – Dec 2013 to ???
+- [Anthony 'Texture' DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}) – Dec 2013 to ???
 
 ## January 2014
-- [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}) – Jan 2014 to May 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m7s)) **(co-Founder)**
+- [Joseph 'Joe' Lubin]({{ '/people/joseph-lubin/' | relative_url }}) – Jan 2014 to May 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m7s)) **(co-Founder)**
 - [Jason Colby]({{ '/people/jason-colby/' | relative_url }}) – Jan 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m26s))
 - [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}) – Jan 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m15s))
 - [Roxana Sureanu]({{ '/people/roxana-sureanu/' | relative_url }}) – Jan 2014 to July 2015
@@ -228,6 +228,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## Missing Information
 - [Matt Liston]({{ '/people/matt-liston/' | relative_url }})
 - [Nora]({{ '/people/nora/' | relative_url }})
+- [Louis Parker]({{ '/people/louis-parker/' | relative_url }}) - present at Miami house in January 2014
 - Are there any other key characters who were are missing here?
 - [Viktor Tron]({{ '/people/viktor-tron/' | relative_url }}) says he has corrected/updates and will do those when this is on Github.
 - [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}) mentioned by Taylor

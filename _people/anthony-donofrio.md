@@ -1,11 +1,11 @@
 ---
-title: "Anthony DOnofrio"
+title: "Anthony 'Texture' DOnofrio"
 description: "Ethereum OG"
 ---
 
 {{ page.description }}
 
-Dec 2013 to ??? ("Texture")
+Dec 2013 to ???
 
 ## Links
 

@@ -1,5 +1,5 @@
 ---
-title: "Joseph Lubin"
+title: "Joseph 'Joe' Lubin"
 description: "Ethereum co-Founder"
 ---
 

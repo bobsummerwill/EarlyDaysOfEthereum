@@ -230,6 +230,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Matt Liston]({{ '/people/matt-liston/' | relative_url }})
 - [Nora]({{ '/people/nora/' | relative_url }})
 - [Louis Parker]({{ '/people/louis-parker/' | relative_url }}) - present at Miami house in January 2014
+- [Victor Wong]({{ '/people/victor-wong/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
+- [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
+- [James 'Jim' Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
 - Are there any other key characters who were are missing here?
 - [Viktor Tron]({{ '/people/viktor-tron/' | relative_url }}) says he has corrected/updates and will do those when this is on Github.
 - [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}) mentioned by Taylor

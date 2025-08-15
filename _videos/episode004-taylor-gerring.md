@@ -12,7 +12,7 @@ After a long hiatus since [Episode III]({{ '/videos/episode003/' | relative_url 
 
 Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 
-[Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) hosted this episode with [Kieren James-Lubin](https://x.com/kjameslubin) commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
+[Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) hosted this episode with [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
 ## Transcript
 **Bob:** Welcome everyone, so yeah, really happy to have [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor]({{ '/people/taylor-gerring/' | relative_url }})

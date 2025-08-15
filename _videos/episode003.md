@@ -11,4 +11,4 @@ links:
     url: "https://bobsummerwill.com/2023/11/10/notes-from-blockapps-the-early-days-of-ethereum-part-iii-bob-summerwill-guest-appearance/"
 ---
 
-In the third installment, [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) joined [Victor Wong](https://x.com/vic4wong), [Kieren James-Lubin](https://x.com/kjameslubin) and [Jim Hormuzdiar](https://x.com/JamshidHormuz), the co-Founders of [BlockApps](https://blockapps.net) as a guest while he was still working as Executive Director of the ETC Cooperative. He joined BlockApps as Head of Ecosystem in January 2025.
+In the third installment, [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) joined [Victor Wong]({{ '/people/victor-wong/' | relative_url }}), [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) and [Jim Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}), the co-Founders of [BlockApps](https://blockapps.net) as a guest while he was still working as Executive Director of the ETC Cooperative. He joined BlockApps as Head of Ecosystem in January 2025.

@@ -1,5 +1,5 @@
 ---
-title: "Anthony 'Texture' DOnofrio"
+title: "Anthony 'Texture' D'Onofrio"
 description: "Ethereum OG"
 ---
 

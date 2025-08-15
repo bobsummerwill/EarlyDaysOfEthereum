@@ -12,7 +12,7 @@ See also the partial public histories in:
 
 - [Cut and Try – Building a Dream](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/), written by [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) in February 2016
 - [History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
-- [A Prehistory of the Ethereum Protocol](http://vitalik.ca/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
+- [A Prehistory of the Ethereum Protocol](http://vitalik.ca/general/2017/09/14/prehistory.html), written by [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}) in September 2017
 
 ## Timeline 2013
 
@@ -20,7 +20,7 @@ See also the partial public histories in:
   - [Tweet by Vitalik](https://twitter.com/VitalikButerin/status/895518902817480708): "The earliest emails from @gavofyork reaching out to me in Dec 2013. Thanks a lot for Gav's crucial contributions to ethereum!"
   - [Tweet by Gav](https://twitter.com/gavofyork/status/895536200626425856): "Thanks to @VitalikButerin for the same – I could never have built #ethereum without you :)"
   - [Tweet by Peter](https://twitter.com/peter_szilagyi/status/895560354951872512): "Ah yes, thank you @gavofyork for single handedly building #Ethereum! We – the other 30+ programmers – really enjoyed watching you work!"
-  - In Gav's Epicenter interview, he named Jonathan James Harrison AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through Amir Taaki: [Epicenter Episode 259](https://epicenter.tv/episode/259/)
+  - In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jonathan-james-harrison/' | relative_url }}) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}): [Epicenter Episode 259](https://epicenter.tv/episode/259/)
 
 ## Timeline 2014
 
@@ -41,11 +41,11 @@ See also the partial public histories in:
 
 ![image]({{ '/images/taylorgerring/taylorgerring_2014.01.31.jpeg' | relative_url }})
 
-*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislav Malahov, Charles Hoskinson, Antony D'Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joseph Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), Jason Colby, Kyle Kurbegovich)*
+*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), Antony D'Onofrio, [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), Louis Parker. Bottom (left to right): [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
-- **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
+- **[Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}) – Why I Joined Ethereum?, 21st April 2014**
   - [Vimeo Video](https://vimeo.com/92563841)
 
 - **Ethereum Booth at the Bitcoin Expo 2014, 30th April 2014**
@@ -54,16 +54,16 @@ See also the partial public histories in:
 - **Crypto Hackathon – Bitcoin Expo 2014!, 2nd May 2014**
   - [Vimeo Video](https://vimeo.com/93669998)
 
-- **Ethereum Video Background loop for Meetup groups and presentations (Richard Stott and Ian Meikle), 18th April 2014**
+- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}) and [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }})), 18th April 2014**
   - [Vimeo Video](https://vimeo.com/92338385)
 
 - **Some people didn't make the conference, but did make the beach house.**
   - *Who was at each?*
 
-- **The upcoming crypto-singularity – Coinscrum (Stephan Tual), 10th March 2014**
+- **The upcoming crypto-singularity – Coinscrum ([Stephan Tual]({{ '/people/stephan-tual/' | relative_url }})), 10th March 2014**
   - [Vimeo Video](https://vimeo.com/88661838)
 
-- **Ethereum – Your Turn (Charles Hoskinson voiceover), 12th March 2014**
+- **Ethereum – Your Turn ([Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}) voiceover), 12th March 2014**
   - [Vimeo Video](https://vimeo.com/88959651)
 
 - **Duncan Rawlinson, 9th April 2014 (something just before the Expo?)**
@@ -72,29 +72,29 @@ See also the partial public histories in:
 - **Bitcoin Expo 2014 Toronto – 11th to 13th April 2014**
   - [Archived Website](https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/)
 
-- **What is Ethereum? (Stephan Tual, CCO), 4th June 2014**
+- **What is Ethereum? ([Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}), CCO), 4th June 2014**
   - [Vimeo Video](https://vimeo.com/97374143)
 
 - **BitVote: time based voting ÐApp on Ethereum, Aaron Bale, 13th June 2014**
   - [YouTube Video](https://www.youtube.com/watch?v=z-BtgF3oqoA)
 
-- **On Abstraction, Vitalik Buterin, 5th July 2014**
+- **On Abstraction, [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), 5th July 2014**
   - [Blog Post](https://blog.ethereum.org/2015/07/05/on-abstraction/)
 
-- **Towards a 12 second Block Time, Vitalik Buterin, 11th July 2014**
+- **Towards a 12 second Block Time, [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), 11th July 2014**
   - [Blog Post](https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/)
 
-- **Vitalik Buterin explains Ethereum, 29th July 2014**
+- **[Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}) explains Ethereum, 29th July 2014**
   - [Vimeo Video](https://vimeo.com/102024647)
 
-- **State of Ethereum: August Edition, Vitalik Buterin, 27th August 2014**
+- **State of Ethereum: August Edition, [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), 27th August 2014**
   - [Blog Post](https://blog.ethereum.org/2014/08/27/state-ethereum-august-edition/)
 
 - **ÐΞVcon-0 conference in Berlin**
   - [Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0), 24th Nov 2014
   - [ÐΞVcon-0 Recap](https://blog.ethereum.org/2014/12/05/devcon-0-recap/), 12th Dec 2014
 
-- **Gavin Wood – Allegality – Systems Which Cannot Care, 10th Dec 2014**
+- **[Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}) – Allegality – Systems Which Cannot Care, 10th Dec 2014**
   - [YouTube Video](https://www.youtube.com/watch?v=WdgQI6CA4-E)
 
 ## Timeline 2015
@@ -102,7 +102,7 @@ See also the partial public histories in:
 - **Gav's Ethereum ÐΞV Update V, 2nd March 2015**
   - [Blog Post](https://blog.ethereum.org/2015/03/02/gavs-ethereum-dev-update-v/)
 
-- **The Ethereum Launch Process, Vinay Gupta, 3rd March 2015**
+- **The Ethereum Launch Process, [Vinay Gupta]({{ '/people/vinay-gupta/' | relative_url }}), 3rd March 2015**
   - [Blog Post](https://blog.ethereum.org/2015/03/03/ethereum-launch-process/)
 
 - **Ethereum Foundation Open Call re: Board Selection, Vitalik, 10th April 2015**
@@ -117,15 +117,15 @@ See also the partial public histories in:
 - **New Ethereum Structure Executive Director and Board Members Signal a Reboot for Ethereum, Bitcoin Publication, 2nd Aug 2015**
   - [Article](http://www.swissapp.mobi/2015/08/02/new-ethereum-structure-executive-director-and-board-members-signal-a-reboot-for-ethereum/)
 
-- **A Message from Stephan Tual, 3rd Sep 2015**
+- **A Message from [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}), 3rd Sep 2015**
   - [Blog Post](https://blog.ethereum.org/2015/09/03/a-message-from-stephan-tual/)
 
-- **So Ethereum is Released, Gavin Wood, 12th Dec 2015**
+- **So Ethereum is Released, [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), 12th Dec 2015**
   - [Medium Article](https://medium.com/@gavofyork/so-ethereum-is-released-4291da46b770)
 
 ## Timeline 2016
 
-- **The Last Post, Gavin Wood, 11th Jan 2016**
+- **The Last Post, [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), 11th Jan 2016**
   - [Blog Post](https://blog.ethereum.org/2016/01/11/last-blog-post/)
 
 - **Cut and Try: building a dream ([Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }})), 9th Feb 2016**
@@ -149,10 +149,10 @@ See also the partial public histories in:
 - **Analysis of the DAO exploit, Phil Daian, 18th June 2016**
   - [Article](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 
-- **Gavin Wood presentation hack of the DAO smart contract and options Ethereum community, Dutch Blockchain Conference, 20th June 2016**
+- **[Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}) presentation hack of the DAO smart contract and options Ethereum community, Dutch Blockchain Conference, 20th June 2016**
   - [YouTube Video](https://www.youtube.com/watch?v=KaOGtH7J0WE)
 
-- **Gavin Wood on how $60M hack of DAO happened and what to do next, Dutch Blockchain Conference, 21st June 2016**
+- **[Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}) on how $60M hack of DAO happened and what to do next, Dutch Blockchain Conference, 21st June 2016**
   - [YouTube Video](https://www.youtube.com/watch?v=JzCGRtGyxvY)
   - "Was that because you wanted to make a lot of money?" ([Timestamp](https://youtu.be/JzCGRtGyxvY?t=13m58s))
 
@@ -161,21 +161,21 @@ See also the partial public histories in:
 
 - **TBP79 – Infrastructure for a Seven Billion World, 13th August 2016**
   - [YouTube Video](https://www.youtube.com/watch?v=Z6xpqTxmlD0)
-  - "We knew that Stephan Tual was a bad actor. Same applies to Charles Hoskinson. All kinds of legends about that guy. Jesus Christ." ([Timestamp](https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s))
+  - "We knew that [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}) was a bad actor. Same applies to [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}). All kinds of legends about that guy. Jesus Christ." ([Timestamp](https://www.youtube.com/watch?v=Z6xpqTxmlD0&t=26m45s))
 
 ## Timeline 2017
 
-- **Hard Forks, Soft Forks, Defaults and Coercion, Vitalik Buterin, 14th March 2017**
+- **Hard Forks, Soft Forks, Defaults and Coercion, [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), 14th March 2017**
   - [Article](http://vitalik.ca/general/2017/03/14/forks_and_markets.html)
 
-- **The Ether Thief, Bloomberg Markets, Matthew Leising, 13th June 2017**
+- **The Ether Thief, Bloomberg Markets, [Matthew Leising]({{ '/people/matthew-leising/' | relative_url }}), 13th June 2017**
   - [Article](https://www.bloomberg.com/features/2017-the-ether-thief/)
 
 - **SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities, SEC, 25th July 2017**
   - [Press Release](https://www.sec.gov/news/press-release/2017-131)
   - [Report](http://www.sec.gov/litigation/investreport/34-81207.pdf)
 
-- **A Prehistory of the Ethereum Protocol, Vitalik Buterin, 15th September 2017**
+- **A Prehistory of the Ethereum Protocol, [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), 15th September 2017**
   - [Article](http://vitalik.ca/2017-09-15-prehistory.html)
 
 - **I remember Cardano now… Red flags everywhere., 30th Nov 2017**

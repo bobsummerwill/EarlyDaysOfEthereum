@@ -1,8 +1,8 @@
 # Site settings
 title: "Early Days of Ethereum"
 description: "Articles and videos detailing the early days of the Ethereum project"
-baseurl: "/EarlyDaysOfEthereum"
-url: "https://bobsummerwill.github.io"
+baseurl: ""
+url: "https://earlydaysofeth.org"
 author: "Bob Summerwill"
 
 # Build settings

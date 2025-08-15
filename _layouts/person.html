@@ -1,0 +1,135 @@
+---
+layout: default
+---
+
+<div class="back-link">
+    <a href="{{ '/people/' | relative_url }}">&larr; Back to People</a>
+</div>
+
+<article class="person-profile">
+    <header>
+        <h1>{{ page.title }}</h1>
+        <div class="content-meta">
+            {% if page.role %}
+                <div class="person-role">{{ page.role }}</div>
+            {% endif %}
+            {% if page.period %}
+                <div class="person-period">Active: {{ page.period }}</div>
+            {% endif %}
+        </div>
+    </header>
+    
+    {% if page.photo %}
+    <div class="person-photo">
+        <img src="{{ page.photo | relative_url }}" alt="{{ page.title }}" />
+    </div>
+    {% endif %}
+    
+    <div class="person-content">
+        {{ content }}
+    </div>
+    
+    {% if page.links %}
+    <div class="person-links">
+        <h3>Links</h3>
+        <ul>
+            {% for link in page.links %}
+            <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    
+</article>
+
+<style>
+    .person-profile .content-meta {
+        margin-bottom: 25px;
+    }
+    
+    .person-role {
+        font-weight: bold;
+        color: #007acc;
+        font-size: 1.1em;
+    }
+    
+    .person-period {
+        color: #666;
+        font-style: italic;
+        margin-top: 5px;
+    }
+    
+    .person-photo {
+        float: right;
+        margin: 0 0 20px 20px;
+        max-width: 300px;
+    }
+    
+    .person-photo img {
+        width: 100%;
+        border-radius: 8px;
+    }
+    
+    .person-content {
+        overflow: hidden;
+    }
+    
+    .person-content h1,
+    .person-content h2,
+    .person-content h3,
+    .person-content h4,
+    .person-content h5,
+    .person-content h6 {
+        color: #007acc;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    
+    .person-content p {
+        margin-bottom: 15px;
+    }
+    
+    .person-content ul,
+    .person-content ol {
+        margin-bottom: 15px;
+        padding-left: 30px;
+    }
+    
+    .person-links {
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+    }
+    
+    .person-links h3 {
+        color: #007acc;
+        margin-bottom: 10px;
+    }
+    
+    .person-links ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .person-links li {
+        margin-bottom: 8px;
+    }
+    
+    .person-links a {
+        color: #007acc;
+        text-decoration: none;
+    }
+    
+    .person-links a:hover {
+        text-decoration: underline;
+    }
+    
+    
+    @media (max-width: 768px) {
+        .person-photo {
+            float: none;
+            margin: 0 0 20px 0;
+            max-width: 100%;
+        }
+    }
+</style>

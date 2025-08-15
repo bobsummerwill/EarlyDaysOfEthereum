@@ -1,0 +1,181 @@
+---
+layout: default
+---
+
+<div class="back-link">
+    <a href="{{ '/videos/' | relative_url }}">&larr; Back to Videos</a>
+</div>
+
+<article class="video-episode">
+    <header>
+        <h1>{{ page.title }}</h1>
+        <div class="content-meta">
+            {% if page.episode %}
+                <div class="episode-number">Episode {{ page.episode }}</div>
+            {% endif %}
+            {% if page.date %}
+                <div class="release-date">Released: {{ page.date | date: "%B %d, %Y" }}</div>
+            {% endif %}
+            {% if page.guests %}
+                <div class="episode-guests">
+                    <strong>Guests:</strong> 
+                    {% for guest in page.guests %}
+                        {% assign guest_slug = guest | downcase | replace: ' ', '-' %}
+                        <a href="{{ '/people/' | append: guest_slug | append: '/' | relative_url }}">{{ guest }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </header>
+    
+    <div class="video-content">
+        {{ content }}
+    </div>
+    
+    {% if page.youtube_id %}
+    <div class="video-embed">
+        <div class="video-wrapper">
+            <iframe 
+                src="https://www.youtube.com/embed/{{ page.youtube_id }}" 
+                frameborder="0" 
+                allowfullscreen
+                title="{{ page.title }}">
+            </iframe>
+        </div>
+    </div>
+    {% endif %}
+    
+    {% if page.links %}
+    <div class="video-links">
+        <h3>Related Links</h3>
+        <ul>
+            {% for link in page.links %}
+            <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="video-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>
+
+<style>
+    .video-episode .content-meta {
+        margin-bottom: 25px;
+    }
+    
+    .episode-number {
+        font-weight: bold;
+        color: #007acc;
+        font-size: 1.1em;
+    }
+    
+    .release-date {
+        color: #666;
+        margin-top: 5px;
+    }
+    
+    .episode-guests {
+        color: #333;
+        margin-top: 8px;
+    }
+    
+    .video-embed {
+        margin: 30px 0;
+    }
+    
+    .video-wrapper {
+        position: relative;
+        padding-bottom: 28.125%; /* 16:9 aspect ratio at 50% size */
+        height: 0;
+        overflow: hidden;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        max-width: 50%;
+        margin: 0;
+    }
+    
+    .video-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 8px;
+    }
+    
+    .video-content {
+        margin-top: 30px;
+    }
+    
+    .video-content h1,
+    .video-content h2,
+    .video-content h3,
+    .video-content h4,
+    .video-content h5,
+    .video-content h6 {
+        color: #007acc;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    
+    .video-content p {
+        margin-bottom: 15px;
+    }
+    
+    .video-content ul,
+    .video-content ol {
+        margin-bottom: 15px;
+        padding-left: 30px;
+    }
+    
+    .video-links {
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+    }
+    
+    .video-links h3 {
+        color: #007acc;
+        margin-bottom: 10px;
+    }
+    
+    .video-links ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .video-links li {
+        margin-bottom: 8px;
+    }
+    
+    .video-links a {
+        color: #007acc;
+        text-decoration: none;
+    }
+    
+    .video-links a:hover {
+        text-decoration: underline;
+    }
+    
+    .video-tags {
+        margin-top: 20px;
+        padding-top: 15px;
+        border-top: 1px solid #eee;
+        color: #666;
+    }
+    
+    .tag {
+        background-color: #f0f0f0;
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-size: 0.85em;
+    }
+</style>

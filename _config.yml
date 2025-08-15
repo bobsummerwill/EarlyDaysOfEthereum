@@ -1,0 +1,64 @@
+# Site settings
+title: "Early Days of Ethereum"
+description: "Articles and videos detailing the early days of the Ethereum project"
+baseurl: "/EarlyDaysOfEthereum"
+url: "https://bobsummerwill.github.io"
+author: "Bob Summerwill"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
+  people:
+    output: true
+    permalink: /people/:name/
+  videos:
+    output: true
+    permalink: /videos/:path/
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
+  - scope:
+      path: ""
+      type: "videos"
+    values:
+      layout: "video"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

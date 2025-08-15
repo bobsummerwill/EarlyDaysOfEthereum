@@ -1,0 +1,102 @@
+---
+layout: default
+---
+
+<div class="back-link">
+    <a href="{{ '/articles/' | relative_url }}">&larr; Back to Articles</a>
+</div>
+
+<article>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <div class="content-meta">
+            {% if page.date %}
+                <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+            {% endif %}
+            {% if page.author %}
+                by {{ page.author }}
+            {% endif %}
+        </div>
+    </header>
+    
+    <div class="post-content">
+        {{ content }}
+    </div>
+    
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>
+
+<style>
+    .post-content h1,
+    .post-content h2,
+    .post-content h3,
+    .post-content h4,
+    .post-content h5,
+    .post-content h6 {
+        color: #007acc;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    
+    .post-content p {
+        margin-bottom: 15px;
+    }
+    
+    .post-content ul,
+    .post-content ol {
+        margin-bottom: 15px;
+        padding-left: 30px;
+    }
+    
+    .post-content li {
+        margin-bottom: 5px;
+    }
+    
+    .post-content blockquote {
+        border-left: 4px solid #007acc;
+        padding-left: 20px;
+        margin: 20px 0;
+        font-style: italic;
+        color: #666;
+    }
+    
+    .post-content code {
+        background-color: #f5f5f5;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-family: 'Monaco', 'Consolas', monospace;
+    }
+    
+    .post-content pre {
+        background-color: #f5f5f5;
+        padding: 15px;
+        border-radius: 5px;
+        overflow-x: auto;
+    }
+    
+    .post-content pre code {
+        background: none;
+        padding: 0;
+    }
+    
+    .post-tags {
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        color: #666;
+    }
+    
+    .tag {
+        background-color: #f0f0f0;
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-size: 0.85em;
+    }
+</style>

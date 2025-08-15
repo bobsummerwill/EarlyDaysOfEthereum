@@ -1,0 +1,145 @@
+---
+layout: default
+title: People
+---
+
+<h1>People</h1>
+
+<p>The <a href="{{ '/articles/early-ethereum-people/' | relative_url }}">Early Days of Ethereum People</a> article is a catalog of everybody who has been involved with the Ethereum Project in the phase prior to the creation of the Ethereum Foundation, or involved with the Ethereum Foundation after that was incorporated.</p>
+
+<p>Below are more detailed profiles and biographies for a subset of those individuals. The intention is to build detailed profiles for everyone, but that will take quite some time!</p>
+
+<div class="people-list">
+    {% assign sorted_people = site.people | sort: 'title' %}
+    {% for person in sorted_people %}
+    <div class="person-card">
+        {% if person.photo %}
+        <div class="person-photo">
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.title }}" />
+        </div>
+        {% endif %}
+        
+        <div class="person-info">
+            <h3><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+            
+            {% if person.role %}
+            <div class="person-role">{{ person.role }}</div>
+            {% endif %}
+            
+            {% if person.period %}
+            <div class="person-period">Active: {{ person.period }}</div>
+            {% endif %}
+            
+            {% if person.description %}
+            <p class="person-description">{{ person.description }}</p>
+            {% else %}
+            <p class="person-excerpt">{{ person.content | strip_html | truncatewords: 30 }}</p>
+            {% endif %}
+            
+        </div>
+    </div>
+    {% endfor %}
+    
+    {% if site.people.size == 0 %}
+    <p class="no-content">No people profiles have been added yet. Check back soon!</p>
+    {% endif %}
+</div>
+
+<style>
+    .people-list {
+        margin-top: 30px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 25px;
+    }
+    
+    .person-card {
+        background: #f9f9f9;
+        padding: 20px;
+        border-radius: 8px;
+        border-left: 4px solid #007acc;
+        display: flex;
+        gap: 15px;
+    }
+    
+    .person-photo {
+        flex-shrink: 0;
+        width: 80px;
+        height: 80px;
+    }
+    
+    .person-photo img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 2px solid #ddd;
+    }
+    
+    .person-info {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .person-info h3 {
+        margin: 0 0 8px 0;
+        font-size: 1.2em;
+    }
+    
+    .person-info h3 a {
+        color: #007acc;
+        text-decoration: none;
+    }
+    
+    .person-info h3 a:hover {
+        text-decoration: underline;
+    }
+    
+    .person-role {
+        font-weight: bold;
+        color: #555;
+        margin-bottom: 4px;
+    }
+    
+    .person-period {
+        color: #666;
+        font-size: 0.9em;
+        margin-bottom: 10px;
+    }
+    
+    .person-description,
+    .person-excerpt {
+        color: #555;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        font-size: 0.95em;
+    }
+    
+    
+    .no-content {
+        text-align: center;
+        color: #666;
+        font-style: italic;
+        padding: 40px;
+        background: #f9f9f9;
+        border-radius: 8px;
+        grid-column: 1 / -1;
+    }
+    
+    @media (max-width: 768px) {
+        .people-list {
+            grid-template-columns: 1fr;
+        }
+        
+        .person-card {
+            flex-direction: column;
+            text-align: center;
+        }
+        
+        .person-photo {
+            align-self: center;
+            width: 100px;
+            height: 100px;
+        }
+    }
+</style>

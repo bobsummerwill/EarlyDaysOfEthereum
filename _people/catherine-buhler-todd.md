@@ -12,3 +12,9 @@ Executive Assistant to the Foundation board, in particular to the Executive Dire
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/catherine-b%C3%BChler-todd-b377a3153/)
+
+## References
+
+This page is referenced from the following articles and videos:
+
+- [Early Days of Ethereum People]({{ '/articles/early-ethereum-people/' | relative_url }}) - Referenced in content

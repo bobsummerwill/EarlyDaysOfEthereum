@@ -12,7 +12,7 @@ In 2022, [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) posted
 - [Ethereum Pre-launch Photographs (MAR 2014)](https://x.com/TaylorGerring/status/1948429487252644114)
 - [Ethereum Pre-launch Photographs (APR-JUL 2014)](https://x.com/TaylorGerring/status/1948430165794566358)
 
-I have started copying them across into this repository and will add captions to them all. Maybe Taylor has higher resolution versions we can substitute in later, or additional photos which did not make the cut during this initial drop?
+I have started copying them across into this repository and will add captions to them all. Maybe [Taylor]({{ '/people/taylor-gerring/' | relative_url }}) has higher resolution versions we can substitute in later, or additional photos which did not make the cut during this initial drop?
 
 ----
 *GM! 8 years ago today, I arrived at the Miami house rented by Decentral. Since I showed up unannounced and there were no more beds, my only choice was to sleep under the stars. I don't know anyone, don't have a car, and don't know what I'm there to do.* - 25th January 2014
@@ -20,23 +20,23 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.01.25.jpeg' | relative_url }})
 
 ----
-*8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}) and [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) can be seen next to Vitalik as the crowd encroaches* - 26th January 2014
+*8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}) and [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) can be seen next to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) as the crowd encroaches* - 26th January 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.01.26.jpeg' | relative_url }})
 
 ----
-*Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday's photo, appearing below are Charles, Jon, Jeremy, Dino, and one unidentified smoker. My hammock is back and to the left. #EthYearsAgo* - 27th January 2014
+*Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday's photo, appearing below are [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), [Joe]({{ '/people/joseph-lubin/' | relative_url }}), [Jeremy]({{ '/people/jeremy-wood/' | relative_url }}), [Dino]({{ '/people/dino-mark/' | relative_url }}), and one unidentified smoker. My hammock is back and to the left. #EthYearsAgo* - 27th January 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.01.27.jpeg' | relative_url }})
 
 ----
-*Ethereum at the end of January 2014. This photo was *not* taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 31st January 2014
+*Ethereum at the end of January 2014. This photo was not taken with my phone, even though multiple cameras were used to capture the moment. This is my final share from Miami and occurred ~Jan 31. Next month, my photo journal will resume in Europe* - 31st January 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }})
 
-*(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), [Anthony 'Texture' DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
+*(The Ethereum team in their Miami house rented by [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), [Anthony 'Texture' DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
-*(This image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))*
+*(This image is from [Taylor]({{ '/people/taylor-gerring/' | relative_url }})'s twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))*
 
 ----
 *8 years ago tonight was my last day as a typical Chicagoan. Taken at The Green Lady, I would get far too little sleep for my early flight the next morning. The time could not have come sooner, as I had all but lost my ability to talk about anything except blockchain #MyEthJourney* - 8th February 2014
@@ -44,7 +44,7 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.08.jpeg' | relative_url }})
 
 ----
-*February 9, 2014 was the day when we arrived in Europe. I flew to Germany for a layover where I would meet up with Nick and fly to Zurich. Perhaps because of the approaching Valentine's Day—the airline handed out free chocolates #MyEthJourney* - 9th February 2014
+*February 9, 2014 was the day when we arrived in Europe. I flew to Germany for a layover where I would meet up with [Nick]({{ '/people/nick-fierro/' | relative_url }}) and fly to Zurich. Perhaps because of the approaching Valentine's Day—the airline handed out free chocolates #MyEthJourney* - 9th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.09_1.jpeg' | relative_url }})
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.09_2.jpeg' | relative_url }})
@@ -89,7 +89,7 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.12_3.jpeg' | relative_url }})
 
 ----
-*8 years ago today, the EthSwiss crew welcomed Stephan to our tiny AirBnB. We only end up staying 1 more night before having to relocate to somewhere with even less space.* - 13th February 2014
+*8 years ago today, the EthSwiss crew welcomed [Stephan]({{ '/people/stephan-tual/' | relative_url }}) to our tiny AirBnB. We only end up staying 1 more night before having to relocate to somewhere with even less space.* - 13th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.13_1.jpeg' | relative_url }})
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.13_2.jpeg' | relative_url }})
@@ -124,12 +124,12 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.18.jpeg' | relative_url }})
 
 ----
-*Nick and I found an Irish pub on the last day in Lucerne. With everyone living in such close proximity, this was a rare moment of relative peace. Tomorrow, our AirBnB would become available again #EthereumPhoto* - 19th February 2014
+*[Nick]({{ '/people/nick-fierro/' | relative_url }}) and I found an Irish pub on the last day in Lucerne. With everyone living in such close proximity, this was a rare moment of relative peace. Tomorrow, our AirBnB would become available again #EthereumPhoto* - 19th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.19.jpeg' | relative_url }})
 
 ----
-*Back to Meierskappel and the group has expanded once again. Richard and Ian arrive to join the creative efforts while Charles jumps in to do interviews. We all share a table to work and a floor to sleep #Ethereum* - 20th February 2014
+*Back to Meierskappel and the group has expanded once again. [Richard]({{ '/people/richard-stott/' | relative_url }}) and [Ian]({{ '/people/ian-meikle/' | relative_url }}) arrive to join the creative efforts while [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) jumps in to do interviews. We all share a table to work and a floor to sleep #Ethereum* - 20th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }})
 

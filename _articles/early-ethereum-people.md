@@ -41,7 +41,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }}) – Dec 2013 to May 2014 (executive assistant to Charles)
 - [Amir Chetrit]({{ '/people/amir-chetrit/' | relative_url }}) – Dec 2013 to May 2014 **(co-Founder)**
 - [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}) – Dec 2013 to Jun 2014
-- [Anthony 'Texture' DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}) – Dec 2013 to ???
+- [Anthony 'Texture' DOnofrio]({{ '/people/anthony-donofrio/' | relative_url }}) – Dec 2013 to Mar 2014 (or maybe Apr 2014) sacked by [interim board just before Ming arrived](https://x.com/BobSummerwill/status/1953624199584743536).
 
 ## January 2014
 - [Joseph 'Joe' Lubin]({{ '/people/joseph-lubin/' | relative_url }}) – Jan 2014 to May 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m7s)) **(co-Founder)**

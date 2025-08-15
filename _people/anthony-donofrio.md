@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Dec 2013 to ???
+Dec 2013 to Mar 2014 (or maybe Apr 2014) sacked by [interim board just before Ming arrived](https://x.com/BobSummerwill/status/1953624199584743536).
 
 ## Links
 

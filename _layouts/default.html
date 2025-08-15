@@ -5,7 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    
+
+    <script>
+    if (window.location.hostname === "bobsummerwill.github.io") {
+        window.location.replace("https://www.earlydaysofeth.org" + window.location.pathname);
+    }
+    </script>
+
     {% seo %}
     
     <style>

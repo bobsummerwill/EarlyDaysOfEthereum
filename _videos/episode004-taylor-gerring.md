@@ -70,7 +70,7 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 One thing I like to point out is that conference there's some photos some of which I took and some of which others took but the way the story goes is that room was standing room only he was in to give the announcement of Ethereum and then afterwards the questions kept coming in and kept coming in and the organizers had to ask him to step outside and I just remember these photos of like him being mobbed by a group of people just wanting to ask them questions.  I think [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}) was standing right there. Probably [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) was probably real close. But that's a very iconic picture in my mind, at least.
 
-<img src="{{ '/images/taylorgerring/taylorgerring_2014.01.26.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/taylor-gerring/taylor-gerring_2014.01.26.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
 
 But anyway, the house that [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) had organized became kind of the hub and the central place where we all gathered around.  I think Jonathan Monaghan? Mohan?
@@ -79,7 +79,7 @@ But anyway, the house that [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | r
 
 **Taylor:** He was doing some recording stuff there. I remember [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}) being there out on the back patio with [Joe]({{ '/people/joseph-lubin/' | relative_url }}) and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}).  I was in my photography era, so I was doing more photo taking. But I didn't know where to sleep, and I had brought a hammock down with me.  And so I ended up sleeping in the backyard on a hammock between two trees, looking out over the canal that ran past the house for two nights.
 
-<img src="{{ '/images/taylorgerring/taylorgerring_2014.01.25.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/taylor-gerring/taylor-gerring_2014.01.25.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
 **Bob:**  Nice. Yeah. Same with that iconic photograph. I can't remember the guy's name now, but at some point I met the guy who had the speaking slot after [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}).  And he said "... and everyone just sodded off!"  It's like nobody left in the room for him.
 
@@ -95,7 +95,7 @@ But anyway, the house that [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | r
 
 **Bob:** Oh I'm back.  I was just saying on that thread on the photo thread that you got, Taylor, that was that sort of iconic everyone crowding around [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) yeah with [Anthony]({{ '/people/anthony-di-iorio/' | relative_url }}) and [Joe]({{ '/people/joseph-lubin/' | relative_url }}) there and then some photos on you on the back patio.  Then there's that group shot with everyone there and some other bits and pieces.
 
-<img src="{{ '/images/taylorgerring/taylorgerring_2014.01.31.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
 *(The Ethereum team in their Miami house rented by Antony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), Antony D'Onofrio, [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), Louis Parker. Bottom (left to right): [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
@@ -103,7 +103,7 @@ But anyway, the house that [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | r
 
 **Taylor:**  Yeah, it would be interesting to go back and check the actual timeline. I felt like things happened kind of fast.  Where we landed in Zug was, I mean, we landed in Zurich, but then we took the train to a small farm town called Meierskoppel. And there was a handful group there that was just staying on Airbnb.  And I went along with my friend [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}), who kind of came with me. We met up in, I think, Germany somewhere and continued on to Zurich.  But we landed there, and it was just very chaotic in the sense that nobody had a good sense of what was happening, on what timeline, for what reason, you know, whether it was just sleeping quarters or getting the website online or who was arriving.
 
-<img src="{{ '/images/taylorgerring/taylorgerring_2014.02.09_7.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/taylor-gerring/taylor-gerring_2014.02.09_7.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }}), who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
@@ -145,7 +145,7 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
-<img src="{{ '/images/taylorgerring/taylorgerring_2014.02.20.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
 **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 
@@ -301,7 +301,7 @@ So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCO
 
 **Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that.
 
-<img src="{{ '/images/victorwong/victorwong_devcon1_sticker.jpeg' | relative_url }}" style="width: 25%; height: auto;">
+<img src="{{ '/images/victor-wong/victor-wong_devcon1_sticker.jpeg' | relative_url }}" style="width: 25%; height: auto;">
 
 *(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo!)*
 

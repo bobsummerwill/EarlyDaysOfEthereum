@@ -58,7 +58,3 @@ All images remain in the `images/` directory with the same structure. Use Jekyll
 ```markdown
 ![Description]({{ '/images/path/to/image.jpg' | relative_url }})
 ```
-
-## Original Content
-
-The original markdown files remain in their original locations (`articles/`, `people/`, `videos/`) for reference, but the Jekyll site uses the converted versions in the Jekyll collections and posts directories.

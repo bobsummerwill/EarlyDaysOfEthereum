@@ -7,7 +7,7 @@ description: "Executive Assistant to Ethereum Foundation board"
 
 Oct 2017 to Dec 2018
 
-Executive Assistant to the Foundation board, in particular to the Executive Directors ([Ming]({{ '/people/ming-chan/' | relative_url }}) and [Aya]({{ '/people/aya-miyaguchi/' | relative_url }})) between October 2017 and December 2018, helping to organise Devcon in Cancun and in Prague.
+Executive Assistant to the Foundation board, in particular to the Executive Directors ([Ming]({{ '/people/ming-chan/' | relative_url }}) and [Aya]({{ '/people/aya-miyaguchi/' | relative_url }})) between October 2017 and December 2018, helping to organise DEVCON in Cancun and in Prague.
 
 ## Links
 

@@ -220,6 +220,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## October 2017
 - [Jon Choi]({{ '/people/jon-choi/' | relative_url }}) – Sep 2017 to Aug 2018
+- [Catherine Bühler-Todd]({{ '/people/catherine-buhler-todd/' | relative_url }}) – Oct 2017 to Dec 2018
 
 ## February 2018
 - **[Aya Miyaguchi]({{ '/people/aya-miyaguchi/' | relative_url }}) – Feb 2018 to present**

@@ -137,7 +137,7 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Taylor:**  Who knows?
 
-(*Added during editing:  His real name was [Richard Stott]({{ '/people/richard-stott/' | relative_url }}), and it appears that sadly he [might actually have died in 2024](https://x.com/blockchaingirl/status/1818203032980471885).  Bob intended to speak to him in 2018 during his "maple syrup diplomacy phase" with [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), but the call never actually happened.*)
+(*Added during editing:  His real name was [Richard Stott]({{ '/people/richard-stott/' | relative_url }}), and it appears that [he died in 2024](https://x.com/blockchaingirl/status/1818203032980471885).  Bob intended to speak to Richard in 2017/2018 during his "maple syrup diplomacy phase" with [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), but the call never actually happened.*)
 
 **Bob:** I mean, at that point, were other people, like, working together in other parts of the world? Have you got people together in, you know, in London or New York as well at that point?
 

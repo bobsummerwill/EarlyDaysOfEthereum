@@ -5,6 +5,22 @@ baseurl: ""
 url: "https://earlydaysofeth.org"
 author: "Bob Summerwill"
 
+# Social sharing image
+image: /images/ethereum_org_12_march_2024.png
+
+# Social media settings
+twitter:
+  username: bobsummerwill
+  card: summary_large_image
+
+# Open Graph settings
+social:
+  name: "Early Days of Ethereum"
+  links:
+    - https://github.com/bobsummerwill/EarlyDaysOfEthereum
+    - https://x.com/bobsummerwill
+    - https://linkedin.com/in/bobsummerwill
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -28,24 +44,32 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /images/ethereum_org_12_march_2024.png
+  - scope:
+      path: ""
       type: "articles"
     values:
       layout: "post"
+      image: /images/ethereum_org_12_march_2024.png
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      image: /images/ethereum_org_12_march_2024.png
   - scope:
       path: ""
       type: "people"
     values:
       layout: "person"
+      image: /images/ethereum_org_12_march_2024.png
   - scope:
       path: ""
       type: "videos"
     values:
       layout: "video"
+      image: /images/ethereum_org_12_march_2024.png
 
 # Plugins
 plugins:

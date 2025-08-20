@@ -7,7 +7,7 @@ description: "Ethereum's biggest mystery."
 
 Nora is an unknown individual who seemingly gave [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) legal advice related to her hostile takeover of the EF from the other newly elected board members.
 
-Here is a Skype message which [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) accidentally sent to [Lars Klawitter]({{ '/people/lars-klawitter/' | relative_url }}) on 4th August 2015.  She deleted it almost immediately afterwards, but not before he took a copy.  It is assumed that it was intended for her sister and legal counsel [Tung Chan]({{ '/people/tung-chan/' | relative_url }}).  Bumper Chan was her Skype name.
+Here is a Skype message which [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) accidentally sent to [Lars Klawitter]({{ '/people/lars-klawitter/' | relative_url }}) on 4th August 2015.  She deleted it almost immediately afterwards, but not before he took a copy.  It is assumed that it was intended for her sister and legal counsel [Tung Chan]({{ '/people/tung-chan/' | relative_url }}).  Bumper Chan was her Skype name.  Her first official day as Executive Director had been just a few days earlier, on 1st August 2015.
 
 ----
 *[04/08/2015 20:05:15] Bumper Chan: [Wayne]({{ '/people/wayne-hennessy-barrett/' | relative_url }}) is dismissive of everyone, including the other board members. He says he will handle everything. It sounds like [Wayne]({{ '/people/wayne-hennessy-barrett/' | relative_url }}) convinced [Lars]({{ '/people/lars-klawitter/' | relative_url }}) to write this letter. [Wayne]({{ '/people/wayne-hennessy-barrett/' | relative_url }}) told me "You're not going anywhere" and neither is anyone else*

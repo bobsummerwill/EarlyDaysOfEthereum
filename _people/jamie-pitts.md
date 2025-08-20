@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Jun 2016 to present
+Jun 2016 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/jamiepitts/)

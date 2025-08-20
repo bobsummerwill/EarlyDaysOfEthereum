@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Mentioned by Taylor
+mentioned by Taylor travelling to Switzerland together
 
 ## References
 

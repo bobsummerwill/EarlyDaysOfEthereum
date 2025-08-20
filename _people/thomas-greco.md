@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Mar 2016 to present?
+Mar 2016 to ???
 
 ## References
 

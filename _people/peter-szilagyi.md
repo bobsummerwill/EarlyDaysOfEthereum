@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Apr 2015 to present
+Apr 2015 to ???
 
 ## Links
 - [GitHub](https://github.com/karalabe)

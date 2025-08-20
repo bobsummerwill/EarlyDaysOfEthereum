@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Carpenter
+Mar 2014? to ??? - carpenter
 
 ## References
 

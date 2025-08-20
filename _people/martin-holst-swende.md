@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Sep 2016 to present
+Sep 2016 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/martin-holst-swende-a6664/)

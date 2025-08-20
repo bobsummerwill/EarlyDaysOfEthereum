@@ -5,7 +5,10 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Missing Information
+Apr 2014 to Jun 2015
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/matt-liston-b041088a/)
 
 ## References
 

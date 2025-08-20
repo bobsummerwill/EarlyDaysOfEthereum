@@ -60,9 +60,10 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}) – Jan 2014 to ???
 - [Paul Snow]({{ '/people/paul-snow/' | relative_url }}) – Jan 2014 to ???
 - [Chris Odom]({{ '/people/chris-odom/' | relative_url }}) – Jan 2014 to ???
-- [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}) – Jan 2014 to ???
-- [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}) – Jan 2014 to ???
-- [Dino Mark]({{ '/people/dino-mark/' | relative_url }}) – Jan 2014 to ???
+- [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}) – Jan 2014 to ??? - present at Miami house in January 2014
+- [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}) – Jan 2014 to ??? - present at Miami house in January 2014
+- [Dino Mark]({{ '/people/dino-mark/' | relative_url }}) – Jan 2014 to ??? - present at Miami house in January 2014
+- [Louis Parker]({{ '/people/louis-parker/' | relative_url }}) - present at Miami house in January 2014
 
 ## February 2014
 - [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }}) – Feb 2014 to Nov 2018 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m43s))
@@ -72,6 +73,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) – ??? to ???
 - [Karl Gluck]({{ '/people/karl-gluck/' | relative_url }}) – ??? to ???
 - [Houwu Chen]({{ '/people/houwu-chen/' | relative_url }}) – ??? to ???
+- [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}) mentioned by Taylor travelling to Switzerland together
 
 ## March 2014
 - [Ethan Wilding]({{ '/people/ethan-wilding/' | relative_url }}) – Mar 2014 to Apr 2017
@@ -81,6 +83,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Joris Bontje]({{ '/people/joris-bontje/' | relative_url }}) – Mar 2014 to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m34s))
 - [Maran Hidskes]({{ '/people/maran-hidskes/' | relative_url }}) – Mar 2014 to Sep 2014 (now part of Ethlab with Jeff from Jan 2016)
 - [Roman Mandeleil]({{ '/people/roman-mandeleil/' | relative_url }}) – Mar 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s))
+- [Lorenzo Patuzzo]({{ '/people/lorenzo-patuzzo/' | relative_url }}), Mar 2014? to ??? - carpenter
 
 ## April 2014
 - [Vlad Zamfir]({{ '/people/vlad-zamfir/' | relative_url }}) ("[vladzamfir](https://github.com/vladzamfir)") – Apr 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s))
@@ -91,6 +94,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Brian Fabian Crain]({{ '/people/brian-fabian-crain/' | relative_url }}) – May 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=30m37s))
 
 ## June 2014
+- [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer (was present at Red Wedding but involved in Ethereum in NY earlier)
 - [Konstantin Kudryavtsev]({{ '/people/konstantin-kudryavtsev/' | relative_url }}) – June 2014 to Jan 2016
 - [Marian Oancea]({{ '/people/marian-oancea/' | relative_url }}) – Jun 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=24m35s))
 
@@ -99,7 +103,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Alex Leverington]({{ '/people/alex-leverington/' | relative_url }}) ("[subtly](https://github.com/subtly)") – Aug 2014 to Oct 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m53s))
 
 ## September 2014
-- [Zsolt Felföldi]({{ '/people/zsolt-felfoldi/' | relative_url }}) ("[zsfelfoldi](https://github.com/zsfelfoldi)") – Sep 2014 (maybe) to ???
+- [Zsolt Felföldi]({{ '/people/zsolt-felfoldi/' | relative_url }}) ("[zsfelfoldi](https://github.com/zsfelfoldi)") – Sep 2014 (maybe) to present (left and returned)
 - [Christophe Jentzsch]({{ '/people/christophe-jentzsch/' | relative_url }}) ("[CJentzsch](https://github.com/CJentzsch)") – Sep 2014 to Nov 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=19m33s))
 - [Sarah O'Neill]({{ '/people/sarah-oneill/' | relative_url }}) – Sep 2014 to Nov 2014 (designed the ETHDEV space in Berlin)
 - [Roland]({{ '/people/roland/' | relative_url }}) – Sep 2014 to Nov 2014 (designed the ETHDEV space in Berlin)
@@ -115,8 +119,8 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Vincent G]({{ '/people/vincent-g/' | relative_url }}) ("[caktux](https://github.com/caktux)") – Oct 2014 to ??? (was already effectively gone when I started in Feb 2016)
 
 ## November 2014
-- **[Yann Levreau]({{ '/people/yann-levreau/' | relative_url }}) ("yann300") – Nov 2014 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
-- **[Paweł Bylica]({{ '/people/pawel-bylica/' | relative_url }}) – Nov 2014 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
+- [Yann Levreau]({{ '/people/yann-levreau/' | relative_url }}) ("yann300") – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
+- [Paweł Bylica]({{ '/people/pawel-bylica/' | relative_url }}) – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
 - [Piotrek 'Viggith' Janiuk]({{ '/people/piotrek-janiuk/' | relative_url }}) – Nov 2014 to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m46s))
 - [Christian Vömel]({{ '/people/christian-vomel/' | relative_url }}) – Nov 2014 to ?? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s))
 - [Lefteris Karapetsas]({{ '/people/lefteris-karapetsas/' | relative_url }}) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
@@ -126,7 +130,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Sven Ehlert]({{ '/people/sven-ehlert/' | relative_url }}) – Nov 2014 to Mar 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s))
 - [Konrad Feldmeier]({{ '/people/konrad-feldmeier/' | relative_url }}) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0 intro](https://youtu.be/_BvvUlKDqp0?t=28m41s))
 - [Henning Diedrich]({{ '/people/henning-diedrich/' | relative_url }}) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0 intro](https://youtu.be/_BvvUlKDqp0?t=27m58s))
-- [Ksenya S]({{ '/people/ksenya-s/' | relative_url }}) – Nov 2014 (maybe) to present (but never in the EF) – [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m)
+- [Ksenya S]({{ '/people/ksenya-s/' | relative_url }}) – Nov 2014 (maybe) to ??? - only for DEVCON0? (but never in the EF) – [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m)
 
 ## December 2014
 - [Arkadiy Paronyan]({{ '/people/arkadiy-paronyan/' | relative_url }}) – Dec 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s))
@@ -141,8 +145,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Kelley Becker]({{ '/people/kelley-becker/' | relative_url }}) – March 2015 to June 2017
 
 ## April 2015
-- **[Péter Szilágyi]({{ '/people/peter-szilagyi/' | relative_url }}) ("[karalabe](https://github.com/karalabe)") – Apr 2015 to present**
+- [Péter Szilágyi]({{ '/people/peter-szilagyi/' | relative_url }}) ("[karalabe](https://github.com/karalabe)") – Apr 2015 to ???
 - [Bas van Kervel]({{ '/people/bas-van-kervel/' | relative_url }}) ("[bas-vk](https://github.com/bas-vk)") – Apr 2015 to Jul 2017
+- [Victor Wong]({{ '/people/victor-wong/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
 
 ## June 2015
 - [Lars Klawitter]({{ '/people/lars-klawitter/' | relative_url }}) – Jun 2015 to Dec 2015
@@ -152,6 +157,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## July 2015
 - [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) – Jul 2015 to Jan 2018
 - [Tung Chan]({{ '/people/tung-chan/' | relative_url }}) – Jul 2015 to Apr 2018
+- [Nora]({{ '/people/nora/' | relative_url }})
 - [William Mougayar]({{ '/people/william-mougayar/' | relative_url }}) – Jul 2015 to Feb 2017
 
 ## August 2015
@@ -159,6 +165,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## September 2015
 - [Stefano Bartolo]({{ '/people/stefano-bartolo/' | relative_url }}) – Sep 2015 to Feb 2017
+- [James 'Jim' Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer, starting Sep 2015, but Haskell client work started earlier.
 
 ## October 2015
 - [Bernd Lapp]({{ '/people/bernd-lapp/' | relative_url }}) – Oct 2015 to Feb 2017
@@ -175,7 +182,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## March 2016
 - [Greg Colvin]({{ '/people/greg-colvin/' | relative_url }}) – Mar 2016 to Oct 2017
-- [Thomas Greco]({{ '/people/thomas-greco/' | relative_url }}) – Mar 2016 to present?
+- [Thomas Greco]({{ '/people/thomas-greco/' | relative_url }}) – Mar 2016 to present (but never in EF)?
 
 ## May 2016
 - [Vladislav Martynov]({{ '/people/vladislav-martynov/' | relative_url }}) – May 2016 to May 2019
@@ -183,22 +190,23 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## June 2016
 - [Everton Fraga]({{ '/people/everton-fraga/' | relative_url }}) – Jun 2016 (maybe) to 2020
 - [Hudson Jameson]({{ '/people/hudson-jameson/' | relative_url }}) – Jun 2016 to Apr 2021
-- **[Jamie Pitts]({{ '/people/jamie-pitts/' | relative_url }}) – Jun 2016 to present**
+- [Jamie Pitts]({{ '/people/jamie-pitts/' | relative_url }}) – Jun 2016 to ???
 - [Nick Johnson]({{ '/people/nick-johnson/' | relative_url }}) ("[Arachnid](https://github.com/Arachnid)") – June 2016 to Aug 2018
 
 ## July 2016
 - [Lilit Penrod]({{ '/people/lilit-penrod/' | relative_url }}) – July 2016 to Sep 2016. Sep 2017
 
 ## September 2016
-- **[Martin Holst Swende]({{ '/people/martin-holst-swende/' | relative_url }}) – Sep 2016 to present**
+- [Martin Holst Swende]({{ '/people/martin-holst-swende/' | relative_url }}) – Sep 2016 to Apr 2025
 - [Yoichi Hirai]({{ '/people/yoichi-hirai/' | relative_url }}) – Sep 2016 to Oct 2018
 
 ## October 2016
+- [Toya Budunguud]({{ '/people/toya-budunguud/' | relative_url }}) - volunteer at devcon2, effectively assistant to Ming for devcon3 prep
 - [Virgil Griffith]({{ '/people/virgil-griffith/' | relative_url }}) – Oct 2016 to Nov 2019
 - **[Patrick Karl Storchenegger]({{ '/people/patrick-karl-storchenegger/' | relative_url }}) – Oct 2016 to present**
 
 ## December 2016
-- **[Andrei Maiboroda]({{ '/people/andrei-maiboroda/' | relative_url }}) – Dec 2016 to present**
+- [Andrei Maiboroda]({{ '/people/andrei-maiboroda/' | relative_url }}) – Dec 2016 to ???
 
 ## January 2017
 - [John Frazer]({{ '/people/john-frazer/' | relative_url }}) – Jan 2017 to Jan 2018
@@ -225,16 +233,3 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## February 2018
 - **[Aya Miyaguchi]({{ '/people/aya-miyaguchi/' | relative_url }}) – Feb 2018 to present**
 - **[Albert Ni]({{ '/people/albert-ni/' | relative_url }}) – Feb 2018 to present**
-
-## Missing Information
-- [Matt Liston]({{ '/people/matt-liston/' | relative_url }})
-- [Nora]({{ '/people/nora/' | relative_url }})
-- [Louis Parker]({{ '/people/louis-parker/' | relative_url }}) - present at Miami house in January 2014
-- [Victor Wong]({{ '/people/victor-wong/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
-- [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
-- [James 'Jim' Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer
-- Are there any other key characters who were are missing here?
-- [Viktor Tron]({{ '/people/viktor-tron/' | relative_url }}) says he has corrected/updates and will do those when this is on Github.
-- [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}) mentioned by Taylor
-- [Toya Budunguud]({{ '/people/toya-budunguud/' | relative_url }}) - volunteer at devcon2, effectively assistant to Ming for devcon3 prep
-- [Lorenzo Patuzzo]({{ '/people/lorenzo-patuzzo/' | relative_url }}), carpenter

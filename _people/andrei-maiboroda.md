@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Dec 2016 to present
+Dec 2016 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/andrei-maiboroda/)

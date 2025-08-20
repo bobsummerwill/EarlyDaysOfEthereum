@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Jan 2014 to ???
+present at Miami house in January 2014
 
 ## References
 

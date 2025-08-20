@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Sep 2014 (maybe) to ???
+Sep 2014 (maybe) to present (left and returned)
 
 ## Links
 - [X](https://twitter.com/zsfelfoldi)

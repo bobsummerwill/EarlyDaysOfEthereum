@@ -2,24 +2,35 @@
 layout: default
 ---
 
-<div class="back-link">
-    <a href="{{ '/articles/' | relative_url }}">&larr; Back to Articles</a>
-</div>
+<nav aria-label="Breadcrumb">
+    <div class="back-link">
+        <a href="{{ '/articles/' | relative_url }}">&larr; Back to Articles</a>
+    </div>
+</nav>
 
-<article>
+<article itemscope itemtype="https://schema.org/Article">
     <header>
-        <h1>{{ page.title }}</h1>
+        <h1 itemprop="headline">{{ page.title }}</h1>
         <div class="content-meta">
             {% if page.date %}
-                <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>
+                <meta itemprop="dateModified" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
             {% endif %}
             {% if page.author %}
-                by {{ page.author }}
+                <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                    by <span itemprop="name">{{ page.author }}</span>
+                </span>
             {% endif %}
         </div>
+        {% if page.description %}
+        <meta itemprop="description" content="{{ page.description }}">
+        {% endif %}
+        {% if page.image %}
+        <meta itemprop="image" content="{{ page.image | absolute_url }}">
+        {% endif %}
     </header>
     
-    <div class="post-content">
+    <div class="post-content" itemprop="articleBody">
         {{ content }}
     </div>
     
@@ -27,21 +38,10 @@ layout: default
     <div class="post-tags">
         <strong>Tags:</strong>
         {% for tag in page.tags %}
-            <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+            <span class="tag" itemprop="keywords">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
     </div>
     {% endif %}
-</article>
-
-<style>
-    .post-content h1,
-    .post-content h2,
-    .post-content h3,
-    .post-content h4,
-    .post-content h5,
-    .post-content h6 {
-        color: #007acc;
-        margin-top: 30px;
         margin-bottom: 15px;
     }
     

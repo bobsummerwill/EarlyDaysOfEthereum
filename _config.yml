@@ -5,6 +5,18 @@ baseurl: ""
 url: "https://earlydaysofeth.org"
 author: "Bob Summerwill"
 
+# Additional SEO settings
+lang: en_US
+timezone: America/Vancouver
+keywords: "Ethereum, blockchain, cryptocurrency, Vitalik Buterin, Gavin Wood, early history, foundation, development"
+
+# Site verification (add your verification codes when available)
+google_site_verification: ""
+bing_site_verification: ""
+
+# Analytics (add your tracking IDs when available)
+google_analytics: ""
+
 # Social sharing image
 image: /images/ethereum_org_12_march_2024.png
 

@@ -5,10 +5,10 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Aug 2015 to Dec 2015
+Intern at EF from Aug 2015 to Dec 2015
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/jacobstenumczepluch/)
+- [LinkedIn](https://www.linkedin.com/in/jstcz/)
 
 ## References
 

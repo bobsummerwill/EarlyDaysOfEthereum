@@ -10,13 +10,13 @@ links:
     url: "https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/"
 ---
 
-The first episode of the Early Days of Ethereum video series, independently produced by [Victor Wong](https://x.com/vic4wong), [Kieren James-Lubin](https://x.com/kjameslubin) and [Jim Hormuzdiar](https://x.com/JamshidHormuz), the co-Founders of [BlockApps](https://blockapps.net).
+The first episode of the Early Days of Ethereum video series, independently produced by [Victor Wong]({{ '/people/victor-wong/' | relative_url }}), [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) and [Jim Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}), the co-Founders of [BlockApps](https://blockapps.net).
 
 {% include youtube_embed.html width="75%" %}
 
 ## Transcript
 
-[[0:00 - 0:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=0s) **Kieren:**  Ready. So we're on. Thanks. So my name is Kieren James-Lubin. I'm joined by [Jim](https://x.com/JamshidHormuz) or [James Hormuzdiar](https://x.com/JamshidHormuz) and [Victor Wong](https://x.com/vic4wong).
+[[0:00 - 0:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=0s) **Kieren:**  Ready. So we're on. Thanks. So my name is Kieren James-Lubin. I'm joined by [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) or [James Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}) and [Victor Wong]({{ '/people/victor-wong/' | relative_url }}).
 
 [[0:13 - 0:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=13s) **Kieren:**  We are old friends. We also run a company together called BlockApps, which has been in operation for quite some time. But that's not what we're here to talk about today. We're actually taking the topic up of what Ethereum was like in the early days.
 
@@ -34,7 +34,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:57 - 2:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=117s) **Kieren:**  I didn't really get the idea of decentralization at the time. I just imagined it as some sort of digital money solution. You know, if you asked me then, I probably couldn't have drawn a difference between it and, you know, a digital banking or a pay field type provider, that sort of thing.
 
-[[2:16 - 2:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=136s) **Kieren:**  And they might have bought a little of it, but not nearly enough, of course. So, that said, let me hand the question over to [Jim](https://x.com/JamshidHormuz).
+[[2:16 - 2:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=136s) **Kieren:**  And they might have bought a little of it, but not nearly enough, of course. So, that said, let me hand the question over to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
 [[2:28 - 2:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=148s) **Kieren:**  When were you first aware of Bitcoin?
 
@@ -48,7 +48,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[3:27 - 3:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=207s) **Jim:**  And at that point there was enough ambiguous stuff being discussed. I wanted to just dig in and see how it worked. So that's when I started trying to write code that would connect to one of the peers and see how they... At the time it was a testnet.
 
-[[3:44 - 3:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=224s) **Jim:**  And that's when I started to understand the background of it and got really pulled into there. So, I don't know. Let me pass it on to [Victor](https://x.com/vic4wong).
+[[3:44 - 3:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=224s) **Jim:**  And that's when I started to understand the background of it and got really pulled into there. So, I don't know. Let me pass it on to [Victor]({{ '/people/victor-wong/' | relative_url }}).
 
 [[3:52 - 4:09]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=232s) **Kieren:**  Yeah, Jim, we'll pick that up. I'm trying to a little bit stay chronological. So, you know, 2010, 2011 sounds like same time frame for you. I think we'll pull back in a question or two right to that era, and we'll talk in more detail.
 
@@ -146,7 +146,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[14:33 - 14:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=873s) **Jim:**  And we said, hey, let's just be crazy right now. And let's take this to its extension. Let's go to China and actually put them in a school there. So I called around some various friends.
 
-[[14:46 - 14:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=886s) **Jim:**  And one of the friends I called was a VC who had just funded a startup of [Victor](https://x.com/vic4wong)'s in Beijing.
+[[14:46 - 14:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=886s) **Jim:**  And one of the friends I called was a VC who had just funded a startup of [Victor]({{ '/people/victor-wong/' | relative_url }})'s in Beijing.
 
 [[14:53 - 15:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=893s) **Kieren:**  And he said I going to get you in touch with these guys So in fact let me pass it over to you right now and you can explain Well yeah and so the VC you know who we still friends with Herb G like he kind of came up to me and he explicitly said like oh, I have this brilliant CTO and he says he wants to come to China.
 
@@ -158,13 +158,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[15:31 - 15:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=931s) **Kieren:**  And I remember like, you know, like we were kind of talking over the summer and I was like, you know, seeing how serious you were about coming. And and at one point you said, OK, look, if you can get my kids into a Chinese school in Beijing, I will come and take the job to Beijing.
 
-[[15:49 - 16:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=949s) **Kieren:**  and I went to the school that my kids went to which and said like you know can you make space for um you know two foreign kids this international program they said yes if you can but the kids have to be here the first day of school and first day of school was two weeks from that conversation so I called [Jim](https://x.com/JamshidHormuz) up and said look I can do it you know I can guarantee a place for them but you have to be here on this day.
+[[15:49 - 16:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=949s) **Kieren:**  and I went to the school that my kids went to which and said like you know can you make space for um you know two foreign kids this international program they said yes if you can but the kids have to be here the first day of school and first day of school was two weeks from that conversation so I called [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) up and said look I can do it you know I can guarantee a place for them but you have to be here on this day.
 
 [[16:18 - 16:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=978s) **Kieren:**  And to my shock, he actually said yes. And he packed up his house. We packed
 
-[[16:23 - 16:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=983s) **Jim:**  everything in the house. I think we had 12 days to be in school and we probably had to have the house packed within like, I don't know, less than a week. So that was a crazy week. But [Victor](https://x.com/vic4wong) was a great help in...
+[[16:23 - 16:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=983s) **Jim:**  everything in the house. I think we had 12 days to be in school and we probably had to have the house packed within like, I don't know, less than a week. So that was a crazy week. But [Victor]({{ '/people/victor-wong/' | relative_url }}) was a great help in...
 
-[[16:42 - 16:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1002s) **Jim:**  We were going to a country we'd never been to before, didn't know much about. [Victor](https://x.com/vic4wong) had also moved to Asia a few years earlier, and so he had sort of scoped out everything, and he knew where the good schools were, he knew where the good apartment buildings were, helped us out tremendously.
+[[16:42 - 16:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1002s) **Jim:**  We were going to a country we'd never been to before, didn't know much about. [Victor]({{ '/people/victor-wong/' | relative_url }}) had also moved to Asia a few years earlier, and so he had sort of scoped out everything, and he knew where the good schools were, he knew where the good apartment buildings were, helped us out tremendously.
 
 [[16:56 - 16:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1016s) **Jim:**  It was a great experience.
 
@@ -224,15 +224,15 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[23:15 - 23:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1395s) **Kieren:**  I got a chance to read it. And it was pretty cool and interesting and new. And that's sort of the first time I grasped the potential of technology that caused me to go back and read the Bitcoin white paper, etc.
 
-[[23:27 - 24:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1407s) **Kieren:**  And it was sort of exciting enough to work on for that summer, basically. So that's how I got into it. and subsequently, you know, [Jim](https://x.com/JamshidHormuz) alluded to this earlier, I started to work with the project and reached out to Steve Shue, a great friend of ours, kind of, I don't know, not quite famously brilliant, definitely brilliant, somewhat famous, super cool guy, and had been a longtime reader of Steve's blog.
+[[23:27 - 24:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1407s) **Kieren:**  And it was sort of exciting enough to work on for that summer, basically. So that's how I got into it. and subsequently, you know, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) alluded to this earlier, I started to work with the project and reached out to Steve Shue, a great friend of ours, kind of, I don't know, not quite famously brilliant, definitely brilliant, somewhat famous, super cool guy, and had been a longtime reader of Steve's blog.
 
 [[24:01 - 24:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1441s) **Kieren:**  He's one of the few really excellent general communicators who's a super technical guy. But most people who are really technical in communication have a hard time distilling it for at least kind of a mass market audience.
 
-[[24:18 - 24:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1458s) **Kieren:**  But Steve is actually good at that, but with nuanced coverage of technical topics. So anyway, caught up with Steve, and that takes us to Steve forwarding on the Ethereum white paper to [Jim](https://x.com/JamshidHormuz).
+[[24:18 - 24:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1458s) **Kieren:**  But Steve is actually good at that, but with nuanced coverage of technical topics. So anyway, caught up with Steve, and that takes us to Steve forwarding on the Ethereum white paper to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
 [[24:34 - 24:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1474s) **Kieren:**  And I believe I was – the first time I spoke to Steve, I was in New York, but was just about to go back to the Bay Area. So that takes us to maybe June, July 2014.
 
-[[24:48 - 25:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1488s) **Kieren:**  And maybe I came back in August or something like that. And it turned out that [Jim](https://x.com/JamshidHormuz) was there in Hayward, and we got to meet up, what did you do, August 2014, September, something like that?
+[[24:48 - 25:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1488s) **Kieren:**  And maybe I came back in August or something like that. And it turned out that [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) was there in Hayward, and we got to meet up, what did you do, August 2014, September, something like that?
 
 [[25:01 - 25:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1501s) **Jim:**  Oh, it was around then because also, ironically, I was driving across the country that summer, too, and it was right after I came back.
 
@@ -244,9 +244,9 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[25:37 - 25:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1537s) **Kieren:**  Big sky country, right? Big sky country. Okay, so let me see here. I have a couple other 2014 anecdotes that you guys may not even know that much about, but maybe we should jump ahead to 2015 and go back.
 
-[[25:58 - 26:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1558s) **Kieren:**  Just before we go past 2014. So I moved back from China in 2014. And so me and [Jim](https://x.com/JamshidHormuz) were talking about like, oh, now that I was back, what kind of project could we do together?
+[[25:58 - 26:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1558s) **Kieren:**  Just before we go past 2014. So I moved back from China in 2014. And so me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were talking about like, oh, now that I was back, what kind of project could we do together?
 
-[[26:14 - 26:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1574s) **Kieren:**  So while you had started that conversation, me and [Jim](https://x.com/JamshidHormuz) were like thinking about, okay, you know, like maybe we could work on a startup together. And at some point you forwarded me the paper as well. So like I think – so that's kind of how I got into it as well.
+[[26:14 - 26:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1574s) **Kieren:**  So while you had started that conversation, me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were like thinking about, okay, you know, like maybe we could work on a startup together. And at some point you forwarded me the paper as well. So like I think – so that's kind of how I got into it as well.
 
 [[26:30 - 26:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1590s) **Kieren:**  I want to give – yeah, I don't want to speak the whole time, but I have some info here that I forget if I told you guys at length. Okay, don't worry. In 2014, so basically I did work on the Ethereum project through a bunch of 2014.
 
@@ -410,7 +410,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[46:01 - 46:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2761s) **Jim:**  We walked in with this packet of money in our hands, and we had to, like, meet this guy, and he spent most of the time, like –
 
-[[46:07 - 46:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2767s) **Kieren:**  Do you remember – did he use, like, local bitcoins? That was popular. I don't know if it's still in existence. Local bitcoins. Okay, gotcha. Sorry, go ahead, [Jim](https://x.com/JamshidHormuz).
+[[46:07 - 46:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2767s) **Kieren:**  Do you remember – did he use, like, local bitcoins? That was popular. I don't know if it's still in existence. Local bitcoins. Okay, gotcha. Sorry, go ahead, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
 [[46:16 - 46:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2776s) **Jim:**  Yeah, he spent most of the time there railing against the government and how much he hated the U.S. government and all the things they – and all the terrible things they were doing. And we kind of, like, transferred the envelope over to him, and then we pulled up a computer or our phones or something, and we were, like, watching for six blocks to come by.
 
@@ -502,7 +502,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[56:43 - 56:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3403s) **Kieren:**  Yeah. Okay, so the crowd sale is, like, not a huge part of your memory. It's a huge part of mine, I guess, because we were, like, dealing with all of the issues. But, Vic, were you – You were just getting kind of interested at this time, right?
 
-[[56:58 - 57:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3418s) **Kieren:**  Yeah, exactly. [Jim](https://x.com/JamshidHormuz) basically, when he was going to buy this Bitcoin, he was like, oh, I'm going to buy this Bitcoin to participate in the crowd sale.
+[[56:58 - 57:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3418s) **Kieren:**  Yeah, exactly. [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) basically, when he was going to buy this Bitcoin, he was like, oh, I'm going to buy this Bitcoin to participate in the crowd sale.
 
 [[57:11 - 57:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3431s) **Kieren:**  Do you want to participate? And I was like, you know, I'm going to feel like a real idiot if I don't do anything. So I just, it was just some, yeah, we were just going to say like some nominal amount that we did.
 
@@ -510,7 +510,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[57:35 - 57:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3455s) **Kieren:**  You're, like, generating this, scroll forward speed phrases, you know, this, that, and the other. It just was mind-bogglingly complicated, you know. But, like, I think the biggest problem with the step was getting actual Bitcoin.
 
-[[57:50 - 58:06]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3470s) **Kieren:**  Like, you know, I mean, [Jim](https://x.com/JamshidHormuz) was in the Bay Area, right? the part of IT and all exact things. I was in Vancouver and it wasn't Vancouver was an early Bitcoin adopter but it was still really really hard to find anyone who would be willing to sell you Bitcoin.
+[[57:50 - 58:06]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3470s) **Kieren:**  Like, you know, I mean, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) was in the Bay Area, right? the part of IT and all exact things. I was in Vancouver and it wasn't Vancouver was an early Bitcoin adopter but it was still really really hard to find anyone who would be willing to sell you Bitcoin.
 
 [[58:09 - 58:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3489s) **Kieren:**  Yeah.
 
@@ -652,7 +652,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:12:38 - 1:12:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4358s) **Kieren:**  Yeah, I remember that distinctly. It was such a funny time. Big headliners at the O'Reilly conference. Reid Hoffman, I think Balaji spoke.
 
-[[1:12:52 - 1:13:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4372s) **Kieren:**  Yeah, something like that. Bill Janeway I believe and some others Okay I want to shift gears to the client race which we hit on But at this point, I got really into it. So I was never, I learned in school enough how to program software, but was not a, you know, professional quality software developer. And I kind of learned enough of that quickly on the job with [Jim](https://x.com/JamshidHormuz). So as [Jim](https://x.com/JamshidHormuz) alluded to, we would meet up at my
+[[1:12:52 - 1:13:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4372s) **Kieren:**  Yeah, something like that. Bill Janeway I believe and some others Okay I want to shift gears to the client race which we hit on But at this point, I got really into it. So I was never, I learned in school enough how to program software, but was not a, you know, professional quality software developer. And I kind of learned enough of that quickly on the job with [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}). So as [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) alluded to, we would meet up at my
 
 [[1:13:26 - 1:13:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4406s) **Kieren:**  Berkeley apartment. I think first we were meeting at one on Telegraph, just north of Ashby.
 
@@ -668,7 +668,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:15:14 - 1:15:18]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4514s) **Jim:**  I had to just dig in. Yeah, that was...
 
-[[1:15:18 - 1:15:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4518s) **Kieren:**  You had repressed that memory. So, mostly [Jim](https://x.com/JamshidHormuz) figured all of this out, but the Ethereum people put, for the technical audience, kind of the equivalent of something like SSL into the product.
+[[1:15:18 - 1:15:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4518s) **Kieren:**  You had repressed that memory. So, mostly [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) figured all of this out, but the Ethereum people put, for the technical audience, kind of the equivalent of something like SSL into the product.
 
 [[1:15:35 - 1:16:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4535s) **Kieren:**  So, they put end-to-end encryption in and there's a complex like handshake and then like a session was created between peers and yada yada and so it's really hard to implement stuff like that because all of the mess you're getting back is encrypted so you have to get it totally perfect and then it makes sense but if you don't get it perfect nothing makes sense and you don't know why I was just
 
@@ -778,7 +778,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:27:41 - 1:27:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5261s) **Kieren:**  I'm not quite sure where it stands today. So talking about security, I want to hone in on the theme of the shifting launch date.
 
-[[1:27:54 - 1:28:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5274s) **Kieren:**  Do you remember our [Victor](https://x.com/vic4wong), too? So, you know, we had started to work on kind of a company related to all this, and we're getting worried because they kept adding more stuff, basically.
+[[1:27:54 - 1:28:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5274s) **Kieren:**  Do you remember our [Victor]({{ '/people/victor-wong/' | relative_url }}), too? So, you know, we had started to work on kind of a company related to all this, and we're getting worried because they kept adding more stuff, basically.
 
 [[1:28:09 - 1:28:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5289s) **Kieren:**  Can you kind of go into our, you know, anything you remember from that time?
 
@@ -968,7 +968,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:46:15 - 1:46:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6375s) **Kieren:**  Yeah, I totally remember. So I remember, well, at some point up to the launch, we realized, okay, if we were going to help businesses or other groups build applications on Ethereum, we would need Ether to be able to pay for gas for those transactions.
 
-[[1:46:35 - 1:46:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6395s) **Kieren:**  and so we're like well where are we going to get this ether from and you know I think the first thing that happened was you guys were like oh we need to build a mining rig right oh hand that over to you [Jim](https://x.com/JamshidHormuz) I think that was [Kieren](https://x.com/kjameslubin) and I drove
+[[1:46:35 - 1:46:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6395s) **Kieren:**  and so we're like well where are we going to get this ether from and you know I think the first thing that happened was you guys were like oh we need to build a mining rig right oh hand that over to you [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) I think that was [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) and I drove
 
 [[1:46:52 - 1:46:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6412s) **Jim:**  up to Fry's and picked up a bunch of components we did and you know
 
@@ -982,7 +982,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:47:42 - 1:47:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6462s) **Jim:**  But we got it going eventually. But the part that was funny I remember is that we spent, like, two or three days building these machines, getting it up, putting the software on, getting it running, hitting some problems. And it started, like, Ether started to dribble in at that point in time.
 
-[[1:47:57 - 1:48:06]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6477s) **Jim:**  So we're like, oh, this is awesome. And then we called up [Victor](https://x.com/vic4wong), and he's like, yeah, in the last half hour, I just, like, spun up a few machines at Amazon, and I'm getting as much ether as you guys are.
+[[1:47:57 - 1:48:06]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6477s) **Jim:**  So we're like, oh, this is awesome. And then we called up [Victor]({{ '/people/victor-wong/' | relative_url }}), and he's like, yeah, in the last half hour, I just, like, spun up a few machines at Amazon, and I'm getting as much ether as you guys are.
 
 [[1:48:07 - 1:48:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6487s) **Kieren:**  Well, it was more than a few machines. So, like, I remember watching you guys build this and, like, thinking, like, oh, like, this is going to launch any day now, right? Like, so, like, I said, like, can someone give me an image of the Go client?
 

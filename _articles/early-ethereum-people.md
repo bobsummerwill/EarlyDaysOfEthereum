@@ -233,3 +233,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## February 2018
 - **[Aya Miyaguchi]({{ '/people/aya-miyaguchi/' | relative_url }}) – Feb 2018 to present**
 - **[Albert Ni]({{ '/people/albert-ni/' | relative_url }}) – Feb 2018 to present**
+
+
+## Missing information
+
+- ["Louis"]({{ '/people/louis/' | relative_url }}), mentioned in [Gav’s Ethereum ÐΞV Update III](https://blog.ethereum.org/2014/11/18/gavs-dev-update-iii)
+- [Andreas Lubbe]({{ '/people/andreas-lubbe/' | relative_url }}), mentioned in [Gav’s Ethereum ÐΞV Update III](https://blog.ethereum.org/2014/11/18/gavs-dev-update-iii)

@@ -110,7 +110,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## October 2014
 - [Alex van de Sande]({{ '/people/alex-van-de-sande/' | relative_url }}) ("[avsa](https://github.com/alexvandesande)") – Oct 2014 to Jan 2019 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=26m38s))
-- **[Christian Reitwiessner]({{ '/people/christian-reitwiessner/' | relative_url }}) ("[chriseth](https://github.com/chriseth)") – Oct 2014 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s))
+- [Christian Reitwiessner]({{ '/people/christian-reitwiessner/' | relative_url }}) ("[chriseth](https://github.com/chriseth)") – Oct 2014 to ~2023? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s))
 - [Daniel Nagy]({{ '/people/daniel-nagy/' | relative_url }}) ("[nagydani](https://github.com/nagydani)") – Oct 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m10s))
 - **[Felix Lange]({{ '/people/felix-lange/' | relative_url }}) ("[fjl](https://github.com/fjl)") – Oct 2014 to present** ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m38s))
 - [Viktor Tron]({{ '/people/viktor-tron/' | relative_url }}) ("[zelig](https://github.com/zelig)") – Oct 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=23m41s))

@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Oct 2014 to present
+Oct 2014 to ~2023?
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s)

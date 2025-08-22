@@ -173,7 +173,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## December 2015
 - [Yessin Schiegg]({{ '/people/yessin-schiegg/' | relative_url }}) – Dec 2015 to Feb 2017
 
-## February 2016
+## January 2016
 - [Alex Beregszaszi]({{ '/people/alex-beregszaszi/' | relative_url }}) – Jan 2016 to July 2025 (started volunteering Oct 2015)
 
 ## February 2016
@@ -183,6 +183,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 ## March 2016
 - [Greg Colvin]({{ '/people/greg-colvin/' | relative_url }}) – Mar 2016 to Oct 2017
 - [Thomas Greco]({{ '/people/thomas-greco/' | relative_url }}) – Mar 2016 to present (but never in EF)?
+
+## April 2016
+- [Luca Zeug]({{ '/people/luca-zeug/' | relative_url }}) – Apr 2016 to Jul 2016
 
 ## May 2016
 - [Vladislav Martynov]({{ '/people/vladislav-martynov/' | relative_url }}) – May 2016 to May 2019
@@ -225,9 +228,9 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## September 2017
 - [Karl Floersch]({{ '/people/karl-floersch/' | relative_url }}) – Sep 2017 to Jan 2020
+- [Jon Choi]({{ '/people/jon-choi/' | relative_url }}) – Sep 2017 to Aug 2018
 
 ## October 2017
-- [Jon Choi]({{ '/people/jon-choi/' | relative_url }}) – Sep 2017 to Aug 2018
 - [Catherine Bühler-Todd]({{ '/people/catherine-buhler-todd/' | relative_url }}) – Oct 2017 to Dec 2018
 
 ## February 2018

@@ -40,9 +40,9 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[2:30 - 2:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=150s) **Jim:**  Aware is different than, like, interested. In fact, like, I don't know. I was, like, I came from an academic background. So, I'd been hearing about it probably since when you had been hearing about it. But I was, like, a little bit too above all that.
 
-[[2:42 - 2:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=162s) **Jim:**  Like, oh, that's, like, a money thing. I'm not interested in that money world. So really, no, like the interest came from when you reached out to Steve, who is an old friend of mine and that Kieran had been following his blog.
+[[2:42 - 2:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=162s) **Jim:**  Like, oh, that's, like, a money thing. I'm not interested in that money world. So really, no, like the interest came from when you reached out to Steve, who is an old friend of mine and that [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) had been following his blog.
 
-[[2:58 - 3:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=178s) **Jim:**  And Steve called me up and he's like, this guy Kieran just called me up. And you have to go look at this Ethereum thing. And so at first I was like, you know, I'm not interested in all this fake money thing.
+[[2:58 - 3:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=178s) **Jim:**  And Steve called me up and he's like, this guy [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) just called me up. And you have to go look at this Ethereum thing. And so at first I was like, you know, I'm not interested in all this fake money thing.
 
 [[3:13 - 3:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=193s) **Jim:**  And I went and I read the white paper. and by the end of the white paper I was hooked in. I was like, this isn't just about like banking or something. This is about incentivization on the internet and that drew me in.
 
@@ -52,29 +52,34 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[3:52 - 4:09]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=232s) **Kieren:**  Yeah, Jim, we'll pick that up. I'm trying to a little bit stay chronological. So, you know, 2010, 2011 sounds like same time frame for you. I think we'll pull back in a question or two right to that era, and we'll talk in more detail.
 
-[[4:10 - 4:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=250s) **Kieren:**  But let's hold on it for just a moment. Vic, do you want to take it? Yeah, I think I became aware of it around the same time as you. I was doing one of my startups in Beijing at the time, and I felt really disconnected from North America.
+[[4:10 - 4:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=250s) **Kieren:**  But let's hold on it for just a moment. [Vic]({{ '/people/victor-wong/' | relative_url }}), do you want to take it?
 
-[[4:27 - 4:45]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=267s) **Kieren:**  So I became sort of an early fan of podcasts. And one of the big podcast networks was this thing called Twit that was like all technical podcasts. And one of the podcasts I really loved was this podcast, Security Now, which went really deep into these kind of like security technical kind of things.
+[[4:14 - 4:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=254s) 
+**Victor:** Yeah, I think I became aware of it around the same time as you. I was doing one of my startups in Beijing at the time, and I felt really disconnected from North America.
 
-[[4:45 - 5:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=285s) **Kieren:**  And he did like a couple episodes of Bitcoin. And I was like, you know, really, really fascinated by it. But mostly from a technical angle, like and even to the point where I downloaded the Bitcoin client and ran it, didn't get any Bitcoin.
+[[4:27 - 4:45]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=267s) **Victor:**  So I became sort of an early fan of podcasts. And one of the big podcast networks was this thing called Twit that was like all technical podcasts. And one of the podcasts I really loved was this podcast, [Security Now](https://twit.tv/shows/security-now), which went really deep into these kind of like security technical kind of things.
 
-[[5:00 - 5:15]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=300s) **Kieren:**  Or if I did, I didn't notice. I think the rewards were like 50 at the time or something like this. But the strange thing was that a year or two later, I started to notice other Chinese startups.
+[[4:45 - 5:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=285s) **Victor:** And he did like a couple episodes of Bitcoin. And I was like, you know, really, really fascinated by it. But mostly from a technical angle, like and even to the point where I downloaded the Bitcoin client and ran it, didn't get any Bitcoin.
 
-[[5:15 - 5:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=315s) **Kieren:**  There'd be like groups of computers in like part of their office. And I was like, what are those for? And they're like, oh, we're mining Bitcoin. And I was like, oh, like, why are you mining Bitcoin? And they're like, oh, well, you know, we can like transfer money.
+[[5:00 - 5:15]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=300s) **Victor:** Or if I did, I didn't notice. I think the rewards were like 50 at the time or something like this. But the strange thing was that a year or two later, I started to notice other Chinese startups.
 
-[[5:28 - 5:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=328s) **Kieren:**  and like it's basically free internet magic money. And I was like, I honestly was kind of repelled by that. Like that kind of seemed like too nutty even for me at the time.
+[[5:15 - 5:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=315s) **Victor:**  There'd be like groups of computers in like part of their office. And I was like, what are those for? And they're like, oh, we're mining Bitcoin. And I was like, oh, like, why are you mining Bitcoin? And they're like, oh, well, you know, we can like transfer money.
+
+[[5:28 - 5:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=328s) **Victor:**  and like it's basically free internet magic money. And I was like, I honestly was kind of repelled by that. Like that kind of seemed like too nutty even for me at the time.
 
 [[5:40 - 5:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=340s) **Jim:**  Did we all hate it before we liked it?
 
-[[5:43 - 6:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=343s) **Kieren:**  I never hated it. I was sort of just like not that interested, I guess. You know, I think, you know, from the East Coast, the attitude towards stiff financial stuff is probably more favorable. I think Jimmy had long since been out in California doing like, after your physics days.
+[[5:43 - 6:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=343s) **Kieren:**  I never hated it. I was sort of just like not that interested, I guess. You know, I think, you know, from the East Coast, the attitude towards stiff financial stuff is probably more favorable. I think [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}), you had long since been out in California doing like, after your physics days.
 
 [[6:07 - 6:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=367s) **Jim:**  You're not telling me that there were other grad students who kind of, like, I guess I didn't hate it. I just felt I was too good for it.
 
-[[6:14 - 6:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=374s) **Kieren:**  I didn't hate it, but I think I found the, like, like everyone talked about, So I was fascinated, the technical aspect, like I said, like, you know, and it got me to read the white paper and even like download the software.
+[[6:14 - 6:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=374s) **Victor:**  I didn't hate it, but I think I found the, like, like everyone talked about, So I was fascinated, the technical aspect, like I said, like, you know, and it got me to read the white paper and even like download the software.
 
-[[6:31 - 6:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=391s) **Kieren:**  But I think the part that kind of turned me off about it was like when you talk to some of the early people that I would ask, like, who were saying Bitcoin mining rigs, they're like, they were like kind of fanatical.
+[[6:31 - 6:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=391s) **Victor:**  But I think the part that kind of turned me off about it was like when you talk to some of the early people that I would ask, like, who were saying Bitcoin mining rigs, they're like, they were like kind of fanatical.
 
-[[6:44 - 7:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=404s) **Kieren:**  Like there was that crypto anarchist sort of flavor to the early days that kind of turned me off, I would say. Yeah, Jim, I would say the people in academia that were pretty successful on a classic track and were going to get a good postdoc and a good assistant professorship and all that sort of thing mostly ignored crypto.
+[[6:44 - 7:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=404s) **Victor:**  Like there was that crypto anarchist sort of flavor to the early days that kind of turned me off, I would say.
+
+[[6:53 - 7:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=413s) **Kieren:**  Yeah, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}), I would say the people in academia that were pretty successful on a classic track and were going to get a good postdoc and a good assistant professorship and all that sort of thing mostly ignored crypto.
 
 [[7:08 - 7:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=428s) **Kieren:**  Some of them weighed in on it. but, yeah, I think it's sort of, it was too fringe to attract, like, the classically most successful, in some sense, people at that time, whereas, you know, fighting against, not fighting against, but you're sort of fighting for jobs, like in math or physics or something, it's just, like, the most horsepower wins from an intellectual perspective and, I guess, the hardest working horsepower.
 
@@ -690,7 +695,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:17:29 - 1:17:43]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4649s) **Jim:**  But their thought process was that it was more about identity. They wanted – once you join, you wanted to have essentially like a cert that verified that you are who you say you are. And they wanted that there for the various extensions that they were putting in.
 
-[[1:17:43 - 1:18:02]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4663s) **Jim:**  And so, okay, that wasn't crazy. It was very annoying to me to spend a week of my life trying to implement this. But the other thing that's kind of funny is that, and maybe, Kieran, you know more from talking to people over the summer, but there was sort of a distrust in standards.
+[[1:17:43 - 1:18:02]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4663s) **Jim:**  And so, okay, that wasn't crazy. It was very annoying to me to spend a week of my life trying to implement this. But the other thing that's kind of funny is that, and maybe, [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}), you know more from talking to people over the summer, but there was sort of a distrust in standards.
 
 [[1:18:04 - 1:18:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4684s) **Jim:**  And so, like, I think, like, the thing a usual software engineer would do is be to actually get SSL and implement it with that. or to take, like, I don't know, hash algorithms that had, like, a corporate sample of approval and put that in.
 

@@ -9,6 +9,7 @@ Jan 2014 to present (but never in the EF)
 
 ## Links
 - [X](https://twitter.com/bitgulu)
+- [LinkedIn](https://www.linkedin.com/in/bin-lu-85682239/)
 
 ## References
 

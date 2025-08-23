@@ -3,9 +3,6 @@ source "https://rubygems.org"
 # GitHub Pages
 gem "github-pages", group: :jekyll_plugins
 
-# Faraday retry middleware
-gem "faraday-retry"
-
 # Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

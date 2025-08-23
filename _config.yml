@@ -2,7 +2,7 @@
 title: "Early Days of Ethereum"
 description: "Articles and videos detailing the early days of the Ethereum project"
 baseurl: ""
-url: "https://earlydaysofeth.org"
+url: "https://www.earlydaysofeth.org"
 author: "Bob Summerwill"
 
 # Additional SEO settings
@@ -11,7 +11,7 @@ timezone: America/Vancouver
 keywords: "Ethereum, blockchain, cryptocurrency, Vitalik Buterin, Gavin Wood, early history, foundation, development"
 
 # Site verification (add your verification codes when available)
-google_site_verification: ""
+google_site_verification: "VAAK0u6FRzaYZ9K8SHqFh_4HOGGGh7-dqDjc"
 bing_site_verification: ""
 
 # Analytics (add your tracking IDs when available)

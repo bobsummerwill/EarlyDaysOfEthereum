@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-April 2014 to present (but never in EF)
+April 2014 to present
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=20m11s)

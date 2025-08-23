@@ -5,7 +5,7 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Jan 2014 to present (but never in the EF)
+Jan 2014 to ???
 
 ## Links
 - [X](https://twitter.com/bitgulu)

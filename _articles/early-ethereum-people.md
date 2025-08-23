@@ -127,6 +127,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Ken Kappler]({{ '/people/ken-kappler/' | relative_url }}) – Nov 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m19s))
 - [Vinay Gupta]({{ '/people/vinay-gupta/' | relative_url }}) – Nov 2014 (Maybe) to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m29s))
 - [Sven Ehlert]({{ '/people/sven-ehlert/' | relative_url }}) – Nov 2014 to Mar 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s))
+- [Arkadiy Paronyan]({{ '/people/arkadiy-paronyan/' | relative_url }}) – Nov 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s))
 
 ## November 2014 (DEVCON0 guests)
 
@@ -134,7 +135,6 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Konrad Feldmeier]({{ '/people/konrad-feldmeier/' | relative_url }}) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=28m41s))
 - [Henning Diedrich]({{ '/people/henning-diedrich/' | relative_url }}) – Nov 2014 (maybe) to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=27m58s))
 - [Ksenya S]({{ '/people/ksenya-s/' | relative_url }}) – Nov 2014 (maybe) to ??? - only for DEVCON0? (but never in the EF) – [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m)
-- [Arkadiy Paronyan]({{ '/people/arkadiy-paronyan/' | relative_url }}) – Nov 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s))
 
 ## December 2014
 - [Dimitry Kholkov]({{ '/people/dimitry-kholkov/' | relative_url }}) ("[winsvega](https://github.com/winsvega)") – Dec 2014 to Jun 2025

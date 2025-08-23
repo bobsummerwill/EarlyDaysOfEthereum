@@ -89,11 +89,12 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## May 2014
 - [Brian Fabian Crain]({{ '/people/brian-fabian-crain/' | relative_url }}) – May 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=30m37s))
+- [Marian Oancea]({{ '/people/marian-oancea/' | relative_url }}) – May 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=24m35s))
 
 ## June 2014
 - [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) - co-Founder of BlockApps, Haskell client developer (was present at Red Wedding but involved in Ethereum in NY earlier)
 - [Konstantin Kudryavtsev]({{ '/people/konstantin-kudryavtsev/' | relative_url }}) – June 2014 to Jan 2016
-- [Marian Oancea]({{ '/people/marian-oancea/' | relative_url }}) – Jun 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=24m35s))
+
 
 # Stiftung Ethereum and ETH ÐΞV (July 2014 to February 2015)
 
@@ -119,7 +120,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## November 2014
 - [Yann Levreau]({{ '/people/yann-levreau/' | relative_url }}) ("yann300") – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
-- [Paweł Bylica]({{ '/people/pawel-bylica/' | relative_url }}) – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
+- [Paweł Bylica]({{ '/people/pawel-bylica/' | relative_url }}) – Nov 2014 to Jun 2025 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
 - [Christian Vömel]({{ '/people/christian-vomel/' | relative_url }}) – Nov 2014 to ?? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s))
 - [Lefteris Karapetsas]({{ '/people/lefteris-karapetsas/' | relative_url }}) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
 - [Jutta Steiner]({{ '/people/jutta-steiner/' | relative_url }}) – Nov 2014 to Oct 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=27m24s))

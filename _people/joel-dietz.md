@@ -5,7 +5,12 @@ description: "Ethereum OG"
 
 {{ page.description }}
 
-Mar 2014 (maybe) to present (but never in the EF)
+Dec 2013 to Aug 2014
+
+Founding Member, Ethereum
+
+Founded Metamask (originally "Vapor"), two Ethereum related meetups, the Ethereum developer evangelism program (EtherCasts), and numerous early whitepapers on reputational systems and governance. 
+
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=30m1s)

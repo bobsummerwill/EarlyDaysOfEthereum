@@ -190,12 +190,12 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## April 2016
 - [Luca Zeug]({{ '/people/luca-zeug/' | relative_url }}) – Apr 2016 to Jul 2016
+- [Everton Fraga]({{ '/people/everton-fraga/' | relative_url }}) – Apr 2016 to Nov 2020
 
 ## May 2016
 - [Vladislav Martynov]({{ '/people/vladislav-martynov/' | relative_url }}) – May 2016 to May 2019
 
 ## June 2016
-- [Everton Fraga]({{ '/people/everton-fraga/' | relative_url }}) – Jun 2016 (maybe) to 2020
 - [Hudson Jameson]({{ '/people/hudson-jameson/' | relative_url }}) – Jun 2016 to Apr 2021
 - [Jamie Pitts]({{ '/people/jamie-pitts/' | relative_url }}) – Jun 2016 to ???
 - [Nick Johnson]({{ '/people/nick-johnson/' | relative_url }}) ("[Arachnid](https://github.com/Arachnid)") – June 2016 to Aug 2018

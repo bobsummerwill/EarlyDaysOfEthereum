@@ -7,6 +7,8 @@ description: "Ethereum OG"
 
 Nov 2014 to ???
 
+Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
+
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s)
 

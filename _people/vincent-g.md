@@ -7,6 +7,8 @@ description: "Ethereum OG"
 
 Oct 2014 to ??? (was already effectively gone when I started in Feb 2016)
 
+Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
+
 ## Links
 - [GitHub](https://github.com/caktux)
 - [LinkedIn](https://www.linkedin.com/in/Caktux/)

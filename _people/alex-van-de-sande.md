@@ -7,12 +7,15 @@ description: "Ethereum OG"
 
 Oct 2014 to Jan 2019
 
+Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
+
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=26m38s)
 
 ## Links
 - [GitHub](https://github.com/alexvandesande)
 - [LinkedIn](https://www.linkedin.com/in/alexvandesande/)
+- [Reddit](https://www.reddit.com/user/avsa/)
 
 ## References
 

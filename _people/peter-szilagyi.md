@@ -1,11 +1,11 @@
 ---
 title: "Péter Szilágyi"
-description: "Ethereum OG"
+description: "Geth Team Lead"
 ---
 
 {{ page.description }}
 
-Apr 2015 to ???
+Apr 2015 to Nov 2024
 
 ## Links
 - [GitHub](https://github.com/karalabe)

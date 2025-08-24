@@ -150,7 +150,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Kelley Becker]({{ '/people/kelley-becker/' | relative_url }}) – March 2015 to June 2017
 
 ## April 2015
-- [Péter Szilágyi]({{ '/people/peter-szilagyi/' | relative_url }}) ("[karalabe](https://github.com/karalabe)") – Apr 2015 to ???
+- [Péter Szilágyi]({{ '/people/peter-szilagyi/' | relative_url }}) ("[karalabe](https://github.com/karalabe)") – Apr 2015 to Nov 2024
 - [Bas van Kervel]({{ '/people/bas-van-kervel/' | relative_url }}) ("[bas-vk](https://github.com/bas-vk)") – Apr 2015 to Jul 2017
 
 ## June 2015

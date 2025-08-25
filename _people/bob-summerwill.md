@@ -1,6 +1,8 @@
 ---
 name: Bob Summerwill
 description: Bob worked at the Ethereum Foundation in 2016 and initiated the Early Days of Ethereum project.
+start: "Feb 2016"
+end: "Oct 2016"
 ---
 
 ## Links

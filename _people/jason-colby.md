@@ -1,6 +1,8 @@
 ---
 name: Jason Colby
 description: Ethereum OG
+start: "Jan 2014"
+end: "Jan 2016"
 devcon0: "2006"
 ---
 

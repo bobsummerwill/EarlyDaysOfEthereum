@@ -1,7 +1,7 @@
 ---
 name: Houwu Chen
-description: Ethereum OG
-start: ???
+description: Development/Chinese Partner
+start: Mar 2014
 end: ???
 ---
 

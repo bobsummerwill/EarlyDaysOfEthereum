@@ -1,7 +1,7 @@
 ---
 name: Addison Cameron-Huff
 description: Ethereum OG
-start: ???
+start: May 2014
 end: ???
 ---
 

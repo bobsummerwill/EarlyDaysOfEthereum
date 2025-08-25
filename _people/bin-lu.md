@@ -1,6 +1,6 @@
 ---
 name: Bin Lu
-description: Ethereum OG
+description: Chinese Partner
 start: Jan 2014
 end: ???
 ---

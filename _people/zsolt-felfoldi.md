@@ -1,10 +1,9 @@
 ---
 name: Zsolt Felföldi
 description: Ethereum OG
+start: Sep 2014
+end: "present (left and returned)"
 ---
-
-
-Sep 2014 (maybe) to present (left and returned)
 
 ## Links
 - [X](https://twitter.com/zsfelfoldi)

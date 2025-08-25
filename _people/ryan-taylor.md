@@ -1,7 +1,7 @@
 ---
 name: Ryan Taylor
-description: Ethereum OG
-start: ???
+description: Web Development
+start: Feb 2014
 end: ???
 ---
 

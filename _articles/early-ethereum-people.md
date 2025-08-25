@@ -65,12 +65,12 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## February 2014
 - [Aeron Buchanan]({{ '/people/aeron-buchanan/' | relative_url }}) – Feb 2014 to Nov 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=15m42s))
-- [Houwu Chen]({{ '/people/houwu-chen/' | relative_url }}) – ??? to ???
+- [Houwu Chen]({{ '/people/houwu-chen/' | relative_url }}) – Mar 2014 to ???
 - [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }}) – Feb 2014 to Nov 2018 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m43s))
 - [Karl Gluck]({{ '/people/karl-gluck/' | relative_url }}) – ??? to ???
 - [Nicolas 'Nick' Fierro]({{ '/people/nicolas-fierro/' | relative_url }}) – Feb 2014 to Jan 2015
 - [Russell Verbeeten]({{ '/people/russell-verbeeten/' | relative_url }}) – Feb 2014 to Jul 2014
-- [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) – ??? to ???
+- [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) – Feb 2014 to ???
 
 ## March 2014
 - [Ethan Wilding]({{ '/people/ethan-wilding/' | relative_url }}) – Mar 2014 to Apr 2017
@@ -83,11 +83,11 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Roman Mandeleil]({{ '/people/roman-mandeleil/' | relative_url }}) – Mar 2014 to ??? (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s))
 
 ## April 2014
-- [Addison Cameron-Huff]({{ '/people/addison-cameron-huff/' | relative_url }}) – ??? to ???
 - [Joseph Chow]({{ '/people/joseph-chow/' | relative_url }}) ("[ethers](https://github.com/ethers)") – April 2014 to present ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=20m11s))
 - [Vlad Zamfir]({{ '/people/vlad-zamfir/' | relative_url }}) ("[vladzamfir](https://github.com/vladzamfir)") – Apr 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s))
 
 ## May 2014
+- [Addison Cameron-Huff]({{ '/people/addison-cameron-huff/' | relative_url }}) – May 2014 to ???
 - [Brian Fabian Crain]({{ '/people/brian-fabian-crain/' | relative_url }}) – May 2014 to present (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=30m37s))
 - [Marian Oancea]({{ '/people/marian-oancea/' | relative_url }}) – May 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=24m35s))
 
@@ -125,7 +125,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Lefteris Karapetsas]({{ '/people/lefteris-karapetsas/' | relative_url }}) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
 - [Paweł Bylica]({{ '/people/pawel-bylica/' | relative_url }}) – Nov 2014 to Jun 2025 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m55s))
 - [Sven Ehlert]({{ '/people/sven-ehlert/' | relative_url }}) – Nov 2014 to Mar 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s))
-- [Vinay Gupta]({{ '/people/vinay-gupta/' | relative_url }}) – Nov 2014 (Maybe) to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m29s))
+- [Vinay Gupta]({{ '/people/vinay-gupta/' | relative_url }}) – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m29s))
 - [Yann Levreau]({{ '/people/yann-levreau/' | relative_url }}) ("yann300") – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s))
 
 ## November 2014 (DEVCON0 guests)

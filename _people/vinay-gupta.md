@@ -1,10 +1,10 @@
 ---
 name: Vinay Gupta
 description: Ethereum OG
+start: "Nov 2014"
+end: "???"
 devcon0: "1949"
 ---
-
-Nov 2014 (maybe) to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/vinay-gupta-0072/)

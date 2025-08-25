@@ -1,7 +1,7 @@
 ---
 name: Louis Parker
 description: Early Ethereum contributor
-start: January 2014
+start: Jan 2014
 end: present
 ---
 

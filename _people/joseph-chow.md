@@ -1,7 +1,7 @@
 ---
 name: Joseph Chow
 description: Ethereum OG
-start: April 2014
+start: Apr 2014
 end: present
 devcon0: "1211"
 ---

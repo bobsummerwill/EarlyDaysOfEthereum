@@ -1,5 +1,5 @@
 ---
-title: Jonathan Mohan
+name: Jonathan Mohan
 description: Ethereum OG
 start: Dec 2013
 end: Jun 2014

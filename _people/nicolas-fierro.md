@@ -1,5 +1,5 @@
 ---
-title: Nicolas Fierro
+name: Nicolas Fierro
 description: Ethereum OG
 start: Feb 2014
 end: Jan 2015

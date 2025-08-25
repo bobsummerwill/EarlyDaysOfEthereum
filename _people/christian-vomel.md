@@ -1,5 +1,5 @@
 ---
-title: Christian Vömel
+name: Christian Vömel
 description: Ethereum OG
 start: Nov 2014
 end: ???

@@ -1,5 +1,5 @@
 ---
-title: George Hallam
+name: George Hallam
 description: Ethereum OG
 start: Aug 2014
 end: Oct 2016

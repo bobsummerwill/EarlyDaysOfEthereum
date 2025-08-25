@@ -1,5 +1,5 @@
 ---
-title: "Anthony 'Texture' D'Onofrio"
+name: "Anthony 'Texture' D'Onofrio"
 description: Ethereum OG
 start: Dec 2013
 end: Mar 2014 or maybe Apr 2014

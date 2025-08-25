@@ -1,5 +1,5 @@
 ---
-title: Jeff Wilcke
+name: Jeff Wilcke
 description: Ethereum co-Founder
 start: Dec 2013
 end: Feb 2017

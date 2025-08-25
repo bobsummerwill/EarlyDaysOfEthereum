@@ -1,5 +1,5 @@
 ---
-title: Lilit Penrod
+name: Lilit Penrod
 description: Ethereum OG
 start: July 2016
 end: Sep 2016

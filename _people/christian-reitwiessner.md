@@ -1,5 +1,5 @@
 ---
-title: Christian Reitwiessner
+name: Christian Reitwiessner
 description: Ethereum OG
 start: Oct 2014
 end: ~2023?

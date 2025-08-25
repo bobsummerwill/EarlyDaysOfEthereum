@@ -1,5 +1,5 @@
 ---
-title: Jutta Steiner
+name: Jutta Steiner
 description: Ethereum OG
 start: Nov 2014
 end: Oct 2015

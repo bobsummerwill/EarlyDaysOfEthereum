@@ -1,5 +1,5 @@
 ---
-title: Taylor Gerring
+name: Taylor Gerring
 description: Taylor joined the Ethereum project in December 2013 and was one of the founding Directors of the Ethereum Foundation, together with Mihai Alisie and Vitalik Buterin.
 ---
 

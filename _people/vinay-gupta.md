@@ -1,5 +1,5 @@
 ---
-title: Vinay Gupta
+name: Vinay Gupta
 description: Ethereum OG
 devcon0: "1949"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Konrad Feldmeier
+name: Konrad Feldmeier
 description: Ethereum OG
 start: Nov 2014 (maybe)
 end: present (but never in the EF)

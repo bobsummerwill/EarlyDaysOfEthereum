@@ -1,5 +1,5 @@
 ---
-title: Roland
+name: Roland
 description: Ethereum OG
 start: Aug 2014
 end: Nov 2014

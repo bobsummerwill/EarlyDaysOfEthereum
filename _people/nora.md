@@ -1,5 +1,5 @@
 ---
-title: Nora
+name: Nora
 description: "Ethereum's biggest mystery."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Yann Levreau
+name: Yann Levreau
 description: Ethereum OG
 start: Nov 2014
 end: ???

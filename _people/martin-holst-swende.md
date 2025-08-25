@@ -1,5 +1,5 @@
 ---
-title: Martin Holst Swende
+name: Martin Holst Swende
 description: Geth maintainer and security guy
 start: Sep 2016
 end: Apr 2025

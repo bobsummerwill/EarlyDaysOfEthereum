@@ -1,5 +1,5 @@
 ---
-title: Camilo Russo
+name: Camilo Russo
 description: Author of The Infinite Machine
 ---
 

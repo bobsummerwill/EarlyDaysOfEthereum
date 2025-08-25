@@ -1,5 +1,5 @@
 ---
-title: Patrick Karl Storchenegger
+name: Patrick Karl Storchenegger
 description: Ethereum OG
 start: Oct 2016
 end: present

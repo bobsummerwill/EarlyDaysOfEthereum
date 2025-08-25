@@ -1,5 +1,5 @@
 ---
-title: Daniel Nagy
+name: Daniel Nagy
 description: Ethereum OG
 start: Oct 2014
 end: ???

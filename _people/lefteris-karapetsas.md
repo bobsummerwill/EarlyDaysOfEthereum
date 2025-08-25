@@ -1,5 +1,5 @@
 ---
-title: Lefteris Karapetsas
+name: Lefteris Karapetsas
 description: Ethereum OG
 start: Nov 2014
 end: Jan 2016

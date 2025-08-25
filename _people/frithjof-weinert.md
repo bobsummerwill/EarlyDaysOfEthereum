@@ -1,5 +1,5 @@
 ---
-title: Frithjof Weinert
+name: Frithjof Weinert
 description: Ethereum OG
 start: Mar 2015
 end: Jun 2017

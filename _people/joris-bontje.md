@@ -1,5 +1,5 @@
 ---
-title: Joris Bontje
+name: Joris Bontje
 description: Ethereum OG
 start: Mar 2014
 end: present

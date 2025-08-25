@@ -1,5 +1,5 @@
 ---
-title: Vincent G
+name: Vincent G
 description: Ethereum OG
 start: Oct 2014
 end: ???

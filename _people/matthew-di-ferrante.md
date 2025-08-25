@@ -1,5 +1,5 @@
 ---
-title: Matthew di Ferrante
+name: Matthew di Ferrante
 description: Ethereum OG
 start: Jun 2017
 end: Jan 2019

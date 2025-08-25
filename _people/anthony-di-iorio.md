@@ -1,5 +1,5 @@
 ---
-title: Anthony Di Iorio
+name: Anthony Di Iorio
 description: Ethereum co-Founder
 start: Dec 2013
 end: Dec 2015

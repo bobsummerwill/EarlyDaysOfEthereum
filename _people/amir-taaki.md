@@ -1,5 +1,5 @@
 ---
-title: Amir Taaki
+name: Amir Taaki
 description: "'Anarchist Amir' to Amir Chetrit's 'Capitalist Amir', Gav met Johnny through Amir Taaki."
 ---
 

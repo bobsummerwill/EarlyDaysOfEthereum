@@ -1,5 +1,5 @@
 ---
-title: Liana Husikyan
+name: Liana Husikyan
 description: Ethereum OG
 start: Jan 2015
 end: around Jun 2016

@@ -1,5 +1,5 @@
 ---
-title: Jason Colby
+name: Jason Colby
 description: Ethereum OG
 devcon0: "2006"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alex Leverington
+name: Alex Leverington
 description: Ethereum OG
 start: Aug 2014
 end: Oct 2015

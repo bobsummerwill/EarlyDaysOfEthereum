@@ -1,5 +1,5 @@
 ---
-title: Andrei Maiboroda
+name: Andrei Maiboroda
 description: Ethereum OG
 start: Dec 2016
 end: ???

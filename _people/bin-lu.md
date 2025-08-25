@@ -1,5 +1,5 @@
 ---
-title: Bin Lu
+name: Bin Lu
 description: Ethereum OG
 start: Jan 2014
 end: ???

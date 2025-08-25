@@ -1,5 +1,5 @@
 ---
-title: Ming Chan
+name: Ming Chan
 description: Ethereum OG
 start: Jul 2015
 end: Jan 2018

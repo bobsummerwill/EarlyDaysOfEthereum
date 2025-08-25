@@ -1,5 +1,5 @@
 ---
-title: Toya Budunguud
+name: Toya Budunguud
 description: Ethereum OG
 ---
 

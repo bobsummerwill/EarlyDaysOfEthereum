@@ -1,5 +1,5 @@
 ---
-title: Zsolt Felföldi
+name: Zsolt Felföldi
 description: Ethereum OG
 ---
 

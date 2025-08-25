@@ -1,5 +1,5 @@
 ---
-title: Ken Kappler
+name: Ken Kappler
 description: Ethereum OG
 start: Nov 2014
 end: Sep 2015

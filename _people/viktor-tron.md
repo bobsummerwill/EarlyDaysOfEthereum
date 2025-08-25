@@ -1,5 +1,5 @@
 ---
-title: Viktor Tron
+name: Viktor Tron
 description: Ethereum OG
 start: Oct 2014
 end: ???

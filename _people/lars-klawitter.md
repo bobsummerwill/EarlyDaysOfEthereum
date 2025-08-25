@@ -1,5 +1,5 @@
 ---
-title: Lars Klawitter
+name: Lars Klawitter
 description: Ethereum OG
 start: Jun 2015
 end: Dec 2015

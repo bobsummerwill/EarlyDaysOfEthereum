@@ -1,5 +1,5 @@
 ---
-title: Ryan Taylor
+name: Ryan Taylor
 description: Ethereum OG
 start: ???
 end: ???

@@ -1,5 +1,5 @@
 ---
-title: Nick Johnson
+name: Nick Johnson
 description: Ethereum OG
 start: June 2016
 end: Aug 2018

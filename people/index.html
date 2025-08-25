@@ -10,17 +10,17 @@ title: People
 <p>Below are more detailed profiles and biographies for a subset of those individuals. The intention is to build detailed profiles for everyone, but that will take quite some time!</p>
 
 <div class="people-list">
-    {% assign sorted_people = site.people | sort: 'title' %}
+    {% assign sorted_people = site.people | sort: 'name' %}
     {% for person in sorted_people %}
     <div class="person-card">
         {% if person.photo %}
         <div class="person-photo">
-            <img src="{{ person.photo | relative_url }}" alt="{{ person.title }}" />
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
         </div>
         {% endif %}
         
         <div class="person-info">
-            <h3><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+            <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
             
             {% if person.role %}
             <div class="person-role">{{ person.role }}</div>

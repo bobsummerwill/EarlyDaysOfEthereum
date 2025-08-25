@@ -1,5 +1,5 @@
 ---
-title: Ksenya S
+name: Ksenya S
 description: Ethereum OG
 devcon0: "1980"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Gavin 'Gav' Wood
+name: Gavin 'Gav' Wood
 description: Ethereum co-Founder
 start: Dec 2013
 end: Oct 2015

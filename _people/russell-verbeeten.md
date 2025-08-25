@@ -1,5 +1,5 @@
 ---
-title: Russell Verbeeten
+name: Russell Verbeeten
 description: Ethereum OG
 start: Feb 2014
 end: Jul 2014

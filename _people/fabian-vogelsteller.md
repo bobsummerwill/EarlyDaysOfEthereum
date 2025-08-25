@@ -1,5 +1,5 @@
 ---
-title: Fabian Vogelsteller
+name: Fabian Vogelsteller
 description: Ethereum OG
 start: Jan 2015
 end: Aug 2018

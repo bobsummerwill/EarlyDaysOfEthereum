@@ -1,5 +1,5 @@
 ---
-title: Brian Fabian Crain
+name: Brian Fabian Crain
 description: Ethereum OG
 start: May 2014
 end: present

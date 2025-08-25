@@ -1,5 +1,5 @@
 ---
-title: Aya Miyaguchi
+name: Aya Miyaguchi
 description: Ethereum OG
 start: Feb 2018
 end: present

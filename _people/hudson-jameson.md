@@ -1,5 +1,5 @@
 ---
-title: Hudson Jameson
+name: Hudson Jameson
 description: Ethereum OG
 start: Jun 2016
 end: Apr 2021

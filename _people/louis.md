@@ -1,5 +1,5 @@
 ---
-title: Louis
+name: Louis
 description: Ethereum OG
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Christophe Jentzsch
+name: Christophe Jentzsch
 description: Ethereum OG
 start: Sep 2014
 end: Nov 2015

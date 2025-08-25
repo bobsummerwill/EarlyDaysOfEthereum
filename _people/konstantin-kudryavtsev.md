@@ -1,5 +1,5 @@
 ---
-title: Konstantin Kudryavtsev
+name: Konstantin Kudryavtsev
 description: Ethereum OG
 start: June 2014
 end: Jan 2016

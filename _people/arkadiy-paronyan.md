@@ -1,5 +1,5 @@
 ---
-title: Arkadiy Paronyan
+name: Arkadiy Paronyan
 description: Ethereum OG
 start: Nov 2014
 end: Dec 2015

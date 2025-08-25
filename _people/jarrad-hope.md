@@ -1,5 +1,5 @@
 ---
-title: Jarrad Hope
+name: Jarrad Hope
 description: Ethereum OG
 photo: "/images/jarrad-hope/jarrad-hope-headshot.jpg"
 start: Mar 2014

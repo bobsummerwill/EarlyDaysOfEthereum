@@ -1,5 +1,5 @@
 ---
-title: Paul Snow
+name: Paul Snow
 description: Ethereum OG
 start: Jan 2014
 end: ???

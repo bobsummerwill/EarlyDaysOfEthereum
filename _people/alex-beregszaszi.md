@@ -1,5 +1,5 @@
 ---
-title: Alex Beregszaszi
+name: Alex Beregszaszi
 description: Ethereum OG
 start: Jan 2016
 end: July 2025

@@ -1,5 +1,5 @@
 ---
-title: Roxana Sureanu
+name: Roxana Sureanu
 description: Ethereum OG
 start: Jan 2014
 end: July 2015

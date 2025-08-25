@@ -1,5 +1,5 @@
 ---
-title: Karl Floersch
+name: Karl Floersch
 description: Ethereum OG
 start: Sep 2017
 end: Jan 2020

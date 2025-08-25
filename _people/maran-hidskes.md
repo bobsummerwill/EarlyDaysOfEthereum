@@ -1,5 +1,5 @@
 ---
-title: Maran Hidskes
+name: Maran Hidskes
 description: Ethereum OG
 start: Mar 2014
 end: Sep 2014

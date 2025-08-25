@@ -1,5 +1,5 @@
 ---
-title: "Vitalik 'V' Buterin"
+name: "Vitalik 'V' Buterin"
 description: Ethereum co-Founder
 start: Nov 2013
 end: present

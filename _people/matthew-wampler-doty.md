@@ -1,5 +1,5 @@
 ---
-title: Matthew Wampler-Doty
+name: Matthew Wampler-Doty
 description: Ethereum OG
 start: Jan 2014
 end: Apr 2014

@@ -1,5 +1,5 @@
 ---
-title: Wendell Davis
+name: Wendell Davis
 description: Ethereum OG
 start: Jan 2014
 end: ???

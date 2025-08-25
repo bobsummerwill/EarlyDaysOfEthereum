@@ -1,5 +1,5 @@
 ---
-title: Chris Odom
+name: Chris Odom
 description: Ethereum OG
 start: Jan 2014
 end: ???

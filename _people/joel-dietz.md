@@ -1,5 +1,5 @@
 ---
-title: Joel Dietz
+name: Joel Dietz
 description: Ethereum OG
 start: Dec 2013
 end: Aug 2014

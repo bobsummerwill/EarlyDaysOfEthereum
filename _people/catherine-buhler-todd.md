@@ -1,5 +1,5 @@
 ---
-title: Catherine Bühler-Todd
+name: Catherine Bühler-Todd
 description: Executive Assistant to Ethereum Foundation board
 start: Oct 2017
 end: Dec 2018

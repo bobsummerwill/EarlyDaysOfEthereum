@@ -1,5 +1,5 @@
 ---
-title: Hai Nguyen
+name: Hai Nguyen
 description: Ethereum OG
 start: Jan 2014
 end: Jul 2015

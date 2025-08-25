@@ -1,5 +1,5 @@
 ---
-title: Aeron Buchanan
+name: Aeron Buchanan
 description: Ethereum OG
 start: Feb 2014
 end: Nov 2015

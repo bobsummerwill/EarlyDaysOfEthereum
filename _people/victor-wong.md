@@ -1,5 +1,5 @@
 ---
-title: Victor Wong
+name: Victor Wong
 description: Co-Founder of BlockApps, Haskell client developer
 ---
 

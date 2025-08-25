@@ -1,5 +1,5 @@
 ---
-title: Marek Kotewicz
+name: Marek Kotewicz
 description: Ethereum OG
 start: Oct 2014
 end: Dec 2015

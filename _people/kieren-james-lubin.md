@@ -1,5 +1,5 @@
 ---
-title: Kieren James-Lubin
+name: Kieren James-Lubin
 description: Co-Founder of BlockApps, Haskell client developer
 ---
 

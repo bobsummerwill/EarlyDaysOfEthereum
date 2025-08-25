@@ -1,5 +1,5 @@
 ---
-title: Stefano Bartolo
+name: Stefano Bartolo
 description: Ethereum OG
 start: Sep 2015
 end: Feb 2017

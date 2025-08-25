@@ -1,5 +1,5 @@
 ---
-title: Steve Dakh
+name: Steve Dakh
 description: Ethereum OG
 start: January 2014
 end: present

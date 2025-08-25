@@ -1,5 +1,5 @@
 ---
-title: Ethan Wilding
+name: Ethan Wilding
 description: Ethereum OG
 start: Mar 2014
 end: Apr 2017

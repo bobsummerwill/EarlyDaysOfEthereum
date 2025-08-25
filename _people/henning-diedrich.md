@@ -1,5 +1,5 @@
 ---
-title: Henning Diedrich
+name: Henning Diedrich
 description: Ethereum OG
 start: Nov 2014 (maybe)
 end: present (but never in the EF)

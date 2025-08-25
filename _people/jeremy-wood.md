@@ -1,5 +1,5 @@
 ---
-title: Jeremy Wood
+name: Jeremy Wood
 description: Ethereum OG
 start: Dec 2013
 end: May 2014

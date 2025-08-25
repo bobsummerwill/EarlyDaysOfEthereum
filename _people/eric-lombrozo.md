@@ -1,5 +1,5 @@
 ---
-title: Eric Lombrozo
+name: Eric Lombrozo
 description: Ethereum OG
 start: Jan 2014
 end: ???

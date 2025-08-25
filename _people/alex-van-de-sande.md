@@ -1,5 +1,5 @@
 ---
-title: Alex van de Sande
+name: Alex van de Sande
 description: Ethereum OG
 start: Oct 2014
 end: Jan 2019

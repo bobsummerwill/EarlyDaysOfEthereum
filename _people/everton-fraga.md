@@ -1,5 +1,5 @@
 ---
-title: Everton Fraga
+name: Everton Fraga
 description: Helped bring Mist to life
 start: Apr 2016
 end: Nov 2020

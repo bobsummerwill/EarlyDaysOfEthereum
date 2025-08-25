@@ -1,5 +1,5 @@
 ---
-title: Amir Chetrit
+name: Amir Chetrit
 description: Ethereum co-Founder
 start: Dec 2013
 end: Jun 2014

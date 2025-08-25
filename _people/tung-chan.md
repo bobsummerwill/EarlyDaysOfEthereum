@@ -1,5 +1,5 @@
 ---
-title: Tung Chan
+name: Tung Chan
 description: Ethereum OG
 start: Jul 2015
 end: Apr 2018

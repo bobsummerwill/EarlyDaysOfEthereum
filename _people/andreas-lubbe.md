@@ -1,5 +1,5 @@
 ---
-title: Andreas Lubbe
+name: Andreas Lubbe
 description: Ethereum OG
 ---
 

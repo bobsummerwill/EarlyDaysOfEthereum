@@ -1,5 +1,5 @@
 ---
-title: Albert Ni
+name: Albert Ni
 description: Ethereum OG
 start: Feb 2018
 end: present

@@ -1,5 +1,5 @@
 ---
-title: J Mohamed Zahoor
+name: J Mohamed Zahoor
 description: Ethereum OG
 start: Apr 2017
 end: Oct 2017

@@ -1,5 +1,5 @@
 ---
-title: Sven Ehlert
+name: Sven Ehlert
 description: Ethereum OG
 start: Nov 2014
 end: Mar 2015

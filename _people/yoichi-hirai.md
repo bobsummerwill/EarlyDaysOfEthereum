@@ -1,5 +1,5 @@
 ---
-title: Yoichi Hirai
+name: Yoichi Hirai
 description: Ethereum OG
 start: Sep 2016
 end: Oct 2018

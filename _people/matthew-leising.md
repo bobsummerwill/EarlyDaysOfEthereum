@@ -1,5 +1,5 @@
 ---
-title: Matthew Leising
+name: Matthew Leising
 description: Author of Out of The Ether
 ---
 

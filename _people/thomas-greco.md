@@ -1,5 +1,5 @@
 ---
-title: Thomas Greco
+name: Thomas Greco
 description: Ethereum OG
 start: Mar 2016
 end: ???

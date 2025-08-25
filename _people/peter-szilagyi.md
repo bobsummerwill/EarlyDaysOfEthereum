@@ -1,5 +1,5 @@
 ---
-title: Péter Szilágyi
+name: Péter Szilágyi
 description: Geth Team Lead
 start: Apr 2015
 end: Nov 2024

@@ -1,5 +1,5 @@
 ---
-title: Felix Lange
+name: Felix Lange
 description: Ethereum OG
 start: Oct 2014
 end: present

@@ -1,5 +1,5 @@
 ---
-title: Paweł Bylica
+name: Paweł Bylica
 description: Software engineer, C++ team and VM
 start: Nov 2014
 end: Jun 2025

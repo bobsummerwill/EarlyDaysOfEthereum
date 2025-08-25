@@ -1,5 +1,5 @@
 ---
-title: Joseph Chow
+name: Joseph Chow
 description: Ethereum OG
 start: April 2014
 end: present

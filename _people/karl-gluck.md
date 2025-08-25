@@ -1,5 +1,5 @@
 ---
-title: Karl Gluck
+name: Karl Gluck
 description: Ethereum OG
 start: ???
 end: ???

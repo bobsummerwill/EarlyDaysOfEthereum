@@ -1,5 +1,5 @@
 ---
-title: Victor Maia
+name: Victor Maia
 description: Ethereum OG
 start: Feb 2017
 end: Jan 2019

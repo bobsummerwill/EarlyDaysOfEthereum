@@ -1,5 +1,5 @@
 ---
-title: Ian Meikle
+name: Ian Meikle
 description: Ethereum OG
 start: Feb 2014
 end: Nov 2018

@@ -1,5 +1,5 @@
 ---
-title: Yanislav Malahov
+name: Yanislav Malahov
 description: Ethereum OG
 ---
 

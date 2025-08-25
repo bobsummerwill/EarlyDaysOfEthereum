@@ -1,5 +1,5 @@
 ---
-title: Dino Mark
+name: Dino Mark
 description: Ethereum OG
 start: Jan 2014
 end: ???

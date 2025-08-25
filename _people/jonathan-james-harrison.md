@@ -1,5 +1,5 @@
 ---
-title: Jonathan James Harrison
+name: Jonathan James Harrison
 description: Ethereum OG
 ---
 

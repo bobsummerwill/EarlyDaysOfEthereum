@@ -1,5 +1,5 @@
 ---
-title: Roman Mandeleil
+name: Roman Mandeleil
 description: Ethereum OG
 start: Mar 2014
 end: ???

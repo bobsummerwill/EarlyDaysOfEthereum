@@ -1,5 +1,5 @@
 ---
-title: Kyle Kurbegovich
+name: Kyle Kurbegovich
 description: Ethereum OG
 start: January 2014
 end: present

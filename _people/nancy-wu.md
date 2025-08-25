@@ -1,5 +1,5 @@
 ---
-title: Nancy Wu
+name: Nancy Wu
 description: early founding member
 start: Dec 2013
 end: Dec 2015

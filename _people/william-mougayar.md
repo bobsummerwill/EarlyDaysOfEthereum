@@ -1,5 +1,5 @@
 ---
-title: William Mougayar
+name: William Mougayar
 description: Ethereum OG
 start: Jul 2015
 end: Feb 2017

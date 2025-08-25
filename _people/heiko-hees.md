@@ -1,5 +1,5 @@
 ---
-title: Heiko Hees
+name: Heiko Hees
 description: Ethereum OG
 start: Mar 2014
 end: Feb 2016

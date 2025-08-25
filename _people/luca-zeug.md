@@ -1,5 +1,5 @@
 ---
-title: Luca Zeug
+name: Luca Zeug
 description: Mist Team member
 start: April 2016
 end: July 2016

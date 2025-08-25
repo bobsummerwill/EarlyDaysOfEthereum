@@ -1,5 +1,5 @@
 ---
-title: Greg Colvin
+name: Greg Colvin
 description: Ethereum OG
 start: Mar 2016
 end: Oct 2017

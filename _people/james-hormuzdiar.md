@@ -1,5 +1,5 @@
 ---
-title: "James 'Jim' Hormuzdiar"
+name: "James 'Jim' Hormuzdiar"
 description: Co-Founder of BlockApps, Haskell client developer
 ---
 

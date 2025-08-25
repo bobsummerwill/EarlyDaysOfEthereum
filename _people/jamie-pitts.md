@@ -1,5 +1,5 @@
 ---
-title: Jamie Pitts
+name: Jamie Pitts
 description: Ethereum OG
 start: Jun 2016
 end: ???

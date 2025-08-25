@@ -1,5 +1,5 @@
 ---
-title: Addison Cameron-Huff
+name: Addison Cameron-Huff
 description: Ethereum OG
 start: ???
 end: ???

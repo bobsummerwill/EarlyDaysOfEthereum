@@ -1,5 +1,5 @@
 ---
-title: "Sarah O'Neill"
+name: "Sarah O'Neill"
 description: Ethereum OG
 start: Aug 2014
 end: Nov 2014

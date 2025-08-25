@@ -1,5 +1,5 @@
 ---
-title: Virgil Griffith
+name: Virgil Griffith
 description: Ethereum OG
 start: Oct 2016
 end: Nov 2019

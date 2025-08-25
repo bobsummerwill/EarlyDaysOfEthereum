@@ -1,5 +1,5 @@
 ---
-title: Marian Oancea
+name: Marian Oancea
 description: Senior Web Developer
 start: May 2014
 end: Sep 2015

@@ -1,5 +1,5 @@
 ---
-title: Vladislav Martynov
+name: Vladislav Martynov
 description: Ethereum OG
 start: May 2016
 end: May 2019

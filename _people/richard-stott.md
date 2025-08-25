@@ -1,5 +1,5 @@
 ---
-title: Richard Stott
+name: Richard Stott
 description: Designer in the early days.  AKA Richard Wild
 start: Mar 2014
 end: Aug 2014

@@ -1,5 +1,5 @@
 ---
-title: John Frazer
+name: John Frazer
 description: Ethereum OG
 start: Jan 2017
 end: Jan 2018

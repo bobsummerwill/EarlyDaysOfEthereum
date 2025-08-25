@@ -3,10 +3,8 @@ title: Christian Reitwiessner
 description: Ethereum OG
 start: Oct 2014
 end: ~2023?
+devcon0: "1335"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s)
 
 ## Links
 - [GitHub](https://github.com/chriseth)

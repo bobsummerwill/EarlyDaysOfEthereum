@@ -3,6 +3,7 @@ title: Marian Oancea
 description: Senior Web Developer
 start: May 2014
 end: Sep 2015
+devcon0: "1475"
 ---
 
 From LinkedIn profile as of 23rd August 2025:
@@ -12,9 +13,6 @@ From LinkedIn profile as of 23rd August 2025:
 - *the first decentralized crowd sale in the world - the Ethereum crowd sale*
 - *web3.js the interface of communicating with the Ethereum clients, working with Gavin Wood (C++ implementation team) and Jeff Wilcke (GoLang implementation team) to extend the JSON-RPC and integrate WebSockets as a means to communicate with the ethereum nodes*
 - *the first Ethereum Network Monitoring solution - Ethstats*
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=24m35s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/marian-oancea-72a69042/)

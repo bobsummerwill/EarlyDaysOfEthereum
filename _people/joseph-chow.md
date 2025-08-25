@@ -3,10 +3,8 @@ title: Joseph Chow
 description: Ethereum OG
 start: April 2014
 end: present
+devcon0: "1211"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=20m11s)
 
 ## Links
 - [GitHub](https://github.com/ethers)

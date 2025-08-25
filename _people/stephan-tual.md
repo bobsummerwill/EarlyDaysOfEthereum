@@ -3,10 +3,8 @@ title: Stephan Tual
 description: Ethereum OG
 start: Jan 2014
 end: Sep 2015
+devcon0: "1935"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m15s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/stephantual/)

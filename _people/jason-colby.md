@@ -1,11 +1,8 @@
 ---
 title: Jason Colby
 description: Ethereum OG
+devcon0: "2006"
 ---
-
-## DEVCON0 self-intro
-
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=33m26s)
 
 ## Links
 

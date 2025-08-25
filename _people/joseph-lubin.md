@@ -1,11 +1,8 @@
 ---
-title: "Joseph 'Joe' Lubin"
+title: Joseph 'Joe' Lubin
 description: Ethereum co-Founder
+devcon0: "1747"
 ---
-
-## DEVCON0 self-intro
-
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m7s)
 
 ## Links
 

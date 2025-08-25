@@ -3,10 +3,8 @@ title: Felix Lange
 description: Ethereum OG
 start: Oct 2014
 end: present
+devcon0: "1358"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m38s)
 
 ## Links
 - [GitHub](https://github.com/fjl)

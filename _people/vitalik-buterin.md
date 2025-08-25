@@ -3,11 +3,8 @@ title: "Vitalik 'V' Buterin"
 description: Ethereum co-Founder
 start: Nov 2013
 end: present
+devcon0: "1260"
 ---
-
-## DEVCON0 self-intro
-
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m)
 
 ## Links
 

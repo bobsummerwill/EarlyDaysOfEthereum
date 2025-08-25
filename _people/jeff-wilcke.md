@@ -3,11 +3,8 @@ title: Jeff Wilcke
 description: Ethereum co-Founder
 start: Dec 2013
 end: Feb 2017
+devcon0: "2018"
 ---
-
-## DEVCON0 self-intro
-
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?si=1RLejjvbxhIn1sDP&t=2018)
 
 ## Links
 

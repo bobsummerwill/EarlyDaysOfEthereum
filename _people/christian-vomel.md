@@ -3,10 +3,8 @@ title: Christian Vömel
 description: Ethereum OG
 start: Nov 2014
 end: ???
+devcon0: "2042"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s)
 
 ## References
 

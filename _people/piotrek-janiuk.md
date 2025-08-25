@@ -3,10 +3,8 @@ title: Piotrek Janiuk
 description: Ethereum OG
 start: Nov 2014
 end: present
+devcon0: "1906"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m46s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/viggith/)

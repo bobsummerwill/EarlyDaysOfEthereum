@@ -3,10 +3,8 @@ title: Roman Mandeleil
 description: Ethereum OG
 start: Mar 2014
 end: ???
+devcon0: "988"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/romanmandeleil/)

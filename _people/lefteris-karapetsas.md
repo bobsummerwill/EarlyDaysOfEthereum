@@ -3,10 +3,8 @@ title: Lefteris Karapetsas
 description: Ethereum OG
 start: Nov 2014
 end: Jan 2016
+devcon0: "1039"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/eleftherios-karapetsas-1a18b919/)

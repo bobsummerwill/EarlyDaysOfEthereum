@@ -3,10 +3,8 @@ title: Vlad Zamfir
 description: Ethereum OG
 start: Apr 2014
 end: ???
+devcon0: "1503"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s)
 
 ## Links
 - [GitHub](https://github.com/vladzamfir)

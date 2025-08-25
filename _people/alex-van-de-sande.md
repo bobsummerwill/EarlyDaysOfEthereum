@@ -3,12 +3,10 @@ title: Alex van de Sande
 description: Ethereum OG
 start: Oct 2014
 end: Jan 2019
+devcon0: "1598"
 ---
 
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=26m38s)
 
 ## Links
 - [GitHub](https://github.com/alexvandesande)

@@ -3,10 +3,8 @@ title: Sven Ehlert
 description: Ethereum OG
 start: Nov 2014
 end: Mar 2015
+devcon0: "1101"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/svenehlert/)

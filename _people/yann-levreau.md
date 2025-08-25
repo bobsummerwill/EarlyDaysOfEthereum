@@ -3,10 +3,8 @@ title: Yann Levreau
 description: Ethereum OG
 start: Nov 2014
 end: ???
+devcon0: "1300"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=21m40s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/yann-levreau-31218891/)

@@ -3,10 +3,8 @@ title: Alex Leverington
 description: Ethereum OG
 start: Aug 2014
 end: Oct 2015
+devcon0: "1133"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m53s)
 
 ## Links
 - [GitHub](https://github.com/subtly)

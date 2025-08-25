@@ -3,10 +3,8 @@ title: Joris Bontje
 description: Ethereum OG
 start: Mar 2014
 end: present
+devcon0: "1774"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m34s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/jorisbontje/)

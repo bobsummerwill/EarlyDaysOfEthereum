@@ -3,10 +3,8 @@ title: Heiko Hees
 description: Ethereum OG
 start: Mar 2014
 end: Feb 2016
+devcon0: "1534"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m34s)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/heikohees/)

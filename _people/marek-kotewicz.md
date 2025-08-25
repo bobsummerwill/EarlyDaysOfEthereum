@@ -3,10 +3,8 @@ title: Marek Kotewicz
 description: Ethereum OG
 start: Oct 2014
 end: Dec 2015
+devcon0: "1072"
 ---
-
-## DEVCON0 self-intro
-- [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m52s)
 
 ## Links
 - [GitHub](https://github.com/debris)

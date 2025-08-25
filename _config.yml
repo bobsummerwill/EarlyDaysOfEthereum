@@ -17,8 +17,8 @@ bing_site_verification: ""
 # Analytics (add your tracking IDs when available)
 google_analytics: "G-K07HLJER91"
 
-# Social sharing image
-image: /images/ethereum_org_12_march_2024.png
+# Social sharing image - using optimized version
+image: /images/thumbnails/ethereum_thumbnail_og_general.png
 
 # Social media settings
 twitter:
@@ -57,31 +57,31 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/ethereum_org_12_march_2024.png
+      image: /images/thumbnails/ethereum_thumbnail_og_general.png
   - scope:
       path: ""
       type: "articles"
     values:
       layout: "post"
-      image: /images/ethereum_org_12_march_2024.png
+      image: /images/thumbnails/ethereum_thumbnail_og_general.png
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      image: /images/ethereum_org_12_march_2024.png
+      image: /images/thumbnails/ethereum_thumbnail_og_general.png
   - scope:
       path: ""
       type: "people"
     values:
       layout: "person"
-      image: /images/ethereum_org_12_march_2024.png
+      image: /images/thumbnails/ethereum_thumbnail_og_general.png
   - scope:
       path: ""
       type: "videos"
     values:
       layout: "video"
-      image: /images/ethereum_org_12_march_2024.png
+      image: /images/thumbnails/ethereum_thumbnail_og_general.png
 
 # Plugins
 plugins:

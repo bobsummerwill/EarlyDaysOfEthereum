@@ -16,7 +16,7 @@ end: "Dec 2016"
 
 This page is referenced from the following articles and videos:
 
-- [Early Days of Ethereum People]({{ '/articles/early-ethereum-people/' | relative_url }}) - Listed as a key team member
+- [People]({{ '/people/' | relative_url }}) - Referenced in content
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Dedicated article about his photographic documentation
 - [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced as author and in timeline entries
 - [Early Days of Ethereum - Episode IV]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Featured guest in video interview

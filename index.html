@@ -17,21 +17,21 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
 </section>
 
 <div class="content-sections">
-    <section class="articles-section">
-        <h2><a href="{{ '/articles/' | relative_url }}">Articles</a></h2>
+    <section class="people-section">
+        <h2><a href="{{ '/people/' | relative_url }}">People</a></h2>
         <ul class="content-list">
-            {% assign sorted_articles = site.articles | sort: 'date' %}
-            {% for article in sorted_articles limit: 5 %}
+            {% assign sorted_people = site.people | sort: 'title' %}
+            {% for person in sorted_people limit: 10 %}
             <li>
-                <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
-                {% if article.date %}
-                <span class="date">{{ article.date | date: "%B %d, %Y" }}</span>
+                <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+                {% if person.role %}
+                <span class="role">{{ person.role }}</span>
                 {% endif %}
             </li>
             {% endfor %}
         </ul>
-        {% if site.articles.size > 5 %}
-        <p><a href="{{ '/articles/' | relative_url }}" class="view-all">View all articles &rarr;</a></p>
+        {% if site.people.size > 10 %}
+        <p><a href="{{ '/people/' | relative_url }}" class="view-all">View all people &rarr;</a></p>
         {% endif %}
     </section>
 
@@ -53,21 +53,21 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
         {% endif %}
     </section>
 
-    <section class="people-section">
-        <h2><a href="{{ '/people/' | relative_url }}">People</a></h2>
+    <section class="articles-section">
+        <h2><a href="{{ '/articles/' | relative_url }}">Articles</a></h2>
         <ul class="content-list">
-            {% assign sorted_people = site.people | sort: 'title' %}
-            {% for person in sorted_people limit: 10 %}
+            {% assign sorted_articles = site.articles | sort: 'date' %}
+            {% for article in sorted_articles limit: 5 %}
             <li>
-                <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
-                {% if person.role %}
-                <span class="role">{{ person.role }}</span>
+                <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+                {% if article.date %}
+                <span class="date">{{ article.date | date: "%B %d, %Y" }}</span>
                 {% endif %}
             </li>
             {% endfor %}
         </ul>
-        {% if site.people.size > 10 %}
-        <p><a href="{{ '/people/' | relative_url }}" class="view-all">View all people &rarr;</a></p>
+        {% if site.articles.size > 5 %}
+        <p><a href="{{ '/articles/' | relative_url }}" class="view-all">View all articles &rarr;</a></p>
         {% endif %}
     </section>
 </div>

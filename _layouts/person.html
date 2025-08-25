@@ -9,6 +9,16 @@ layout: default
 <article class="person-profile">
     <header>
         <h1>{{ page.title }}</h1>
+        {% if page.photo %}
+        <div class="person-photo-header">
+            <img src="{{ page.photo | relative_url }}" alt="{{ page.title }}" />
+        </div>
+        {% endif %}
+        {% if page.description %}
+        <div class="person-description">
+            {{ page.description }}{% if page.start and page.end and page.start != "" and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% endif %}
+        </div>
+        {% endif %}
         <div class="content-meta">
             {% if page.role %}
                 <div class="person-role">{{ page.role }}</div>
@@ -18,12 +28,6 @@ layout: default
             {% endif %}
         </div>
     </header>
-    
-    {% if page.photo %}
-    <div class="person-photo">
-        <img src="{{ page.photo | relative_url }}" alt="{{ page.title }}" />
-    </div>
-    {% endif %}
     
     <div class="person-content">
         {{ content }}
@@ -57,6 +61,30 @@ layout: default
         color: #666;
         font-style: italic;
         margin-top: 5px;
+    }
+    
+    .person-photo-header {
+        text-align: left;
+        margin: 20px 0;
+    }
+    
+    .person-photo-header img {
+        max-width: 200px;
+        width: 100%;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    .person-description {
+        font-size: 1.1em;
+        color: #555;
+        margin: 15px 0;
+        font-style: italic;
+    }
+    
+    .person-dates {
+        font-style: italic;
+        color: #666;
     }
     
     .person-photo {

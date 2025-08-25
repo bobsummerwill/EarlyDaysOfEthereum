@@ -1,8 +1,9 @@
 ---
-name: Vincent G
+name: Vincent G 'Caktux'
 description: Ethereum OG
 start: Oct 2014
 end: ???
+photo: /images/github/caktux.png
 ---
 
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014

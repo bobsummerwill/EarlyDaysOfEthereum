@@ -1,5 +1,5 @@
 ---
-title: "Gavin Wood"
+title: "Gavin 'Gav' Wood"
 description: "Ethereum co-Founder"
 ---
 

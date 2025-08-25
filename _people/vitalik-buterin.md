@@ -1,5 +1,5 @@
 ---
-title: "Vitalik Buterin"
+title: "Vitalik 'V' Buterin"
 description: "Ethereum co-Founder"
 ---
 

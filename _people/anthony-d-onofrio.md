@@ -1,6 +1,7 @@
 ---
 name: "Anthony 'Texture' D'Onofrio"
 description: Ethereum OG
+photo: /images/internetarchive/web.archive.org/web/20140701165441/donofrio-anthony.jpg
 start: Dec 2013
 end: Mar 2014 or maybe Apr 2014
 ---

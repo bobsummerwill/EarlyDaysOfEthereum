@@ -1,6 +1,7 @@
 ---
 name: Jeremy Wood
-description: Ethereum OG
+description: Administration
+photo: /images/internetarchive/web.archive.org/web/20140701165441/wood-jeremy.jpg
 start: Dec 2013
 end: May 2014
 ---

@@ -1,6 +1,7 @@
 ---
 name: Russell Verbeeten
-description: Ethereum OG
+description: Education
+photo: /images/internetarchive/web.archive.org/web/20140701165441/verbeeten-russell.jpg
 start: Feb 2014
 end: Jul 2014
 ---

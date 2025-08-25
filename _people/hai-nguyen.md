@@ -1,6 +1,7 @@
 ---
 name: Hai Nguyen
-description: Ethereum OG
+description: Accounting
+photo: /images/internetarchive/web.archive.org/web/20140701165441/nguyen-hai.jpg
 start: Jan 2014
 end: Jul 2015
 ---

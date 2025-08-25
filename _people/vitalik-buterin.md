@@ -1,6 +1,7 @@
 ---
 name: "Vitalik 'V' Buterin"
 description: Ethereum co-Founder
+photo: /images/internetarchive/web.archive.org/web/20140701165441/buterin-vitalik.jpg
 start: Nov 2013
 end: present
 devcon0: "1260"

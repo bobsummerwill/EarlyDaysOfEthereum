@@ -1,6 +1,7 @@
 ---
 name: Karl Gluck
-description: Ethereum OG
+description: Research
+photo: /images/internetarchive/web.archive.org/web/20140701165441/gluck-karl.jpg
 start: ???
 end: ???
 ---

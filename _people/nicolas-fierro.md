@@ -1,6 +1,7 @@
 ---
 name: Nicolas Fierro
-description: Ethereum OG
+description: Development
+photo: /images/internetarchive/web.archive.org/web/20140701165441/fierro-nicolas.jpg
 start: Feb 2014
 end: Jan 2015
 ---

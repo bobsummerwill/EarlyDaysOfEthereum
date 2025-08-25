@@ -1,6 +1,7 @@
 ---
 name: Mihai Alisie
 description: Ethereum co-Founder
+photo: /images/internetarchive/web.archive.org/web/20140701165441/alisie-mihai.jpg
 start: Dec 2013
 end: Oct 2015
 ---

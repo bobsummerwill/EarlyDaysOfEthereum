@@ -1,6 +1,7 @@
 ---
 name: Ryan Taylor
 description: Web Development
+photo: /images/internetarchive/web.archive.org/web/20140701165441/taylor-ryan.jpg
 start: Feb 2014
 end: ???
 ---

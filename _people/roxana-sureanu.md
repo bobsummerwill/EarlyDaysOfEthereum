@@ -1,6 +1,7 @@
 ---
 name: Roxana Sureanu
-description: Ethereum OG
+description: Administration
+photo: /images/internetarchive/web.archive.org/web/20140701165441/sureanu-roxana.jpg
 start: Jan 2014
 end: July 2015
 ---

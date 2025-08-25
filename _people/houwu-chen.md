@@ -1,6 +1,7 @@
 ---
 name: Houwu Chen
 description: Development/Chinese Partner
+photo: /images/internetarchive/web.archive.org/web/20140701165441/chen-houwu.jpg
 start: Mar 2014
 end: ???
 ---

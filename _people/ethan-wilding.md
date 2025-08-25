@@ -1,6 +1,7 @@
 ---
 name: Ethan Wilding
-description: Ethereum OG
+description: Administration
+photo: /images/internetarchive/web.archive.org/web/20140701165441/wilding-ethan.jpg
 start: Mar 2014
 end: Apr 2017
 ---

@@ -1,6 +1,7 @@
 ---
 name: Jason Colby
-description: Ethereum OG
+description: Administration
+photo: /images/internetarchive/web.archive.org/web/20140701165441/colby-jason.jpg
 start: "Jan 2014"
 end: "Jan 2016"
 devcon0: "2006"

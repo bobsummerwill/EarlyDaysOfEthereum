@@ -44,7 +44,7 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.08.jpeg' | relative_url }})
 
 ----
-*February 9, 2014 was the day when we arrived in Europe. I flew to Germany for a layover where I would meet up with [Nick]({{ '/people/nick-fierro/' | relative_url }}) and fly to Zurich. Perhaps because of the approaching Valentine's Day—the airline handed out free chocolates #MyEthJourney* - 9th February 2014
+*February 9, 2014 was the day when we arrived in Europe. I flew to Germany for a layover where I would meet up with [Nick]({{ '/people/nicolas-fierro/' | relative_url }}) and fly to Zurich. Perhaps because of the approaching Valentine's Day—the airline handed out free chocolates #MyEthJourney* - 9th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.09_1.jpeg' | relative_url }})
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.09_2.jpeg' | relative_url }})
@@ -124,7 +124,7 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.18.jpeg' | relative_url }})
 
 ----
-*[Nick]({{ '/people/nick-fierro/' | relative_url }}) and I found an Irish pub on the last day in Lucerne. With everyone living in such close proximity, this was a rare moment of relative peace. Tomorrow, our AirBnB would become available again #EthereumPhoto* - 19th February 2014
+*[Nick]({{ '/people/nicolas-fierro/' | relative_url }}) and I found an Irish pub on the last day in Lucerne. With everyone living in such close proximity, this was a rare moment of relative peace. Tomorrow, our AirBnB would become available again #EthereumPhoto* - 19th February 2014
 
 ![image]({{ '/images/taylor-gerring/taylor-gerring_2014.02.19.jpeg' | relative_url }})
 

@@ -68,8 +68,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Houwu Chen]({{ '/people/houwu-chen/' | relative_url }}) – ??? to ???
 - [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }}) – Feb 2014 to Nov 2018 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m43s))
 - [Karl Gluck]({{ '/people/karl-gluck/' | relative_url }}) – ??? to ???
-- [Nick Fierro]({{ '/people/nick-fierro/' | relative_url }}) mentioned by Taylor travelling to Switzerland together
-- [Nicolas Fierro]({{ '/people/nicolas-fierro/' | relative_url }}) – Feb 2014 to Jan 2015
+- [Nicolas 'Nick' Fierro]({{ '/people/nicolas-fierro/' | relative_url }}) – Feb 2014 to Jan 2015
 - [Russell Verbeeten]({{ '/people/russell-verbeeten/' | relative_url }}) – Feb 2014 to Jul 2014
 - [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) – ??? to ???
 

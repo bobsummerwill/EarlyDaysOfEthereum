@@ -1,11 +1,9 @@
 ---
-title: "Yessin Schiegg"
-description: "Ethereum OG"
+title: Yessin Schiegg
+description: Ethereum OG
+start: Dec 2015
+end: Feb 2017
 ---
-
-{{ page.description }}
-
-Dec 2015 to Feb 2017
 
 ## Links
 - [X](https://x.com/yessinschiegg)

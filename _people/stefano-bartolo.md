@@ -1,11 +1,9 @@
 ---
-title: "Stefano Bartolo"
-description: "Ethereum OG"
+title: Stefano Bartolo
+description: Ethereum OG
+start: Sep 2015
+end: Feb 2017
 ---
-
-{{ page.description }}
-
-Sep 2015 to Feb 2017
 
 ## Links
 - [X](https://twitter.com/sclopit)

@@ -1,11 +1,9 @@
 ---
-title: "Alex van de Sande"
-description: "Ethereum OG"
+title: Alex van de Sande
+description: Ethereum OG
+start: Oct 2014
+end: Jan 2019
 ---
-
-{{ page.description }}
-
-Oct 2014 to Jan 2019
 
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
 

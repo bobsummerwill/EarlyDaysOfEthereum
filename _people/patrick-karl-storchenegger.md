@@ -1,11 +1,9 @@
 ---
-title: "Patrick Karl Storchenegger"
-description: "Ethereum OG"
+title: Patrick Karl Storchenegger
+description: Ethereum OG
+start: Oct 2016
+end: present
 ---
-
-{{ page.description }}
-
-Oct 2016 to present
 
 ## Links
 - [Website](https://www.moneyhouse.ch/en/person/storchenegger-patrick-karl-61252579401)

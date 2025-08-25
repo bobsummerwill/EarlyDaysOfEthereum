@@ -1,11 +1,9 @@
 ---
-title: "Christian Reitwiessner"
-description: "Ethereum OG"
+title: Christian Reitwiessner
+description: Ethereum OG
+start: Oct 2014
+end: ~2023?
 ---
-
-{{ page.description }}
-
-Oct 2014 to ~2023?
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=22m15s)

@@ -1,11 +1,9 @@
 ---
-title: "Andrei Maiboroda"
-description: "Ethereum OG"
+title: Andrei Maiboroda
+description: Ethereum OG
+start: Dec 2016
+end: ???
 ---
-
-{{ page.description }}
-
-Dec 2016 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/andrei-maiboroda/)

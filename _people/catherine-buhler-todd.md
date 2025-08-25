@@ -1,13 +1,9 @@
 ---
-title: "Catherine Bühler-Todd"
-description: "Executive Assistant to Ethereum Foundation board"
+title: Catherine Bühler-Todd
+description: Executive Assistant to Ethereum Foundation board
+start: Oct 2017
+end: Dec 2018
 ---
-
-{{ page.description }}
-
-Oct 2017 to Dec 2018
-
-Executive Assistant to the Foundation board, in particular to the Executive Directors ([Ming]({{ '/people/ming-chan/' | relative_url }}) and [Aya]({{ '/people/aya-miyaguchi/' | relative_url }})) between October 2017 and December 2018, helping to organise DEVCON in Cancun and in Prague.
 
 ## Links
 

@@ -1,11 +1,9 @@
 ---
-title: "Dino Mark"
-description: "Ethereum OG"
+title: Dino Mark
+description: Ethereum OG
+start: Jan 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Jan 2014 to ???
 
 ## References
 

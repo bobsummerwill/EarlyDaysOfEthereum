@@ -1,9 +1,7 @@
 ---
-title: "Louis"
-description: "Ethereum OG"
+title: Louis
+description: Ethereum OG
 ---
-
-{{ page.description }}
 
 ## Links
 

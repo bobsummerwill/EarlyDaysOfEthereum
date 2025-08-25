@@ -1,11 +1,9 @@
 ---
-title: "Nicolas Fierro"
-description: "Ethereum OG"
+title: Nicolas Fierro
+description: Ethereum OG
+start: Feb 2014
+end: Jan 2015
 ---
-
-{{ page.description }}
-
-Feb 2014 to Jan 2015
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/nicolasfierro/)

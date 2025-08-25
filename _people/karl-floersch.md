@@ -1,11 +1,9 @@
 ---
-title: "Karl Floersch"
-description: "Ethereum OG"
+title: Karl Floersch
+description: Ethereum OG
+start: Sep 2017
+end: Jan 2020
 ---
-
-{{ page.description }}
-
-Sep 2017 to Jan 2020
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/karlfloersch/)

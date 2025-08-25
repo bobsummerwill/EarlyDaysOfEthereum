@@ -1,11 +1,9 @@
 ---
-title: "Nick Johnson"
-description: "Ethereum OG"
+title: Nick Johnson
+description: Ethereum OG
+start: June 2016
+end: Aug 2018
 ---
-
-{{ page.description }}
-
-June 2016 to Aug 2018
 
 ## Links
 - [GitHub](https://github.com/Arachnid)

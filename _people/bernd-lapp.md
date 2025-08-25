@@ -1,11 +1,9 @@
 ---
-title: "Bernd Lapp"
-description: "Ethereum OG"
+title: Bernd Lapp
+description: Ethereum OG
+start: Oct 2015
+end: Feb 2017
 ---
-
-{{ page.description }}
-
-Oct 2015 to Feb 2017
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/berndlapp/)

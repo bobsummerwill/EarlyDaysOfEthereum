@@ -1,11 +1,9 @@
 ---
-title: "Roman Mandeleil"
-description: "Ethereum OG"
+title: Roman Mandeleil
+description: Ethereum OG
+start: Mar 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Mar 2014 to ??? (but never in EF)
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s)

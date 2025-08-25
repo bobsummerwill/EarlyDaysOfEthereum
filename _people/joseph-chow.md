@@ -1,11 +1,9 @@
 ---
-title: "Joseph Chow"
-description: "Ethereum OG"
+title: Joseph Chow
+description: Ethereum OG
+start: April 2014
+end: present
 ---
-
-{{ page.description }}
-
-April 2014 to present
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=20m11s)

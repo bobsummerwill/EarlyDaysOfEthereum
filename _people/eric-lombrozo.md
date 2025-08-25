@@ -1,11 +1,9 @@
 ---
-title: "Eric Lombrozo"
-description: "Ethereum OG"
+title: Eric Lombrozo
+description: Ethereum OG
+start: Jan 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Jan 2014 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/ericlombrozo/)

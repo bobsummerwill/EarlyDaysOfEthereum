@@ -1,11 +1,9 @@
 ---
-title: "Matt Liston"
-description: "Ethereum OG"
+title: Matt Liston
+description: Ethereum OG
+start: Apr 2014
+end: Jun 2015
 ---
-
-{{ page.description }}
-
-Apr 2014 to Jun 2015
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/matt-liston-b041088a/)

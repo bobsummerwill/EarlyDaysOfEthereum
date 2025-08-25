@@ -1,11 +1,9 @@
 ---
-title: "Marek Kotewicz"
-description: "Ethereum OG"
+title: Marek Kotewicz
+description: Ethereum OG
+start: Oct 2014
+end: Dec 2015
 ---
-
-{{ page.description }}
-
-Oct 2014 to Dec 2015
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m52s)

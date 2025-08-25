@@ -1,11 +1,9 @@
 ---
-title: "Hai Nguyen"
-description: "Ethereum OG"
+title: Hai Nguyen
+description: Ethereum OG
+start: Jan 2014
+end: Jul 2015
 ---
-
-{{ page.description }}
-
-Jan 2014 to Jul 2015
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/mrhainguyen/)

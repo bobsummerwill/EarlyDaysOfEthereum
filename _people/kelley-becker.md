@@ -1,11 +1,9 @@
 ---
-title: "Kelley Becker"
-description: "Ethereum OG"
+title: Kelley Becker
+description: Ethereum OG
+start: March 2015
+end: June 2017
 ---
-
-{{ page.description }}
-
-March 2015 to June 2017
 
 ## References
 

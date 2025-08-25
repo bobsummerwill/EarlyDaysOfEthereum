@@ -1,11 +1,9 @@
 ---
-title: "Wayne Hennessy-Barrett"
-description: "Ethereum OG"
+title: Wayne Hennessy-Barrett
+description: Ethereum OG
+start: Jun 2015
+end: Jan 2016
 ---
-
-{{ page.description }}
-
-Jun 2015 to Jan 2016
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/waynehennessybarrett/)

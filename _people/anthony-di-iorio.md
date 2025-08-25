@@ -1,11 +1,9 @@
 ---
-title: "Anthony Di Iorio"
-description: "Ethereum co-Founder"
+title: Anthony Di Iorio
+description: Ethereum co-Founder
+start: Dec 2013
+end: Dec 2015
 ---
-
-{{ page.description }}
-
-Dec 2013 to Dec 2015
 
 ## Links
 

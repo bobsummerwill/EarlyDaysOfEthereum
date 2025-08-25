@@ -1,11 +1,9 @@
 ---
-title: "Alex Beregszaszi"
-description: "Ethereum OG"
+title: Alex Beregszaszi
+description: Ethereum OG
+start: Jan 2016
+end: July 2025
 ---
-
-{{ page.description }}
-
-Jan 2016 to July 2025 (started volunteering Oct 2015)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/alexberegszaszi)

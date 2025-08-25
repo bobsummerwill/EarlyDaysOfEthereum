@@ -1,11 +1,9 @@
 ---
-title: "Richard Stott"
-description: "Designer in the early days.  AKA Richard Wild"
+title: Richard Stott
+description: Designer in the early days.  AKA Richard Wild
+start: Mar 2014
+end: Aug 2014
 ---
-
-{{ page.description }}
-
-Mar 2014 to Aug 2014
 
 *[Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 

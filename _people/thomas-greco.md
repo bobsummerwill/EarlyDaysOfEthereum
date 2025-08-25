@@ -1,11 +1,9 @@
 ---
-title: "Thomas Greco"
-description: "Ethereum OG"
+title: Thomas Greco
+description: Ethereum OG
+start: Mar 2016
+end: ???
 ---
-
-{{ page.description }}
-
-Mar 2016 to ???
 
 ## References
 

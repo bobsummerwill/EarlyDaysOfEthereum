@@ -1,11 +1,9 @@
 ---
 title: "Vitalik 'V' Buterin"
-description: "Ethereum co-Founder"
+description: Ethereum co-Founder
+start: Nov 2013
+end: present
 ---
-
-{{ page.description }}
-
-Nov 2013 to present
 
 ## DEVCON0 self-intro
 

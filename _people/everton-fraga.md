@@ -1,11 +1,9 @@
 ---
-title: "Everton Fraga"
-description: "Helped bring Mist to life"
+title: Everton Fraga
+description: Helped bring Mist to life
+start: Apr 2016
+end: Nov 2020
 ---
-
-{{ page.description }}
-
-Apr 2016 to Nov 2020
 
 From LinkedIn profile as of 23rd August 2025:
 

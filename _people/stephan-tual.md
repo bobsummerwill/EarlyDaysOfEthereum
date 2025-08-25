@@ -1,11 +1,9 @@
 ---
-title: "Stephan Tual"
-description: "Ethereum OG"
+title: Stephan Tual
+description: Ethereum OG
+start: Jan 2014
+end: Sep 2015
 ---
-
-{{ page.description }}
-
-Jan 2014 to Sep 2015
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=32m15s)

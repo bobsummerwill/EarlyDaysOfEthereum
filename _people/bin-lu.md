@@ -1,11 +1,9 @@
 ---
-title: "Bin Lu"
-description: "Ethereum OG"
+title: Bin Lu
+description: Ethereum OG
+start: Jan 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Jan 2014 to ???
 
 ## Links
 - [X](https://twitter.com/bitgulu)

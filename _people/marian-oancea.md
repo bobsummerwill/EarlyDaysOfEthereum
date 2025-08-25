@@ -1,11 +1,9 @@
 ---
-title: "Marian Oancea"
-description: "Senior Web Developer"
+title: Marian Oancea
+description: Senior Web Developer
+start: May 2014
+end: Sep 2015
 ---
-
-{{ page.description }}
-
-May 2014 to Sep 2015
 
 From LinkedIn profile as of 23rd August 2025:
 

@@ -1,11 +1,7 @@
 ---
-title: "Amir Taaki"
+title: Amir Taaki
 description: "'Anarchist Amir' to Amir Chetrit's 'Capitalist Amir', Gav met Johnny through Amir Taaki."
 ---
-
-{{ page.description }}
-
-Johnny was [Jonathan James Harrison]({{ '/people/jonathan-james-harrison/' | relative_url }}) ("Johnny Bitcoin").
 
 ## Links
 

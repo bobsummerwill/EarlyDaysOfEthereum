@@ -1,11 +1,9 @@
 ---
-title: "Hudson Jameson"
-description: "Ethereum OG"
+title: Hudson Jameson
+description: Ethereum OG
+start: Jun 2016
+end: Apr 2021
 ---
-
-{{ page.description }}
-
-Jun 2016 to Apr 2021
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/hudsonjameson/)

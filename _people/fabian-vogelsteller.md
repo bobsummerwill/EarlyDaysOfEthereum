@@ -1,11 +1,9 @@
 ---
-title: "Fabian Vogelsteller"
-description: "Ethereum OG"
+title: Fabian Vogelsteller
+description: Ethereum OG
+start: Jan 2015
+end: Aug 2018
 ---
-
-{{ page.description }}
-
-Jan 2015 to Aug 2018
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/fabian-vogelsteller-46365042/)

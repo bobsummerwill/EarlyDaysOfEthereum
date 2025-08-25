@@ -1,11 +1,9 @@
 ---
-title: "George Hallam"
-description: "Ethereum OG"
+title: George Hallam
+description: Ethereum OG
+start: Aug 2014
+end: Oct 2016
 ---
-
-{{ page.description }}
-
-Aug 2014 to Oct 2016
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m32s)

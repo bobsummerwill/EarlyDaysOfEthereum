@@ -1,9 +1,7 @@
 ---
-title: "Andreas Lubbe"
-description: "Ethereum OG"
+title: Andreas Lubbe
+description: Ethereum OG
 ---
-
-{{ page.description }}
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/andreaslubbe/)

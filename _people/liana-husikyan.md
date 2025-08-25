@@ -1,11 +1,9 @@
 ---
-title: "Liana Husikyan"
-description: "Ethereum OG"
+title: Liana Husikyan
+description: Ethereum OG
+start: Jan 2015
+end: around Jun 2016
 ---
-
-{{ page.description }}
-
-Jan 2015 to around Jun 2016
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/liana-husikyan-b3a2a54/)

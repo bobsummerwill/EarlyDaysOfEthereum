@@ -1,11 +1,9 @@
 ---
-title: "Vlad Zamfir"
-description: "Ethereum OG"
+title: Vlad Zamfir
+description: Ethereum OG
+start: Apr 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Apr 2014 to ???
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s)

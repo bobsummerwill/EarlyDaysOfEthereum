@@ -1,11 +1,9 @@
 ---
-title: "Sven Ehlert"
-description: "Ethereum OG"
+title: Sven Ehlert
+description: Ethereum OG
+start: Nov 2014
+end: Mar 2015
 ---
-
-{{ page.description }}
-
-Nov 2014 to Mar 2015
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=18m21s)

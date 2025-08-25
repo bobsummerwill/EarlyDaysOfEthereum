@@ -1,11 +1,9 @@
 ---
-title: "Russell Verbeeten"
-description: "Ethereum OG"
+title: Russell Verbeeten
+description: Ethereum OG
+start: Feb 2014
+end: Jul 2014
 ---
-
-{{ page.description }}
-
-Feb 2014 to Jul 2014
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/russellverbeeten/)

@@ -1,11 +1,9 @@
 ---
-title: "Ethan Wilding"
-description: "Ethereum OG"
+title: Ethan Wilding
+description: Ethereum OG
+start: Mar 2014
+end: Apr 2017
 ---
-
-{{ page.description }}
-
-Mar 2014 to Apr 2017
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/ethanwilding/)

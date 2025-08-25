@@ -1,11 +1,9 @@
 ---
-title: "David Ben Kay"
-description: "Ethereum OG"
+title: David Ben Kay
+description: Ethereum OG
+start: Feb 2016
+end: Dec 2016
 ---
-
-{{ page.description }}
-
-Feb 2016 to Dec 2016
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/davidbenkay/)

@@ -1,11 +1,9 @@
 ---
-title: "Aya Miyaguchi"
-description: "Ethereum OG"
+title: Aya Miyaguchi
+description: Ethereum OG
+start: Feb 2018
+end: present
 ---
-
-{{ page.description }}
-
-Feb 2018 to present
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/amiyaguchi/)

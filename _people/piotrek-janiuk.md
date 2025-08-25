@@ -1,11 +1,9 @@
 ---
-title: "Piotrek Janiuk"
-description: "Ethereum OG"
+title: Piotrek Janiuk
+description: Ethereum OG
+start: Nov 2014
+end: present
 ---
-
-{{ page.description }}
-
-Nov 2014 to present (but never in the EF)
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m46s)

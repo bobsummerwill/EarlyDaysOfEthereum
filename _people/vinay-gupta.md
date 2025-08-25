@@ -1,9 +1,8 @@
 ---
-title: "Vinay Gupta"
-description: "Ethereum OG"
+title: Vinay Gupta
+description: Ethereum OG
 ---
 
-{{ page.description }}
 
 Nov 2014 (maybe) to ???
 

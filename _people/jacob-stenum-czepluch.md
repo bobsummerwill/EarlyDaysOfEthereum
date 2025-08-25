@@ -1,11 +1,9 @@
 ---
-title: "Jacob Stenum Czepluch"
-description: "Ethereum OG"
+title: Jacob Stenum Czepluch
+description: Intern at the Ethereum Foundation
+start: Aug 2015
+end: Dec 2015
 ---
-
-{{ page.description }}
-
-Intern at EF from Aug 2015 to Dec 2015
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/jstcz/)

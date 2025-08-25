@@ -1,11 +1,9 @@
 ---
-title: "Luca Zeug"
-description: "Mist Team member"
+title: Luca Zeug
+description: Mist Team member
+start: April 2016
+end: July 2016
 ---
-
-{{ page.description }}
-
-April 2016 to July 2016
 
 ## Links
 - [GitHub](https://github.com/luclu)

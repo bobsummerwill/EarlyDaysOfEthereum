@@ -1,11 +1,9 @@
 ---
-title: "Lefteris Karapetsas"
-description: "Ethereum OG"
+title: Lefteris Karapetsas
+description: Ethereum OG
+start: Nov 2014
+end: Jan 2016
 ---
-
-{{ page.description }}
-
-Nov 2014 to Jan 2016
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s)

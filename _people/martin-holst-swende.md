@@ -1,11 +1,9 @@
 ---
-title: "Martin Holst Swende"
-description: "Geth maintainer and security guy"
+title: Martin Holst Swende
+description: Geth maintainer and security guy
+start: Sep 2016
+end: Apr 2025
 ---
-
-{{ page.description }}
-
-Sep 2016 to Apr 2025.
 
 From LinkedIn profile as of 22nd Aug 2025:
 

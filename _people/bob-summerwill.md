@@ -1,9 +1,7 @@
 ---
-title: "Bob Summerwill"
-description: "Bob worked at the Ethereum Foundation in 2016 and initiated the Early Days of Ethereum project."
+title: Bob Summerwill
+description: Bob worked at the Ethereum Foundation in 2016 and initiated the Early Days of Ethereum project.
 ---
-
-{{ page.description }}
 
 ## Links
 

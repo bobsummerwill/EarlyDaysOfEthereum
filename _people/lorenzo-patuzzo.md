@@ -1,11 +1,9 @@
 ---
-title: "Lorenzo Patuzzo"
-description: "Carpenter at The Spaceship"
+title: Lorenzo Patuzzo
+description: Carpenter at The Spaceship
+start: Mar 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Mar 2014? to ???
 
 ## References
 

@@ -1,11 +1,9 @@
 ---
-title: "Joel Dietz"
-description: "Ethereum OG"
+title: Joel Dietz
+description: Ethereum OG
+start: Dec 2013
+end: Aug 2014
 ---
-
-{{ page.description }}
-
-Dec 2013 to Aug 2014
 
 Founding Member, Ethereum
 

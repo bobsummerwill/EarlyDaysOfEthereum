@@ -1,11 +1,9 @@
 ---
-title: "Louis Parker"
-description: "Early Ethereum contributor"
+title: Louis Parker
+description: Early Ethereum contributor
+start: January 2014
+end: present
 ---
-
-{{ page.description }}
-
-present at Miami house in January 2014
 
 ## Links
 

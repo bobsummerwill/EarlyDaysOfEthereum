@@ -1,11 +1,9 @@
 ---
-title: "Wendell Davis"
-description: "Ethereum OG"
+title: Wendell Davis
+description: Ethereum OG
+start: Jan 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Jan 2014 to ???
 
 ## Links
 - [YouTube](https://www.youtube.com/watch?v=4jGqmlA4KEY)

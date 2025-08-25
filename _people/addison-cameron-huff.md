@@ -1,11 +1,9 @@
 ---
-title: "Addison Cameron-Huff"
-description: "Ethereum OG"
+title: Addison Cameron-Huff
+description: Ethereum OG
+start: ???
+end: ???
 ---
-
-{{ page.description }}
-
-??? to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/addisoncameronhuff/)

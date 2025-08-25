@@ -1,11 +1,9 @@
 ---
-title: "Jeremy Wood"
-description: "Ethereum OG"
+title: Jeremy Wood
+description: Ethereum OG
+start: Dec 2013
+end: May 2014
 ---
-
-{{ page.description }}
-
-Dec 2013 to May 2014 (executive assistant to Charles)
 
 ## Links
 

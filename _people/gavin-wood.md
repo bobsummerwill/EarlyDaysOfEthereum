@@ -1,11 +1,9 @@
 ---
 title: "Gavin 'Gav' Wood"
-description: "Ethereum co-Founder"
+description: Ethereum co-Founder
+start: Dec 2013
+end: Oct 2015
 ---
-
-{{ page.description }}
-
-Dec 2013 to Oct 2015
 
 ## DEVCON0 self-intro
 

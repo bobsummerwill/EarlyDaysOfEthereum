@@ -1,9 +1,8 @@
 ---
-title: "Zsolt Felföldi"
-description: "Ethereum OG"
+title: Zsolt Felföldi
+description: Ethereum OG
 ---
 
-{{ page.description }}
 
 Sep 2014 (maybe) to present (left and returned)
 

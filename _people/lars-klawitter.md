@@ -1,11 +1,9 @@
 ---
-title: "Lars Klawitter"
-description: "Ethereum OG"
+title: Lars Klawitter
+description: Ethereum OG
+start: Jun 2015
+end: Dec 2015
 ---
-
-{{ page.description }}
-
-Jun 2015 to Dec 2015
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/lars-klawitter-8703376/)

@@ -1,11 +1,9 @@
 ---
-title: "Jamie Pitts"
-description: "Ethereum OG"
+title: Jamie Pitts
+description: Ethereum OG
+start: Jun 2016
+end: ???
 ---
-
-{{ page.description }}
-
-Jun 2016 to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/jamiepitts/)

@@ -1,11 +1,7 @@
 ---
 title: "Joseph 'Joe' Lubin"
-description: "Ethereum co-Founder"
+description: Ethereum co-Founder
 ---
-
-{{ page.description }}
-
-Father of [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}).
 
 ## DEVCON0 self-intro
 

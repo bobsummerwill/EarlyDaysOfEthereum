@@ -1,11 +1,9 @@
 ---
-title: "Roland"
-description: "Ethereum OG"
+title: Roland
+description: Ethereum OG
+start: Aug 2014
+end: Nov 2014
 ---
-
-{{ page.description }}
-
-Aug 2014 to Nov 2014 (designed the ETHDEV space in Berlin)
 
 ## References
 

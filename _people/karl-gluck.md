@@ -1,11 +1,9 @@
 ---
-title: "Karl Gluck"
-description: "Ethereum OG"
+title: Karl Gluck
+description: Ethereum OG
+start: ???
+end: ???
 ---
-
-{{ page.description }}
-
-??? to ???
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/karlgluck/)

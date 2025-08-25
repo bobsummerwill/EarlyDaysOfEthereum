@@ -32,8 +32,6 @@ title: People
             
             {% if person.description %}
             <p class="person-description">{{ person.description }}</p>
-            {% else %}
-            <p class="person-excerpt">{{ person.content | strip_html | truncatewords: 30 }}</p>
             {% endif %}
             
         </div>

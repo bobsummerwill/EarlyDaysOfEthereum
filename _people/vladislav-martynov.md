@@ -1,11 +1,9 @@
 ---
-title: "Vladislav Martynov"
-description: "Ethereum OG"
+title: Vladislav Martynov
+description: Ethereum OG
+start: May 2016
+end: May 2019
 ---
-
-{{ page.description }}
-
-May 2016 to May 2019
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/vladmartynov/)

@@ -1,11 +1,9 @@
 ---
-title: "Jeff Wilcke"
-description: "Ethereum co-Founder"
+title: Jeff Wilcke
+description: Ethereum co-Founder
+start: Dec 2013
+end: Feb 2017
 ---
-
-{{ page.description }}
-
-Dec 2013 to Feb 2017
 
 ## DEVCON0 self-intro
 

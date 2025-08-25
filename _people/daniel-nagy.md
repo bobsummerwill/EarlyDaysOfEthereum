@@ -1,11 +1,9 @@
 ---
-title: "Daniel Nagy"
-description: "Ethereum OG"
+title: Daniel Nagy
+description: Ethereum OG
+start: Oct 2014
+end: ???
 ---
-
-{{ page.description }}
-
-Oct 2014 to ???
 
 That was when he started at the EF, but he was watching for the sidelines from Apr 2014, as per his DEVCON0 clip below.
 

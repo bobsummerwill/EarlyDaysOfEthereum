@@ -1,9 +1,7 @@
 ---
-title: "Jason Colby"
-description: "Ethereum OG"
+title: Jason Colby
+description: Ethereum OG
 ---
-
-{{ page.description }}
 
 ## DEVCON0 self-intro
 

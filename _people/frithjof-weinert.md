@@ -1,11 +1,9 @@
 ---
-title: "Frithjof Weinert"
-description: "Ethereum OG"
+title: Frithjof Weinert
+description: Ethereum OG
+start: Mar 2015
+end: Jun 2017
 ---
-
-{{ page.description }}
-
-Mar 2015 to Jun 2017
 
 ## Links
 - [Website](https://www.mesh.xyz/team)

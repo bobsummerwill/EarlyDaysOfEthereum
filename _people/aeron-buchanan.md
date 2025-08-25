@@ -1,11 +1,9 @@
 ---
-title: "Aeron Buchanan"
-description: "Ethereum OG"
+title: Aeron Buchanan
+description: Ethereum OG
+start: Feb 2014
+end: Nov 2015
 ---
-
-{{ page.description }}
-
-Feb 2014 to Nov 2015
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=15m42s)

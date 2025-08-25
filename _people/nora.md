@@ -1,9 +1,8 @@
 ---
-title: "Nora"
+title: Nora
 description: "Ethereum's biggest mystery."
 ---
 
-{{ page.description }}
 
 Nora is an unknown individual who seemingly gave [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) legal advice related to her hostile takeover of the EF from the other newly elected board members.
 

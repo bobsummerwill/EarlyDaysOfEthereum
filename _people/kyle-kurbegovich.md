@@ -1,11 +1,9 @@
 ---
-title: "Kyle Kurbegovich"
-description: "Ethereum OG"
+title: Kyle Kurbegovich
+description: Ethereum OG
+start: January 2014
+end: present
 ---
-
-{{ page.description }}
-
-present at Miami house in January 2014
 
 ## References
 

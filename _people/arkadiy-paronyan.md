@@ -1,11 +1,9 @@
 ---
-title: "Arkadiy Paronyan"
-description: "Ethereum OG"
+title: Arkadiy Paronyan
+description: Ethereum OG
+start: Nov 2014
+end: Dec 2015
 ---
-
-{{ page.description }}
-
-Nov 2014 to Dec 2015 (he was at DEVCON0 in Nov 2014, ahead of his official start in Dec 2014)
 
 ## DEVCON0 self-intro
 - [DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s)

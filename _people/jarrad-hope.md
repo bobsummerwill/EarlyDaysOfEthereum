@@ -1,9 +1,9 @@
 ---
-title: "Jarrad Hope"
-description: "Ethereum OG"
+title: Jarrad Hope
+description: Ethereum OG
 photo: "/images/jarrad-hope/jarrad-hope-headshot.jpg"
-start: "Mar 2014"
-end: "present"
+start: Mar 2014
+end: present
 ---
 
 In March 2014, Jarrad founded the [Amsterdam Ethereum Meetup](https://www.meetup.com/Amsterdam-Ethereum-Meetup/) which had its inaugural session at [Eetcafé de Doffer](https://cafededoffer.nl) on 4th March 2014 with 37 attendees.

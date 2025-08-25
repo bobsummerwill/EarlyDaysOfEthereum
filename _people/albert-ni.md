@@ -1,11 +1,9 @@
 ---
-title: "Albert Ni"
-description: "Ethereum OG"
+title: Albert Ni
+description: Ethereum OG
+start: Feb 2018
+end: present
 ---
-
-{{ page.description }}
-
-Feb 2018 to present
 
 ## References
 

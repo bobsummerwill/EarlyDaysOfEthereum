@@ -1,11 +1,9 @@
 ---
-title: "Virgil Griffith"
-description: "Ethereum OG"
+title: Virgil Griffith
+description: Ethereum OG
+start: Oct 2016
+end: Nov 2019
 ---
-
-{{ page.description }}
-
-Oct 2016 to Nov 2019
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/virgilgr/)

@@ -1,11 +1,9 @@
 ---
-title: "John Frazer"
-description: "Ethereum OG"
+title: John Frazer
+description: Ethereum OG
+start: Jan 2017
+end: Jan 2018
 ---
-
-{{ page.description }}
-
-Jan 2017 to Jan 2018
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/jrfrazermba/)

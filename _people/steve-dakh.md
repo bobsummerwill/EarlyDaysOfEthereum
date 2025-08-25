@@ -1,11 +1,9 @@
 ---
-title: "Steve Dakh"
-description: "Ethereum OG"
+title: Steve Dakh
+description: Ethereum OG
+start: January 2014
+end: present
 ---
-
-{{ page.description }}
-
-present at Miami house in January 2014
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/steve-dakh/)

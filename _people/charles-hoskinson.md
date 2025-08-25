@@ -1,11 +1,9 @@
 ---
-title: "Charles Hoskinson"
-description: "Ethereum co-Founder"
+title: Charles Hoskinson
+description: Ethereum co-Founder
+start: Dec 2013
+end: Jun 2014
 ---
-
-{{ page.description }}
-
-Dec 2013 to Jun 2014 ("Red Wedding")
 
 ## Links
 

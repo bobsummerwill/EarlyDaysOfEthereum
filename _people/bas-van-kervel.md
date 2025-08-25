@@ -1,11 +1,9 @@
 ---
-title: "Bas van Kervel"
-description: "Ethereum OG"
+title: Bas van Kervel
+description: Ethereum OG
+start: Apr 2015
+end: Jul 2017
 ---
-
-{{ page.description }}
-
-Apr 2015 to Jul 2017
 
 ## Links
 - [GitHub](https://github.com/bas-vk)

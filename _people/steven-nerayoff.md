@@ -1,11 +1,9 @@
 ---
-title: "Steven Nerayoff"
-description: "Ethereum OG"
+title: Steven Nerayoff
+description: Ethereum OG
+start: Jan 2014
+end: Dec 2014
 ---
-
-{{ page.description }}
-
-Jan 2014 to Dec 2014
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/nerayoff/)

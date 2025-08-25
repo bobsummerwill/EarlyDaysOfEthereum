@@ -1,11 +1,9 @@
 ---
-title: "Ryan Taylor"
-description: "Ethereum OG"
+title: Ryan Taylor
+description: Ethereum OG
+start: ???
+end: ???
 ---
-
-{{ page.description }}
-
-??? to ???
 
 ## Links
 - [X](https://twitter.com/AdjyLeak)

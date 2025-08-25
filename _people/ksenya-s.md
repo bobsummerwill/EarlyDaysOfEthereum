@@ -1,9 +1,8 @@
 ---
-title: "Ksenya S"
-description: "Ethereum OG"
+title: Ksenya S
+description: Ethereum OG
 ---
 
-{{ page.description }}
 
 Nov 2014 (maybe) to ??? - only for DEVCON0? (but never in the EF)
 

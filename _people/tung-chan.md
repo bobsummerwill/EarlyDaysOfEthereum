@@ -1,11 +1,9 @@
 ---
-title: "Tung Chan"
-description: "Ethereum OG"
+title: Tung Chan
+description: Ethereum OG
+start: Jul 2015
+end: Apr 2018
 ---
-
-{{ page.description }}
-
-Jul 2015 to Apr 2018
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/tung-chan-b652914/)

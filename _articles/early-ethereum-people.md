@@ -77,7 +77,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Heiko Hees]({{ '/people/heiko-hees/' | relative_url }}) – Mar 2014 to Feb 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m34s))
 - [Jarrad Hope]({{ '/people/jarrad-hope/' | relative_url }}), Mar 2014 to present
 - [Joris Bontje]({{ '/people/joris-bontje/' | relative_url }}) – Mar 2014 to present (but never in the EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=29m34s))
-- [Lorenzo Patuzzo]({{ '/people/lorenzo-patuzzo/' | relative_url }}), Mar 2014? to ???
+- [Lorenzo Patuzzo]({{ '/people/lorenzo-patuzzo/' | relative_url }}), Mar 2014 to ???
 - [Maran Hidskes]({{ '/people/maran-hidskes/' | relative_url }}) – Mar 2014 to Sep 2014 (now part of Ethlab with Jeff from Jan 2016)
 - [Richard Stott]({{ '/people/richard-stott/' | relative_url }}) – Mar 2014 to Aug 2014
 - [Roman Mandeleil]({{ '/people/roman-mandeleil/' | relative_url }}) – Mar 2014 to ??? (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s))
@@ -119,7 +119,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 
 ## November 2014
 - [Arkadiy Paronyan]({{ '/people/arkadiy-paronyan/' | relative_url }}) – Nov 2014 to Dec 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=31m21s))
-- [Christian Vömel]({{ '/people/christian-vomel/' | relative_url }}) – Nov 2014 to ?? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s))
+- [Christian Vömel]({{ '/people/christian-vomel/' | relative_url }}) – Nov 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m2s))
 - [Jutta Steiner]({{ '/people/jutta-steiner/' | relative_url }}) – Nov 2014 to Oct 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=27m24s))
 - [Ken Kappler]({{ '/people/ken-kappler/' | relative_url }}) – Nov 2014 to Sep 2015 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=34m19s))
 - [Lefteris Karapetsas]({{ '/people/lefteris-karapetsas/' | relative_url }}) – Nov 2014 to Jan 2016 ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=17m19s))
@@ -201,7 +201,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Nick Johnson]({{ '/people/nick-johnson/' | relative_url }}) ("[Arachnid](https://github.com/Arachnid)") – June 2016 to Aug 2018
 
 ## July 2016
-- [Lilit Penrod]({{ '/people/lilit-penrod/' | relative_url }}) – July 2016 to Sep 2016. Sep 2017
+- [Lilit Penrod]({{ '/people/lilit-penrod/' | relative_url }}) – July 2016 to Sep 2016. Sep 2017 to Nov 2017.
 
 ## September 2016
 - [Martin Holst Swende]({{ '/people/martin-holst-swende/' | relative_url }}) – Sep 2016 to Apr 2025

@@ -1,11 +1,9 @@
 ---
-title: "Mihai Alisie"
-description: "Ethereum co-Founder"
+title: Mihai Alisie
+description: Ethereum co-Founder
+start: Dec 2013
+end: Oct 2015
 ---
-
-{{ page.description }}
-
-Dec 2013 to Oct 2015
 
 ## Links
 

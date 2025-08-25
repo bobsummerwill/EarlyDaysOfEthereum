@@ -1,11 +1,9 @@
 ---
-title: "Maran Hidskes"
-description: "Ethereum OG"
+title: Maran Hidskes
+description: Ethereum OG
+start: Mar 2014
+end: Sep 2014
 ---
-
-{{ page.description }}
-
-Mar 2014 to Sep 2014 (now part of Ethlab with Jeff from Jan 2016)
 
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
 

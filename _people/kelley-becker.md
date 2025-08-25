@@ -1,7 +1,7 @@
 ---
 name: Kelley Becker
 description: Ethereum OG
-start: March 2015
+start: Mar 2015
 end: June 2017
 ---
 

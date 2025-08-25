@@ -1,11 +1,11 @@
 ---
 title: "Lorenzo Patuzzo"
-description: "Ethereum OG"
+description: "Carpenter at The Spaceship"
 ---
 
 {{ page.description }}
 
-Mar 2014? to ??? - carpenter
+Mar 2014? to ???
 
 ## References
 

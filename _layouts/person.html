@@ -32,15 +32,80 @@ layout: default
     {% if page.devcon0 %}
     <div class="devcon0-section">
         <h3>DEVCON0 self-introduction</h3>
-        <div style="max-width: 75%; padding-bottom: 42.1875%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 20px 0;">
-            <iframe 
-                src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}" 
-                frameborder="0" 
-                allowfullscreen
-                title="DEVCON0 self-introduction"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
-            </iframe>
+        {% assign name_parts = page.name | split: ' ' %}
+        {% assign firstname = name_parts[0] | downcase %}
+        {% assign lastname = name_parts[-1] | downcase %}
+        {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+        {% assign thumbnail_path = '/images/youtube/devcon0/' | append: thumbnail_filename %}
+        
+        <div class="devcon0-video-container" style="max-width: 75%; margin: 20px 0;">
+            <div class="devcon0-thumbnail-wrapper" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                <img src="{{ thumbnail_path | relative_url }}" 
+                     alt="{{ page.name }} DEVCON0 introduction" 
+                     style="width: 100%; height: auto; display: block;"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                
+                <!-- Fallback to embedded video if thumbnail doesn't exist -->
+                <div class="devcon0-fallback" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
+                    <iframe 
+                        src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}" 
+                        frameborder="0" 
+                        allowfullscreen
+                        title="DEVCON0 self-introduction"
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                    </iframe>
+                </div>
+                
+                <!-- Play button overlay -->
+                <div class="play-button-overlay" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
+                    <div style="width: 0; height: 0; border-left: 25px solid white; border-top: 15px solid transparent; border-bottom: 15px solid transparent; margin-left: 5px;"></div>
+                </div>
+            </div>
+            
+            <!-- Hidden video container for click-to-play -->
+            <div class="devcon0-video-player" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+                <iframe 
+                    src="" 
+                    frameborder="0" 
+                    allowfullscreen
+                    title="DEVCON0 self-introduction"
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                </iframe>
+            </div>
         </div>
+        
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const thumbnailWrapper = document.querySelector('.devcon0-thumbnail-wrapper');
+            const videoPlayer = document.querySelector('.devcon0-video-player');
+            const iframe = videoPlayer.querySelector('iframe');
+            
+            if (thumbnailWrapper && videoPlayer) {
+                thumbnailWrapper.addEventListener('click', function() {
+                    // Set the iframe src to start the video
+                    iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}&autoplay=1';
+                    
+                    // Hide thumbnail and show video
+                    thumbnailWrapper.style.display = 'none';
+                    videoPlayer.style.display = 'block';
+                });
+                
+                // Hover effect for play button
+                const playButton = thumbnailWrapper.querySelector('.play-button-overlay');
+                if (playButton) {
+                    thumbnailWrapper.addEventListener('mouseenter', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.9)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+                    });
+                    
+                    thumbnailWrapper.addEventListener('mouseleave', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.8)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+                    });
+                }
+            }
+        });
+        </script>
     </div>
     {% endif %}
     

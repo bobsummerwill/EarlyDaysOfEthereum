@@ -128,42 +128,80 @@ Display people grouped by start date
     <div class="people-list">
         {% for person in people_in_date %}
         <div class="person-card">
-            {% if person.photo %}
-            <div class="person-photo">
-                <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
+            <div class="person-header">
+                <div class="person-photo">
+                    {% if person.photo %}
+                    <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
+                    {% endif %}
+                </div>
+                
+                <div class="person-info">
+                    <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
+                    
+                    {% if person.role %}
+                    <div class="person-role">{{ person.role }}</div>
+                    {% endif %}
+                    
+                    {% if person.period %}
+                    <div class="person-period">Active: {{ person.period }}</div>
+                    {% endif %}
+                    
+                    {% if person.description %}
+                    <p class="person-description">{{ person.description }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            
+            {% if person.devcon0 %}
+            <hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">
+            <div class="devcon0-section">
+                <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555;">DEVCON0 self-introduction</h4>
+                
+                {% assign name_parts = person.name | split: ' ' %}
+                {% assign firstname = name_parts[0] | downcase %}
+                {% assign lastname = name_parts[-1] | downcase %}
+                {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+                {% assign thumbnail_path = '/images/youtube/devcon0/' | append: thumbnail_filename %}
+                
+                <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
+                    <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                        <img src="{{ thumbnail_path | relative_url }}" 
+                             alt="{{ person.name }} DEVCON0 introduction" 
+                             style="width: 100%; height: auto; display: block;"
+                             onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                             data-person-name="{{ person.name }}"
+                             data-devcon0-timestamp="{{ person.devcon0 }}">
+                        
+                        <!-- Fallback to embedded video if thumbnail doesn't exist -->
+                        <div class="devcon0-fallback-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
+                            <iframe 
+                                src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
+                                frameborder="0" 
+                                allowfullscreen
+                                title="DEVCON0 self-introduction"
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                            </iframe>
+                        </div>
+                        
+                        <!-- Play button overlay -->
+                        <div class="play-button-overlay-people" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
+                            <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 4px;"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Hidden video container for click-to-play -->
+                    <div class="devcon0-video-player-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                        <iframe 
+                            src="" 
+                            frameborder="0" 
+                            allowfullscreen
+                            title="DEVCON0 self-introduction"
+                            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                        </iframe>
+                    </div>
+                </div>
             </div>
             {% endif %}
-            
-            <div class="person-info">
-                <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
-                
-                {% if person.role %}
-                <div class="person-role">{{ person.role }}</div>
-                {% endif %}
-                
-                {% if person.period %}
-                <div class="person-period">Active: {{ person.period }}</div>
-                {% endif %}
-                
-                {% if person.description %}
-                <p class="person-description">{{ person.description }}</p>
-                {% endif %}
-                
-                {% if person.devcon0 %}
-                <hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">
-                <div class="devcon0-section">
-                    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555;">DEVCON0 self-introduction</h4>
-                    <iframe 
-                        src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
-                        frameborder="0" 
-                        allowfullscreen
-                        title="DEVCON0 self-introduction"
-                        style="width: 100%; height: 315px; border-radius: 8px;">
-                    </iframe>
-                </div>
-                {% endif %}
-                
-            </div>
         </div>
         {% endfor %}
     </div>
@@ -179,42 +217,80 @@ Display people without start dates in "Other" section
         {% assign sorted_other_people = people_without_dates | sort: "name" %}
         {% for person in sorted_other_people %}
         <div class="person-card">
-            {% if person.photo %}
-            <div class="person-photo">
-                <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
+            <div class="person-header">
+                <div class="person-photo">
+                    {% if person.photo %}
+                    <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
+                    {% endif %}
+                </div>
+                
+                <div class="person-info">
+                    <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
+                    
+                    {% if person.role %}
+                    <div class="person-role">{{ person.role }}</div>
+                    {% endif %}
+                    
+                    {% if person.period %}
+                    <div class="person-period">Active: {{ person.period }}</div>
+                    {% endif %}
+                    
+                    {% if person.description %}
+                    <p class="person-description">{{ person.description }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            
+            {% if person.devcon0 %}
+            <hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">
+            <div class="devcon0-section">
+                <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555;">DEVCON0 self-introduction</h4>
+                
+                {% assign name_parts = person.name | split: ' ' %}
+                {% assign firstname = name_parts[0] | downcase %}
+                {% assign lastname = name_parts[-1] | downcase %}
+                {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+                {% assign thumbnail_path = '/images/youtube/devcon0/' | append: thumbnail_filename %}
+                
+                <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
+                    <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                        <img src="{{ thumbnail_path | relative_url }}" 
+                             alt="{{ person.name }} DEVCON0 introduction" 
+                             style="width: 100%; height: auto; display: block;"
+                             onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                             data-person-name="{{ person.name }}"
+                             data-devcon0-timestamp="{{ person.devcon0 }}">
+                        
+                        <!-- Fallback to embedded video if thumbnail doesn't exist -->
+                        <div class="devcon0-fallback-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
+                            <iframe 
+                                src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
+                                frameborder="0" 
+                                allowfullscreen
+                                title="DEVCON0 self-introduction"
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                            </iframe>
+                        </div>
+                        
+                        <!-- Play button overlay -->
+                        <div class="play-button-overlay-people" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
+                            <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 4px;"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Hidden video container for click-to-play -->
+                    <div class="devcon0-video-player-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                        <iframe 
+                            src="" 
+                            frameborder="0" 
+                            allowfullscreen
+                            title="DEVCON0 self-introduction"
+                            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                        </iframe>
+                    </div>
+                </div>
             </div>
             {% endif %}
-            
-            <div class="person-info">
-                <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
-                
-                {% if person.role %}
-                <div class="person-role">{{ person.role }}</div>
-                {% endif %}
-                
-                {% if person.period %}
-                <div class="person-period">Active: {{ person.period }}</div>
-                {% endif %}
-                
-                {% if person.description %}
-                <p class="person-description">{{ person.description }}</p>
-                {% endif %}
-                
-                {% if person.devcon0 %}
-                <hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">
-                <div class="devcon0-section">
-                    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555;">DEVCON0 self-introduction</h4>
-                    <iframe 
-                        src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
-                        frameborder="0" 
-                        allowfullscreen
-                        title="DEVCON0 self-introduction"
-                        style="width: 100%; height: 315px; border-radius: 8px;">
-                    </iframe>
-                </div>
-                {% endif %}
-                
-            </div>
         </div>
         {% endfor %}
     </div>
@@ -239,6 +315,12 @@ Display people without start dates in "Other" section
         padding: 20px;
         border-radius: 8px;
         border-left: 4px solid #007acc;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .person-card .person-header {
         display: flex;
         gap: 15px;
     }
@@ -324,3 +406,45 @@ Display people without start dates in "Other" section
         }
     }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Handle click-to-play for DEVCON0 thumbnails on People page
+    const thumbnailWrappers = document.querySelectorAll('.devcon0-thumbnail-wrapper-people');
+    
+    thumbnailWrappers.forEach(function(wrapper) {
+        const img = wrapper.querySelector('img');
+        const videoContainer = wrapper.parentElement;
+        const videoPlayer = videoContainer.querySelector('.devcon0-video-player-people');
+        const iframe = videoPlayer.querySelector('iframe');
+        const playButton = wrapper.querySelector('.play-button-overlay-people');
+        
+        // Add hover effects for play button
+        if (playButton) {
+            wrapper.addEventListener('mouseenter', function() {
+                playButton.style.background = 'rgba(0,0,0,0.9)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+            });
+            
+            wrapper.addEventListener('mouseleave', function() {
+                playButton.style.background = 'rgba(0,0,0,0.8)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+            });
+        }
+        
+        // Handle click to play video
+        wrapper.addEventListener('click', function() {
+            const timestamp = img.getAttribute('data-devcon0-timestamp');
+            
+            if (timestamp && iframe) {
+                // Set the iframe src to start the video with autoplay
+                iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start=' + timestamp + '&autoplay=1';
+                
+                // Hide thumbnail and show video
+                wrapper.style.display = 'none';
+                videoPlayer.style.display = 'block';
+            }
+        });
+    });
+});
+</script>

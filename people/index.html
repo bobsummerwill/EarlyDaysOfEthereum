@@ -229,8 +229,9 @@ Display people without start dates in "Other" section
         margin-top: 30px;
         margin-bottom: 40px;
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
         gap: 25px;
+        max-width: 1200px; /* Ensures consistent 3-column layout on desktop */
     }
     
     .person-card {

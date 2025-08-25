@@ -44,6 +44,8 @@ Sort date groups chronologically by extracting years and months
 {% assign years_2014 = "" | split: "" %}
 {% assign years_2015 = "" | split: "" %}
 {% assign years_2016 = "" | split: "" %}
+{% assign years_2017 = "" | split: "" %}
+{% assign years_2018 = "" | split: "" %}
 {% assign years_other = "" | split: "" %}
 
 {% for date_str in date_groups %}
@@ -55,6 +57,10 @@ Sort date groups chronologically by extracting years and months
         {% assign years_2015 = years_2015 | push: date_str %}
     {% elsif date_str contains "2016" %}
         {% assign years_2016 = years_2016 | push: date_str %}
+    {% elsif date_str contains "2017" %}
+        {% assign years_2017 = years_2017 | push: date_str %}
+    {% elsif date_str contains "2018" %}
+        {% assign years_2018 = years_2018 | push: date_str %}
     {% else %}
         {% assign years_other = years_other | push: date_str %}
     {% endif %}
@@ -110,6 +116,28 @@ Sort 2016 dates by month
 {% endfor %}
 
 {% comment %}
+Sort 2017 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2017 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2018 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2018 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
 Add other dates (alphabetically sorted as fallback)
 {% endcomment %}
 {% assign years_other_sorted = years_other | sort %}
@@ -118,12 +146,75 @@ Add other dates (alphabetically sorted as fallback)
 {% endfor %}
 
 {% comment %}
-Display people grouped by start date
+Display people grouped by start date with epoch headings
 {% endcomment %}
+{% assign current_epoch = "" %}
 {% for start_date in sorted_dates %}
     {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
     
-    <h2 style="margin-top: 40px; margin-bottom: 20px; color: #007acc; border-bottom: 2px solid #007acc; padding-bottom: 10px;">{{ start_date }}</h2>
+    {% comment %}
+    Determine which epoch this date belongs to
+    {% endcomment %}
+    {% assign epoch = "" %}
+    {% assign is_2013 = false %}
+    {% assign is_2014_early = false %}
+    {% assign is_2014_late = false %}
+    {% assign is_2015_early = false %}
+    {% assign is_2015_mid = false %}
+    {% assign is_2015_late = false %}
+    {% assign is_2016_plus = false %}
+    
+    {% if start_date contains "2013" %}
+        {% assign is_2013 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2014" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" or start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_2014_early = true %}
+        {% else %}
+            {% assign is_2014_late = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2015" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_2015_early = true %}
+        {% elsif start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_2015_mid = true %}
+        {% else %}
+            {% assign is_2015_late = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2016" or start_date contains "2017" %}
+        {% assign is_2016_plus = true %}
+    {% endif %}
+    
+    {% if start_date contains "2018" %}
+        {% if start_date contains "Jan" %}
+            {% assign is_2016_plus = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if is_2013 or is_2014_early %}
+        {% assign epoch = "Whitepaper to Red Wedding (November 2013 to June 2014)" %}
+    {% elsif is_2014_late or is_2015_early %}
+        {% assign epoch = "Stiftung Ethereum and ETH ÐΞV (July 2014 to February 2015)" %}
+    {% elsif is_2015_mid %}
+        {% assign epoch = "The Interregnum (March 2015 to June 2015)" %}
+    {% elsif is_2015_late or is_2016_plus %}
+        {% assign epoch = "The Ming Dynasty (July 2015 to January 2018)" %}
+    {% endif %}
+    
+    {% comment %}
+    Add epoch heading if we're entering a new epoch
+    {% endcomment %}
+    {% if epoch != current_epoch and epoch != "" %}
+        {% assign current_epoch = epoch %}
+        <h1>{{ epoch }}</h1>
+    {% endif %}
+    
+    <h2 style="color: #007acc;">{{ start_date }}</h2>
     
     <div class="people-list">
         {% for person in people_in_date %}
@@ -211,7 +302,7 @@ Display people grouped by start date
 Display people without start dates in "Other" section
 {% endcomment %}
 {% if people_without_dates.size > 0 %}
-    <h2 style="margin-top: 40px; margin-bottom: 20px; color: #007acc; border-bottom: 2px solid #007acc; padding-bottom: 10px;">Other</h2>
+    <h1>Other</h1>
     
     <div class="people-list">
         {% assign sorted_other_people = people_without_dates | sort: "name" %}

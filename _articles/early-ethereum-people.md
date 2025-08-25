@@ -81,6 +81,7 @@ Obviously, the list of people who have been involved with the Ethereum Project a
 - [Maran Hidskes]({{ '/people/maran-hidskes/' | relative_url }}) – Mar 2014 to Sep 2014 (now part of Ethlab with Jeff from Jan 2016)
 - [Roman Mandeleil]({{ '/people/roman-mandeleil/' | relative_url }}) – Mar 2014 to ??? (but never in EF) ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=16m28s))
 - [Lorenzo Patuzzo]({{ '/people/lorenzo-patuzzo/' | relative_url }}), Mar 2014? to ???
+- [Jarrad Hope]({{ '/people/jarrad-hope/' | relative_url }}), Mar 2014 to present
 
 ## April 2014
 - [Vlad Zamfir]({{ '/people/vlad-zamfir/' | relative_url }}) ("[vladzamfir](https://github.com/vladzamfir)") – Apr 2014 to ??? ([DEVCON0](https://youtu.be/_BvvUlKDqp0?t=25m3s))

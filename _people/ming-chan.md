@@ -1,6 +1,6 @@
 ---
 name: Ming Chan
-description: Ethereum OG
+description: Executive Director
 start: Jul 2015
 end: Jan 2018
 ---

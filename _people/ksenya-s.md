@@ -1,6 +1,6 @@
 ---
 name: Ksenya S
-description: Ethereum OG
+description: Documentary crew at DEVCON0
 devcon0: "1980"
 ---
 

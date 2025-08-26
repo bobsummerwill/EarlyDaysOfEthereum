@@ -1,6 +1,6 @@
 ---
 name: Aya Miyaguchi
-description: Ethereum OG
+description: Executive Director and later President
 start: Feb 2018
 end: present
 ---

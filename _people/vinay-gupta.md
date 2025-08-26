@@ -1,8 +1,8 @@
 ---
 name: Vinay Gupta
-description: Ethereum OG
+description: Release Coordinator
 start: "Nov 2014"
-end: "???"
+end: "June 2015"
 devcon0: "1949"
 ---
 

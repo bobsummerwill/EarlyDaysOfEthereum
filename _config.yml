@@ -24,6 +24,16 @@ image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchiv
 twitter:
   username: bobsummerwill
   card: summary_large_image
+  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png
+
+# Facebook/Open Graph settings
+facebook:
+  app_id: # Add if you have a Facebook app ID
+  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_facebook.png
+
+# LinkedIn settings
+linkedin:
+  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png
 
 # Open Graph settings
 social:

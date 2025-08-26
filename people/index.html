@@ -13,6 +13,18 @@ title: People
 
 <p>Below are profiles and biographies for all of these individuals. Many are just stubs at the moment but the goal is to build detailed profiles for everyone, which will take considerable time to complete.</p>
 
+<div class="table-of-contents">
+    <h2>Contents</h2>
+    <ul>
+        <li><a href="#whitepaper-red-wedding">Whitepaper to "Red Wedding" (November 2013 to June 2014)</a></li>
+        <li><a href="#stiftung-ethereum">Stiftung Ethereum and ETH ÐΞV (July 2014 to February 2015)</a></li>
+        <li><a href="#interregnum">The Interregnum (March 2015 to June 2015)</a></li>
+        <li><a href="#the-ming-dynasty">The Ming Dynasty (July 2015 to January 2018)</a></li>
+        <li><a href="#the-infinite-garden">The Infinite Garden (February 2018 onwards)</a></li>
+        <li><a href="#other-people">Other People</a></li>
+    </ul>
+</div>
+
 {% comment %}
 Group people by start date and sort chronologically
 {% endcomment %}
@@ -194,10 +206,19 @@ Display people grouped by start date with epoch headings
         {% assign is_2016_plus = true %}
     {% endif %}
     
+    {% assign is_2018_early = false %}
+    {% assign is_2018_plus = false %}
+    
     {% if start_date contains "2018" %}
         {% if start_date contains "Jan" %}
             {% assign is_2016_plus = true %}
+        {% elsif start_date contains "Feb" or start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" or start_date contains "Jul" or start_date contains "Aug" or start_date contains "Sep" or start_date contains "Oct" or start_date contains "Nov" or start_date contains "Dec" %}
+            {% assign is_2018_plus = true %}
         {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" or start_date contains "2025" %}
+        {% assign is_2018_plus = true %}
     {% endif %}
     
     {% if is_2013 or is_2014_early %}
@@ -208,6 +229,8 @@ Display people grouped by start date with epoch headings
         {% assign epoch = "The Interregnum (March 2015 to June 2015)" %}
     {% elsif is_2015_late or is_2016_plus %}
         {% assign epoch = "The Ming Dynasty (July 2015 to January 2018)" %}
+    {% elsif is_2018_plus %}
+        {% assign epoch = "The Infinite Garden (February 2018 onwards)" %}
     {% endif %}
     
     {% comment %}
@@ -215,7 +238,19 @@ Display people grouped by start date with epoch headings
     {% endcomment %}
     {% if epoch != current_epoch and epoch != "" %}
         {% assign current_epoch = epoch %}
-        <h1>{{ epoch }}</h1>
+        {% if epoch == 'Whitepaper to "Red Wedding" (November 2013 to June 2014)' %}
+            <h1 id="whitepaper-red-wedding">{{ epoch }}</h1>
+        {% elsif epoch == "Stiftung Ethereum and ETH ÐΞV (July 2014 to February 2015)" %}
+            <h1 id="stiftung-ethereum">{{ epoch }}</h1>
+        {% elsif epoch == "The Interregnum (March 2015 to June 2015)" %}
+            <h1 id="interregnum">{{ epoch }}</h1>
+        {% elsif epoch == "The Ming Dynasty (July 2015 to January 2018)" %}
+            <h1 id="the-ming-dynasty">{{ epoch }}</h1>
+        {% elsif epoch == "The Infinite Garden (February 2018 onwards)" %}
+            <h1 id="the-infinite-garden">{{ epoch }}</h1>
+        {% else %}
+            <h1>{{ epoch }}</h1>
+        {% endif %}
     {% endif %}
     
     <h2 style="color: #007acc;">{{ start_date }}</h2>
@@ -242,7 +277,7 @@ Display people grouped by start date with epoch headings
                     {% endif %}
                     
                     {% if person.description %}
-                    <p class="person-description">{{ person.description }}</p>
+                    <p class="person-description">{{ person.description }}{% if person.start and person.end and person.start != "" and person.end != "" %}<br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>{% endif %}</p>
                     {% endif %}
                 </div>
             </div>
@@ -256,7 +291,7 @@ Display people grouped by start date with epoch headings
                 {% assign firstname = name_parts[0] | downcase %}
                 {% assign lastname = name_parts[-1] | downcase %}
                 {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
-                {% assign thumbnail_path = '/images/youtube.com/_BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
+                {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
                 
                 <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
                     <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -306,7 +341,7 @@ Display people grouped by start date with epoch headings
 Display people without start dates in "Other" section
 {% endcomment %}
 {% if people_without_dates.size > 0 %}
-    <h1>Other</h1>
+    <h1 id="other-people">Other</h1>
     
     <div class="people-list">
         {% assign sorted_other_people = people_without_dates | sort: "name" %}
@@ -345,7 +380,7 @@ Display people without start dates in "Other" section
                 {% assign firstname = name_parts[0] | downcase %}
                 {% assign lastname = name_parts[-1] | downcase %}
                 {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
-                {% assign thumbnail_path = '/images/youtube.com/_BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
+                {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
                 
                 <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
                     <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -396,6 +431,53 @@ Display people without start dates in "Other" section
 {% endif %}
 
 <style>
+    .table-of-contents {
+        background: #f8f9fa;
+        border: 1px solid #e9ecef;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 30px 0;
+        max-width: 600px;
+    }
+    
+    .table-of-contents h2 {
+        margin: 0 0 15px 0;
+        color: #007acc;
+        font-size: 1.3em;
+    }
+    
+    .table-of-contents ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .table-of-contents li {
+        margin: 8px 0;
+        padding-left: 20px;
+        position: relative;
+    }
+    
+    .table-of-contents li:before {
+        content: "→";
+        position: absolute;
+        left: 0;
+        color: #007acc;
+        font-weight: bold;
+    }
+    
+    .table-of-contents a {
+        color: #007acc;
+        text-decoration: none;
+        font-size: 0.95em;
+        line-height: 1.4;
+    }
+    
+    .table-of-contents a:hover {
+        text-decoration: underline;
+        color: #005580;
+    }
+    
     .people-list {
         margin-top: 30px;
         margin-bottom: 40px;
@@ -471,6 +553,11 @@ Display people without start dates in "Other" section
         line-height: 1.5;
         margin-bottom: 10px;
         font-size: 0.95em;
+    }
+    
+    .person-dates {
+        font-style: italic;
+        color: #666;
     }
     
     

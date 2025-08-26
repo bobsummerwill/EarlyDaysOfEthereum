@@ -33,17 +33,19 @@
     }
     </script>
 
-    <!-- Additional OpenGraph image meta tags -->
+    {% seo %}
+    
+    <!-- Additional OpenGraph and Twitter Card meta tags -->
+    <meta property="og:image" content="{{ site.image | default: page.image | absolute_url }}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from March 12, 2024, showing the evolution of the Ethereum project" />
+    <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
     <meta property="og:image:type" content="image/png" />
     
-    <!-- Twitter Card meta tags -->
-    <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
-    <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from March 12, 2024, showing the evolution of the Ethereum project" />
-    
-    {% seo %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+    <meta name="twitter:image" content="{{ site.image | default: page.image | absolute_url }}" />
+    <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
     
     <style>
         body {

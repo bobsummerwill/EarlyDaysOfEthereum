@@ -1,7 +1,7 @@
 ---
 name: Nancy Wu
 description: early founding member
-photo: "/images/nancy-wu/nancy-wu-headshot.png"
+photo: "/images/personal/nancy-wu/signal/2024.04.23/nancy-wu-headshot.png"
 start: Dec 2013
 end: Dec 2015
 ---

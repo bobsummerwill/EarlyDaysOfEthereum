@@ -1,7 +1,7 @@
 ---
 name: Mathias Grønnebæk
 description: Business Dev
-photo: /images/internetarchive/web.archive.org/web/20140701165441/gronnebaek-mathias.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/gronnebaek-mathias.jpg
 start: Jan 2014
 end: Oct 2014
 ---

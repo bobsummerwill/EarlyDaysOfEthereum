@@ -1,7 +1,7 @@
 ---
 name: Bin Lu
 description: Chinese Partner
-photo: /images/internetarchive/web.archive.org/web/20140701165441/lu-bin.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/lu-bin.jpg
 start: Jan 2014
 end: ???
 ---

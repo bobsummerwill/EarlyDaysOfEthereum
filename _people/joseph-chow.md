@@ -1,7 +1,7 @@
 ---
 name: Joseph Chow
 description: Ethereum OG
-photo: /images/internetarchive/web.archive.org/web/20140701165441/chow-joseph.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/chow-joseph.jpg
 start: Apr 2014
 end: present
 devcon0: "1211"

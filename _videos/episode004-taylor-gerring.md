@@ -165,7 +165,7 @@ TODO - Add photo
 
 But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
 
-<img src="{{ '/images/internetarchive/internetarchive_snapshot_ethereum.org_2014.02.08.png' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/archive.org/internetarchive_snapshot_ethereum.org_2014.02.08.png' | relative_url }}" style="width: 75%; height: auto;">
 
 **Bob:** I believe that at the Miami time or shortly afterwards it was announced that the crowdsale would happen within a month or two months, it was like a really super short timeline that was thought at that point but then yeah, I guess all of that got delayed both with technical and more importantly legal concerns.
 
@@ -311,7 +311,7 @@ So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCO
 
 **Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that.
 
-<img src="{{ '/images/victor-wong/victor-wong_devcon1_sticker.jpeg' | relative_url }}" style="width: 25%; height: auto;">
+<img src="{{ '/images/personal/victor-wong/telegram/2025.08.11/victor-wong_devcon1_sticker.jpeg' | relative_url }}" style="width: 25%; height: auto;">
 
 *(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo!)*
 

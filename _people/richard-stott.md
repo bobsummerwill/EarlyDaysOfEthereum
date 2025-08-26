@@ -1,7 +1,7 @@
 ---
 name: Richard Stott
 description: Designer in the early days.  AKA Richard Wild
-photo: /images/internetarchive/web.archive.org/web/20140701165441/stott-richard.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/stott-richard.jpg
 start: Feb 2014
 end: Aug 2014
 ---

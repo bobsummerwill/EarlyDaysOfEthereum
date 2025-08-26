@@ -1,7 +1,7 @@
 ---
 name: Stephan Tual
 description: Communications
-photo: /images/internetarchive/web.archive.org/web/20140701165441/tual-stephan.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/tual-stephan.jpg
 start: Jan 2014
 end: Sep 2015
 devcon0: "1935"

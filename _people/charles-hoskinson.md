@@ -1,7 +1,7 @@
 ---
 name: Charles Hoskinson
 description: Ethereum co-Founder
-photo: /images/internetarchive/web.archive.org/web/20140701165441/hoskinson-charles.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/hoskinson-charles.jpg
 start: Dec 2013
 end: Jun 2014
 ---

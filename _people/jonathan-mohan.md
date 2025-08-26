@@ -1,7 +1,7 @@
 ---
 name: Jonathan Mohan
 description: Ethereum OG
-photo: /images/internetarchive/web.archive.org/web/20140701165441/mohan-jonathan.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/mohan-jonathan.jpg
 start: Dec 2013
 end: Jun 2014
 ---

@@ -1,7 +1,7 @@
 ---
 name: Ian Meikle
 description: Creative
-photo: /images/internetarchive/web.archive.org/web/20140701165441/meikle-ian.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/meikle-ian.jpg
 start: Feb 2014
 end: Nov 2018
 devcon0: "1963"

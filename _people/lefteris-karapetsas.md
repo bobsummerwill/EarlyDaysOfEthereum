@@ -4,7 +4,7 @@ description: Ethereum OG
 start: Nov 2014
 end: Jan 2016
 devcon0: "1039"
-photo: /images/github/LefterisJP.png
+photo: /images/github.com/2025.08.25/LefterisJP.png
 ---
 
 ## Links

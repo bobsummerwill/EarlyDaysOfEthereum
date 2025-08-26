@@ -1,7 +1,7 @@
 ---
 name: Jason Colby
 description: Administration
-photo: /images/internetarchive/web.archive.org/web/20140701165441/colby-jason.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/colby-jason.jpg
 start: "Jan 2014"
 end: "Jan 2016"
 devcon0: "2006"

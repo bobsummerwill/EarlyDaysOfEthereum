@@ -1,7 +1,7 @@
 ---
 name: Maran Hidskes
 description: Development
-photo: /images/internetarchive/web.archive.org/web/20140701165441/hidskes-maran.jpg
+photo: /images/archive.org/ethereum.org/20140701165441/hidskes-maran.jpg
 start: Mar 2014
 end: Sep 2014
 ---

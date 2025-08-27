@@ -1,11 +1,13 @@
 ---
-description: Ethereum OG
+description: Primary author of devp2p, Ethereum's peer-to-peer networking protocol 
 devcon0: '1133'
-end: Oct 2015
+end: Jul 2016
 name: Alex Leverington
 social:
   github: https://github.com/subtly
   linkedin: https://www.linkedin.com/in/alexleverington/
+  twitter: https://x.com/nessence
+  website: https://nessence.wordpress.com/
 start: Aug 2014
 ---
 

@@ -201,6 +201,12 @@ layout: default
         width: 100%;
         border-radius: 8px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        filter: grayscale(100%);
+        transition: filter 0.3s ease;
+    }
+    
+    .person-photo-header img:hover {
+        filter: grayscale(0%);
     }
     
     .person-description {

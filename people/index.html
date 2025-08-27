@@ -561,6 +561,12 @@ Display people without start dates in "Other" section
         object-fit: cover;
         border-radius: 50%;
         border: 2px solid #ddd;
+        filter: grayscale(100%);
+        transition: filter 0.3s ease;
+    }
+    
+    .person-photo img:hover {
+        filter: grayscale(0%);
     }
     
     .person-info {

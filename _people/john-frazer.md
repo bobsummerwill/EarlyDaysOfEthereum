@@ -1,5 +1,5 @@
 ---
-description: Ethereum OG
+description: External Relations Lead
 end: Jan 2018
 name: John Frazer
 social:

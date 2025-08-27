@@ -1,5 +1,5 @@
 ---
-description: Intern at the Ethereum Foundation
+description: Intern
 end: Dec 2015
 name: Jacob Stenum Czepluch
 social:

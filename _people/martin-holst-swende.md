@@ -1,11 +1,11 @@
 ---
-description: Geth maintainer and security guy
-end: Apr 2025
 name: Martin Holst Swende
+description: Geth maintainer and security guy
+start: Sep 2016
+end: Apr 2025
 social:
   linkedin: https://www.linkedin.com/in/martin-holst-swende-a6664/
   twitter: https://x.com/mhswende
-start: Sep 2016
 ---
 From LinkedIn profile as of 22nd Aug 2025:
 

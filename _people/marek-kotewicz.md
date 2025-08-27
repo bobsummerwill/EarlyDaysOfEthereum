@@ -1,13 +1,13 @@
 ---
-description: Ethereum OG
-devcon0: '1072'
-end: Dec 2015
 name: Marek Kotewicz
+description: Ethereum OG
+photo: /images/archive.org/ethdev.com/20150315012946/marek-kotewicz.jpg
+start: Oct 2014
+end: Dec 2015
+devcon0: '1072'
 social:
   github: https://github.com/debris
   linkedin: https://www.linkedin.com/in/marekkotewicz/
-start: Oct 2014
-photo: /images/archive.org/ethdev.com/20150315012946/marek-kotewicz.jpg
 ---
 
 

@@ -1,12 +1,12 @@
 ---
-description: Senior Web Developer
-devcon0: '1475'
-end: Sep 2015
 name: Marian Oancea
+description: Senior Web Developer
 photo: /images/archive.org/ethdev.com/20150315012946/marian-oancea.jpg
+start: May 2014
+end: Sep 2015
+devcon0: '1475'
 social:
   linkedin: https://www.linkedin.com/in/marian-oancea-72a69042/
-start: May 2014
 ---
 
 From LinkedIn profile as of 23rd August 2025:

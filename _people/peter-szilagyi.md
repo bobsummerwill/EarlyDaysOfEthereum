@@ -1,11 +1,11 @@
 ---
-description: Geth Team Lead
-end: Nov 2024
 name: Péter Szilágyi
+description: Geth Team Lead
+start: Apr 2015
+end: Nov 2024
 social:
   github: https://github.com/karalabe
   linkedin: https://www.linkedin.com/in/karalabe/
-start: Apr 2015
 ---
 
 ## References

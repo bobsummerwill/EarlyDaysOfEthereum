@@ -1,6 +1,6 @@
 ---
 name: Nora
-description: "Ethereum's biggest mystery."
+description: Ethereum's biggest mystery.
 ---
 
 

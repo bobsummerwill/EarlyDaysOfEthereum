@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: Jun 2017
 name: Frithjof Weinert
+description: Ethereum OG
+start: Mar 2015
+end: Jun 2017
 social:
   website: https://www.mesh.xyz/team
-start: Mar 2015
 ---
 
 ## References

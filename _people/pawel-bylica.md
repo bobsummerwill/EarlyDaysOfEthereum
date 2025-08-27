@@ -1,11 +1,11 @@
 ---
-description: Software engineer, C++ team and VM
-devcon0: '1555'
-end: Jun 2025
 name: Paweł Bylica
+description: Software engineer, C++ team and VM
+start: Nov 2014
+end: Jun 2025
+devcon0: '1555'
 social:
   linkedin: https://www.linkedin.com/in/pawelbylica/
-start: Nov 2014
 ---
 Paweł started working on the [C++ JIT VM](https://github.com/ethereum/evmjit) with Artur Zawłocki in Nov 2014.  They were both working for [Imapp sp. z o.o.](https://www.imapp.pl/) in Warsaw.  Ethereum DEV UG had signed a contract with imapp for this work, which was intended to be integrated into Geth as well as cpp-ethereum.
 

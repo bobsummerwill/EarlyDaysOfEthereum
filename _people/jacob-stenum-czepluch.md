@@ -1,10 +1,10 @@
 ---
-description: Intern
-end: Dec 2015
 name: Jacob Stenum Czepluch
+description: Intern
+start: Aug 2015
+end: Dec 2015
 social:
   linkedin: https://www.linkedin.com/in/jstcz/
-start: Aug 2015
 ---
 
 ## References

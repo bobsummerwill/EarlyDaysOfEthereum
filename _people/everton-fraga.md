@@ -1,10 +1,10 @@
 ---
-description: Helped bring Mist to life
-end: Nov 2020
 name: Everton Fraga
+description: Helped bring Mist to life
+start: Apr 2016
+end: Nov 2020
 social:
   linkedin: https://www.linkedin.com/in/evertonfraga/
-start: Apr 2016
 ---
 From LinkedIn profile as of 23rd August 2025:
 

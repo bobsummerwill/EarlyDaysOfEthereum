@@ -1,11 +1,11 @@
 ---
-description: Designer in the early days.  AKA Richard Wild
-end: Aug 2014
 name: Richard Stott
+description: Designer in the early days.  AKA Richard Wild
 photo: /images/archive.org/ethereum.org/20140701165441/stott-richard.jpg
+start: Feb 2014
+end: Aug 2014
 social:
   twitter: https://x.com/raidraidrune
-start: Feb 2014
 ---
 *[Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 

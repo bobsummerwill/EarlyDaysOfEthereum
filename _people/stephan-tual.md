@@ -1,12 +1,12 @@
 ---
-description: Communications
-devcon0: '1935'
-end: Sep 2015
 name: Stephan Tual
+description: Communications
 photo: /images/archive.org/ethereum.org/20140701165441/tual-stephan.jpg
+start: Jan 2014
+end: Sep 2015
+devcon0: '1935'
 social:
   linkedin: https://www.linkedin.com/in/stephantual/
-start: Jan 2014
 ---
 
 ## References

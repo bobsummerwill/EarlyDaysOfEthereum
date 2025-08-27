@@ -1,6 +1,6 @@
 ---
-description: Co-Founder of BlockApps, Haskell client developer
 name: Kieren James-Lubin
+description: Co-Founder of BlockApps, Haskell client developer
 social:
   twitter: https://x.com/kjameslubin
 ---

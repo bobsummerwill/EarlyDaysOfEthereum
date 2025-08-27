@@ -1,10 +1,10 @@
 ---
-description: External Relations Lead
-end: Jan 2018
 name: John Frazer
+description: External Relations Lead
+start: Jan 2017
+end: Jan 2018
 social:
   linkedin: https://www.linkedin.com/in/jrfrazermba/
-start: Jan 2017
 ---
 
 ## References

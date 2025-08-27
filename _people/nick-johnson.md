@@ -1,11 +1,11 @@
 ---
-description: Ethereum OG
-end: Aug 2018
 name: Nick Johnson
+description: Ethereum OG
+start: June 2016
+end: Aug 2018
 social:
   github: https://github.com/Arachnid
   linkedin: https://www.linkedin.com/in/nicksdjohnson/
-start: June 2016
 ---
 
 ## References

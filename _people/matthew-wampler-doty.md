@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: Apr 2014
 name: Matthew Wampler-Doty
+description: Ethereum OG
+start: Jan 2014
+end: Apr 2014
 social:
   linkedin: https://www.linkedin.com/in/matthew-wampler-doty-42583b19/
-start: Jan 2014
 ---
 
 ## References

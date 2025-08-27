@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: Jan 2019
 name: Victor Maia
+description: Ethereum OG
+start: Feb 2017
+end: Jan 2019
 social:
   linkedin: https://www.linkedin.com/in/maiavictor/
-start: Feb 2017
 ---
 
 ## References

@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: ???
 name: Paul Snow
+description: Ethereum OG
+start: Jan 2014
+end: ???
 social:
   linkedin: https://www.linkedin.com/in/paulsn/
-start: Jan 2014
 ---
 
 ## References

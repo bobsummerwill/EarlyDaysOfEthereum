@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: Jan 2020
 name: Karl Floersch
+description: Ethereum OG
+start: Sep 2017
+end: Jan 2020
 social:
   linkedin: https://www.linkedin.com/in/karlfloersch/
-start: Sep 2017
 ---
 
 ## References

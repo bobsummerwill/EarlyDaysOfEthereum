@@ -1,11 +1,11 @@
 ---
-description: Ethereum OG
-devcon0: '1721'
-end: present (but never in the EF)
 name: Konrad Feldmeier
+description: Ethereum OG
+start: Nov 2014 (maybe)
+end: present (but never in the EF)
+devcon0: '1721'
 social:
   github: https://github.com/konradkonrad
-start: Nov 2014 (maybe)
 ---
 
 ## References

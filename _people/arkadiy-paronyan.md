@@ -1,12 +1,12 @@
 ---
-description: Ethereum OG
-devcon0: '1881'
-end: Dec 2015
 name: Arkadiy Paronyan
+description: Ethereum OG
+photo: /images/archive.org/ethdev.com/20150315012946/arkadiy-paronyan.jpg
+start: Nov 2014
+end: Dec 2015
+devcon0: '1881'
 social:
   linkedin: https://www.linkedin.com/in/arkadiy-paronyan-a1882514/
-start: Nov 2014
-photo: /images/archive.org/ethdev.com/20150315012946/arkadiy-paronyan.jpg
 ---
 
 

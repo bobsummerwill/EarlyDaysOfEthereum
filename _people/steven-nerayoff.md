@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: Dec 2014
 name: Steven Nerayoff
+description: Ethereum OG
+start: Jan 2014
+end: Dec 2014
 social:
   linkedin: https://www.linkedin.com/in/nerayoff/
-start: Jan 2014
 ---
 
 ## References

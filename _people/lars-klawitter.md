@@ -1,11 +1,11 @@
 ---
-description: Board member
-end: Dec 2015
 name: Lars Klawitter
+description: Board member
 photo: /images/archive.org/ethereum.org/20150813144007/lars-klawitter.jpg
+start: Jun 2015
+end: Dec 2015
 social:
   linkedin: https://www.linkedin.com/in/lars-klawitter-8703376/
-start: Jun 2015
 ---
 
 ## References

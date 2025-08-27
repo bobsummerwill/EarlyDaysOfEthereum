@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: ???
 name: Chris Odom
+description: Ethereum OG
+start: Jan 2014
+end: ???
 social:
   linkedin: https://www.linkedin.com/in/chris-odom-257236/
-start: Jan 2014
 ---
 
 ## References

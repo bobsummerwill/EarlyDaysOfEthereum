@@ -1,10 +1,10 @@
 ---
-description: Ethereum OG
-end: ???
 name: Eric Lombrozo
+description: Ethereum OG
+start: Jan 2014
+end: ???
 social:
   linkedin: https://www.linkedin.com/in/ericlombrozo/
-start: Jan 2014
 ---
 
 ## References

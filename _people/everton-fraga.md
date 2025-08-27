@@ -1,6 +1,6 @@
 ---
 name: Everton Fraga
-description: Helped bring Mist to life
+description: Mist team member
 start: Apr 2016
 end: Nov 2020
 social:

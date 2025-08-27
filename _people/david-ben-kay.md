@@ -1,6 +1,6 @@
 ---
 name: David Ben Kay
-description: Ethereum OG
+description: Advisor
 start: Feb 2016
 end: Dec 2016
 social:

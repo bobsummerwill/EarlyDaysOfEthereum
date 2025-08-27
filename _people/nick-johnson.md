@@ -1,6 +1,6 @@
 ---
 name: Nick Johnson
-description: Ethereum OG
+description: Core Developer (Geth) and Ethereum Name Service (ENS)
 start: June 2016
 end: Aug 2018
 social:

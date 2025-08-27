@@ -1,6 +1,6 @@
 ---
 name: Lilit Penrod
-description: Ethereum OG
+description: Volunteer at DEVCON2 and DEVCON3
 start: July 2016
 end: Sep 2016
 social:

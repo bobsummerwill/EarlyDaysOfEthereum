@@ -1,6 +1,6 @@
 ---
 name: Greg Colvin
-description: Ethereum OG
+description: Core Developer (C++ and EVM)
 start: Mar 2016
 end: Oct 2017
 social:

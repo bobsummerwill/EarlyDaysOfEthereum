@@ -1,6 +1,6 @@
 ---
 name: Virgil Griffith
-description: Ethereum OG
+description: Research Scientist and Special Projects
 start: Oct 2016
 end: Nov 2019
 social:

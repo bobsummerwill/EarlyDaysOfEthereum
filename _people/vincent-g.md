@@ -1,5 +1,5 @@
 ---
-name: Vincent G 'Caktux'
+name: Vincent 'caktux' G
 description: Ethereum OG
 photo: /images/github.com/2025.08.25/caktux.png
 start: Oct 2014

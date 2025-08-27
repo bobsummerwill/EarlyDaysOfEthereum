@@ -1,6 +1,6 @@
 ---
 name: Yoichi Hirai
-description: Ethereum OG
+description: EIPs Editor
 start: Sep 2016
 end: Oct 2018
 social:

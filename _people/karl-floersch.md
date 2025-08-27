@@ -1,6 +1,6 @@
 ---
 name: Karl Floersch
-description: Ethereum OG
+description: Research
 start: Sep 2017
 end: Jan 2020
 social:

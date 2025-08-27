@@ -1,6 +1,6 @@
 ---
 name: Patrick Karl Storchenegger
-description: Ethereum OG
+description: Board member
 start: Oct 2016
 end: present
 social:

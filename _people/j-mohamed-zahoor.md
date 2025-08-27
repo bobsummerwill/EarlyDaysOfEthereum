@@ -1,6 +1,6 @@
 ---
 name: J Mohamed Zahoor
-description: Ethereum OG
+description: Swarm
 start: Apr 2017
 end: Oct 2017
 social:

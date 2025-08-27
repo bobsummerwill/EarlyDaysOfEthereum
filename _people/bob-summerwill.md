@@ -1,6 +1,6 @@
 ---
 name: Bob Summerwill
-description: Software engineer (cpp-ethereum) and initiated the Early Days of Ethereum project.
+description: Core Developer (C++) and initiated the Early Days of Ethereum project.
 photo: /images/bobsummerwill.com/2025.08.26/bob-summerwill.jpeg
 start: Feb 2016
 end: Oct 2016

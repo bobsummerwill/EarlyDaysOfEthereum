@@ -1,6 +1,6 @@
 ---
 name: Matthew di Ferrante
-description: Ethereum OG
+description: Security Engineer
 start: Jun 2017
 end: Jan 2019
 social:

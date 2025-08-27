@@ -1,6 +1,6 @@
 ---
 name: Hudson Jameson
-description: Ethereum OG
+description: OrgSec Lead, Network Upgrade Management/Comms, Chief Cat Herder, DevOps Lead
 start: Jun 2016
 end: Apr 2021
 social:

@@ -1,5 +1,5 @@
 ---
-name: Alex van de Sande
+name: Alex 'avsa' van de Sande
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/alex-van-de-sande.jpg
 start: Oct 2014

@@ -1,6 +1,6 @@
 ---
 name: Victor Maia
-description: Ethereum OG
+description: Lead Developer
 start: Feb 2017
 end: Jan 2019
 social:

@@ -1,6 +1,6 @@
 ---
 name: Andrei Maiboroda
-description: Ethereum OG
+description: Software Engineer and Researcher
 start: Dec 2016
 end: ???
 social:

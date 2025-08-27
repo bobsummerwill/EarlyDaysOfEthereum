@@ -1,6 +1,7 @@
 ---
 name: Péter Szilágyi
 description: Geth Team Lead
+photo: /images/archive.org/ethdev.com/20151210143340/peter-szilagyi.jpg
 start: Apr 2015
 end: Nov 2024
 social:

@@ -5,6 +5,7 @@ start: Jan 2014
 end: ???
 social:
   linkedin: https://www.linkedin.com/in/ericlombrozo/
+  twitter: https://x.com/eric_lombrozo
 ---
 
 ## References

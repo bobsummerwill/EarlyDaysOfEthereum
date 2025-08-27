@@ -6,6 +6,7 @@ start: Jan 2014
 end: July 2015
 social:
   linkedin: https://www.linkedin.com/in/roxana-adriana-sureanu-13a6b791/
+  twitter: https://x.com/RoxanaSureanu
 ---
 
 ## References

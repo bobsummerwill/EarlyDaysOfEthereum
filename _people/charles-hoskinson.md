@@ -6,6 +6,7 @@ start: Dec 2013
 end: Jun 2014
 social:
   linkedin: https://www.linkedin.com/in/charles-hoskinson-1a95a4b4/
+  twitter:  https://x.com/IOHK_Charles
 ---
 
 ## References

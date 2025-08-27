@@ -6,6 +6,7 @@ start: Dec 2013
 end: Jun 2014
 social:
   linkedin: https://www.linkedin.com/in/jonathanmohan/
+  twitter: https://x.com/JonathanMohan
 ---
 
 ## References

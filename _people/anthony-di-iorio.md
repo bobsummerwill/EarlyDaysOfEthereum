@@ -6,6 +6,7 @@ start: Dec 2013
 end: Dec 2015
 social:
   linkedin: https://www.linkedin.com/in/anthonydiiorio1/
+  twitter: https://x.com/diiorioanthony
 ---
 
 ## References

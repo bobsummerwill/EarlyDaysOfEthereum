@@ -1,6 +1,6 @@
 ---
 name: Jeremy Wood
-description: Administration
+description: Executive Assistant to Charles Hoskinson
 photo: /images/archive.org/ethereum.org/20140701165441/wood-jeremy.jpg
 start: Dec 2013
 end: May 2014

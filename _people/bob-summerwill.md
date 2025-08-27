@@ -1,5 +1,5 @@
 ---
-description: Bob worked at the Ethereum Foundation in 2016 and initiated the Early
+description: Software engineer (cpp-ethereum) and initiated the Early
   Days of Ethereum project.
 end: Oct 2016
 name: Bob Summerwill

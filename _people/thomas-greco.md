@@ -1,6 +1,6 @@
 ---
 name: Thomas Greco
-description: Ethereum OG
+description: Advisor
 start: Mar 2016
 end: ???
 ---

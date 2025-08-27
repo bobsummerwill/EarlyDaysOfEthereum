@@ -1,7 +1,8 @@
 ---
-description: Ethereum OG
+description: Advisor
 end: Feb 2017
 name: Bernd Lapp
+photo: /images/archive.org/ethereum.org/20161009195235/bernd-lapp.jpg
 social:
   linkedin: https://www.linkedin.com/in/berndlapp/
 start: Oct 2015

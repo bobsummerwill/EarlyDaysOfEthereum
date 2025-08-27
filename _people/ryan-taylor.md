@@ -1,13 +1,12 @@
 ---
-name: Ryan Taylor
 description: Web Development
-photo: /images/archive.org/ethereum.org/20140701165441/taylor-ryan.jpg
-start: Feb 2014
 end: ???
+name: Ryan Taylor
+photo: /images/archive.org/ethereum.org/20140701165441/taylor-ryan.jpg
+social:
+  twitter: https://twitter.com/AdjyLeak
+start: Feb 2014
 ---
-
-## Links
-- [X](https://twitter.com/AdjyLeak)
 
 ## References
 

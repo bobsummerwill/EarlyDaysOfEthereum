@@ -1,15 +1,13 @@
 ---
-name: Jason Colby
 description: Administration
+devcon0: '2006'
+end: Jan 2016
+name: Jason Colby
 photo: /images/archive.org/ethereum.org/20140701165441/colby-jason.jpg
-start: "Jan 2014"
-end: "Jan 2016"
-devcon0: "2006"
+social:
+  linkedin: https://www.linkedin.com/in/jasoncolbyethereum/
+start: Jan 2014
 ---
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/jasoncolbyethereum/)
 
 ## References
 

@@ -1,10 +1,9 @@
 ---
-name: Andreas Lubbe
 description: Ethereum OG
+name: Andreas Lubbe
+social:
+  linkedin: https://www.linkedin.com/in/andreaslubbe/
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/andreaslubbe/)
 
 ## References
 

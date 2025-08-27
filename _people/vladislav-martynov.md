@@ -1,12 +1,11 @@
 ---
-name: Vladislav Martynov
 description: Ethereum OG
-start: May 2016
 end: May 2019
+name: Vladislav Martynov
+social:
+  linkedin: https://www.linkedin.com/in/vladmartynov/
+start: May 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/vladmartynov/)
 
 ## References
 

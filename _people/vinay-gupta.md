@@ -1,13 +1,12 @@
 ---
-name: Vinay Gupta
 description: Release Coordinator
-start: "Nov 2014"
-end: "June 2015"
-devcon0: "1949"
+devcon0: '1949'
+end: June 2015
+name: Vinay Gupta
+social:
+  linkedin: https://www.linkedin.com/in/vinay-gupta-0072/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/vinay-gupta-0072/)
 
 ## References
 

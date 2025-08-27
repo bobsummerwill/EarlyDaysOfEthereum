@@ -1,13 +1,12 @@
 ---
-name: Aeron Buchanan
 description: Ethereum OG
-start: Feb 2014
+devcon0: '942'
 end: Nov 2015
-devcon0: "942"
+name: Aeron Buchanan
+social:
+  linkedin: https://www.linkedin.com/in/ambuchanan/
+start: Feb 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/ambuchanan/)
 
 ## References
 

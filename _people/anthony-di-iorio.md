@@ -1,14 +1,12 @@
 ---
-name: Anthony Di Iorio
 description: Ethereum co-Founder
-photo: /images/archive.org/ethereum.org/20140701165441/di-iorio-anthony.jpg
-start: Dec 2013
 end: Dec 2015
+name: Anthony Di Iorio
+photo: /images/archive.org/ethereum.org/20140701165441/di-iorio-anthony.jpg
+social:
+  linkedin: https://www.linkedin.com/in/anthonydiiorio1/
+start: Dec 2013
 ---
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/anthonydiiorio1/)
 
 ## References
 

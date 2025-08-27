@@ -1,12 +1,11 @@
 ---
-name: Yessin Schiegg
 description: Ethereum OG
-start: Dec 2015
 end: Feb 2017
+name: Yessin Schiegg
+social:
+  twitter: https://x.com/yessinschiegg
+start: Dec 2015
 ---
-
-## Links
-- [X](https://x.com/yessinschiegg)
 
 ## References
 

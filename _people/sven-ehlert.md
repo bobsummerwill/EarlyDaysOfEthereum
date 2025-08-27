@@ -1,13 +1,12 @@
 ---
-name: Sven Ehlert
 description: Ethereum OG
-start: Nov 2014
+devcon0: '1101'
 end: Mar 2015
-devcon0: "1101"
+name: Sven Ehlert
+social:
+  linkedin: https://www.linkedin.com/in/svenehlert/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/svenehlert/)
 
 ## References
 

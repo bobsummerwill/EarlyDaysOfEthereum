@@ -1,17 +1,16 @@
 ---
-name: Viktor Tron
 description: Ethereum OG
-start: Oct 2014
+devcon0: '1421'
 end: ???
-devcon0: "1421"
+name: Viktor Tron
+social:
+  github: https://github.com/zelig
+  linkedin: https://www.linkedin.com/in/viktortron/
+  twitter: https://x.com/zeligf
+start: Oct 2014
 ---
-
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
 
-## Links
-- [GitHub](https://github.com/zelig)
-- [X](https://x.com/zeligf)
-- [LinkedIn](https://www.linkedin.com/in/viktortron/)
 
 ## References
 

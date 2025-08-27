@@ -1,15 +1,13 @@
 ---
-name: Jeff Wilcke
 description: Ethereum co-Founder
-photo: /images/archive.org/ethereum.org/20140701165441/wilcke-jeffrey.jpg
-start: Dec 2013
+devcon0: '2018'
 end: Feb 2017
-devcon0: "2018"
+name: Jeff Wilcke
+photo: /images/archive.org/ethereum.org/20140701165441/wilcke-jeffrey.jpg
+social:
+  github: https://github.com/obscuren
+start: Dec 2013
 ---
-
-## Links
-
-- [GitHub](https://github.com/obscuren)
 
 ## References
 

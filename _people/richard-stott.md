@@ -1,11 +1,12 @@
 ---
-name: Richard Stott
 description: Designer in the early days.  AKA Richard Wild
-photo: /images/archive.org/ethereum.org/20140701165441/stott-richard.jpg
-start: Feb 2014
 end: Aug 2014
+name: Richard Stott
+photo: /images/archive.org/ethereum.org/20140701165441/stott-richard.jpg
+social:
+  twitter: https://x.com/raidraidrune
+start: Feb 2014
 ---
-
 *[Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 
 <img src="{{ '/images/duncan.co/duncan.co_cropped_richard_wild.png' | relative_url }}" style="width: 50%; height: auto;">
@@ -24,7 +25,6 @@ On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn whe
 - [X](https://x.com/raidraidrune) (note: his twitter handle was **IOHK_Richard** in earlier years)
 - [IOHK profile](https://iohk.io/en/blog/authors/richard-wild/page-1/)
 - [LinkedIn (now deleted)](https://www.linkedin.com/in/richard-wild-a0552026/)
-
 ## References
 
 This page is referenced from the following articles and videos:

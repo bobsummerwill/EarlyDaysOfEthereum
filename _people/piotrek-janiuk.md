@@ -1,13 +1,12 @@
 ---
-name: Piotrek Janiuk
 description: Ethereum OG
-start: Nov 2014
+devcon0: '1906'
 end: present
-devcon0: "1906"
+name: Piotrek Janiuk
+social:
+  linkedin: https://www.linkedin.com/in/viggith/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/viggith/)
 
 ## References
 

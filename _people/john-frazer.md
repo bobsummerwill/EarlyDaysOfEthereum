@@ -1,12 +1,11 @@
 ---
-name: John Frazer
 description: Ethereum OG
-start: Jan 2017
 end: Jan 2018
+name: John Frazer
+social:
+  linkedin: https://www.linkedin.com/in/jrfrazermba/
+start: Jan 2017
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/jrfrazermba/)
 
 ## References
 

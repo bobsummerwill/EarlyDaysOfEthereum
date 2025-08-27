@@ -1,12 +1,11 @@
 ---
-name: Wayne Hennessy-Barrett
 description: Ethereum OG
-start: Jun 2015
 end: Jan 2016
+name: Wayne Hennessy-Barrett
+social:
+  linkedin: https://www.linkedin.com/in/waynehennessybarrett/
+start: Jun 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/waynehennessybarrett/)
 
 ## References
 

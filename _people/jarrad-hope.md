@@ -1,11 +1,13 @@
 ---
-name: Jarrad Hope
 description: Ethereum OG
-photo: "/images/theorg.com/25.08.25/org/status/org-chart/jarrad-hope/jarrad-hope-headshot.jpg"
-start: Mar 2014
 end: present
+name: Jarrad Hope
+photo: /images/theorg.com/25.08.25/org/status/org-chart/jarrad-hope/jarrad-hope-headshot.jpg
+social:
+  github: https://github.com/0xc1c4da
+  twitter: https://x.com/jarradhope_
+start: Mar 2014
 ---
-
 In March 2014, Jarrad founded the [Amsterdam Ethereum Meetup](https://www.meetup.com/Amsterdam-Ethereum-Meetup/) which had its inaugural session at [Eetcafé de Doffer](https://cafededoffer.nl) on 4th March 2014 with 37 attendees.
 
 There were three presentations that day:
@@ -26,9 +28,6 @@ In May 2014, he started work on [Syng](https://github.com/status-im/syng-client/
 {% include youtube_embed.html video_id="4jGqmlA4KEY" %}
 
 
-## Links
-- [GitHub](https://github.com/0xc1c4da)
-- [X](https://x.com/jarradhope_)
 
 ## References
 

@@ -1,12 +1,11 @@
 ---
-name: Bernd Lapp
 description: Ethereum OG
-start: Oct 2015
 end: Feb 2017
+name: Bernd Lapp
+social:
+  linkedin: https://www.linkedin.com/in/berndlapp/
+start: Oct 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/berndlapp/)
 
 ## References
 

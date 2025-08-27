@@ -1,14 +1,13 @@
 ---
-name: Lefteris Karapetsas
 description: Ethereum OG
-start: Nov 2014
+devcon0: '1039'
 end: Jan 2016
-devcon0: "1039"
+name: Lefteris Karapetsas
 photo: /images/github.com/2025.08.25/LefterisJP.png
+social:
+  linkedin: https://www.linkedin.com/in/eleftherios-karapetsas-1a18b919/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/eleftherios-karapetsas-1a18b919/)
 
 ## References
 

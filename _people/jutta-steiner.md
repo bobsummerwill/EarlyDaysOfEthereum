@@ -1,13 +1,12 @@
 ---
-name: Jutta Steiner
 description: Ethereum OG
-start: Nov 2014
+devcon0: '1644'
 end: Oct 2015
-devcon0: "1644"
+name: Jutta Steiner
+social:
+  linkedin: https://www.linkedin.com/in/jutta-steiner/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/jutta-steiner/)
 
 ## References
 

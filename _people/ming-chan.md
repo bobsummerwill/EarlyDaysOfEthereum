@@ -1,12 +1,11 @@
 ---
-name: Ming Chan
 description: Executive Director
-start: Jul 2015
 end: Jan 2018
+name: Ming Chan
+social:
+  linkedin: https://www.linkedin.com/in/mingchan88/
+start: Jul 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/mingchan88/)
 
 ## References
 

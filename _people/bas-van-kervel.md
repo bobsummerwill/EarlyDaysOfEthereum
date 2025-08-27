@@ -1,13 +1,12 @@
 ---
-name: Bas van Kervel
 description: Ethereum OG
-start: Apr 2015
 end: Jul 2017
+name: Bas van Kervel
+social:
+  github: https://github.com/bas-vk
+  linkedin: https://www.linkedin.com/in/bas-van-kervel-81b5898/
+start: Apr 2015
 ---
-
-## Links
-- [GitHub](https://github.com/bas-vk)
-- [LinkedIn](https://www.linkedin.com/in/bas-van-kervel-81b5898/)
 
 ## References
 

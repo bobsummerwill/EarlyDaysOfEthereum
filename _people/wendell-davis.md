@@ -1,12 +1,11 @@
 ---
-name: Wendell Davis
 description: Ethereum OG
-start: Jan 2014
 end: ???
+name: Wendell Davis
+social:
+  youtube: https://www.youtube.com/watch?v=4jGqmlA4KEY
+start: Jan 2014
 ---
-
-## Links
-- [YouTube](https://www.youtube.com/watch?v=4jGqmlA4KEY)
 
 ## References
 

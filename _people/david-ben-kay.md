@@ -1,12 +1,11 @@
 ---
-name: David Ben Kay
 description: Ethereum OG
-start: Feb 2016
 end: Dec 2016
+name: David Ben Kay
+social:
+  linkedin: https://www.linkedin.com/in/davidbenkay/
+start: Feb 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/davidbenkay/)
 
 ## References
 

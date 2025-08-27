@@ -1,13 +1,12 @@
 ---
-name: Henning Diedrich
 description: Ethereum OG
-start: Nov 2014 (maybe)
+devcon0: '1678'
 end: present (but never in the EF)
-devcon0: "1678"
+name: Henning Diedrich
+social:
+  twitter: https://twitter.com/hdiedrich
+start: Nov 2014 (maybe)
 ---
-
-## Links
-- [X](https://twitter.com/hdiedrich)
 
 ## References
 

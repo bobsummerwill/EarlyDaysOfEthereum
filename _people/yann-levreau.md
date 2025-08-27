@@ -1,13 +1,12 @@
 ---
-name: Yann Levreau
 description: Ethereum OG
-start: Nov 2014
+devcon0: '1300'
 end: ???
-devcon0: "1300"
+name: Yann Levreau
+social:
+  linkedin: https://www.linkedin.com/in/yann-levreau-31218891/
+start: Nov 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/yann-levreau-31218891/)
 
 ## References
 

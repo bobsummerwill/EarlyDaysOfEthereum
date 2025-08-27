@@ -1,13 +1,12 @@
 ---
-name: Brian Fabian Crain
 description: Ethereum OG
-start: May 2014
+devcon0: '1837'
 end: present
-devcon0: "1837"
+name: Brian Fabian Crain
+social:
+  linkedin: https://www.linkedin.com/in/bfcrain/
+start: May 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/bfcrain/)
 
 ## References
 

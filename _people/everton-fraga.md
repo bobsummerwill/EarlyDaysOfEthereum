@@ -1,10 +1,11 @@
 ---
-name: Everton Fraga
 description: Helped bring Mist to life
-start: Apr 2016
 end: Nov 2020
+name: Everton Fraga
+social:
+  linkedin: https://www.linkedin.com/in/evertonfraga/
+start: Apr 2016
 ---
-
 From LinkedIn profile as of 23rd August 2025:
 
 *Helped bring Mist to life, the first Ethereum dApp browser, that integrated the Ethereum blockchain network to Web applications. With an intuitive interface, it raised the bar for the overall Ethereum ecosystem. Mist had more than 5M downloads and fulfilled its mission. The browser opened the way for other players like Samsung, Opera and Brave, each had their own blockchain-enabled browsers.*
@@ -13,8 +14,6 @@ From LinkedIn profile as of 23rd August 2025:
 
 *Worked on the EthereumJS team, developing new features and maintaining libraries that truly support the development ecosystem of Ethereum and EVM-compatible tooling.*
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/evertonfraga/)
 
 ## Tweet References
 

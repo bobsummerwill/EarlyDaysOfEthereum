@@ -1,12 +1,11 @@
 ---
-name: Aya Miyaguchi
 description: Executive Director and later President
-start: Feb 2018
 end: present
+name: Aya Miyaguchi
+social:
+  linkedin: https://www.linkedin.com/in/amiyaguchi/
+start: Feb 2018
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/amiyaguchi/)
 
 ## References
 

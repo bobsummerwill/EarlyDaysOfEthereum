@@ -1,12 +1,11 @@
 ---
-name: Tung Chan
 description: Ethereum OG
-start: Jul 2015
 end: Apr 2018
+name: Tung Chan
+social:
+  linkedin: https://www.linkedin.com/in/tung-chan-b652914/
+start: Jul 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/tung-chan-b652914/)
 
 ## References
 

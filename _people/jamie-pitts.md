@@ -1,12 +1,11 @@
 ---
-name: Jamie Pitts
 description: Ethereum OG
-start: Jun 2016
 end: ???
+name: Jamie Pitts
+social:
+  linkedin: https://www.linkedin.com/in/jamiepitts/
+start: Jun 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/jamiepitts/)
 
 ## References
 

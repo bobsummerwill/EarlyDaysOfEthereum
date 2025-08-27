@@ -1,12 +1,11 @@
 ---
-name: Jacob Stenum Czepluch
 description: Intern at the Ethereum Foundation
-start: Aug 2015
 end: Dec 2015
+name: Jacob Stenum Czepluch
+social:
+  linkedin: https://www.linkedin.com/in/jstcz/
+start: Aug 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/jstcz/)
 
 ## References
 

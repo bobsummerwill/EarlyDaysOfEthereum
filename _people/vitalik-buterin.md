@@ -1,16 +1,15 @@
 ---
-name: "Vitalik 'V' Buterin"
 description: Ethereum co-Founder
-photo: /images/archive.org/ethereum.org/20140701165441/buterin-vitalik.jpg
-start: Nov 2013
+devcon0: '1260'
 end: present
-devcon0: "1260"
+name: Vitalik 'V' Buterin
+photo: /images/archive.org/ethereum.org/20140701165441/buterin-vitalik.jpg
+social:
+  github: https://github.com/vbuterin
+  twitter: https://x.com/VitalikButerin
+  website: https://vitalik.eth.limo/
+start: Nov 2013
 ---
-
-## Links
-
-- [Website](https://vitalik.eth.limo/)
-- [GitHub](https://github.com/vbuterin)
 
 ## References
 

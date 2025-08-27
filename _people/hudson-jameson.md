@@ -1,12 +1,11 @@
 ---
-name: Hudson Jameson
 description: Ethereum OG
-start: Jun 2016
 end: Apr 2021
+name: Hudson Jameson
+social:
+  linkedin: https://www.linkedin.com/in/hudsonjameson/
+start: Jun 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/hudsonjameson/)
 
 ## References
 

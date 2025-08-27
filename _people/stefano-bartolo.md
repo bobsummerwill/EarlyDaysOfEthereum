@@ -1,12 +1,11 @@
 ---
-name: Stefano Bartolo
 description: Ethereum OG
-start: Sep 2015
 end: Feb 2017
+name: Stefano Bartolo
+social:
+  twitter: https://twitter.com/sclopit
+start: Sep 2015
 ---
-
-## Links
-- [X](https://twitter.com/sclopit)
 
 ## References
 

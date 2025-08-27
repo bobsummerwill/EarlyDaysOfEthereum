@@ -1,12 +1,11 @@
 ---
-name: Greg Colvin
 description: Ethereum OG
-start: Mar 2016
 end: Oct 2017
+name: Greg Colvin
+social:
+  linkedin: https://www.linkedin.com/in/gregcolvin/
+start: Mar 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/gregcolvin/)
 
 ## References
 

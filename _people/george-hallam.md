@@ -1,13 +1,12 @@
 ---
-name: George Hallam
 description: Ethereum OG
-start: Aug 2014
+devcon0: '2072'
 end: Oct 2016
-devcon0: "2072"
+name: George Hallam
+social:
+  linkedin: https://www.linkedin.com/in/george-hallam-a5002979/
+start: Aug 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/george-hallam-a5002979/)
 
 ## References
 

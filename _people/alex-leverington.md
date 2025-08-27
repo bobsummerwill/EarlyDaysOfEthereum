@@ -1,14 +1,13 @@
 ---
-name: Alex Leverington
 description: Ethereum OG
-start: Aug 2014
+devcon0: '1133'
 end: Oct 2015
-devcon0: "1133"
+name: Alex Leverington
+social:
+  github: https://github.com/subtly
+  linkedin: https://www.linkedin.com/in/alexleverington/
+start: Aug 2014
 ---
-
-## Links
-- [GitHub](https://github.com/subtly)
-- [LinkedIn](https://www.linkedin.com/in/alexleverington/)
 
 ## References
 

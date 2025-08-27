@@ -1,16 +1,14 @@
 ---
-name: Gavin 'Gav' Wood
 description: Ethereum co-Founder
-photo: /images/archive.org/ethereum.org/20140701165441/wood-gavin.jpg
-start: Dec 2013
+devcon0: '0'
 end: Oct 2015
-devcon0: "0"
+name: Gavin 'Gav' Wood
+photo: /images/archive.org/ethereum.org/20140701165441/wood-gavin.jpg
+social:
+  github: https://github.com/gavofyork
+  linkedin: https://www.linkedin.com/in/gavin-wood-88843316/
+start: Dec 2013
 ---
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/gavin-wood-88843316/)
-- [GitHub](https://github.com/gavofyork)
 
 ## References
 

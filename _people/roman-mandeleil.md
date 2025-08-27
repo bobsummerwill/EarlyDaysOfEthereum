@@ -1,13 +1,12 @@
 ---
-name: Roman Mandeleil
 description: Ethereum OG
-start: Mar 2014
+devcon0: '988'
 end: ???
-devcon0: "988"
+name: Roman Mandeleil
+social:
+  linkedin: https://www.linkedin.com/in/romanmandeleil/
+start: Mar 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/romanmandeleil/)
 
 ## References
 

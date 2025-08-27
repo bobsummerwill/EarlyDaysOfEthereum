@@ -1,14 +1,13 @@
 ---
-name: Felix Lange
 description: Ethereum OG
-start: Oct 2014
+devcon0: '1358'
 end: present
-devcon0: "1358"
+name: Felix Lange
+social:
+  github: https://github.com/fjl
+  website: https://bra.twurst.com/
+start: Oct 2014
 ---
-
-## Links
-- [GitHub](https://github.com/fjl)
-- [Website](https://bra.twurst.com/)
 
 ## References
 

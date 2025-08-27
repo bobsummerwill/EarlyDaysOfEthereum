@@ -1,16 +1,15 @@
 ---
-name: Christophe Jentzsch
 description: Ethereum OG
-start: Sep 2014
+devcon0: '1173'
 end: Nov 2015
-devcon0: "1173"
+name: Christophe Jentzsch
+social:
+  github: https://github.com/CJentzsch
+  linkedin: https://www.linkedin.com/in/cjentzsch/
+start: Sep 2014
 ---
-
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
 
-## Links
-- [GitHub](https://github.com/CJentzsch)
-- [LinkedIn](https://www.linkedin.com/in/cjentzsch/)
 
 ## References
 

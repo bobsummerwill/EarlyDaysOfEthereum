@@ -1,17 +1,16 @@
 ---
-name: Joel Dietz
 description: Ethereum OG
-start: Dec 2013
+devcon0: '1801'
 end: Aug 2014
-devcon0: "1801"
+name: Joel Dietz
+social:
+  linkedin: https://www.linkedin.com/in/joeldietz/
+start: Dec 2013
 ---
-
 Founding Member, Ethereum
 
 Founded Metamask (originally "Vapor"), two Ethereum related meetups, the Ethereum developer evangelism program (EtherCasts), and numerous early whitepapers on reputational systems and governance. 
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/joeldietz/)
 
 ## References
 

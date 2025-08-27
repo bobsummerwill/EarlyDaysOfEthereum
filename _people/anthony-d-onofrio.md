@@ -1,14 +1,12 @@
 ---
-name: "Anthony 'Texture' D'Onofrio"
 description: Ethereum OG
-photo: /images/archive.org/ethereum.org/20140701165441/donofrio-anthony.jpg
-start: Dec 2013
 end: Mar 2014 or maybe Apr 2014
+name: Anthony 'Texture' D'Onofrio
+photo: /images/archive.org/ethereum.org/20140701165441/donofrio-anthony.jpg
+social:
+  linkedin: https://www.linkedin.com/in/anthony-donofrio-23036660/
+start: Dec 2013
 ---
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/anthony-donofrio-23036660/)
 
 ## References
 

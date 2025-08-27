@@ -1,12 +1,11 @@
 ---
-name: Lars Klawitter
 description: Ethereum OG
-start: Jun 2015
 end: Dec 2015
+name: Lars Klawitter
+social:
+  linkedin: https://www.linkedin.com/in/lars-klawitter-8703376/
+start: Jun 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/lars-klawitter-8703376/)
 
 ## References
 

@@ -1,12 +1,11 @@
 ---
-name: Steve Dakh
 description: Ethereum OG
-start: Jan 2014
 end: present
+name: Steve Dakh
+social:
+  linkedin: https://www.linkedin.com/in/steve-dakh/
+start: Jan 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/steve-dakh/)
 
 ## References
 

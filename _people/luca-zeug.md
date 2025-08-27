@@ -1,12 +1,11 @@
 ---
-name: Luca Zeug
 description: Mist Team member
-start: April 2016
 end: July 2016
+name: Luca Zeug
+social:
+  github: https://github.com/luclu
+start: April 2016
 ---
-
-## Links
-- [GitHub](https://github.com/luclu)
 
 ## Tweet References
 

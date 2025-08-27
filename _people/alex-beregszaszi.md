@@ -1,12 +1,11 @@
 ---
-name: Alex Beregszaszi
 description: Ethereum OG
-start: Jan 2016
 end: July 2025
+name: Alex Beregszaszi
+social:
+  linkedin: https://www.linkedin.com/in/alexberegszaszi
+start: Jan 2016
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/alexberegszaszi)
 
 ## References
 

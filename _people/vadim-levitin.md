@@ -1,12 +1,11 @@
 ---
-name: Vadim Levitin
 description: Ethereum OG
-start: Jun 2015
 end: Jan 2016
+name: Vadim Levitin
+social:
+  linkedin: https://www.linkedin.com/in/dr-vadim-levitin-0b70b644/
+start: Jun 2015
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/dr-vadim-levitin-0b70b644/)
 
 ## References
 

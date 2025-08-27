@@ -1,14 +1,13 @@
 ---
-name: Vlad Zamfir
 description: Ethereum OG
-start: Apr 2014
+devcon0: '1503'
 end: ???
-devcon0: "1503"
+name: Vlad Zamfir
+social:
+  github: https://github.com/vladzamfir
+  linkedin: https://www.linkedin.com/in/vlad-zamfir/
+start: Apr 2014
 ---
-
-## Links
-- [GitHub](https://github.com/vladzamfir)
-- [LinkedIn](https://www.linkedin.com/in/vlad-zamfir/)
 
 ## References
 

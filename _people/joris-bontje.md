@@ -1,13 +1,12 @@
 ---
-name: Joris Bontje
 description: Ethereum OG
-start: Mar 2014
+devcon0: '1774'
 end: present
-devcon0: "1774"
+name: Joris Bontje
+social:
+  linkedin: https://www.linkedin.com/in/jorisbontje/
+start: Mar 2014
 ---
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/jorisbontje/)
 
 ## References
 

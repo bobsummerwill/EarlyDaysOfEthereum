@@ -6,7 +6,9 @@ name: Arkadiy Paronyan
 social:
   linkedin: https://www.linkedin.com/in/arkadiy-paronyan-a1882514/
 start: Nov 2014
+photo: /images/archive.org/ethdev.com/20150315012946/arkadiy-paronyan.jpg
 ---
+
 
 ## References
 

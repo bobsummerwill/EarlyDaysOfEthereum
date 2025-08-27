@@ -2,6 +2,7 @@
 description: Primary author of devp2p, Ethereum's peer-to-peer networking protocol 
 devcon0: '1133'
 end: Jul 2016
+photo: /images/archive.org/ethdev.com/20150315012946/alex-leverington.jpg
 name: Alex Leverington
 social:
   github: https://github.com/subtly

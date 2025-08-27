@@ -2,6 +2,7 @@
 description: Ethereum OG
 devcon0: '1173'
 end: Nov 2015
+photo: /images/archive.org/ethdev.com/20150315012946/christoph-jentzsch.jpg
 name: Christophe Jentzsch
 social:
   github: https://github.com/CJentzsch

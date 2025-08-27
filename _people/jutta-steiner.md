@@ -6,7 +6,9 @@ name: Jutta Steiner
 social:
   linkedin: https://www.linkedin.com/in/jutta-steiner/
 start: Nov 2014
+photo: /images/archive.org/ethdev.com/20150315012946/jutta-steiner.jpg
 ---
+
 
 ## References
 

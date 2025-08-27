@@ -2,7 +2,7 @@
 description: Ethereum OG
 end: Mar 2014 or maybe Apr 2014
 name: Anthony 'Texture' D'Onofrio
-photo: /images/archive.org/ethereum.org/20140701165441/donofrio-anthony.jpg
+photo: /images/archive.org/ethdev.com/20150315012946/anthony-d-onofrio.jpg
 social:
   linkedin: https://www.linkedin.com/in/anthony-donofrio-23036660/
 start: Dec 2013

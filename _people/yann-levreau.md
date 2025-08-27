@@ -6,7 +6,9 @@ name: Yann Levreau
 social:
   linkedin: https://www.linkedin.com/in/yann-levreau-31218891/
 start: Nov 2014
+photo: /images/archive.org/ethdev.com/20150315012946/yann-levreau.jpg
 ---
+
 
 ## References
 

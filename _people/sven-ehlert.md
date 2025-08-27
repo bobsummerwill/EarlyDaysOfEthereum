@@ -6,7 +6,9 @@ name: Sven Ehlert
 social:
   linkedin: https://www.linkedin.com/in/svenehlert/
 start: Nov 2014
+photo: /images/archive.org/ethdev.com/20150315012946/sven-ehlert.jpg
 ---
+
 
 ## References
 

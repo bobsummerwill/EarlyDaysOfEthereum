@@ -8,7 +8,9 @@ social:
   linkedin: https://www.linkedin.com/in/alexvandesande/
   reddit: https://www.reddit.com/user/avsa/
 start: Oct 2014
+photo: /images/archive.org/ethdev.com/20150315012946/alex-van-de-sande.jpg
 ---
+
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014
 
 

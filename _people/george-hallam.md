@@ -6,7 +6,9 @@ name: George Hallam
 social:
   linkedin: https://www.linkedin.com/in/george-hallam-a5002979/
 start: Aug 2014
+photo: /images/archive.org/ethdev.com/20150315012946/george-hallam.jpg
 ---
+
 
 ## References
 

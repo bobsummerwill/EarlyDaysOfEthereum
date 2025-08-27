@@ -7,7 +7,9 @@ social:
   github: https://github.com/fjl
   website: https://bra.twurst.com/
 start: Oct 2014
+photo: /images/archive.org/ethdev.com/20150315012946/felix-lange.jpg
 ---
+
 
 ## References
 

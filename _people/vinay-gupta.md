@@ -6,7 +6,9 @@ name: Vinay Gupta
 social:
   linkedin: https://www.linkedin.com/in/vinay-gupta-0072/
 start: Nov 2014
+photo: /images/archive.org/ethdev.com/20150315012946/vinay-gupta.jpg
 ---
+
 
 ## References
 

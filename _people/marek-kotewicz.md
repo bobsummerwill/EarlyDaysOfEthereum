@@ -7,7 +7,9 @@ social:
   github: https://github.com/debris
   linkedin: https://www.linkedin.com/in/marekkotewicz/
 start: Oct 2014
+photo: /images/archive.org/ethdev.com/20150315012946/marek-kotewicz.jpg
 ---
+
 
 ## References
 

@@ -52,6 +52,14 @@
     <meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
     
     <style>
+        .footer-strato-link,
+        .footer-strato-link:visited,
+        .footer-strato-link:hover,
+        .footer-strato-link:active {
+            color: #fff !important;
+            font-weight: bold !important;
+            text-decoration: underline !important;
+        }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
@@ -153,12 +161,12 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1><a href="{{ '/' | relative_url }}" style="color: inherit; text-decoration: none;">{{ site.title }}</a></h1>
-        <p class="site-description">{{ site.description }}</p>
+    <header style="text-align: center;">
+        <h1 style="margin: 0;"><a href="{{ '/' | relative_url }}" style="color: inherit; text-decoration: none;">{{ site.title }}</a></h1>
+        <p class="site-description" style="margin: 0 auto 5px auto; text-align: center;">{{ site.description }}</p>
         
-        <nav>
-            <ul>
+        <nav style="display: flex; justify-content: center;">
+            <ul style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 0; padding: 0; list-style: none;">
                 <li><a href="{{ '/' | relative_url }}">Home</a></li>
                 <li><a href="{{ '/articles/' | relative_url }}">Articles</a></li>
                 <li><a href="{{ '/people/' | relative_url }}">People</a></li>
@@ -172,8 +180,21 @@
         {{ content }}
     </main>
     
-    <footer>
-        <p>Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues">issues</a>, <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls">pull requests</a>, or directly to Bob's <a href="https://x.com/bobsummerwill">X</a> or <a href="https://linkedin.com/in/bobsummerwill">LinkedIn</a>. </p>
+    <footer style="background: linear-gradient(90deg, #007acc 0%, #005fa3 100%); color: #fff; padding: 32px 0 18px 0; text-align: center; border-top: none; font-size: 1em;">
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+            <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
+                <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+                    <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;">Early Days of Ethereum is supported by <a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
+                </a>
+            </div>
+            <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+                Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
+                <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
+                or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
+                <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+            </div>
+        </div>
     </footer>
 </body>
 </html>

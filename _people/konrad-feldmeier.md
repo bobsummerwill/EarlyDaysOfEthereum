@@ -1,7 +1,7 @@
 ---
 name: Konrad Feldmeier
-description: Ethereum OG
-start: Nov 2014 (maybe)
+description: Python client developer
+start: Mar 2014
 end: present (but never in the EF)
 devcon0: '1721'
 social:

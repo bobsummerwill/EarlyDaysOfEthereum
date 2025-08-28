@@ -39,7 +39,7 @@
     {% seo %}
     
     <!-- Platform-specific social media optimizations -->
-    
+    {% unless page.extra_meta %}
     <!-- Facebook/Open Graph specific image -->
     <meta property="og:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_facebook.png' | absolute_url }}" />
     <meta property="og:image:width" content="1200" />
@@ -53,6 +53,7 @@
     
     <!-- LinkedIn-specific meta tags -->
     <meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
+    {% endunless %}
     
     <style>
         .footer-strato-link,

@@ -8,7 +8,6 @@ devcon0: '1335'
 social:
   twitter: https://x.com/ethchris
   github: https://github.com/chriseth
-  linkedin: https://www.linkedin.com/in/dr-christian-reitwiessner-594b0982/
 ---
 
 

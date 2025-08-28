@@ -5,6 +5,7 @@ start: Apr 2016
 end: Nov 2020
 social:
   linkedin: https://www.linkedin.com/in/evertonfraga/
+  twitter: https://twitter.com/evertonfraga
 ---
 From LinkedIn profile as of 23rd August 2025:
 

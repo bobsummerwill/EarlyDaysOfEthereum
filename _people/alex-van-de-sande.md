@@ -7,8 +7,10 @@ end: Jan 2019
 devcon0: '1598'
 social:
   github: https://github.com/alexvandesande
+  twitter: https://x.com/avsa/
   linkedin: https://www.linkedin.com/in/alexvandesande/
   reddit: https://www.reddit.com/user/avsa/
+  website: https://vandesande.design
 ---
 
 Mentioned in [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - 2nd Nov 2014

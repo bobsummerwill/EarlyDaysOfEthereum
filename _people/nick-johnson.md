@@ -6,6 +6,7 @@ end: Aug 2018
 social:
   github: https://github.com/Arachnid
   linkedin: https://www.linkedin.com/in/nicksdjohnson/
+  twitter: https://twitter.com/nicksdjohnson
 ---
 
 ## References

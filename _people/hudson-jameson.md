@@ -5,6 +5,7 @@ start: Jun 2016
 end: Apr 2021
 social:
   linkedin: https://www.linkedin.com/in/hudsonjameson/
+  twitter: https://twitter.com/hudsonjameson
 ---
 
 ## References

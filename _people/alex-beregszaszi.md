@@ -6,6 +6,7 @@ end: July 2025
 social:
   github: https://github.com/axic
   linkedin: https://www.linkedin.com/in/alexberegszaszi
+  twitter: https://twitter.com/alexberegszaszi
 ---
 
 ## References

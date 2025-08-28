@@ -8,6 +8,7 @@ devcon0: '1072'
 social:
   github: https://github.com/debris
   linkedin: https://www.linkedin.com/in/marekkotewicz/
+  twitter: https://twitter.com/mkotew
 ---
 
 

@@ -3,6 +3,18 @@ layout: default
 title: People
 ---
 
+{% comment %}
+Social sharing thumbnails for the /people page
+{% endcomment %}
+{% assign people_thumbnail_base = '/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail' %}
+<meta property="og:image" content="{{ people_thumbnail_base }}_facebook.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:image" content="{{ people_thumbnail_base }}_twitter_large.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:alt" content="Ethereum team historical photo" />
+<meta property="og:image:linkedin" content="{{ people_thumbnail_base }}_linkedin.png" />
+
 <h1>People</h1>
 
 <p>This is a catalog of everybody who has been involved with the <a href="https://ethereum.org" target="_blank" rel="noopener">Ethereum Project</a> in the phase prior to the creation of the <a href="https://ethereum.foundation" target="_blank" rel="noopener">Ethereum Foundation</a>, or involved with the <a href="https://ethereum.foundation" target="_blank" rel="noopener">Ethereum Foundation</a> after that was incorporated.</p>

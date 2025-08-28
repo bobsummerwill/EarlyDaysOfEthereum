@@ -1,14 +1,17 @@
 ---
 name: Sarah O'Neill
-description: Ethereum OG
+description: Interior designer who built the ETHDEV space in Berlin
 start: Aug 2014
 end: Nov 2014
+devcon0: '71'
 social:
   linkedin: https://www.linkedin.com/in/sarah-o-neill-b14791100/
 ---
 
+*[Aeron Buchanan]({{ '/people/aeron-buchanan' | relative_url }}) said to [Bob Summerwill]({{ '/people/bob-summerwill' | relative_url }}) in a personal email on 16th August 2018:*
+
+*"[Roland Wilder]({{ '/people/roland-wilder' | relative_url }}) was brought on by Sarah O'Neill, who was the interior designer and renovation coordinator for the ethdev office. They were fantastic, making it happen on a small budget and on an accelerated timescale."*
+
 ## References
 
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content
+- Thanked by Gav in the [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=71s) session which kicked off DEVCON0

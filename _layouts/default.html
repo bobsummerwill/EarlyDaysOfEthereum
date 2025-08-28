@@ -2,6 +2,9 @@
 <html lang="{{ site.lang | default: 'en' }}">
 <head>
     <meta charset="UTF-8">
+    {% if page.extra_meta %}
+      {{ page.extra_meta }}
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">

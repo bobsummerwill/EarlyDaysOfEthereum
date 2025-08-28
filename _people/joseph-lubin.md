@@ -7,6 +7,7 @@ end: present
 devcon0: '1747'
 social:
   linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/
+  twitter: https://x.com/ethereumJoseph
 ---
 
 ## References

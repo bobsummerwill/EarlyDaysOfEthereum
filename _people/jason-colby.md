@@ -6,7 +6,7 @@ start: Jan 2014
 end: Jan 2016
 devcon0: '2006'
 social:
-  linkedin: https://www.linkedin.com/in/jasoncolbyethereum/
+  website: https://www.crunchbase.com/person/jason-colby
 ---
 
 ## References

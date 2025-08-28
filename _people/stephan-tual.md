@@ -6,6 +6,7 @@ start: Jan 2014
 end: Sep 2015
 devcon0: '1935'
 social:
+  twitter: https://x.com/stephantual
   linkedin: https://www.linkedin.com/in/stephantual/
 ---
 

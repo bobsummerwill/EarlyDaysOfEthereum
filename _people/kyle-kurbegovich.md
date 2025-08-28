@@ -2,7 +2,10 @@
 name: Kyle Kurbegovich
 description: Ethereum OG
 start: Jan 2014
-end: present
+end: ???
+social:
+  linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/
+  twitter: https://x.com/KKurbegovich/
 ---
 
 ## References

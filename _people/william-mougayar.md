@@ -6,6 +6,7 @@ start: Jul 2015
 end: Feb 2017
 social:
   twitter: https://x.com/wmougayar
+  linkedin: https://www.linkedin.com/in/williammougayar
 ---
 
 ## References

@@ -6,6 +6,7 @@ start: May 2016
 end: May 2019
 social:
   linkedin: https://www.linkedin.com/in/vladmartynov/
+  twitter: https://x.com/vladmartynov
 ---
 
 ## References

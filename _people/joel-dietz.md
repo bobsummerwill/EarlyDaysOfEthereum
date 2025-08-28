@@ -7,6 +7,7 @@ devcon0: '1801'
 social:
   linkedin: https://www.linkedin.com/in/joeldietz/
   twitter: https://x.com/fractastical
+  github: https://github.com/joeldietz
 ---
 
 Founding Member, Ethereum

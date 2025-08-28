@@ -6,6 +6,7 @@ start: Dec 2015
 end: Feb 2017
 social:
   twitter: https://x.com/yessinschiegg
+  linkedin: https://www.linkedin.com/in/yessinschiegg
 ---
 
 ## References

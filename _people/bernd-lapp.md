@@ -6,6 +6,7 @@ start: Oct 2015
 end: Feb 2017
 social:
   linkedin: https://www.linkedin.com/in/berndlapp/
+  twitter: https://x.com/berndlapp
 ---
 
 ## References

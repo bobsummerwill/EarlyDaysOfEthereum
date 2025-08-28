@@ -6,6 +6,7 @@ end: ???
 social:
   twitter: https://x.com/paulsnx2
   linkedin: https://www.linkedin.com/in/paulsn/
+  github: https://github.com/PaulSnow
 ---
 
 ## References

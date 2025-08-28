@@ -9,6 +9,7 @@ social:
   github: https://github.com/gavofyork
   linkedin: https://www.linkedin.com/in/gavin-wood-88843316/
   twitter: https://x.com/gavofyork
+  website: https://gavwood.com
 ---
 
 ## References

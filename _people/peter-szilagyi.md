@@ -7,6 +7,7 @@ end: Nov 2024
 social:
   github: https://github.com/karalabe
   linkedin: https://www.linkedin.com/in/karalabe/
+  twitter: https://x.com/peter_szilagyi
 ---
 
 ## References

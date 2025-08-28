@@ -7,6 +7,7 @@ end: Oct 2015
 social:
   linkedin: https://www.linkedin.com/in/mihaialisie/
   twitter: https://x.com/MihaiAlisie
+  github: https://github.com/mihaialisie
 ---
 
 ## References

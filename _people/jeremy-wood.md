@@ -6,6 +6,7 @@ start: Dec 2013
 end: May 2014
 social:
   linkedin: https://www.linkedin.com/in/jeremykwood/
+  twitter: https://x.com/jeremykwood
 ---
 
 ## References

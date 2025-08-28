@@ -6,6 +6,7 @@ start: Jul 2015
 end: Jan 2018
 social:
   linkedin: https://www.linkedin.com/in/mingchan88/
+  twitter: https://x.com/mingchan88
 ---
 
 ## References

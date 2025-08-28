@@ -7,6 +7,7 @@ end: Mar 2014 or maybe Apr 2014
 social:
   linkedin: https://www.linkedin.com/in/anthony-donofrio-23036660/
   twitter: https://x.com/iamtexture
+  github: https://github.com/texture
 ---
 
 ## References

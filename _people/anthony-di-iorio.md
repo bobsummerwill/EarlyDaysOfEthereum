@@ -7,6 +7,7 @@ end: Dec 2015
 social:
   linkedin: https://www.linkedin.com/in/anthonydiiorio1/
   twitter: https://x.com/diiorioanthony
+  github: https://github.com/diiorio
 ---
 
 ## References

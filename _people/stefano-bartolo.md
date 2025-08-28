@@ -6,6 +6,7 @@ start: Sep 2015
 end: Feb 2017
 social:
   twitter: https://twitter.com/sclopit
+  linkedin: https://www.linkedin.com/in/stefanobartolo
 ---
 
 ## References

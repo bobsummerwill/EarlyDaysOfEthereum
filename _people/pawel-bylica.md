@@ -6,6 +6,8 @@ end: Jun 2025
 devcon0: '1555'
 social:
   linkedin: https://www.linkedin.com/in/pawelbylica/
+  twitter: https://twitter.com/chfast
+  github: https://github.com/chfast
 ---
 Paweł started working on the [C++ JIT VM](https://github.com/ethereum/evmjit) with Artur Zawłocki in Nov 2014.  They were both working for [Imapp sp. z o.o.](https://www.imapp.pl/) in Warsaw.  Ethereum DEV UG had signed a contract with imapp for this work, which was intended to be integrated into Geth as well as cpp-ethereum.
 

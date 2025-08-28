@@ -6,6 +6,7 @@ end: Apr 2025
 social:
   linkedin: https://www.linkedin.com/in/martin-holst-swende-a6664/
   twitter: https://x.com/mhswende
+  github: https://github.com/holiman
 ---
 From LinkedIn profile as of 22nd Aug 2025:
 

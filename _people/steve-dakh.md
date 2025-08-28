@@ -6,6 +6,7 @@ end: present
 social:
   twitter: https://x.com/stevedakh
   linkedin: https://www.linkedin.com/in/steve-dakh/
+  github: https://github.com/stevedakh
 ---
 
 ## References

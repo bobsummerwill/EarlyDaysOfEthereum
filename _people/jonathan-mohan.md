@@ -7,6 +7,7 @@ end: Jun 2014
 social:
   linkedin: https://www.linkedin.com/in/jonathanmohan/
   twitter: https://x.com/JonathanMohan
+  github: https://github.com/jonathanmohan
 ---
 
 ## References

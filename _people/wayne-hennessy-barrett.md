@@ -6,6 +6,7 @@ start: Jun 2015
 end: Jan 2016
 social:
   linkedin: https://www.linkedin.com/in/waynehennessybarrett/
+  twitter: https://x.com/HennessyBarrett
 ---
 
 ## References

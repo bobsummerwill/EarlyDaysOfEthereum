@@ -36,7 +36,77 @@
     }
     </script>
 
-    {% seo %}
+    <!-- Custom meta tags from front matter -->
+    {% if page.og_title %}
+    <meta property="og:title" content="{{ page.og_title }}" />
+    {% elsif page.name %}
+    <meta property="og:title" content="{{ page.name }} - Early Days of Ethereum" />
+    {% endif %}
+    {% if page.og_description %}
+    <meta property="og:description" content="{{ page.og_description }}" />
+    {% elsif page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% endif %}
+    {% if page.og_url %}
+    <meta property="og:url" content="{{ page.og_url | absolute_url }}" />
+    {% endif %}
+    {% if page.og_type %}
+    <meta property="og:type" content="{{ page.og_type }}" />
+    {% endif %}
+    {% if page.og_site_name %}
+    <meta property="og:site_name" content="{{ page.og_site_name }}" />
+    {% endif %}
+    
+    <!-- Social media images based on page type -->
+    {% if page.collection == 'people' %}
+    <!-- Ethdev team images for people pages -->
+    <meta property="og:image" content="{{ '/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_facebook.png' | absolute_url }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Ethereum team historical photo" />
+    <meta property="og:image:type" content="image/png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ '/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_twitter_large.png' | absolute_url }}" />
+    <meta name="twitter:image:alt" content="Ethereum team historical photo" />
+    <meta property="og:image:linkedin" content="{{ '/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_linkedin.png' | absolute_url }}" />
+    {% else %}
+    <!-- Homepage images for other pages -->
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ page.og_image | absolute_url }}" />
+    {% else %}
+    <meta property="og:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general.png' | absolute_url }}" />
+    {% endif %}
+    {% if page.og_image_width %}
+    <meta property="og:image:width" content="{{ page.og_image_width }}" />
+    {% endif %}
+    {% if page.og_image_height %}
+    <meta property="og:image:height" content="{{ page.og_image_height }}" />
+    {% endif %}
+    {% if page.og_image_alt %}
+    <meta property="og:image:alt" content="{{ page.og_image_alt }}" />
+    {% endif %}
+    {% if page.og_image_type %}
+    <meta property="og:image:type" content="{{ page.og_image_type }}" />
+    {% endif %}
+    {% if page.twitter_card %}
+    <meta name="twitter:card" content="{{ page.twitter_card }}" />
+    {% endif %}
+    {% if page.twitter_title %}
+    <meta name="twitter:title" content="{{ page.twitter_title }}" />
+    {% endif %}
+    {% if page.twitter_description %}
+    <meta name="twitter:description" content="{{ page.twitter_description }}" />
+    {% endif %}
+    {% if page.twitter_image %}
+    <meta name="twitter:image" content="{{ page.twitter_image | absolute_url }}" />
+    {% endif %}
+    {% if page.twitter_image_alt %}
+    <meta name="twitter:image:alt" content="{{ page.twitter_image_alt }}" />
+    {% endif %}
+    {% if page.og_image_linkedin %}
+    <meta property="og:image:linkedin" content="{{ page.og_image_linkedin | absolute_url }}" />
+    {% endif %}
+    {% endif %}
     
     <!-- Platform-specific social media optimizations -->
     

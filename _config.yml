@@ -85,7 +85,17 @@ defaults:
       type: "people"
     values:
       layout: "person"
-      image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general.png
+      image: /images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_facebook.png
+      seo: false
+      og_image: "/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_facebook.png"
+      og_image_width: "1200"
+      og_image_height: "630"
+      og_image_alt: "Ethereum team historical photo"
+      og_image_type: "image/png"
+      twitter_card: "summary_large_image"
+      twitter_image: "/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_twitter_large.png"
+      twitter_image_alt: "Ethereum team historical photo"
+      og_image_linkedin: "/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_linkedin.png"
   - scope:
       path: ""
       type: "videos"
@@ -97,7 +107,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Exclude from processing
 exclude:

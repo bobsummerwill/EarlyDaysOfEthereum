@@ -240,20 +240,48 @@
     </main>
     
     <footer style="background: linear-gradient(90deg, #007acc 0%, #005fa3 100%); color: #fff; padding: 32px 0 18px 0; text-align: center; border-top: none; font-size: 1em;">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
-            <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
-                <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
-                    <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
-                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;">Early Days of Ethereum is supported by<span style="white-space:pre;"> </span><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
-                </a>
-            </div>
-            <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
-                Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
-                <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
-                or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
-                <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
-            </div>
+    <!-- Desktop footer (original single-line) -->
+    <div class="footer-desktop" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+        <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;">Early Days of Ethereum is supported by<span style="white-space:pre;"> </span><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
+            </a>
         </div>
-    </footer>
+        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+            Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
+            <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
+            or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
+            <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+        </div>
+    </div>
+    <!-- Mobile footer (split lines) -->
+    <div class="footer-mobile" style="display: none; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 6px;">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-bottom: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">Early Days of Ethereum</span>
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">is supported by</span>
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a></span>
+            </a>
+        </div>
+        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+            Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
+            <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
+            or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
+            <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+        </div>
+    </div>
+    <style>
+        @media (max-width: 600px) {
+            .footer-desktop { display: none !important; }
+            .footer-mobile { display: flex !important; }
+        }
+        @media (min-width: 601px) {
+            .footer-desktop { display: flex !important; }
+            .footer-mobile { display: none !important; }
+        }
+    </style>
+</footer>
 </body>
 </html>

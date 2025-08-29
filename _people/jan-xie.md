@@ -1,6 +1,6 @@
 ---
 name: Jan Xie
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

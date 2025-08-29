@@ -1,6 +1,6 @@
 ---
 name: Aaron 'Kumavis' Davis
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

@@ -1,6 +1,6 @@
 ---
 name: Mikhail Kalinin
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

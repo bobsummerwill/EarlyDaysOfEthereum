@@ -1,6 +1,6 @@
 ---
 name: Vlad Gluhovsky
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

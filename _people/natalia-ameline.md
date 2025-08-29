@@ -1,6 +1,6 @@
 ---
 name: Natalia Ameline
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

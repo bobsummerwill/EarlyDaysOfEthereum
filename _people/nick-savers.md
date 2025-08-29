@@ -1,6 +1,6 @@
 ---
 name: Nick Savers
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

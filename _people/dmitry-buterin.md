@@ -1,6 +1,6 @@
 ---
 name: Dmitry Buterin
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

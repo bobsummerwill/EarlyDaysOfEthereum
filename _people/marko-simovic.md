@@ -1,6 +1,6 @@
 ---
 name: Marko Simovic
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

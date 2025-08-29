@@ -1,6 +1,6 @@
 ---
 name: Juan Benet
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

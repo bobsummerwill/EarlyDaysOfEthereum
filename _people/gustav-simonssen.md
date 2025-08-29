@@ -1,6 +1,6 @@
 ---
 name: Gustav Simonssen
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

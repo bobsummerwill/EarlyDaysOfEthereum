@@ -1,6 +1,6 @@
 ---
 name: Nick Szabo
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

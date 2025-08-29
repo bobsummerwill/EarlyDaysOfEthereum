@@ -1,6 +1,6 @@
 ---
 name: Louis Chang
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

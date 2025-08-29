@@ -1,6 +1,6 @@
 ---
 name: Ramesh Nair
-description: [Add description]
+description: Ethereum OG
 start: ???
 end: ???
 ---

@@ -26,11 +26,3 @@ Jarrad did early work on [Trust Davis](https://github.com/EtherCasts/trustdavis)
 
 In May 2014, he started work on [Syng](https://github.com/status-im/syng-client/commit/e0221e5ce2f106a2d4ed31d5f6c256c0824f6944) which later became [Status](https://status.app). He ceased his other work and went full-time on Ethereum during Q1 2015.  Syng was a recipient of a devgrant which was mentioned in [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }})'s talk at DEVCON1:
 {% include youtube_embed.html video_id="4jGqmlA4KEY" %}
-
-
-
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

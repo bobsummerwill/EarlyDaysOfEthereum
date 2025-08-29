@@ -10,8 +10,3 @@ social:
 ["My experience in the founding of Ethereum"](https://medium.com/@mathias_61938/behind-the-scenes-my-experience-in-the-founding-of-ethereum-a4a609b0657d)
 
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

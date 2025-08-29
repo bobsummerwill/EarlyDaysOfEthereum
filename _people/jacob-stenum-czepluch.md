@@ -12,8 +12,3 @@ social:
 
 Jacob is still actively contributing to Ethereum.  He has run the [Copenhagen Ethereum Meetup](https://www.meetup.com/Copenhagen-Ethereum-Meetup/) for over 10 years.  Dec 2015 is just the end date for the internship.
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

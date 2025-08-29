@@ -27,8 +27,3 @@ Bumper Chan was Ming's Skype name.  Her first official day as Executive Director
 
 This episode was described in [The Cryptopians](https://www.amazon.ca/Cryptopians-Idealism-Greed-Making-Cryptocurrency/dp/1541763017/) by [Laura Shin]({{ '/people/laura-shin/' | relative_url }}) in 2022, but to this day nobody has discovered who "Nora" actually is.  The only people who would probably know would be [Ming]({{ '/people/ming-chan/' | relative_url }}) and [Tung]({{ '/people/tung-chan/' | relative_url }}), but they don't want to talk, unsurprisingly.
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

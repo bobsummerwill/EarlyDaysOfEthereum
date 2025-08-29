@@ -15,8 +15,3 @@ Founding Member, Ethereum
 Founded Metamask (originally "Vapor"), two Ethereum related meetups, the Ethereum developer evangelism program (EtherCasts), and numerous early whitepapers on reputational systems and governance. 
 
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

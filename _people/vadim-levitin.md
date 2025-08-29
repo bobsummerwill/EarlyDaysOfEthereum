@@ -8,8 +8,3 @@ social:
   linkedin: https://www.linkedin.com/in/dr-vadim-levitin-0b70b644/
 ---
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

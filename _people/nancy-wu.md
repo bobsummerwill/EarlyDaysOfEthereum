@@ -6,8 +6,3 @@ start: Dec 2013
 end: Dec 2015
 ---
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

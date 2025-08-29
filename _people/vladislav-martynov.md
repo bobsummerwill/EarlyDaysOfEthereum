@@ -9,8 +9,3 @@ social:
   twitter: https://x.com/vladmartynov
 ---
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

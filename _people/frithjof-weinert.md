@@ -7,8 +7,3 @@ social:
   website: https://www.mesh.xyz/team
 ---
 
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

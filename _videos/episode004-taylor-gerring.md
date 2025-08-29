@@ -1,5 +1,5 @@
 ---
-title: "Early Days of Ethereum - Episode IV featuring Taylor Gerring"
+title: "Early Days of Ethereum - Part IV featuring Taylor Gerring"
 episode: 4
 date: 2025-08-08
 youtube_id: "24A8B9IgfLQ"

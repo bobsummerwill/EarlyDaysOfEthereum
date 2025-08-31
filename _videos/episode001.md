@@ -257,11 +257,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[26:52 - 27:08]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1612s) **Kieren:**  As far as tech projects go, it was much more global, a little more European. But you had Canada, I had a bunch of people in Zug, Switzerland, a little bit in Israel in the early days.
 
-[[27:09 - 27:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named Stephen Naraoff, who is now kind of famous.
+[[27:09 - 27:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named [Steven Nerayoff]({{ '/people/steven-nerayoff/' | relative_url }}), who is now kind of famous.
 
-[[27:21 - 27:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1641s) **Kieren:**  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named Jonathan, whose last name I couldn't find when I was writing this down.
+[[27:21 - 27:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1641s) **Kieren:**  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named [Jonathan]({{ '/people/jonathan-mohan/' | relative_url }}), whose last name I couldn't find when I was writing this down.
 
-[[27:33 - 27:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1653s) **Kieren:**  But Jonathan's a good guy. and I don't know if they kind of parted ways at some point or, you know, how that all happened. So we're working in this office in Times Square and, you know, really trying to find kind of different ways to advance the project, meeting with lots of people.
+*(Edit: Kieren was thinking of [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}))*
+
+[[27:33 - 27:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1653s) **Kieren:**  But [Jonathan]({{ '/people/jonathan-mohan/' | relative_url }})'s a good guy. and I don't know if they kind of parted ways at some point or, you know, how that all happened. So we're working in this office in Times Square and, you know, really trying to find kind of different ways to advance the project, meeting with lots of people.
 
 [[27:54 - 28:20]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1674s) **Kieren:**  So, you know, that's when I met Steve Hsu, who introduced me to Jim, basically just kind of calling up whoever might be interested. But part of the plans that the Ethereum folks had was, you know, they acknowledged that there would be a need for kind of ongoing peer research and then in addition to more like focused R&D to build the network out.
 

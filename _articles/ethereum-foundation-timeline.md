@@ -183,7 +183,7 @@ See also the partial public histories in:
   - *"We knew that [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}) was a bad actor. Same applies to [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}). All kinds of legends about that guy. Jesus Christ."* (soundbite at 26m45s).
 
     <audio id="podcast" controls preload="auto" style="width: 100%;">
-    <source src="https://traffic.libsyn.com/secure/thebitcoinpodcast/VinayFinal.mp3" type="audio/mpeg"/>
+    <source src="https://traffic.libsyn.com/secure/thebitcoinpodcast/VinayFinal.mp3#t=1605" type="audio/mpeg"/>
       Your browser does not support the audio element.
     </audio>
 

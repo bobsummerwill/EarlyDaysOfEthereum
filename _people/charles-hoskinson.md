@@ -7,6 +7,7 @@ end: Jun 2014
 social:
   linkedin: https://www.linkedin.com/in/charles-hoskinson-1a95a4b4/
   twitter:  https://x.com/IOHK_Charles
+  github: https://github.com/CharlesHoskinson
 ---
 
 ## References
@@ -15,4 +16,4 @@ This page is referenced from the following articles and videos:
 
 - [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced in content
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Referenced in content
-- [Early Days of Ethereum - Episode IV]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Referenced in content
+- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Referenced in content

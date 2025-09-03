@@ -297,6 +297,12 @@ Display people grouped by start date with epoch headings
                     <p class="person-description">{{ person.description }}{% if person.start and person.end and person.start != "" and person.end != "" %}<br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>{% endif %}</p>
                     {% endif %}
                     
+                    {% if person.interview %}
+                    <div class="person-interview-link">
+                        <a href="{{ person.interview | relative_url }}" class="interview-link">Interview</a>
+                    </div>
+                    {% endif %}
+                    
                     {% if person.social %}
                     <div class="person-social-links-index">
                         {% if person.social.website %}
@@ -659,6 +665,28 @@ Display people without start dates in "Other" section
     .person-social-links-index svg {
         width: 14px;
         height: 14px;
+    }
+    
+    .person-interview-link {
+        margin-top: 8px;
+    }
+    
+    .interview-link {
+        display: inline-block;
+        background: #007acc;
+        color: white;
+        padding: 4px 12px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 0.9em;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+    
+    .interview-link:hover {
+        background: #005580;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     }
     
     .no-content {

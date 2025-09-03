@@ -26,7 +26,7 @@ seo: false
 <p>Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights.</p>
 
 <div class="videos-list">
-    {% assign sorted_videos = site.videos | sort: 'episode' %}
+    {% assign sorted_videos = site.videos | sort: 'date' %}
     {% for video in sorted_videos %}
     <div class="video-card">
         {% if video.youtube_id %}
@@ -42,9 +42,6 @@ seo: false
             <h3><a href="{{ video.url | relative_url }}">{{ video.title }}</a></h3>
             
             <div class="video-meta">
-                {% if video.episode %}
-                    <span class="episode-number">Episode {{ video.episode }}</span>
-                {% endif %}
                 {% if video.date %}
                     <span class="release-date">{{ video.date | date: "%B %d, %Y" }}</span>
                 {% endif %}

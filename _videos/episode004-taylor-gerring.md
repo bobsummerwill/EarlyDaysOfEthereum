@@ -1,14 +1,13 @@
 ---
-title: "Early Days of Ethereum - Part IV featuring Taylor Gerring"
-episode: 4
+title: "Early Days of Ethereum - Episode 4 - Taylor Gerring"
 date: 2025-08-08
 youtube_id: "24A8B9IgfLQ"
 guests: ["Taylor Gerring"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
-description: "After a long hiatus since Episode III, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."
+description: "After a long hiatus since episode 3, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."
 ---
 
-After a long hiatus since [Episode III]({{ '/videos/episode003/' | relative_url }}) in November 2023, we returned with another episode of The Early Days of Ethereum.
+After a long hiatus since [Episode 3]({{ '/videos/episode003/' | relative_url }}) in November 2023, we returned with another episode of The Early Days of Ethereum.
 
 Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 

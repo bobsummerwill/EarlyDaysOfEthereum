@@ -1,6 +1,5 @@
 ---
-title: "Early Days of Ethereum"
-episode: 1
+title: "Early Days of Ethereum - Episode 1"
 date: 2023-08-28
 youtube_id: "EuXc6WPrK_k"
 hosts: ["Victor Wong", "Kieren James-Lubin", "James 'Jim' Hormuzdiar"]

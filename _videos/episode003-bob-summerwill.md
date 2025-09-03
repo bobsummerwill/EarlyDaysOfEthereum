@@ -1,6 +1,5 @@
 ---
-title: "Early Days of Ethereum - Part III"
-episode: 3
+title: "Early Days of Ethereum - Episode 3 - Bob Summerwill"
 date: 2023-11-08
 youtube_id: "BDs4bDHZO1Q"
 guests: ["Bob Summerwill"]

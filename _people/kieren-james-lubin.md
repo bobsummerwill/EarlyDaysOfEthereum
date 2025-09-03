@@ -8,4 +8,4 @@ Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Et
 
 
 ## References
-- [Early Days of Ethereum - Episode IV]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Referenced in content
+- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Referenced in content

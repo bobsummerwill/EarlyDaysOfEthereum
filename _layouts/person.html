@@ -20,6 +20,17 @@ layout: default
         </div>
         {% endif %}
         
+        {% if page.interview %}
+        <div class="person-interview-link">
+            {% assign interview_page = site.videos | where: "url", page.interview | first %}
+            {% if interview_page %}
+                <a href="{{ page.interview | relative_url }}" class="interview-link">{{ interview_page.title }}</a>
+            {% else %}
+                <a href="{{ page.interview | relative_url }}" class="interview-link">Interview</a>
+            {% endif %}
+        </div>
+        {% endif %}
+        
         {% if page.social %}
         <div class="person-social-links">
             {% if page.social.website %}
@@ -189,6 +200,28 @@ layout: default
         color: #666;
         font-style: italic;
         margin-top: 5px;
+    }
+    
+    .person-interview-link {
+        margin-top: 15px;
+    }
+    
+    .interview-link {
+        display: inline-block;
+        background: #007acc;
+        color: white;
+        padding: 8px 16px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 1em;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+    
+    .interview-link:hover {
+        background: #005580;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
     
     .person-photo-header {

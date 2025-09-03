@@ -180,12 +180,23 @@ See also the partial public histories in:
 
   - [Podcast](https://thebitcoinpodcast.com/episode-79/)
 
-  - *"We knew that [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}) was a bad actor. Same applies to [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}). All kinds of legends about that guy. Jesus Christ."* (soundbite at 26m45s).
+  - *"We knew that [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}) was a bad actor ... Same logic applies to [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}). There are all kinds of legends about that guy. Jesus Christ, right?  Serious, serious troublemaker.  Lots of people know the stories."* (soundbite at 26m45s).
 
-    <audio id="podcast" controls preload="auto" style="width: 100%;">
-    <source src="https://traffic.libsyn.com/secure/thebitcoinpodcast/VinayFinal.mp3#t=1605" type="audio/mpeg"/>
-      Your browser does not support the audio element.
-    </audio>
+<audio id="podcast" controls preload="auto" style="width: 100%;">
+  <source src="https://traffic.libsyn.com/secure/thebitcoinpodcast/VinayFinal.mp3" type="audio/mpeg"/>
+    Your browser does not support the audio element.
+</audio>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var audio = document.getElementById('podcast');
+  if (audio) {
+    audio.addEventListener('loadedmetadata', function() {
+      audio.currentTime = 1605;
+    }, { once: true });
+  }
+});
+</script>
 
 
 ## Timeline 2017

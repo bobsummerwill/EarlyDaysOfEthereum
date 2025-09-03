@@ -30,11 +30,12 @@ See also the partial public histories in:
 ![Image](https://i.imgur.com/txxPTG4.png)
   (Old photo of ethereum.org website shows a selection of the early people)
 
-- **Introducing Ethereum, 23rd Jan 2014**
-  - [YouTube Video](https://www.youtube.com/watch?v=q5FDvzj8YX4)
+- **Introducing Ethereum, 19th Feb 2014**
+  - [Vimeo Video](https://vimeo.com/87131363)
 
 - **North American Bitcoin Conference, Miami, 25th and 26th January 2014**
   - [YouTube Video](https://www.youtube.com/watch?v=l9dpjN3Mwps)
+  - [Vitalik Buterin introduces Ethereum at Bitcoin Miami 2014 - Vimeo](https://vimeo.com/88664033)
   - [Vitalik Buterin (Ethereum), a star is born](https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/) – North American Bitcoin Conference in Miami (Jan 2014)
 
 **Beach house in Miami in February, where first face-to-face development happened - 31st January 2014**
@@ -44,6 +45,9 @@ See also the partial public histories in:
 *(The Ethereum team in their Miami house rented by [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}), [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Vitalik Buterin]({{ '/people/vitalik-buterin/' | relative_url }}), [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
+
+**The upcoming crypto-singularity - Coinscrum**, [Stephan Tual]({{ '/people/stephan-tual/' | relative_url }}), 10th March 2014
+  - [Vimeo Video](https://vimeo.com/88661838)
 
 - **[Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}) – Why I Joined Ethereum?, 21st April 2014**
   - [Vimeo Video](https://vimeo.com/92563841)

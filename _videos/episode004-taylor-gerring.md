@@ -164,7 +164,7 @@ TODO - Add photo
 
 But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
 
-<img src="{{ '/images/archive.org/internetarchive_snapshot_ethereum.org_2014.02.08.png' | relative_url }}" style="width: 75%; height: auto;">
+<img src="{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | relative_url }}" style="width: 75%; height: auto;">
 
 **Bob:** I believe that at the Miami time or shortly afterwards it was announced that the crowdsale would happen within a month or two months, it was like a really super short timeline that was thought at that point but then yeah, I guess all of that got delayed both with technical and more importantly legal concerns.
 

@@ -23,7 +23,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 **Texture:** Aw.
 
-**Bob:** And something I'd spotted, going through making my notes, is that your Medium is called "Peace, Love, Revolution".
+**Bob:** And something I'd spotted, going through making my notes, is that your Medium is called ["Peace, Love, Revolution"](https://medium.com/@peaceloverevolution).
 
 **Texture:** Yes.
 

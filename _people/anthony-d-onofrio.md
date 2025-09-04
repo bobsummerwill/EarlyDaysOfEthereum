@@ -48,17 +48,17 @@ He used to stand on street corners giving out "free hugs" from what I remember. 
 
 He posted this in 2018 on the fourth anniversary of the Miami beach house photo taken on 29th January 2014.  Shout out to [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}).
 
-<blockquote class="twitter-tweet"><a href="https://x.com/iamtexture/status/958018640615362565">https://x.com/iamtexture/status/958018640615362565</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/958018640615362565">https://x.com/iamtexture/status/958018640615362565</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/958018640615362565">January 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And, further down the thread he said this, with my own efforts at Maple Syrup diplomacy in full flood at that point:
 
-<blockquote class="twitter-tweet"><a href="https://x.com/iamtexture/status/958023651411947520">https://x.com/iamtexture/status/958023651411947520</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/958023651411947520">https://x.com/iamtexture/status/958023651411947520</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/958023651411947520">January 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And, a little later in the month in response to my epic "Calling for an End to Tribalism in Ethereum":
 
-<blockquote class="twitter-tweet"><a href="https://x.com/iamtexture/status/956932468321349632">https://x.com/iamtexture/status/956932468321349632</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/956932468321349632">https://x.com/iamtexture/status/956932468321349632</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/956932468321349632">January 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I stuck that epic rant into blog form a few days later:

@@ -16,7 +16,7 @@ layout: default
         {% endif %}
         {% if page.description %}
         <div class="person-description">
-            {{ page.description }}{% if page.start and page.end and page.start != "" and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% endif %}
+            {{ page.description }}{% if page.start and page.start != "" %}{% if page.end and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% else %}<br><span class="person-dates">({{ page.start }} to ???)</span>{% endif %}{% endif %}
         </div>
         {% endif %}
         

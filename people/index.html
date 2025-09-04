@@ -294,7 +294,7 @@ Display people grouped by start date with epoch headings
                     {% endif %}
                     
                     {% if person.description %}
-                    <p class="person-description">{{ person.description }}{% if person.start and person.end and person.start != "" and person.end != "" %}<br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>{% endif %}</p>
+                    <p class="person-description">{{ person.description }}{% if person.start and person.start != "" %}{% if person.end and person.end != "" %}<br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>{% else %}<br><span class="person-dates">({{ person.start }} to ???)</span>{% endif %}{% endif %}</p>
                     {% endif %}
                     
                     {% if person.interview %}

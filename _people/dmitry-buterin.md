@@ -1,7 +1,6 @@
 ---
 name: Dmitry Buterin
-description: Ethereum OG
-start: ???
+description: Vitalik's father, Co-Founder of BlockGeeks
 end: ???
 ---
 

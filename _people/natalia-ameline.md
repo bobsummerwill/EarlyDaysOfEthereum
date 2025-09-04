@@ -1,6 +1,6 @@
 ---
 name: Natalia Ameline
-description: Ethereum OG
+description: Vitalik's mother, Co-Founder of CryptoChicks, Metis Foundation
 start: ???
 end: ???
 ---

@@ -65,6 +65,10 @@ I stuck that epic rant into blog form a few days later:
 
 <a href="https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/" target="_blank" rel="noopener">A Call for an End to Tribalism in Ethereum (blog post)</a>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/xyz">https://t.co/xyz</a></p>&mdash; Texture (@iamtexture) <a href="https://twitter.com/iamtexture/status/1881067017182007801">January 19, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Who is Thomas Greco? Is the Mysterious Ethereum Adviser Shiba Inu Ryoshi?](https://cryptonews.net/news/other/20682665/)
 
 ## References
 

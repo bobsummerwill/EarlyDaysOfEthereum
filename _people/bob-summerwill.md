@@ -17,7 +17,7 @@ This page is referenced from the following articles and videos:
 
 - [Early Days of Ethereum - Episode 3]({{ '/videos/episode003-bob-summerwill/' | relative_url }})
 - [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }})
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode004-anthony-d-onofrio/' | relative_url }})
+- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
 
 
 

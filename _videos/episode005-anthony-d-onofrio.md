@@ -8,10 +8,27 @@ description: "Texture was Ethereum's first 'community guy' and shared his unique
 
 <img src="/videos/thumbnails/early-days-of-ethereum-part-005.png" alt="Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio" style="width: 75%;">
 
-We interviewed Texture, blah blah.
-
-{% include youtube_embed.html width="75%" %}
+Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), which will be replaced with a YouTube video when we have that uploaded.
 
 
 ## Transcript
-**Bob:** Welcome everyone, so yeah, really happy to have [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor]({{ '/people/taylor-gerring/' | relative_url }})
+
+**Bob:** Right, well, let's get going, eh?
+
+**Bob:** So, hi, [Texture]({{ '/people/anthony-d-onofrio/' | relative_url }})!  How are you?  It's been a while.
+
+**Texture:** It's been a long time.  Always good to hear from you.
+
+**Bob:** When I think of you, the first thing I think of is love.
+
+**Texture:** Aw.
+
+**Bob:** And something I'd spotted, going through making my notes, is that your Medium is called "Peace, Love, Revolution".
+
+**Texture:** Yes.
+
+**Bob:** So what's the story there?
+
+**Texture:** So, you know, I was kinda, I wouldn't say a hippy.  I didn't dress like a hippy or hang out with hippies.   I took some psychedelics as a kid and had some experiences and kinda drove my passion for, you know, doing good things and supporting love in the world.
+
+REST OF TRANSCRIPT TO DO!

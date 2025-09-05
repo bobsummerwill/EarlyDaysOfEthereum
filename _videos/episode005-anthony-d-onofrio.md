@@ -13,7 +13,22 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 ## Transcript
 
-### Introductions & Small Talk
+<div class="table-of-contents">
+    <h2>Contents</h2>
+    <ul>
+        <li><a href="#introductions-small-talk">Introductions & Small Talk</a></li>
+        <li><a href="#texture-background">Texture's Background: Peace, Love, Human & Decentralized Dance Party</a></li>
+        <li><a href="#the-vision">The Vision: Initial Thoughts on Ethereum</a></li>
+        <li><a href="#early-days-skype-group">The Early Days: The Skype Group and White Paper</a></li>
+        <li><a href="#technical-idealism-ux">The Problem with Technical Idealism & User Experience</a></li>
+        <li><a href="#palace-politics-neurodiversity">Palace Politics & Neurodiversity in Early Crypto</a></li>
+        <li><a href="#miami-house-charles">The Miami House & Charles Hoskinson</a></li>
+        <li><a href="#zug-house-red-wedding">The Zug House & The Red Wedding</a></li>
+        <li><a href="#ethereum-foundation-structure">The Ethereum Foundation: Structure and Criticism</a></li>
+    </ul>
+</div>
+
+### <a id="introductions-small-talk"></a>Introductions & Small Talk
 
 [01:18] Bob: You hear me?
 
@@ -101,7 +116,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [06:27] Bob: Mm.
 
-### Texture's Background: Peace, Love, Human & Decentralized Dance Party
+### <a id="texture-background"></a>Texture's Background: Peace, Love, Human & Decentralized Dance Party
 
 [06:32] Bob: Right. Well, let's get going, eh. So Hi texture.
 
@@ -149,7 +164,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [11:03] Texture: It's pretty fun.
 
-### The Vision: Initial Thoughts on Ethereum
+### <a id="the-vision"></a>The Vision: Initial Thoughts on Ethereum
 
 [11:05] Bob: Um so tell me about your the vision that you had which was then the same as the white paper because on the on the Twitter thread, I was wrongly saying your mind was blown by the Ethereum white paper where actually what happened was that you'd you'd had a vision of this about a week before and then the white paper landed on your on your lap. So what the hell was that about?
 
@@ -157,7 +172,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [15:22] Bob: Yep, yep.
 
-### The Early Days: The Skype Group and White Paper
+### <a id="early-days-skype-group"></a>The Early Days: The Skype Group and White Paper
 
 [15:23] Texture: All right, my little thing stopped showing. So then, um yeah, so he forward me the white paper. I looked at it. Um you know, to me it wasn't as comprehensive as the vision that I had, but I thought, you know, this kids met, you know, right? Like what are the chances that all this stuff lined up like this. So, uh, I said, yeah, uh, make the intro. And so we started a Skype group, uh, and uh, you know, Adam was there. I remember Charles was there. uh Vitalik was there, I was there. and it's it it it became the official uh Ethereum Skype group. um and just kind of grew from there. So, then you know, it was like Was that the water cooler?
 
@@ -199,7 +214,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [21:06] Texture: Yeah, I mean um yeah, just the there's so many dimensions to it but yeah, I mean a social operating system for allowing people to encode their values or encode um yeah, literally their values, anything with value, um creating incentive structures, um contracts that that uh that that are enforced at the exact level that um they were designed to. Um which none of that, you know, all that sounds really technical and and unsexy but to me it was really about the impact, you know, what it what happens when you empower people um to to be able to to create value in their local communities or or encode value in ways they haven't been able to. What happens when, you know, equity in your company can be um easily uh trade you know, just all of these things. Just what what happens when you can do that to houses and local businesses and local communities.
 
-### The Problem with Technical Idealism & User Experience
+### <a id="technical-idealism-ux"></a>The Problem with Technical Idealism & User Experience
 
 [22:08] Bob: Yeah, I mean I I I think in my sort of thinking in those early days, it was an awful lot about empowerment and about, you know, giving giving people the ability to control their own destiny, right?
 
@@ -223,7 +238,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [25:23] Texture: Yeah, and Yeah, and a lot of and I think a lot of times what happens in that is smart people, you know, smart people don't really they don't really understand not smart people. And so what happens is we we are born into a world where these pre-existing hierarchies exist and they've you know, to some degree or another um, you know, kind of persisted through through generations after generation and then we come in and we're like, why am I at the bottom of this hierarchy? I'm smart. We're all too smart for this. And then they try to like, you know, they try to create new systems assuming that everyone is approximately like them and then, you know, I've I've been through so many because again, coming through the hippie shit. I was in the Bay area for a long time. You see so many people think that they're the first person ever think of flat hierarchies and how it's going to be so much better. And at the end of the day, man, like that's fine if you want to talk all the fucking time and you want to argue and you want to get nothing done. But at the end of the day, you know, hierarchy is an information structure and it's also an accountability structure. And so as long as there's accountability at the top and as long as the information is flowing correctly and as long as the outputs are, you know, optimal to some degree, then it's the best you're going to get and and it's it doesn't mean we can't continually improve. Obviously, life gets better and we we have an obligation, you know, I think when you're creating things, it's not just the creating things and I think this is a big problem that still exists in crypto. People think if you build it, they will come. You can't just build it. You have to build it and then you have to make it a button, a single button. It has to be so simple, your grandma can do it and and not destroy her life. Um, and so it is this kind of perpetual attempt to take these complex structures, simplify them so that everyone has access to them, but through that simplification, not creating these kind of hells that that no one can get out of. Um, and I think, you know, just because of the the the rate of technological development and and the nature of um, you know, economic progress, our opportunities as people trapped in those systems is is to build new systems, but ultimately we're going to come face to face with the reality of why those systems were set up the way they were and understand that the best we can really hope for in most instances is an optimization of that. We can try to make it simpler, more efficient, better and more adaptable, but those are a lot of dimensions that any one of them out of um out of out of sync is going to is going to create either more problems um or the system itself will collapse, right? And you know, if the system doesn't exist then nobody gets nobody gets anything.
 
-### Palace Politics & Neurodiversity in Early Crypto
+### <a id="palace-politics-neurodiversity"></a>Palace Politics & Neurodiversity in Early Crypto
 
 [28:19] Bob: Yeah. I mean, I guess it's a little bit analogous to sort of technical debt and things in in code.
 
@@ -275,7 +290,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [39:31] Texture: Uh turned everything into Game of Thrones. Yeah. Yeah. that's what happened. It turned everything into Game of Thrones. So like I was there day one, I was doing, I was making sure like, you know, the first thing I did was um Vitalik posted this website that he made. It was piss yellow, he had stolen some other shit coins logo and um just put Ethereum on it and I was like, please don't post this. give me till tomorrow. So I like spun up a logo, send it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank god, please don't put that out. Um I don't know if I made a website or and then somebody submitted an image but the image was like like and so just real quick, like what I used to do is I used to be like the dude who um dev shops would call when they were six months behind on a project and they needed it done in three days, right? So I was a designer, full stack developer. So my my skill was I could take your idea and I could I could make it look like it existed forever and you had 10 million dollars in funding in 24 hours, right? So that was my goal at that point. Once I realized that that was a massive gap, I just inserted myself there. And and I'm only telling the story to say, then when everybody flooded in and especially when the Zug house happened, you had all these people kind of going behind other people's backs and um trying to um, push people out and take over their roles and it was it was just a very stressful weird time because um, you get you just get a different type of person, right? The type of people who show up and are just wanting to build the thing because it's cool, that's a type of person. But when they show up and they're like, yeah, let's fucking uh, let's make sure it's us. Let's make sure we're the ones. Let's like fuck those people, let's not communicate with them. So there was a lot of like political maneuvering that was required to survive.
 
-### The Miami House & Charles Hoskinson
+### <a id="miami-house-charles"></a>The Miami House & Charles Hoskinson
 
 [41:38] Bob: Yeah, and I mean I guess that Miami house was where that really like dug in.
 
@@ -319,7 +334,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [50:52] Texture: It was weird, man.
 
-### The Zug House & The Red Wedding
+### <a id="zug-house-red-wedding"></a>The Zug House & The Red Wedding
 
 [50:56] Bob: Um, did you say you were never in Zug?
 
@@ -387,7 +402,7 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
 
 [1:04:20] Bob: It it well, this was another funny thing, right? With the uh with the with the spaceship was that there was an expectation at the start there that there was going to be a lot of development work happening in Switzerland as well. and then that never happened.
 
-### The Ethereum Foundation: Structure and Criticism
+### The Ethereum Foundation: Structure and Criticism {#ethereum-foundation-structure-criticism}
 
 [1:04:35] Texture: Also, it it kind of uh goes against the Charles was fired for wanting to uh make it corporate when every single person filed their own corporate legal entity in an attempt to divert the funds to their own personal power structure.
 

@@ -1,0 +1,428 @@
+An accurate and clean transcript of the audio provided, including speaker identification, time stamps, and topic-based sections.
+
+### **Introduction & Welcoming Tyler Guerin**
+
+[00:00 - 02:13] **- Music -**
+
+[02:14 - 02:16] **Kieren:** at the 12 club. Fantastic.
+
+[02:17 - 02:20] **Kieren:** All here.
+
+[02:20 - 02:25] **Bob:** We are Hello, hello.
+
+[02:25 - 02:26] **Tyler:** We are back.
+
+[02:26 - 02:27] **Kieren:** Great.
+
+[02:28 - 02:49] **Kieren:** Yeah, uh, you know, technical difficulties, uh, I suppose it's common. I think we wanted to start at 5:05 and, uh, so we are doing well on time. Thanks for everyone for jumping over. Um, just a friendly reminder, just throw any questions within the Twitter thread. Um, I'll be keeping an eye on those.
+
+[02:49 - 02:55] **Kieren:** Hey Mike. Thanks, Yum for posting both two great comments in the thread.
+
+[02:55 - 03:09] **Kieren:** Um, and then yeah, like, share, repost. Got a great space ahead. Um, and then with that, I guess we can get started and I'll pass it over to to Bob to introduce the speakers.
+
+[03:10 - 03:24] **Bob:** So, hi. Welcome, everyone. So, yeah, really happy, uh, to have, uh, Tyler Guerin here as a, uh, as a guest.
+
+[03:25 - 03:54] **Bob:** Um, back in late 2023, um, Kieran, Victor, uh, and Jim did a couple of videos on the early days of Ethereum, which I absolutely loved, being an Ethereum history buff as I am. And I made a whole load of notes on those, sufficiently that they invited me on as a guest on the, uh, the third edition. Uh, so, and I made a bunch of notes on that again.
+
+[03:55 - 04:24] **Bob:** So we were talking through our own experiences, um, from 2014 onwards to around late 2017 there. Um, but, but yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and, uh, you don't get a lot more OG than, uh, than Tyler. So, welcome Tyler, hello.
+
+### **Tyler's Background Before Crypto**
+
+[04:25 - 04:30] **Tyler:** Hello, everybody, and thank you very much for that kind introduction, Bob.
+
+[04:30 - 04:43] **Tyler:** And I appreciate everybody. I'm honored to uh, join you guys and maybe add a little bit to the story, fill in some gaps in the history that people might be wondering and do whatever I can do to get some chuckles out of the audience.
+
+[04:44 - 04:45] **Bob:** Cool.
+
+[04:46 - 05:01] **Bob:** So, so Tyler, do do tell us something about yourself in general, like where are you from? You know, what what what did your early years look like before you got involved in this, uh, nonsense?
+
+[05:01 - 05:18] **Tyler:** Yeah, sure. Um, so I'm actually sitting in, uh, the town I was born in, in South Florida, where I was raised and probably spent the first 20 years of my life or so, a few more than that.
+
+[05:18 - 06:07] **Tyler:** Um, I knew already way back when that I was super good with computers and, uh, kind of entered college, university with the intention of like getting a degree in that realm and uh, that's what I did. I went to junior college first and then I finished my degree up in Orlando. It was management of information systems. And the way I describe it is half business, half computers. And that, uh, turned out to be a fantastic skill set to kind of bring to the early days of Ethereum. You know, when it's just startup mode, um, things are just flying left, right, up, down, forward, every single direction and there's not a lot of people paying attention to kind of how the business is supposed to work and be organized.
+
+[06:07 - 06:47] **Tyler:** And I thought that gave me a little bit of a leg up going in understanding that we're going to have to submit receipts for things and they're going to have to be accounted for and so I was a little more diligent, uh, with my early days activities, um, because of that experience. But yeah, I, uh, I left there to go to Chicago and got a lot of great experience in the companies and organizations that I worked with up until the point where honestly, I got tired of working with proprietary software, you know, from predominantly Microsoft houses and I started moved shifting back towards open source software, kind of thinking back to when I first got started was doing like PHP, MySQL.
+
+[06:47 - 07:00] **Tyler:** And, uh, found me at the right place, right time to discover and learn about Bitcoin and, uh, really fall into the whole world of open source decentralized cryptocurrency blockchain software.
+
+[07:00 - 07:19] **Tyler:** So, I just feel like I was a opportunity and, uh, luck meeting, you know, I was like, I had, I was prepared for the right thing. I was in the right time, right place kind of situation and tried to stay positioned there and that way I could bring all my skill sets to a project that I was very passionate about.
+
+[07:20 - 07:32] **Bob:** I mean, were you, were you like a, you know, a libertarian, a Cypherpunk, a, a gold bug, a prepper, any of that kind of, uh, flavor?
+
+[07:33 - 08:26] **Tyler:** You know, honestly, I, uh, I kind of had a little bit of a heads up about politics and and, uh, the whole left versus the right thing and trying to, um, step away from that, but I had not really gotten into the super libertarian stuff. I wasn't really a precious metal guy. Uh, it was really once I discovered Bitcoin and really understood it and those principles that we all kind of take to heart once we finally join the cult. Um, that really stumbling upon Bitcoin is when I most embraced those kind of ideals if you will. And certainly hold a lot of those still close to me today, even though it feels like, um, as a whole industry or whatever, we're kind of out of practice. Um, a lot of people just don't really think about the decentralization side, but that is definitely part of what what drew me in was the idea that it wasn't controlled and that we all are contributing and um, even some more esoteric ideas like living in uh, holons, um, like alternative communities and stuff.
+
+[08:26 - 08:47] **Tyler:** I I'm I'm fascinated by all that stuff, but I recognize there's some practical limitations with modern society on making that work.
+
+### **From Bitcoin to Ethereum & Meeting the Team**
+
+[08:48 - 08:54] **Bob:** Yeah, yeah. So I mean how long were you a Bitcoiner before you heard about Ethereum?
+
+[08:54 - 09:13] **Tyler:** I discovered Bitcoin, I want to say in 2011, I, I when I was clearing off a laptop, I uh, saw I had the Bitcoin software downloaded, but it was still in testnet mode. I never, I never figured out how to get it out of testnet mode until when I really discovered the second time in 2012 and going into 2013.
+
+[09:14 - 10:01] **Tyler:** Um, that I continue to working through 2013 doing some mining, trying to join various aspects of Bitcoin projects, writing about different alternative projects, like Namecoin and bit message and stuff. Um, and then I guess it would have been towards the end of that year was when I met Mihai Alisie in, uh, Milan, Italy. I think that was late 2013. And then Vitalik ended up giving his talk in Miami to announce Ethereum officially in, uh, 2014. So I guess, uh, maybe it was just over a year that I was like a pretty diehard Bitcoiner.
+
+[10:01 - 10:18] **Tyler:** And then, uh, just feeling like there's more to this whole blockchain technology and and observing what everybody was trying to do with alternative things like I said, Namecoin was one of those like using, uh, blockchains for name, name resolution services.
+
+[10:19 - 10:36] **Tyler:** Um, I saw the writing on the wall that there was something else to do with Bitcoin and I just didn't know what it was until I finally read Vitalik's paper three times and, you know, it kind of clicked in my head that, ah, here's the way forward.
+
+[10:37 - 10:38] **Bob:** Right.
+
+[10:39 - 10:46] **Bob:** And and you were working for some wallet company or involved with a wallet project when you were in Miami there?
+
+[10:46 - 11:24] **Tyler:** Yeah, yeah. So at the time, I think at the time, uh, I I wrote in on the Bitcoin dev mailing list about, um, like trying to figure out can we do a slider, like just normal UI slider that we use all the time for volume and whatever, to adjust the fees and stuff for Bitcoin. Um, and that was at the behest of Wendell Davis who ran a software company making Hive Bitcoin wallet and it was supposed to be something super secure, simple enough for like your parents to use.
+
+[11:25 - 11:43] **Tyler:** Um, I think I had like tour network built in by default. And he had taken an interest in some of the projects I was working on on top of Bitcoin. So, probably most people don't know, but the first project I wrote, if you go on GitHub, there's a project called Paythrough, p a y t h r u.
+
+[11:44 - 12:31] **Tyler:** And the idea was, can I pay Bitcoin to people who haven't necessarily set up a Bitcoin address yet? So, for example, tipping on Twitter, tipping somebody's website, things of that nature. And so I kind of came up with a little system where it would generate a address to send the funds to, um, if that person didn't have something pre-registered and I had a mechanism in place where if the person then, for example, put their Bitcoin address in their Twitter, uh, link, handle, profile, whatever, it could go scan that and it would pull that address out of there and then take the funds from the temporary address and forward them over the more permanent one.
+
+[12:32 - 12:49] **Tyler:** So, so it was kind of like a way to hold the funds and then if you had a an account and you're like, oh, I want to collect my tips, all I got to do is like put my own Bitcoin address in my on my website or on my Twitter profile. Um, and then you could receive those funds without having to really do very much.
+
+[12:49 - 13:34] **Tyler:** Um, I thought it was kind of an ingenious system. Some people didn't like it because of the technicalities of how Bitcoin has addresses and return addresses are not always return addresses, but, uh, I think it was novel and interesting enough that Wendell saw the value that I could bring and my skill set, uh, to Hive Bitcoin wallet. And so I started working on that kind of on the, um, I guess it was like a very rudimentary DAP sort of interface. The wallet could could have like plugin sort of things where you could click on, click on the the DAP sort of thing and because you're loading it in your own wallet, it already knows what your receiving address is.
+
+[13:35 - 13:43] **Tyler:** Um, so it made it easy to like go to a website and interact with various services with knowing already some of your crypto information.
+
+[13:44 - 14:06] **Tyler:** Um, so I started working on like plugins and things of that nature, making them refined. Uh, but once I learn about Ethereum, I found it really, really hard to want to keep working on the Mac only wallet because I just saw the impact of, uh, you know, working on something that could wasn't just focused on one platform, let's say.
+
+[14:07 - 14:09] **Bob:** Gotcha. So, so
+
+[14:09 - 14:35] **Tyler:** So, Wendell was very instrumental in in kind of like informing, uh, like encouraging me, I guess is a better word, to go out and travel a little bit more and just be a nomad and out of my living out of my backpack. And it was because of that that I ended up going to Milan and meeting Mihai and Mihai's the one who ended up connecting me to Vitalik and the rest of the team. So, Wendell's definitely, uh, an instrumental part of my story with Ethereum.
+
+[14:36 - 14:39] **Bob:** Nice. Yeah, he's, he's a bit of a mystery man, isn't he?
+
+[14:40 - 14:51] **Tyler:** Last I heard he was in Thailand, uh, I think with a wife, I don't know if he was having kids or whatever, but I it kind of fell off the face of the Earth to me. I haven't heard from him in many, many years.
+
+[14:52 - 15:15] **Bob:** No. Um, he was, he was at Devcon doing a talk about grants actually. And I I got my name on the screen. I didn't get to go to London but I was I was on the screen as a named, uh, contributor to Eth Embedded. So, uh, but yeah, I didn't see him around in Ethereum then much, much beyond that kind of timeline.
+
+[15:16 - 15:33] **Tyler:** There there's a lot of that though. A lot of people have, uh, you know, they've put in their contribution and they go attend to other aspects of life, right? Life isn't just working about working on startups. I mean, uh, some people want to have families and stuff. So, you know, there's a lot of people who have done done their thing and and gone off to greener pastures, whatever that means for them and no hard feelings to any of those.
+
+[15:33 - 15:50] **Tyler:** I mean, I find myself in a similar space where I'm not contributing like I once was and trying to enjoy other facets of life. But I think it's just part of the natural cycle of things.
+
+[15:50 - 16:13] **Bob:** Yeah, yeah, for sure. I mean, like I was saying on that Twitter thread last night, I think, I think a crazy project I could do at some point would be trying to talk to and interview all of these early contributors, you know, 80 or 100 people. Um, many have gone to the mists of time and, uh, many of those have probably never been really asked about their story or their, you know, their experience.
+
+[16:15 - 16:35] **Tyler:** Yeah, and, uh, and kind of to your point, it would be great to capture that because, uh, especially with 10 years in the past, I know not all these memories are being perfectly remembered. You know, our brains are kind of faulty and it'd be nice to, uh, get some of it down in video or or books or whatever just to, uh, to capture all of that for future posterity.
+
+### **The Miami Conference and Early Days in Zug**
+
+[16:36 - 17:08] **Bob:** Yeah, yeah. For sure. So I mean you'd mentioned Miami there. Um, so, uh, Bitcoin Miami was late January, uh, 2014 and very early February, uh, where Vitalik, you know, had his sort of announcing Ethereum first presentation at a conference. And then that was where, I guess, many of you who got together to meet each other physically for the first time after, uh, you know, a month or two of of interactions. So how was that?
+
+[17:09 - 18:03] **Tyler:** Uh, a little nerve wracking for a shy computer nerd to just meet up with a bunch of randos. And, uh, you know, I was kind of there with Wendell and his group and then he had told us about these other people that had rented a house and I don't think any of us had sorted rooms, uh, or figured out where we're staying and it was kind of like just turning into a crash space. Um, so like I didn't know anybody hardly anybody and I was keeping myself a lot, uh, but it did turn out to be a very important time and place to be in the in the historical story of Ethereum. There were the vast majority of I'd say like some of the earliest people that had huge influences on Ethereum's, uh, eventual launch. A lot of those people got together physically for the first time there.
+
+[18:03 - 18:27] **Tyler:** I believe Jeff Wilke was not, uh, able to go. Um, but a lot of the other Europeans came over stateside for that. And uh, that was the first time that I met and sat down with Vitalik and we started working on some of the very basic ideas of what the website crowd sale sort of situation would need to be, although that all eventually changed.
+
+[18:27 - 19:08] **Tyler:** Um, one thing I like to point out is, uh, that conference, there's some photos, some of which I took and some of which others took, but, uh, the way the story goes is that room was was standing room only that he was in, uh, to give the announcement of Ethereum. And then afterwards, uh, the questions kept coming in and kept coming in and the organizers had to ask him to step outside and I just remember these photos of like him being mobbed by a group of people just wanting to ask him questions. I think Joe Lubin was standing right there and probably Anthony Di Iorio was probably real close. Um, but that's a that's a very iconic picture in in my mind at least.
+
+[19:08 - 19:55] **Tyler:** Um, but anyway, the house that Anthony Di Iorio had organized became kind of the hub and the central, uh, place where we all gathered around. I think Jonathan, uh, is it Monahan, Mohan? Mohan. Um, he was doing some recording stuff there. I remember Charles Hoskinson being there out on the back patio with Joe and and Vitalik. Um, I was in my photography era, so I was doing more photo taking. Um, but I didn't know where to sleep and I had brought a hammock down with me and so I ended up sleeping in the backyard, uh, on a hammock between two trees looking out over the canal that ran past the house for two nights.
+
+[19:56 - 19:57] **Bob:** Nice.
+
+[19:57 - 19:58] **Tyler:** Yeah.
+
+[19:58 - 20:14] **Bob:** So saying with that iconic photograph, I can't remember the guy's name now, but at some point I I met the guy who's who who had the speaking slot after Vitalik. And he said everyone just sodded off. It's like nobody left in the room for him.
+
+[20:15 - 20:17] **Tyler:** That's that's got to be a tough act to follow, you know?
+
+[20:18 - 20:19] **Bob:** Yeah.
+
+[20:19 - 20:20] **Tyler:** Um, so
+
+[20:21 - 20:38] **Bob:** so yeah, saying about uh, a great number of photos from January, March through I think uh, July of 2014. So if you look on my my Twitter thread from yesterday, I I linked to some of those. Mhm.
+
+[20:38 - 20:39] **Tyler:** Yeah.
+
+[20:39 - 21:04] **Tyler:** It was a really interesting time. Uh, I don't think anybody really knew what was going on. I just felt like documenting as much as I could while I was there was like the way to do it because everybody was just living in the moment.
+
+[21:05 - 21:06] **Bob:** Yeah.
+
+[21:06 - 21:07] **Tyler:** Um,
+
+[21:08 - 21:10] **Bob:** Yeah.
+
+[21:11 - 21:19] **Kieren:** We um I think Bob's audio was glitching for a little bit and now he's muted again. Um, can everyone hear me?
+
+[21:20 - 21:21] **Bob:** Oh I'm back. We're back. Bob.
+
+[21:21 - 21:23] **Kieren:** Okay. Fantastic. No idea.
+
+[21:23 - 21:24] **Bob:** What happened there.
+
+[21:24 - 21:49] **Bob:** Um, yeah, I was just saying on that on that thread on the on the photo thread that you'd got Tyler, that was that sort of iconic, everyone crowding around, um, Vitalik, uh, yeah with Anthony and and Joe there and then some photos on your on the back patio. And then there's that group shot with everyone there and uh some other bits and pieces.
+
+[21:49 - 22:03] **Bob:** So, so yeah, saying February the 9th was a day that we, uh, arrived in, in Europe. So that that's where the, uh, the Zoug adventure began early February.
+
+[22:06 - 22:31] **Tyler:** Yeah, it would be interesting to go back and check the actual timeline. I felt like things happened kind of fast. Um, the where we landed in in Zoug was, uh, I mean landed in Zurich, but then we took the train to, uh, small farm town called Myers Caple. And, uh, there was a handful group there that was just staying in an Airbnb.
+
+[22:32 - 22:51] **Tyler:** And I I went along with, uh, my friend Nick Fiero, who kind of came with me. We met up in, I think, Germany somewhere and and continued on to Zurich. But we landed there and it was just, uh, very chaotic in the sense that nobody had a a good sense of what was happening on what timeline, for what reason.
+
+[22:52 - 23:07] **Tyler:** Um, you know, whether it was just sleeping quarters or getting the website online or who was arriving, it was just, uh, constant chaos. But if I remember correctly, Charles came in, uh, the next day or two pretty soon thereafter.
+
+[23:08 - 23:27] **Tyler:** Um, and then the house eventually filled up with Ian Meel who did all the artwork and, uh, oh gosh, I can't remember his buddy. Richard Wild? Richard Wild. That's right. Richard was actually the first one who was, uh, introduced to the project and he brought Ian along and I think Ian ended up sticking around longer.
+
+[23:28 - 23:29] **Bob:** Yeah.
+
+[23:29 - 23:45] **Kieren:** Though though he wasn't originally called Wild. A funny little tidbit, that's actually his wife's surname that he took when they got married. I forget her name though. Really? Yep. I guess he like Wild, it sounded cool.
+
+[23:45 - 23:51] **Tyler:** I just assumed it was a a pseudonymous, uh, name that he had picked and changed or something like that.
+
+[23:52 - 23:59] **Kieren:** Uh, it could have been. Um, but yeah, I believe she had he he he had a different name before and her Jane, Jane Wild. M.
+
+[23:59 - 24:02] **Bob:** Perhaps it was a pseudonym from them both.
+
+[24:03 - 24:04] **Kieren:** It's possible.
+
+[24:04 - 24:06] **Tyler:** Who knows?
+
+[24:07 - 24:08] **Bob:** Uh,
+
+[24:08 - 24:19] **Bob:** I mean at that point were other people like working together in other parts of the world and you've got people together in, uh, you know, in London or New York as well at that point.
+
+[24:19 - 24:34] **Tyler:** Uh, unbeknownst to me, I I thought Zoug and Switzerland was kind of ground zero and and I think from a legal standpoint that was probably true. But um, certainly from a code standpoint it it was not the case.
+
+[24:35 - 25:03] **Tyler:** And that, you know, led to some uh schisms down the road of like, the funny thing is like Game of Thrones was premiering every Sunday, uh, while the Ethereum is developing and, uh, Switzerland was just like turned out to be one of the hubs, right? There was also Berlin and and London and Amsterdam and Toronto, arguably.
+
+[25:04 - 25:33] **Tyler:** And, uh, so it was like took a little bit of time, but it started to become apparent there was definitely a uh, a Game of Thrones being played in in many different ways. I think we we were all very naive in the earliest of days. Um, but as we're trying to get money to get into a permanent house, like what was called the spaceship. Um, I started to feel some of the struggles and pains of like, hey, there's a bunch of other groups and everybody's buying for resources at this time.
+
+[25:33 - 26:12] **Tyler:** Um, and then you start to get to deal with some of the other personalities. One one of the things I, one of the fun stories I remember is, uh, dealing with the Germans and, uh, having to accept that, you know, Germans just talk in a certain way and it's not meant as like an offense, it's just how they speak and you have to kind of just roll with that. A little more terse if you will. Um, but being introduced to everybody around the world and having to work with everybody, um, and and get those different personalities to mesh culturally or otherwise, that that was a very interesting process.
+
+[26:12 - 26:41] **Tyler:** We were we were pretty good I feel like in in the local hub and everybody that you saw on the daily. Um, but it was like interesting once you started to get those other groups worked in and and try to like, you know, thinking about setting up a server for Gavin. Um, we were crammed in a tiny little apartment and he wanted something set up and I didn't do it fast enough and I definitely heard a little bit from him and I probably could have been faster but I didn't realize he was kind of just waiting on the other end for me.
+
+[26:41 - 26:58] **Tyler:** Um, so yeah, it was it was just very interesting. I I was I was in my own little bubble with the Switzerland crew, but then, uh, gosh, it was probably only a few weeks before we got moved up and out into a larger house and and things became much more complicated much more quickly.
+
+[26:59 - 27:38] **Bob:** Yeah, yeah, I'm just looking down through your photos. It says February the 9th is when you arrived in Europe. Uh, and then um, yeah, February the 13th is when Stefan arrived at our tiny Airbnb. And then there was something on the 22nd, um, about moving in somewhere. Oh yeah, Richard and Ian arrive on February the 22nd. And uh, yeah, BMB.
+
+[27:38 - 27:42] **Tyler:** So, so I guess I was a couple few weeks of there before Ian and Richard arrived.
+
+[27:43 - 27:54] **Bob:** Right. Then I'm just looking in March, the March photos. Charles bought dinner for 10 people on uh, March the 1st. Watching Fight Club.
+
+[27:57 - 28:56] **Tyler:** You know, it, like looking back and one thing that kind of stands out to me is, uh, it was definitely like a rag tag team of people there and trying to figure out what we were doing. like, this became a constant like, uh, wedge in in the group is like, what our contribution was, right? from a code perspective. And I was responsible for the website stuff. So I think to our credit getting the team kind of, uh, motivated up and going to go from we just met and within a couple few weeks here, we started spending up prototypes of the website and working together in our different capacities to kind of get this machine in motion and prepared for what would eventually become the crowd sale is like, kind of no small task, I guess, just having to learn how to get together and and figure out your skills and, um, know how you're going to plug into the rest of the global, uh, organization.
+
+[28:56 - 29:33] **Tyler:** Um, but yeah, there's, there's, uh, I think from February 12th, we so just a few days after I landed, we kind of were up and moving on the website and that was a constantly moving target too. Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath and that became a huge headache. And you know, that wasn't even like the actual functioning app that took in Bitcoin and and assigned like your key out. Um, this was just months before in the run up to that. just trying to get everybody's personalities jiving if you will.
+
+### **Parallel Client Development & The Yellow Paper**
+
+[29:35 - 30:00] **Bob:** I believe that at at the Miami time or or shortly afterwards, um, it it was announced that the crowd sale would happen like within a month or two months. It was like a really super short timeline that was that was thought at that point. Um, but then yeah, I guess all of that got delayed both the technical and more importantly like legal concerns.
+
+[30:00 - 30:43] **Tyler:** Yeah, getting getting kind of our a legal footing uh where we as a team felt comfortable proceeding and and it wasn't just like one or two guys, right? You have to get, you know, eight, 10, 12, uh, leaders going in the right same direction and get them to agree when they want vastly different things. But yeah, it was like at I think way back then the whole joke was two weeks, right? Two weeks, two weeks, two weeks. Everything was two weeks away and two weeks eventually turns into months and months. Um, because the crowd sale wasn't till what? June, July? July, August.
+
+[30:43 - 30:53] **Kieren:** Yeah, I think, I think July, August, September. It it was like it ran for like 49 days or or something like that. Um, on the so I was like in New York for the later part of this time and um it was funny to have this sort of stiff attorneys come by what was then our Times Square office, uh, which um,
+
+[30:58 - 31:40] **Kieren:** I was there with Joe and Jonathan Mohan and Stephen Derayoff now now infamous. Um, and yeah, I think that there was always this like global communication going on and it like on the one hand, I think everyone was massaging the stiff law firm into, you know, what the parameters needed to be and the opinion letter and and so on and so forth. Um, and you know, I think from a capability perspective, technically, that was probably running faster. Although um we were not, I think Joe spent a ton of time on like the terms of service and the docs and did did a lot of the support during the crowd sale.
+
+[31:42 - 32:20] **Kieren:** But um, yeah, it was like the the app was being developed. Who who who built the the the app that generated the wallets? I'm forgetting his name. Um, maybe he went more. The Romanian guy. The Romanian guy. Yeah. Um Marius? I might, that might be right. He might have gone, did he go and work at Consensys afterwards? I think that might have been the case but I could be misremembering. But um, cause he wrote the Eth stats app I thought. I think that's right too. Yeah. Eth stats, I I forgot about that. Um,
+
+[32:17 - 32:26] **Tyler:** there's a lot of old facts from the early days that it's like, I don't know, some of it's what were you thinking and some of it's like I missed that. Yeah.
+
+[32:27 - 32:38] **Kieren:** Um, but yeah, there was quite a lot of coordination overhead and, you know, I wasn't really in the center of it but uh, it was very visible. So, I go ahead Bob.
+
+[32:38 - 32:41] **Bob:** I mean, were were Vitalik, Gav and Jeff in Zug during those months or was it just sort of at that early bit, you know, in in like February or so?
+
+[32:42 - 32:54] **Tyler:** Um, Or they're not even there. I don't remember Gavin and Jeff coming to visit Zoug until after some time. I primarily in the earliest days, I remember Vitalik coming there and then once uh Zoug became kind of like the legal home, um, we started doing more and more meetings in person there.
+
+[33:04 - 33:22] **Tyler:** board meetings, things that needed to happen face-to-face. Uh, I don't think either of them were super keen on it. Gav loved Berlin and Jeff had a lot of like family ties and whatnot to Amsterdam so he didn't like to leave overnight if he could help it. He might come for a day trip.
+
+[33:23 - 33:39] **Tyler:** Um, but in the beginning beginning days, Vitalik would come and stay for a while and that was kind of nice honestly.
+
+[33:40 - 34:20] **Bob:** Yeah, because I mean what was happening during those months, um, was the parallel development of three different clients, right? You've got Piath that Vitalik was working on. You've got Go that Jeff was leading, um, and then Gav building C++ Ethereum and specking out the yellow paper. I mean, Jesus Gav did so much work in those three months, like absolutely insane to to get to the yellow paper so fast from there. So yeah, I can imagine he was just heads down and did not really want to talk to have people chewing his time up.
+
+[34:21 - 35:23] **Tyler:** It felt like uh having Vitalik doing coding in Switzerland gave us a better balance because when Vitalik visited Berlin or Amsterdam, it just it felt like the code went in the direction of wherever two of the three main developers were. Yeah. And you know, for better or worse, people realized that they could if they could bend Vitalik's ear, he had a difficult time saying no, and that means they could kind of set the agenda and direction of whatever they were trying to push if you will. Um, it was it was unfortunate that it was like um way back then it was that easy to sway. But I think that's something Vitalik probably learned, uh certainly by the time we launched the project, he was becoming more aware of how people um would would use him in that way.
+
+[35:23 - 35:38] **Tyler:** Uh, but in the end it all worked out. We all had the three different clients that were interoperable. To your point, the amount of work that had to go into the yellow paper to take everybody's discussion and and codify it into something that was even if imperfect, uh close enough for the for the clients to be developed totally silent from each other.
+
+[35:38 - 36:08] **Tyler:** Um, I I still remark that as one of the best things that was accomplished, whoever's goal that was, probably Gabs. But uh, famously, I think, Bitcoin defined the implementation as the spec. Yeah. And from a technical perspective, Ethereum had an actual spec and that you could derive any implementation you wanted from it. And that's something that, I don't know, the purest technology guy inside of me really appreciates.
+
+[36:09 - 37:13] **Bob:** Yeah, no, I mean it I I I think it's it it was pretty magnificent to be honest. And from what I could see it was it it was a direct reaction to what had happened in in Bitcoin where, uh, Satoshi had basically, you know, had this immaculate birth. Um, and then you could never really get to uh, alternative implementations like even now, um, really like it's never really nothing's ever really stuck. Um, and also I think just the act of have of having that discipline of of defining the spec and having multiple implementations, you know, that lets you triangulate between the different clients and say, oh is there an ambiguity in the spec? So the spec, there's a bug in the spec or is it a bug in a client? Um, and that really has had this sort of like division of powers kind of thing, right?
+
+[37:13 - 37:28] **Bob:** That you haven't had a single group and a single code base and everything is is stuck with that. You you've had that that kind of balance. And uh, and yeah, I mean for the Hasle client for Strato itself, um, you know, it really benefited from that. Um, you know, I mean and maybe say something about about how that happened that that, you know, you could just build a new client.
+
+### **The "Web3" Vision (Swarm & Whisper)**
+
+[37:28 - 38:04] **Kieren:** Um so, so I think this was also, yes, one of the great things about Ethereum was that it was always a really big tent. It was very open. Um, in a way too open to to Tyler's point, right? It, you know, um, but I think on balance, the attitude was right. And you know, I think later projects are have been run much more like companies, but uh, Ethereum especially early on felt like a kind of amorphous open source builder collective, if you will.
+
+[38:04 - 38:39] **Kieren:** Um, and so the spec was documented and so I I met our uh, CTO Jim, um, uh, I'm going to say September 2014. Yeah, September 2014 or thereabouts and we started talking about it and um maybe unbeknown to me after our first discussion, he started implementing the high school version of uh, Ethereum to the point that it could sync and then have all the features in it and I started coding on it, I don't know, January 2015 or or maybe a little bit earlier than that.
+
+[38:39 - 39:13] **Kieren:** Um, we would definitely find, you know, we'd like wake up one morning, it was sinking the night before, you pull the latest and like some big module was added like, you know, dev P2P. It's like, oh, it takes and an encryption now to, you know, connect and be able to sync the network. It didn't before. And and such like that. So, you know, I think there was definitely kind of like a uh, layers of uh, access and consultation in terms of how the protocol evolved, uh, and and so on.
+
+[39:14 - 39:43] **Kieren:** Uh, but um, it was cool. and there were tests, we were like, uh, you could run the the VM tests and the results were provided and you know, we would be, uh, or our CTO mostly would report on the percentage which passed which would, you know, start at 80 or 90% and then go up to 97 and then something would change and it would go down to 90 again and you know, eventually we made it all, uh, work in the end. It's it's a really hard thing to do.
+
+[39:44 - 40:22] **Kieren:** I mean, other industries certainly, like the the the aim of course is to have Ethereum be a protocol like HTTP or any other. And I think this was achieved or at least largely achieved. It was tough, you know, um, and the just the communications between the teams were not mature, I would say. Uh, definitely kind of like a whoever got to the tallest last again to Tyler's point, but also sort of a insider outsider feeling, um, was going on despite the openness of the project. It's almost a strange contradiction in terms but um all in all, it's been been a great run.
+
+[40:23 - 41:00] **Tyler:** Yeah, I think if there's anything to learn from having been involved in uh, in Ethereum in by any stretch of the imagination in the early days is that despite the fact that we were all working on this, uh, you know, quote-unquote fairness protocol, um, it didn't take away from the fact that it was like real human beings with real problems that still had to write the software and uh, it was a really big growing up time for me emotionally to understand everybody's different differing needs.
+
+[41:01 - 41:17] **Bob:** something I observed a few years later was um, you've got to be very atypical to even be involved this early on, right? Getting involved in this stuff is not something that like a Normy is going to do. You know, Hey, there's this thing, it may or may not work, might be illegal, but you know, off off we go, give it, you know, give it a go.
+
+[41:17 - 41:49] **Bob:** So I think you know, intrinsically, you know, these frontier folk prospector types, we're all a bit weird. So yeah, you get a bunch of those together, you're going to get a lot of of friction and misunderstanding. And maybe a lot of people not great communication or emotional skills either.
+
+[41:51 - 42:31] **Tyler:** Yeah, from that perspective, uh, it was probably a special time and place that enabled us to kind of pull together as we did. I mean, if it weren't for Bitcoin meetups and and people normalizing sort of getting together with this sort of stuff even though to your point, you kind of got to have uh a decent case of the the autism to even be interested in throwing your life at this. Um, I don't know that that could be recreated. Um, just getting that kind of group of people together that had the skills and were able to put together at least enough social skills to to make it all work.
+
+[42:32 - 42:55] **Bob:** Yeah, no, I think it's yeah, a very sort of exceptional, um, situation and event. And maybe maybe you could say, you know, what what did you think might come out of Ethereum? What do you think could be built? What, you know, what what were your thoughts on how this might pan out like in an ideal sense? Ethereum generally? Or is that what you're asking is like how about Ethereum would pan out?
+
+[42:55 - 42:57] **Bob:** Yeah, yeah.
+
+[42:57 - 42:58] **Tyler:** Mm.
+
+[42:58 - 43:26] **Tyler:** I mean, what do you think Ethereum was going to be? What what what what what what did you think these these efforts could lead to? Um, I think I understood in the earliest days that there were a lot of other possibilities. And certainly, 10 years down the road, we've explored a lot and found out some of them are more possible than others. I was also of a a large proponent of what Gavin was very into, which was like the three tent poles of decentralization.
+
+[43:26 - 43:37] **Tyler:** Um, was like storage and messaging and compute, I think.
+
+[43:37 - 44:03] **Tyler:** And that's something that I was very excited by. I think going back and looking at some of my early writings for Bitcoin magazine and some other like online publications, I was had already been investigating uh different protocols built around Bitcoin. And so I think I was most excited by this idea of like rebuilding, I mean, it's kind of what we joke we call Web 3, but I think it had a more concrete idea way back when, which was like Web 2 but decentralized.
+
+[44:03 - 44:16] **Tyler:** Um, something that wasn't controlled and owned by the corporations or had more uh, like anonymous ability so that we can continue to communicate online without having to worry about like a real ID or anything like this.
+
+[44:16 - 44:46] **Tyler:** So I think it was a lot a lot closer to the Cypherpunk ideal of like maintaining, um, free and open access of the internet for everybody was kind of the core tenants that I I felt most passionate about with respect to Ethereum, far more so than building prediction markets or, um, like a cryptokitties. Not that those things aren't interesting, but that wasn't necessarily my focus. My focus was on how do we maintain an open internet in in light of the fact that we have uh corporations and governments that would like to apply censorship and control over it.
+
+[44:47 - 45:15] **Bob:** Yeah, yeah. So I mean those three uh sub protocols were were, uh, Ethereum, you know, so your decentralized compute, um, swarm. So swarm's your decentralized storage with incentive layer on top of it and then Whisper was the decentralized, um, messaging. So Whisper kind of died, it didn't really work, um, it turns out. Um, there's a there's a successor to that called Waku, which status have been developing for a good amount of time. Swarm is still going, but you know, has ended up being very little used.
+
+[45:15 - 45:31] **Bob:** Um, IPFS like really sort of seemed to win there, apart from it hasn't got the incentive layer, uh, which is what Filecoin is trying to build on top of that. But you know, I think um and there's one other now, I can't remember. Gosh, what was it? I forget the name. But but yeah, I think it's it it's sort of like with all of these things you could do a decentralized anything, right?
+
+[45:31 - 45:54] **Bob:** That you could that you can have your your smart contract executing your logic, that decentralized storage because store like your your web content, you know, that you could have a hosted front end that was all kind of within that that kind of system, you know, like a bit torrenty kind of thing but with incentives, um, and then that that messaging layer. So yeah, that was really exciting to me as well because it's like, oh, here's like a computer, here's a platform and you can do all of the things that that you could do with a with a Web 2 but in a completely, you know, unstoppable way with built in payments and you can build whatever incentive mechanism you like.
+
+[45:54 - 45:59] **Kieren:** Texas just talked about like a a social operating system.
+
+[45:59 - 46:02] **Bob:** Bob A societal operating system.
+
+### **The Role of DAOs**
+
+[46:02 - 46:16] **Tyler:** Do you or or Kieran or anybody else up up here, do they do they does anyone feel that Ethereum didn't accomplish what it set out to accomplish in in light of the fact that we really just shipped the the compute layer? Do we miss the mark in in any way?
+
+[46:16 - 46:46] **Kieren:** You know, that's a it's a great question. I think the I think the answer is no, just in the sense that you put something out there and you don't really know how people are going to use it. Like um, the world computer was a really compelling vision. And it, to your point, it didn't shake out exactly that way, right? It's it doesn't feel like a complete computer, it feels like an an economy and is only doing certain parts of the economy. But I think that's totally okay, right?
+
+[46:46 - 47:08] **Kieren:** Like, it just getting anything that changes how the world functions done, um, is so important and honestly one probably needs to specialize in general from there. And probably, you know, what you see after Ethereum is yet more specialization, you know, projects, um, are way more narrowly tailored on average than Ethereum as a whole.
+
+[47:08 - 47:40] **Kieren:** So maybe it's just it was like too much to chew and like a little bit impossible, you know, in a way. Um yeah, and there's, there's, you know, I mean actually I I just don't hear that much about IPFS lately. Like it doesn't feel like the demand for sensorproof everything on the internet is that strong right now. Like something would have to happen for the there to be really big uptake and need again. I people have to your point kind of forgotten that part.
+
+[47:40 - 47:56] **Kieren:** Um, and it may happen again. I mean, like the we see pretty strong speech controls, uh, coming out of the EU, uh, especially as as regards the internet. So we might see another wave, but even the the attempts at sort of like crypto native social have all been about financialization versus unsensorability, the ones that have caught on to some degree.
+
+[47:56 - 48:19] **Kieren:** Uh, and financialization is is also just really important, you know. Um, but yeah, so I guess I'm saying, so maybe it's, you know, it's not the complete original vision, but it's not a fault. It's sort of like where the demand went, in my opinion.
+
+[48:19 - 48:26] **Tyler:** What what about in do you either you guys, this wasn't a part of my original question, but I'm looking at the photos here and uh, I don't know in in one case, I kind of feel like the area that Ethereum failed a little bit was the wholeification of various aspects.
+
+[48:26 - 48:55] **Tyler:** Um, Ethereum itself never really became a Dow. We tried the Dow and that had, uh, famously a bug, um, that we had to have like a white hat hacker group helped recover funds from. And then a lot of Dows get set up today, which are essentially just money funnels. Um, I don't know, maybe it was too out there of an idea, maybe not concrete enough for anything to be considered and reconciled as a Dow, but the whole turning things into a Dow just never seemed to transpire even though it was technically possible with just a compute layer.
+
+[48:56 - 49:20] **Kieren:** You know, um, and I'll I'll throw it over to Bob in a second. Um, but I I think it didn't happen. I agree and uh, the I know both of you were kind of heavily involved with the foundation which could have pushed that along harder or been sort of uh, legal brick and mortar host for the Dow as opposed to whatever it is and and was. Um, and we've seen a couple kind of work. It seems like the the DFI Dows are okay and they may be a little bit centralized in decision making and and so on, but they actually seem to serve a purpose.
+
+[49:20 - 49:50] **Kieren:** Um, and sometimes are kind of like intimately involved in the the protocols like the the Ave Dow or the the swap Dow etc. So like people have been able to achieve it and it's on Ethereum, right? And so like why why didn't Ethereum itself achieve it. Also, I mean, there's things that could be done that aren't. Like um, we could take stake- weighted votes on things, for instance. And I think it's never really been done other than stake, you know, staking itself.
+
+[49:50 - 50:11] **Kieren:** Um, and I don't know why. Like I think maybe later entrants sort of had to do it from a transparency perspective. Um, but you know, that the will, I think it's a will thing more than anything. You know, everyone wanted it's like a really intense, uh, um, effort just to keep the network up and so on.
+
+[50:11 - 50:23] **Kieren:** And then it got really big and you didn't want to change it, um, kind of etc, etc. So yeah, I I I agree it didn't happen and I think it could have happened and I don't know, you know, there's a there's definitely a gap there. Um, and I don't really know the why. Um I want to uh also put in before I hand to Bob, we should before we let Tyler go talk a little bit about the red wedding.
+
+[50:23 - 50:24] **Bob:** But uh, I'll I'll throw throw it to Bob on this question.
+
+[50:25 - 50:39] **Bob:** Yeah, for sure. So I mean just on the, you know, on that web 3 vision and, you know, the the other legs not landing. I think the one that has been like a a painful failing is to do with web front ends. You know, that that many many applications, though they may have, you know, uh, smart contract back ends even without admin keys, you know, just code is law, smart contracts.
+
+[50:39 - 50:52] **Bob:** They're often still going through a conventional web front end and that's uh, you know, that's a a junction point, a failure point. Um, often legally, like that's happened a lot on privacy or mixing things is people get like done for hosting the front end even if the smart contracts are, you know, are, uh, immutable and and out there. So that's been one problem area.
+
+[50:53 - 51:17] **Bob:** Um, I think part of that though is nobody wants to run servers. Like I think this was something that I had a quite different thought on at the beginning is like, yeah, you know, everyone, we can run decentralized everything, right? And it's all unstoppable and perfect. But the fact is nobody wants to run servers, like for anything. Like let alone like something that's really heavyweight. Um, and I think that was kind of, you know, the vision, you know, say you had missed, right, you can run run a browser and it's going to have, you know, the, uh, the node in the back end and it's going to, you know, pull, pull the things from swarm and perfectly decentralized, but you know, that that stuff just I think was was quite naive because the the cost and overhead of running a node is really quite high.
+
+[51:17 - 51:24] **Bob:** Let alone if you want to get the throughput that you'd need for sort of worldwide trade. So, yeah, we've ended up with a lot less throughput and a lot less people running their own stuff. And then that's got all the complexities of L2s. So, yeah, I think that's,
+
+[51:25 - 51:41] **Tyler:** I I blame I blame Apple, I hold Apple partially responsible for making such good laptops that everybody started switching over to laptops. Uh, I think way back then, a lot more people had desktop so the idea of having idle storage and compute just sitting there was was a greater thing. But now that a lot of people, myself included, don't even really bust out the laptop.
+
+[51:41 - 51:57] **Tyler:** I live on my phone, work on my phone and there's no good way to support the network as a server client on the phone. So to some degree it feels like the the mobilization of all of our devices is to blame for some of those original ideas not paying out as we had hoped.
+
+[51:57 - 52:21] **Bob:** Yeah, no I I'd agree. I mean I spent I the first thing I was doing on Ethereum was was doing uh arm Linux cross builds to get a client running on smartphones, smart watch, Raspberry Pi and all of that. And I had the really naive view at that point. It's like, all right, yeah, I just get that working and you know, there'll be some light client thing and you know, you can just do everything, right? And this will just be like a background task or hey, you know, we're defining this protocol.
+
+[52:21 - 52:29] **Bob:** They're like, Ethereum will just be a protocol that will just be in operating systems. It will just be part of the Linux, you know, part of the Linux distro, you know, you just right, yeah, you've got Ethereum running in the background and you know, off you go. And that that that absolutely never really took off in the way that we thought.
+
+[52:29 - 52:31] **Tyler:** I think it was originally envisioned I don't think.
+
+[52:31 - 52:45] **Bob:** No, no. And then on that Dow, the Dow question, I think maybe it's as simple as that um, people don't care about lots of things, right? Having, it's kind of like having a job having to participate in a doubt. You have to try and understand what's going on and like, you know, I don't you know, I think that's that's a human scaling thing, right? It was a it was a sort of a, we don't like hierarchy kind of thing, naive.
+
+[52:45 - 53:05] **Bob:** Um, you know, like hierarchies are a scaling mechanism, you know, that they help us solve large scale problems by breaking things up. I think having hierarchies that you can never change and you're powerless within is is a terrible thing, but hierarchies per se, I I think are very useful.
+
+[53:05 - 53:07] **Kieren:** is sort of like a condo association, right?
+
+[53:08 - 53:09] **Bob:** Very much so.
+
+[53:09 - 53:11] **Kieren:** Who wants to who wants to go and be involved in that?
+
+[53:12 - 53:14] **Bob:** that's right.
+
+[53:14 - 53:15] **Kieren:** Only one tyrant, you know.
+
+### **The "Red Wedding" & Formation of the Ethereum Foundation**
+
+[53:15 - 53:26] **Bob:** So, so yeah, talking about the red wedding or or really just really the, you know, the birth of the Ethereum Foundation, right? Because you were a uh, you were a a director on that at the start of the Ethereum Foundation. So how how did all that like resolve into into what came out of that in the form of the F?
+
+[53:28 - 54:09] **Tyler:** Yeah, so I was, I had the dates, uh, I clicked away on my timeline. But, um, the best way that I remember the story was there was unease cropping up with Charles, uh, who seemed to have kind of lost the trust of the people that he claimed to want to be leading. And Amir Chetrit who, um, a lot of people, myself were included, were kind of asking what contribution is this guy giving other than, uh, just being given a title of a founder.
+
+[54:10 - 54:19] **Tyler:** Because he was supposed to be responsible for all the stuff that I was actually doing and he wasn't really involved, uh, like wasn't somebody I reported up to in any way.
+
+[54:19 - 54:33] **Tyler:** Um, and I think those kind of those conversations came to a head when he was wearing swag of a different organization in Toronto when we had that, uh, Bitcoin Expo 2014.
+
+[54:34 - 55:09] **Tyler:** And I ended up in the basement of, uh, the office there on the phone with, uh, like a cloud flare type company to provide DDOS protection and I'm just like, I don't understand why I'm on the phone holding having the big boy meeting and, uh, Amir who's supposed to be doing this is not. Um, so I think just kind of the frustrations rose and it got to a point where, um, some hard decisions had to be made because the organization definitely was not moving forward. Charles, I think on his part was a little bit more on the, let's set this up like Google and make it a corporation.
+
+[55:09 - 55:23] **Tyler:** And I was definitely more on the side of open source and making it available to everybody. Um, so I, I don't know what kind of like weight that had in Vitalik's head when he was making his decisions.
+
+[55:23 - 56:04] **Tyler:** But it felt like to me in in hindsight, it felt like a a huge exhale after that whole incident happened. I feel like looking at the photos, you see pictures of like how much money we think we're going to get, what we think we're going to do with those funds, we started imagining up these Dow sort of ideas, really started moving forward on a lot of things where it felt like we were kind of locked within, uh, the the grasp of each other trying to like fight it out, duke it out on who was going to win politically inside the org. Um, I remember the day being very, very uncomfortable.
+
+[56:04 - 56:27] **Tyler:** Everybody had come to Zug. Um, there were girlfriends and partners there in addition to just like the people involved with Ethereum. And, uh, it was just very uncomfortable for a very long time. It was a it was a emotionally exhausting day. And I think I have a picture of, uh, being on the back patio where we kind of all crammed in while Vitalik was just like on the front patio walking around trying to make his decision.
+
+[56:27 - 56:42] **Tyler:** It was entirely up to him at that point. So, um, who knows what would have happened if he had made the decision any other way. I'd like to think that, um, by choosing to put Stefan and myself in in place in leadership positions and asking Amir and Charles to, uh, move on to other things, I feel like we had the team in place to actually get Ethereum delivered.
+
+[56:42 - 57:01] **Tyler:** And maybe it would have gotten delivered anyway, but, um, I don't know. I I I feel like making the change when that happened is what ultimately enabled us to ship Ethereum in a relatively on time way and doing what we all promised it would do.
+
+[57:01 - 57:11] **Bob:** So just to ask a little beyond there. So when that decision had been made, so the Ethereum Foundation was was then a legal entity set up in Switzerland and you were one of three directors, is that right?
+
+[57:11 - 57:26] **Tyler:** Yeah, at first it was just Vitalik, Mihai and myself were the three people. Uh, part of that was because we were the only three people physically present in Switzerland at the time. Everybody else was remoted in. And it just made things a lot more concrete to be signing uh, wet pen on dead tree with people who are physically located inside the municipality.
+
+[57:27 - 57:51] **Tyler:** Um, I served in that position for, I don't know, probably a few months, a handful of months before, you know, just truth be told, no no shade at Gavin, we buried the hatchet as far as I'm aware. But, you know, Gavin was pushing very, very hard to not have Mihai and myself being involved in the on the board. And that he eventually won that battle of attrition. Um, we ended up signing some docs on a train one time to to resign our positions from the board.
+
+[57:51 - 58:10] **Tyler:** And, um, to the best of my knowledge, the board's never been, uh, faithfully repopulated. There's been a couple of times where some other people have been brought onto the board, but I don't think the board's ever really been truly fleshed out in that way. Maybe that doesn't matter now. But, uh, the three of us were the the first ones that actually created the entity and that served as kind of the, uh, the goal post that we were aiming for and the legal, uh, restrictions we were going to abide by.
+
+[58:11 - 58:24] **Tyler:** Uh, Switzerland was treating us really, really well up until that point and they had offered us some very favorable, um, incentives to continue our progress there. And I think that's worked out well for them. They they've become like a crypto valley in a way. Um, a cottage industry has popped up around it. So I think, you know, it all worked out in the end.
+
+[58:25 - 58:26] **Bob:** Yeah.
+
+[58:26 - 58:27] **Kieren:** Yeah.
+
+### **Devcon 1 and Early Ethereum Community**
+
+[58:28 - 59:04] **Bob:** So, so yeah, and uh, so you, not to go on too much longer, but then the next phase was the phase of Ming. So Ming arrived in 2015, right? And she arrived, she um, she cleared out some of the cruft which I think was very necessary. A lot of people still had ties to the organization but weren't as actively involved. Um, to a degree myself included with that. My role kept changing with the org.
+
+[59:04 - 59:29] **Tyler:** First it was scaling the initial website, then it was the crowd sale, then I started helping, um, on, uh, doing not QA work but, uh, unit testing work on the go Ethereum client. Uh, so doing some coding there, writing the first R or the first complete RPC implementation, uh, was my responsibility. So some of the terrible naming of the functions, uh, you can definitely blame me for those.
+
+[59:29 - 59:47] **Tyler:** Um, and then eventually kind of like traveling around the world and speaking in places that Vitalik was, uh, too busy for or didn't desire to go to, I would kind of go do those talks. So my role had kept shifting and I wasn't the only one that maybe some of the positions that were valuable in the earliest of days were no longer as valuable and she kind of had to come and clean house a little bit.
+
+[59:47 - 59:54] **Tyler:** And, uh, you know, to her credit, she, she did what she needed to do at that time.
+
+[59:55 - 01:00:23] **Bob:** Yeah, I mean there was there was a lot of spending, wasn't there? It was, um, I mean, I I ended up joining the EF in January, February 2016, which was maybe about seven months after she'd joined. Um, really as a consequence of of the C++ team being cut. Um, you know, and then because I I think at that point, it was only like four months of runway left at one point there with the spending rate that was.
+
+[01:00:23 - 01:00:58] **Bob:** Um, and ETH price had not even really taken off since the since the crowd sale. So it was, uh, you know, that was actually when Whisper and Swarm both got their budgets cut entirely at that point. Um, along with the C++ team getting rid of the spaceship and uh, and various other bits and pieces. Um, so yeah, maybe one, one last piece then is is later there in 2015, you had you had Devcon 1, which was the very first, uh, you know, public conference there in London, which nearly didn't happen because of that running out of money.
+
+[01:00:58 - 01:01:06] **Bob:** My understanding is really, uh, that that, uh, Joe and Andrew Consensus really, uh, really funded that. So what what what are your memories of that first conference, you know, how was it to have a, you know, a big public conference and people interested and, uh, some big companies represented as well.
+
+[01:01:07 - 01:01:21] **Tyler:** Yeah, um, your recollection is the same as mine in the sense that, uh, Consensys definitely carried the weight of that conference in terms of financial and organizational.
+
+[01:01:22 - 01:01:35] **Tyler:** Uh, from my standpoint, I remember being so thrilled to have an event that was like all our own. We had been crashing, you know, quote-unquote, crashing, uh, Bitcoin sort of parties, um, which were feeling less and less welcome to.
+
+[01:01:36 - 01:01:51] **Tyler:** Uh, Bitcoin Expo 2014, it was like we had a booth there, but there was a lot of, um, not concern, not criticism, but like just people were not entirely sure of of what we had going on.
+
+[01:01:51 - 01:02:18] **Tyler:** And Devcon zero being like an in-house kind of private only event. This was the first time that it felt like showing off a little bit. We had, um, interest from, I think Microsoft was involved as a sponsor. Fun fun little fact, uh, I had come up with the colored Ethereum logo, uh, with Microsoft colors and that ended up being adopted and being used as like a a de facto, uh, logo for that conference. Um, but that was really cool.
+
+[01:02:18 - 01:02:23] **Kieren:** the thing was everywhere. I didn't know you did that. It was all all over the place.
+
+[01:02:24 - 01:02:27] **Tyler:** Yeah, I think I just I had done that in like something really basic.
+
+[01:02:27 - 01:02:30] **Bob:** Uh, just for like a blog post or something like that.
+
+[01:02:30 - 01:02:33] **Tyler:** But, uh,
+
+[01:02:33 - 01:02:51] **Tyler:** it was really cool to have that. And then, um, gosh, we had the big Bitcoiner guy, I can't remember his name off top of my head. Um, Nick Szabo? Yeah, what was the last name? Nick Szabo. Yeah, yes, yes, Nick Szabo. Yes, he was there as well and I felt very excited about like feeling like we had support from both sides of, uh, old school Bitcoiners, even if he was paid to be there or whatever.
+
+[01:02:51 - 01:03:07] **Tyler:** And also, um, like interest from the corporate side of of like Microsoft. Like that felt like we had finally, uh, made it in a in a way of acceptance even though the the number on the coin wasn't high at the time, it was like, wow, there's literally a room full of people here, um, not just like techie teams, but people in business, development, and other facets that were interested in what was going on in this community space and it it felt like, uh, acceptance, I guess, is the best way to, I guess, best way that I can say I felt.
+
+[01:03:07 - 01:03:13] **Tyler:** Um, it was a special time for sure.
+
+[01:03:14 - 01:03:22] **Bob:** So yeah, I mean Nick Sabo famously the inventor of, uh, of smart contracts or the the term smart contracts. Um, so, uh, yeah, he'd
+
+[01:03:23 - 01:03:36] **Kieren:** I have to inject, it it felt, it felt like during his presentation, he strongly implied he invented Bitcoin. Like he almost put it on the screen, you know, with like like like 2003 as the time frame or or or something. Um, he didn't come out and say it but it was funny.
+
+[01:03:36 - 01:03:47] **Bob:** Yeah, I'm trying to remember what year it was. It was it was like, oh, 1994 is smart contracts were were termed quite a while back. Um,
+
+### **Conclusion**
+
+[01:03:47 - 01:04:02] **Bob:** okay. I think, I think that's maybe a a good point to leave it unless Kieran and Tyler would like to talk a little bit about, uh, about football. I only talk about golf these days.
+
+[01:04:02 - 01:04:22] **Kieren:** I think we can, uh, close it there and are incredibly appreciative of, uh, Tyler coming on. Actually, for the audience also, uh, you know, on on fairly short notice. So, so thank you and, you know, happy 10 years to Ethereum. Um, and, uh, yeah, hopefully, hopefully you'll come back. There's lots more story, um, but, uh, thanks, thanks Bob for, uh, leading us through it.
+
+[01:04:22 - 01:04:30] **Bob:** Okay, thanks so much Tyler. Thanks everyone for coming. Uh, have a great week. All the best. Thank you, everybody.
+

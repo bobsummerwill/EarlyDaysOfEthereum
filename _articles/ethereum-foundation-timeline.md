@@ -63,7 +63,7 @@ See also the partial public histories in:
 
   <iframe src="https://player.vimeo.com/video/93669998" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 93669998"></iframe>
 
-- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}) and [Ian Meikle]({{ '/people/ian-meikle/' | relative_url }})), 18th April 2014**
+- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}) and Ian Meikle, 18th April 2014**
 
   <iframe src="https://player.vimeo.com/video/92338385" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 92338385"></iframe>
 

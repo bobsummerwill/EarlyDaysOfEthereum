@@ -17,31 +17,23 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[0:00 - 0:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=0s) **Kieren:**  Ready. So we're on. Thanks. So my name is Kieren James-Lubin. I'm joined by [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) or [James Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}) and [Victor Wong]({{ '/people/victor-wong/' | relative_url }}).
 
-[[0:13 - 0:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=13s) **Kieren:**  We are old friends. We also run a company together called BlockApps, which has been in operation for quite some time. But that's not what we're here to talk about today. We're actually taking the topic up of what Ethereum was like in the early days.
+[[0:13 - 0:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=13s) **Kieren:**  We are old friends. We also run a company together called [BlockApps](https://blockapps.net), which has been in operation for quite some time. But that's not what we're here to talk about today. We're actually taking the topic up of what Ethereum was like in the early days.
 
-[[0:30 - 0:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=30s) **Kieren:**  So we've all had both an insider and an outsider perspective on Ethereum and enjoyed the really crazy and wild ride that has been in the last approximately decade in the blockchain space.
+[[0:30 - 0:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=30s) **Kieren:**  So we've all had both an insider and an outsider perspective on Ethereum and enjoyed the really crazy and wild ride that has been in the last approximately decade in the blockchain space.  And sometimes we forget all of the interesting things that happened. And so we wanted to kind of get in front of a camera and get it all down for posterity.
 
-[[0:45 - 0:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=45s) **Kieren:**  And sometimes we forget all of the interesting things that happened. And so we wanted to kind of get in front of a camera and get it all down for posterity.
+[[0:57 - 1:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=57s) **Kieren:**  And here we are. So with that said, I'll kind of take the lead on the discussion, but we're not trying to be formal here, trying to make it conversational. This is a first of a, you know, Kieren-produced podcast of sorts.  I've been on a bunch of them. I don't think I've ever led one, so we're going to find out how it goes. All righty. So let's start out with the question, when were you first aware of Bitcoin and blockchain in particular?
 
-[[0:57 - 1:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=57s) **Kieren:**  And here we are. So with that said, I'll kind of take the lead on the discussion, but we're not trying to be formal here, trying to make it conversational. This is a first of a, you know, Kieren-produced podcast of sorts.
+[[1:28 - 1:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=88s) **Kieren:**  I'll give my answer to start, and there's still a kicking myself aspect to it. So I became aware, I'm going to say 2010, possibly 2011, so this would have been my senior year in undergrad, of Bitcoin.  And I distinctly remember it being $3, down from a recent peak of $14 or $15. I thought it was interesting and, you know, looked into it a little bit.
 
-[[1:13 - 1:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=73s) **Kieren:**  I've been on a bunch of them. I don't think I've ever led one, so we're going to find out how it goes. All righty. So let's start out with the question, when were you first aware of Bitcoin and blockchain in particular?
-
-[[1:28 - 1:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=88s) **Kieren:**  I'll give my answer to start, and there's still a kicking myself aspect to it. So I became aware, I'm going to say 2010, possibly 2011, so this would have been my senior year in undergrad, of Bitcoin.
-
-[[1:46 - 1:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=106s) **Kieren:**  And I distinctly remember it being $3, down from a recent peak of $14 or $15. I thought it was interesting and, you know, looked into it a little bit.
-
-[[1:57 - 2:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=117s) **Kieren:**  I didn't really get the idea of decentralization at the time. I just imagined it as some sort of digital money solution. You know, if you asked me then, I probably couldn't have drawn a difference between it and, you know, a digital banking or a pay field type provider, that sort of thing.
-
-[[2:16 - 2:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=136s) **Kieren:**  And they might have bought a little of it, but not nearly enough, of course. So, that said, let me hand the question over to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
+[[1:57 - 2:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=117s) **Kieren:**  I didn't really get the idea of decentralization at the time. I just imagined it as some sort of digital money solution. You know, if you asked me then, I probably couldn't have drawn a difference between it and, you know, a digital banking or a pay field type provider, that sort of thing.  And I might have bought a little of it, but not nearly enough, of course. So, that said, let me hand the question over to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
 [[2:28 - 2:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=148s) **Kieren:**  When were you first aware of Bitcoin?
 
 [[2:30 - 2:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=150s) **Jim:**  Aware is different than, like, interested. In fact, like, I don't know. I was, like, I came from an academic background. So, I'd been hearing about it probably since when you had been hearing about it. But I was, like, a little bit too above all that.
 
-[[2:42 - 2:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=162s) **Jim:**  Like, oh, that's, like, a money thing. I'm not interested in that money world. So really, no, like the interest came from when you reached out to Steve, who is an old friend of mine and that [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) had been following his blog.
+[[2:42 - 2:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=162s) **Jim:**  Like, oh, that's, like, a money thing. I'm not interested in that money world. So really, no, like the interest came from when you reached out to [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu), who is an old friend of mine and that [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) had been following his blog.
 
-[[2:58 - 3:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=178s) **Jim:**  And Steve called me up and he's like, this guy [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) just called me up. And you have to go look at this Ethereum thing. And so at first I was like, you know, I'm not interested in all this fake money thing.
+[[2:58 - 3:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=178s) **Jim:**  And [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu) called me up and he's like, this guy [Kieren]({{ '/people/kieren-james-lubin/' | relative_url }}) just called me up. And you have to go look at this Ethereum thing. And so at first I was like, you know, I'm not interested in all this fake money thing.
 
 [[3:13 - 3:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=193s) **Jim:**  And I went and I read the white paper. and by the end of the white paper I was hooked in. I was like, this isn't just about like banking or something. This is about incentivization on the internet and that drew me in.
 
@@ -82,25 +74,15 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[7:08 - 7:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=428s) **Kieren:**  Some of them weighed in on it. but, yeah, I think it's sort of, it was too fringe to attract, like, the classically most successful, in some sense, people at that time, whereas, you know, fighting against, not fighting against, but you're sort of fighting for jobs, like in math or physics or something, it's just, like, the most horsepower wins from an intellectual perspective and, I guess, the hardest working horsepower.
 
-[[7:34 - 7:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=454s) **Kieren:**  very few of those people got interested in crypto blockchain. A few cryptographers certainly did, and probably actually more established ones, as far as compared to younger ones, like folks like Dan Benet, et cetera.
+[[7:34 - 7:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=454s) **Kieren:**  very few of those people got interested in crypto blockchain. A few cryptographers certainly did, and probably actually more established ones, as far as compared to younger ones, like folks like [Dan Boneh](https://x.com/danboneh), et cetera.
 
-[[7:52 - 8:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=472s) **Kieren:**  But, yeah, I think – I don't know that I was too good for it, but that, one, I didn't grasp right away that it was revolutionary.
+[[7:52 - 8:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=472s) **Kieren:**  But, yeah, I think – I don't know that I was too good for it, but that, one, I didn't grasp right away that it was revolutionary.  And I didn't see anyone near me leaning into it for a while, I guess. 
 
-[[8:04 - 8:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=484s) **Kieren:**  And I didn't see anyone near me leaning into it for a while, I guess. Yeah, I would describe my view of it in the early days was sketchy because most of the use cases that like I thought the technology was fascinating.
-
-[[8:19 - 8:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=499s) **Kieren:**  But whenever I would ask about, you know, I'm a product guy. So I would always ask, like, what's the use case?
-
-[[8:24 - 8:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=504s) :  Why would you use it?
-
-[[8:25 - 8:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=505s) **Kieren:**  And people would describe, you know, things to circumvent existing laws. like the big one in China that I remember is like oh I can transfer money and bypass foreign exchange rules
-
-[[8:36 - 8:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=516s) :  and stuff and I was like
-
-[[8:37 - 8:43]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=517s) **Kieren:**  is that legal? no one would mention anything afterwards basically
+[[8:04 - 8:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=490s) **Victor:**  Yeah, I would describe my view of it in the early days was 'sketchy' because most of the use cases that like I thought the technology was fascinating, but whenever I would ask about, you know, I'm a product guy. So I would always ask, like, what's the use case?  Why would you use it?  And people would describe, you know, things to circumvent existing laws. like the big one in China that I remember is like oh I can transfer money and bypass foreign exchange rules and stuff and I was like is that legal? no one would mention anything afterwards basically.
 
 [[8:43 - 8:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=523s) **Jim:**  I got over feeling too good for it I'll tell you that
 
-[[8:50 - 9:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=530s) **Kieren:**  yeah we all did I want to touch on the other big thing that sticks out in my memory from the early blockchain era is, and we've kind of gone through this kind of cycle a couple times, was Mt. Gox. So Mt. Gox was that first big price run up.
+[[8:50 - 9:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=530s) **Kieren:**  Yeah we all did.  I want to touch on the other big thing that sticks out in my memory from the early blockchain era is, and we've kind of gone through this kind of cycle a couple times, was Mt. Gox. So Mt. Gox was that first big price run up.
 
 [[9:13 - 9:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=553s) **Kieren:**  I believe Bitcoin went from like 30 bucks to 1,200 bucks in a pretty short time frame. And as we've seen in the last couple, you know, crypto, you could call them asset bubbles if you were a cynical person.
 
@@ -108,241 +90,191 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[9:41 - 10:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=581s) **Kieren:**  More people come in, and it goes all the way up. And then seemingly, invariably, the bubble bursts, and someone is fleeced at the top. You know, and, you know, whether it's outright theft or merely collapsing asset values or some mix thereof, everyone's hurt on the other side.
 
-[[10:01 - 10:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=601s) **Kieren:**  And sort of crypto is somehow this way of surviving all of this. The protocols themselves seem to be quite sound. But I guess the question is, do you guys remember Mt.
-
-[[10:13 - 10:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=613s) **Kieren:**  Gox distinctly? I feel like everyone, lots of people I knew who were not quite crypto savvy in the industry, et cetera, were suddenly paying attention when Mt. Gox was happening.
+[[10:01 - 10:13]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=601s) **Kieren:**  And sort of crypto is somehow this way of surviving all of this. The protocols themselves seem to be quite sound. But I guess the question is, do you guys remember Mt. Gox distinctly? I feel like everyone, lots of people I knew who were not quite crypto savvy in the industry, et cetera, were suddenly paying attention when Mt. Gox was happening.
 
 [[10:24 - 10:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=624s) **Jim:**  It was a hot topic that I was just getting into things. What year was it? Was it 2015, 2014? 2014 probably, right?
 
-[[10:32 - 10:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=632s) **Kieren:**  I think Gox was 13.
+[[10:32 - 10:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=632s) **Kieren:**  I think Gox was '13.  Let me check.
 
-[[10:33 - 11:04]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=633s) **Jim:**  Let me check. Yeah. Okay, 13. Yeah, okay. So that was a little before, but that was still the topic that everybody was talking about at the time. I was new enough to it that it was still I was observing it as a third party it was interesting to me I think I spent a little time to understand the newspaper coverage like usual was terrible about it, they didn't explain what was going on, so I spent a little time to understand that
+[[10:33 - 11:04]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=633s) **Jim:**  Yeah. Okay, '13. Yeah, okay. So that was a little before, but that was still the topic that everybody was talking about at the time. I was new enough to it that it was still I was observing it as a third party. It was interesting to me I think I spent a little time to understand the newspaper coverage like usual was terrible about it, they didn't explain what was going on, so I spent a little time to understand that yes there was a problem, but no it had nothing to do with blockchain.
 
-[[11:04 - 11:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=664s) **Jim:**  yes there was a problem, but no it had nothing to do with blockchain I think you're right.
+[[11:12 - 11:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=672s) **Kieren:**  I think you're right.  So the run-up was actually end of '13 into the beginning of '14. It looks like. Okay, so it officially shuttered February 2014. And the $1200 that I remember was like November 2013, it looks like.
 
-[[11:12 - 11:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=672s) **Kieren:**  So the run-up was actually end of 13 into the beginning of 14. It looks like. Okay, so it officially shuttered February 2014. And the 1200 that I remember was like November 2013, it looks like.
+[[11:29 - 11:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=689s) **Victor:**  When did the hack happen?
 
-[[11:29 - 11:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=689s) **Kieren:**  When did the HAC happen? December. I think right here.
+[[11:31 - 11:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=691s) **Kieren:**  December. I think right here.
 
-[[11:33 - 11:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=693s) **Jim:**  Okay, okay. Yeah.
+[[11:33 - 11:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=693s) **Victor:**  Okay, okay. Yeah.
 
-[[11:34 - 12:04]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=694s) **Kieren:**  It happened right there, yeah. so yeah interesting times for sure because i think about monk docks and oh what was i'm blanking right now what was the name of that you know um dark web marketplace that used silk road silk road yeah like i think it's um those were kind of intertwined in those early days right so i remember like even going on to silk road just to check what it was about. And I was kind of shocked
+[[11:34 - 11:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=699s) **Kieren:**  It happened right there, yeah. so yeah interesting times for sure
 
-[[12:04 - 12:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=724s) **Kieren:**  with what I saw listed there. Like, you know, lots of listed stuff was listed there. Wow. You know, I think I never did that. I think I never actually navigated to Silk Road. Just heard about it. I had a Mt. Gox account.
+[[11:39 - 12:04]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=694s) **Victor**: because i think about Mt Gox and oh what was i'm blanking right now what was the name of that you know um dark web marketplace that used
 
-[[12:21 - 12:32]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=741s) **Kieren:**  And some others. There was a period where, like, Dwala was doing crypto stuff. And then I think they stopped. And I believe they're still around as, like, a payment API company.
+**Kieren**: Silk road
 
-[[12:33 - 12:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=753s) **Kieren:**  but I'm going to use them and some others. I remember the Silk Road arrests and the Mt. Gox hacks came relatively within the same time frame of each other, and that was like the sort of like, you know, as you mentioned, like the first kind of iteration of like, oh, you know, all crypto and blockchain is dead now, and then it just keeps coming back, right?
+**Victor**: Silk road yeah like i think it's um those were kind of intertwined in those early days right so i remember like even going on to silk road just to check what it was about. And I was kind of shocked with what I saw listed there. Like, you know, lots of illicit stuff was listed there. Wow. 
+
+**Kieren**: You know, I think I never did that.  I think I never actually navigated to Silk Road. Just heard about it. I had a Mt. Gox account.
+
+[[12:21 - 12:32]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=741s) **Kieren:**  And some others. There was a period where, like, [Dwolla](https://www.dwolla.com/) was doing crypto stuff. And then I think they stopped. And I believe they're still around as, like, a payment API company, but I'm going to use them and some others.
+
+**Victor**: I remember the Silk Road arrests and the Mt. Gox hacks came relatively within the same time frame of each other, and that was like the sort of like, you know, as you mentioned, like the first kind of iteration of like, oh, you know, all crypto and blockchain is dead now, and then it just keeps coming back, right?
 
 [[12:59 - 13:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=779s) **Kieren:**  Yeah, it sure does.
 
-[[13:00 - 13:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=780s) **Jim:**  there's a little bit of bias in the news on how they cover problems in crypto versus problems in the traditional world if there's fraud and it happens to happen on the blockchain then that means that the blockchain is a corrupt place and if there's fraud and it happens in traditional banking that means that it might mean that we need a little more regulation or something but that was a bad person so it's always much more tied into The price of Bitcoin can drop quite a bit when something like this happens.
+[[13:00 - 13:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=780s) **Jim:**  There's a little bit of bias in the news on how they cover problems in crypto versus problems in the traditional world if there's fraud and it happens to happen on the blockchain then that means that the blockchain is a corrupt place and if there's fraud and it happens in traditional banking that means that it might mean that we need a little more regulation or something but that was a bad person so it's always much more tied into. The price of bitcoin can drop quite a bit when something like this happens.  But you don't see E-crashing because somebody commits fraud somewhere. I mean, I guess fraud's big enough, but...
 
-[[13:34 - 13:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=814s) **Jim:**  But you don't see E-crashing because somebody commits fraud somewhere. I mean, I guess fraud's big enough, but...
-
-[[13:43 - 13:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=823s) **Kieren:**  Yeah, I agreed. Just to segway quickly.
+[[13:43 - 13:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=823s) **Kieren:**  Yeah, I agreed. Just to segue quickly.
 
 [[13:46 - 13:47]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=826s) **Jim:**  It does happen sometimes.
 
-[[13:49 - 13:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=829s) **Kieren:**  Segwaying quickly, can you guys go into how you met, because you guys met first, and then we can do the whole how we all met. Yeah, Jim, do I want to start, or do you want to start?
+[[13:49 - 13:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=829s) **Kieren:**  Segueing quickly, can you guys go into how you met, because you guys met first, and then we can do the whole how we all met.
 
-[[13:59 - 14:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=839s) **Jim:**  Uh, I'll start and I'll pass it over. I, uh, actually, so I had, uh, uh, back in the 90s, I was not Canadian and, uh, in the aughts, I was, uh, in the startup world and I'd done a couple startups and I was ending one of my startups and I had, uh, two sons who were in the, our local school in California was a Mandarin immersion school. And I, um, uh, at, at this time, it was just a coincidence that both my wife and I had ended jobs.
+**Victor:** Yeah, Jim, do I want to start, or do you want to start?
 
-[[14:33 - 14:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=873s) **Jim:**  And we said, hey, let's just be crazy right now. And let's take this to its extension. Let's go to China and actually put them in a school there. So I called around some various friends.
+[[13:59 - 14:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=839s) **Jim:**  Uh, I'll start and I'll pass it over. I, uh, actually, so I had, uh, uh, back in the 90s, I was in academia and, uh, in the aughts, I was, uh, in the startup world and I'd done a couple startups and I was ending one of my startups and I had, uh, two sons who were in the, our local school in California was a Mandarin immersion school. And I, um, uh, at, at this time, it was just a coincidence that both my wife and I had ended jobs.  And we said, hey, let's just be crazy right now. And let's take this to its extension. Let's go to China and actually put them in a school there. So I called around some various friends.  And one of the friends I called was a VC who had just funded a startup of [Victor]({{ '/people/victor-wong/' | relative_url }})'s in Beijing.  And he said I going to get you in touch with these guys So in fact let me pass it over to you right now and you can explain
 
-[[14:46 - 14:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=886s) **Jim:**  And one of the friends I called was a VC who had just funded a startup of [Victor]({{ '/people/victor-wong/' | relative_url }})'s in Beijing.
-
-[[14:53 - 15:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=893s) **Kieren:**  And he said I going to get you in touch with these guys So in fact let me pass it over to you right now and you can explain Well yeah and so the VC you know who we still friends with Herb G like he kind of came up to me and he explicitly said like oh, I have this brilliant CTO and he says he wants to come to China.
-
-[[15:10 - 15:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=910s) **Kieren:**  I'm not sure how serious he is. So, you know, don't put all your eggs in this basket. But then we started talking that summer and you weren't like traveling the country.
-
-[[15:22 - 15:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=922s) **Kieren:**  So you were like in a different place.
+**Victor**:  Well yeah and so the VC you know who we still friends with, Herb G, like he kind of came up to me and he explicitly said like oh, I have this brilliant CTO and he says he wants to come to China.  I'm not sure how serious he is. So, you know, don't put all your eggs in this basket. But then we started talking that summer and you weren't like traveling the country.  So you were like in a different place.
 
 [[15:24 - 15:30]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=924s) **Jim:**  Another advantage of us both being jobless at the time is that we got in a car and started just driving around the country.
 
-[[15:31 - 15:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=931s) **Kieren:**  And I remember like, you know, like we were kind of talking over the summer and I was like, you know, seeing how serious you were about coming. And and at one point you said, OK, look, if you can get my kids into a Chinese school in Beijing, I will come and take the job to Beijing.
+[[15:31 - 15:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=931s) **Victor:**  And I remember like, you know, like we were kind of talking over the summer and I was like, you know, seeing how serious you were about coming. And and at one point you said, OK, look, if you can get my kids into a Chinese school in Beijing, I will come and take the job to Beijing.  And I went to the school that my kids went to which and said like you know can you make space for um you know two foreign kids this international program they said yes if you can but the kids have to be here the first day of school and first day of school was two weeks from that conversation so I called [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) up and said look I can do it you know I can guarantee a place for them but you have to be here on this day.
 
-[[15:49 - 16:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=949s) **Kieren:**  and I went to the school that my kids went to which and said like you know can you make space for um you know two foreign kids this international program they said yes if you can but the kids have to be here the first day of school and first day of school was two weeks from that conversation so I called [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) up and said look I can do it you know I can guarantee a place for them but you have to be here on this day.
+[[16:18 - 16:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=978s) **Victor:**  And to my shock, he actually said yes. And he packed up his house. 
 
-[[16:18 - 16:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=978s) **Kieren:**  And to my shock, he actually said yes. And he packed up his house. We packed
-
-[[16:23 - 16:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=983s) **Jim:**  everything in the house. I think we had 12 days to be in school and we probably had to have the house packed within like, I don't know, less than a week. So that was a crazy week. But [Victor]({{ '/people/victor-wong/' | relative_url }}) was a great help in...
-
-[[16:42 - 16:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1002s) **Jim:**  We were going to a country we'd never been to before, didn't know much about. [Victor]({{ '/people/victor-wong/' | relative_url }}) had also moved to Asia a few years earlier, and so he had sort of scoped out everything, and he knew where the good schools were, he knew where the good apartment buildings were, helped us out tremendously.
+[[16:23 - 16:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=983s) **Jim:**  We packed everything in the house. I think we had 12 days to be in school and we probably had to have the house packed within like, I don't know, less than a week. So that was a crazy week. But [Victor]({{ '/people/victor-wong/' | relative_url }}) was a great help in ... We were going to a country we'd never been to before, didn't know much about. [Victor]({{ '/people/victor-wong/' | relative_url }}) had also moved to Asia a few years earlier, and so he had sort of scoped out everything, and he knew where the good schools were, he knew where the good apartment buildings were, helped us out tremendously.
 
 [[16:56 - 16:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1016s) **Jim:**  It was a great experience.
 
-[[16:58 - 17:09]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1018s) **Kieren:**  It was an exciting time to be in China. It was right around the first Olympics, you know, like it was right around the Beijing Olympics, and so it was a really exciting time. But yeah, you wound up staying for about 18 months, right, in total?
+[[16:58 - 17:09]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1018s) **Victor:**  It was an exciting time to be in China. It was right around the first Olympics, you know, like it was right around the Beijing Olympics, and so it was a really exciting time. But yeah, you wound up staying for about 18 months, right, in total?
 
-[[17:10 - 17:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1030s) **Jim:**  A little less, but yeah, it was over a year. Yeah, and then we
+[[17:10 - 17:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1030s) **Jim:**  A little less, but yeah, it was over a year.
 
-[[17:14 - 17:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1034s) **Kieren:**  just kept in touch from there. We loved working together. What year did you arrive? What was this rough time to your group?
+[[17:14 - 17:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1034s) **Kieren:**  Yeah, and then we just kept in touch from there. We loved working together.
 
-[[17:23 - 17:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1043s) **Jim:**  Who were you asking? Because it was different for you. Oh, 2011. 2011 is that summer. We're driving all over the country. 2011, September, August. I can't remember.
+**Kieren:** What year did you arrive? What was this rough time to your group?
 
-[[17:33 - 17:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1053s) **Jim:**  We were in Beijing.
+[[17:23 - 17:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1043s) **Jim:**  Who were you asking? Because it was different for ...
 
-[[17:36 - 17:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1056s) **Kieren:**  Gotcha.
+**Kieren:** You, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
-[[17:37 - 17:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1057s) :  Very cool.
+**Jim:** Oh, 2011. 2011 is that summer. We're driving all over the country. 2011, September, August. I can't remember.  We were in Beijing.
 
-[[17:38 - 17:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1058s) **Kieren:**  And so then you're back end of 2012 or early 2013,
+[[17:36 - 17:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1056s) **Kieren:**  Gotcha. Very cool. And so then you're back end of 2012 or early 2013,
 
-[[17:44 - 17:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1064s) **Jim:**  something like that. Yeah, we were back at, when did we come back? I guess we were back in the
+[[17:44 - 17:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1064s) **Jim:**  Something like that. Yeah, we were back at, when did we come back? I guess we were back in the country in 2013. But like January.
 
-[[17:50 - 18:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1070s) **Kieren:**  country in 2013. But like January. Let me, I'll segue, I'm trying to keep it slightly chronological to keep everything in my mind here consistent. So I was in grad school at Berkeley between 2012 and really 2015, I got to start working on Ethereum kind of purely by accident.
+**Kieren:** Let me, I'll segue, I'm trying to keep it slightly chronological to keep everything in my mind here consistent. So I was in grad school at Berkeley between 2012 and really 2015, I got to start working on Ethereum kind of purely by accident.  Maybe not purely by accident, but basically I had passed my qualifying exam, I'm going to say spring 2014 or maybe May, April or May 2014.
 
-[[18:20 - 18:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1100s) **Kieren:**  Maybe not purely by accident, but basically I had passed my qualifying exam, I'm going to say spring 2014 or maybe May, April or May 2014.
+[[18:35 - 19:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1115s) **Kieren:**  So for those who are not aware of how a PhD program works, qualifying exam is like one of the last things you need to do before you just do the research and produce the thesis. So sometimes it's a coursework requirement. Sometimes you need to, you know, translate a work from like an academic work from one language to another to show proficiency. I think most of them have dropped those requirements at this point. And so, you know, it's a whole bunch of study, intense prep at Berkeley. It's a three-hour oral exam with a couple people from your department and one from an external department and then they give you a pass or not.  I got a pass thankfully it was a i don't know that it was it was everyone feels bad after their qualifying exam except the people who are really good right like and you know so, while I passed, it was like you know didn't feel great at least the rest of that day
 
-[[18:35 - 19:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1115s) **Kieren:**  So for those who are not aware of how a PhD program works, qualifying exam is like one of the last things you need to do before you just do the research and produce the thesis. So sometimes it's a coursework requirement. Sometimes you need to, you know, translate a work from like an academic work from one language to another to show proficiency. I think most of them have dropped those requirements at this point. And so, you know, it's a whole bunch of study, intense prep at Berkeley. It's a three-hour oral exam with a
+**Victor:**  Um, when do you find out the result like
 
-[[19:07 - 19:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1147s) **Kieren:**  couple people from your department and one from an external department and then they give you a pass or not i got a pass thankfully it was a i don't know that it was it was everyone feels bad after their qualifying exam except the people who are really good right like and you know so while i passed it i it was like you know didn't feel great at least the rest of that day um when do you find out the result like immediately oh you do okay you put you in the hall and they tell you Okay, that's good.
+**Kieren:** Immediately
+
+**Victor:** Oh you do okay
+
+**Kieren:** Put you in the hall and they tell you
+
+**Victor:** Okay, that's good.
 
 [[19:38 - 19:40]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1178s) **Kieren:**  So you're just, like, very nervous.
 
 [[19:40 - 19:51]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1180s) **Jim:**  I don't know what it was like for you, but for me it was just, like, three guys I knew. And I was nervous, too, but it wasn't like they had to go and, like, you know, like calculate numbers or something. They just kind of come out and they're like, yeah, yeah.
 
-[[19:52 - 20:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1192s) **Kieren:**  Yeah, exactly. No, it was like that, right? Yeah, it's oral. It's subjective in a sense. But, you know, you've got, like, several of the world's foremost experts, you know, in some subjects so they're able to assess whether you understand it enough or not to proceed with research. So the qualifying exam led to, you know, I needed like a short break from math. I was in mathematical physics and I had almost taken a job working for sort of a data science company that
+[[19:52 - 20:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1192s) **Kieren:**  Yeah, exactly. No, it was like that, right? Yeah, it's oral. It's subjective in a sense. But, you know, you've got, like, several of the world's foremost experts, you know, in some subjects so they're able to assess whether you understand it enough or not to proceed with research. So the qualifying exam led to, you know, I needed like a short break from math. I was in mathematical physics and I had almost taken a job working for sort of a data science company that was taking, I can't quite remember, something having to do with, like, Nielsen TV ratings and doing something with the data and maybe selling it back to networks.
 
-[[20:29 - 20:40]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1229s) **Kieren:**  was taking, I can't quite remember, something having to do with, like, Nielsen TV ratings and doing something with the data and maybe selling it back to networks.
-
-[[20:40 - 20:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1240s) **Kieren:**  I can't remember at this time. But, you know, it seemed like an okay thing. I also wanted to go back to New York for the summer. I'm from New York. And, you know, as with many New Yorkers, it took some time to adapt to the California culture, and I didn't fully do it.
-
-[[20:55 - 21:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1255s) **Kieren:**  I still, you know, I'm prone sometimes to bash the Bay Area, but I still kind of like it there.
+[[20:40 - 20:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1240s) **Kieren:**  I can't remember at this time. But, you know, it seemed like an okay thing. I also wanted to go back to New York for the summer. I'm from New York. And, you know, as with many New Yorkers, it took some time to adapt to the California culture, and I didn't fully do it.  I still, you know, I'm prone sometimes to bash the Bay Area, but I still kind of like it there.
 
 [[21:03 - 21:04]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1263s) **Jim:**  But anyway, I like that, by the way.
 
-[[21:05 - 21:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1265s) **Kieren:**  Yes, yes, Jim's there. I'm in the state of New York at the moment. But, yeah, but, you know, I need a little break, basically. And it ended up being possible to work on the Ethereum project.
-
-[[21:19 - 21:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1279s) **Kieren:**  But so somehow my, you know, I guess I'll go into this somehow. My dad, Joe Lubin, got attached to the projects basically because he was always tracking Bitcoin and blockchain for a long time.
+[[21:05 - 21:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1265s) **Kieren:**  Yes, yes, Jim's there. I'm in the state of New York at the moment. But, yeah, but, you know, I need a little break, basically. And it ended up being possible to work on the Ethereum project.  But so somehow my, you know, I guess I'll go into this somehow. My dad, [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}), got attached to the projects basically because he was always tracking Bitcoin and blockchain for a long time.
 
 [[21:38 - 21:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1298s) **Kieren:**  He had a CS background plus the financial background and ran a hedge fund for a number of years. And so I was just kind of always watching technological innovations in financial services.
 
-[[21:52 - 22:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1312s) **Kieren:**  And I guess always had a little bit of the, you know, blockchain philosophical character in that, you know, let's say pro-freedom, a little bit of a libertarian streak kind of thing.
+[[21:52 - 22:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1312s) **Kieren:**  And I guess always had a little bit of the, you know, blockchain philosophical character in that, you know, let's say pro-freedom, a little bit of a libertarian streak kind of thing. And I believe he happened to just be visiting our families. He's from Toronto. A lot of blockchain people in Toronto for one reason or another and he went, I believe, to, it might have been a Bitcoin meetup at that time or it might have been the first Ethereum meetup but this would have been January, February 2014, I believe and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) was speaking there.  And, you know, like everyone around that time where you see [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) speak about something, you got really excited, right?
 
-[[22:07 - 22:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1327s) **Kieren:**  and i believe he happened to just be visiting our families. He's from Toronto. A lot of blockchain people in Toronto for one reason or another and he went, I believe, to, it might have been a Bitcoin meetup at that time or it might have been the first Ethereum meetup but this would have been January, February 2014, I believe and Vitalik was speaking there And, you know, like everyone around that time where you see Vitalik speak about something, you got really excited, right?
+[[22:48 - 23:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1368s) **Kieren:**  And so he actually got ready to start helping out the project right away. He actually thought for a time that he might be a software developer for the project. And, you know, it didn't turn out that way.  We can go into it a little bit later. But he started working on it, again, let's take February, March. 2014. And so he just sent me the white paper like right after, maybe right before my qualifying exam.  I got a chance to read it. And it was pretty cool and interesting and new. And that's sort of the first time I grasped the potential of technology that caused me to go back and read the Bitcoin white paper, etc.
 
-[[22:48 - 23:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1368s) **Kieren:**  And so he actually got ready to start helping out the project right away. He actually thought for a time that he might be a software developer for the project. And, you know, it didn't turn out that way.
-
-[[23:00 - 23:15]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1380s) **Kieren:**  We can go into it a little bit later. But he started working on it, again, let's take February, March. 2014. And so he just sent me the white paper like right after, maybe right before my qualifying exam.
-
-[[23:15 - 23:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1395s) **Kieren:**  I got a chance to read it. And it was pretty cool and interesting and new. And that's sort of the first time I grasped the potential of technology that caused me to go back and read the Bitcoin white paper, etc.
-
-[[23:27 - 24:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1407s) **Kieren:**  And it was sort of exciting enough to work on for that summer, basically. So that's how I got into it. and subsequently, you know, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) alluded to this earlier, I started to work with the project and reached out to Steve Shue, a great friend of ours, kind of, I don't know, not quite famously brilliant, definitely brilliant, somewhat famous, super cool guy, and had been a longtime reader of Steve's blog.
+[[23:27 - 24:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1407s) **Kieren:**  And it was sort of exciting enough to work on for that summer, basically. So that's how I got into it. and subsequently, you know, [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) alluded to this earlier, I started to work with the project and reached out to [Steve Hsu](https://en.wikipedia.org/wiki/Stephen_Hsu), a great friend of ours, kind of, I don't know, not quite famously brilliant, definitely brilliant, somewhat famous, super cool guy, and had been a longtime reader of [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu)'s blog.
 
 [[24:01 - 24:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1441s) **Kieren:**  He's one of the few really excellent general communicators who's a super technical guy. But most people who are really technical in communication have a hard time distilling it for at least kind of a mass market audience.
 
-[[24:18 - 24:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1458s) **Kieren:**  But Steve is actually good at that, but with nuanced coverage of technical topics. So anyway, caught up with Steve, and that takes us to Steve forwarding on the Ethereum white paper to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
+[[24:18 - 24:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1458s) **Kieren:**  But [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu) is actually good at that, but with nuanced coverage of technical topics. So anyway, caught up with [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu), and that takes us to [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu) forwarding on the Ethereum white paper to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}).
 
-[[24:34 - 24:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1474s) **Kieren:**  And I believe I was – the first time I spoke to Steve, I was in New York, but was just about to go back to the Bay Area. So that takes us to maybe June, July 2014.
+[[24:34 - 24:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1474s) **Kieren:**  And I believe I was – the first time I spoke to [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu), I was in New York, but was just about to go back to the Bay Area. So that takes us to maybe June, July 2014.  And maybe I came back in August or something like that. And it turned out that [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) was there in Hayward, and we got to meet up, what did you do, August 2014, September, something like that?
 
-[[24:48 - 25:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1488s) **Kieren:**  And maybe I came back in August or something like that. And it turned out that [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) was there in Hayward, and we got to meet up, what did you do, August 2014, September, something like that?
+[[25:01 - 25:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1501s) **Jim:**  Oh, it was around then because also, ironically, I was driving across the country that summer, too, and it was right after I came back.  That's part of it.
 
-[[25:01 - 25:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1501s) **Jim:**  Oh, it was around then because also, ironically, I was driving across the country that summer, too, and it was right after I came back.
+[[25:11 - 25:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1511s) **Victor:**  All your life changes are related to some cross-country trip.
 
-[[25:11 - 25:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1511s) **Kieren:**  That's part of it. Life changes are related to some cross-country trip. As you're soul searching, you do a literal search.
+**Kieren:**  As you're soul searching, you do a literal search.
 
 [[25:20 - 25:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1520s) **Jim:**  I was in Montana, and then I was back in the Bay Area, and then we talked.
 
-[[25:27 - 25:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1527s) **Kieren:**  Yeah, okay. How was Montana, by the way? Maybe we shouldn't go. Montana, oddly crypto-friendly. Yeah, makes sense.
+[[25:27 - 25:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1527s) **Kieren:**  Yeah, okay. How was Montana, by the way? Maybe we shouldn't go. Montana, oddly crypto-friendly.
 
-[[25:37 - 25:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1537s) **Kieren:**  Big sky country, right? Big sky country. Okay, so let me see here. I have a couple other 2014 anecdotes that you guys may not even know that much about, but maybe we should jump ahead to 2015 and go back.
+**Victor:** Yeah, makes sense.  Big sky country, right?
 
-[[25:58 - 26:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1558s) **Kieren:**  Just before we go past 2014. So I moved back from China in 2014. And so me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were talking about like, oh, now that I was back, what kind of project could we do together?
+[[25:37 - 25:57]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1537s) **Kieren:** Big sky country. Okay, so let me see here. I have a couple other 2014 anecdotes that you guys may not even know that much about, but maybe we should jump ahead to 2015 and go back.
 
-[[26:14 - 26:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1574s) **Kieren:**  So while you had started that conversation, me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were like thinking about, okay, you know, like maybe we could work on a startup together. And at some point you forwarded me the paper as well. So like I think – so that's kind of how I got into it as well.
+[[25:58 - 26:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1558s) **Victor:**  Just before we go past 2014. So I moved back from China in 2014. And so me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were talking about like, oh, now that I was back, what kind of project could we do together?  So while you had started that conversation, me and [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}) were like thinking about, okay, you know, like maybe we could work on a startup together. And at some point you forwarded me the paper as well. So like I think – so that's kind of how I got into it as well.
 
-[[26:30 - 26:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1590s) **Kieren:**  I want to give – yeah, I don't want to speak the whole time, but I have some info here that I forget if I told you guys at length. Okay, don't worry. In 2014, so basically I did work on the Ethereum project through a bunch of 2014.
+[[26:30 - 26:50]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1590s) **Kieren:**  I want to give – yeah, I don't want to speak the whole time, but I have some info here that I forget if I told you guys at length. Okay, don't worry. In 2014, so basically I did work on the Ethereum project through a bunch of 2014.  As far as tech projects go, it was much more global, a little more European. But you had Canada, I had a bunch of people in Zug, Switzerland, a little bit in Israel in the early days.
 
-[[26:52 - 27:08]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1612s) **Kieren:**  As far as tech projects go, it was much more global, a little more European. But you had Canada, I had a bunch of people in Zug, Switzerland, a little bit in Israel in the early days.
-
-[[27:09 - 27:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named [Steven Nerayoff]({{ '/people/steven-nerayoff/' | relative_url }}), who is now kind of famous.
-
-[[27:21 - 27:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1641s) **Kieren:**  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named [Jonathan]({{ '/people/jonathan-mohan/' | relative_url }}), whose last name I couldn't find when I was writing this down.
+[[27:09 - 27:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named [Steven Nerayoff]({{ '/people/steven-nerayoff/' | relative_url }}), who is now kind of famous.  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named [Jonathan]({{ '/people/jonathan-mohan/' | relative_url }}), whose last name I couldn't find when I was writing this down.
 
 *(Edit: Kieren was thinking of [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}))*
 
 [[27:33 - 27:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1653s) **Kieren:**  But [Jonathan]({{ '/people/jonathan-mohan/' | relative_url }})'s a good guy. and I don't know if they kind of parted ways at some point or, you know, how that all happened. So we're working in this office in Times Square and, you know, really trying to find kind of different ways to advance the project, meeting with lots of people.
 
-[[27:54 - 28:20]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1674s) **Kieren:**  So, you know, that's when I met Steve Hsu, who introduced me to Jim, basically just kind of calling up whoever might be interested. But part of the plans that the Ethereum folks had was, you know, they acknowledged that there would be a need for kind of ongoing peer research and then in addition to more like focused R&D to build the network out.
+[[27:54 - 28:20]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1674s) **Kieren:**  So, you know, that's when I met [Steve Hsu](https://en.wikipedia.org/wiki/Stephen_Hsu), who introduced me to [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}), basically just kind of calling up whoever might be interested. But part of the plans that the Ethereum folks had was, you know, they acknowledged that there would be a need for kind of ongoing pure research and then in addition to more like focused R&D to build the network out.
 
-[[28:20 - 28:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1700s) **Kieren:**  And so Vitalik at some point penned an article about, you know, 10 hard problems in cryptocurrency or something of that nature in which – and I think it was – if we went back now, it would look both, you know, very insightful and a little bit dated.
+[[28:20 - 28:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1700s) **Kieren:**  And so [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) at some point penned an article about, you know, 10 hard problems in cryptocurrency or something of that nature in which – and I think it was – if we went back now, it would look both, you know, very insightful and a little bit dated.  I'm sure some of them have been solved and some of them may not need to be solved because something else emerged. But basically foresaw the need for privacy above and beyond pseudonymity, for instance.
 
-[[28:38 - 28:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1718s) **Kieren:**  I'm sure some of them have been solved and some of them may not need to be solved because something else emerged. but basically foresaw the need for privacy above and beyond pseudonymity, for instance.
+[[28:55 - 29:18]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1735s) **Kieren:**  And many things of that transition from proof of work to proof of stake, or just like energy efficient blockchains, which people were talking about at that time. But my position in academia at that time seemed to be helpful as the the blockchain people were just so different from the academia people, despite both of them being really smart groups of people.
 
-[[28:55 - 29:18]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1735s) **Kieren:**  And many things of that transition from proof of work to proof of mistake, or just like energy efficient blockchains, which people were talking about at that time. But my position in academia at that time seemed to be helpful as the the blockchain people were just so different from the academia people, despite both of them being really smart groups of people.
+[[29:20 - 29:30]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1760s) **Kieren:**  Blockchain people were not worried about doing things through the proper channels and approval and writing it up the right way and all that sort of thing.  Something about academia makes you fearful of being wrong. because you're wrong enough in public there are kind of consequences for it.
 
-[[29:20 - 29:30]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1760s) **Kieren:**  Blockchain people were not worried about doing things through the proper channels and approval and writing it up the right way and all that sort of thing.
+[[29:44 - 30:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1784s) **Kieren:**  I would say the tech attitude in general is like getting something out there, get it to work basically, but get it out and then iterate. Blockchain people had that in an extreme and I would say also Ethereum was much more like that than the Bitcoin culture. The Bitcoin culture was like a bunch of practicing but academic cryptographers who never wanted to change anything and the Ethereum people were more like have like the software and computer science engineering attitude of like, let's get out there. Let's let's tinker with it. Let's kind of see what happens. And those are good arguments for both, especially when we're talking about like a system that custodies, well, not custodies, but, you know, that records a lot of high-value ownership interests and allows them to be transferred.
 
-[[29:30 - 29:43]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1770s) **Kieren:**  Something about academia makes you fearful of being wrong. because you're wrong enough in public there are kind of consequences for it.
-
-[[29:44 - 30:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1784s) **Kieren:**  I would say the tech attitude in general is like getting something out there, get it to work basically, but get it out and then iterate. Blockchain people had that in an extreme and I would say also Ethereum was much more like that than the Bitcoin culture The Bitcoin culture was like a bunch of practicing but academic cryptographers who never wanted to change anything.
-
-[[30:15 - 30:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1815s) **Kieren:**  And the Ethereum people were more like have like the software and computer science engineering attitude of like, let's get out there. Let's let's tinker with it. Let's kind of see what happens. And those are good arguments for both, especially when we're talking about like a system that custodies, well, not custodies, but, you know, that records a lot of high-value ownership interests and allows them to be transferred.
-
-[[30:39 - 30:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1839s) **Kieren:**  But all that is to say it was useful for the Ethereum Foundation to have sort of someone who is actively in academia to kind of work with and coordinate everything. So we agreed to work on a body called the Cryptocurrency Research Group.
-
-[[30:55 - 31:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1855s) **Kieren:**  and that was composed of sort of myself, Vitalik, and our friend Aaron Wright. He's since gone on to a number of Web3 projects, but at the time was a practicing attorney, but also a professor at Cardozo Law School.
+[[30:39 - 30:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1839s) **Kieren:**  But all that is to say it was useful for the Ethereum Foundation to have sort of someone who is actively in academia to kind of work with and coordinate everything. So we agreed to work on a body called the [Cryptocurrency Research Group](https://web.archive.org/web/20180206003702/http://ccrg.org/) and that was composed of sort of myself, [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), and our friend [Aaron Wright](https://x.com/awrigh01). He's since gone on to a number of Web3 projects, but at the time was a practicing attorney, but also a professor at Cardozo Law School.
 
 [[31:14 - 31:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1874s) **Kieren:**  And he came to that Times Square office, which was, you know, not the greatest of offices, I would say, and just sort of really leaned in on Ethereum and kind of helped structure everything so that, you know, it would be kind of the most robust, not just technology, but they actually did kind of a quite good job in figuring out how to set things up that other projects since, you know, certainly did not do as good a job, I'll say.
 
-[[31:48 - 32:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1908s) **Kieren:**  So, you know, it was funny times. And in 2014, I also got to go to Zug. For those who don't know, the Ethereum Foundation was one of the first to be headquartered in Switzerland.
-
-[[32:07 - 32:18]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1927s) **Kieren:**  And it was kind of it's become a very popular choice for crypto foundations, because I guess the Ethereum Foundation sort of blazed the path.
-
-[[32:19 - 32:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1939s) **Kieren:**  And the funny thing about Switzerland is that the kind of local authorities also just seem like business people, like they want to land the future tax revenue and employment.
-
-[[32:31 - 32:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1951s) **Kieren:**  And so you can kind of, one, Switzerland is split into some number of cantons, which are like states, a little smaller than U.S. states, of course. And so you can kind of go from canton to canton and try to get the best offer.
-
-[[32:47 - 33:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1967s) **Kieren:**  And offer really means like, you know, tax treatment, any kind of grants, you're just like, you know, and helping get fast answers around legal questions.
+[[31:48 - 32:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1908s) **Kieren:**  So, you know, it was funny times. And in 2014, I also got to go to Zug. For those who don't know, the Ethereum Foundation was one of the first to be headquartered in Switzerland.  And it was kind of it's become a very popular choice for crypto foundations, because I guess the Ethereum Foundation sort of blazed the path.  And the funny thing about Switzerland is that the kind of local authorities also just seem like business people, like they want to land the future tax revenue and employment.  And so you can kind of. One, Switzerland is split into some number of cantons, which are like states, a little smaller than U.S. states, of course. And so you can kind of go from canton to canton and try to get the best offer and offer really means like, you know, tax treatment, any kind of grants, you're just like, you know, and helping get fast answers around legal questions.
 
 [[33:00 - 33:15]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1980s) **Kieren:**  You know, one of the tough things with the United States is that sometimes you don't know what's allowed. And the Swiss environment, they were fairly clear, you know, about what they wanted for the special tax treatment and, you know, et cetera, et cetera.
 
-[[33:15 - 33:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1995s) **Kieren:**  So we went out and visited Zug, I don't know, mid-late summer 2014, and I got to meet all of the founders of Ethereum at that time.
-
-[[33:32 - 33:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2012s) **Kieren:**  I believe there were kind of eight in total. And, you know, so I think –
+[[33:15 - 33:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=1995s) **Kieren:**  So we went out and visited Zug, I don't know, mid-late summer 2014, and I got to meet all of the founders of Ethereum at that time.  I believe there were kind of eight in total. And, you know, so I think –
 
 [[33:38 - 33:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2018s) **Jim:**  Those numbers changed over time, though, yeah?
 
-[[33:41 - 33:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2021s) **Kieren:**  Those numbers changed, yes. So, well, but yeah, I think so. I don't exactly know how all of it happened, but, you know, Vitalik, there's always a global project. Right. So Vitalik would kind of go around the world and evangelize, get people excited, and they would want to work with the project.
+[[33:41 - 33:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2021s) **Kieren:**  Those numbers changed, yes. So, well, but yeah, I think so. I don't exactly know how all of it happened, but, you know, [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), there's always a global project. Right. So [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) would kind of go around the world and evangelize, get people excited, and they would want to work with the project and so a bunch of folks got attached to it and obviously it worked, right?  But if he were to do it again, I bet he would be a little bit more careful about adding folks to it because eight is just like too many.
 
-[[33:58 - 34:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2038s) **Kieren:**  and so a bunch of folks got attached to it and obviously it worked, right?
+[[34:20 - 34:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2060s) **Kieren:**  Like if you went to a U.S. venture capitalist with a slide that says eight co-founders and they're not all currently running billion-dollar companies, you'd be just laughed out of the room.  And yet it worked, right? It actually functioned. And so kind of the way it broke apart was that there were like the technical element, technical guys.So I think, I don't quite know how this happened, But pretty early on, like [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}), [Jeff Wilcke]({{ '/people/jeff-wilcke/' | relative_url }}) started building out versions of Ethereum, the C++ and Go clients.
 
-[[34:10 - 34:20]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2050s) **Kieren:**  But if he were to do it again, I bet he would be a little bit more careful about adding folks to it because eight is just like too many.
+[[35:05 - 35:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2105s) **Kieren:**  Specifically, we're going to the clients soon because there's good stories there. [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) was building the Python client. They were all working together on technical documentation.
 
-[[34:20 - 34:33]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2060s) **Kieren:**  Like if you went to a U.S. venture capitalist with a slide that says eight co-founders and they're not all currently running billion-dollar companies, you'd be just laughed out of the room.
+[[35:16 - 35:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2116s) **Kieren:**  And the reason that people were building multiple clients was that there was the perception that Bitcoin was controlled and centralized because there's only really one definitive client, bitcoind.  Right. And so there was this kind of huge replication of technical efforts, like each of them eventually got their own teams. There were JavaScript clients. You know, there's many of them kind of came out later.
 
-[[34:33 - 34:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2073s) **Kieren:**  And yet it worked, right? It actually functioned. And so kind of the way it broke apart was that there were like the technical element, technical guys.
+[[35:46 - 35:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2146s) **Kieren:**  And I'd say the project, so the project had sort of tech folks and business folks, like any tech project, didn't really have a nominal CEO at any time.  It was closest to being [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}). So I think at the time I went to Zug, the leadership looked like, on the business side, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) is the CEO.
 
-[[34:48 - 35:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2088s) **Kieren:**  So I think, I don't quite know how this happened, But pretty early on, like Gavin Wood, Jeff Wilkie started building out versions of Ethereum, the C++ and Go clients.
+[[36:17 - 36:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2177s) **Kieren:**  [Amir Chetrit]({{ '/people/amir-chetrit/' | relative_url }}), who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. [Joe]({{ '/people/joseph-lubin/' | relative_url }}), my dad, and [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) as the other business guys who probably had the most operating experience.
 
-[[35:05 - 35:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2105s) **Kieren:**  Specifically, we're going to the clients soon because there's good stories there. Vitalik was building the Python client. They were all working together on technical documentation.
+[[36:38 - 36:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2198s) **Kieren:**  And then the tech side was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}), [Gavin]({{ '/people/gavin-wood/' | relative_url }}), and then [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) had sort of done corporate setup.
 
-[[35:16 - 35:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2116s) **Kieren:**  And the reason that people were building multiple clients was that there was the perception that Bitcoin was controlled and centralized because there's only really one definitive client, Bitcoin D.
+[[36:49 - 37:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2209s) **Kieren:**  I believe [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) worked with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on Bitcoin Magazine. So [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) very interesting character where most of the time your technical geniuses Are not good communicators And he was sort of A journalist running Bitcoin Magazine writing a lot of the articles Good if he started it Or kind of joined it And you know he would I think he kind of crowdfunded the articles a little bit like for you know if I can get a pledge of one Bitcoin, I'll write an article about X, you know. And at the time, bitcoin was inexpensive. But, you know, those values went up, and I think it actually ended up being a good funding mechanism.  You know, the articles he wrote in the future, and it led him to kind of have a sort of impartial thought leader position in addition to his really strong technical ability and the ideas he was generating, et cetera.
 
-[[35:29 - 35:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2129s) **Kieren:**  Right. And so there was this kind of huge replication of technical efforts, like each of them eventually got their own teams. There were JavaScript clients. You know, there's many of them kind of came out later.
+[[37:47 - 37:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2267s) **Kieren:**  And I know he had joined a bunch of projects early on and helped work with them. Like, I think [Mastercoin](https://www.omnilayer.org/) was maybe the first colored coin project.
 
-[[35:46 - 35:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2146s) **Kieren:**  And I'd say the project, so the project had sort of tech folks and business folks, like any tech project, didn't really have a nominal CEO at any time.
-
-[[35:59 - 36:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2159s) **Kieren:**  It was closest to being Charles Hoskinson. So I think at the time I went to Zouk, the leadership looked like, on the business side, Charles is the CEO.
-
-[[36:17 - 36:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2177s) **Kieren:**  Amir Chitrit, who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. Joe, my dad, and Anthony DiIorio as the other business guys who probably had the most operating experience.
-
-[[36:38 - 36:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2198s) **Kieren:**  And then the tech side was Vitalik, Jeff, Gavin, and then Mihai had sort of done corporate setup.
-
-[[36:49 - 37:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2209s) **Kieren:**  I believe Mihai worked with Vitalik on Bitcoin Magazine. So Vitalik Very interesting character Where most of the time your technical geniuses Are not good communicators And he was sort of A journalist running Bitcoin Magazine writing a lot of the articles Good if he started it Or kind of joined it And you know he would I think he kind of crowdfunded The articles a little bit
-
-[[37:19 - 37:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2239s) **Kieren:**  Like for you know if I can get a pledge of one Bitcoin, I'll write an article about X, you know. And at the time, Bitcoin was inexpensive. But, you know, those values went up, and I think it actually ended up being a good funding mechanism.
-
-[[37:34 - 37:47]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2254s) **Kieren:**  You know, the articles he wrote in the future, and it led him to kind of have a sort of impartial thought leader position in addition to his really strong technical ability and the ideas he was generating, et cetera.
-
-[[37:47 - 37:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2267s) **Kieren:**  And I know he had joined a bunch of projects early on and helped work with them. Like, I think MasterCoin was maybe the first colored coin project.
+*Editor: Mastercoin was later rebranded to Omni, and was the "rails" which carried [Tether](https://tether.to/) for many years*
 
 [[37:58 - 38:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2278s) **Kieren:**  He did some work on that. So anyway, so those were the eight at the time. And there was a meeting for everyone to kind of get on the same page.
 
-[[38:10 - 38:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2290s) **Kieren:**  You know, remote project, there was a Slack. People were maybe working a little bit at cross purposes. There's lots of infighting. People are stressed. They're trying to deliver on this, like, awesome concept that Vitalik put out there.
+[[38:10 - 38:24]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2290s) **Kieren:**  You know, remote project, there was a Slack. People were maybe working a little bit at cross purposes. There's lots of infighting. People are stressed. They're trying to deliver on this, like, awesome concept that [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) put out there.
 
-[[38:24 - 38:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2304s) **Kieren:**  And then everyone kind of tried to grab ownership of. Like, was there a reason to have all these different clients? You know, in the end, empirically, it worked, right? But a little bit of it was a I want, you know, Ethereum to be mine sort of thing.
+[[38:24 - 38:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2304s) **Kieren:**  And then everyone kind of tried to grab ownership of, like, was there a reason to have all these different clients? You know, in the end, empirically, it worked, right? But a little bit of it was a I want, you know, Ethereum to be mine, sort of thing.
 
 [[38:39 - 38:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2319s) **Kieren:**  And I saw this in the room when we were visiting there. Basically, it was quite dramatic, the trip.
 
@@ -442,13 +374,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[48:10 - 48:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2890s) **Jim:**  And I was like, what are they talking about? And so the only way I was going to really understand this stuff, I thought, was to literally just start, like, writing code. And so, you know, you can't hide what's happening.
 
-[[48:21 - 48:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2901s) **Jim:**  Once you have, like, so I talked about the white paper, but Gavin Wood had put up a yellow paper at the same time, which talked about the technical details of the innards. And so I started looking through that and implementing that in my favorite language, Haskell.
+[[48:21 - 48:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2901s) **Jim:**  Once you have, like, so I talked about the white paper, but [Gavin Wood]({{ '/people/gavin-wood/' | relative_url }}) had put up a yellow paper at the same time, which talked about the technical details of the innards. And so I started looking through that and implementing that in my favorite language, Haskell.
 
 [[48:35 - 48:53]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2915s) **Jim:**  and bit by bit putting the whole EVM in Haskell code. So that's what most of the end of the year was like until I think in December I was – so I'm from the East Coast myself.
 
-[[48:54 - 49:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2934s) **Jim:**  And we flew – sorry. We flew out to New York, and I met – you introduced me. You were there at the time too. You introduced me to Joe Lubin.
+[[48:54 - 49:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2934s) **Jim:**  And we flew – sorry. We flew out to New York, and I met – you introduced me. You were there at the time too. You introduced me to [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}).
 
-[[49:06 - 49:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2946s) **Jim:**  And actually, I think before that, too, you had set up phone calls where I talked to Vitalik and Joe directly, too. So, and just more and more with the fact that we had had a working client, that we were sort of following very closely all the changes in the testnet era before things were solidified.
+[[49:06 - 49:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2946s) **Jim:**  And actually, I think before that, too, you had set up phone calls where I talked to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and [Joe]({{ '/people/joseph-lubin/' | relative_url }}) directly, too. So, and just more and more with the fact that we had had a working client, that we were sort of following very closely all the changes in the testnet era before things were solidified.
 
 [[49:28 - 49:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2968s) **Jim:**  We just got pulled more and more into that world. and I think like one of the big things sorry
 
@@ -550,7 +482,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:01:24 - 1:01:35]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3684s) **Kieren:**  Gotcha. Yeah, yeah. It was wild. So, and I'm struggling to remember the timing on all of this.
 
-[[1:01:35 - 1:01:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3695s) **Kieren:**  Actually, no, I'll go to kind of CryptoEconomicon first. and then so now we're going into January or so 2015 so a couple times Vitalik visits the Bay Area a bunch did you remember, we went to a couple meetups with Vitalik, did we not?
+[[1:01:35 - 1:01:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3695s) **Kieren:**  Actually, no, I'll go to kind of CryptoEconomicon first. and then so now we're going into January or so 2015 so a couple times [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) visits the Bay Area a bunch did you remember, we went to a couple meetups with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), did we not?
 
 [[1:02:01 - 1:02:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3721s) **Kieren:**  he was
 
@@ -568,13 +500,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:03:05 - 1:03:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3785s) **Kieren:**  Yeah. But so I can't even remember quite how we got the idea, but we were talking about, for whatever reason, a bunch of people were going to be in the Bay Area late January 2015.
 
-[[1:03:22 - 1:03:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3802s) **Kieren:**  and we decided to and I had also, so through Steve through Ben Lorica, who was a great guy who was at the time sort of the, I think he was head of data science but also really the kind of head of content for O'Reilly's conferences and that sort of thing we booked a conference at Fort Mason and I had a co-host named Lorne Lance, also running a crypto startup these days, I believe.
+[[1:03:22 - 1:03:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3802s) **Kieren:**  and we decided to and I had also, so through [Steve](https://en.wikipedia.org/wiki/Stephen_Hsu) through [Ben Lorica](https://x.com/bigdata), who was a great guy who was at the time sort of the, I think he was head of data science but also really the kind of head of content for O'Reilly's conferences and that sort of thing we booked a conference at Fort Mason and I had a co-host named [Lorne Lantz](https://x.com/Lornestar), also running a crypto startup these days, I believe.
 
 [[1:03:54 - 1:04:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3834s) **Kieren:**  Also a great guy. And we – so given that the conference was on the calendar and we knew a bunch of people, in part for the conference, but I think something else was going on too, would be in the Bay Area at that time.
 
 [[1:04:07 - 1:04:18]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3847s) **Kieren:**  We decided to run kind of a parallel technical conference that week, which we named the verbose Crypto Economicon.
 
-[[1:04:18 - 1:04:45]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3858s) **Kieren:**  on. I think the term crypto economics either was invented or popularized by Vitalik. There's also this guy named Vlad, I don't know quite how to pronounce his last name, who's working a lot with Vitalik on proof of stake and other things and went on to start his own, I think, fairly successful crypto project, the name of which is currently escaping me. Well, he was on proof of stake for a long time, right? Like, then he...
+[[1:04:18 - 1:04:45]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3858s) **Kieren:**  on. I think the term crypto economics either was invented or popularized by [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}). There's also this guy named Vlad, I don't know quite how to pronounce his last name, who's working a lot with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on proof of stake and other things and went on to start his own, I think, fairly successful crypto project, the name of which is currently escaping me. Well, he was on proof of stake for a long time, right? Like, then he...
 
 [[1:04:45 - 1:04:51]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=3885s) **Kieren:**  He did. Yeah, but I think he... Yeah, I think he did it for the foundation for a while, but then started his own thing sometime later.
 
@@ -604,7 +536,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:07:18 - 1:07:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4038s) **Kieren:**  I'm trying to even remember who all was on it. Okay, I actually looked this up. So the participants, like, it was a very small group of people, like, I think 20, 25. But among that group of people was, so, yeah, Vladivit Proof of Stake was there.
 
-[[1:07:37 - 1:07:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4057s) **Kieren:**  Vitalik was there. So, you know, Gavin was there who was working on Ethereum but later went on to do PokéDoc. Dominic, who went to do, you know, Internet Computer, was there. I think Jaquan was there.
+[[1:07:37 - 1:07:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4057s) **Kieren:**  [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) was there. So, you know, [Gavin]({{ '/people/gavin-wood/' | relative_url }}) was there who was working on Ethereum but later went on to do PokéDoc. Dominic, who went to do, you know, Internet Computer, was there. I think Jaquan was there.
 
 [[1:07:48 - 1:07:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4068s) **Jim:**  Jaquan was there.
 
@@ -646,7 +578,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:11:23 - 1:11:23]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4283s) :  Yes.
 
-[[1:11:24 - 1:11:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4284s) **Kieren:**  Yeah. It was, yeah, there's quite a room of people. We had some other, we had, so Robin's also a bit of a futurist. We had another kind of, quote, futurist guy named Steve Omohundro.
+[[1:11:24 - 1:11:36]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4284s) **Kieren:**  Yeah. It was, yeah, there's quite a room of people. We had some other, we had, so Robin's also a bit of a futurist. We had another kind of, quote, futurist guy named [Steve Omohundro](https://en.wikipedia.org/wiki/Steve_Omohundro).
 
 [[1:11:36 - 1:11:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4296s) **Kieren:**  I don't know how to pronounce it. He's a super smart guy as well. And I've not really spoken to him in a long time. but it was, I think there was this, you know, an energy in the air that was quite palpable.
 
@@ -736,7 +668,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:21:53 - 1:22:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4913s) **Jim:**  Oh, well, I remember SyncSpeed was... Okay, so... Yeah. Yeah. You know, there were kind of like two tiers of software developers in the original sort of test net.
 
-[[1:22:10 - 1:22:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4930s) **Jim:**  There were like those who were around from the beginning. I was not in that group, you know, again, driving around country. but so and that included I guess Python which was Vitalik's C++ and Geff were first year was there another first year I'm trying to remember
+[[1:22:10 - 1:22:31]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4930s) **Jim:**  There were like those who were around from the beginning. I was not in that group, you know, again, driving around country. but so and that included I guess Python which was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})'s C++ and Geff were first year was there another first year I'm trying to remember
 
 [[1:22:31 - 1:22:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4951s) **Kieren:**  I think those were the three like foundation less sponsored ones was in the original group but then it got kind of Pulled out, perhaps?
 
@@ -746,7 +678,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:23:12 - 1:23:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=4992s) **Jim:**  Don't know if I got that right. but so yeah so Roman was the Java client what was Roman's last name?
 
-[[1:23:22 - 1:23:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5002s) **Kieren:**  Mandelay I don't know how to pronounce it M-A-N-D-E-L E-I-L something like that it was Roman who did Java Gavin was doing C++ and Jeff was doing Go
+[[1:23:22 - 1:23:37]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5002s) **Kieren:**  Mandelay I don't know how to pronounce it M-A-N-D-E-L E-I-L something like that it was Roman who did Java, [Gavin]({{ '/people/gavin-wood/' | relative_url }}) was doing C++ and [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) was doing Go
 
 [[1:23:37 - 1:23:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5017s) :  I think
 
@@ -766,13 +698,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:25:28 - 1:25:53]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5128s) **Kieren:**  treating it like this was like a spacecraft launch. You had to really stress test it because it's going to be the new world computer. And so in some ways, while the development was far more incremental than like a Bitcoin, there was still very stringent and perhaps unrealistic scenario testing that was going on before the launch.
 
-[[1:25:54 - 1:26:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5154s) **Kieren:**  I think one thing that's kind of interesting about it also is that It was very meritocratic, right? And, like, there was all this competition going on. But even though like you know Gavin was technically CTO and you know Vitalik is obvious Vitalik But like they didn win Like the one that won was Jeff Go client You could imagine in any other scenario they could have just put their foot down and said no, we're going to go with Python or no, we're going to go with C++.
+[[1:25:54 - 1:26:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5154s) **Kieren:**  I think one thing that's kind of interesting about it also is that It was very meritocratic, right? And, like, there was all this competition going on. But even though like you know Gavin was technically CTO and you know [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) is obvious [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) But like they didn win Like the one that won was [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) Go client You could imagine in any other scenario they could have just put their foot down and said no, we're going to go with Python or no, we're going to go with C++.
 
 [[1:26:25 - 1:26:30]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5185s) **Kieren:**  But they went with the one that actually performed the best and was doing the best.
 
-[[1:26:31 - 1:26:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5191s) **Jim:**  It was a surprise to me. I was always treating C++ as the reference client. And Gavin was sort of more of a spokesman over there at the time.
+[[1:26:31 - 1:26:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5191s) **Jim:**  It was a surprise to me. I was always treating C++ as the reference client. And [Gavin]({{ '/people/gavin-wood/' | relative_url }}) was sort of more of a spokesman over there at the time.
 
-[[1:26:42 - 1:26:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5202s) **Jim:**  Jeff was sort of quieter. And at the last minute, I think there was some discussion about they needed to go through a security audit.
+[[1:26:42 - 1:26:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5202s) **Jim:**  [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) was sort of quieter. And at the last minute, I think there was some discussion about they needed to go through a security audit.
 
 [[1:26:55 - 1:27:07]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5215s) **Jim:**  And the story I heard, I don't know if it's true or not, is that they chose to do Geth first, thinking that C++ would be the last thing, and they would put that out there. But he kind of quietly went through that.
 
@@ -780,7 +712,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:27:19 - 1:27:28]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5239s) **Jim:**  C++ was changing a lot, and so often I would start it, and, oh, it's not working today. I think that plus the security audit pushed it over, and people used that one a lot.
 
-[[1:27:30 - 1:27:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5250s) **Kieren:**  Yeah, yeah, I have a similar memory. And, of course, Gavin went on later to create Parity, the Rust version, which I think got pretty popular.
+[[1:27:30 - 1:27:41]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5250s) **Kieren:**  Yeah, yeah, I have a similar memory. And, of course, [Gavin]({{ '/people/gavin-wood/' | relative_url }}) went on later to create Parity, the Rust version, which I think got pretty popular.
 
 [[1:27:41 - 1:27:54]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5261s) **Kieren:**  I'm not quite sure where it stands today. So talking about security, I want to hone in on the theme of the shifting launch date.
 
@@ -840,7 +772,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:33:14 - 1:33:27]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5594s) **Kieren:**  They built, okay, so there were many different, I think I said, there was Serpent, which was the Python-like language that compiled EVM. There's Solidity, which won.
 
-[[1:33:29 - 1:33:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5609s) **Kieren:**  C++ lost, but Solidity won. And Solidity was kind of put together by Gavin. It's sort of a C, JavaScript-looking language.
+[[1:33:29 - 1:33:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5609s) **Kieren:**  C++ lost, but Solidity won. And Solidity was kind of put together by [Gavin]({{ '/people/gavin-wood/' | relative_url }}). It's sort of a C, JavaScript-looking language.
 
 [[1:33:41 - 1:33:44]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5621s) **Kieren:**  There was another one. LL. Yeah, LL.
 
@@ -1030,8 +962,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:52:03 - 1:52:15]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6723s) **Kieren:**  And then like a kind of overconfidence and then, you know, a tightening. but then, you know, real technical stuff gets done in the tightening. It's funny how that pattern has played out so many times now.
 
-[[1:52:16 - 1:52:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6736s) **Jim:**  Yeah, exactly. We'll tell you about the time we saw Vitalik threw his shirt at someone.
+[[1:52:16 - 1:52:22]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6736s) **Jim:**  Yeah, exactly. We'll tell you about the time we saw [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) threw his shirt at someone.
 
-[[1:52:23 - 1:52:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6743s) **Kieren:**  Oh, that's a good story. Yes, the Vitalik shirt story is a good one. All righty, let's end it here. Thanks, guys. You know, we're doing this recording on a Sunday.
+[[1:52:23 - 1:52:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6743s) **Kieren:**  Oh, that's a good story. Yes, the [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) shirt story is a good one. All righty, let's end it here. Thanks, guys. You know, we're doing this recording on a Sunday.
 
 [[1:52:34 - 1:52:39]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=6754s) **Kieren:**  Hope it entertains and informs the wider world. and we'll see you next time.

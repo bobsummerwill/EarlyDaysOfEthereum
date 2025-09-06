@@ -264,7 +264,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[36:38 - 36:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2198s) **Kieren:**  And then the tech side was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}), [Gavin]({{ '/people/gavin-wood/' | relative_url }}), and then [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) had sort of done corporate setup.
 
-[[36:49 - 37:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2209s) **Kieren:**  I believe [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) worked with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on Bitcoin Magazine. So [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) very interesting character where most of the time your technical geniuses Are not good communicators And he was sort of A journalist running Bitcoin Magazine writing a lot of the articles Good if he started it Or kind of joined it And you know he would I think he kind of crowdfunded the articles a little bit like for you know if I can get a pledge of one Bitcoin, I'll write an article about X, you know. And at the time, bitcoin was inexpensive. But, you know, those values went up, and I think it actually ended up being a good funding mechanism.  You know, the articles he wrote in the future, and it led him to kind of have a sort of impartial thought leader position in addition to his really strong technical ability and the ideas he was generating, et cetera.
+[[36:49 - 37:19]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2209s) **Kieren:**  I believe [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) worked with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on Bitcoin Magazine. So [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) very interesting character where most of the time your technical geniuses Are not good communicators And he was sort of A journalist running Bitcoin Magazine writing a lot of the articles Good if he started it Or kind of joined it And you know he would I think he kind of crowdfunded the articles a little bit like for you know if I can get a pledge of one Bitcoin, I'll write an article about X, you know. And at the time, bitcoin was inexpensive. But, you know, those values went up, and I think it actually ended up being a good funding mechanism.  You know`.300, the articles he wrote in the future, and it led him to kind of have a sort of impartial thought leader position in addition to his really strong technical ability and the ideas he was generating, et cetera.
 
 [[37:47 - 37:58]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2267s) **Kieren:**  And I know he had joined a bunch of projects early on and helped work with them. Like, I think [Mastercoin](https://www.omnilayer.org/) was maybe the first colored coin project.
 
@@ -276,35 +276,35 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[38:24 - 38:38]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2304s) **Kieren:**  And then everyone kind of tried to grab ownership of, like, was there a reason to have all these different clients? You know, in the end, empirically, it worked, right? But a little bit of it was a I want, you know, Ethereum to be mine, sort of thing.
 
-[[38:39 - 38:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2319s) **Kieren:**  And I saw this in the room when we were visiting there. Basically, it was quite dramatic, the trip.
+[[38:39 - 38:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2319s) **Kieren:**  And I saw this in the room when we were visiting there. Basically, it was quite dramatic, the trip.  So basically on this trip, everyone went outside at some point, and people were kind of a little bit sick. The tech people were sick of what the business people were doing to some extent.
 
-[[38:53 - 39:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2333s) **Kieren:**  So basically on this trip, everyone went outside at some point, and people were kind of a little bit sick. The tech people were sick of what the business people were doing to some extent.
-
-[[39:06 - 39:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2346s) **Kieren:**  There's always this tension. It's probably especially early in the company where the tech people are like, what do I need you, business guy, for? Like, we're going to make this thing, and it's, like, going to get out there.
+[[39:06 - 39:16]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2346s) **Kieren:**  There's always this tension. It's probably especially early in a company where the tech people are like, what do I need you, business guy, for? Like, we're going to make this thing, and it's, like, going to get out there.
 
 [[39:17 - 39:30]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2357s) **Kieren:**  And the business people, you know, have to go raise the money, find sales, find partnerships, et cetera. And it's subjective stuff that the tech people don't like or sometimes understand.
 
-[[39:31 - 39:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2371s) **Kieren:**  And more or less this happened, you know, people were uncomfortable with kind of promises that Charles was making and just the accusations. I don't really even, you know, I know Charles some, but I don't even really know what was going on at that time.
+[[39:31 - 39:49]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2371s) **Kieren:**  And more or less this happened, you know, people were uncomfortable with kind of promises that [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was making and just the accusations. I don't really even, you know, I know [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) some, but I don't even really know what was going on at that time.
 
 [[39:50 - 40:05]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2390s) **Kieren:**  But there was this general sense of frustration with him. He also seems to be in some ways executing well on like an effective smart business strategy, but maybe over-promising what's possible to the point of freaking people out.
 
 [[40:05 - 40:17]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2405s) **Kieren:**  And we kind of seen later, you know, I think some of the stuff with Cardano was probably at least aggressive, I would say. But, you know, the jury was not out at that time in my eyes, right?
 
-[[40:19 - 40:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2419s) **Kieren:**  And Amir also was in Target because I think people just thought he wasn't doing enough, it sounded like. And so they were both jettisoned from the project in Zug.
+[[40:19 - 40:29]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2419s) **Kieren:**  And [Amir]({{ '/people/amir-chetrit/' | relative_url }}) also was in target because I think people just thought he wasn't doing enough, it sounded like. And so they were both jettisoned from the project in Zug.
 
 [[40:30 - 40:45]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2430s) **Kieren:**  And I was like, they were like out on the terrace. They had like a nice sort of loft that they rented that was like the Ethereum dev house in Zug. And so I'm like watching this happen and, you know, it was kind of quite crazy.
 
 [[40:46 - 40:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2446s) **Kieren:**  And then actually they instated two more co-founders, so to speak, right then who kind of jumped on board the project and helped out. It was like a fun and kind of crazy trip.
 
+*This is referring to [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) and [Stephan]({{ '/people/stephan-tual/' | relative_url }}), but they were added to the leadership group, not as co-Founders.*
+
 [[40:59 - 41:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2459s) **Kieren:**  Otherwise, you know, we went out in Zurich. Some people got in trouble with the cops. I won't add more detail to that. But Zurich's a funny place where in the U.S. we're not used to people drinking on the street.
 
 [[41:11 - 41:21]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2471s) **Kieren:**  And in Zurich, everyone drinks on the street and a few people are in the bars. You know, it was a strange experience. We went on some hikes, you know, to a very nice part of the world, Switzerland.
 
-[[41:21 - 41:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2481s) **Kieren:**  But plenty of drama, you know, in the early days. I remember having a funny conversation with Mihai about, like, he had this book about, like, swarm behavior. And, you know, he learned I had a mathematical background.
+[[41:21 - 41:34]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2481s) **Kieren:**  But plenty of drama, you know, in the early days. I remember having a funny conversation with [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) about, like, he had this book about, like, swarm behavior. And, you know, he learned I had a mathematical background.
 
 [[41:34 - 41:46]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2494s) **Kieren:**  We're talking about, like, the mathematics of swarms and all that sort of thing. But, yeah, it felt nascent, intense, but disorganized.
 
-[[41:47 - 41:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2507s) **Kieren:**  They were also grappling with the decision on initially they wanted to have a nonprofit protocol and a for-profit. They called it a crypto Google at the time to sort of monetize the nonprofit protocol.
+[[41:47 - 41:59]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2507s) **Kieren:**  They were also grappling with the decision on initially they wanted to have a nonprofit protocol and a for-profit. They called it a crypto-Google at the time to sort of monetize the nonprofit protocol.
 
 [[41:59 - 42:11]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2519s) **Kieren:**  And plenty of blockchain companies have gone and done that sort of thing subsequently. But that was also decided at that meeting that they would be all not for profit.
 
@@ -312,11 +312,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[42:25 - 42:40]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2545s) **Kieren:**  I think everyone sort of went off and did start their own businesses. So, you know, it is what it is. But anyways, let me pause and see if you got to tell this whole story, you know, to you guys at any point.
 
-[[42:40 - 42:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2560s) **Kieren:**  I think you told parts of it, not the entire thing. But yes, I didn't realize the sort of Game of Thrones aspect happened in all of that period, short period of time.
+[[42:40 - 42:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2560s) **Victor:**  I think you told parts of it, not the entire thing. But yes, I didn't realize the sort of Game of Thrones aspect happened in all of that period, short period of time.
 
-[[42:52 - 43:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2572s) **Kieren:**  You know, that like I knew that all that had happened behind the scenes. I think it was all like I think it was going on continually, but it came to a head all in this one meeting.
+[[42:52 - 43:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2572s) **Victor**  You know, that like I knew that all that had happened behind the scenes.
 
-[[43:03 - 43:14]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2583s) **Kieren:**  So the funny memory. We said Bitcoin Suisse was getting off the ground at that time. And we met with a guy named Nicholas, I believe, who maybe was the CEO or one of the founders.
+**Kieren:** I think it was all like I think it was going on continually, but it came to a head all in this one meeting.  So the funny memory. We said Bitcoin Suisse was getting off the ground at that time. And we met with a guy named Nicholas, I believe, who maybe was the CEO or one of the founders.
+
+*(This will have been [Niklas Nikolajsen](https://x.com/nikolajsen_btcs))*
 
 [[43:15 - 43:26]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2595s) **Kieren:**  I just Googled it. It says founder. There's a different CEO now. But he made this funny. He's a nice guy. and I think something happened there. I'm not quite sure. He made this funny comment. We were in an elevator.
 
@@ -326,23 +328,21 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[43:50 - 43:55]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2630s) **Jim:**  I know, sometimes I think things get grandfathered in. Like some of those subway platforms in New York are pretty terrifying too.
 
-[[43:56 - 44:00]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2636s) **Kieren:**  They are, certainly, yeah. It could just be that it's older there, right?
-
-[[44:01 - 44:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2641s) :  That makes sense.
+[[43:56 - 44:0q]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2636s) **Kieren:**  They are, certainly, yeah. It could just be that it's older there, right?
 
 [[44:02 - 44:12]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2642s) **Kieren:**  But, yes, I think the big, other than some Zug, you know, basically what we saw, or let me see, there was growing momentum around the project.
 
-[[44:13 - 44:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2653s) **Kieren:**  Lots of people all over the world kind of working on it. Stuff was probably not tightly papered. papered. There's no employment agreements probably at that time. It was like, but there was really intense excitement.
+[[44:13 - 44:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2653s) **Kieren:**  Lots of people all over the world kind of working on it. Stuff was probably not tightly papered. papered. There's no employment agreements probably at that time. It was like, but there was really intense excitement, and, I think, the belief that everyone was going to be mega successful out of it one way or another. It's been kind of interesting to watch.  [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}), do you want to talk about getting into it? I alluded to all the different clients of Ethereum and the reason why there was more than one.  Do you want to tell your report of that part now?
 
-[[44:26 - 44:48]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2666s) **Kieren:**  I think the belief that everyone was going to be mega successful out of it one way or another. It's been kind of interesting to watch. Jim, do you want to talk about getting into it? I alluded to all the different clients of Ethereum and the reason why there was more than one.
+[[44:53 - 45:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2693s) **Jim:**  Well, this part of the story, you know, when you were doing all that stuff I was too busy driving around the country But I came back
 
-[[44:49 - 44:52]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2689s) **Kieren:**  Do you want to tell your report of that part now?
+**Kieren:**  You come back a little later like two three months later right
 
-[[44:53 - 45:10]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2693s) **Jim:**  Well, this part of the story, you know, when you were doing all that stuff I was too busy driving around the country But I came back You come back a little later like two three months later right Yeah right at the end of the summer right when you were coming back I think And that's when I got really interested in it.
+**Jim:**  Yeah right at the end of the summer right when you were coming back I think and that's when I got really interested in it.
 
 [[45:10 - 45:25]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2710s) **Jim:**  I remember, like, the whole culture. So I got fascinated with the technology when I read the white paper. That's when I realized this was something big. And I wanted to immerse myself into the world a little bit, but it was a foreign culture to me.
 
-[[45:25 - 45:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2725s) **Jim:**  Like we decided to, so Natasha, my wife and I, we decided just to see what this world was like. We'd try buying a little Bitcoin. And I remember we sort of, we looked a little bit at the various ways to do it.
+[[45:25 - 45:42]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2725s) **Jim:**  Like we decided to, so [Natasha](https://www.linkedin.com/in/natasha-hormuzdiar-617547124/), my wife and I, we decided just to see what this world was like. We'd try buying a little bitcoin. And I remember we sort of, we looked a little bit at the various ways to do it.
 
 [[45:42 - 46:01]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=2742s) **Jim:**  And the way we decided on was to meet someone in a coffee shop in the middle of Berkeley. And we got there and he was totally the stereotype. The dude was walking around with, like, the five-toed shoes, and we kind of, like, it all felt very salacious.
 
@@ -742,7 +742,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:30:40 - 1:30:51]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5440s) **Kieren:**  and it got moved up to maybe July 2015. So we're sitting there in March. We're like, oh, you're telling us the thing is going to launch in 2016.
 
-[[1:30:51 - 1:31:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5451s) **Kieren:**  Like, should we be doing this? And then it moves up. And it was great that it moved up. Jim, do you recall, do you remember how you predicted roughly when it would launch?
+[[1:30:51 - 1:31:03]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5451s) **Kieren:**  Like, should we be doing this? And then it moves up. And it was great that it moved up. [Jim]({{ '/people/james-hormuzdiar/' | relative_url }}), do you recall, do you remember how you predicted roughly when it would launch?
 
 [[1:31:05 - 1:31:06]](https://www.youtube.com/watch?v=EuXc6WPrK_k&t=5465s) **Jim:**  No, I'm not sure what you were referring to.
 

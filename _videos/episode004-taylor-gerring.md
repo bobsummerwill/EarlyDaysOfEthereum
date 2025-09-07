@@ -148,8 +148,6 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }}" style="width: 75%; height: auto;">
-
 **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 
 **Bob:** Right.  Then I'm just looking in March, the March photos. "Charles bought dinner for 10 people on March 1st". Watching Fight Club.

@@ -42,3 +42,4 @@ node_modules/
 .env.production.local
 
 venv
+venv311

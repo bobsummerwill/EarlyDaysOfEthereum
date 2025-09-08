@@ -11,7 +11,6 @@ description: "Texture was Ethereum's first 'community guy' and shared his unique
 Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), which will be replaced with a YouTube video when we have that uploaded.
 
 
-
 ## Transcript
 
 <div class="table-of-contents">

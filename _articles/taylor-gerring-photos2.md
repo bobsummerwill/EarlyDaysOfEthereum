@@ -8,14 +8,14 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 
 ----
-*“Charles bought dinner for 10 people that night. This was the first time I remember eating out after sleeping on the floor for a month. The bill was 100s of Swiss Francs and little did we know—none of us would be paid for months to come” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 1, 2022](https://twitter.com/TaylorGerring/status/1498782352062963714)*
+*“[Charles]({{ '/people/charles-hoskinson/' | relative_url }}) bought dinner for 10 people that night. This was the first time I remember eating out after sleeping on the floor for a month. The bill was 100s of Swiss Francs and little did we know—none of us would be paid for months to come” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 1, 2022](https://twitter.com/TaylorGerring/status/1498782352062963714)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1498782352062963714/1498782352062963714_1.jpg" style="width:75%;">
 
 
 ----
-*“Watching “Fight Club” in the loft of Ethereum’s Swiss AirBnB in 2014
-@MihaiAlisie @RoxanaSureanu @IOHK_Charles @lorenzopatuzzo” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 2, 2022](https://twitter.com/TaylorGerring/status/1499046474100969473)*
+*“Watching “Fight Club” in the loft of Ethereum’s Swiss AirBnB in 2014 - 
+[Mihai]({{ '/people/mihai-alisie/' | relative_url }}), [Roxana]({{ '/people/roxana-sureanu/' | relative_url }}), [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), [Lorenzo]({{ '/people/lorenzo-patuzzo' | relative_url }})” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 2, 2022](https://twitter.com/TaylorGerring/status/1499046474100969473)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1499046474100969473/1499046474100969473_1.jpg" style="width:75%;">
 
@@ -30,7 +30,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 
 ----
-*“Back in the AirBnB since we had no furniture in the Spaceship. Jeremy Wood is in the foreground and you can see blankets hanging from over the loft. These would be our final nights in Meierskappel.” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 4, 2022](https://twitter.com/TaylorGerring/status/1499923987459198977)*
+*“Back in the AirBnB since we had no furniture in the Spaceship. [Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }}) is in the foreground and you can see blankets hanging from over the loft. These would be our final nights in Meierskappel.” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 4, 2022](https://twitter.com/TaylorGerring/status/1499923987459198977)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1499923987459198977/1499923987459198977_1.jpg" style="width:75%;">
 
@@ -67,7 +67,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 
 ----
-*“Lorenzo was maligned for being “non-technical” but did things the rest of us wouldn’t. Here, he was building walls to make a 4th room.  ISO 80; 30mm; f2.2; 1/30s” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 7, 2022](https://twitter.com/TaylorGerring/status/1500875554026926082)*
+*“[Lorenzo]({{ '/people/lorenzo-patuzzo' | relative_url }}) was maligned for being “non-technical” but did things the rest of us wouldn’t. Here, he was building walls to make a 4th room.  ISO 80; 30mm; f2.2; 1/30s” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 7, 2022](https://twitter.com/TaylorGerring/status/1500875554026926082)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1500875554026926082/1500875554026926082_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1500875554026926082/1500875554026926082_2.jpg" style="width:75%;">
@@ -89,7 +89,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“While the Spaceship was extravagant in a way that none of us had experienced before, we made the best of otherwise mediocre resources. Mathias brought an old projector, which we used for meetings, ambiance & entertainment” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 10, 2022](https://twitter.com/TaylorGerring/status/1502115261238984749)*
+*“While the Spaceship was extravagant in a way that none of us had experienced before, we made the best of otherwise mediocre resources. [Mathias]({{ '/people/mathias-gronnebaek/' | relative_url }}) brought an old projector, which we used for meetings, ambiance & entertainment” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 10, 2022](https://twitter.com/TaylorGerring/status/1502115261238984749)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1502115261238984749/1502115261238984749_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1502115261238984749/1502115261238984749_2.jpg" style="width:75%;">
@@ -98,14 +98,14 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“By this point, we were fairly suspicious of Charles’ claims. Here we were shopping, but tomorrow I will include photos when I realized it was more bravado than substance” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 11, 2022](https://twitter.com/TaylorGerring/status/1502444317067120643)*
+*“By this point, we were fairly suspicious of [Charles]({{ '/people/charles-hoskinson/' | relative_url }})’ claims. Here we were shopping, but tomorrow I will include photos when I realized it was more bravado than substance” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 11, 2022](https://twitter.com/TaylorGerring/status/1502444317067120643)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1502444317067120643/1502444317067120643_1.jpg" style="width:75%;">
 
 
 ----
 
-*“Charles would scribble on the windows with a whiteboard marker to illustrate some of the things he would claim. Eventually, I asked myself what he was trying to convey” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 12, 2022](https://twitter.com/TaylorGerring/status/1502794007952384011)*
+*“[Charles]({{ '/people/charles-hoskinson/' | relative_url }}) would scribble on the windows with a whiteboard marker to illustrate some of the things he would claim. Eventually, I asked myself what he was trying to convey” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 12, 2022](https://twitter.com/TaylorGerring/status/1502794007952384011)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1502794007952384011/1502794007952384011_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1502794007952384011/1502794007952384011_2.jpg" style="width:75%;">
@@ -160,8 +160,10 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“Still not sure what Charles was doing writing on the windows when we had a whiteboard. Also found this interesting pic that I did not take ["Charles Hoskinson 'sleeping on a floor' with Susanne Tarkowski Tempelhof and a bottle of Cristal."](https://imgur.com/a/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2
+*“Still not sure what [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was doing writing on the windows when we had a whiteboard. Also found this interesting pic that I did not take ["Charles Hoskinson 'sleeping on a floor' with Susanne Tarkowski Tempelhof and a bottle of Cristal."](https://imgur.com/a/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2
 )” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 19, 2022](https://twitter.com/TaylorGerring/status/1505202122136117249)*
+
+*(Editor: Susanne was the founder of [BitNation](en.wikipedia.org/wiki/Bitnation))*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1505202122136117249/1505202122136117249_1.jpg" style="width:75%;">
 <img src="/images/imgur.com/2025.09.07/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2/t3JPlYR.jpeg" style="width:75%;">
@@ -206,7 +208,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 
 ----
-*“The basement of the Spaceship was initially Charles’ office/bedroom, but when he would travel, we would use it as a hangout space separate from the work area” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 3, 2022](https://twitter.com/TaylorGerring/status/1510798831050543104)*
+*“The basement of the Spaceship was initially [Charles]({{ '/people/charles-hoskinson/' | relative_url }})’ office/bedroom, but when he would travel, we would use it as a hangout space separate from the work area” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 3, 2022](https://twitter.com/TaylorGerring/status/1510798831050543104)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1510798831050543104/1510798831050543104_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1510798831050543104/1510798831050543104_2.jpg" style="width:75%;">
@@ -220,20 +222,20 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“The day we tried to get repaired bicycles for the Spaceship. Most of the good stuff was taken, but we managed to snag a few and Lorenzo helped us fix the outstanding issues” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 5, 2022](https://twitter.com/TaylorGerring/status/1511479579554291723)*
+*“The day we tried to get repaired bicycles for the Spaceship. Most of the good stuff was taken, but we managed to snag a few and [Lorenzo]({{ '/people/lorenzo-patuzzo' | relative_url }}) helped us fix the outstanding issues” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 5, 2022](https://twitter.com/TaylorGerring/status/1511479579554291723)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1511479579554291723/1511479579554291723_1.jpg" style="width:75%;">
 
 
 ----
 
-*“Who likes smoothies? @RoxanaSureanu made these beautiful mango treats before we would take off for Bitcoin Expo 2014 in Toronto” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 6, 2022](https://twitter.com/TaylorGerring/status/1511860696333660162)*
+*“Who likes smoothies? [Roxana]({{ '/people/roxana-sureanu/' | relative_url }}) made these beautiful mango treats before we would take off for Bitcoin Expo 2014 in Toronto” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 6, 2022](https://twitter.com/TaylorGerring/status/1511860696333660162)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1511860696333660162/1511860696333660162_1.jpg" style="width:75%;">
 
 ----
 
-*“Anyone remember airBitz? They were a sponsor of Bitcoin Expo 2014. Now they are @EdgeWallet!” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 11, 2022](https://twitter.com/TaylorGerring/status/1513569006552289288)*
+*“Anyone remember airBitz? They were a sponsor of Bitcoin Expo 2014. Now they are [EdgeWallet](https://x.com/EdgeWallet)!” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 11, 2022](https://twitter.com/TaylorGerring/status/1513569006552289288)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1513569006552289288/1513569006552289288_1.jpg" style="width:75%;">
 
@@ -245,7 +247,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“What do you think @petertodd was telling @gavofyork @VitalikButerin?” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 13, 2022](https://twitter.com/TaylorGerring/status/1514260990564741120)*
+*“What do you think [Peter Todd](https://x.com/peterktodd) was telling [Gavin]({{ '/people/gavin-wood/' | relative_url }}) and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})?” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 13, 2022](https://twitter.com/TaylorGerring/status/1514260990564741120)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1514260990564741120/1514260990564741120_1.jpg" style="width:75%;">
 
@@ -256,38 +258,39 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1514973024394653710/1514973024394653710_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1514973024394653710/1514973024394653710_2.jpg" style="width:75%;">
 
-*“Ethereum was not the only star of Bitcoin Expo 2014. Other OGs like @Narodism @AdamBLevine could be found interviewing or giving talks” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 15, 2022(https://twitter.com/TaylorGerring/status/1515057938649468930)*
+*“Ethereum was not the only star of Bitcoin Expo 2014. Other OGs like [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}) and [Adam B. Levine](https://x.com/AdamBLevine) could be found interviewing or giving talks” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 15, 2022](https://twitter.com/TaylorGerring/status/1515057938649468930)*
+
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1515057938649468930/1515057938649468930_1.jpg" style="width:75%;">
 
-*“Doing things unrelated to coding, @jeffehh looked seminally bored” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 15, 2022](https://twitter.com/TaylorGerring/status/1515097420748763148)*
+*“Doing things unrelated to coding, [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) looked seminally bored” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Apr 15, 2022](https://twitter.com/TaylorGerring/status/1515097420748763148)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1515097420748763148/1515097420748763148_1.jpg" style="width:75%;">
 
 
 ----
 
-*“Since we’re all down bad, and I haven’t shared an image in a while: 8 years ago is the moment that I realized the tides were turning at Ethereum. The nonprofit entity was not yet established and Stephan & Mathias Skyped from London to Zug” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [May 27, 2022](https://twitter.com/TaylorGerring/status/1530401665781743616)*
+*“Since we’re all down bad, and I haven’t shared an image in a while: 8 years ago is the moment that I realized the tides were turning at Ethereum. The nonprofit entity was not yet established and [Stephan]({{ '/people/stephan-tual/' | relative_url }}) & [Mathias]({{ '/people/mathias-gronnebaek/' | relative_url }}) Skyped from London to Zug” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [May 27, 2022](https://twitter.com/TaylorGerring/status/1530401665781743616)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1530401665781743616/1530401665781743616_1.jpg" style="width:75%;">
 
 
 ----
 
-*“GM to June! Taken just days before Ethereum’s “Red Wedding”, this rear deck is where the entire house waited while Vitalik made his decision about Charles & Amir.” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 1, 2022](https://twitter.com/TaylorGerring/status/1531973630623633408)*
+*“GM to June! Taken just days before Ethereum’s “Red Wedding”, this rear deck is where the entire house waited while [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) made his decision about [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) & [Amir]({{ '/people/amir-chetrit/' | relative_url }}).” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 1, 2022](https://twitter.com/TaylorGerring/status/1531973630623633408)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1531973630623633408/1531973630623633408_1.jpg" style="width:75%;">
 
 ----
 
-*“19 year old Vitalik standing on the edge of Lake Zug. What do you think he was pondering?” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532694820921257985)*
+*“19 year old [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) standing on the edge of Lake Zug. What do you think he was pondering?” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532694820921257985)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1532694820921257985/1532694820921257985_1.jpg" style="width:75%;">
 
-*“Mihai was also with us” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532829758123278336)*
+*“[Mihai]({{ '/people/mihai-alisie/' | relative_url }}) was also with us” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532829758123278336)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1532829758123278336/1532829758123278336_1.jpg" style="width:75%;">
 
-*“V being smiley” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532906931131645952)*
+*“[V]({{ '/people/vitalik-buterin/' | relative_url }}) being smiley” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532906931131645952)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1532906931131645952/1532906931131645952_1.jpg" style="width:75%;">
 
@@ -315,12 +318,16 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“Have you ever seen something so beautiful?! 😇 @mperklin had custom cases made for the open hardware which EF would use as Bitcoin multisig devices” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jul 7, 2022](https://twitter.com/TaylorGerring/status/1545108418679214082)*
+*“Have you ever seen something so beautiful?! 😇 [Michael Perklin](https://x.com/mperklin) had custom cases made for the open hardware which EF would use as Bitcoin multisig devices” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jul 7, 2022](https://twitter.com/TaylorGerring/status/1545108418679214082)*
+
+<img src="/images/x.com/2025.09.07/TaylorGerring/status/1545108418679214082/1545108418679214082_1.jpg" style="width:75%;">
 
 ----
 
 *“GM & HBD!!!! Ethereum Frontier launched 7 years ago today 🥳” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jul 30, 2022](https://twitter.com/TaylorGerring/status/1553351779714310147)*
+
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1553351779714310147/1553351779714310147_1.jpg" style="width:75%;">
 
 *“Happy Birthday Ethereum” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jul 30, 2022](https://twitter.com/TaylorGerring/status/1685645153086676992)*
+
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1685645153086676992/1685645153086676992_1.jpg" style="width:75%;">

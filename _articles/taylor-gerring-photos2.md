@@ -90,7 +90,7 @@ ISO 80; 30mm; f2.2; 1/30s” – [Taylor Gerring]({{ '/people/taylor-gerring/' |
 
 5 photos animated in a loop (2014)” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Mar 8, 2022](https://twitter.com/TaylorGerring/status/1501305359327272963)*
 
-<img src="/images/x.com/2025.09.07/TaylorGerring/status/1501305359327272963/1501305359327272963_1.jpg" style="width:75%;">
+<video src="/images/x.com/2025.09.07/TaylorGerring/status/1501305359327272963/1501305345427210244.mp4" style="width:75%;" autoplay loop muted playsinline></video>
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/TaylorGerring/status/1501305359327272963">https://twitter.com/TaylorGerring/status/1501305359327272963</a></blockquote>
 

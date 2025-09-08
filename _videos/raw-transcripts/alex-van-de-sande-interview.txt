@@ -1,0 +1,874 @@
+[Speaker 2]
+What's going on everybody, Alex, I sent you an invite to speak and co-host.
+
+[Speaker 7]
+If you have any questions, just let me know. You can DM me. Good to see the faces piling in.
+
+Got a lot of good questions here. Can't wait to talk about this rich history here. Here, there we go.
+
+Alex, good to have you here, man. Appreciate it. If anybody else wants to come up later and ask any questions, just feel free to raise your hand.
+
+[Speaker 8]
+Uh, kind of, kind of a bit like underwater-y.
+
+[Speaker 7]
+Is Victor out here? No, Victor. Okay, let me see.
+
+Give us a few moments, guys, trying to set this up. Appreciate your patience. Ah, technology.
+
+Cartoons, you want to come up? I'll invite you. Even if you're just on the panel, you don't got to speak.
+
+[Speaker 8]
+You were here for episode zero, so.
+
+[Speaker 7]
+But you, got you a Mac. I wish my phone wasn't so dumb. I'd DJ some stuff here instead of this silence.
+
+[Speaker 8]
+You should sing, A.G. Who said that? Alex, hey.
+
+[Speaker 1]
+You should play some live music.
+
+[Speaker 2]
+I was playing some classical music, but, yeah, I don't know. It's good to have you on here. I'm glad the mic's all working out now.
+
+I really appreciate you jumping on. It's been an interesting six months, for sure. So really, I just want to kind of just pick your brain a bit about the past, honestly.
+
+Like, more than just, you know, MissCoin in general, but really just like, how you got all started with, you know, the Ethereum Foundation and whatnot. So, like, when did you actually hear about Ethereum and what was your kind of first initial reaction to it? Sure.
+
+[Speaker 1]
+I have to say, my wife thinks it's hilarious that I'm old enough that my early work is being discovered by archaeologists now. So I find it funny. A little bit weird, but it's fun.
+
+So I think, so I started being interested in, I think, Bitcoin around 2012. So that was in, like, it feels like a long time ago. It feels like the early days.
+
+But for me, I already felt like, oh, God, I missed it. They're already talking about Bitcoin on The Good Wife or on live TV. I like, oh, no.
+
+But like, it used to be under a dollar. Now it's like $10. Damn, I so missed Bitcoin.
+
+That's too bad. I even remember, like, I posted something on the forum saying, oh, no, you try buying Bitcoin at $5. I think it was so hard.
+
+And then someone simply, like, I think, tipped me like five Bitcoin on Reddit saying, hey, here's your $5 worth of Bitcoin. And it was, like, back then, I don't know, like, probably a full Bitcoin, right? Bitcoin was $5 back then.
+
+So that was those early days. Again, didn't feel too early. Okay.
+
+And then I started paying attention because I felt that I knew someone bigger would come for Bitcoin. And I just started following all sorts of projects like Colored Coin and Master Coin and things like that until I found Ethereum. I was so blown away and captivated that I couldn't think of anything else.
+
+And people were still very active on the Reddit. Like Vitalik would answer questions personally. And then I just started helping out on the forum and on the Reddit.
+
+I'm a designer. I'm not a coder. So I thought, hey, like, there are enough coders here.
+
+Maybe they need a designer. And then someone would ask something for a presentation I could give them. And then by the time that the pre-sale rolled around, they started having cash, hiring people.
+
+And I was on the list. So that's how I got started working with some crazy people.
+
+[Speaker 2]
+So you did not expect to be so heavily involved and become the pioneer that you did. You were just kind of jumping in and interested in this new opportunity, really. You didn't expect it to go up like this.
+
+[Speaker 1]
+I certainly didn't expect it to, like, sort of yes and no, because I felt that back then it seemed very obvious that it was going to be a big thing. And I was like, I'm amazed that nobody else is paying attention to this. I was like, I felt like telling everybody I knew, can't you see?
+
+Look at this shit. This is crazy. It's like a blockchain with a computer inside and people were acting as if it was crazy.
+
+I was a founder of a company back then. I was doing like an iPhone app, sort of like Instagram for fashionistas. I had raised money.
+
+The app wasn't going anywhere. And I realized that I wasn't using any of my spare brain cells to think about my iPhone app. I was just thinking about it all the time.
+
+And then I told my friends that I wanted to leave this. They were like, are you leaving the app you founded to work for a 19-year-old that's going to pay you and make up money that he invented? I was like, yeah, sure.
+
+That's such a great idea.
+
+[Speaker 8]
+Yeah, that's crazy, man.
+
+[Speaker 2]
+Just your belief in what this could turn out to ended up leading you to such success and being a pioneer in this space. So when we talked before in the past, you told me you kind of helped assemble the Miss Wallet development team. You explained you were part of the hiring and you brought Fabian on board.
+
+How did you go about getting in touch with or finding Fabian to add to the team? And what made you so confident in his abilities?
+
+[Speaker 1]
+So when I started working, the first person I started talking about working with was Gavin Wood. Gavin Wood was the one who introduced me to the idea of making a browser. And I would say that really the way I got to work was I downloaded what was the latest client, CPP, the C++ client.
+
+And then it was called Aleph Zero. And if you ever, you should try to Google how that looked like, because it felt like the command of an Airbus, like a lot of small windows setting, showing all sorts of buttons and things you had to push. It was super complex, but I still look at it and say, whoa, this is like a fantastic app.
+
+I wish it was simpler to use. And I designed something which was very similar to what the Miss Wallet looked like. And then I was very proud showing that to Gavin.
+
+And he called me to have a Skype call. And then he told me, look, I thought I had basically re-transformed the whole thing. And he told me, no, I think you're not going far enough.
+
+I think you're not thinking big enough about this. I was like, look, I took this thing that was weird and I made it something that looks usable. It looks like a blockchain, which were like, that's what it is, right?
+
+It's a blockchain, but instead of sending coins, you send contracts and you execute stuff. And he was like, no, this is going to be the foundation of a new web. And we are calling this web tree and there's going to be a browser and there's going to be like client interfaces.
+
+You're going to download it via torrent or via swarm. You're going to talk to people directly via P2P. It's going to be like, it's going to replace the browser as we know it.
+
+It's going to be better than onion. And now you're going to download apps directly. Instead of downloading the apps for a server, you're going to be downloading it from your peers, from your friends.
+
+So apps will never go online. And I was like, wow, this is crazy. I want to be a part of it.
+
+And then I got into the Jeff team, right? There was basically three teams in the early days of the foundation. It was Vitalik, Jeff, and Gav.
+
+Vitalik was working in Python. It was mostly almost a research part, which was mostly interested in knowing if the thing worked. And Gav and Jeff really were doing the hard clients.
+
+One in Goethean and the other in C++. And when I joined the Jeff team, I was like the third person to join the Jeff team. It was Jeff, Felix, Victor Tron, which then became the head of Swarm, and then me, right?
+
+Or something like that. And I started trying to build an interface on top of that. And it was very hard.
+
+It was very complicated. And I asked Jeff, look, Jeff, I think if you want to really build a wallet, we need someone who has a lot of experience building apps on the web, right? Something that you can use CSS, you can use custom JavaScript to build apps.
+
+Not only build the app itself, but build the app inside that. And he was like, yep, I know just the guy. There's a crazy guy that came up on a few meetups.
+
+He was talking very excited about Ethereum. And we don't know what to do with him, but maybe he knows he can help. And then that's how I started working with Fabian.
+
+I called him. And in theory, he was working for me, but I guess he never got the memo because he was like, he was bossing me around and giving orders. And it was great, right?
+
+The way it worked would be that I would often come up with an idea, and then I would tell him, I think we should do this. And he was like, no, I don't think that's going to work. And then I was going to say, no, no, I think it is going to work.
+
+And I modified my idea a little bit and gave him back to him. And then he came to me. I still don't think it's going to work.
+
+We should do this instead. And then at some point on the debate going back and forth, we would come to a very usable solution that he was able to implement in a day. He was very good at implementing stuff very quickly.
+
+And that made me very impressed by Fabian. He was a fantastic coder. He wrote the book on what was the standard of web development back then.
+
+Back then, everybody was talking about like they wrote a book. That was great working with him.
+
+[Speaker 2]
+Wow, that's amazing. I didn't realize he wrote a book. He wrote a book before getting into Web3, just about regular Web2 development?
+
+[Speaker 1]
+Yeah, he wrote a book on Web2 development. Back then, everybody was using all sorts of JavaScript libraries to build web. I think the Meteor was the one thing you used to, if you wanted to have a single page application.
+
+You wanted to have a web page that looks like an application, which is the standard today. Every page looks like an application. But back then, it was actually very hard to do.
+
+Meteor was a very popular library. Fabian basically wrote a book on Meteor. He was very deep into that.
+
+[Speaker 2]
+Wow, that's super interesting. Whose idea was it to make a fun little token to test the features and give it away to users on Reddit? Why pick Reddit rather than Bitcoin Talk, which was what was predominantly used back then?
+
+[Speaker 1]
+Here's the thing. We didn't use Bitcoin Talk at all. We were using Reddit because we used two main forums.
+
+There was the forum.ethereum.org, which doesn't exist anymore, and there was Reddit. That was the main form of communication. I think about Bitcoin Talk, where people would launch new coins and projects, but we were launching a new project of coins.
+
+Let's talk about tokens in the first place. Where does the idea of making tokens come? Well, that has always been there.
+
+In fact, the first use of... I think one of the things that is on the white paper is Ethereum can be used to do tokens. That became obvious because what was happening back then, it was Bitcoin.
+
+Then whenever someone wanted to launch, invented a new thing to build on top of it, they would launch a whole new token. They were like, oh, I want to do this blockchain thing, but I want to use it for storing names. Then they launched a fork of Bitcoin called Namecoin.
+
+Someone else thought, oh, you know what? We should have property assets inside here. Then they launched Colorcoin, which was a whole new thing.
+
+At some point, it was on top of Bitcoin. Then it wasn't. Then Mastercoin was like, I think what we should do is that we should have an exchange inside.
+
+You can send a coin or ask for an exchange or send a token. Basically, every time anyone wanted to do something new, they had to make a new opcode for Mastercoin. Vitalik was working with Mastercoin and Colorcoin back then.
+
+That's when things are realized. That's very inefficient, the idea that you have to either release a whole new blockchain whenever someone else thinks about a new feature, or that you need to create a whole new upgrade to your blockchain.
+
+[Speaker 7]
+I think you might have rugged there.
+
+[Speaker 2]
+I can't hear you. Is it just me, Matt? Can you hear him?
+
+[Speaker 6]
+No, I also lost him. Sometimes this happens. His face is pretty weird.
+
+I'm not sure if Sam is good enough, so he'll probably touch on this. But the whole ability of the decentralized applications on the real chains, really do rely on the ability to be able to take tokens out of their wallet. There is no way to approve those tokens.
+
+If you think about it, you would swap a lot of in-the-blockers in any way when you want to execute a transaction or execute a function on a set of contracts. You would need to do that execution and send it inside of the value of the transaction, which gets in the way of what it's typically doing, because you're basically passing over what's in there from function to function to function. You have to approve and the contracts can pull the tokens out of the element.
+
+It also is a very good way of trapping the balance exchange. The balance exchange will have this pushback kind of thing. Obviously, Alex is back, but you're ready to pull tokens out instead of pushing them.
+
+It's a lot better flow for trapping balance exchanges.
+
+[Speaker 2]
+I don't know what's going on with that. So you were talking about MasterCoin and those types of projects and you had to release a whole token and stuff. I was asking more about who decided to just play with the mistoken and let's just give it away for free on Reddit.
+
+That's where I'm getting at.
+
+[Speaker 1]
+We knew tokens were important and then at some point, we decided, hey, we want to do a token release on VEST. I posted on Reddit, hey, let's talk about the coin standard. Let's talk about something. There was a very interesting conversation out of that.
+
+Based on that conversation, Fabian wrote the ERC standard. And then when we released the new Mist wallet, we wanted people to try it out because there were no tokens on Ethereum. There was nothing you could tokenize.
+
+So we basically released two tokens. One came with the wallet and it was the unicorn thing. Whenever you donated to the foundation, you got a unicorn.
+
+And the other that we wanted people to be able to play with for free was just something that Fabian created literally for fun, just using the standard thing that he had and then just started giving away on Reddit just for people to try it out. Nobody gave a lot of thought about it. It was just the best thing that we want to try out and want people to play around with.
+
+[Speaker 2]
+Of course. Yeah, no, I get it. And in regards to the unicorn, the unicorn token was like five, six months later, though, right?
+
+Is it? Yeah. I mean, based on the contracts, I don't know if it was like I didn't know.
+
+I don't know if it was like talked about like internally, but not released until later. But yeah, it was released in 2016, a couple of months. I think it was two or three months.
+
+And I think unicorns are great, too. But I can't. They're very hard to get a hold of.
+
+So, yeah.
+
+[Speaker 1]
+I mean, as you say, like trust the timestamp, right? I mean, if you were asking me, I wouldn't swear that we released both of them at the same time when we released the tokens on the wallet. Maybe we hadn't.
+
+[Speaker 2]
+Yeah, I don't think you did. But the thing is that unicorn is actually like an ERC 20, quote unquote, actually in ERC 20, because mist is basically an ERC 20 besides the approve function. So it was like, that's why if you go look at the unicorns, I'm pretty sure they have all of the ERC 20 standard implemented, whereas mist is basically like the bit like the skeleton for it.
+
+You know, it's just missing a few parts or one part, and then it would be considered a full ERC 20. But Fabian considers it. I think you had a good outlook on exactly how it met the standard and besides the approval function.
+
+But yeah, that's super, super interesting. I was going to say, was there anyone else that kind of helped in like, whether it be like just ideating or actually getting in there and coding? Because I know you said you weren't really a coder that kind of helped with the figuring out this ERC 20 standard?
+
+Or was it really just Fabian? I know you mentioned Gavin Wood. I didn't know if he was kind of in the coding side of things too.
+
+Or was it really just like Fabian when it comes to the actual coding part of it?
+
+[Speaker 1]
+Well, we had a lot of feedback from the community in regards on how to build the tokens. There were a lot of some projects that I think the guys from MakerDAO or I think Rune was already like participating on that, Rune from MakerDAO. He was already saying, look, we have this project and we already released a big number of tokens.
+
+And that was like, they were claiming about like all their tokens that they were working on, on that project that they had. And of course, there was no standard for that. And that's sort of why we wanted, yeah, sure, but you release a token, but that doesn't mean that, like we need a standard so that everyone can release tokens and those tokens can exist on wallets and things like that.
+
+But I think, so Fabian basically brought the feedback from the whole community as a whole, like wrote the standard. And those things were very, it was a very participatory project, right? So writing a standard is by its design something that you want to have the buying of the community, you want to have a lot of feedback so that everyone can at some point just agree on something, right?
+
+So it's not something that you just come out and say, hey, this is how the foundation is going to do it. No, we want to hear it. And we want to make sure that everyone is following the standard.
+
+Otherwise it won't be a standard. We'll be just a proprietary firm.
+
+[Speaker 2]
+Yeah. Yeah. That kind of leads me into my next question is, did you believe like ERC20 would kind of achieve this relevance and be as big as it is here like 10 years later?
+
+Or did you expect a better or newer standard to come around?
+
+[Speaker 1]
+We knew the tokens were super important for Ethereum, right? Like back when we were working on the Mist wallet, basically all other crypto wallets served for like every other, especially every other Ethereum wallet had one function in mind, which was you get the wallet you got from the pre-sale, you get your Ether and you send it to an exchange to sell, right? Or you just bought something in an exchange and you send it to yourself.
+
+That was the only reason that anyone would use a wallet. I mean, there were like a lot of already other wallets back then and all of them were just that, right? Was just a way for you to get your Ether back and sell it.
+
+And we really wanted to fix that by, and we knew that if you wanted people to use Ethereum as we wanted, we need to create those functions. We need to invent new cool stuff that people want to work. And that's why it was really important for us to start working on tokens.
+
+Like, did you expect the ERC20? Here's something funny that I didn't expect. So we really expect tokens themselves to be big.
+
+I did not expect the word ERC20 to be so big, right? The point that Bitcoin tokens are known as BRC20, which is sort of like laughable because it wasn't the 20 of anything, right? 20 doesn't mean tokens.
+
+20 was just a random number that happened to be the order in which Fabian asked the question. And suddenly BRC20 becomes the standard. I think that's hilarious.
+
+[Speaker 2]
+Yeah. I mean, that's an imitation, a serious form of flattery. Even though those BRC20s don't even have smart contracts or anything like that, it's a totally different kind of tech.
+
+It just pays homage to the fact of how important the ERC20 was to the development of the tech. I mean, you're a pioneer. I mean, you, Fabian, everyone that was a part of this, you guys created something.
+
+Even though the missed wallet went and sunsetted at some point, the mark you guys had on just cryptocurrency in blockchain in the world, it's honestly really nuts. And it's crazy that you weren't even really expecting it to have that much.
+
+[Speaker 1]
+Let me say a little bit, because you keep calling me a pioneer and how everything we did. I think whenever you get a new community, right? You'll find that it's always like, it's very few people working there, right?
+
+Whenever when it got there, there were probably less than a hundred people working on anything Ethereum. So anything you do, if you start working on a project and then that project becomes big, then all those little marks that you do, of course, they also become big and they also create ripples and you can trace that ripple back to the persons that were there. But the thing is, those ripples only matter because the project grew and the project grows because a lot of thousands of factors, right?
+
+So I think the main, I would say that if someone thinks about it, I don't, but here's the cool thing is that there's at any point in history, there are thousands, a million other projects that are happening or things are happening, which will eventually grow. Like we can look back and say, oh, this thing became big and therefore the people there were special because they were there. But my point is, if you all, you guys are people who care about leaving ripples and things like that, my suggestion would be like, just find projects that will allow, that will grow and allow those ripples to be big, right?
+
+I don't think it's the action of those pioneers are super important, et cetera. It's just that we happen to be there and we did a work that I was proud of, but I think those opportunities are always coming. Right.
+
+[Speaker 2]
+No, yeah, I agree. And it's just about building really at the end of the day and building in something you're passionate about, but regardless of the fact you're a pioneer, a lot of people agree. So maybe you weren't going into that with the mindset of, hey, I'm a pioneer.
+
+You're just in there building, trying to do cool stuff, a part of something that you think had a lot of potential. And that to me is a definition of a pioneer, whether you had that mindset going into it. But I think we all appreciate you here and what you've done.
+
+But that was my suggestion, right?
+
+[Speaker 1]
+If anyone wants to own a part of history, the best way to do it is to invent it and is to help write it. I think that is the beauty part. So I really urge everyone who loves to look back at history is also to think that in 20 years, whatever you do now will be part of history.
+
+So just try to think about where you want to be right now. That probably can be something big in the future, because that's exciting. And even if you sat on the wrong horse, just being able to build things that last and don't last is a great experience.
+
+I built tons of things that were forgotten, didn't last and disappeared over the years before I stumbled into Ethereum. And even the things I built into Ethereum, I would say that almost all the projects I built were things that didn't last and they broke down. But the building blocks that we sort of accidentally created to build those things became much bigger than the projects I was building, I had expected to be.
+
+Things like the token, things like ENS, things like the standards for a lot of small things like the icons, the color icons you see on Etherscan. Those things were just a tiny feature for the wallet. And they became big projects in themselves, much bigger than the wallet could ever be.
+
+And I think that is super fun.
+
+[Speaker 2]
+Yeah, I mean, you're motivating me right now to get out there and build. I really appreciate it. Yeah, everybody should really build.
+
+I mean, at the end of the day, like you said, you might as well put a bet out there instead of not even jumping in the game. I mean, who knows, you could be one of those pioneers. You could change the game, even though you're just building something that you know might not change the game, but at least you're in there trying to make a difference in something you're passionate about.
+
+But yeah, no, that's great. That kind of leads me to the question you were just mentioning some of it. Outside of the creation of the ERC20 and even ENS, what do you think was your greatest contribution in those early days?
+
+I know there was the development of the things like the web3js library, the easy to use wallet interface, the blocky identicon, and CamelCase checksum. I know those were a lot of great developments. Is it one of those or is it potentially something else that I didn't mention?
+
+[Speaker 1]
+I'm very proud of all of that. But there's another very interesting project that I think what I did after the foundation is I started working on a project which I called Unilogging, which was another project that went nowhere. But also a lot of the ideas that were there are starting to come around and I think those would be super important.
+
+What I wanted to do on Unilogging was I wanted everyone to stop using private keys for their crypto. I thought private keys was something that a user should never see. My point was I think that everyone should have a smart wallet and that a private key was something that your device created never took out of the device and whenever you lost that device you just replace it with another one.
+
+So I worked for two years on smart wallets and things like that. Then at some point we hit a wall in which creating a smart wallet would cost you $100 just to acquire a user. We had to close down the company.
+
+But a lot of the ideas that I spent two years talking and trying to share and trying to talk about in conferences are now finally without you and things like that becoming real. Today the word is account abstraction and I think it's still one of the most important things to happen if you wanted blockchains to go mainstream would be for users not to ever have to care about private keys again. You just have a name and that name is connected to a couple of multiple devices and you basically use one device to allow you to use the other.
+
+I think we are probably reaching a moment where this will be able to be done because we have not only cheaper L2s that allow you to have smart wallets, we have it's easier for you to have already the address of a smart contract that can be deployed in all L2s at the same time. We have FastKeys which is a crypto standard that is accepted by by Android and by Apple devices which is really great logging in. That's something I'm very happy to see grow on crypto.
+
+I am proud of all the other achievements you said.
+
+[Speaker 2]
+That's actually really interesting because I'm actually developing some stuff now and my developer constantly talks to me about how big account abstraction is going to be for this next bull run and stuff like that. It's really fascinating to hear that you were actually working on something like this a few years ago.
+
+[Speaker 1]
+2018 was the first time I gave a talk about that.
+
+[Speaker 2]
+I think you were just ahead of your time to be honest. It's huge when it comes to onboarding new users, quote unquote normies, because nobody wants to have to store their private key and worry about all that nonsense. You were working on it back in 2018.
+
+Maybe the space wasn't mature enough then and obviously it wasn't to a point where now it is. That sucks. I would really like to see maybe Unilog make a comeback.
+
+[Speaker 1]
+I'm pretty sure all the things we wanted to function for will exist. I'm very happy to see because I think it's super important in order for us to reach the mainstream that we want them to reach.
+
+[Speaker 2]
+That's great. Taking it a little bit back to the beginning again, what was your guys' main challenges and considerations when it came to the Mist wallet and the early development of it, especially in relation to the fact that Ethereum was so early and it was still evolving? What do you think about that?
+
+What was your biggest challenges and considerations you took into place when you were building?
+
+[Speaker 1]
+I think that is an interesting question that comes to the heart of what made the Mist wallet and why it was doomed and why it failed. One of the things we really wanted was to reinvent the way the web would work. We really wanted to make sure that every user of the Mist wallet was also a full node.
+
+It was going to be a full node on Ethereum. It was also going to be a full node on Swarm and every app there would be hosted on Swarm. We didn't even want it for you to be able to connect to a traditional web, which we would call it.
+
+We didn't even want you to be able to connect to a website. The idea was that every app you have to load, if you load an ENF name, that is going to connect to a Swarm node and that is going to get you to download your app directly from other Mist wallet users. Also, you'll be running an Ethereum full node so that you're never dependent on anything.
+
+We were not very pragmatic about it because the reality was that it worked for a few years in 2015-2016. It was still possible for you to run a full node on your desktop. The reality is that by 2017, when one of the first really big major full runs started happening, it would already take hours and hours between downloading and actually having the wallet work.
+
+Then, most people had already migrated by Metamask, which is just instant. You download it, you don't need to download a new browser, you already use the browser you like. It connects directly to Etherscan, so you don't need to worry about a full node.
+
+It connects directly to the web, so you don't need to worry about storing your web page or anything like that. In the end, that was one of the main reasons that Mist failed because you were sort of dreaming too much in a way. You wanted everyone to run a full node.
+
+We were ready. We wanted everyone to run a fully decentralized web and that wasn't possible back then and it's still not possible today. That is sort of how the whole project ended up with no users and we had to shut it down.
+
+[Speaker 2]
+That was one of my questions towards the end. I was going to ask why you guys actually decided to sunset, but that makes sense because it is hard to get people to interact on that level. You have to create a node and make sure the node is running correctly and everything.
+
+That just kind of steers some of the less technical people away.
+
+[Speaker 1]
+We were able to abstract a lot of that technical side of creating a node. You didn't know you were creating a node. You didn't know you were creating anything.
+
+You were just uploading. But the problem with trying to abstract a lot of things with design is that you can make a lot of things feel like magic and that's what we wanted to do. There's a point in which you hit a technical roadblock and for most users that was when we would tell them, look, it's going to take you five hours or six hours or maybe a full week before you can even use this app.
+
+There's no way to abstract anything about that. I remember actually spending hours and hours trying to work on the right load animation to make sure that that little bar would feel like it was loading faster than it was actually loading. But then there's no design that can save you when the amount of time it's going to actually take is like a week.
+
+The animation can look fancy and can have a lot of cute things but it's going to take a week. There's no way around that. There's no putting lipstick on that stage.
+
+[Speaker 2]
+Yeah, I think Mac was talking about that earlier in the earlier space. Mac, you can come up and say something if your mic sounds all right.
+
+[Speaker 8]
+No, not going to say anything. Okay, sounds good. I'll go to my next question.
+
+[Speaker 3]
+I got a question to ask.
+
+[Speaker 8]
+Oh, okay. Yeah, go ahead, brother.
+
+[Speaker 3]
+Yeah. How's everybody doing?
+
+[Speaker 8]
+Good, good, good. Glad to have you up here.
+
+[Speaker 3]
+Then I'm a magician, but you guys can just call me mud. I have a question for Alex. I was going to ask, you actually answered another question I posted in the telegram, which was what was your biggest concern as far as on the development side of like how to get or onboard the next billion users?
+
+I think you kind of touched on it. You said account abstraction, if I'm not mistaken. Another question I wanted to ask was what's your biggest lesson that you've learned on a personal level as far as finding that balance in between doing the work, like putting your head down and just enveloping yourself into your ideas and pushing them forward and working with a team?
+
+What's your biggest lesson you've learned with trying to push forward an idea you believe in, but also being receptive to other people's ideas and actually trying to find a way to make other people see your vision?
+
+[Speaker 1]
+That is a great question because I think I've, that is how you work with a team, right? I think the best work I've ever done was, I've been working with remote teams for over 10 years, right? Way before like Zoom was a thing and way before COVID was a thing, we were remote teams, not because we wanted, but rather because there was no other way to get people from all over the world to work in a single project if you have to fly everyone to the same place, right?
+
+And we had to work remotely. And part of working, a challenge of working remotely is that you have a lot of time for you alone to be working, like focused without anyone over your shoulder to check what you're doing, but then you need to have full conversations with people. And those conversations, it's not about you pushing your idea and then, or accepting the idea of someone else and guessing who wins, but it's really about trying to find a common place, right?
+
+I think in those discussions, the idea gets better. Often, the way it would work is, I sort of mentioned that, but I think it's interesting to reiterate, I would have an idea and Fabian would have a different idea and we would fight over this idea, but on the argument, every time he would make an argument against my idea, I would come back and say, look, yeah, but if we change this, then that solves that. And then he would say, no, no, but if we change this other thing, my idea is better.
+
+But on those arguments, what we were doing was actually hitting each other idea and modifying it to a point in which at some point in the middle, we were like, yeah, I think that works. And it was almost as if we were hitting, beating each other's idea until it fell in the middle, which was a much more strong idea and something much, and that felt like it belonged to both of us, right? It never felt at any moment that I was giving up on something that I really believed on or that I was forcing him to give up on his idea.
+
+It felt like we were both, by debating it, we were both owning the thing and we were reaching something that was probably better than anything that we both could think about. I think Steve Jobs used the term, which I think it's fantastic, in which you have to have strong beliefs loosely held, meaning that you really should believe the things you, you must be very passionate about your own beliefs, but also be very, you should drop them very easily whenever you see something better come along, right?
+
+[Speaker 3]
+It's interesting. Thank you for the answer you gave. You actually answered a few questions I had in mind, but I think that's very valuable information for anybody who's attempting to promote or push forward an idea, but also trying to work in a team.
+
+Yeah, for sure. Yeah.
+
+[Speaker 1]
+And thank you for that. And it was important, right? A lot of the work I did often as a designer was that I was just trying to communicate to the developers the things I was seeing that users needed and sometimes I was trying to communicate to final users the thing that the developer wanted to build that couldn't be understood.
+
+So as a designer, I felt I was constantly translating from those words, right? I was looking at something that developers want to build this thing. It's, nobody understands what it is.
+
+I would translate it to like an end user. And then I would like advocate for the end user saying, Hey, this is how we are going to build this thing for them. And I think being that person in between is super important.
+
+And often why do you do a lot? It's just, you're trying to communicate and having convincing people that this is a good thing worth building.
+
+[Speaker 2]
+Yeah. I appreciate that question, Mug, because even though it's a bit of a situation with me, but I'm dealing with the same thing when it comes to, you know, trying to find a healthy, positive, collaborative environment, instead of like, you know, being at each other's neck and trying to figure out who's right or what's the best way to go. Sometimes the collaborative, you know, there needs to be a sense of positivity and realize that the end goal is the same for everybody.
+
+You know, how we get there is, you know, that's how you work together and figure out what's the best way to approach that problem. And, you know, it's tough to work with teams, especially remote. You're not there to see, you know, people's reactions in person and judge body language.
+
+It's tough at times.
+
+[Speaker 1]
+Yeah. And you have to listen, right? If you feel that your ideas are pure beauty and genius and that everyone is trying to run it, you're probably not a very good team member and probably your ideas aren't that great.
+
+You have to have humility and understand that everyone also has, like other people also have good ideas on how to improve your thing.
+
+[Speaker 2]
+Yeah. I mean, in nowadays with this culture, I mean, some of these crypto Twitter people and stuff like that, there's a lot of arrogance that everybody thinks they know, they know it all. And if you can't, if you can't take a step back and see that you don't know it all and you never will know it all, you know, you're better off as a team because you guys connect, you know, you can actually take that receptive, you know, that criticism and take those other ideas and mesh it into one, like you're saying.
+
+And now it's not just one idea, it's everybody's idea. And, you know, everybody put in the time or effort and now they, you know, all feel kind of, you know, emotionally or connected to that idea, you know? Yeah, no, that's, that was a great question, Mud.
+
+Especially as I'm, you know, dealing with that stuff on my own building. It's really, it's really nice to hear something like that. Can you hear me now, by any chance?
+
+[Speaker 1]
+I think we have, we have, I think we have time for one last question.
+
+[Speaker 2]
+Okay. One last question. Can you hear me now?
+
+Yeah, yeah, we can hear you. Do you want to ask the final question? I was going to try to...
+
+Go ahead, go ahead.
+
+[Speaker 4]
+I'll be just quick. So I think you mentioned, Alex, that there was a lot of attempts to do, you know, essentially on-chain wallets and stuff. I know that the ETHswarm team was working quite early on, like Daniel Meiji and some other guys like Ido Shadrin on an on-chain wallet called GetLoginETH.
+
+Have you, were you familiar with that one? It wasn't that early, but it was something that I also came across and did a little bit of work on probably two years ago. And second small question.
+
+The parity wallet came out just after MistWallet. Was that in an attempt to solve the issue with the syncing of the whole mode? Because I remember that that one, there was, you know, statements that they would try and run that on like a live client and only, you know, sync portion of the chain.
+
+[Speaker 1]
+So I work with Daniel Nagy, if that's the same person. He also on the Swarm. Yeah, yeah.
+
+I don't remember his work on login. That's interesting. I'm not sure what you mean by on-chain wallet.
+
+The parity live client thing, since I was working with you and they were always like claims that, yeah, this live client sync or this new live client sync is going to be the one that solves all live clients' problems, right? So there's, oh, it's, and there's, and like, I, we tried a lot of them and I think, I still don't think there's, and I think, and I still don't think there's a very good way to really have a fully decentralized live client that can just connect to it, right? First of all, because it's hard to do it.
+
+And often, and that's just, even solder is that often the user doesn't really care. That's also a big problem. Always.
+
+Often the user, like if you say, look, it's, instead of taking like one gigabyte, 10 gigabytes, this thing is going to take a hundred megabytes. And the user is like, why do I want to like use this 200 megabytes if I can just connect to either scan or like whatever. And then that's, that's never good enough for the user.
+
+So yeah, user, the user didn't care is an epitaph for a thousand decentralized projects everywhere.
+
+[Speaker 4]
+Awesome. Thank you for answering that. I tagged you in the comment with the repo that I was talking about and yes, it was Daniel Meiji from Ethsworm.
+
+I did a bit of work with them two years ago.
+
+[Speaker 2]
+Alex, I got one question for you, just so you have time to plug here, what you're working on. I saw that you're working on a new project called the high order company. Can you explain to us a bit about what that is, you know, what the goals is, and just, you know, talk about what you're currently working on.
+
+And after that, I just, you know, appreciate your time and stuff.
+
+[Speaker 1]
+Sure. I am working both on two fronts. I am working a lot of ENS on meta governance for ENS and for DAOs in general.
+
+I think it's super important to think about governance. And I still think that one of the main impacts that blockchain can do today is to have decentralized companies or organizations where all the funds are trackable and everything is transparent. And I'm very proud to see that ENS is, I would say, one of the best examples of that.
+
+The second thing I work a lot, I mean, working on is I'm one of the smartest people I've worked with during my time on Ethereum Foundation. I'm not saying a lot because I did work with a lot of smart people, was a guy named Victor Myer. He goes by Victor Myer right now.
+
+And he worked on the Mist wallet. And he was like, I would often ask him to do a task. Hey, can you just integrate this library with Swarm for a bit?
+
+And he was like, three days later, he was, yeah, the work is done, but I need some more time because I found an upstream bug on the library. And then three days later, he was, yeah, I fixed the library, but I think the library is having the wrong approach. Give me a few days.
+
+I'm going to make a new library for that. And then I gave him a few days more and he was like, you know, I've created a new library, but I think the real problem is that Mist is using the wrong thing. We should really refactor Mist as a whole to do the thing.
+
+And at some point I joked, look, Victor, I can't give you more time. I know that if you just have all the time in the world, you would just want to build a whole fucking new computer. And he was like, yeah, you're right.
+
+Well, guess what? Victor has all the time in the world now and he's actually building a new computer. And he just figured out a way to, he's been studying computer science, history, and he found a way to create a computer that is much more parallel and can execute faster and a lot of things like that.
+
+And I think it is fantastic. And it's one of those things that is very hard to communicate what they are doing, but I think they are doing something that is going to be big, which is why I like working with them because part of what I work there is just trying to explain people what they are doing. And I think we are working on a new website that is going to be very cool.
+
+You're going to be able to see some animation. But in essence, we are all using Turing machines. And he's like, look, Turing machines are wrong.
+
+There are better ways to do it. Instead of having this concept of a Turing machine, which is like a little robot with infinite states that goes back and forth and changes the states from zero to one, he's able to turn any sort of computation in basically like a planar graph with a thousand lines. And those lines have like four little commands that they can do.
+
+And they can do it all at the same time. So you can do it, you can run it in eight, 16 cores at the same time. And it just becomes a very easy way to transform any computation into something that is multi-core all the time.
+
+So yeah, if you think this sounds interesting, you should definitely follow the HVM page. How do I profit off this?
+
+[Speaker 2]
+How do I invest in this?
+
+[Speaker 1]
+Well, you should follow us. If you want to be a pioneer yourself, maybe you can participate in that somehow, right?
+
+[Speaker 2]
+I would like to be a pioneer like you, Alex. I really would. Is that the high order company or is that something else?
+
+Yeah.
+
+[Speaker 8]
+Okay.
+
+[Speaker 2]
+I'm definitely going to check that out and do some research because that sounds amazing. And it sounds like the guy you got on board is definitely one of those genius pioneers that you don't come across very often. So.
+
+[Speaker 1]
+Yeah, you should definitely follow him.
+
+[Speaker 2]
+Yeah. I'm going to look into that. I wholeheartedly really appreciate you, Alex, jumping on here.
+
+Maybe we could do it again sometime because I still have like 20 other questions I want to ask you. And I know there's other people here too that wanted to come up, but it's been about an hour and I don't want to take too much of your time. So thank you so much.
+
+And I really, truly do appreciate it.
+
+[Speaker 1]
+Well, thank you for the invitation and it was fun to have this conversation.
+
+[Speaker 2]
+Yeah, man. Have a good day. We'll probably stay on for a little bit and chat it up.
+
+So you're more than welcome to go head out and do whatever you got to do. And thanks, man. Okay.
+
+[Speaker 3]
+Thank you.
+
+[Speaker 2]
+Have a good one.
+
+[Speaker 3]
+Yeah, that's great. That was great. How much longer are you going to stay on?
+
+[Speaker 2]
+I don't know. I was just kind of letting him dip out to see what everybody thought. I thought that was really super, super, you know, informative.
+
+Yeah.
+
+[Speaker 3]
+You really held it down. Good job.
+
+[Speaker 2]
+I mean, I had a whole list of stuff I wanted to make sure I asked them and I only got through like half of it. I would have been on here for another hour, but I appreciate it. Yeah, no, yeah, that was, it was really good.
+
+I want to do this every Monday. So yeah, I'm in in the chat as a Ascension Guide. So if I was thinking about making a little bit of a, like a telegram group.
+
+So if anybody wants to, you know, shoot me a PM, my PMs are open, you know, which is not the smartest thing to do, but my PMs are open. So shoot me a PM. Like I could get, you know, whoever wants to, you know, jump on here and, or, you know, maybe have some topics that they have and, and they want for the next Miss Monday.
+
+Like, I want to do this every Monday. I want to start building the community to get to a point where, you know, we're having people actually engage rather than just, you know, waiting for number go up, which is great and stuff. And I love missed.
+
+But I think there's a lot of opportunity here when it comes to community building or even just, you know, building in general, like this is one of the, the older, this is the oldest ERC 20, the first ERC 20 and, you know, all of Ethereum, there's a lot of cool things that we could do with this. We just need to, you know, make that community a bit, you know, tight, tight knitted and have a little bit more than just financial sense, which I all know we're here to watch the number go up, but number go up. Yeah, that's it.
+
+Number go up, but it's actually fun, man. It's fun developing. I was, you know, me and Victor, who leads the discord and runs the social media.
+
+We were here since October and we kind of pushed to get missed, like, you know, the liquidity sufficient enough to start getting people to be able to buy and take part. And it's been a crazy journey, man, about a lot of ups and downs about that.
+
+[Speaker 3]
+I don't mean to cut you off, but you know about the liquidity. So I saw that this is on base now, which is amazing. I think that's a great opportunity for users to get some exposure.
+
+Is it bridged or is it just then? I think there's like...
+
+[Speaker 4]
+Is it properly bridged?
+
+[Speaker 2]
+It's bridged, but the liquidity is very, very small because a lot of people haven't really bridged over. So what we were planning to do is what I was going to talk to Alex about, but we didn't get enough time is there was actually a Doge ETH bridge that Ethereum was planning back in like 2017. And there was 50,000 missed valued at around a million dollars that were sent to this Doge kind of bounty because it was a bounty.
+
+So it was like, whoever can make a bridge between Doge and ETH, you have a bounty. And it was like, a shit ton of ETH. And the mist was kind of just thrown in there as, I don't know, a joke or something.
+
+I don't know. That's what I was going to ask him about. I was like, who kind of thought about sending that?
+
+So there's actually some crazy signers on there like Alex, I don't know, I think Fabian, but Vitalik is on there as a signer. Like there's a lot of big names on there as signers. If we could somehow get the attention of enough signers to go ahead and unlock that 50K Mistcoin, we could have, okay, here's Victor, hold on one second.
+
+We could have potentially enough to bridge over the base, maybe do a little bit of like a DAO incentive things because there is a DAO for Mistcoin that I set up via snapshot and then go ahead and maybe pay out some developers for building cool things on top of Mist. Like that 50K would be very, very valuable if we could somehow snatch it up. But what's going on, Victor?
+
+Oh yeah, my bad. No, you're good.
+
+[Speaker 5]
+Yes, awesome. First of all, congratulations for this initiative. I think that's great.
+
+Please keep it up because I think that this Monday is something that we need to keep. Secondly, about the liquidity in base, just remember guys that Uniswap pools are permissionless. So everybody is free to pool their own liquidity.
+
+And at the end of the day, if everybody, let's say, pools like 10% of their holdings of Mist or 5% or just a teeny amount, at the end, the liquidity there will be more healthy and we will progressively be building more liquidity in base. Maybe now we don't have too much volume there because the liquidity is tiny, so nobody would be interested in trading there. But it's something like progressively, the more people pooling liquidity there, the more volume we will have there and that we will have more exposure there eventually.
+
+So I think that maybe waiting for releasing these tokens of DogeDAO, maybe it will take time. So maybe we can do this community effort of providing some liquidity by ourselves. The gas fees now in the mainnet are very low, so I think that everybody can afford to do a swap in mainnet because, well, the weight this morning, I guess, was in 7-6 points or something like that.
+
+So it's not too expensive.
+
+[Speaker 4]
+Do you know who created the base side Mistcoin, essentially the bridge?
+
+[Speaker 5]
+Yeah, it's me, but well, there is a tool in base called BaseMigrate, so everybody is free to do that. It's very simple. It's just two or three steps and you have like a tutorial developed by the base guy, so everybody is free to do the same with any Ethereum mainnet token.
+
+It just takes like 30 minutes to the whole process and later on, like five, six days to have the pull request in GitHub approved.
+
+[Speaker 4]
+Yeah, yeah, I actually was speaking about that on the earlier space. I was saying how base is really, really popping off and how L2s have made it really, really easy for, I mean, lots of different use cases. But surely we don't need liquidity for, we only need liquidity of Mist tokens if they want to bridge back from base to Ethereum, right?
+
+Because if you want to, it depends on how the bridge is set up. But if you're bridging from Ethereum mainnet to base, you essentially are minting a new token on the base side. And in that way, you can basically, it's ready for you.
+
+So anybody who wants to bridge from Ethereum just bridges it, admits the new token on base, but obviously bridging it back from base to Ethereum would require more liquidity.
+
+[Speaker 2]
+Yeah, I think it locks up, it locks up that Mist and that's why it's only one specific bridge. I don't think there's multiple bridges. So if you lock your Mist in that contract, it mints the base token and then you put that base back in there and it unlocks the Mist that, you know, whatever amount it was and stuff like that.
+
+So that, yeah, the supply can only be as high as how many people locked up in that initial ETH bridge.
+
+[Speaker 4]
+Yeah, so the liquidity is just there. We want liquidity just in case we want to bridge back from base. So anybody who has Mist, you can just go ahead and bridge across.
+
+[Speaker 5]
+Yes, I was referring just to the liquidity in Uniswap, just in case you want to do some swaps from Ethereum base to Mist in base. Just that, as I was saying, I mean, you don't need the liquidity on both sides to make the bridge work in such a way that once you bridge one token from to the base side, I mean, it's like frozen, it's like locked.
+
+[Speaker 4]
+Yeah, I mean, we need more liquidity providers.
+
+[Speaker 3]
+Okay, I have a suggestion, right? What does everybody think about maybe, because, you know, there's like meme mania right now and people are throwing their money at all types of, I mean, pretty much bullshit, right? And this narrative that we're looking at right now, we're dealing with is pretty much like, I mean, it sells itself.
+
+I'm just speaking from an investor standpoint, right? So if liquidity is the goal, what does everybody think about maybe us ourselves instead of waiting for the, like the Doge unlocking that 50k, that'll be good. Um, but instead of like waiting, or while we wait on that, I mean, something that we could maybe possibly do if everybody's up for it, maybe we could start, I don't know, maybe our own token or something, deploy it.
+
+Some of us add some liquidity to that, get it up off the ground. But X token has the sole and explicit purpose of, I don't know, maybe bringing more attention to mist itself and the relic meta itself. And maybe, I don't know, a portion of fees generated or money made can go towards explicitly to providing liquidity to the pool.
+
+[Speaker 2]
+Yeah. That's, I mean, it's interesting.
+
+[Speaker 3]
+I mean, in, I think a lot of, just something, cause you know, we can take advantage of the fact that there's so many people, especially on this new chain, cause like base that are just buying whatever the hell. This is actually, I don't, I mean, just, I don't know how the mechanics would work, but essentially that's how the experience would go. Like we're all in on it.
+
+We know what's up. We're already doing what we can. I see a few of us are already like, you know, reposting stuff and posting memes and doing what we can to like, you know, get it out there and get attention and marketed.
+
+And that's like amazing. But just an idea, you know, just so we can get some like new money in and we can actually use that for something. And as a community, we all agree.
+
+Know what I mean? Full transparency, no rug bullshit. I don't know.
+
+Just something, maybe it sounds gimmicky, but I don't know. Sometimes gimmicks work and, you know, people always want to put their money in things. So that's just where my head was at.
+
+[Speaker 4]
+I would, I would just caution against creating a new token willy-nilly because, you know, a lot of people forget there's a lot of legal things that come into it, you know, so like you.
+
+[Speaker 3]
+Legal, you could kind of say you're splintering through liquidity. Yes.
+
+[Speaker 4]
+No, no, no. Not just that. It's regulation, right?
+
+So if, you know, to launch a, to launch a token like the proper way, you have to make sure that like you, you know, understand the legalities and different jurisdictions because a lot of people just don't do this because they're like, whatever, you know, but, you know, it can really come and bite you back in the ass if, you know, like, hey, you launched a token and then, you know, the SEC comes knocking or, you know, and remember you're opening up yourself up to every single jurisdiction because it's blockchain, unless you actually say you can't trade this token in these jurisdictions, like, you know, certain platforms, you can't, as an American, you can't use it.
+
+[Speaker 3]
+I see where you're going with it. I see where you're going. And that's definitely something that would be at the forefront is the legality of it because, you know, nobody really has time to deal with that.
+
+What I was thinking is...
+
+[Speaker 2]
+Not doing it properly, I should say. If we could, I mean, I kind of am starting this with like my blockchain historical society and stuff is trying to get our hands on old relics and then potentially using those as like a reward system for supplying liquidity or something like that. Like, there's a lot of different ways we can go about it and still kind of not launch our own token, but find a way to reward those that add liquidity or there's a lot of different ways about things.
+
+And I've actually reached out to some people and got a hold of via just really digging into the blockchain and of some old developers that were launching tokens and stuff like that.
+
+[Speaker 3]
+So it could be NFT.
+
+[Speaker 2]
+It could be a lot of different things. For my buddy of mine, his name's like Tscurver or something like that on Twitter. And he wrapped a bunch of Xcopy NFTs into ERC20 tokens and they're pretty, yeah, they're pretty big.
+
+I mean, his last time I checked, the market cap was like, you know, anywhere between like 5 to 10 mil. And it's just, he just wrapped old or not old, but art from Xcopy in it. And just because Xcopy is like a historical artist that has a big following, like it makes it easier to trade it rather than like an NFT and stuff.
+
+A fractional?
+
+[Speaker 3]
+Like somebody could get a fractional amount of that?
+
+[Speaker 2]
+Yeah, they could.
+
+[Speaker 3]
+I think, yeah, I think you can as well. But there's something that I feel like people in the community would really bite and go for just because it has to do with like mist. So the legality thing of like an actual token, I agree with that.
+
+But something, just anything that could, uh, something that could like, uh, people who are already invested in this can feel like, you know, they're a part of something or they, they had got exclusive access to something because they're a holder. You know what I mean? Which starts there.
+
+And then from there we build out. Yeah, no. More liquidity, attention and liquidity, education.
+
+[Speaker 2]
+Well, I think a good way to be able to rep that you had own mist could be smart, whether it be a PFP or something like that.
+
+[Speaker 3]
+Like how you guys were talking about those badges earlier, those back in the day badges, same thing with like, uh, the dude from Bankless, like, like with the, with the Pope, you know, the P-O-A-P. Yeah, yeah, yeah. Yeah.
+
+Things like that. You know what I'm saying? Like something similar to that.
+
+And that could have a whole bunch of, that could open up a whole bunch of other, you know, doors to, that could lead back to the thing you were talking about of the, uh, Dow or society about the relics and, you know, collecting and stuff like that. Leads back to one another.
+
+[Speaker 2]
+Yeah. I think there's a huge, huge market for this, um, these relics and stuff. And I'm like, you know, I'm not going to go through and show any relics or anything like that.
+
+Um, but there's a huge, you know, like with any market, you know, like even like video games and stuff, like people are paying top dollar for the old early video games. You know, the ones that came out, some of the first ones, like you have, you have some of those in mint condition, you know, people are spending tens of thousands, if not hundreds of thousands of dollars for some of those things. You know, why does, why is crypto any different?
+
+Especially in the fact of crypto is like one year in crypto is like 10 years, you know, like that's how fast it, it kind of moves. Um, so like, I really see a huge opportunity in these early tokens, these early NFTs. Um, I think like a PFP or something, which is something that I was, I was kind of working on for mist, um, or another token that I was going to move over to mist.
+
+Um, the only thing is I kind of wanted to like do it for free, you know, or you locked up X amount of mist and you got your token, you got an NFT. If you didn't want your NFT anymore, you burned it and you got your mist back. Um, but it could be, we could do a certain percentage or fee just to build up, um, a little bit of whether it be a treasury or some liquidity to move over to base because, um, seeding base liquidity would be really, really great.
+
+Just my point. Yeah.
+
+[Speaker 3]
+We should do that. That was like the crux of what I was getting at really.
+
+[Speaker 2]
+It just needs to be a tasteful cause you don't want to dilute of course what we have here. Like the, like whether mist has liquidity on base or not. Like I'm, in my opinion, this is not financial advice.
+
+It doesn't matter. At some point, mist is going to come across the right eyes and this thing is going to blow the fuck up. Now, it would it be nice to have on, you know, nice liquidity on two chains just to give other people options.
+
+You know, ETH will be at some point it is hot right now on, on, you know, unusable, you know, at some point it will not unusable, but very expensive to use on. And that will drive a lot of people away. Um, so it would be nice to get, you know, another chain functional with, you know, cheaper gas.
+
+People like big, people love it. Yeah. No basis.
+
+I have some questions about base on, you know, some things they said, like, you know, if something did go down, I think they would bend the knee to the sec. And if you don't fucking give up your information, you won't be able to bridge out or something like that. It's always a possibility.
+
+[Speaker 3]
+Yeah. I see. I'm handing out Wells notices and stuff.
+
+Like I've been seeing that. I don't even know what that is, but it's probably like Wells notice. Yeah.
+
+Oh, it's just pretty much like, um, in layman's terms, it's kind of like a, uh, a forewarning of, or like a chance. That's like, that's like what the sec gives companies like, Hey, uh, just, just a heads up. Uh, we figure you're doing something that falls out of bounds of the law.
+
+[Speaker 4]
+Yeah.
+
+[Speaker 3]
+And this is your chance. So this is your like, uh, acknowledgement. This is your chance to realize we're on you pretty much.
+
+Or like something's coming. What is it? It's not an official charge.
+
+It's just kind of like a notice.
+
+[Speaker 4]
+Yeah. They're essentially saying they're saying that, you know, we are coming, we are going to take you to court for X and X for X and Y, and you should start preparing your, your defense, right? Yeah.
+
+So it's an intent to prosecute Robin hood.
+
+[Speaker 3]
+I've seen it with some other exchanges. So what you just said about base. Yes.
+
+That is also something that we should think about, um, you know, focusing in too much of our eggs in that base basket. I just figured base because only of the popularity, but yes, that is also a concern that I think about as well.
+
+[Speaker 4]
+I mean, base is pretty safe, uh, purely because it is Coinbase and Coinbase has actually, um, gone through the rigmarole, um, with the sec. I think that it's, it could be, there could be more right now, but it's like Coinbase is like the only one that's, um, is, is like backed. Like it's, it's fair that it's insured essentially.
+
+Um, so they went through that whole process, which is, which is good. Um, but yeah, if you didn't know Joe, Joe Lubin from consensus is actually taking the sec to court because of all this, all these Wells notices to, to different companies like, like, yeah, it's great.
+
+[Speaker 2]
+What's wrong, Gary didn't get, you know, didn't get the job at Binance. So now he's all salty and just so throwing notices at everybody.
+
+[Speaker 4]
+I have no idea. They're going off the Meta mask. They're going, they're going back on all the wallets.
+
+[Speaker 3]
+It's like, they're trying to just, it's like operation choke point. We're still in it.
+
+[Speaker 4]
+Yeah. They're basically, they're basically trying to now say, Hey, you know, it is a security, even though they've gone through like the same people who are saying that it's not a security have actually like, you know, stated that it is a, a, uh, what do you call it? Commodity in the past.
+
+They're trying to say that made a mask and other wallets, uh, broker, broker, uh, what's it called? A broker, broker dealers. Yeah.
+
+Which is absolutely insane. They're kind of just the terminology for broker dealer is just, um, not good enough. Yeah.
+
+I think everybody should go look that up they're basically hanging off the definition of facilitation. So like they say, Oh, but it facilitates, you know, but the fact is it's a piece of, it's a, it's an application and it can't, it can't like execute without you pushing a button. So in the same sense that they're calling, it's a facilitator, you can say that, Oh, okay, cool.
+
+Well, Apple and, and, and windows and, you know, Microsoft should also be in this, in this, you know, uh, what do you call it called case? Because they're also facilitating these things. They're facilitating in the same way that men and mask is.
+
+Yeah. I wouldn't worry about, I wouldn't worry about like, uh, you know, regulations for a token, like the bridge token, because the, the onus is that you're bridging the origin is the mist and none of us here are the creator of mist. So, and that would basically just be like opening up, making a case against a token that has already gone through the rigmarole.
+
+So, you know, I don't think we worry about bridging a wild precedent. Every single bridge token would also need to then doubly kind of like prove itself, which is, which is ridiculous. Um, but I like the idea of, um, of an extra kind of like, it almost like a marketing campaign, like a onboarding campaign.
+
+There's, I'm going to also think about it and chat to you.
+
+[Speaker 3]
+Um, AC, I think we have the power to do it with, with the amount of people that are already interested in this, um, because of the, just like the whole relic meta thing. Like it's not just about price go up. Like, I think the biggest thing that attracted me to it was just not the marketability of mist itself due to the, the provenance and the history and the associations, but how I'm literally in real time seeing OGs like eat OGs, like, you know, kind of like double back, like, cause it's like, it's kind of like, it's like a call back to like original the community, you know, before, before the 2021 blow off top, before meme coin mania, before Solana, before all that shit, like the OG feel like how it was back in the day. Like people have something that they can actually call back to literally it's what it's called a call back, like in, in, in, in writing or if anybody writes screenplays or anything like that, it has anything to do with entertainment.
+
+A callback is kind of like, or like in a joke, a callback is like, you know, you're literally referring back to something else that was said. I feel like mist is kind of like a call back to a time, you know what I mean? Like a vibe on a theorem that people can actually see that plus the timestamp thing is super, super, super smart.
+
+I don't know who came up with that, but that's really good. That's, that's, that's really good.
+
+[Speaker 2]
+Even, even, uh, even it embodies what I'm, what I'm trying to get across. Even Alex said that. And Alec is like, Alex is like, like, I'm not putting or anything like that, but Alex is like, he's still kind of like just blown back at what mist has become.
+
+He did not expect it to get to this point, which is fine. You know, he, he was just building and he ended up building something great trying to give him the flowers, bro. And he was like, nah, he's, he's just, he's what he is.
+
+He's just like a builder.
+
+[Speaker 3]
+He's just a builder.
+
+[Speaker 2]
+Yeah. He's a, he's a good guy. I've had a couple like, uh, conversations with him outside of the, um, the space, but he just, uh, yeah, he, he, he wants to build and make good things.
+
+And, uh, the, the, the whole unicorn, like that's one token I will talk about. Cause he brought it up. The unicorn token is super cool, really, really super cool, but it's like impossible to get your hands on.
+
+Like that would be potentially something that would be really, really cool to give, um, as like a reward or something, if you like locked up some mist. Um, but it's like impossible. They're like, so I like where you're going with that though.
+
+Like stuff like that, you know? Yeah. I think that falls in the line.
+
+And then also it kind of gives us a bit of leeway when it comes to litigation, because we didn't start these tokens. We're just giving them out. You know what I'm saying?
+
+Like we didn't actually, you know, launch these tokens. So if we were able to get our hands on some of them and just like give them out for free, not even necessarily like set a value behind it or anything, or, you know, even make a liquidity pool, it's still like, you're getting these old, you know, relic tokens, you know, at some, at some point somebody would probably make a pool and do a whole bunch of stuff and start an initiative and grow a community just like we did with mist, you know, like that's, what's great about this is like anybody could step up and do anything for whatever token it may be, whether it be an actual token that's a relic or something that was innovative of the time.
+
+Maybe it's not 2017, maybe it's not 2018 or, you know, maybe it's 2019, maybe it's 2020. Like that's still like, you know, you know, four or five years ago, like the space was much different then than it is now. I mean, look at Uniswap came around in 2020 and that was one of the, you know, probably one of the greatest crypto related tech advancements of our time.
+
+The fact that liquidity pools could be made and anybody could trade any token and doesn't really need much liquidity behind it. Like that was, you know, huge and that was just created in 2020. If you really think about it, like we are still so early in the tech development, you know, in the days of the, you know, the tech development, how farther we can go, you know, at some point, like with account abstraction, you're going to get to a point where you're not even, you're using crypto and you're not even using it.
+
+And you don't even know you're using it. You know, it's like, and that's when we're going to see the normies, you know, normal people start to get involved and they're not even going to know that they're using crypto, but on the back end they are. And then that's when you're going to see the explosion.
+
+That's when you're going to see Bitcoin hitting half a million, a million dollars, because the adoption is there, you know?
+
+[Speaker 3]
+I mean, is this turning into now?
+
+[Speaker 4]
+There was, there was Bancor and 0x protocol in 2017. So, I mean, there were on-chain, you know, swapping facilities for a long time, but Uniswap just...
+
+[Speaker 2]
+Don't, don't, don't fight me, dude.
+
+[Speaker 4]
+What I'm saying is that Uniswap just, Uniswap just did it really, really well. You know what I mean? They, they really did a great job.
+
+And one thing that they did was they had their code open source. They also, what do you call it? They, they, they iterated really, really quickly with v2.
+
+They, you know, they really did, they did something that was quite different.
+
+[Speaker 2]
+Yeah. They, they innovated.
+
+[Speaker 4]
+Yeah. Yeah, for sure.
+
+[Speaker 2]
+Yeah. I'm, I'm excited about Uniswap v4 too, with the whole hooks thing and everything. Like I was thinking about, you know, how to build on top of the hooks.
+
+I'm not a developer. I just kind of think of things in development ways and try to, you know, figure out a way to make cool stuff. But Uniswap, they did their thing for sure.
+
+And they definitely changed the game. 0x had liquidity pools like that? I thought they just had like straight up DEXs.
+
+[Speaker 4]
+Bancor and 0x. They, I think in the early days, I think 0x did have.
+
+[Speaker 2]
+I don't know, dude. I think Uniswap made the LP. I think Uniswap came up with the LP idea.
+
+[Speaker 4]
+Yeah, you might be right, but.
+
+[Speaker 2]
+Because I remember trading on like DDEX, which was, they used 0x, I'm pretty sure. Yeah. And that was like 2019.
+
+That was like when all the fucking burn tokens came out, which I think there's actually, you know, potentially some opportunity there and stuff. Some deflationary tokens, you know, with this whole inflationary shit going on. But yeah, no, it's been a crazy past.
+
+I've been in the game for like eight, eight, nine years. So it's crazy to see how far it's came. But I think that if anybody is interested and wants to make a Telegram group, just please message me on Telegram at Ascension Guide.
+
+I'm in the chat, you know, all the time and post and stuff. So just please shoot me a PM and I'll make a Miss Mondays private Telegram where we could talk about, you know, potentially topics or maybe special guests or what we could do. And, you know, I really think that this Miss Mondays could be built up to a really, you know, to have a lot of a lot of listeners in the futures and especially the way as MissCoin grows and gets more people in front of it.
+
+Like this is the this is the space to come and talk and shoot the shit, you know, potentially bring on other partners or whatever it may be. And, you know, just continue to grow this relic space, because the more that the relic space grows, you know, the bigger opportunity it is for Myst. So I'm probably going to wrap it up there, guys.
+
+Anybody that, you know, wants to shoot me a PM, you're more than welcome. I appreciate everybody jumping on. I think Alex had a lot of great things to say.
+
+Yeah, I'm excited for the future.
+
+[Speaker 3]
+Appreciate you, man.
+
+[Speaker 2]
+Yeah, for sure. I'll see you guys potentially next Monday. I want to do this every Monday, but at the very least, like every couple of Mondays.
+
+So I'll keep everybody posted in the chat in the Myst telegram. And yeah, we'll talk there. Thanks, everybody.

@@ -11,7 +11,11 @@ social:
   github: https://github.com/texture
 ---
 
-Texture was the first "community guy", reading and having his mind blown by the White Paper as one of the very people outside of the initial set of recipients.  Here he is, presenting on Ethereum with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on 15th December 2013!
+Texture was the first "community guy", reading the White Paper as one of the very people outside of the initial set of recipients and having his mind blown:
+
+*"I actually had envisioned everything in the paper before. I was more blown away by the fact that I found it and Vitalik a week after having the vision" - [Texture on Twitter, 29th August 2025](https://x.com/iamtexture/status/1961541627694219532)*
+
+Here he is, presenting on Ethereum with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) on 15th December 2013!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqqv_xrnDJ0" title="Anthony D'Onofrio - Ethereum talk" frameborder="0" allowfullscreen></iframe>
 
@@ -46,29 +50,38 @@ Love is a common theme for Texture, whose Medium account is:
 
 He used to stand on street corners giving out "free hugs" from what I remember.  I'll have to ask him about that!
 
-He posted this in 2018 on the fourth anniversary of the Miami beach house photo taken on 29th January 2014.  Shout out to [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}).
+He posted this in 2018 on the fourth anniversary of the Miami beach house photo taken on 29th January 2014:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/958018640615362565">https://x.com/iamtexture/status/958018640615362565</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/958018640615362565">January 29, 2018</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/iamtexture/status/958018640615362565">https://twitter.com/iamtexture/status/958018640615362565</a></p>&mdash; Texture (@iamtexture) <a href="https://twitter.com/iamtexture/status/958018640615362565">January 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And, further down the thread he said this, with my own efforts at Maple Syrup diplomacy in full flood at that point:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/958023651411947520">https://x.com/iamtexture/status/958023651411947520</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/958023651411947520">January 29, 2018</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/iamtexture/status/958023651411947520">https://twitter.com/iamtexture/status/958023651411947520</a></p>&mdash; Texture (@iamtexture) <a href="https://twitter.com/iamtexture/status/958023651411947520">January 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And, a little later in the month in response to my epic "Calling for an End to Tribalism in Ethereum":
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/iamtexture/status/956932468321349632">https://x.com/iamtexture/status/956932468321349632</a></p>&mdash; Anthony D'Onofrio (@iamtexture) <a href="https://twitter.com/iamtexture/status/956932468321349632">January 26, 2018</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/iamtexture/status/956932468321349632">https://twitter.com/iamtexture/status/956932468321349632</a></p>&mdash; Texture (@iamtexture) <a href="https://twitter.com/iamtexture/status/956932468321349632">January 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I stuck that epic rant into blog form a few days later:
 
-<a href="https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/" target="_blank" rel="noopener">A Call for an End to Tribalism in Ethereum (blog post)</a>
+<a href="https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/" target="_blank" rel="noopener">
+  <img src="/images/bobsummerwill.com/2025.09.03/2018.03.01_a-call-for-an-end-to-tribalism-in-ethereum-screenshot.png" alt="A Call for an End to Tribalism in Ethereum blog post screenshot" style="width: 50%; border-radius: 8px; margin: 18px 0;" />
+</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/xyz">https://t.co/xyz</a></p>&mdash; Texture (@iamtexture) <a href="https://twitter.com/iamtexture/status/1881067017182007801">January 19, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+And that turned into my opening keynote at the very first [ETHCC](https://ethcc.io) in Paris a week and a half later:
 
-[Who is Thomas Greco? Is the Mysterious Ethereum Adviser Shiba Inu Ryoshi?](https://cryptonews.net/news/other/20682665/)
+<a href="https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/" target="_blank" rel="noopener">
+  <img src="/images/bobsummerwill.com/2025.09.03/2018.03.08_ethereum-community-conference-2018-screenshot.jpg" alt="Ethereum Community Conference 2018 - Day 1" style="width: 50%; border-radius: 8px; margin: 18px 0;" />
+</a>
+
+Which I opened with the epic "Ethereum - Your Turn", from 12th March 2014 with voiceover by the aforementioned Charles Hoskinson:
+
+
+
+
 
 ## References
 
@@ -77,4 +90,3 @@ There are references to Texture in the following articles:
 - [Ethereum Community and Adoption Update - Week 1](https://blog.ethereum.org/2014/11/03/stephans-ethereum-community-adoption-update-week-1#meetups) - 3rd Nov 2014
 - [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }})
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})

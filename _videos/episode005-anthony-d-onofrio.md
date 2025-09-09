@@ -21,12 +21,14 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
         <li><a href="#the-vision">The Vision: Initial Thoughts on Ethereum</a></li>
         <li><a href="#early-days-skype-group">The Early Days: The Skype Group and White Paper</a></li>
         <li><a href="#technical-idealism-ux">The Problem with Technical Idealism & User Experience</a></li>
-        <li><a href="#palace-politics-neurodiversity">Palace Politics & Neurodiversity in Early Crypto</a></li>
+        <li><a href="#neurodiversity">Neurodiversity in Early Crypto</a></li>
         <li><a href="#miami-house-charles">The Miami House & Charles Hoskinson</a></li>
-        <li><a href="#zug-house-red-wedding">The Zug House & The Red Wedding</a></li>
+        <li><a href="#palace-politics">Palace Politics</a></li>
         <li><a href="#ethereum-foundation-structure">The Ethereum Foundation: Structure and Criticism</a></li>
     </ul>
 </div>
+
+<a id="introductions-small-talk"></a>
 
 [1:19] **Bob:**
 Can you hear me?
@@ -130,6 +132,8 @@ Accidental success. Fantastic.
 [6:32] **Jaime:**
 Great stuff.
 
+<a id="texture-background"></a>
+
 [6:32] **Bob:**
 Well, let's get going. Hi, Texture.
 
@@ -204,6 +208,8 @@ Yeah, Gary's a great guy.
 [11:04] **Texture:**
 He's pretty fun.
 
+<a id="the-vision"></a>
+
 [11:10] **Bob:**
 So tell me about the vision that you had, which was then the same as the white paper. Because on the Twitter thread, I was wrongly saying your mind was blown by the Ethereum white paper, where actually what happened was that you'd had a vision of this about a week before, and then the white paper landed on your lap. So what the hell was that about?
 
@@ -250,6 +256,8 @@ And he said, well, he just sent me this white paper a few days ago. I can like I
 
 [15:23] **Bob:**
 Yeah. Yeah.
+
+<a id="early-days-skype-group"></a>
 
 [15:26] **Texture:**
 So then, yeah, so he forwarded me the white paper. I looked at it, you know, to me, it wasn't as comprehensive as the vision that I had. But I thought, you know, this is kids met, you know, right?
@@ -379,6 +387,8 @@ Yeah, well, I mean, something that I saw in those early days of Ethereum as well
 
 Yeah, it's just nutty. So, but then it's like, I realized it's like hierarchy isn't the problem, being trapped in a hierarchy where it's to your detriment and you can't get out is the problem.
 
+<a id="technical-idealism-ux"></a>
+
 [25:24] **Texture:**
 Yeah. Yeah, and a lot of, I think a lot of times what happens in that is smart people, you know, smart people aren't really, they don't really understand not smart people. And so what happens is we are born into a world where these preexisting hierarchies exist and they've, you know, to some degree or another, you know, kind of persisted through generation after generation.
 
@@ -425,6 +435,8 @@ Now, I'm not saying this has never existed, but it's not like some nefarious guy
 And you got to enforce it with fire. Otherwise, you know, your kids end up dumping plates of food in their closet and you find it six months later. And so, you know, it's just that at scale.
 
 But you're going to have to keep me on topic as much as you want to, because I am a meanderer.
+
+<a id="neurodiversity"></a>
 
 [30:04] **Bob:**
 Yeah. On this human side, something I talked about during my maple syrup piece phase was neurodiversity and the fact that normies would not be involved in the early phases of such a project, right? It's absolutely crazy to go and do what you did.
@@ -547,6 +559,8 @@ The type of people who show up and are just wanting to build the thing. Cause it
 But when they show up and they're like, yeah, let's fucking, uh, let's make sure it's us. Let's make sure we're the ones let's like, fuck those people. Let's not communicate with them.
 
 So there was a lot of like political maneuvering that was required to survive.
+
+<a id="miami-house-charles"></a>
 
 [41:39] **Bob:**
 Yeah. And I mean, I guess that Miami house was where that really like dug in, cause that was the first time that most people were physically in the same location out of that.
@@ -867,6 +881,8 @@ Yeah, yeah, for sure. I mean, it was something which came up, I think, through s
 
 [1:09:47] **Texture:**
 Yeah, I don't know. That didn't happen to me, praise Vitalik.
+
+<a id="palace-politics"></a>
 
 [1:09:53] **Bob:**
 No, no. It's all right for you early guys. But yeah, what else they have noted?

@@ -28,10 +28,10 @@ Here is the [Twitter Spaces recording](https://x.com/i/spaces/1OdKrOlXqkwGX), wh
     </ul>
 </div>
 
-**Bob:** (1:19 - 1:19)
+[1:19] **Bob:**
 Can you hear me?
 
-**Jaime:** (1:27 - 2:25)
+[1:27] **Jaime:**
 Can you hear me? Yes, I can. Excellent.
 
 Happy Strato Spaces. GM, what's up guys? How are you?
@@ -40,112 +40,112 @@ I'm good. First week of September. I'm not sure if it's officially the first wee
 
 I know at Strato we have a very exciting month ahead.
 
-**Kieren:** (2:29 - 2:53)
+[2:29] **Kieren:**
 I think technically fall starts on either 21st or 22nd, but spiritually it starts after Labor Day, of course. I don't know if anyone has a white suit, but I actually sort of have a white suit, and you can no longer wear those already.
 
-**Jaime:** (2:55 - 3:00)
+[2:55] **Jaime:**
 I might have to see that. White suit's pretty nice.
 
-**Kieren:** (3:02 - 3:15)
+[3:02] **Kieren:**
 I may have a photo. I think it's been worn to two sort of summer weddings, and that's the only time it's been, but I could probably dig one up for you, Jamie.
 
-**Jaime:** (3:16 - 3:20)
+[3:16] **Jaime:**
 Yeah. Tex, you're welcome.
 
-**Kieren:** (3:23 - 3:25)
+[3:23] **Kieren:**
 We had him. We lost him.
 
-**Jaime:** (3:31 - 3:50)
+[3:31] **Jaime:**
 Give it a few more minutes for some more folks to pile in. Yeah, spiritually fall is here along with football to the behest of our European counterparts.
 
-**Kieren:** (3:55 - 4:05)
+[3:55] **Kieren:**
 By the way, for Spaces Resiliency, Chad Chippity is recommending two co-hosts up front. Now, do we already have the two, or can you add another one?
 
-**Jaime:** (4:06 - 4:09)
+[4:06] **Jaime:**
 Yeah, you and Bob are co-hosts.
 
-**Kieren:** (4:10 - 4:16)
+[4:10] **Kieren:**
 Okay, it just appears as speaker to me. Maybe it appears as co-host to Bob on Bob's side. Bob, are you a co-host successfully?
 
-**Bob:** (4:18 - 4:19)
+[4:18] **Bob:**
 It appears so.
 
-**Kieren:** (4:20 - 4:22)
+[4:20] **Kieren:**
 I see it now. Okay, fantastic.
 
-**Texture:** (4:33 - 4:34)
+[4:33] **Texture:**
 Can you hear me? All right, cool.
 
-**Kieren:** (4:36 - 4:54)
+[4:36] **Kieren:**
 Very, very kind of cool August for those of us who spent some of it in New York. Like, August is supposed to be hot, and it mostly wasn't. There's supposed to be a sharp transition heading into the fall, but it feels like it kind of started early this year.
 
 I don't know what's going on.
 
-**Jaime:** (4:56 - 5:09)
+[4:56] **Jaime:**
 Yeah, completely agree. A lot of long sleeves and sweatshirts during the night. A bit cooler texture.
 
-**Texture:** (5:10 - 5:13)
+[5:10] **Texture:**
 You guys are old. You've been around talking about the weather.
 
-**Kieren:** (5:14 - 5:15)
+[5:14] **Kieren:**
 We're waiting for you.
 
-**Texture:** (5:16 - 5:17)
+[5:16] **Texture:**
 Well, I'm here.
 
-**Kieren:** (5:18 - 5:19)
+[5:18] **Kieren:**
 Even better.
 
-**Jaime:** (5:20 - 5:20)
+[5:20] **Jaime:**
 Welcome.
 
-**Texture:** (5:21 - 5:22)
+[5:21] **Texture:**
 What's up?
 
-**Jaime:** (5:23 - 5:36)
+[5:23] **Jaime:**
 GM. Yeah, great to kick this off. I'll hand the mic over to Bob, but I just want to pay my compliments to your PFT texture.
 
 It's quite a good one.
 
-**Texture:** (5:37 - 5:39)
+[5:37] **Texture:**
 Thanks. Do you own a texture pump?
 
-**Jaime:** (5:40 - 5:50)
+[5:40] **Jaime:**
 I do not, but I saw a few folks with them and obviously noticed yours. Mike might have to get one.
 
-**Texture:** (5:51 - 6:12)
+[5:51] **Texture:**
 It was a joke because I thought punks were ugly, so I made myself a better one. Then a friend asked me to make her one, and then somebody else asked me to make one. Then 30 people later, I was like, I should just fucking make a little thing where they can make their own.
 
 Then my buddy started a Discord, and 10,000 people showed up, and I was like, look.
 
-**Jaime:** (6:14 - 6:17)
+[6:14] **Jaime:**
 That's some good lore. That's some great lore right there.
 
-**Texture:** (6:20 - 6:23)
+[6:20] **Texture:**
 I thought it was going to be me and my 100 friends.
 
-**Bob:** (6:26 - 6:28)
+[6:26] **Bob:**
 Accidental success. Fantastic.
 
-**Jaime:** (6:32 - 6:32)
+[6:32] **Jaime:**
 Great stuff.
 
-**Bob:** (6:32 - 6:37)
+[6:32] **Bob:**
 Well, let's get going. Hi, Texture.
 
-**Texture:** (6:38 - 6:41)
+[6:38] **Texture:**
 How are you? It's been a while. It's been a long time.
 
-**Bob:** (6:44 - 7:01)
+[6:44] **Bob:**
 When I think of you, the first thing I think of is love. Something I've spotted going through making my notes is your medium is called Peace, Love, Revolution.
 
-**Texture:** (7:01 - 7:02)
+[7:01] **Texture:**
 Yes.
 
-**Bob:** (7:03 - 7:04)
+[7:03] **Bob:**
 What's the story there?
 
-**Texture:** (7:09 - 8:27)
+[7:09] **Texture:**
 I wouldn't say a hippie. I didn't dress like a hippie. I didn't really hang out with hippies, but I took some psychedelics when I was a kid, and I had some experiences and drove my passion for doing good things and spreading love in the world.
 
 I know people that probably follow me are like, what the fuck? He just calls people retards all day. Yeah, but I'm on Twitter.
@@ -156,30 +156,30 @@ We just went out and did nice shit. For three years of my life, I was just homel
 
 So that was what I did for my early 20s. So that's what I was doing, community building. I accidentally started a cult, and when I realized that it was a cult, I shut it down.
 
-**Bob:** (8:29 - 8:30)
+[8:29] **Bob:**
 Okay.
 
-**Texture:** (8:31 - 8:36)
+[8:31] **Texture:**
 But it helped me. It was my first foray into cult building, which obviously- Right.
 
-**Bob:** (8:36 - 8:37)
+[8:36] **Bob:**
 Very useful.
 
-**Texture:** (8:38 - 8:41)
+[8:38] **Texture:**
 I took into my role in Ethereum, and I feel like the Ethereum cult is going pretty well.
 
-**Bob:** (8:43 - 8:49)
+[8:43] **Bob:**
 I seem to remember at some point you told me that you've probably hugged a thousand random people on the street.
 
-**Texture:** (8:50 - 9:10)
+[8:50] **Texture:**
 Oh, a thousand. A thousand in a day, probably 100,000 or more. Yeah.
 
 It was nice. It was good. I could waste this entire thing telling that story, but that's probably not what people want to hear.
 
-**Bob:** (9:12 - 9:17)
+[9:12] **Bob:**
 I mean, I can see why Decentralized Dance Party also appealed to you on that score.
 
-**Texture:** (9:18 - 9:52)
+[9:18] **Texture:**
 Yeah. So DDP, Gary, the guy who runs that, he came and stayed at my apartment in Brooklyn, and we had this three-story loft in a warehouse, and we'd let people come crash, and he came through, and that's how I met him. And I've done three or four of them.
 
 I was, what is it? It's Tom. I was Tom.
@@ -188,26 +188,26 @@ So Tom is like a rotator. I was Tom one time, so that was fun. I had to shave my
 
 I had a mustache. I looked funny.
 
-**Bob:** (9:55 - 10:06)
+[9:55] **Bob:**
 I'll drop some links on Twitter for that for anyone who hasn't seen Decentralized Dance Party, or you can go and have a Google on your own. It's quite exceptional.
 
-**Texture:** (10:07 - 10:18)
+[10:07] **Texture:**
 It's funny. I didn't really understand the decentralized thing at that point. I was not really involved, so he was kind of ahead of the curve on that with me.
 
-**Bob:** (10:19 - 11:03)
+[10:19] **Bob:**
 For sure. So yeah, that's Gary Lachance, who was a fellow Vancouverite with me. He was, funnily enough, in a photo for the very first item I could find about Vancouver Decentral, the whole Decentral Toronto, Vancouver thing.
 
 Gary was in that photo for the first one. Maybe well-known as well now for Doge Claren. So there is the Doge-wrapped McLaren, which travels around many conferences where they can get financial support for that.
 
 Yeah, Gary's a great guy.
 
-**Texture:** (11:04 - 11:04)
+[11:04] **Texture:**
 He's pretty fun.
 
-**Bob:** (11:10 - 11:40)
+[11:10] **Bob:**
 So tell me about the vision that you had, which was then the same as the white paper. Because on the Twitter thread, I was wrongly saying your mind was blown by the Ethereum white paper, where actually what happened was that you'd had a vision of this about a week before, and then the white paper landed on your lap. So what the hell was that about?
 
-**Texture:** (11:40 - 15:22)
+[11:40] **Texture:**
 Yeah. So what actually happened was I had a roommate for years ago, like years when I lived in New York, and he had tried to get me into Bitcoin when it was a dollar. And I said, this is like internet nerd money.
 
 I'm like a love revolutionary. I don't give a shit about this. And then he kept bothering me about it for years, and then it hit $1,400, and I was kind of humble enough to be like, well, if other people think it's worth something, I guess it is.
@@ -248,10 +248,10 @@ I don't know. I don't know anybody. I don't know anything.
 
 And he said, well, he just sent me this white paper a few days ago. I can like I can forward it to you. And can you guys still hear me?
 
-**Bob:** (15:23 - 15:24)
+[15:23] **Bob:**
 Yeah. Yeah.
 
-**Texture:** (15:26 - 16:00)
+[15:26] **Texture:**
 So then, yeah, so he forwarded me the white paper. I looked at it, you know, to me, it wasn't as comprehensive as the vision that I had. But I thought, you know, this is kids met, you know, right?
 
 What are the chances that all the stuff lined up like this? So I said, yeah, make the intro. And so we started a Skype group and, you know, Adam was there.
@@ -260,84 +260,84 @@ I remember Charles was there. Vitalik was there. I was there.
 
 It became the official Ethereum Skype group and just kind of grew from there. So, you know, it was like...
 
-**Kieren:** (16:00 - 16:01)
+[16:00] **Kieren:**
 Was that water cooler?
 
-**Texture:** (16:01 - 16:04)
+[16:01] **Texture:**
 No, no, no. Water cooler is something I made later because people...
 
-**Kieren:** (16:04 - 16:05)
+[16:04] **Kieren:**
 That was later.
 
-**Texture:** (16:05 - 16:27)
+[16:05] **Texture:**
 Yeah. So that was just the literal like main Ethereum Skype channel that we used to communicate for the first, I don't know, long time. Right.
 
 No, water cooler was something I created later because... I actually don't remember why. People were...
 
 I guess I was kind of like...
 
-**Bob:** (16:27 - 16:30)
+[16:27] **Bob:**
 I guess it's off topic or whatever, probably. Off topic chatty thing.
 
-**Texture:** (16:30 - 16:49)
+[16:30] **Texture:**
 Maybe, but like I was kind of like the dude that everybody trusted. And so like whenever anybody wanted to talk to somebody, they would come talk to me, which is why I got so much information about what was going on all the time. But yeah, so I think it was just an extension of that.
 
 Like people talk to me all the time. Let me create a little place for us to shoot the shit.
 
-**Bob:** (16:51 - 16:57)
+[16:51] **Bob:**
 So when do you think you had that trip to Washington? When do you think that would have been?
 
-**Texture:** (16:59 - 17:21)
+[16:59] **Texture:**
 I'm horrible with the time and dates, especially during that time, when you're like a free-flowing hippie dude. Yeah. But I would say it was the week after, the week, week and a half after Vitalik sent the white paper out to...
 
 Right, right. His original group of people to get the feedback on.
 
-**Bob:** (17:22 - 17:26)
+[17:22] **Bob:**
 Yeah. So it might even have been during November still.
 
-**Texture:** (17:27 - 17:37)
+[17:27] **Texture:**
 Yeah. I mean, it was as early as you could get. I mean, just by happenstance, just by the timing, I was there.
 
 Basically, the moment we were coming together.
 
-**Bob:** (17:38 - 17:57)
+[17:38] **Bob:**
 Yeah. Yeah. It's amazing.
 
 Because yeah, so I was able to find that the video of you and Vitalik at the salon, which was beaming into the Vancouver Decentral there. And that was December the 15th, that was?
 
-**Texture:** (17:58 - 17:58)
+[17:58] **Texture:**
 Yeah.
 
-**Bob:** (17:58 - 17:59)
+[17:58] **Bob:**
 You did that one?
 
-**Texture:** (18:00 - 18:10)
+[18:00] **Texture:**
 Yeah. So we've been... Yeah.
 
 I mean, again, the timing, the timing, I don't know. But yeah, obviously, by that time, we had been doing it for a minute.
 
-**Bob:** (18:10 - 18:25)
+[18:10] **Bob:**
 Yeah. I mean, the funny thing was looking at that, that's before there was any code, any public code, at least. There wasn't even any Python code from Vitalik published at that point.
 
 Gav and Jeff were weeks away still.
 
-**Texture:** (18:25 - 18:33)
+[18:25] **Texture:**
 Yeah. And Jeff, to my understanding, just read the white paper and started coding it up on his own and said, hey, I've got this go implementation.
 
-**Bob:** (18:34 - 18:45)
+[18:34] **Bob:**
 Yeah, pretty much. And the same for Gav. They were both at the very tail end of December, basically like a Christmas project kind of deal for the pair of them.
 
-**Texture:** (18:45 - 19:06)
+[18:45] **Texture:**
 Yeah. No, it was great. And I've been a developer my whole life since I was a kid.
 
 And since I quit coding, I wasn't really sure where I fit in, you know. But I was really happy when all these other people got in. I guess maybe if I had dropped some code and gotten a lot more ETH, that would have been cool, but whatever.
 
-**Bob:** (19:08 - 19:27)
+[19:08] **Bob:**
 So, I mean, to you at that point, what was Ethereum? Like, what was this vision? And what were you thinking that that could unfold to be?
 
 You know, what was the kernel of that?
 
-**Texture:** (19:27 - 21:01)
+[19:27] **Texture:**
 Yeah. So, I mean, it's so hard to remember those days. There's so much on top of it now.
 
 You know, I remember the general vibe was just a technology that would allow people to coordinate, to encode value. I mean, you know, like just at all dimensions, things that haven't even come to fruition yet, things that people aren't even thinking about, because so much of it has gone to scale, just like fundraising, fundraising locally, just coordinating anything. I mean, it was just the whole world, like just imagining every single system being replaced by this decentralized coordination structure that gives some 11-year-old kid in Bangalore could create the next technical development.
@@ -346,40 +346,40 @@ And, you know, I think that kind of platform is just something that seemed reall
 
 And that's a really shitty description of the vision that I had because it was so deep and so multidimensional. And yeah, but yeah.
 
-**Bob:** (21:02 - 21:05)
+[21:02] **Bob:**
 Social operating system is something I've seen you say on a few occasions.
 
-**Texture:** (21:06 - 22:06)
+[21:06] **Texture:**
 Yeah, I mean, yeah, just there's so many dimensions to it. But yeah, I mean, a social operating system for allowing people to encode their values or encode, yeah, literally their values, anything with value, creating incentive structures, contracts that are enforced at the exact level that they were designed to. Which none of that sounds really technical and unsexy.
 
 But to me, it was really about the impact, you know, what happens when you empower people to be able to create value in their local communities or encode value in ways they haven't been able to. What happens when, you know, the equity in your company can be easily traded, you know, just all these things. What happens when you can do that to houses and local businesses and local communities?
 
-**Bob:** (22:09 - 22:34)
+[22:09] **Bob:**
 Yeah, I mean, I think in my own sort of thinking in those early days, it was an awful lot about empowerment and about, you know, giving people the ability to control their own destiny, right? Yeah. And something I repeatedly thought was like, if you think about the, what's it called?
 
 The pyramid of needs? What's it called? I forget the...
 
-**Kieren:** (22:34 - 22:35)
+[22:34] **Kieren:**
 Maslow. The hierarchy.
 
-**Bob:** (22:35 - 23:32)
+[22:35] **Bob:**
 Yeah, Maslow's, right? Maslow's hierarchy of needs. You know, I remember a number of times saying, you know, it's frankly obscene given all the resources that we have in the world and how, you know, how much more there is than was in previous years.
 
 It's obscene that people should be like worried about housing or education or healthcare or, you know, just these basic things, right? And how wonderful would it be if you could like yank up that base layer a little bit so that people are not like living in this fearful place of powerlessness, but instead can be like not worrying about that shit and not having to make these compromise bad decisions and everything, but just if you could do what you love, what a world that would be.
 
-**Texture:** (23:33 - 24:35)
+[23:33] **Texture:**
 Yeah. And I'm a lot less idealistic about it now after the last decade for a lot of reasons, but, you know, the marshmallow test is real and you can create really good technologies and really good user experiences and as many guardrails as you can for people. But at the end of the day, there's motherfuckers that are going to eat the marshmallow before they even hear the rules, you know, and then they'll do it again and again.
 
 So, you know, I think there's a lot of... It's not that I think the problems are unsolvable, but they're, you know, the idea that it's something from above being imposed down, you know, despite the fact that the system seemed to be that way, I think a lot of it is just the level of complexity of modern life relative to the average intelligence is... It's just, it's a wide gap and there's a lot of...
 
 I mean, I don't know, I could talk about that for fucking 10 hours too, so.
 
-**Bob:** (24:36 - 25:23)
+[24:36] **Bob:**
 Yeah, well, I mean, something that I saw in those early days of Ethereum as well was a real kind of almost like allergic reaction to anything that looked like organization or hierarchy or structure, you know, just like this total flip to the opposite side, right? Everything's got to be flat and open and, you know, everyone involved with everything. Which is just completely impractical for actually organizing or doing anything.
 
 Yeah, it's just nutty. So, but then it's like, I realized it's like hierarchy isn't the problem, being trapped in a hierarchy where it's to your detriment and you can't get out is the problem.
 
-**Texture:** (25:24 - 28:17)
+[25:24] **Texture:**
 Yeah. Yeah, and a lot of, I think a lot of times what happens in that is smart people, you know, smart people aren't really, they don't really understand not smart people. And so what happens is we are born into a world where these preexisting hierarchies exist and they've, you know, to some degree or another, you know, kind of persisted through generation after generation.
 
 And then we come in and we're like, why am I at the bottom of this hierarchy? I'm smart. We're all too smart for this.
@@ -398,26 +398,26 @@ But through that simplification, not creating these kind of hells that no one ca
 
 We can try to make it simpler, more efficient, better and more adaptable. But those are a lot of dimensions that any one of them out of sync is going to create either more problems or the system itself will collapse, right? And, you know, if the system doesn't exist then nobody gets anything.
 
-**Bob:** (28:19 - 28:24)
+[28:19] **Bob:**
 Yeah. I mean, I guess it's a little bit analogous to sort of technical death and things in code.
 
-**Texture:** (28:25 - 28:25)
+[28:25] **Texture:**
 Yep.
 
-**Bob:** (28:25 - 28:39)
+[28:25] **Bob:**
 Is if you've got code and you're like, Jesus, look at this. It's so much like complexity and these conditions. I don't think we need any of that.
 
 Let's just take all that out. But, you know, someone did that for a reason.
 
-**Bob:** (28:39 - 28:39)
+[28:39] **Bob:**
 Yeah.
 
-**Bob:** (28:39 - 29:14)
+[28:39] **Bob:**
 You may not know the reason, but, you know, it was done for a reason and, you know, you're going to have some consequence if you do that, right? You can only be so simple without being, you know, too simplistic and then you miss out on that detail. I mean, I guess it's like, you know, with sort of US legal stuff, you know, this hot liquid might burn you or whatever.
 
 You just know that some shit's happened in the past, right? The reason that all of these things have happened is someone's done something really fucking stupid.
 
-**Texture:** (29:15 - 30:03)
+[29:15] **Texture:**
 Yeah. And I, you know, after I became a father, I became really a huge proponent of the idea of if you think a stupid rule exists because the person who made it is stupid, you haven't thought through the problem. It isn't a bunch of people.
 
 Now, I'm not saying this has never existed, but it's not like some nefarious guy at the top who wants to just ruin your life. It's some fucking idiot who did some idiot shit. And then now you got to make a stupid rule, you know what I mean?
@@ -426,7 +426,7 @@ And you got to enforce it with fire. Otherwise, you know, your kids end up dumpi
 
 But you're going to have to keep me on topic as much as you want to, because I am a meanderer.
 
-**Bob:** (30:04 - 30:56)
+[30:04] **Bob:**
 Yeah. On this human side, something I talked about during my maple syrup piece phase was neurodiversity and the fact that normies would not be involved in the early phases of such a project, right? It's absolutely crazy to go and do what you did.
 
 It's crazy what most people did. Yeah. So how does that play out?
@@ -435,7 +435,7 @@ The fact that in these frontier technologies, you don't have normal people. Well
 
 What do you think is happening there?
 
-**Texture:** (30:56 - 35:25)
+[30:56] **Texture:**
 I think it's just the structure of how things have always occurred, right? So you have these kind of people on the front edge. And I was on the internet from, I remember reading when the HTML 2.0 spec was about to come out, right?
 
 And so the early days of the internet, it was that. And so I was on the internet all day talking to people. And there was a technical barrier.
@@ -470,48 +470,48 @@ Whatever it is, it's just grandma still can't use this shit. It's 10 years in. I
 
 Within six months, we could solve these problems. And I just don't see it.
 
-**Bob:** (35:25 - 35:47)
+[35:25] **Bob:**
 I guess this is the reason why things like the ETFs are so appealing, right? Can I just not deal with any of this shit at all? But I can just use my bridge account I've already got.
 
 It's just a thing that I buy or sell, right? And just, you know, it's a proxy for it, but most people don't care.
 
-**Texture:** (35:47 - 35:51)
+[35:47] **Texture:**
 Yeah, but that reduces it to an investment vehicle, right? It does.
 
-**Bob:** (35:51 - 35:51)
+[35:51] **Bob:**
 It does.
 
-**Bob:** (35:52 - 35:53)
+[35:52] **Bob:**
 And maybe for- It does.
 
-**Bob:** (35:53 - 36:29)
+[35:53] **Bob:**
 And then that's really a failure, as you say, on delivery of the holistic platform that you do need something which is absolutely better, right? It's just like a product question, really, right? It's saying, unless the product that you are offering is absolutely better than something existing or is cheaper or gives you some other benefits or whatever, then normal people are not going to use it.
 
-**Bob:** (36:29 - 36:29)
+[36:29] **Bob:**
 Correct.
 
-**Bob:** (36:29 - 36:39)
+[36:29] **Bob:**
 It doesn't matter what your world view is behind that. You've given them something that's worse than what they have, so they don't care.
 
-**Texture:** (36:39 - 37:05)
+[36:39] **Texture:**
 Yeah, and so I think exchanges and things like that kind of acting as a buffer, it's a step. Ultimately, how are these things going to be used? The end user is probably not going to know what they're using on the backend any more than the average person knows what processor is in their phone.
 
-**Bob:** (37:06 - 37:50)
+[37:06] **Bob:**
 So- No, I mean, I guess the hope is it's like a layering thing, right? That in the same way as you've got those DeFi primitives, that you're going to layer this whatever social recovery or buffered amounts or whatever, or insurance for fuck-ups or all this sort of stuff, right? You should be able to put together a stack of things that have an equivalent kind of characteristic and experience to existing things, but without that strong dependence on a single legal entity that's got that customer service provider kind of pattern rather than just it being raw, dangerous as you experienced there.
 
-**Texture:** (37:50 - 38:01)
+[37:50] **Texture:**
 Yeah, and I mean, to this day, I feel anxious all the time because I hold crypto, you know? Me, I feel anxious all the time.
 
-**Bob:** (38:01 - 38:02)
+[38:01] **Bob:**
 Yeah.
 
-**Texture:** (38:02 - 38:02)
+[38:02] **Texture:**
 You know what I mean?
 
-**Bob:** (38:03 - 38:05)
+[38:03] **Bob:**
 I think we all do.
 
-**Texture:** (38:05 - 38:44)
+[38:05] **Texture:**
 So it's like, that's not an experience that the average person wants. The average person wants to put their money in a bank account. The average person wants to click a button and if something goes wrong to be able to reverse it.
 
 You know, we haven't really addressed any of that. Again, it's a failure because the people who are in charge think like anyone can do what they're doing and it's not that big of a deal. And like, all you have to do is do this and like blah, blah, blah.
@@ -520,12 +520,12 @@ It's like, no, all they have to do is click a button. You've done it. That's you
 
 Click one button and not worry about anything. You just know the thing is going to happen. And if it doesn't, it'll get fixed.
 
-**Bob:** (38:45 - 39:31)
+[38:45] **Bob:**
 Yeah, yeah. So I mean, when I was looking through sort of different phases of this period that I've been covering in the early days of Ethereum sort of website there, I was noticing, so in January and February 2014, there's just such a flood of people that came in. I mean, there were a fair chunk in December, but that just really accelerated through January and February.
 
 So I mean, how did that like play out? That you've just got like tons and tons of people, you know, rocking up and really like volunteering?
 
-**Texture:** (39:33 - 41:37)
+[39:33] **Texture:**
 It turned everything into Game of Thrones. Yeah, that's what happened. It turned everything into Game of Thrones.
 
 So like I was there day one. I was doing, I was making sure like, you know, first thing I did was Vitalik posted this website that he made. It was piss yellow.
@@ -548,10 +548,10 @@ But when they show up and they're like, yeah, let's fucking, uh, let's make sure
 
 So there was a lot of like political maneuvering that was required to survive.
 
-**Bob:** (41:39 - 41:51)
+[41:39] **Bob:**
 Yeah. And I mean, I guess that Miami house was where that really like dug in, cause that was the first time that most people were physically in the same location out of that.
 
-**Texture:** (41:51 - 43:36)
+[41:51] **Texture:**
 So it was pretty fun. The weirdest part about that was meeting Charles and, um, you know, Charles, I, he might've been the first person who is doing kind of the thing that I just said, right? Like he just showed up and kind of inserted himself and was like, I'm going to be CEO.
 
 And I'm like, he was just, he's just a fucking liar though, man. He was like 24 or something. And he presented himself like he was 50 years old and he'd been in tech forever.
@@ -566,10 +566,10 @@ Like, okay, well maybe he's our sociopath, you know, like every company has a so
 
 He's a fucking compulsive liar, manipulative weirdo. Kieran, were you going to say something?
 
-**Kieren:** (43:37 - 43:42)
+[43:37] **Kieren:**
 I was just going to say in Charles' defense, uh, at that time he did look 50 years old.
 
-**Texture:** (43:46 - 46:18)
+[43:46] **Texture:**
 Bro, when I found out he was like fucking seven years younger than me, I was like, what the, why am I deferring to this kid? He's like, what the hell? Um, so yeah, it was, it was weird, man.
 
 And like in the Miami house, he just said some of the weirdest shit to me. Um, there was some thing from, I don't know, I won't go into too many details. I've, I've covered them and given interviews to people who have reported on it, but not under my name.
@@ -600,38 +600,38 @@ Yeah. I mean, no one else was kicked out. Let's just say that.
 
 I guess Amir left, but that's another story.
 
-**Bob:** (46:19 - 46:29)
+[46:19] **Bob:**
 Well, Amir was kind of kicked out from what I saw based on the fact that people thought he wasn't actually doing anything. He wasn't really like pulling his weight or doing anything useful.
 
-**Texture:** (46:30 - 46:41)
+[46:30] **Texture:**
 I like, I liked Amir as a person. We haven't talked to him in a few years. We're still cool to this day, but yeah.
 
 I mean, what, what was his skillset? Yeah. I don't know.
 
-**Bob:** (46:41 - 47:01)
+[46:41] **Bob:**
 There's Debbie sort of stuff. He said he was, he was talking to people, potential investors sort of thing. Um, but, uh, yeah.
 
 Yeah. And I mean, uh, in terms of Charles, it took me a lot of years to really understand Charles, shall we say.
 
-**Texture:** (47:01 - 47:10)
+[47:01] **Texture:**
 Yeah. You, you know, I defended you on that because I think you're like a really sweet guy and I think I understand your perspective. So whether or not I like Charles, I'm going to come defend you.
 
-**Kieren:** (47:12 - 47:38)
+[47:12] **Kieren:**
 Not to dig too much, but, um, Charles is kind of like buddy assistant partner guy. Is his name Jeremy? I'm trying, I'm remembering cause I actually thought he was, yeah.
 
 And there was more there, but, um, I I'm just to texture's point, you know, um, maybe he was just naive or maybe he has no more than I do, but that wasn't sort of a strange dichotomy.
 
-**Texture:** (47:38 - 47:57)
+[47:38] **Texture:**
 Yeah. Again, I think it was just whoever would follow him around and not question him. Like that's how you got to be his right hand man.
 
 The less questions you ask, the closer, better friend you are, the more you listen to his stupid stories. Didn't call him on it. You know what I mean?
 
 Like I met this, I was on the front lines of Afghanistan for DARPA and now I'm like, shut the fuck up, Charles.
 
-**Bob:** (48:01 - 48:04)
+[48:01] **Bob:**
 With Jeremy Wood, he notably called him boy. Come here, boy.
 
-**Texture:** (48:06 - 49:40)
+[48:06] **Texture:**
 Well, I never saw that. I'm telling you, like, I remember some story about him, like playing games with people in the ZUG house, like sending somebody's sending somebody off who, who's like a wife was there, a girlfriend and, and telling them that they had to go do this thing for him, uh, out of town. And then when that person had left, he then tried to convince one of the other dudes to like get with the dude's wife.
 
 Like just weird stuff, man. Like just things that they're not, that they have not, why would you do that? You know what I mean?
@@ -646,32 +646,32 @@ So I ended up under Stefan. I couldn't go to ZUG cause my girlfriend was pregnan
 
 Stefan was, I don't know, high energy, high anxiety, dude. It was a weird thing.
 
-**Kieren:** (49:44 - 49:48)
+[49:44] **Kieren:**
 He was smoking the stereotypical amount of cigarettes at the time.
 
-**Texture:** (49:49 - 49:55)
+[49:49] **Texture:**
 The stereotypical amount. That dude lived, he had a vape that he puffed.
 
-**Kieren:** (49:56 - 49:57)
+[49:56] **Kieren:**
 You're right. It was a vape.
 
-**Texture:** (49:58 - 50:42)
+[49:58] **Texture:**
 It was a vape. And so I went, you know, with DevCon Zero, I went and spent a week with them in, um, the office in, in, uh, London. And dude, Stefan, if you weren't having a fucking panic attack, Stefan couldn't tell you were working.
 
 It was crazy. And he would pace around this coworking space like nobody else was there. Just the whole place looked like a fucking rave, dude.
 
 I think he got kicked out because he was trying to film a TV show and vaping too much. And he had bought like $50,000 worth of camera equipment because his dream was to start a TV show or something on the Ethereum budget.
 
-**Bob:** (50:47 - 50:52)
+[50:47] **Bob:**
 Yeah, I heard that London location was pretty special.
 
-**Texture:** (50:52 - 50:53)
+[50:52] **Texture:**
 It was weird, man.
 
-**Bob:** (50:57 - 50:59)
+[50:57] **Bob:**
 Did you say you were never in ZUG?
 
-**Texture:** (51:00 - 51:43)
+[51:00] **Texture:**
 I never, no, I never went. Um, I had, so my girlfriend at the time was pregnant. Um, I had spent a month in Panama with Eric Voorhees and his team, um, while she was pregnant.
 
 So honestly, in retrospect, uh, if I could go to ZUG, you know, it's hard to know how things would have played out because of the political stuff with my, my, I was not political. I didn't have any strategy. I didn't, I was not prepared for any of that shit.
@@ -680,54 +680,54 @@ Uh, my, I just tried to be like the most authentic, like trustworthy, do what I 
 
 I really don't, all of that stuff was really weird.
 
-**Bob:** (51:47 - 52:57)
+[51:47] **Bob:**
 I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum foundation. Right. You know, so the red wedding was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably Ansemedia Oreo coming to, uh, ZUG at that point to sign papers.
 
 Right. You know, it was, it was to do with that F Swiss, uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.
 
 Uh, and then the foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
 
-**Texture:** (52:57 - 53:05)
+[52:57] **Texture:**
 Yeah. We kept saying two weeks. I don't know.
 
 That was a meme for a very long time. Two weeks, two weeks, two weeks.
 
-**Bob:** (53:07 - 53:17)
+[53:07] **Bob:**
 Well, the website that was up at the time of the Miami conference, uh, was showing a countdown to the 1st of February. That was when the sale was going to start.
 
-**Texture:** (53:17 - 53:50)
+[53:17] **Texture:**
 Yeah. And then, you know, I was with Vitalik when the sale was launched. Uh, we had hung out all day in San Francisco.
 
 We were in the Westfield mall in the food court for, uh, uh, he needed wifi. Um, and he was just sitting there and he just looked up at me and he goes, oh, the crowd sale went live. Um, because that wasn't planned.
 
 I don't know if Taylor talked to you about that. Uh, that was an accidental launch.
 
-**Bob:** (53:50 - 53:50)
+[53:50] **Bob:**
 Was it?
 
-**Texture:** (53:51 - 54:07)
+[53:51] **Texture:**
 It was an accident. I don't know. You have to ask Taylor about that, but yeah, I guess he accidentally accidentally hit the button because, you know, it was legal.
 
 Like that's what kept happening. They kept saying, we're waiting on legal. We're waiting on legal.
 
 We're waiting on legal. We're waiting like, fuck legal in retrospect. Right.
 
-**Bob:** (54:11 - 54:14)
+[54:11] **Bob:**
 So you and Karen must have met each other a little bit.
 
-**Texture:** (54:14 - 54:15)
+[54:14] **Texture:**
 Yeah.
 
-**Bob:** (54:15 - 54:15)
+[54:15] **Bob:**
 Various times.
 
-**Texture:** (54:15 - 54:25)
+[54:15] **Texture:**
 Yeah. We've, we've actually hung out more probably in the last five years than we did back then. Um, yeah.
 
-**Bob:** (54:27 - 54:34)
+[54:27] **Bob:**
 And I guess that Karen, you saw more of that sort of New York legal side of things.
 
-**Kieren:** (54:35 - 57:04)
+[54:35] **Kieren:**
 Yeah. So, uh, okay. This is a good, good tie in point.
 
 So, uh, and, and Bob, uh, at your request, of course, I was digging through the emails trying to piece together some pieces of the timeline, you know, yesterday, day before. So I had, um, I think by March I was, um, talking with Vitalik and, um, you know, I was in academia at that time. And he kind of found it useful to bounce like protocol, economic modeling stuff off, you know, like I was like good at reading the white papers and understand what they were doing.
@@ -740,7 +740,7 @@ Scalability was very much anticipated as a problem and, you know, it took a coup
 
 And I'm trying to remember, so, uh, Texture, we mostly worked together just on the site basically. Like, uh, I guess you were like, you know, web designer at that time, but I'm trying to remember.
 
-**Texture:** (57:05 - 58:54)
+[57:05] **Texture:**
 Yeah, I was doing web design. We had talked about the CRG, Cryptocurrency Research Group, uh, and I was like, that's cool. Let me build a website.
 
 I remember throwing, you know, faces on it and then it just kind of puttered out, which, you know, it's, you know, like, um, it would have, it would have been a like cool thing, fun thing. I don't know. Um, but also, uh, there's a story about DeOreo, not anyways, I like, I didn't know people were getting paid for a long time.
@@ -755,33 +755,33 @@ Anyways, I talked to Vitalik, the way it goes back to the CRG, um, is, uh, the, 
 
 Exactly.
 
-**Kieren:** (58:56 - 59:03)
+[58:56] **Kieren:**
 20 cents was the, uh, pre-sale price. Yeah. Something like that.
 
 So it'd be like, uh, quite the, quite the amount of ETH.
 
-**Texture:** (59:04 - 59:09)
+[59:04] **Texture:**
 Yeah. So just like 15,000 ETH and we'll call it even. All right.
 
 All right.
 
-**Bob:** (59:13 - 59:28)
+[59:13] **Bob:**
 But yeah, I mean, I guess, you know, many, that was the case for many people through those months, you know, for some people that was nine, 10 months of, of unpaid contributions.
 
-**Kieren:** (59:29 - 59:43)
+[59:29] **Kieren:**
 My, my memory is also that Anthony was the main force behind sort of actually not quite stopping, but delaying the funding to the, the CCRG. So like somehow we got it, some of it way later.
 
-**Bob:** (59:43 - 59:43)
+[59:43] **Bob:**
 DRO.
 
-**Kieren:** (59:48 - 1:00:41)
+[59:48] **Kieren:**
 And it was like, not quite the original amount, but it was still some, but we were all like working on different things at that time. We ended up returning it, I think, but yeah, it was a strange, like the, the strange delay that happened, I guess, like right after the pre-sale. So before people are working, you know, uncompensated or largely uncompensated.
 
 And then right after there was, I suppose like a big cash grab going on. So like, but maybe, you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.
 
 And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
-**Bob:** (1:00:42 - 1:03:00)
+[1:00:42] **Bob:**
 Yeah, so, so Anthony Fiorio, not you, incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had Ethereum Swiss got formed in Switzerland somewhere in April, I think.
 
 You had Gav incorporating Ethereum dev in Berlin. Jeff in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
@@ -794,31 +794,31 @@ And in Cryptopians, it talks about Gav maybe wanting to like grab all of the mon
 
 Most people were actually working as staff or contractors for these for-profit legal entities, which were sort of doing the work.
 
-**Kieren:** (1:03:02 - 1:03:24)
+[1:03:02] **Kieren:**
 Yeah, I think, I guess they must have got it kind of like having now run a business for a long time, you got to set up sensible contracts and IP agreements and or, you know, sometimes that looks like an intercompany agreement. And then, you know, if you do it in the buttoned up way, there's like a lot of headache associated with such things.
 
-**Bob:** (1:03:25 - 1:03:28)
+[1:03:25] **Bob:**
 I think it was a lot looser than that.
 
-**Kieren:** (1:03:28 - 1:03:42)
+[1:03:28] **Kieren:**
 I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole Red Wedding week, you know, so. Yes, yes.
 
-**Bob:** (1:03:44 - 1:04:04)
+[1:03:44] **Bob:**
 And yes, the majority of those legal entities have since been shut down. That was something that Ming did over the course of her time was tidy up all of this like corporate mess that was maybe not really even required in the first place.
 
-**Texture:** (1:04:06 - 1:04:09)
+[1:04:06] **Texture:**
 Yeah, I mean. Go ahead.
 
-**Kieren:** (1:04:09 - 1:04:17)
+[1:04:09] **Kieren:**
 Sorry. They could have just worked for the foundation, but I guess they didn't want to be in Switzerland, which maybe was part of it.
 
-**Bob:** (1:04:18 - 1:04:34)
+[1:04:18] **Bob:**
 And I mean, yeah, well, this was another funny thing, right, with the spaceship was that there was an expectation at the start there that it was going to be a lot of development work happening in Switzerland as well. And then that never happened.
 
-**Texture:** (1:04:35 - 1:04:52)
+[1:04:35] **Texture:**
 Also, it kind of goes against the Charles was fired for wanting to make it corporate when every single person filed their own corporate legal entity in an attempt to divert the funds to their own personal power structure.
 
-**Kieren:** (1:04:53 - 1:06:33)
+[1:04:53] **Kieren:**
 Yeah, I'll add because I was in the room for some of this, Gavin immediately started talking about brain drain when there was to be no crypto Google. So I guess like they for a long time, they wanted to do hybrid for profit, nonprofit. And the protocol sits in the not for profit and the for profit tries to commercialize and yada, yada, yada.
 
 And of course, in the end, everyone's like the tokens were worth more than probably any equity would have ever been worth. But yeah, I think it's definitely a mix of factors. I think it's primarily what you said, but also, you know, like the I think while there's just a grossness to Charles, I'm like, I guess, OK with being on record on, I think there was also a dev guy business guy divide that to your point on like the autists, right?
@@ -827,59 +827,59 @@ You know, not that they were great at business like Amir Charles, but there was 
 
 I'm not saying it was all that effective in their hands, but there was this like meaty commercialization gap. And so, yeah, to your point, everyone then started their own companies, ConsenSys being the most successful of them and kind of filling that business guy plus commercialization role from there on.
 
-**Texture:** (1:06:35 - 1:06:39)
+[1:06:35] **Texture:**
 You're saying the guy with the most business experience did the best.
 
-**Kieren:** (1:06:41 - 1:06:41)
+[1:06:41] **Kieren:**
 So it seems.
 
-**Texture:** (1:06:43 - 1:07:08)
+[1:06:43] **Texture:**
 What's funny, when I met your dad in the Miami house, I just thought he was somebody's dad. I mean, obviously, in retrospect, he was yours, but I didn't know that he would go on to become Joe Lubin. You know, I just remember like shooting shit with him and talking to him about the thoughts and stuff.
 
 He was real quiet and told me about his time making music videos in Jamaica or whatever.
 
-**Kieren:** (1:07:09 - 1:07:32)
+[1:07:09] **Kieren:**
 Yeah, that was right after that. He also, for a time, he believed that he would be a software developer for Ethereum. And then I guess he realized like no one knew anything about business.
 
 And he'd done a tour in corporate from the IT side and then run a hedge fund. So the most understood how things worked, I guess.
 
-**Texture:** (1:07:32 - 1:07:58)
+[1:07:32] **Texture:**
 Yeah, much better than everyone else. I knew how to exist in a fucking early stage startup because I'd been doing that for 10 years over and over. So my major contribution was not saying, have you guys ever heard of a four year vesting period?
 
 I thought it a bunch and I was like, I don't want to be here for four years. I'm not going to say that shit.
 
-**Bob:** (1:08:00 - 1:09:01)
+[1:08:00] **Bob:**
 Yeah, I mean, it's something which I've seen people comment on a fair bit is, you know, the early contributor slice, which was 9.9% of the ether, which was shared between the people who did contribute over those of amulets, 10 months or so, is equal to the amount that the Ethereum Foundation received. So, you know, all of the developments of everything which happened after that July to the current date has had that same bucket. And, you know, that is not a typical kind of setup for, you know, long term success.
 
 Talking about the best thing, you know, that as I look through a lot of these early people, you know, they did their part and they moved on.
 
-**Bob:** (1:09:02 - 1:09:02)
+[1:09:02] **Bob:**
 Yeah.
 
-**Bob:** (1:09:02 - 1:09:06)
+[1:09:02] **Bob:**
 But it would be nice if some people hung around some more.
 
-**Texture:** (1:09:06 - 1:09:30)
+[1:09:06] **Texture:**
 Yeah, I mean, I think to some degree, that's why I'm still here in this space, that and the guilt of learning what people do with the things you create and feeling some sort of, like, responsibility to kind of try to nudge in a direction, you know, but balancing that with my desire to be anonymous to the most degree that I can was difficult.
 
-**Bob:** (1:09:32 - 1:09:47)
+[1:09:32] **Bob:**
 Yeah, yeah, for sure. I mean, it was something which came up, I think, through sort of 2018, 2019 as well was the Foundation stiffing developers, essentially.
 
-**Texture:** (1:09:47 - 1:09:51)
+[1:09:47] **Texture:**
 Yeah, I don't know. That didn't happen to me, praise Vitalik.
 
-**Bob:** (1:09:53 - 1:10:24)
+[1:09:53] **Bob:**
 No, no. It's all right for you early guys. But yeah, what else they have noted?
 
 Yeah, something which you've spoken about a little bit on Twitter as well is sort of like purges and palace politics and so on. Can you speak a little bit to about, like, the nature of the Foundation and the opaque nature of it and these kind of palace politics that you have going on? Like, what's happening there?
 
-**Texture:** (1:10:25 - 1:10:28)
+[1:10:25] **Texture:**
 You mean in the last 10 years?
 
-**Bob:** (1:10:30 - 1:10:46)
+[1:10:30] **Bob:**
 Right, right. I mean, because it's quite a contrast, right? In your Coinbase article, you were speaking about the contrast, right, between your open, decentralized, collaborative space and the Foundation as an entity.
 
-**Texture:** (1:10:46 - 1:14:54)
+[1:10:46] **Texture:**
 Yeah, so I think that it's difficult because if you look at, you know, this is my personal assessment, how I think about the situation. If you look at the early days and you take all that political shit seriously and you realize that Vitalik's basically like an 18-year-old kid in the middle of this, like, I was underprepared for the political shit, but I wasn't even like the center of it, you know, Vitalik had to be pushed into this weird situation where all of these sharks and snakes were around and where Charles is acting some type of way and then everyone else around him is vying for power and that's a lot of stress, right? And so if I was thinking of it from Vitalik's perspective, to me, my primary goal for myself would be to insulate myself from those political games to the greatest degree possible, right? And so, you know, in some ways, it's kind of like the requirement to stay sane and the requirement to insulate yourself from people playing these games and trying to get to you is that you kind of have to anoint yourself king and do the thing that Charles did, which is surround yourself with people who are going to basically have a fealty to you, right?
 
 They're not there because they're trying to manipulate you or get one over on you. They're not there because, you know, they're not playing games behind your back that you're going to have to deal with. And I think that if you're trying to focus on your goal, you know, in this kind of like foundational structure, I just assume that every decision that's been made in the structure of the foundation is based on kind of two principles.
@@ -896,7 +896,7 @@ And they understand how they understand how to support founders and they underst
 
 Kieran, you got something to say?
 
-**Kieren:** (1:14:56 - 1:16:58)
+[1:14:56] **Kieren:**
 I was, you know, I wanted to compare Ethereum with Bitcoin, which I've, you know, seen some of the similar governance issues on Bitcoin, but it's different. Like right now, it feels pretty technologically stagnant. At a time, I knew a bunch of the core devs.
 
 We had like a funny meetup once at like a Berkeley restaurant and a couple of them showed up. And it's, you know, Bitcoin technologically just doesn't really change. But there was a time where people were kind of, it was a foundation and they were acting in a coordinated manner to popularize Bitcoin and so on.
@@ -913,7 +913,7 @@ Like it was so decentralized that lots of people could come in and try to make i
 
 I don't know. What do you think about this question?
 
-**Texture:** (1:16:59 - 1:19:42)
+[1:16:59] **Texture:**
 Yeah, I mean, I think, can you hear me? My little thing is not showing. You're good.
 
 Okay. Yeah, no, I think, you know, as far as the foundation being set up in the beginning, it's whatever. What it's become is whatever, too, because they could change into a structure that supports Ethereum for the long term.
@@ -930,41 +930,41 @@ Should they not be like eating their own dog food? Should they not be doing what
 
 Like, I mean, how many esoteric scaling solutions can you can you invest in? Right.
 
-**Bob:** (1:19:46 - 1:20:44)
+[1:19:46] **Bob:**
 Yeah, I mean, I, from my perspective, I think the the change of leadership that there was this year with with Tomas coming in as a as a as a co-ED has made a world of difference, you know, that they have become more transparent than has been the case before. And I think that he as a Ethereum company CEO, because he's the CEO of Nevermind as well, I think has given him that kind of like product holistic, getting shit done kind of perspective that hasn't before. And he's got the credibility of having been in the ecosystem as well.
 
 Right. And having gone from, hey, we're a we're a, you know, we're a little company doing an Ethereum client to, you know, a really large kind of player that do all kinds of things.
 
-**Texture:** (1:20:45 - 1:20:45)
+[1:20:45] **Texture:**
 Yeah.
 
-**Bob:** (1:20:45 - 1:20:49)
+[1:20:45] **Bob:**
 And I think there hasn't been that before. You know, he is a CEO type.
 
-**Texture:** (1:20:50 - 1:21:25)
+[1:20:50] **Texture:**
 He, he was, I did a call with him. We talked for a bit and he seemed great. Asked a lot of questions and said he talked to over 100 people.
 
 And I gave him some of my thoughts and criticisms. And I don't know, I've seen a lot of the things that we talked about kind of playing out. So, you know, I hope I hope he can be a force that persists again.
 
 You know, if you have the palace politics, there's always the people like that. They're always in danger.
 
-**Bob:** (1:21:27 - 1:21:29)
+[1:21:27] **Bob:**
 So there might be another coup.
 
-**Texture:** (1:21:30 - 1:22:25)
+[1:21:30] **Texture:**
 That's what I'm saying. Like, you know, you could be the best guy with the best intentions, with the best ideas and you're the guy to do it. And if if the power structure is designed around, you know, placating people who are only concerned about their place in the palace.
 
 You know, it's happened to me multiple times in my life. Uh, they kick you, they kick you out because you're a threat to what they're trying to accomplish in their minds. They don't understand that, you know, if you allow the guy, the guy who's doing this to to really create something that lasts and is bigger than you're going to get a bigger piece of a bigger slice from a bigger pie.
 
 But if you completely undermine everybody who's trying to do that, then you're going to end up with nothing.
 
-**Kieren:** (1:22:26 - 1:22:45)
+[1:22:26] **Kieren:**
 You know, there's a mechanism for a coup, I assume, like in practice, the foundation is like, you know, kind of doing whatever the people who work for it wants to do.
 
-**Texture:** (1:22:45 - 1:23:18)
+[1:22:45] **Texture:**
 But in the end, this dictatorship of Vitalik at the end of the day, like, yeah, so, yeah, the only mechanism I see is the people who have Vitalik's ear get in his ear long enough that. You know, it's not working, so to some degree, there might be a community capacity to be a louder voice consistently to ensure that, you know, there will be backlash if anything like that happens.
 
-**Bob:** (1:23:21 - 1:24:47)
+[1:23:21] **Bob:**
 Yeah, I make this the sick epoch that there's been. So we have white paper to red webbing, where it's essentially, you know, just no formal structures really, you know, emergent. Then you have the period of the Ethereum Foundation and FDev.
 
 So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelly. Becker.
@@ -973,13 +973,13 @@ Kelly Becker, kind of, like, overseeing the installation of the new professional
 
 In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that Aya's still around as the president, but you have new executive leadership.
 
-**Bob:** (1:24:48 - 1:24:48)
+[1:24:48] **Bob:**
 Yeah.
 
-**Bob:** (1:24:48 - 1:24:51)
+[1:24:48] **Bob:**
 So, yeah, I don't know what this period comes to be called.
 
-**Texture:** (1:24:52 - 1:27:22)
+[1:24:52] **Texture:**
 But it's definitely better and more coherent. You know, I'm prescient a lot of the time. And, you know, I had my encounters with Aya that clued me into the fact that she was not really qualified or even coherently involved in a way that I would assume somebody in her position would be.
 
 So I was, you know, I was applying pressure years ago, years and years ago. And yeah, five years ago, six years ago. So I think, you know, eventually the community kind of came around to what I've been saying this whole time, which is, wait, like she should be doing like there's things that need to be done.
@@ -1010,7 +1010,7 @@ It's been six months. It's not something that takes six months or a year. Anyway
 
 They finally launched a year and a half later.
 
-**Bob:** (1:27:23 - 1:28:52)
+[1:27:23] **Bob:**
 So there was a longer tweet thread of me ranting a little bit. Well, it wasn't very ranty. Actually, it was quite polite in late in late.
 
 It was December 2017. And Hudson tweeted out something like, hey, what could the Ethereum be doing better? It was like that.
@@ -1029,29 +1029,29 @@ So there was a little bit of extra help. But essentially, it was that thin littl
 
 So, and she couldn't delegate either Ming. So just nothing got done. Like, really, just nothing got done at all.
 
-**Texture:** (1:28:53 - 1:29:17)
+[1:28:53] **Texture:**
 Yeah, I mean, I don't know, in retrospect, if I had known that. I mean, I know you said she was a nightmare, but she did offer to hire me back into the Ethereum Foundation. But I didn't feel, it was a time where I didn't really feel like working.
 
 I'd been a little burnt out from the previous few years. So yeah, you know, maybe if I'd have accepted that.
 
-**Bob:** (1:29:19 - 1:29:24)
+[1:29:19] **Bob:**
 She should have Minged you. Don't worry, you wouldn't have lasted long if she came back.
 
-**Texture:** (1:29:24 - 1:29:25)
+[1:29:24] **Texture:**
 Maybe, maybe, maybe, you know.
 
-**Bob:** (1:29:26 - 1:29:27)
+[1:29:26] **Bob:**
 Everyone got Minged.
 
-**Texture:** (1:29:27 - 1:29:35)
+[1:29:27] **Texture:**
 If she was like Stefan, then yeah, that high energy, like stress stuff. But I don't know. I was a little bit more.
 
-**Bob:** (1:29:35 - 1:29:58)
+[1:29:35] **Bob:**
 But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with Aya. That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.
 
 Oh, and they will do a DevCon now and then.
 
-**Texture:** (1:29:58 - 1:31:21)
+[1:29:58] **Texture:**
 Yeah. Well, you asked about the palace politics thing, and I just had a memory. You know, people, it's much less now than it used to be.
 
 To some degree, people still keep me in the loop when, you know, they know things. So I think maybe the biggest problem with the way that things are structured right now is that there's nobody to give pushback. And there's no dissenting voices.
@@ -1060,63 +1060,63 @@ And there's like a very homogenous group of people, homogenous, whatever the wor
 
 But really, I mean, you need voices that will speak the truth, even when it's uncomfortable, because, you know, decisions, they have outcomes. And having a bunch of people who see the world in the same way and aren't really thinking of things holistically or from different perspectives, you know, it's going to create issues.
 
-**Bob:** (1:31:24 - 1:31:42)
+[1:31:24] **Bob:**
 At the recent FCC in Cannes, there was a slide which Jerome had on there, which was talking about dissenting voices. And both myself and Greg Colvin were up there as Ethereum dissidents.
 
-**Texture:** (1:31:43 - 1:31:47)
+[1:31:43] **Texture:**
 I didn't get it. It's all right. Nobody remembers me.
 
 Congrats, though.
 
-**Bob:** (1:31:47 - 1:31:51)
+[1:31:47] **Bob:**
 No, sorry. You're not known enough. I don't know.
 
-**Texture:** (1:31:52 - 1:31:52)
+[1:31:52] **Texture:**
 Oh, no.
 
-**Bob:** (1:31:52 - 1:31:54)
+[1:31:52] **Bob:**
 You're not being loud enough.
 
-**Texture:** (1:31:55 - 1:32:11)
+[1:31:55] **Texture:**
 No, it's all right. I only have the number of followers I do because of a couple of jokes I made, one of them being catch your pong side. I very much don't mind being lost to history if it means I'm not on someone's let's rob the sky list.
 
-**Bob:** (1:32:15 - 1:32:20)
+[1:32:15] **Bob:**
 Well, I think that's maybe a good kind of place to wrap up.
 
-**Texture:** (1:32:20 - 1:32:21)
+[1:32:20] **Texture:**
 Yeah, don't.
 
-**Bob:** (1:32:21 - 1:32:28)
+[1:32:21] **Bob:**
 So I wish you all the very best and enjoy your life.
 
-**Texture:** (1:32:29 - 1:32:38)
+[1:32:29] **Texture:**
 Yeah. Well, Bob, thanks for having me on. If you want to have me on again, I'm more than happy to always give you my time.
 
 Good to talk to you, Kieran.
 
-**Kieren:** (1:32:39 - 1:32:47)
+[1:32:39] **Kieren:**
 A pleasure. It had been not too long, but yeah, great to chat again and we'll do it again soon.
 
-**Texture:** (1:32:48 - 1:32:58)
+[1:32:48] **Texture:**
 Yeah, maybe so. Maybe we'll see you soon. And then thanks for everybody who's come to listen and yeah.
 
 Don't follow me.
 
-**Bob:** (1:32:58 - 1:33:10)
+[1:32:58] **Bob:**
 Okay. Thanks a lot. So, yeah, texture is I am texture on Twitter.
 
 Have you got any other websites or anything, places that you'd like to point people?
 
-**Texture:** (1:33:11 - 1:33:19)
+[1:33:11] **Texture:**
 No, I'm not. No. Just have a nice night.
 
 Have a nice day, wherever you're at morning.
 
-**Texture:** (1:33:21 - 1:33:24)
+[1:33:21] **Texture:**
 Thanks so much. Okay, everyone. Cheers, everyone.
 
-**Texture:** (1:33:24 - 1:33:25)
+[1:33:24] **Texture:**
 Bye.
 
-**Texture:** (1:33:25 - 1:33:26)
+[1:33:25] **Texture:**
 Bye.

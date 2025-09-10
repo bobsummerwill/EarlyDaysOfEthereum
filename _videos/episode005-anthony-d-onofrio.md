@@ -364,46 +364,55 @@ And, you know, I think that kind of platform is just something that seemed reall
 And that's a really shitty description of the vision that I had because it was so deep and so multidimensional. And yeah, but yeah.
 
 [21:02] **Bob:**
-Social operating system is something I've seen you say on a few occasions.
+"[Social operating system](https://x.com/iamtexture/status/1092947601903648768)" is something I've seen you say on a few occasions.
 
 [21:06] **Texture:**
-Yeah, I mean, yeah, just there's so many dimensions to it. But yeah, I mean, a social operating system for allowing people to encode their values or encode, yeah, literally their values, anything with value, creating incentive structures, contracts that are enforced at the exact level that they were designed to. Which none of that sounds really technical and unsexy.
+Yeah, I mean, yeah, just there's so many dimensions to it. But yeah, I mean, a social operating system for allowing people to encode their values or encode, yeah, literally their values, anything with value, creating incentive structures.  Contracts that are enforced at the exact level that they were designed to. Which none of that sounds really technical and unsexy.
 
 But to me, it was really about the impact, you know, what happens when you empower people to be able to create value in their local communities or encode value in ways they haven't been able to. What happens when, you know, the equity in your company can be easily traded, you know, just all these things. What happens when you can do that to houses and local businesses and local communities?
 
 [22:09] **Bob:**
-Yeah, I mean, I think in my own sort of thinking in those early days, it was an awful lot about empowerment and about, you know, giving people the ability to control their own destiny, right? Yeah. And something I repeatedly thought was like, if you think about the, what's it called?
-
-The pyramid of needs? What's it called? I forget the...
+Yeah, I mean, I think in my own sort of thinking in those early days, it was an awful lot about empowerment and about, you know, giving people the ability to control their own destiny, right? Yeah. And something I repeatedly thought was like, if you think about the, what's it called?  The pyramid of needs? What's it called? I forget the...
 
 [22:34] **Kieren:**
 Maslow. The hierarchy.
 
 [22:35] **Bob:**
-Yeah, Maslow's, right? Maslow's hierarchy of needs. You know, I remember a number of times saying, you know, it's frankly obscene given all the resources that we have in the world and how, you know, how much more there is than was in previous years.
+Yeah, Maslow's, right? [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). You know, I remember a number of times saying, you know, it's frankly obscene given all the resources that we have in the world and how, you know, how much more there is than was in previous years.  It's obscene that people should be like worried about housing or education or healthcare or, you know, just these basic things, right? And how wonderful would it be if you could like yank up that base layer a little bit so that people are not like living in this fearful place of powerlessness, but instead can be like not worrying about that shit and not having to make these compromised bad decisions and everything.  But just if you could do what you love, what a world that would be.
 
-It's obscene that people should be like worried about housing or education or healthcare or, you know, just these basic things, right? And how wonderful would it be if you could like yank up that base layer a little bit so that people are not like living in this fearful place of powerlessness, but instead can be like not worrying about that shit and not having to make these compromise bad decisions and everything, but just if you could do what you love, what a world that would be.
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1200644988566028290" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/profile_banners/1361722422/1734212132/600x200" alt="Bob Summerwill banner" style="width: 100%; height: 250px; object-fit: cover; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">Because we already live in a world of abundance and it is obscene that anybody on the planet should worry about food, health and shelter in 2019. Let alone in the USA. But that is our reality. Let's fix it. Please. We can. That is why I am involved with blockchain.</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Nov 29, 2019</span>
+            </div>
+        </div>
+    </a>
+</div>
 
 [23:33] **Texture:**
-Yeah. And I'm a lot less idealistic about it now after the last decade for a lot of reasons, but, you know, the marshmallow test is real and you can create really good technologies and really good user experiences and as many guardrails as you can for people. But at the end of the day, there's motherfuckers that are going to eat the marshmallow before they even hear the rules, you know, and then they'll do it again and again.
+Yeah. And I'm a lot less idealistic about it now after the last decade for a lot of reasons, but, you know, the marshmallow test is real and you can create really good technologies and really good user experiences and as many guardrails as you can for people. But at the end of the day, there's motherfuckers that are going to eat the marshmallow before they even hear the rules, you know, and then they'll do it again and again.  So, you know, I think there's a lot of...
 
-So, you know, I think there's a lot of... It's not that I think the problems are unsolvable, but they're, you know, the idea that it's something from above being imposed down, you know, despite the fact that the system seemed to be that way, I think a lot of it is just the level of complexity of modern life relative to the average intelligence is... It's just, it's a wide gap and there's a lot of...
-
-I mean, I don't know, I could talk about that for fucking 10 hours too, so.
+It's not that I think the problems are unsolvable, but they're, you know, the idea that it's something from above being imposed down, you know, despite the fact that the system seemed to be that way, I think a lot of it is just the level of complexity of modern life relative to the average intelligence is... It's just, it's a wide gap and there's a lot of...  I mean, I don't know, I could talk about that for fucking 10 hours too, so.
 
 [24:36] **Bob:**
 Yeah, well, I mean, something that I saw in those early days of Ethereum as well was a real kind of almost like allergic reaction to anything that looked like organization or hierarchy or structure, you know, just like this total flip to the opposite side, right? Everything's got to be flat and open and, you know, everyone involved with everything. Which is just completely impractical for actually organizing or doing anything.
 
-Yeah, it's just nutty. So, but then it's like, I realized it's like hierarchy isn't the problem, being trapped in a hierarchy where it's to your detriment and you can't get out is the problem.
+[25:08] **Texture:**
+Yeah.
+
+[25:12] **Bob:**
+Yeah, it's just nutty.  So, but then it's like, I realized it's like hierarchy isn't the problem, being trapped in a hierarchy where it's to your detriment and you can't get out is the problem.
 
 <a id="technical-idealism-ux"></a>
 
 [25:24] **Texture:**
 Yeah. Yeah, and a lot of, I think a lot of times what happens in that is smart people, you know, smart people aren't really, they don't really understand not smart people. And so what happens is we are born into a world where these preexisting hierarchies exist and they've, you know, to some degree or another, you know, kind of persisted through generation after generation.
 
-And then we come in and we're like, why am I at the bottom of this hierarchy? I'm smart. We're all too smart for this.
-
-And then they try to like, you know, they try to create new systems assuming that everyone is approximately like them. And then, you know, I've been through so many, because again, coming through the hippie shit, I was in the Bay Area for a long time. You see so many people think that they're the first person to ever think of flat hierarchies and how it's going to be so much better.
+And then we come in and we're like, why am I at the bottom of this hierarchy? I'm smart. We're all too smart for this.  And then they try to like, you know, they try to create new systems assuming that everyone is approximately like them. And then, you know, I've been through so many, because again, coming through the hippie shit, I was in the Bay Area for a long time. You see so many people think that they're the first person to ever think of flat hierarchies and how it's going to be so much better.
 
 And at the end of the day, man, like that's fine if you want to talk all the fucking time and you want to argue and you want to get nothing done. But at the end of the day, you know, a hierarchy is an information structure and it's also an accountability structure. And so as long as there's accountability at the top and as long as the information is flowing correctly and as long as the outputs are, you know, optimal to some degree, then it's the best you're going to get.
 
@@ -418,81 +427,57 @@ But through that simplification, not creating these kind of hells that no one ca
 We can try to make it simpler, more efficient, better and more adaptable. But those are a lot of dimensions that any one of them out of sync is going to create either more problems or the system itself will collapse, right? And, you know, if the system doesn't exist then nobody gets anything.
 
 [28:19] **Bob:**
-Yeah. I mean, I guess it's a little bit analogous to sort of technical death and things in code.
+Yeah. I mean, I guess it's a little bit analogous to sort of technical debt and things in code.
 
 [28:25] **Texture:**
 Yep.
 
 [28:25] **Bob:**
-Is if you've got code and you're like, Jesus, look at this. It's so much like complexity and these conditions. I don't think we need any of that.
+Is if you've got code and you're like, Jesus, look at this. It's so much like complexity and these conditions. I don't think we need any of that.  Let's just take all that out. But, you know, someone did that for a reason.
 
-Let's just take all that out. But, you know, someone did that for a reason.
-
-[28:39] **Bob:**
+[28:39] **Texture:**
 Yeah.
 
 [28:39] **Bob:**
-You may not know the reason, but, you know, it was done for a reason and, you know, you're going to have some consequence if you do that, right? You can only be so simple without being, you know, too simplistic and then you miss out on that detail. I mean, I guess it's like, you know, with sort of US legal stuff, you know, this hot liquid might burn you or whatever.
-
-You just know that some shit's happened in the past, right? The reason that all of these things have happened is someone's done something really fucking stupid.
+You may not know the reason, but, you know, it was done for a reason and, you know, you're going to have some consequence if you do that, right? You can only be so simple without being, you know, too simplistic and then you miss out on that detail. I mean, I guess it's like, you know, with sort of US legal stuff, you know, this "hot liquid might burn you" or whatever.  You just know that some shit's happened in the past, right? The reason that all of these things have happened is someone's done something really fucking stupid.
 
 [29:15] **Texture:**
-Yeah. And I, you know, after I became a father, I became really a huge proponent of the idea of if you think a stupid rule exists because the person who made it is stupid, you haven't thought through the problem. It isn't a bunch of people.
-
-Now, I'm not saying this has never existed, but it's not like some nefarious guy at the top who wants to just ruin your life. It's some fucking idiot who did some idiot shit. And then now you got to make a stupid rule, you know what I mean?
-
-And you got to enforce it with fire. Otherwise, you know, your kids end up dumping plates of food in their closet and you find it six months later. And so, you know, it's just that at scale.
+Yeah. And I, you know, after I became a father, I became really a huge proponent of the idea of if you think a stupid rule exists because the person who made it is stupid, you haven't thought through the problem. It isn't a bunch of people.  Now, I'm not saying this has never existed, but it's not like some nefarious guy at the top who wants to just ruin your life. It's some fucking idiot who did some idiot shit. And then now you got to make a stupid rule, you know what I mean?  And you got to enforce it with fire. Otherwise, you know, your kids end up dumping plates of food in their closet and you find it six months later. And so, you know, it's just that at scale.
 
 But you're going to have to keep me on topic as much as you want to, because I am a meanderer.
 
 <a id="neurodiversity"></a>
 
 [30:04] **Bob:**
-Yeah. On this human side, something I talked about during my maple syrup piece phase was neurodiversity and the fact that normies would not be involved in the early phases of such a project, right? It's absolutely crazy to go and do what you did.
+Yeah. On this human side, something I talked about during my "maple syrup peace phase" was neurodiversity and the fact that normies would not be involved in the early phases of such a project, right? It's absolutely crazy to go and do what you did.  It's crazy what most people did.
 
-It's crazy what most people did. Yeah. So how does that play out?
-
-The fact that in these frontier technologies, you don't have normal people. Well, you do, but you have a lot of of us people who would not fall into that category. So how does that all play out?
-
-What do you think is happening there?
+Yeah. So how does that play out?  The fact that in these frontier technologies, you don't have "normal people". Well, you do, but you have a lot of of us people who would not fall into that category. So how does that all play out?  What do you think is happening there?
 
 [30:56] **Texture:**
-I think it's just the structure of how things have always occurred, right? So you have these kind of people on the front edge. And I was on the internet from, I remember reading when the HTML 2.0 spec was about to come out, right?
+I think it's just the structure of how things have always occurred, right? So you have these kind of people on the front edge. And I was on the internet from, I remember reading when the [HTML 2.0 spec](https://www.ietf.org/rfc/rfc1866.txt) was about to come out, right?
 
-And so the early days of the internet, it was that. And so I was on the internet all day talking to people. And there was a technical barrier.
+And so the early days of the internet, it was that. And so I was on the internet all day talking to people. And there was a technical barrier.  And it's just, you have these kind of neurodivergent people show up. So in the early days of crypto, it was a lot of people who were paranoid. A lot of autistic people and spattering of sociopaths who kind of could see that they could make money.
 
-And it's just, you have these kind of neurodivergent people show up. So in the early days of crypto, it was a lot of people who were paranoid. A lot of autistic people and spattering of sociopaths who kind of could see that they could make money.
+And so that has a profound effect on how things play out. But I think it seems the way that at least in capitalism, what happens is huge amounts of capital come in. And it just becomes this kind of probability matrix of throw as much energy at this thing as you can on the front end.  And then whatever survives is gonna play out. But kind of if you look at something like Linux or open source technology in general, it's like very autistic.
 
-And so that has a profound effect on how things play out. But I think it seems the way that at least in capitalism, what happens is huge amounts of capital come in. And it just becomes this kind of probability matrix of throw as much energy at this thing as you can on the front end.
+And autistic people have a very specific, I've noticed differentiation from the average person, which is they honestly believe that the terminal is the greatest interface of all time.  It's like they don't grasp that most people need buttons. And so it's like you look at [Linux](https://en.wikipedia.org/wiki/Linux), Linux was kind of a fringe thing only tech people used. And then Google came in and at least had enough sense to hire some designers to turn it into something functional.
 
-And then whatever survives is gonna play out. But kind of if you look at something like Linux or open source technology in general, it's like very autistic. And autistic people have a very specific, I've noticed differentiation from the average person, which is they honestly believe that the terminal is the greatest interface of all time.
-
-It's like they don't grasp that most people need buttons. And so it's like you look at Linux, Linux was kind of a fringe thing only tech people used. And then Google came in and at least had enough sense to hire some designers to turn it into something functional.
-
-Steve Jobs did the same thing with OSX. OSX was a previous Unix variant. And so you need those people.
-
-You need those people who come in who are on the edge, who are technical enough to be able to communicate with the technical people and understand. But they also need the cloud, the money and the power to overrule those people. Because Linux had very horrible user interface and user experience for a long time, even when they had window managers.
+Steve Jobs did the same thing with [OS X (now macOS)](https://en.wikipedia.org/wiki/MacOS). OS X was a previous [Unix](https://en.wikipedia.org/wiki/Unix) variant. And so you need those people.  You need those people who come in who are on the edge, who are technical enough to be able to communicate with the technical people and understand. But they also need the clout, the money and the power to overrule those people. Because Linux had very horrible user interface and user experience for a long time, even when they had window managers.
 
 And you have to understand, I was a designer. So I would go into these open source spaces and I'm going to tell you what, man, these people who for sure would not let you comment on their code and for sure not let you tell you how they were going to structure it or for sure not tell them what language they were going to use, have no fucking problem stepping outside of their own expertise and driving a designer insane. You know what I mean?
 
-Very logical, unemotional, totally tapped out of any sense of what a normal person needs. And they just beat the designers into the ground. So you really need somebody who has power and the competence and the will and the desire and can put it all together.
-
-And I don't think we really see that. You know what I mean? The wallets fucking suck.
+Very logical, unemotional, totally tapped out of any sense of what a normal person needs. And they just beat the designers into the ground. So you really need somebody who has power and the competence and the will and the desire and can put it all together.  And I don't think we really see that. You know what I mean? The wallets fucking suck.
 
 I don't know now, but a year ago, I clicked a button and emptied my hot wallet, right? And that shouldn't be possible. How hard is it to throw up a fucking thing that says, hey, are you meaning to send every bit of this?
 
-This is a lot of money. Why does it not just say, hey, it didn't even say it in dollars. Do you know what I mean?
-
-It was obfuscating. There should have been a massive fucking pop-up that said you're about to send $100,000 to somebody. Are you sure you want to do this?
-
-Or as soon as I clicked the button, knew what had happened. If there had been a fucking five-minute delay, but this isn't happening, right? And there'd be the structure of the organizations or if the designers are having to argue with the tech people.
+This is a lot of money. Why does it not just say, hey, it didn't even say it in dollars. Do you know what I mean?  It was obfuscating. There should have been a massive fucking pop-up that said you're about to send $100,000 to somebody. Are you sure you want to do this?  Or as soon as I clicked the button, knew what had happened. If there had been a fucking five-minute delay, but this isn't happening, right? And there'd be the structure of the organizations or if the designers are having to argue with the tech people.
 
 Whatever it is, it's just grandma still can't use this shit. It's 10 years in. If I had the will and the energy, I could, you know what I mean?
 
 Within six months, we could solve these problems. And I just don't see it.
 
 [35:25] **Bob:**
-I guess this is the reason why things like the ETFs are so appealing, right? Can I just not deal with any of this shit at all? But I can just use my bridge account I've already got.
+I guess this is the reason why things like the ETFs are so appealing, right? "Can I just not deal with any of this shit at all? But I can just use my brokerage account I've already got?"
 
 It's just a thing that I buy or sell, right? And just, you know, it's a proxy for it, but most people don't care.
 
@@ -508,38 +493,31 @@ And maybe for- It does.
 [35:53] **Bob:**
 And then that's really a failure, as you say, on delivery of the holistic platform that you do need something which is absolutely better, right? It's just like a product question, really, right? It's saying, unless the product that you are offering is absolutely better than something existing or is cheaper or gives you some other benefits or whatever, then normal people are not going to use it.
 
-[36:29] **Bob:**
+[36:29] **Texture:**
 Correct.
 
 [36:29] **Bob:**
 It doesn't matter what your world view is behind that. You've given them something that's worse than what they have, so they don't care.
 
 [36:39] **Texture:**
-Yeah, and so I think exchanges and things like that kind of acting as a buffer, it's a step. Ultimately, how are these things going to be used? The end user is probably not going to know what they're using on the backend any more than the average person knows what processor is in their phone.
+Yeah, and so I think exchanges and things like that kind of acting as a buffer, it's a step. Ultimately, how are these things going to be used? The end user is probably not going to know what they're using on the backend any more than the average person knows what processor is in their phone.  So ...
 
 [37:06] **Bob:**
-So- No, I mean, I guess the hope is it's like a layering thing, right? That in the same way as you've got those DeFi primitives, that you're going to layer this whatever social recovery or buffered amounts or whatever, or insurance for fuck-ups or all this sort of stuff, right? You should be able to put together a stack of things that have an equivalent kind of characteristic and experience to existing things, but without that strong dependence on a single legal entity that's got that customer service provider kind of pattern rather than just it being raw, dangerous as you experienced there.
+No, I mean, I guess the hope is it's like a layering thing, right? That in the same way as you've got those DeFi primitives, that you're going to layer this whatever social recovery or buffered amounts or whatever, or insurance for fuck-ups or all this sort of stuff, right? You should be able to put together a stack of things that have an equivalent kind of characteristic and experience to existing things, but without that strong dependence on a single legal entity that's got that customer service provider kind of pattern rather than just it being raw, dangerous as you experienced there.
 
 [37:50] **Texture:**
 Yeah, and I mean, to this day, I feel anxious all the time because I hold crypto, you know? Me, I feel anxious all the time.
 
 [38:01] **Bob:**
-Yeah.
-
-[38:02] **Texture:**
-You know what I mean?
+Yeah.  You know what I mean?
 
 [38:03] **Bob:**
 I think we all do.
 
 [38:05] **Texture:**
-So it's like, that's not an experience that the average person wants. The average person wants to put their money in a bank account. The average person wants to click a button and if something goes wrong to be able to reverse it.
+So it's like, that's not an experience that the average person wants. The average person wants to put their money in a bank account. The average person wants to click a button and if something goes wrong to be able to reverse it.  You know, we haven't really addressed any of that. Again, it's a failure because the people who are in charge think like anyone can do what they're doing and it's not that big of a deal. And like, all you have to do is do this and like blah, blah, blah.
 
-You know, we haven't really addressed any of that. Again, it's a failure because the people who are in charge think like anyone can do what they're doing and it's not that big of a deal. And like, all you have to do is do this and like blah, blah, blah.
-
-It's like, no, all they have to do is click a button. You've done it. That's your metric for success.
-
-Click one button and not worry about anything. You just know the thing is going to happen. And if it doesn't, it'll get fixed.
+It's like, no, all they have to do is click a button. You've done it. That's your metric for success.  Click one button and not worry about anything. You just know the thing is going to happen. And if it doesn't, it'll get fixed.
 
 [38:45] **Bob:**
 Yeah, yeah. So I mean, when I was looking through sort of different phases of this period that I've been covering in the early days of Ethereum sort of website there, I was noticing, so in January and February 2014, there's just such a flood of people that came in. I mean, there were a fair chunk in December, but that just really accelerated through January and February.
@@ -547,15 +525,91 @@ Yeah, yeah. So I mean, when I was looking through sort of different phases of th
 So I mean, how did that like play out? That you've just got like tons and tons of people, you know, rocking up and really like volunteering?
 
 [39:33] **Texture:**
-It turned everything into Game of Thrones. Yeah, that's what happened. It turned everything into Game of Thrones.
+It turned everything into "Game of Thrones". Yeah, that's what happened. It turned everything into "Game of Thrones".
 
-So like I was there day one. I was doing, I was making sure like, you know, first thing I did was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) posted this website that he made. It was piss yellow.
+So like I was there day one. I was doing, I was making sure like, you know, first thing I did was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) posted this website that he made. It was piss yellow.  He had stolen some other shit coins logo and just put Ethereum on it. And I was like, please don't post this. Give me till tomorrow.
 
-He had stolen some other shit coins logo and just put Ethereum on it. And I was like, please don't post this. Give me till tomorrow.
+So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
-So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.
+*(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for Bitcoin Magazine from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
 
-Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963986588872110163" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/G0F6wFOb0AAN2CH?format=png&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">I also JUST connected with Ryan Taylor (@AdjyLeak) after having found his name in 2018 on an early website snapshot but having had zero information on him all that time ...</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 5, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963355821754257518" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/Gz89o1cbkAElOK5?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">The very earliest website still on @internetarchive:</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963356299045065099" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/Gz8-JRFaIAANvBe?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">That was 6th Jan 2014. This was 11th Jan 2014:</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963356772401606740" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/Gz8-knhbcAAcbqa?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">25th Jan 2014:</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963357732976890025" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/Gz8_btNb0AAEg0U?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">8th February 2014:</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="link-preview-card" style="width: 75%;">
+    <a href="https://x.com/BobSummerwill/status/1963358456683065579" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
+            <img src="https://pbs.twimg.com/media/Gz9AE2WbkAEiCHn?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
+            <div style="padding: 12px;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">3rd March 2014:</p>
+                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
+            </div>
+        </div>
+    </a>
+</div>
 
 Right. So I was a designer, full stack developer. So my, my skill was I could take your idea and I could, I could make it look like it existed forever.
 

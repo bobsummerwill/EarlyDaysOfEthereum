@@ -532,7 +532,6 @@ So like I was there day one. I was doing, I was making sure like, you know, firs
 So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
 *(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for Bitcoin Magazine from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
-
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963986588872110163" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
@@ -546,18 +545,22 @@ So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of 
     </a>
 </div>
 
+<br/>
+
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963355821754257518" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
             <img src="https://pbs.twimg.com/media/Gz89o1cbkAElOK5?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
             <div style="padding: 12px;">
                 <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">The very earliest website still on @internetarchive:</p>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">The very earliest website still on @internetarchive.  That was 6th Jan 2014</p>
                 <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
             </div>
         </div>
     </a>
 </div>
+
+<br/>
 
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963356299045065099" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
@@ -565,12 +568,14 @@ So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of 
             <img src="https://pbs.twimg.com/media/Gz8-JRFaIAANvBe?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
             <div style="padding: 12px;">
                 <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">That was 6th Jan 2014. This was 11th Jan 2014:</p>
+                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;"> This was 11th Jan 2014:</p>
                 <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
             </div>
         </div>
     </a>
 </div>
+
+<br/>
 
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963356772401606740" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
@@ -585,6 +590,8 @@ So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of 
     </a>
 </div>
 
+<br/>
+
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963357732976890025" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
@@ -597,6 +604,8 @@ So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of 
         </div>
     </a>
 </div>
+
+<br/>
 
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963358456683065579" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">

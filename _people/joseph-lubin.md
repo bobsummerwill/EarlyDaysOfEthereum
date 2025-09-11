@@ -8,6 +8,7 @@ devcon0: '1747'
 social:
   linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/
   twitter: https://x.com/ethereumJoseph
+  wikipedia: https://en.wikipedia.org/wiki/Joseph_Lubin_(entrepreneur)
 ---
 
 ## References

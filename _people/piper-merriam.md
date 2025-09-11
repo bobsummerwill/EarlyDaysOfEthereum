@@ -6,6 +6,6 @@ end: present
 social:
   github: https://github.com/pipermerriam
   twitter: https://x.com/pipermerriam
-  website: https://medium.com/@pipermerriam
+  medium: https://medium.com/@pipermerriam
 ---
 

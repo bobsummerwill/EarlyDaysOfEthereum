@@ -8,6 +8,7 @@ social:
   linkedin: https://www.linkedin.com/in/anthonydiiorio1/
   twitter: https://x.com/diiorioanthony
   github: https://github.com/diiorio
+  wikipedia: https://en.wikipedia.org/wiki/Anthony_Di_Iorio
 ---
 
 ## References

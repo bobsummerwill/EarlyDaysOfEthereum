@@ -8,6 +8,7 @@ social:
   linkedin: https://www.linkedin.com/in/charles-hoskinson-1a95a4b4/
   twitter:  https://x.com/IOHK_Charles
   github: https://github.com/CharlesHoskinson
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Hoskinson
 ---
 
 ## References

@@ -3,6 +3,8 @@ name: Amir Taaki
 description: '''Anarchist Amir'' to Amir Chetrit''s ''Capitalist Amir'', Gav met Johnny through Amir Taaki.'
 social:
   twitter: https://twitter.com/Narodism
+  website: https://agorism.dev/
+  wikipedia: https://en.wikipedia.org/wiki/Amir_Taaki
 ---
 
 ## Links

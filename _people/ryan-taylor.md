@@ -10,7 +10,7 @@ social:
   youtube: https://www.youtube.com/@AdjyLeak
 ---
 
-Before Ethereum, Ryan worked with Vitalik and Mihai on web development for Bitcoin Magazine, starting before the first issue was even released.  Mihai had contacted Ryan based on seeing some of his prior work at DEFCON and other events.
+Before Ethereum, Ryan worked with Vitalik and Mihai on web development for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine), starting before the first issue was even released.  Mihai had contacted Ryan based on seeing some of his prior work at DEFCON and other events.
 
 In mid-December 2013, Ryan got involved in the Ethereum project too, building the first WordPress site that month with a series of later iterations through into mid-2014, with a transition to Github-based development at the end of that period.  Following the "Red Wedding" drama in June he backed away.  His final Ethereum work was perhaps around August 2014.  Later that year he had a phone call with Mihai where he formally left the project.
 

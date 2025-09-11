@@ -41,6 +41,9 @@ seo: false
             {% endif %}
         </div>
         {% if page.description %}
+        <div class="post-description" itemprop="description">
+            {{ page.description }}
+        </div>
         <meta itemprop="description" content="{{ page.description }}">
         {% endif %}
         {% if page.image %}
@@ -121,5 +124,16 @@ seo: false
         padding: 2px 8px;
         border-radius: 12px;
         font-size: 0.85em;
+    }
+    
+    .post-description {
+        margin-top: 15px;
+        padding: 15px 0;
+        font-size: 1.1em;
+        line-height: 1.5;
+        color: #555;
+        font-style: italic;
+        border-bottom: 1px solid #eee;
+        margin-bottom: 20px;
     }
 </style>

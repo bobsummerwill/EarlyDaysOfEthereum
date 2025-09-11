@@ -159,10 +159,10 @@ seo: false
                 {% endcomment %}
                 {% assign people_count = 0 %}
                 {% for start_date in sorted_dates %}
-                    {% if people_count >= 14 %}{% break %}{% endif %}
+                    {% if people_count >= 13 %}{% break %}{% endif %}
                     {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
                     {% for person in people_in_date %}
-                        {% if people_count >= 14 %}{% break %}{% endif %}
+                        {% if people_count >= 13 %}{% break %}{% endif %}
                         <tr>
                             <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
                             <td>{{ person.start | default: "" }}</td>
@@ -184,12 +184,12 @@ seo: false
                 {% endfor %}
 
                 {% comment %}
-                Add people without dates if we haven't reached 14 yet
+                Add people without dates if we haven't reached 13 yet
                 {% endcomment %}
-                {% if people_count < 14 %}
+                {% if people_count < 13 %}
                     {% assign sorted_other_people = people_without_dates | sort: "name" %}
                     {% for person in sorted_other_people %}
-                        {% if people_count >= 14 %}{% break %}{% endif %}
+                        {% if people_count >= 13 %}{% break %}{% endif %}
                         <tr>
                             <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
                             <td>{{ person.start | default: "" }}</td>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ethereum Switzerland GmbH"
 date: 2014-02-28
 description: 'The for-profit "Ethereum Company" which was incorporated in Zug in February 2014'

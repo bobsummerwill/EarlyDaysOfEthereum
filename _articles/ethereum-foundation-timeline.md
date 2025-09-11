@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ethereum Foundation Timeline"
 date: 2025-08-07
 author: "Bob Summerwill"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Taylor Gerring Photos 2"
 date: 2025-08-13
 author: "Bob Summerwill"

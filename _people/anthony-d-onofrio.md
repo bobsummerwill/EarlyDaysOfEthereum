@@ -1,6 +1,6 @@
 ---
 name: Anthony 'Texture' D'Onofrio
-description: Ethereum OG
+description: Ethereum's first "community guy"
 photo: /images/archive.org/ethdev.com/20150315012946/anthony-d-onofrio.jpg
 start: Dec 2013
 end: Mar 2015 or maybe Apr 2015

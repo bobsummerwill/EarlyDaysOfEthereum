@@ -1,6 +1,6 @@
 ---
 name: Jonathan Mohan
-description: Ethereum OG
+description: Education and outreach
 photo: /images/archive.org/ethereum.org/20140701165441/mohan-jonathan.jpg
 start: Dec 2013
 end: Jun 2014

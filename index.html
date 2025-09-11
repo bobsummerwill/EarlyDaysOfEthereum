@@ -37,17 +37,158 @@ seo: false
 <div class="content-sections">
     <section class="people-section">
         <h2><a href="{{ '/people/' | relative_url }}">People</a></h2>
-        <ul class="content-list">
-            {% assign sorted_people = site.people | sort: 'title' %}
-            {% for person in sorted_people limit: 10 %}
-            <li>
-                <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
-                {% if person.role %}
-                <span class="role">{{ person.role }}</span>
+        <table class="content-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Start Date</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% comment %}
+                Group people by start date and sort chronologically like on /people page
+                {% endcomment %}
+                {% assign people_with_dates = "" | split: "" %}
+                {% assign people_without_dates = "" | split: "" %}
+
+                {% for person in site.people %}
+                    {% if person.start and person.start != '' and person.start != '???' %}
+                        {% assign people_with_dates = people_with_dates | push: person %}
+                    {% else %}
+                        {% assign people_without_dates = people_without_dates | push: person %}
+                    {% endif %}
+                {% endfor %}
+
+                {% comment %}
+                Create chronologically sorted list of dates
+                {% endcomment %}
+                {% assign date_groups = "" | split: "" %}
+                {% assign processed_dates = "" | split: "" %}
+
+                {% for person in people_with_dates %}
+                    {% unless processed_dates contains person.start %}
+                        {% assign processed_dates = processed_dates | push: person.start %}
+                        {% assign date_groups = date_groups | push: person.start %}
+                    {% endunless %}
+                {% endfor %}
+
+                {% comment %}
+                Sort dates chronologically by year and month
+                {% endcomment %}
+                {% assign sorted_dates = "" | split: "" %}
+                {% assign years_2013 = "" | split: "" %}
+                {% assign years_2014 = "" | split: "" %}
+                {% assign years_2015 = "" | split: "" %}
+                {% assign years_2016 = "" | split: "" %}
+                {% assign years_2017 = "" | split: "" %}
+                {% assign years_2018 = "" | split: "" %}
+                {% assign years_other = "" | split: "" %}
+
+                {% for date_str in date_groups %}
+                    {% if date_str contains "2013" %}
+                        {% assign years_2013 = years_2013 | push: date_str %}
+                    {% elsif date_str contains "2014" %}
+                        {% assign years_2014 = years_2014 | push: date_str %}
+                    {% elsif date_str contains "2015" %}
+                        {% assign years_2015 = years_2015 | push: date_str %}
+                    {% elsif date_str contains "2016" %}
+                        {% assign years_2016 = years_2016 | push: date_str %}
+                    {% elsif date_str contains "2017" %}
+                        {% assign years_2017 = years_2017 | push: date_str %}
+                    {% elsif date_str contains "2018" %}
+                        {% assign years_2018 = years_2018 | push: date_str %}
+                    {% else %}
+                        {% assign years_other = years_other | push: date_str %}
+                    {% endif %}
+                {% endfor %}
+
+                {% assign month_order = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
+
+                {% comment %}Sort each year by month{% endcomment %}
+                {% for month in month_order %}
+                    {% for date_str in years_2013 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% for month in month_order %}
+                    {% for date_str in years_2014 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% for month in month_order %}
+                    {% for date_str in years_2015 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% for month in month_order %}
+                    {% for date_str in years_2016 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% for month in month_order %}
+                    {% for date_str in years_2017 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% for month in month_order %}
+                    {% for date_str in years_2018 %}
+                        {% if date_str contains month %}
+                            {% assign sorted_dates = sorted_dates | push: date_str %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+
+                {% assign years_other_sorted = years_other | sort %}
+                {% for year_group in years_other_sorted %}
+                    {% assign sorted_dates = sorted_dates | push: year_group %}
+                {% endfor %}
+
+                {% comment %}
+                Display people in chronological order, then alphabetically within each date
+                {% endcomment %}
+                {% assign people_count = 0 %}
+                {% for start_date in sorted_dates %}
+                    {% if people_count >= 14 %}{% break %}{% endif %}
+                    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
+                    {% for person in people_in_date %}
+                        {% if people_count >= 14 %}{% break %}{% endif %}
+                        <tr>
+                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
+                            <td>{{ person.start | default: "" }}</td>
+                            <td>{{ person.description | default: person.role | default: "" }}</td>
+                        </tr>
+                        {% assign people_count = people_count | plus: 1 %}
+                    {% endfor %}
+                {% endfor %}
+
+                {% comment %}
+                Add people without dates if we haven't reached 14 yet
+                {% endcomment %}
+                {% if people_count < 14 %}
+                    {% assign sorted_other_people = people_without_dates | sort: "name" %}
+                    {% for person in sorted_other_people %}
+                        {% if people_count >= 14 %}{% break %}{% endif %}
+                        <tr>
+                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
+                            <td>{{ person.start | default: "" }}</td>
+                            <td>{{ person.description | default: person.role | default: "" }}</td>
+                        </tr>
+                        {% assign people_count = people_count | plus: 1 %}
+                    {% endfor %}
                 {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
+            </tbody>
+        </table>
         {% if site.people.size > 10 %}
         <p><a href="{{ '/people/' | relative_url }}" class="view-all">View all people &rarr;</a></p>
         {% endif %}
@@ -55,17 +196,23 @@ seo: false
 
     <section class="videos-section">
         <h2><a href="{{ '/videos/' | relative_url }}">Videos</a></h2>
-        <ul class="content-list">
-            {% assign sorted_videos = site.videos | sort: 'episode' %}
-            {% for video in sorted_videos limit: 5 %}
-            <li>
-                <a href="{{ video.url | relative_url }}">{{ video.title }}</a>
-                {% if video.date %}
-                <span class="date">{{ video.date | date: "%B %d, %Y" }}</span>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
+        <table class="content-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% assign sorted_videos = site.videos | sort: 'episode' %}
+                {% for video in sorted_videos limit: 5 %}
+                <tr>
+                    <td><a href="{{ video.url | relative_url }}">{{ video.title }}</a></td>
+                    <td>{% if video.date %}{{ video.date | date: "%B %d, %Y" }}{% endif %}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
         {% if site.videos.size > 5 %}
         <p><a href="{{ '/videos/' | relative_url }}" class="view-all">View all videos &rarr;</a></p>
         {% endif %}
@@ -73,17 +220,23 @@ seo: false
 
     <section class="articles-section">
         <h2><a href="{{ '/articles/' | relative_url }}">Articles</a></h2>
-        <ul class="content-list">
-            {% assign sorted_articles = site.articles | sort: 'date' %}
-            {% for article in sorted_articles limit: 5 %}
-            <li>
-                <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
-                {% if article.date %}
-                <span class="date">{{ article.date | date: "%B %d, %Y" }}</span>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
+        <table class="content-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% assign sorted_articles = site.articles | sort: 'date' %}
+                {% for article in sorted_articles limit: 5 %}
+                <tr>
+                    <td><a href="{{ article.url | relative_url }}">{{ article.title }}</a></td>
+                    <td>{% if article.date %}{{ article.date | date: "%B %d, %Y" }}{% endif %}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
         {% if site.articles.size > 5 %}
         <p><a href="{{ '/articles/' | relative_url }}" class="view-all">View all articles &rarr;</a></p>
         {% endif %}
@@ -137,9 +290,6 @@ seo: false
     }
     
     .content-sections {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 40px;
         margin-bottom: 50px;
     }
     
@@ -148,6 +298,48 @@ seo: false
         padding: 25px;
         border-radius: 8px;
         border-left: 4px solid #007acc;
+        margin-bottom: 40px;
+    }
+    
+    .content-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 15px;
+    }
+    
+    .content-table th {
+        background: #007acc;
+        color: white;
+        padding: 12px;
+        text-align: left;
+        font-weight: 600;
+    }
+    
+    .content-table th:first-child {
+        border-top-left-radius: 4px;
+    }
+    
+    .content-table th:last-child {
+        border-top-right-radius: 4px;
+    }
+    
+    .content-table td {
+        padding: 12px;
+        border-bottom: 1px solid #e0e0e0;
+    }
+    
+    .content-table tr:hover {
+        background: #f0f8ff;
+    }
+    
+    .content-table a {
+        color: #333;
+        text-decoration: none;
+    }
+    
+    .content-table a:hover {
+        color: #007acc;
+        text-decoration: underline;
     }
     
     .content-sections h2 {

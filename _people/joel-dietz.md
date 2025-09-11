@@ -1,6 +1,6 @@
 ---
 name: Joel Dietz
-description: Ethereum OG
+description: Meetup organizer and EtherCasts
 start: Dec 2013
 end: Aug 2014
 devcon0: '1801'

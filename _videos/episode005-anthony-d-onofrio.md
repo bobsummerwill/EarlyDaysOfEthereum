@@ -733,9 +733,9 @@ With [Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }}), he notably call
 [48:06] **Texture:**
 Well, I never saw that. I'm telling you, like, I remember some story about him, like playing games with people in the Zug house, like sending somebody's sending somebody off who, who's like a wife was there, a girlfriend and, and telling them that they had to go do this thing for him, uh, out of town. And then when that person had left, he then tried to convince one of the other dudes to like get with the dude's wife.
 
-Like just weird stuff, man. Like just things that they're not, that they have not, why would you do that? You know what I mean?  You have an opportunity of life. The answer is you're a fucking idiot who lied yourself into a situation you shouldn't be in. And you are a compulsive lying manipulator.  I'm sure it makes him feel smarter or something. I don't know. But like, it was just the, the stories that when he, when he was gone after the "Red Wedding", I think everybody breathed a sigh of relief.
+Like just weird stuff, man. Like just things that they're not, that they have not, why would you do that? You know what I mean?  You have an opportunity of life. The answer is you're a fucking idiot who lied yourself into a situation you shouldn't be in. And you are a compulsive lying manipulator.  I'm sure it makes him feel smarter or something. I don't know. But like, it was just the, the stories that when he, when he was gone after the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}), I think everybody breathed a sigh of relief.
 
-You know, the biggest problem for me was, um, after the fundraiser, after the red wedding, uh, [Stephan]({{ '/people/stephan-tual/' | relative_url }}), who I had introduced, or I had welcomed into the, the, the organization. And again, there was a lot of political stuff. If you went to Zug, you got, um, basically put up in the hierarchy.
+You know, the biggest problem for me was, um, after the fundraiser, after the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}), uh, [Stephan]({{ '/people/stephan-tual/' | relative_url }}), who I had introduced, or I had welcomed into the, the, the organization. And again, there was a lot of political stuff. If you went to Zug, you got, um, basically put up in the hierarchy.
 
 So I ended up under [Stephan]({{ '/people/stephan-tual/' | relative_url }}). I couldn't go to Zug cause my girlfriend was pregnant and I couldn't leave to go to Zug for a month. Um, and, um, yeah, I don't know.  [Stephan]({{ '/people/stephan-tual/' | relative_url }}) was, I don't know, high energy, high anxiety, dude. It was a weird thing.
 
@@ -770,9 +770,9 @@ I never, no, I never went. Um, I had, so my girlfriend at the time was pregnant.
 Uh, my, I just tried to be like the most authentic, like trustworthy, "do what I say" person, good to everybody. Like that, that's how I survived as long as I did. You know, I don't really do politics.  I really don't, all of that stuff was really weird.
 
 [51:47] **Bob:**
-I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum Foundation. Right. You know, so the "Red Wedding" was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the Foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) coming to, uh, Zug at that point to sign papers.
+I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum Foundation. Right. You know, so the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the Foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) coming to, uh, Zug at that point to sign papers.
 
-Right. You know, it was, it was to do with that EthSuisse, uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.  Uh, and then the Foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
+Right. You know, it was, it was to do with that [EthSuisse]({{ '/articles/ethsuisse/' | relative_url }}), uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.  Uh, and then the Foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
 
 [52:57] **Texture:**
 Yeah. We kept saying two weeks. I don't know.  That was a meme for a very long time. Two weeks, two weeks, two weeks.
@@ -813,7 +813,7 @@ So, uh, and, and Bob, uh, at your request, of course, I was digging through the 
 
 So I had, um, I think by March I was, um, talking with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and, um, you know, I was in academia at that time. And he kind of found it useful to bounce like protocol, economic modeling stuff off, you know, like I was like good at reading the white papers and understand what they were doing.
 
-I could, you know, kind of code at that time. I can still kind of code today, but that's sort of, we ended up talking about like, all the things should work at a, you know, theory protocol level more than an implementation level. And that kind of, I guess, and this was covered in the, in the "Red Wedding" time, there was like, we, you know, um, a discussion of the usage of funds that ended up like on a whiteboard or something.
+I could, you know, kind of code at that time. I can still kind of code today, but that's sort of, we ended up talking about like, all the things should work at a, you know, theory protocol level more than an implementation level. And that kind of, I guess, and this was covered in the, in the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) time, there was like, we, you know, um, a discussion of the usage of funds that ended up like on a whiteboard or something.
 
 *(from [Taylor Gerring's photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}))*
 
@@ -859,7 +859,9 @@ My, my memory is also that [Anthony]({{ '/people/anthony-di-iorio/' | relative_u
 And then right after there was, I suppose like a big cash grab going on. So like, but maybe, Bob, you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
 [1:00:42] **Bob:**
-Yeah, so, so [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had Ethereum Swiss got formed in Switzerland somewhere in April, I think.
+Yeah, so, so [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had [EthSuisse]({{ '/articles/ethsuisse/' | relative_url }}) got formed in Switzerland somewhere in April, I think.
+
+*(Bob: It was actually incorporated on 28th Feb 2014)*
 
 You had [Gav]({{ '/people/gavin-wood/' | relative_url }}) incorporating Ethereum DEV in Berlin. [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
 
@@ -876,7 +878,7 @@ Yeah, I think, I guess they must have got it kind of like having now run a busin
 I think it was a lot looser than that.
 
 [1:03:28] **Kieren:**
-I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole "Red Wedding" week, you know, so. Yes, yes.
+I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) week, you know, so. Yes, yes.
 
 [1:03:44] **Bob:**
 And yes, the majority of those legal entities have since been shut down. That was something that Ming did over the course of her time was tidy up all of this like corporate mess that was maybe not really even required in the first place.

@@ -276,7 +276,7 @@ description: "A collection of photographs from Taylor Gerring documenting the ea
 
 ----
 
-*“GM to June! Taken just days before Ethereum’s “Red Wedding”, this rear deck is where the entire house waited while [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) made his decision about [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) & [Amir]({{ '/people/amir-chetrit/' | relative_url }}).” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 1, 2022](https://twitter.com/TaylorGerring/status/1531973630623633408)*
+*“GM to June! Taken just days before Ethereum’s "[Red Wedding]({{ '/articles/red-wedding/' | relative_url }})", this rear deck is where the entire house waited while [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) made his decision about [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) & [Amir]({{ '/people/amir-chetrit/' | relative_url }}).” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 1, 2022](https://twitter.com/TaylorGerring/status/1531973630623633408)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1531973630623633408/1531973630623633408_1.jpg" style="width:75%;">
 

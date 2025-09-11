@@ -3,9 +3,18 @@ name: Jeremy Wood
 description: Executive Assistant to Charles Hoskinson
 photo: /images/archive.org/ethereum.org/20140701165441/wood-jeremy.jpg
 start: Dec 2013
-end: May 2014
+end: Sep 2014
 social:
   linkedin: https://www.linkedin.com/in/jeremykwood/
-  twitter: https://x.com/jeremykwood
 ---
 
+Jeremy was Executive Assistant to [Charles Hoskinson]({{ '/people/charles-hoskinson/' | relative_url }}) (self-titled CEO of Ethereum) between December 2013 and September 2014.  [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was ejected from Ethereum at the "Red Wedding" in June 2014, but it appears that Jeremy hung around for a few more months, through to September of that year, according to his [LinkedIn profile](https://www.linkedin.com/in/jeremykwood/).
+
+[Charles]({{ '/people/charles-hoskinson/' | relative_url }}) and Jeremy later collaborated as co-founders of [IOHK](https://iohk.io/) (later partially rebranded as IO Global) in April 2015, a company most famous for the development of the [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) blockchain.
+
+## References
+
+- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- [Red Wedding]({{ '/articles/red-wedding/' | relative_url }})
+- [Taylor Gerring photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
+- [Taylor Gerring photos2]({{ '/articles/taylor-gerring-photos2/' | relative_url }})

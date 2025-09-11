@@ -13,8 +13,8 @@ social:
 
 ## References
 
-This page is referenced from the following articles and videos:
-
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced in content
-- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Referenced in content
-- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Referenced in content
+- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }})
+- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }})
+- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
+- [Taylor Gerring Photos2]({{ '/articles/taylor-gerring-photos2/' | relative_url }})

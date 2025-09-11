@@ -41,8 +41,8 @@ Love is a common theme for Texture, whose Medium account is:
   <a href="https://medium.com/@peaceloverevolution" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #f3f3f3; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 10px 16px; max-width: 420px;">
     <img src="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg" alt="Anthony D'Onofrio Medium profile photo" style="height: 80px; width: 80px; object-fit: cover; border-radius: 8px; margin-right: 18px; background: #fff;" />
     <div style="color: #222;">
-      <div style="font-weight: bold; font-size: 1.1em;">@peaceloverevolution</div>
-      <div style="font-size: 0.97em; color: #555;">Medium profile for Texture</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Anthony D'Onofrio</div>
+      <div style="font-size: 0.97em; color: #555;">Revolutionary Technologist. Ethereum Founding Member. Creator of DAS.</div>
       <div style="font-size: 0.93em; color: #888;">medium.com/@peaceloverevolution</div>
     </div>
   </a>

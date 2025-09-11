@@ -152,6 +152,17 @@ Aw
 [6:51] **Bob:**
 Something I've spotted going through making my notes is your Medium is called [Peace, Love, Revolution](https://medium.com/@peaceloverevolution).
 
+<div style="margin: 18px 0;">
+  <a href="https://medium.com/@peaceloverevolution" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #f3f3f3; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 10px 16px; max-width: 420px;">
+    <img src="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg" alt="Anthony D'Onofrio Medium profile photo" style="height: 80px; width: 80px; object-fit: cover; border-radius: 8px; margin-right: 18px; background: #fff;" />
+    <div style="color: #222;">
+      <div style="font-weight: bold; font-size: 1.1em;">Anthony D'Onofrio</div>
+      <div style="font-size: 0.97em; color: #555;">Revolutionary Technologist. Ethereum Founding Member. Creator of DAS.</div>
+      <div style="font-size: 0.93em; color: #888;">medium.com/@peaceloverevolution</div>
+    </div>
+  </a>
+</div>
+
 [7:01] **Texture:**
 Yes.
 
@@ -159,7 +170,7 @@ Yes.
 What's the story there?
 
 [7:09] **Texture:**
-So, ypou know ... I wouldn't say a hippie. I didn't dress like a hippie. I didn't really hang out with hippies, but I took some psychedelics when I was a kid, and I had some experiences and drove my passion for doing good things and spreading love in the world.
+So, you know ... I wouldn't say a hippie. I didn't dress like a hippie. I didn't really hang out with hippies, but I took some psychedelics when I was a kid, and I had some experiences and drove my passion for doing good things and spreading love in the world.
 
 I know people that probably follow me are like, what the fuck? He just calls people retards all day. Yeah, but I'm on Twitter.  I don't know. It's full of retards.
 
@@ -531,7 +542,7 @@ So like I was there day one. I was doing, I was making sure like, you know, firs
 
 So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
-*(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for Bitcoin Magazine from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
+*(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
 <div class="link-preview-card" style="width: 75%;">
     <a href="https://x.com/BobSummerwill/status/1963986588872110163" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
@@ -865,7 +876,7 @@ Yeah, I think, I guess they must have got it kind of like having now run a busin
 I think it was a lot looser than that.
 
 [1:03:28] **Kieren:**
-I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole Red Wedding week, you know, so. Yes, yes.
+I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole "Red Wedding" week, you know, so. Yes, yes.
 
 [1:03:44] **Bob:**
 And yes, the majority of those legal entities have since been shut down. That was something that Ming did over the course of her time was tidy up all of this like corporate mess that was maybe not really even required in the first place.

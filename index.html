@@ -166,7 +166,18 @@ seo: false
                         <tr>
                             <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
                             <td>{{ person.start | default: "" }}</td>
-                            <td>{{ person.description | default: person.role | default: "" }}</td>
+                            <td>
+                                {% assign desc = person.description | default: person.role | default: "" %}
+                                {% comment %}Auto-link people names in descriptions{% endcomment %}
+                                {% for other_person in site.people %}
+                                    {% if other_person.name != person.name %}
+                                        {% assign name_to_replace = other_person.name %}
+                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                                        {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                                    {% endif %}
+                                {% endfor %}
+                                {{ desc }}
+                            </td>
                         </tr>
                         {% assign people_count = people_count | plus: 1 %}
                     {% endfor %}
@@ -182,7 +193,18 @@ seo: false
                         <tr>
                             <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
                             <td>{{ person.start | default: "" }}</td>
-                            <td>{{ person.description | default: person.role | default: "" }}</td>
+                            <td>
+                                {% assign desc = person.description | default: person.role | default: "" %}
+                                {% comment %}Auto-link people names in descriptions{% endcomment %}
+                                {% for other_person in site.people %}
+                                    {% if other_person.name != person.name %}
+                                        {% assign name_to_replace = other_person.name %}
+                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                                        {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                                    {% endif %}
+                                {% endfor %}
+                                {{ desc }}
+                            </td>
                         </tr>
                         {% assign people_count = people_count | plus: 1 %}
                     {% endfor %}
@@ -338,6 +360,20 @@ seo: false
     }
     
     .content-table a:hover {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
+    .content-table td a {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
+    .content-table td a:visited {
+        color: #551a8b;
+    }
+    
+    .content-table td a:hover {
         color: #007acc;
         text-decoration: underline;
     }

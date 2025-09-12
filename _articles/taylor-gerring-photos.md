@@ -1,5 +1,5 @@
 ---
-title: "Taylor Gerring Photos"
+title: "Taylor Gerring Photos (batch #1)"
 date: 2025-08-12
 author: "Bob Summerwill"
 description: "A collection of photographs from Taylor Gerring documenting the early days of Ethereum, from the Miami Bitcoin Conference through the team's time in Switzerland."

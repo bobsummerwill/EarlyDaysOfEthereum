@@ -106,9 +106,51 @@ seo: false
             {% endif %}
             
             {% if video.description %}
-            <p class="video-description">{{ video.description }}</p>
+            <p class="video-description">
+                {% assign desc = video.description %}
+                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                {% for other_video in site.videos %}
+                    {% if other_video.title != video.title %}
+                        {% assign title_to_replace = other_video.title %}
+                        {% assign link_replacement = '<a href="' | append: other_video.url | append: '">' | append: other_video.title | append: '</a>' %}
+                        {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                    {% endif %}
+                {% endfor %}
+                {% for article in site.articles %}
+                    {% assign title_to_replace = article.title %}
+                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                {% endfor %}
+                {% for person in site.people %}
+                    {% assign name_to_replace = person.name %}
+                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                    {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                {% endfor %}
+                {{ desc }}
+            </p>
             {% else %}
-            <p class="video-excerpt">{{ video.content | strip_html | truncatewords: 40 }}</p>
+            <p class="video-excerpt">
+                {% assign excerpt = video.content | strip_html | truncatewords: 40 %}
+                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                {% for other_video in site.videos %}
+                    {% if other_video.title != video.title %}
+                        {% assign title_to_replace = other_video.title %}
+                        {% assign link_replacement = '<a href="' | append: other_video.url | append: '">' | append: other_video.title | append: '</a>' %}
+                        {% assign excerpt = excerpt | replace: title_to_replace, link_replacement %}
+                    {% endif %}
+                {% endfor %}
+                {% for article in site.articles %}
+                    {% assign title_to_replace = article.title %}
+                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                    {% assign excerpt = excerpt | replace: title_to_replace, link_replacement %}
+                {% endfor %}
+                {% for person in site.people %}
+                    {% assign name_to_replace = person.name %}
+                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                    {% assign excerpt = excerpt | replace: name_to_replace, link_replacement %}
+                {% endfor %}
+                {{ excerpt }}
+            </p>
             {% endif %}
             
         </div>

@@ -1,5 +1,6 @@
 ---
-name: Joseph 'Joe' Lubin
+name: Joseph Lubin
+nickname: Joe
 description: Ethereum co-Founder
 photo: /images/archive.org/ethereum.org/20140701165441/lubin-joseph.jpg
 start: Jan 2014
@@ -13,7 +14,7 @@ social:
 
 ## References
 
-- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }})
+- Early Days of Ethereum - Episode 4 - Taylor Gerring
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }})
+- Ethereum Foundation Timeline
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})

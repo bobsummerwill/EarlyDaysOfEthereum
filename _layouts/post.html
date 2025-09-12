@@ -42,7 +42,26 @@ seo: false
         </div>
         {% if page.description %}
         <div class="post-description" itemprop="description">
-            {{ page.description }}
+            {% assign desc = page.description %}
+            {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+            {% for video in site.videos %}
+                {% assign title_to_replace = video.title %}
+                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+                {% assign desc = desc | replace: title_to_replace, link_replacement %}
+            {% endfor %}
+            {% for article in site.articles %}
+                {% if article.title != page.title %}
+                    {% assign title_to_replace = article.title %}
+                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                {% endif %}
+            {% endfor %}
+            {% for person in site.people %}
+                {% assign name_to_replace = person.name %}
+                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                {% assign desc = desc | replace: name_to_replace, link_replacement %}
+            {% endfor %}
+            {{ desc }}
         </div>
         <meta itemprop="description" content="{{ page.description }}">
         {% endif %}
@@ -52,7 +71,26 @@ seo: false
     </header>
     
     <div class="post-content" itemprop="articleBody">
-        {{ content }}
+        {% assign body_content = content %}
+        {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+        {% for video in site.videos %}
+            {% assign title_to_replace = video.title %}
+            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
+        {% endfor %}
+        {% for article in site.articles %}
+            {% if article.title != page.title %}
+                {% assign title_to_replace = article.title %}
+                {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
+            {% endif %}
+        {% endfor %}
+        {% for person in site.people %}
+            {% assign name_to_replace = person.name %}
+            {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+            {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
+        {% endfor %}
+        {{ body_content }}
     </div>
     
     {% if page.tags and page.tags.size > 0 %}
@@ -135,5 +173,34 @@ seo: false
         font-style: italic;
         border-bottom: 1px solid #eee;
         margin-bottom: 20px;
+    }
+    
+    .post-description a {
+        color: #007acc;
+        text-decoration: underline;
+        font-style: italic;
+    }
+    
+    .post-description a:visited {
+        color: #551a8b;
+    }
+    
+    .post-description a:hover {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
+    .post-content a {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
+    .post-content a:visited {
+        color: #551a8b;
+    }
+    
+    .post-content a:hover {
+        color: #007acc;
+        text-decoration: underline;
     }
 </style>

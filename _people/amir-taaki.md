@@ -15,4 +15,4 @@ social:
 
 This page is referenced from the following articles and videos:
 
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced in content
+- Ethereum Foundation Timeline - Referenced in content

@@ -15,7 +15,7 @@ social:
 
 This page is referenced from the following articles and videos:
 
-- [EthSuisse]({{ '/articles/ethsuisse/' | relative_url }})
+- EthSuisse
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Dedicated article about his photographic documentation
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced as author and in timeline entries
-- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }}) - Featured guest in video interview
+- Ethereum Foundation Timeline - Referenced as author and in timeline entries
+- Early Days of Ethereum - Episode 4 - Taylor Gerring - Featured guest in video interview

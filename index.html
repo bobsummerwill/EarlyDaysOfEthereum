@@ -168,7 +168,17 @@ seo: false
                             <td>{{ person.start | default: "" }}</td>
                             <td>
                                 {% assign desc = person.description | default: person.role | default: "" %}
-                                {% comment %}Auto-link people names in descriptions{% endcomment %}
+                                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                                {% for video in site.videos %}
+                                    {% assign title_to_replace = video.title %}
+                                    {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                                {% endfor %}
+                                {% for article in site.articles %}
+                                    {% assign title_to_replace = article.title %}
+                                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                                {% endfor %}
                                 {% for other_person in site.people %}
                                     {% if other_person.name != person.name %}
                                         {% assign name_to_replace = other_person.name %}
@@ -195,7 +205,17 @@ seo: false
                             <td>{{ person.start | default: "" }}</td>
                             <td>
                                 {% assign desc = person.description | default: person.role | default: "" %}
-                                {% comment %}Auto-link people names in descriptions{% endcomment %}
+                                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                                {% for video in site.videos %}
+                                    {% assign title_to_replace = video.title %}
+                                    {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                                {% endfor %}
+                                {% for article in site.articles %}
+                                    {% assign title_to_replace = article.title %}
+                                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                                {% endfor %}
                                 {% for other_person in site.people %}
                                     {% if other_person.name != person.name %}
                                         {% assign name_to_replace = other_person.name %}

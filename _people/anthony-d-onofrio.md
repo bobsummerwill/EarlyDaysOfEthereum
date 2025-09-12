@@ -1,5 +1,6 @@
 ---
-name: Anthony 'Texture' D'Onofrio
+name: Anthony D'Onofrio
+nickname: Texture
 description: Ethereum's first "community guy"
 photo: /images/archive.org/ethdev.com/20150315012946/anthony-d-onofrio.jpg
 start: Dec 2013
@@ -88,6 +89,6 @@ Which I opened with the epic "Ethereum - Your Turn", from 12th March 2014 with v
 There are references to Texture in the following articles:
 
 - [Ethereum Community and Adoption Update - Week 1](https://blog.ethereum.org/2014/11/03/stephans-ethereum-community-adoption-update-week-1#meetups) - 3rd Nov 2014
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }})
+- Ethereum Foundation Timeline
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})

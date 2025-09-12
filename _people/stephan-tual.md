@@ -21,4 +21,4 @@ social:
 </div>
 
 ## References
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }}) - Referenced in content
+- Ethereum Foundation Timeline - Referenced in content

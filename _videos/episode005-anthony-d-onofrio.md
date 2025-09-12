@@ -1,5 +1,5 @@
 ---
-title: "Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio"
+title: Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 date: 2025-09-03
 guests: ["Anthony 'Texture' D'Onofrio"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
@@ -735,7 +735,7 @@ Well, I never saw that. I'm telling you, like, I remember some story about him, 
 
 Like just weird stuff, man. Like just things that they're not, that they have not, why would you do that? You know what I mean?  You have an opportunity of life. The answer is you're a fucking idiot who lied yourself into a situation you shouldn't be in. And you are a compulsive lying manipulator.  I'm sure it makes him feel smarter or something. I don't know. But like, it was just the, the stories that when he, when he was gone after the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}), I think everybody breathed a sigh of relief.
 
-You know, the biggest problem for me was, um, after the fundraiser, after the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}), uh, [Stephan]({{ '/people/stephan-tual/' | relative_url }}), who I had introduced, or I had welcomed into the, the, the organization. And again, there was a lot of political stuff. If you went to Zug, you got, um, basically put up in the hierarchy.
+You know, the biggest problem for me was, um, after the fundraiser, after the "Red Wedding" uh, Stephan Tual, who I had introduced, or I had welcomed into the, the, the organization. And again, there was a lot of political stuff. If you went to Zug, you got, um, basically put up in the hierarchy.
 
 So I ended up under [Stephan]({{ '/people/stephan-tual/' | relative_url }}). I couldn't go to Zug cause my girlfriend was pregnant and I couldn't leave to go to Zug for a month. Um, and, um, yeah, I don't know.  [Stephan]({{ '/people/stephan-tual/' | relative_url }}) was, I don't know, high energy, high anxiety, dude. It was a weird thing.
 
@@ -772,7 +772,7 @@ Uh, my, I just tried to be like the most authentic, like trustworthy, "do what I
 [51:47] **Bob:**
 I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum Foundation. Right. You know, so the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the Foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) coming to, uh, Zug at that point to sign papers.
 
-Right. You know, it was, it was to do with that [EthSuisse]({{ '/articles/ethsuisse/' | relative_url }}), uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.  Uh, and then the Foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
+Right. You know, it was, it was to do with that EthSuisse, uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.  Uh, and then the Foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
 
 [52:57] **Texture:**
 Yeah. We kept saying two weeks. I don't know.  That was a meme for a very long time. Two weeks, two weeks, two weeks.
@@ -859,7 +859,7 @@ My, my memory is also that [Anthony]({{ '/people/anthony-di-iorio/' | relative_u
 And then right after there was, I suppose like a big cash grab going on. So like, but maybe, Bob, you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
 [1:00:42] **Bob:**
-Yeah, so, so [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had [EthSuisse]({{ '/articles/ethsuisse/' | relative_url }}) got formed in Switzerland somewhere in April, I think.
+Yeah, so, so [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had EthSuisse got formed in Switzerland somewhere in April, I think.
 
 *(Bob: It was actually incorporated on 28th Feb 2014)*
 
@@ -1123,7 +1123,7 @@ Maybe, maybe, maybe, you know.
 Everyone got Minged.
 
 [1:29:27] **Texture:**
-If she was like [Stephan]({{ '/people/stephan-tual/' | relative_url }}), then yeah, that high energy, like stress stuff. But I don't know. I was a little bit more.
+If she was like Stephan, then yeah, that high energy, like stress stuff. But I don't know. I was a little bit more.
 
 [1:29:35] **Bob:**
 But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with Aya. That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.

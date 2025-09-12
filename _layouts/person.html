@@ -16,7 +16,26 @@ layout: default
         {% endif %}
         {% if page.description %}
         <div class="person-description">
-            {{ page.description }}{% if page.start and page.start != "" %}{% if page.end and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% else %}<br><span class="person-dates">({{ page.start }} to ???)</span>{% endif %}{% endif %}
+            {% assign desc = page.description %}
+            {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+            {% for video in site.videos %}
+                {% assign title_to_replace = video.title %}
+                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+                {% assign desc = desc | replace: title_to_replace, link_replacement %}
+            {% endfor %}
+            {% for article in site.articles %}
+                {% assign title_to_replace = article.title %}
+                {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                {% assign desc = desc | replace: title_to_replace, link_replacement %}
+            {% endfor %}
+            {% for other_person in site.people %}
+                {% if other_person.name != page.name %}
+                    {% assign name_to_replace = other_person.name %}
+                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                    {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                {% endif %}
+            {% endfor %}
+            {{ desc }}{% if page.start and page.start != "" %}{% if page.end and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% else %}<br><span class="person-dates">({{ page.start }} to ???)</span>{% endif %}{% endif %}
         </div>
         {% endif %}
         
@@ -181,7 +200,26 @@ layout: default
     {% endif %}
     
     <div class="person-content">
-        {{ content }}
+        {% assign body_content = content %}
+        {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+        {% for video in site.videos %}
+            {% assign title_to_replace = video.title %}
+            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
+        {% endfor %}
+        {% for article in site.articles %}
+            {% assign title_to_replace = article.title %}
+            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
+        {% endfor %}
+        {% for other_person in site.people %}
+            {% if other_person.name != page.name %}
+                {% assign name_to_replace = other_person.name %}
+                {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
+            {% endif %}
+        {% endfor %}
+        {{ body_content }}
     </div>
     
     {% if page.links %}
@@ -261,6 +299,21 @@ layout: default
         font-style: italic;
     }
     
+    .person-description a {
+        color: #007acc;
+        text-decoration: underline;
+        font-style: italic;
+    }
+    
+    .person-description a:visited {
+        color: #551a8b;
+    }
+    
+    .person-description a:hover {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
     .person-dates {
         font-style: italic;
         color: #666;
@@ -331,6 +384,20 @@ layout: default
     .person-content ol {
         margin-bottom: 15px;
         padding-left: 30px;
+    }
+    
+    .person-content a {
+        color: #007acc;
+        text-decoration: underline;
+    }
+    
+    .person-content a:visited {
+        color: #551a8b;
+    }
+    
+    .person-content a:hover {
+        color: #007acc;
+        text-decoration: underline;
     }
     
     .person-links {

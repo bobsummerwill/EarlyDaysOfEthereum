@@ -13,8 +13,8 @@ social:
 
 ## References
 
-- [Early Days of Ethereum - Episode 4]({{ '/videos/episode004-taylor-gerring/' | relative_url }})
+- Early Days of Ethereum - Episode 4 - Taylor Gerring
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
-- [Ethereum Foundation Timeline]({{ '/articles/ethereum-foundation-timeline/' | relative_url }})
+- Ethereum Foundation Timeline
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
 

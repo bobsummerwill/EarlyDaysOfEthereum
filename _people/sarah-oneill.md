@@ -8,7 +8,7 @@ social:
   linkedin: https://www.linkedin.com/in/sarah-o-neill-b14791100/
 ---
 
-*[Aeron Buchanan]({{ '/people/aeron-buchanan' | relative_url }}) said to [Bob Summerwill]({{ '/people/bob-summerwill' | relative_url }}) in a personal email on 16th August 2018:*
+Aeron Buchanan said to Bob Summerwill in a personal email on 16th August 2018:*
 
 *"[Roland Wilder]({{ '/people/roland-wilder' | relative_url }}) was brought on by Sarah O'Neill, who was the interior designer and renovation coordinator for the ethdev office. They were fantastic, making it happen on a small budget and on an accelerated timescale."*
 

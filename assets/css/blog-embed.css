@@ -1,0 +1,19 @@
+.blog-embed {
+  display: inline-block;
+  margin: 18px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  background: #fff;
+  transition: box-shadow 0.2s;
+}
+.blog-embed:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.16);
+}
+.blog-embed-img {
+  width: 50%;
+  min-width: 180px;
+  max-width: 480px;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}

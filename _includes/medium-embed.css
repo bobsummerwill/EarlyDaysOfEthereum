@@ -1,0 +1,35 @@
+.medium-embed {
+  margin: 18px 0;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  background: #f8f8f8;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  padding: 10px 16px;
+  max-width: 420px;
+  border: 1px solid #e0e0e0;
+}
+.medium-profile-photo {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-right: 18px;
+  background: #fff;
+}
+.medium-profile-info {
+  color: #222;
+}
+.medium-profile-info .name {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.medium-profile-info .desc {
+  font-size: 0.97em;
+  color: #555;
+}
+.medium-profile-info .url {
+  font-size: 0.93em;
+  color: #888;
+}

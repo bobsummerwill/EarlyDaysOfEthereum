@@ -9,8 +9,8 @@ social:
 
 ## References
 
-This page is referenced from the following articles and videos:
 
-- Ethereum Foundation Timeline - Referenced in content
-- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Referenced in content
-- Early Days of Ethereum - Episode 4 - Taylor Gerring - Referenced in content
+
+- Ethereum Foundation Timeline
+- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
+- Early Days of Ethereum - Episode 4 - Taylor Gerring

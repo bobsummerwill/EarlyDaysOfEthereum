@@ -1,5 +1,5 @@
 ---
-title: Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
+title: "Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio"
 date: 2025-09-03
 guests: ["Anthony 'Texture' D'Onofrio"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]

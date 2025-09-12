@@ -11,4 +11,4 @@ social:
 
 
 ## References
-- Ethereum Foundation Timeline - Referenced in content
+- Ethereum Foundation Timeline

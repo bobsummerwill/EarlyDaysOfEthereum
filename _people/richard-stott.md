@@ -27,7 +27,7 @@ On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn whe
 - [LinkedIn (now deleted)](https://www.linkedin.com/in/richard-wild-a0552026/)
 ## References
 
-This page is referenced from the following articles and videos:
 
-- Ethereum Foundation Timeline - Referenced in content
-- Early Days of Ethereum - Episode 4 - Taylor Gerring - Referenced in content
+
+- Ethereum Foundation Timeline
+- Early Days of Ethereum - Episode 4 - Taylor Gerring

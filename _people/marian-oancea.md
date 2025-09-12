@@ -20,6 +20,6 @@ From LinkedIn profile as of 23rd August 2025:
 
 ## References
 
-This page is referenced from the following articles and videos:
 
-- Early Days of Ethereum - Episode 4 - Taylor Gerring - Referenced in content
+
+- Early Days of Ethereum - Episode 4 - Taylor Gerring

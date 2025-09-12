@@ -1,5 +1,5 @@
 ---
-title: "Early Days of Ethereum - Episode 4 - Taylor Gerring"
+title: Early Days of Ethereum - Episode 4 - Taylor Gerring
 date: 2025-08-08
 youtube_id: "24A8B9IgfLQ"
 guests: ["Taylor Gerring"]

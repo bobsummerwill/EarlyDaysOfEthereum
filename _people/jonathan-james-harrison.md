@@ -7,6 +7,6 @@ social:
 
 ## References
 
-This page is referenced from the following articles and videos:
 
-- Ethereum Foundation Timeline - Referenced in content
+
+- Ethereum Foundation Timeline

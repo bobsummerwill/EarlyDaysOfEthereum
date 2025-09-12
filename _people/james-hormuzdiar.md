@@ -8,6 +8,6 @@ social:
 
 ## References
 
-- [Early Days of Ethereum - Episode 1]({{ '/videos/episode001/' | relative_url }})
-- [Early Days of Ethereum - Episode 2]({{ '/videos/episode002/' | relative_url }})
-- [Early Days of Ethereum - Episode 3]({{ '/videos/episode003-bob-summerwill/' | relative_url }})
+- Early Days of Ethereum - Episode 1
+- Early Days of Ethereum - Episode 2
+- Early Days of Ethereum - Episode 3 - Bob Summerwill

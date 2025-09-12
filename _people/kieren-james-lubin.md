@@ -9,8 +9,8 @@ Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Et
 
 ## References
 
-- [Early Days of Ethereum - Episode 1]({{ '/videos/episode001/' | relative_url }})
-- [Early Days of Ethereum - Episode 2]({{ '/videos/episode002/' | relative_url }})
-- [Early Days of Ethereum - Episode 3]({{ '/videos/episode003-bob-summerwill/' | relative_url }})
+- Early Days of Ethereum - Episode 1
+- Early Days of Ethereum - Episode 2
+- Early Days of Ethereum - Episode 3 - Bob Summerwill
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})

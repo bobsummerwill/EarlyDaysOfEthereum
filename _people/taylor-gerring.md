@@ -13,7 +13,7 @@ social:
 
 ## References
 
-This page is referenced from the following articles and videos:
+
 
 - EthSuisse
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Dedicated article about his photographic documentation

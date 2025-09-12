@@ -1,5 +1,6 @@
 ---
 name: Marian Oancea
+nickname: cubedro
 description: Senior Web Developer
 photo: /images/archive.org/ethdev.com/20150315012946/marian-oancea.jpg
 start: May 2014

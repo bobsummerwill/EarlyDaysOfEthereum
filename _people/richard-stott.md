@@ -7,13 +7,14 @@ end: Aug 2014
 social:
   twitter: https://x.com/raidraidrune
 ---
+
 *[Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 
 <img src="{{ '/images/duncan.co/duncan.co_cropped_richard_wild.png' | relative_url }}" style="width: 50%; height: auto;">
 
 It appears that Richard died in 2024:
 
-{% include embed-twitter.html url="https://twitter.com/blockchaingirl/status/1818203032980471885" %}
+{% include twitter-embed.html url="https://twitter.com/blockchaingirl/status/1818203032980471885" %}
 
 His last tweet was [posted on 25th May 2024](https://x.com/raidraidrune/status/1794755939540906305).
 
@@ -25,9 +26,8 @@ On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn whe
 - [X](https://x.com/raidraidrune) (note: his twitter handle was **IOHK_Richard** in earlier years)
 - [IOHK profile](https://iohk.io/en/blog/authors/richard-wild/page-1/)
 - [LinkedIn (now deleted)](https://www.linkedin.com/in/richard-wild-a0552026/)
+
 ## References
-
-
 
 - Ethereum Foundation Timeline
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

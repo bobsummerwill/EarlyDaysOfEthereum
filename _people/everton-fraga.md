@@ -14,3 +14,8 @@ From LinkedIn profile as of 23rd August 2025:
 *Led the development of Ethereum Grid, a GUI for Ethereum clients.*
 
 *Worked on the EthereumJS team, developing new features and maintaining libraries that truly support the development ecosystem of Ethereum and EVM-compatible tooling.*
+
+
+## Tweet References
+
+{% include twitter-embed.html url="https://twitter.com/evertonfraga/status/1958922326923518328" %}

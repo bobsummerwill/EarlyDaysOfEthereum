@@ -10,8 +10,8 @@ social:
 
 ## Tweet References
 
-{% include embed-twitter.html url="https://twitter.com/evertonfraga/status/1958922326923518328" %}
+{% include twitter-embed.html url="https://twitter.com/evertonfraga/status/1958922326923518328" %}
 
 ------
 
-{% include embed-twitter.html url="https://twitter.com/avsa/status/1960004092480180285" %}
+{% include twitter-embed.html url="https://twitter.com/avsa/status/1960004092480180285" %}

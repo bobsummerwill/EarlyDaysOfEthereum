@@ -1,5 +1,6 @@
 ---
 name: Luca Zeug
+nickname: luclu
 description: Mist team member
 start: April 2016
 end: July 2016

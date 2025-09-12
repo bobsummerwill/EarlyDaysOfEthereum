@@ -1,5 +1,6 @@
 ---
 name: Nick Johnson
+nickname: Arachnid
 description: Core Developer (Geth) and Ethereum Name Service (ENS)
 start: June 2016
 end: Aug 2018

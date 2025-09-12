@@ -1,5 +1,6 @@
 ---
 name: Jamie Pitts
+nickname: jemenger
 description: Ethereum OG
 start: Jun 2016
 end: ???

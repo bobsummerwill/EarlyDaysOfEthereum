@@ -164,7 +164,7 @@ seo: false
                     {% for person in people_in_date %}
                         {% if people_count >= 13 %}{% break %}{% endif %}
                         <tr>
-                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
+                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
                             <td>{{ person.start | default: "" }}</td>
                             <td>
                                 {% assign desc = person.description | default: person.role | default: "" %}
@@ -182,7 +182,11 @@ seo: false
                                 {% for other_person in site.people %}
                                     {% if other_person.name != person.name %}
                                         {% assign name_to_replace = other_person.name %}
-                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                                        {% assign display_name = other_person.name %}
+                                        {% if other_person.nickname and other_person.nickname != '' %}
+                                            {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
+                                        {% endif %}
+                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
                                         {% assign desc = desc | replace: name_to_replace, link_replacement %}
                                     {% endif %}
                                 {% endfor %}
@@ -201,7 +205,7 @@ seo: false
                     {% for person in sorted_other_people %}
                         {% if people_count >= 13 %}{% break %}{% endif %}
                         <tr>
-                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
+                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
                             <td>{{ person.start | default: "" }}</td>
                             <td>
                                 {% assign desc = person.description | default: person.role | default: "" %}
@@ -219,7 +223,11 @@ seo: false
                                 {% for other_person in site.people %}
                                     {% if other_person.name != person.name %}
                                         {% assign name_to_replace = other_person.name %}
-                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
+                                        {% assign display_name = other_person.name %}
+                                        {% if other_person.nickname and other_person.nickname != '' %}
+                                            {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
+                                        {% endif %}
+                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
                                         {% assign desc = desc | replace: name_to_replace, link_replacement %}
                                     {% endif %}
                                 {% endfor %}

@@ -63,6 +63,9 @@ seo: false
                                 {% assign host_found = true %}
                                 {% assign host_url = person.url %}
                                 {% assign host_display_name = person.name %}
+                                {% if person.nickname and person.nickname != '' %}
+                                    {% assign host_display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                                {% endif %}
                             {% endif %}
                         {% endfor %}
                         {% if host_found %}
@@ -91,6 +94,9 @@ seo: false
                                 {% assign guest_found = true %}
                                 {% assign guest_url = person.url %}
                                 {% assign guest_display_name = person.name %}
+                                {% if person.nickname and person.nickname != '' %}
+                                    {% assign guest_display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                                {% endif %}
                             {% endif %}
                         {% endfor %}
                         {% if guest_found %}
@@ -123,7 +129,11 @@ seo: false
                 {% endfor %}
                 {% for person in site.people %}
                     {% assign name_to_replace = person.name %}
-                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                    {% assign display_name = person.name %}
+                    {% if person.nickname and person.nickname != '' %}
+                        {% assign display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                    {% endif %}
+                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: display_name | append: '</a>' %}
                     {% assign desc = desc | replace: name_to_replace, link_replacement %}
                 {% endfor %}
                 {{ desc }}
@@ -146,7 +156,11 @@ seo: false
                 {% endfor %}
                 {% for person in site.people %}
                     {% assign name_to_replace = person.name %}
-                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                    {% assign display_name = person.name %}
+                    {% if person.nickname and person.nickname != '' %}
+                        {% assign display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                    {% endif %}
+                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: display_name | append: '</a>' %}
                     {% assign excerpt = excerpt | replace: name_to_replace, link_replacement %}
                 {% endfor %}
                 {{ excerpt }}

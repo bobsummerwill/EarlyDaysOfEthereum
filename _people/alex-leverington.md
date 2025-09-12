@@ -1,5 +1,6 @@
 ---
 name: Alex Leverington
+nickname: subtly
 description: C++ / P2P Network Developer
 photo: /images/archive.org/ethdev.com/20150315012946/alex-leverington.jpg
 start: Feb 2014

@@ -1,5 +1,6 @@
 ---
 name: Christian Reitwiessner
+nickname: chriseth
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/christian-reitwiessner.jpg
 start: Oct 2014

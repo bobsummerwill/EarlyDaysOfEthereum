@@ -1,5 +1,6 @@
 ---
 name: Arkadiy Paronyan
+nickname: arkpar
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/arkadiy-paronyan.jpg
 start: Nov 2014

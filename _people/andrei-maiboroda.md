@@ -1,5 +1,6 @@
 ---
 name: Andrei Maiboroda
+nickname: gumb0
 description: Software Engineer and Researcher
 start: Dec 2016
 end: ???

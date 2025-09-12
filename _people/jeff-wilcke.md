@@ -1,5 +1,6 @@
 ---
 name: Jeff Wilcke
+nickname: obscuren
 description: Ethereum co-Founder
 photo: /images/archive.org/ethereum.org/20140701165441/wilcke-jeffrey.jpg
 start: Dec 2013

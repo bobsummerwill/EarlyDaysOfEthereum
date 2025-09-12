@@ -1,5 +1,6 @@
 ---
 name: Lefteris Karapetsas
+nickname: LefterisJP
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/lefteris-karapetsas.jpg
 start: Nov 2014

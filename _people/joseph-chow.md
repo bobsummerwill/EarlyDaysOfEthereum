@@ -1,5 +1,6 @@
 ---
 name: Joseph Chow
+nickname: ethers
 description: Ethereum OG
 photo: /images/archive.org/ethereum.org/20140701165441/chow-joseph.jpg
 start: Apr 2014

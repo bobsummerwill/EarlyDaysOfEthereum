@@ -2,7 +2,7 @@
 title: "Early Days of Ethereum - Episode 1"
 date: 2023-08-28
 youtube_id: "EuXc6WPrK_k"
-hosts: ["Victor Wong", "Kieren James-Lubin", "James 'Jim' Hormuzdiar"]
+hosts: ["Victor Wong", "Kieren James-Lubin", "James Hormuzdiar"]
 description: "The first episode of the Early Days of Ethereum video series, independently produced by the co-Founders of BlockApps."
 links:
   - title: "Early Days of Ethereum Videos - Notes on episodes I and II"

@@ -1,5 +1,6 @@
 ---
 name: Martin Holst Swende
+nickname: holiman
 description: Geth maintainer and security guy
 start: Sep 2016
 end: Apr 2025

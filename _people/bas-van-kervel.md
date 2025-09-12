@@ -1,5 +1,6 @@
 ---
 name: Bas van Kervel
+nickname: bas-vk
 description: Ethereum OG
 start: Apr 2015
 end: Jul 2017

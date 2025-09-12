@@ -10,3 +10,18 @@
   aspect-ratio: 16/9;
   background: #000;
 }
+
+.interview-link {
+  display: inline-block;
+  background: #007acc;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  vertical-align: middle;
+}

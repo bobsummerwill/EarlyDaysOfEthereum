@@ -47,9 +47,20 @@ layout: default
         <div class="person-interview-link">
             {% assign interview_page = site.videos | where: "url", page.interview | first %}
             {% if interview_page %}
-                <a href="{{ page.interview | relative_url }}" class="interview-link">{{ interview_page.title }}</a>
+                <a href="{{ page.interview | relative_url }}" class="interview-link" style="display: inline-flex; align-items: center; gap: 8px; vertical-align: middle; padding: 12px 20px; font-size: 1.08em;">
+                  <svg viewBox="0 0 20 20" width="18" height="18" style="display: inline-block; vertical-align: middle;">
+                    <circle cx="10" cy="10" r="10" fill="#005580"/>
+                    <polygon points="7,5 15,10 7,15" fill="#fff"/>
+                  </svg>
+                  {{ interview_page.title }}
+                </a>
             {% else %}
-                <a href="{{ page.interview | relative_url }}" class="interview-link">Interview</a>
+                <a href="{{ page.interview | relative_url }}" class="interview-link">
+                  <svg viewBox="0 0 20 20" width="18" height="18" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; fill: white; display: inline-block;">
+                    <polygon points="5,3 17,10 5,17" />
+                  </svg>
+                  Interview
+                </a>
             {% endif %}
         </div>
         {% endif %}

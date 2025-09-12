@@ -11,7 +11,7 @@ See also the partial public histories in:
 
 - [Cut and Try – Building a Dream](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/), written by [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) in February 2016
 - [History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
-- [A Prehistory of the Ethereum Protocol](http://vitalik.ca/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
+- [A Prehistory of the Ethereum Protocol](https://vitalik.eth.limo/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
 
 ## Timeline 2013
 

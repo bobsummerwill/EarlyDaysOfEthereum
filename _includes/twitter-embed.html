@@ -1,0 +1,10 @@
+{% assign twitter_url = include.url | replace: "x.com", "twitter.com" %}
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    <a href="{{ twitter_url }}">{{ twitter_url }}</a>
+  </p>
+</blockquote>
+{% unless page.twitter_widget_loaded %}
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  {% assign twitter_widget_loaded = true %}
+{% endunless %}

@@ -13,7 +13,7 @@ social:
 
 It appears that Richard died in 2024:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">RIP Richard Wild (aka Richard Stott). He was a designer who worked on Ethereum in the early days. <a href="https://t.co/6YQvQvQvQv">pic.twitter.com/6YQvQvQvQv</a></p>&mdash; Laura Shin (@blockchaingirl) <a href="https://twitter.com/blockchaingirl/status/1818203032980471885?ref_src=twsrc%5Etfw">July 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include embed-twitter.html url="https://twitter.com/blockchaingirl/status/1818203032980471885" %}
 
 His last tweet was [posted on 25th May 2024](https://x.com/raidraidrune/status/1794755939540906305).
 

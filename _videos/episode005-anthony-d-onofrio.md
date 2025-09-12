@@ -770,7 +770,7 @@ I never, no, I never went. Um, I had, so my girlfriend at the time was pregnant.
 Uh, my, I just tried to be like the most authentic, like trustworthy, "do what I say" person, good to everybody. Like that, that's how I survived as long as I did. You know, I don't really do politics.  I really don't, all of that stuff was really weird.
 
 [51:47] **Bob:**
-I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum Foundation. Right. You know, so the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the Foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) coming to, uh, Zug at that point to sign papers.
+I mean, all of this was prior to both the crowd sale and the formation of, uh, the Ethereum Foundation. Right. You know, so the ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }}) was 3rd of June, uh, 2014, uh, the, where, you know, you have that, I guess that final, uh, decision of, of, of the Foundation happening, uh, versus the for-profit, uh, because you had, uh, you had people coming, notably Anthony Di Iorio coming to, uh, Zug at that point to sign papers.
 
 Right. You know, it was, it was to do with that EthSuisse, uh, legal entity. And then it was like, yep, no, we're not signing the papers, big mess.  Uh, and then the Foundation, uh, was, was July that that was, uh, incorporated and you still have the crowd sale ongoing through July and August. So yeah, that was a hell of a long span of time.
 
@@ -859,7 +859,7 @@ My, my memory is also that [Anthony]({{ '/people/anthony-di-iorio/' | relative_u
 And then right after there was, I suppose like a big cash grab going on. So like, but maybe, Bob, you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
 [1:00:42] **Bob:**
-Yeah, so, so [Anthony Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had EthSuisse got formed in Switzerland somewhere in April, I think.
+Yeah, so, so Anthony Di Iorio, (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had EthSuisse got formed in Switzerland somewhere in April, I think.
 
 *(Bob: It was actually incorporated on 28th Feb 2014)*
 

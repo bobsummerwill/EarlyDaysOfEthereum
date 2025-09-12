@@ -4,7 +4,7 @@ date: 2014-02-28
 description: 'Ethereum Switzerland GmbH was a for-profit "Ethereum Company" which was incorporated in Zug in February 2014'
 ---
 
-Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit company was incorporated in Zug, Switzerland, on 28th February 2014 by [Mihai Alisie]({{ '/people/mihai-alisie/' | relative_url }}) and Swiss local [Herbert Sterchi]({{ '/people/herbert-sterchi/' | relative_url }}) 
+Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit company was incorporated in Zug, Switzerland, on 28th February 2014 by Mihai Alisie and Swiss local [Herbert Sterchi]({{ '/people/herbert-sterchi/' | relative_url }}) 
 
 [B2Bhint.com](https://b2bhint.com) has [public information](https://b2bhint.com/en/company/ch/ethereum-switzerland-gmbh-in-liquidation--CHE-349.816.493) on the legal entity which shows the following timeline:
 

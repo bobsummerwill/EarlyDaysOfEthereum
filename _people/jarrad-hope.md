@@ -14,7 +14,7 @@ There were three presentations that day:
 
 - *Intro to Smart Contracts - Jarrad Hope*
 - *Writing Smart Contracts - [Joris Bontje]({{ '/people/joris-bontje/' | relative_url }})*
-- *Q&A - [Jeff Wilcke]({{ '/people/jeff-wilcke/' | relative_url }})*
+- *Q&A - Jeff Wilcke*
 
 {% include youtube_embed.html video_id="AHAAktdxSOE" %}
 

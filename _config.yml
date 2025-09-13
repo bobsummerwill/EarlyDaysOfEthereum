@@ -86,7 +86,6 @@ defaults:
     values:
       layout: "person"
       image: /images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_facebook.png
-      seo: false
       og_image: "/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_facebook.png"
       og_image_width: "1200"
       og_image_height: "630"
@@ -107,6 +106,7 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing
 exclude:

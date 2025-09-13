@@ -52,10 +52,12 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                 {% assign people_without_dates = "" | split: "" %}
 
                 {% for person in site.people %}
-                    {% if person.start and person.start != '' and person.start != '???' %}
-                        {% assign people_with_dates = people_with_dates | push: person %}
-                    {% else %}
-                        {% assign people_without_dates = people_without_dates | push: person %}
+                    {% if person.hidden != true and person.hidden != 'true' %}
+                        {% if person.start and person.start != '' and person.start != '???' %}
+                            {% assign people_with_dates = people_with_dates | push: person %}
+                        {% else %}
+                            {% assign people_without_dates = people_without_dates | push: person %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
 
@@ -156,86 +158,43 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                 {% comment %}
                 Display people in chronological order, then alphabetically within each date
                 {% endcomment %}
-                {% assign people_count = 0 %}
                 {% for start_date in sorted_dates %}
-                    {% if people_count >= 13 %}{% break %}{% endif %}
+                  {% if start_date contains "2013" %}
                     {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
                     {% for person in people_in_date %}
-                        {% if people_count >= 13 %}{% break %}{% endif %}
-                        <tr>
-                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
-                            <td>{{ person.start | default: "" }}</td>
-                            <td>
-                                {% assign desc = person.description | default: person.role | default: "" %}
-                                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
-                                {% for video in site.videos %}
-                                    {% assign title_to_replace = video.title %}
-                                    {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                                {% endfor %}
-                                {% for article in site.articles %}
-                                    {% assign title_to_replace = article.title %}
-                                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                                {% endfor %}
-                                {% for other_person in site.people %}
-                                    {% if other_person.name != person.name %}
-                                        {% assign name_to_replace = other_person.name %}
-                                        {% assign display_name = other_person.name %}
-                                        {% if other_person.nickname and other_person.nickname != '' %}
-                                            {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                                        {% endif %}
-                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                                        {% assign desc = desc | replace: name_to_replace, link_replacement %}
-                                    {% endif %}
-                                {% endfor %}
-                                {{ desc }}
-                            </td>
-                        </tr>
-                        {% assign people_count = people_count | plus: 1 %}
+                      <tr>
+                        <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
+                        <td>{{ person.start | default: "" }}</td>
+                        <td>
+                          {% assign desc = person.description | default: person.role | default: "" %}
+                          {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                          {% for video in site.videos %}
+                            {% assign title_to_replace = video.title %}
+                            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
+                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                          {% endfor %}
+                          {% for article in site.articles %}
+                            {% assign title_to_replace = article.title %}
+                            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
+                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
+                          {% endfor %}
+                          {% for other_person in site.people %}
+                            {% if other_person.name != person.name %}
+                              {% assign name_to_replace = other_person.name %}
+                              {% assign display_name = other_person.name %}
+                              {% if other_person.nickname and other_person.nickname != '' %}
+                                {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
+                              {% endif %}
+                              {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                              {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                            {% endif %}
+                          {% endfor %}
+                          {{ desc }}
+                        </td>
+                      </tr>
                     {% endfor %}
+                  {% endif %}
                 {% endfor %}
-
-                {% comment %}
-                Add people without dates if we haven't reached 13 yet
-                {% endcomment %}
-                {% if people_count < 13 %}
-                    {% assign sorted_other_people = people_without_dates | sort: "name" %}
-                    {% for person in sorted_other_people %}
-                        {% if people_count >= 13 %}{% break %}{% endif %}
-                        <tr>
-                            <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
-                            <td>{{ person.start | default: "" }}</td>
-                            <td>
-                                {% assign desc = person.description | default: person.role | default: "" %}
-                                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
-                                {% for video in site.videos %}
-                                    {% assign title_to_replace = video.title %}
-                                    {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                                {% endfor %}
-                                {% for article in site.articles %}
-                                    {% assign title_to_replace = article.title %}
-                                    {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                                {% endfor %}
-                                {% for other_person in site.people %}
-                                    {% if other_person.name != person.name %}
-                                        {% assign name_to_replace = other_person.name %}
-                                        {% assign display_name = other_person.name %}
-                                        {% if other_person.nickname and other_person.nickname != '' %}
-                                            {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                                        {% endif %}
-                                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                                        {% assign desc = desc | replace: name_to_replace, link_replacement %}
-                                    {% endif %}
-                                {% endfor %}
-                                {{ desc }}
-                            </td>
-                        </tr>
-                        {% assign people_count = people_count | plus: 1 %}
-                    {% endfor %}
-                {% endif %}
             </tbody>
         </table>
         {% if site.people.size > 10 %}

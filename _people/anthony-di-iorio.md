@@ -11,8 +11,6 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Anthony_Di_Iorio
 ---
 
-Nancy Wu was Anthony's common-law partner for many years.
-
 ## References
 
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <!--
   =========================
   Jekyll Person Layout
@@ -6,10 +9,6 @@
   For more on Jekyll layouts: https://jekyllrb.com/docs/layouts/
   For Liquid templating: https://shopify.github.io/liquid/
 -->
-
----
-layout: default
----
 
 <!--
   Back link navigation to the People index.
@@ -66,7 +65,7 @@ layout: default
                         {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
                     {% endif %}
                     {% if other_person.hidden %}
-                        {% assign link_replacement = '[REDACTED]' %}
+                        {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
                     {% else %}
                         {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
                     {% endif %}
@@ -289,7 +288,7 @@ layout: default
                     {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
                 {% endif %}
                 {% if other_person.hidden %}
-                    {% assign link_replacement = '[REDACTED]' %}
+                    {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
                 {% else %}
                     {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
                 {% endif %}

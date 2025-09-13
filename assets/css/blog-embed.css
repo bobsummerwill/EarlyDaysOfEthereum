@@ -1,3 +1,19 @@
+/*
+  =========================
+  Blog Embed Card Styles
+  =========================
+  Styles for the .blog-embed class and related elements, used in blog-embed.html and similar includes.
+  For more on CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+*/
+
+/* 
+  Main blog embed card container.
+  - Inline-block for flow with text.
+  - Rounded corners and subtle box-shadow for card effect.
+  - White background for contrast.
+  - Smooth transition on hover.
+  See: https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+*/
 .blog-embed {
   display: inline-block;
   margin: 18px 0;
@@ -6,9 +22,21 @@
   background: #fff;
   transition: box-shadow 0.2s;
 }
+
+/* 
+  Stronger shadow on hover for interactivity.
+*/
 .blog-embed:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.16);
 }
+
+/*
+  Embedded image inside the blog card.
+  - Responsive width with min/max constraints.
+  - Centered with margin auto.
+  - Rounded corners for consistency.
+  See: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+*/
 .blog-embed-img {
   width: 50%;
   min-width: 180px;

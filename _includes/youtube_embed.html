@@ -1,7 +1,14 @@
-{% comment %}
-YouTube embed include for positioning videos anywhere in content
-Usage: {% include youtube_embed.html video_id="VIDEO_ID" width="75%" %}
-{% endcomment %}
+<!--
+  =========================
+  YouTube Video Embed Include
+  =========================
+  This Jekyll include renders a responsive YouTube video embed.
+  Usage: {% raw %}{% include youtube_embed.html video_id="VIDEO_ID" width="75%" start_time="SECONDS" %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+  For iframe best practices: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+  For YouTube embed parameters: https://developers.google.com/youtube/player_parameters
+-->
 
 {% assign video_id = include.video_id | default: page.youtube_id %}
 {% assign width = include.width | default: "75%" %}
@@ -9,6 +16,12 @@ Usage: {% include youtube_embed.html video_id="VIDEO_ID" width="75%" %}
 
 {% if video_id %}
 <style>
+/*
+  Responsive YouTube embed container.
+  - max-width: 75% (customizable via include.width)
+  - aspect ratio: 16:9 (padding-bottom: 42.1875%)
+  - border-radius and box-shadow for styling
+*/
 .video-embed-content {
     max-width: 75%;
     padding-bottom: 42.1875%;
@@ -30,6 +43,12 @@ Usage: {% include youtube_embed.html video_id="VIDEO_ID" width="75%" %}
 }
 </style>
 
+<!--
+  Main YouTube embed container.
+  - src: YouTube embed URL with optional start time
+  - allowfullscreen: enables fullscreen playback
+  - title: improves accessibility
+-->
 <div class="video-embed-content">
     <iframe 
         src="https://www.youtube.com/embed/{{ video_id }}{% if start_time %}?start={{ start_time }}{% endif %}" 

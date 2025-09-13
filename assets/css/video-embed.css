@@ -1,3 +1,22 @@
+/*
+  =========================
+  Video Embed Styles
+  =========================
+  Styles for video embed iframes and interview links, used in video-embed.html and related layouts.
+  For more on CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+*/
+
+/*
+  Minimal video embed (iframe) styling.
+  - Block display for full-width.
+  - Margin for spacing.
+  - Rounded corners and subtle box-shadow for card effect.
+  - No border for clean look.
+  - Responsive width with min/max constraints.
+  - aspect-ratio: 16/9 for standard video format.
+  - Black background for letterboxing.
+  See: https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio
+*/
 .video-embed-minimal {
   display: block;
   margin: 18px 0;
@@ -11,6 +30,15 @@
   background: #000;
 }
 
+/*
+  Interview link button styling.
+  - Inline-block for button-like appearance.
+  - Blue background, white text, rounded corners.
+  - Padding and font styling for emphasis.
+  - Smooth transition for hover/focus.
+  - Relative positioning for icon overlays.
+  See: https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+*/
 .interview-link {
   display: inline-block;
   background: #007acc;

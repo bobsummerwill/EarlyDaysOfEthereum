@@ -1,7 +1,28 @@
+<!--
+  =========================
+  Medium Profile Embed Include
+  =========================
+  This Jekyll include renders a styled card for embedding a Medium profile.
+  Usage: {% raw %}{% include medium-embed.html url="..." img="..." name="..." desc="..." handle="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+-->
+
 <div class="medium-embed">
+  <!--
+    The entire card is a link to the Medium profile.
+    rel="noopener" is used for security: https://web.dev/external-anchors-use-rel-noopener/
+  -->
   <a href="{{ include.url }}" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+    <!--
+      Medium profile photo.
+      alt attribute improves accessibility: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#alt
+    -->
     <img src="{{ include.img }}" alt="{{ include.name }} Medium profile photo" class="medium-profile-photo" />
     <div class="medium-profile-info">
+      <!--
+        Profile name, description, and handle.
+      -->
       <div class="name">{{ include.name }}</div>
       <div class="desc">{{ include.desc }}</div>
       <div class="url">{{ include.handle }}</div>

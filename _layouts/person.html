@@ -19,6 +19,9 @@ layout: default
     <a href="{{ '/people/' | relative_url }}">&larr; Back to People</a>
 </div>
 
+{% if page.hidden %}
+  <meta http-equiv="refresh" content="0; url=/404.html" />
+{% else %}
 <article class="person-profile">
     <header>
         <!--
@@ -62,7 +65,11 @@ layout: default
                     {% if other_person.nickname and other_person.nickname != '' %}
                         {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
                     {% endif %}
-                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                    {% if other_person.hidden %}
+                        {% assign link_replacement = '[REDACTED]' %}
+                    {% else %}
+                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                    {% endif %}
                     {% assign desc = desc | replace: name_to_replace, link_replacement %}
                 {% endif %}
             {% endfor %}
@@ -281,7 +288,11 @@ layout: default
                 {% if other_person.nickname and other_person.nickname != '' %}
                     {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
                 {% endif %}
-                {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                {% if other_person.hidden %}
+                    {% assign link_replacement = '[REDACTED]' %}
+                {% else %}
+                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                {% endif %}
                 {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
             {% endif %}
         {% endfor %}
@@ -311,3 +322,4 @@ layout: default
 <style>
     /* ... (CSS unchanged, see previous version for full content) ... */
 </style>
+{% endif %}

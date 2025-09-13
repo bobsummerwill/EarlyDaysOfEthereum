@@ -139,7 +139,11 @@ title: Videos
             {% if person.nickname and person.nickname != '' %}
                 {% assign display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
             {% endif %}
-            {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: display_name | append: '</a>' %}
+            {% if person.hidden %}
+                {% assign link_replacement = '[REDACTED]' %}
+            {% else %}
+                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: display_name | append: '</a>' %}
+            {% endif %}
             {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
         {% endfor %}
         {{ body_content }}

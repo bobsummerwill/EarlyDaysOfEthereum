@@ -19,4 +19,3 @@ Nancy Wu was Anthony's common-law partner for many years.
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
 - Ethereum Foundation Timeline
 - [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
-

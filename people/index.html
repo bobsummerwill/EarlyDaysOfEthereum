@@ -48,10 +48,12 @@ Group people by start date and sort chronologically
 {% assign people_without_dates = "" | split: "" %}
 
 {% for person in site.people %}
-    {% if person.start and person.start != '' and person.start != '???' %}
-        {% assign people_with_dates = people_with_dates | push: person %}
-    {% else %}
-        {% assign people_without_dates = people_without_dates | push: person %}
+    {% if person.hidden != true and person.hidden != 'true' %}
+        {% if person.start and person.start != '' and person.start != '???' %}
+            {% assign people_with_dates = people_with_dates | push: person %}
+        {% else %}
+            {% assign people_without_dates = people_without_dates | push: person %}
+        {% endif %}
     {% endif %}
 {% endfor %}
 
@@ -313,7 +315,11 @@ Display people grouped by start date with epoch headings
                                 {% if other_person.nickname and other_person.nickname != '' %}
                                     {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
                                 {% endif %}
-                                {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                                {% if other_person.hidden %}
+                                    {% assign link_replacement = '[REDACTED]' %}
+                                {% else %}
+                                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                                {% endif %}
                                 {% assign desc = desc | replace: name_to_replace, link_replacement %}
                             {% endif %}
                         {% endfor %}

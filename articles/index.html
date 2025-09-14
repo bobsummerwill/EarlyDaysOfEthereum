@@ -2,7 +2,20 @@
 layout: default
 title: Articles
 ---
+<!--
+  Articles Index Page
+  =========================
+  This page lists all articles in the Early Days of Ethereum site.
+  - Jekyll Collections: https://jekyllrb.com/docs/collections/
+  - Liquid Templating: https://shopify.github.io/liquid/
+  - HTML5: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+  - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+-->
 
+<!--
+  Open Graph meta tags for social sharing.
+  - Open Graph: https://ogp.me/
+-->
 <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
 <meta property="og:description" content="A collection of articles documenting the early days of Ethereum, from the pre-Ethereum period through the foundation's early years." />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
@@ -13,16 +26,27 @@ title: Articles
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
 <meta property="og:image:type" content="image/png" />
+<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin_2.png' | absolute_url }}" />
+
+<!--
+  Twitter Card meta tags for social sharing.
+  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+-->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}" />
 <meta name="twitter:description" content="A collection of articles documenting the early days of Ethereum, from the pre-Ethereum period through the foundation's early years." />
 <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
 <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
-<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin_2.png' | absolute_url }}" />
 
 <h1>Articles</h1>
 
-<p>A collection of articles documenting the early days of Ethereum, from the pre-Ethereum period through the foundation's early years.</p>
+<p>
+  A collection of articles documenting the early days of Ethereum, from the pre-Ethereum period through the foundation's early years.
+  <br>
+  <em>
+    See <a href="https://jekyllrb.com/docs/collections/" target="_blank" rel="noopener">Jekyll Collections</a> and <a href="https://shopify.github.io/liquid/" target="_blank" rel="noopener">Liquid Templating</a> for more on how this page is generated.
+  </em>
+</p>
 
 <div class="articles-list">
     {% assign sorted_articles = site.articles | sort: 'date' %}
@@ -57,7 +81,10 @@ title: Articles
         {% if article.description %}
         <p class="article-description">
             {% assign desc = article.description %}
-            {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+            <!--
+              Auto-linking for videos, articles, and people.
+              - Liquid Filters: https://shopify.github.io/liquid/filters/
+            -->
             {% for video in site.videos %}
                 {% assign title_to_replace = video.title %}
                 {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
@@ -80,7 +107,10 @@ title: Articles
         {% else %}
         <p class="article-excerpt">
             {% assign excerpt = article.content | strip_html | truncatewords: 50 %}
-            {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+            <!--
+              Auto-linking for videos, articles, and people.
+              - Liquid Filters: https://shopify.github.io/liquid/filters/
+            -->
             {% for video in site.videos %}
                 {% assign title_to_replace = video.title %}
                 {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}

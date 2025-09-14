@@ -3,7 +3,19 @@ layout: default
 title: Home
 description: "Comprehensive documentation of the early days of Ethereum, featuring articles, videos, and profiles of key contributors to the Ethereum project and foundation."
 ---
+<!--
+  Homepage (index.html)
+  =========================
+  This is the main landing page for the Early Days of Ethereum site.
+  - Jekyll Home: https://jekyllrb.com/docs/structure/
+  - Liquid Templating: https://shopify.github.io/liquid/
+  - Schema.org WebSite: https://schema.org/WebSite
+-->
 
+<!--
+  Open Graph meta tags for social sharing.
+  - Open Graph: https://ogp.me/
+-->
 <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
 <meta property="og:description" content="{{ page.description | default: site.description }}" />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
@@ -14,16 +26,24 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
 <meta property="og:image:type" content="image/png" />
+<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
+
+<!--
+  Twitter Card meta tags for social sharing.
+  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+-->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}" />
 <meta name="twitter:description" content="{{ page.description | default: site.description }}" />
 <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
 <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
-<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
 
+<!--
+  Hero Section: Project introduction and call to contribute.
+  - Schema.org WebSite: https://schema.org/WebSite
+-->
 <section class="hero-section" itemscope itemtype="https://schema.org/WebSite">
     <img src="{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | relative_url }}" alt="Historical screenshot of Ethereum.org website from April 28, 2014, showing the evolution of the Ethereum project" class="hero-image" style="display: block; margin-left: auto; margin-right: auto;" />
-    
     <div class="hero-content">
         <h2>Documenting Ethereum's Genesis</h2>
         <p>This is an ongoing project documenting the early days of the <a href="https://en.wikipedia.org/wiki/Ethereum" target="_blank" rel="noopener">Ethereum project</a>, preserving the history and stories of the people who built the world's first smart contract platform.</p>
@@ -33,7 +53,13 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
     </div>
 </section>
 
+<!--
+  Main Content Sections: People, Videos, Articles
+  - Jekyll Collections: https://jekyllrb.com/docs/collections/
+  - CSS Grid/Table: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
+-->
 <div class="content-sections">
+    <!-- People Section -->
     <section class="people-section">
         <h2><a href="{{ '/people/' | relative_url }}">People</a></h2>
         <table class="content-table">
@@ -46,7 +72,8 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
             </thead>
             <tbody>
                 {% comment %}
-                Group people by start date and sort chronologically like on /people page
+                Group people by start date and sort chronologically like on /people page.
+                - Jekyll Variables: https://jekyllrb.com/docs/variables/
                 {% endcomment %}
                 {% assign people_with_dates = "" | split: "" %}
                 {% assign people_without_dates = "" | split: "" %}
@@ -61,9 +88,6 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                     {% endif %}
                 {% endfor %}
 
-                {% comment %}
-                Create chronologically sorted list of dates
-                {% endcomment %}
                 {% assign date_groups = "" | split: "" %}
                 {% assign processed_dates = "" | split: "" %}
 
@@ -74,9 +98,6 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                     {% endunless %}
                 {% endfor %}
 
-                {% comment %}
-                Sort dates chronologically by year and month
-                {% endcomment %}
                 {% assign sorted_dates = "" | split: "" %}
                 {% assign years_2013 = "" | split: "" %}
                 {% assign years_2014 = "" | split: "" %}
@@ -106,7 +127,6 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
 
                 {% assign month_order = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
 
-                {% comment %}Sort each year by month{% endcomment %}
                 {% for month in month_order %}
                     {% for date_str in years_2013 %}
                         {% if date_str contains month %}
@@ -155,9 +175,6 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                     {% assign sorted_dates = sorted_dates | push: year_group %}
                 {% endfor %}
 
-                {% comment %}
-                Display people in chronological order, then alphabetically within each date
-                {% endcomment %}
                 {% for start_date in sorted_dates %}
                   {% if start_date contains "2013" %}
                     {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
@@ -167,7 +184,10 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                         <td>{{ person.start | default: "" }}</td>
                         <td>
                           {% assign desc = person.description | default: person.role | default: "" %}
-                          {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                          <!--
+                            Auto-link in order: Videos, Articles, People (match all occurrences)
+                            - Liquid Filters: https://shopify.github.io/liquid/filters/
+                          -->
                           {% for video in site.videos %}
                             {% assign title_to_replace = video.title %}
                             {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
@@ -202,6 +222,7 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
         {% endif %}
     </section>
 
+    <!-- Videos Section -->
     <section class="videos-section">
         <h2><a href="{{ '/videos/' | relative_url }}">Videos</a></h2>
         <table class="content-table">
@@ -226,6 +247,7 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
         {% endif %}
     </section>
 
+    <!-- Articles Section -->
     <section class="articles-section">
         <h2><a href="{{ '/articles/' | relative_url }}">Articles</a></h2>
         <table class="content-table">
@@ -251,6 +273,10 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
     </section>
 </div>
 
+<!--
+  Backstory Section: Project history and context.
+  - HTML Sectioning: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+-->
 <section class="backstory">
     <h2>Back Story</h2>
     <p>This is a continuation of a 2017-2018 project in which <a href="{{ '/people/bob-summerwill/' | relative_url }}">Bob Summerwill</a> gathered information on the early contributors to the <a href="https://ethereum.org">Ethereum project</a> and of people who were involved with the <a href="https://ethereum.foundation/">Ethereum Foundation</a> in its early years:</p>

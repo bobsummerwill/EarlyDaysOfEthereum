@@ -2,7 +2,18 @@
 layout: default
 title: Videos
 ---
+<!--
+  Videos Index Page
+  =========================
+  This page lists all video episodes in the Early Days of Ethereum site.
+  - Jekyll Collections: https://jekyllrb.com/docs/collections/
+  - Liquid Templating: https://shopify.github.io/liquid/
+-->
 
+<!--
+  Open Graph meta tags for social sharing.
+  - Open Graph: https://ogp.me/
+-->
 <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
 <meta property="og:description" content="Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights." />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
@@ -13,17 +24,32 @@ title: Videos
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
 <meta property="og:image:type" content="image/png" />
+<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
+
+<!--
+  Twitter Card meta tags for social sharing.
+  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+-->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}" />
 <meta name="twitter:description" content="Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights." />
 <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
 <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
-<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png' | absolute_url }}" />
 
 <h1>Videos</h1>
 
-<p>Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights.</p>
+<p>
+  Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights.
+  <br>
+  <em>
+    See <a href="https://jekyllrb.com/docs/collections/" target="_blank" rel="noopener">Jekyll Collections</a> and <a href="https://shopify.github.io/liquid/" target="_blank" rel="noopener">Liquid Templating</a> for more on how this page is generated.
+  </em>
+</p>
 
+<!--
+  Videos List Section: Grid of video cards.
+  - CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
+-->
 <div class="videos-list">
     {% assign sorted_videos = site.videos | sort: 'date' %}
     {% for video in sorted_videos %}
@@ -113,7 +139,10 @@ title: Videos
             {% if video.description %}
             <p class="video-description">
                 {% assign desc = video.description %}
-                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                <!--
+                  Auto-link in order: Videos, Articles, People (match all occurrences)
+                  - Liquid Filters: https://shopify.github.io/liquid/filters/
+                -->
                 {% for other_video in site.videos %}
                     {% if other_video.title != video.title %}
                         {% assign title_to_replace = other_video.title %}
@@ -140,7 +169,10 @@ title: Videos
             {% else %}
             <p class="video-excerpt">
                 {% assign excerpt = video.content | strip_html | truncatewords: 40 %}
-                {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
+                <!--
+                  Auto-link in order: Videos, Articles, People (match all occurrences)
+                  - Liquid Filters: https://shopify.github.io/liquid/filters/
+                -->
                 {% for other_video in site.videos %}
                     {% if other_video.title != video.title %}
                         {% assign title_to_replace = other_video.title %}
@@ -174,132 +206,3 @@ title: Videos
     <p class="no-content">No video episodes have been added yet. Check back soon!</p>
     {% endif %}
 </div>
-
-<style>
-    .videos-list {
-        margin-top: 30px;
-    }
-    
-    .video-card {
-        background: #f9f9f9;
-        padding: 25px;
-        margin-bottom: 30px;
-        border-radius: 8px;
-        border-left: 4px solid #007acc;
-        display: flex;
-        gap: 25px;
-    }
-    
-    .video-thumbnail {
-        flex-shrink: 0;
-        width: 300px;
-        position: relative;
-    }
-    
-    .video-thumbnail img {
-        width: 100%;
-        height: auto;
-        border-radius: 6px;
-        transition: opacity 0.3s ease;
-    }
-    
-    .video-thumbnail:hover img {
-        opacity: 0.8;
-    }
-    
-    .play-button {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background: rgba(0, 0, 0, 0.7);
-        color: white;
-        width: 60px;
-        height: 60px;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 20px;
-        transition: background-color 0.3s ease;
-    }
-    
-    .video-thumbnail:hover .play-button {
-        background: rgba(0, 122, 204, 0.9);
-    }
-    
-    .video-info {
-        flex: 1;
-        min-width: 0;
-    }
-    
-    .video-info h3 {
-        margin: 0 0 10px 0;
-        font-size: 1.3em;
-    }
-    
-    .video-info h3 a {
-        color: #007acc;
-        text-decoration: none;
-    }
-    
-    .video-info h3 a:hover {
-        text-decoration: underline;
-    }
-    
-    .video-meta {
-        color: #666;
-        font-size: 0.9em;
-        margin-bottom: 10px;
-    }
-    
-    .episode-number {
-        font-weight: bold;
-        color: #007acc;
-    }
-    
-    .release-date {
-        margin-left: 15px;
-    }
-    
-    .video-guests {
-        color: #555;
-        margin-bottom: 15px;
-        font-size: 0.95em;
-    }
-    
-    .video-description,
-    .video-excerpt {
-        color: #555;
-        line-height: 1.6;
-        margin-bottom: 15px;
-    }
-    
-    
-    .no-content {
-        text-align: center;
-        color: #666;
-        font-style: italic;
-        padding: 40px;
-        background: #f9f9f9;
-        border-radius: 8px;
-    }
-    
-    @media (max-width: 768px) {
-        .video-card {
-            flex-direction: column;
-        }
-        
-        .video-thumbnail {
-            width: 100%;
-            max-width: 400px;
-            align-self: center;
-        }
-        
-        .video-meta .release-date {
-            margin-left: 0;
-            display: block;
-            margin-top: 5px;
-        }
-    }
-</style>

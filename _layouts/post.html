@@ -2,17 +2,18 @@
 layout: default
 ---
 <!--
-  =========================
   Jekyll Post Layout
   =========================
   This layout is used for individual article pages in the Early Days of Ethereum site.
-  For more on Jekyll layouts: https://jekyllrb.com/docs/layouts/
-  For Liquid templating: https://shopify.github.io/liquid/
+  - Jekyll Layouts: https://jekyllrb.com/docs/layouts/
+  - Liquid Templating: https://shopify.github.io/liquid/
+  - HTML5: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+  - Schema.org Article: https://schema.org/Article
 -->
 
 <!--
-  Open Graph and Twitter Card meta tags for social sharing.
-  See: https://ogp.me/ and https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+  Open Graph meta tags for social sharing.
+  - Open Graph: https://ogp.me/
 -->
 <meta property="og:title" content="{{ page.title }} - Early Days of Ethereum" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }} - An article from the Early Days of Ethereum documentation project.{% endif %}" />
@@ -24,16 +25,21 @@ layout: default
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
 <meta property="og:image:type" content="image/png" />
+<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin_2.png' | absolute_url }}" />
+
+<!--
+  Twitter Card meta tags for social sharing.
+  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+-->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ page.title }} - Early Days of Ethereum" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }} - An article from the Early Days of Ethereum documentation project.{% endif %}" />
 <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
 <meta name="twitter:image:alt" content="Historical screenshot of Ethereum.org website from April 28, 2014, showing the early days of the Ethereum project" />
-<meta property="og:image:linkedin" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin_2.png' | absolute_url }}" />
 
 <!--
   Breadcrumb navigation back to the Articles index.
-  See: https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/
+  - ARIA Breadcrumb: https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/
 -->
 <nav aria-label="Breadcrumb">
     <div class="back-link">
@@ -45,7 +51,7 @@ layout: default
     <header>
         <!--
           Article title and meta information (date, author).
-          See: https://schema.org/Article
+          - Schema.org Article: https://schema.org/Article
         -->
         <h1 itemprop="headline">{{ page.title }}</h1>
         <div class="content-meta">
@@ -62,13 +68,10 @@ layout: default
         {% if page.description %}
         <!--
           Article description with auto-linking for videos, articles, and people.
+          - Liquid Filters: https://shopify.github.io/liquid/filters/
         -->
         <div class="post-description" itemprop="description">
             {% assign desc = page.description %}
-            <!--
-              Auto-linking logic: replaces occurrences of video, article, and person titles/names with links.
-              For more on Liquid filters: https://shopify.github.io/liquid/filters/
-            -->
             {% for video in site.videos %}
                 {% assign title_to_replace = video.title %}
                 {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
@@ -83,13 +86,13 @@ layout: default
             {% endfor %}
             {% for person in site.people %}
                 {% assign name_to_replace = person.name %}
-            {% assign display_name = person.name %}
-            {% if person.hidden %}
-                {% assign link_replacement = '[REDACTED]' %}
-            {% else %}
-                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
-            {% endif %}
-            {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                {% assign display_name = person.name %}
+                {% if person.hidden %}
+                    {% assign link_replacement = '[REDACTED]' %}
+                {% else %}
+                    {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
+                {% endif %}
+                {% assign desc = desc | replace: name_to_replace, link_replacement %}
             {% endfor %}
             {{ desc }}
         </div>
@@ -102,7 +105,7 @@ layout: default
     
     <!--
       Main article content, with auto-linking for videos, articles, and people.
-      See: https://jekyllrb.com/docs/variables/#content
+      - Jekyll Content Variable: https://jekyllrb.com/docs/variables/#content
     -->
     <div class="post-content" itemprop="articleBody">
         {% assign body_content = content %}
@@ -134,7 +137,7 @@ layout: default
     {% if page.tags and page.tags.size > 0 %}
     <!--
       Article tags for categorization and search.
-      See: https://jekyllrb.com/docs/front-matter/#tags-and-categories
+      - Jekyll Front Matter: https://jekyllrb.com/docs/front-matter/#tags-and-categories
     -->
     <div class="post-tags">
         <strong>Tags:</strong>

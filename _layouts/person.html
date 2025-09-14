@@ -2,13 +2,37 @@
 layout: default
 ---
 <!--
-  =========================
   Jekyll Person Layout
   =========================
   This layout is used for individual "person" pages in the Early Days of Ethereum site.
-  For more on Jekyll layouts: https://jekyllrb.com/docs/layouts/
-  For Liquid templating: https://shopify.github.io/liquid/
+  - Jekyll Layouts: https://jekyllrb.com/docs/layouts/
+  - Liquid Templating: https://shopify.github.io/liquid/
 -->
+
+<!--
+  Open Graph meta tags for social sharing.
+  - Open Graph: https://ogp.me/
+-->
+<meta property="og:title" content="{{ page.name }} - Early Days of Ethereum" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Profile of {{ page.name }} from the Early Days of Ethereum documentation project.{% endif %}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:type" content="profile" />
+<meta property="og:site_name" content="Early Days of Ethereum" />
+<meta property="og:image" content="{{ page.photo | absolute_url }}" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="400" />
+<meta property="og:image:alt" content="{{ page.name }} profile photo" />
+<meta property="og:image:type" content="image/png" />
+
+<!--
+  Twitter Card meta tags for social sharing.
+  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.name }} - Early Days of Ethereum" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Profile of {{ page.name }} from the Early Days of Ethereum documentation project.{% endif %}" />
+<meta name="twitter:image" content="{{ page.photo | absolute_url }}" />
+<meta name="twitter:image:alt" content="{{ page.name }} profile photo" />
 
 <!--
   Back link navigation to the People index.

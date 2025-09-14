@@ -346,5 +346,38 @@
         }
     </style>
 </footer>
+{%- comment -%}
+  HIDEABLE SECTION SUPPORT
+  ------------------------
+  Any page (post, person, video, etc.) can define a hideable section by using a Liquid capture block in the Markdown file:
+
+    {% capture hideable_section %}
+    ...content to hide...
+    {% endcapture %}
+
+  The default layout will automatically output this section wrapped in:
+    <div class="hideable-section" style="display:none">...</div>
+
+  A global JavaScript snippet will show all .hideable-section elements if the URL contains ?hidden=false.
+  This allows for dynamic, client-side toggling of sensitive or optional content for review or admin purposes.
+
+  No raw HTML or includes are needed in the Markdown file—just the capture block.
+{%- endcomment -%}
+{% if hideable_section %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
+{% endif %}
+<script>
+  // Show hideable sections if ?hidden=false is present in the URL
+  (function() {
+    var params = new URLSearchParams(window.location.search);
+    if (params.get('hidden') === 'false') {
+      document.querySelectorAll('.hideable-section').forEach(function(el) {
+        el.style.display = '';
+      });
+    }
+  })();
+</script>
 </body>
 </html>

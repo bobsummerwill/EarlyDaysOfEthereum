@@ -61,13 +61,10 @@ layout: default
                 {% if other_person.name != page.name %}
                     {% assign name_to_replace = other_person.name %}
                     {% assign display_name = other_person.name %}
-                    {% if other_person.nickname and other_person.nickname != '' %}
-                        {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                    {% endif %}
                     {% if other_person.hidden %}
                         {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
                     {% else %}
-                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
                     {% endif %}
                     {% assign desc = desc | replace: name_to_replace, link_replacement %}
                 {% endif %}
@@ -284,13 +281,10 @@ layout: default
             {% if other_person.name != page.name %}
                 {% assign name_to_replace = other_person.name %}
                 {% assign display_name = other_person.name %}
-                {% if other_person.nickname and other_person.nickname != '' %}
-                    {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                {% endif %}
                 {% if other_person.hidden %}
                     {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
                 {% else %}
-                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
+                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
                 {% endif %}
                 {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
             {% endif %}

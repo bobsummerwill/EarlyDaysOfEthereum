@@ -534,6 +534,152 @@ img {
         margin-top: 5px;
     }
 }
+
+/* === Person Page CSS (moved from _layouts/person.html) === */
+.person-profile .content-meta {
+    margin-bottom: 25px;
+}
+.person-role {
+    font-weight: bold;
+    color: #007acc;
+    font-size: 1.1em;
+}
+.person-period {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+.person-interview-link {
+    margin-top: 15px;
+}
+.interview-link {
+    display: inline-block;
+    background: #007acc;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+.interview-link:hover {
+    background: #005580;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.person-photo-header {
+    text-align: left;
+    margin: 20px 0;
+}
+.person-photo-header img {
+    max-width: 200px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+.person-photo-header img:hover {
+    filter: grayscale(0%);
+}
+.person-description {
+    font-size: 1.1em;
+    color: #555;
+    margin: 15px 0;
+    font-style: italic;
+}
+.person-dates {
+    font-style: italic;
+    color: #666;
+}
+.person-social-links {
+    margin: 15px 0;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+.person-social-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    color: #666;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.person-social-links a:hover {
+    background: #007acc;
+    color: white;
+    transform: translateY(-2px);
+}
+.person-social-links svg {
+    width: 18px;
+    height: 18px;
+}
+.person-photo {
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 300px;
+}
+.person-photo img {
+    width: 100%;
+    border-radius: 8px;
+}
+.person-content {
+    overflow: hidden;
+}
+.person-content h1,
+.person-content h2,
+.person-content h3,
+.person-content h4,
+.person-content h5,
+.person-content h6 {
+    color: #007acc;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.person-content p {
+    margin-bottom: 15px;
+}
+.person-content ul,
+.person-content ol {
+    margin-bottom: 15px;
+    padding-left: 30px;
+}
+.person-links {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+.person-links h3 {
+    color: #007acc;
+    margin-bottom: 10px;
+}
+.person-links ul {
+    list-style: none;
+    padding: 0;
+}
+.person-links li {
+    margin-bottom: 8px;
+}
+.person-links a {
+    color: #007acc;
+    text-decoration: none;
+}
+.person-links a:hover {
+    text-decoration: underline;
+}
+@media (max-width: 768px) {
+    .person-photo {
+        float: none;
+        margin: 0 0 20px 0;
+        max-width: 100%;
+    }
+}
 .article-preview {
     background: #f9f9f9;
     padding: 25px;

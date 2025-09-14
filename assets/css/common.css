@@ -304,6 +304,9 @@ img {
     font-size: 0.9em;
     margin-bottom: 15px;
 }
+.article-meta time {
+    font-style: italic;
+}
 .article-description,
 .article-excerpt {
     color: #555;

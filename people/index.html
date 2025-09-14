@@ -275,7 +275,7 @@ Display people grouped by start date with epoch headings
                 </div>
                 
                 <div class="person-info">
-                    <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
+                    <h3><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
                     
                     {% if person.role %}
                     <div class="person-role">{{ person.role }}</div>
@@ -418,7 +418,7 @@ Display people grouped by start date with epoch headings
                                 frameborder="0" 
                                 allowfullscreen
                                 title="DEVCON0 self-introduction"
-                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
                             </iframe>
                         </div>
                         
@@ -543,7 +543,7 @@ Display people without start dates in "Other" section
                                 frameborder="0" 
                                 allowfullscreen
                                 title="DEVCON0 self-introduction"
-                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
                             </iframe>
                         </div>
                         

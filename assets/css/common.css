@@ -154,24 +154,34 @@ img {
 }
 .person-card .person-header {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     gap: 15px;
 }
 .person-photo {
-    flex-shrink: 0;
-    width: 80px;
-    height: 80px;
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: block;
+    background: none;
+    border: none;
 }
 .person-photo img {
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
-    border-radius: 50%;
-    border: 2px solid #ddd;
+    border-radius: 8px;
     filter: grayscale(100%);
     transition: filter 0.3s ease;
+    display: block;
+    margin: 0 auto;
 }
 .person-photo img:hover {
     filter: grayscale(0%);
+}
+.person-info {
+    text-align: center;
 }
 .person-info {
     flex: 1;
@@ -211,9 +221,9 @@ img {
 }
 .person-social-links-index {
     margin-top: 10px;
-    display: flex;
-    gap: 8px;
-    align-items: center;
+    margin-bottom: 12px;
+    display: block;
+    text-align: center;
 }
 .person-social-links-index a {
     display: inline-flex;
@@ -237,7 +247,8 @@ img {
     height: 14px;
 }
 .person-interview-link {
-    margin-top: 8px;
+    margin-top: 18px;
+    text-align: center;
 }
 .interview-link {
     display: inline-block;
@@ -550,7 +561,12 @@ img {
     margin-top: 5px;
 }
 .person-interview-link {
-    margin-top: 15px;
+    margin-top: 18px;
+    text-align: left;
+    margin-left: 0;
+}
+.person-card .person-interview-link {
+    text-align: center;
 }
 .interview-link {
     display: inline-block;
@@ -569,16 +585,18 @@ img {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 .person-photo-header {
+    max-width: 33.33%;
+    margin: 0 0 20px 0;
     text-align: left;
-    margin: 20px 0;
 }
 .person-photo-header img {
-    max-width: 200px;
     width: 100%;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     filter: grayscale(100%);
     transition: filter 0.3s ease;
+    display: block;
+    margin: 0 auto;
 }
 .person-photo-header img:hover {
     filter: grayscale(0%);

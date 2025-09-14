@@ -163,7 +163,7 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
                     {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
                     {% for person in people_in_date %}
                       <tr>
-                        <td><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></td>
+                        <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
                         <td>{{ person.start | default: "" }}</td>
                         <td>
                           {% assign desc = person.description | default: person.role | default: "" %}

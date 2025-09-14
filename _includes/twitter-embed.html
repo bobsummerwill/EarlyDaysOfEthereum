@@ -1,0 +1,20 @@
+<!--
+  =========================
+  Twitter/X Tweet Embed Include
+  =========================
+  This Jekyll include renders an embedded tweet using Twitter's official widget.
+  Usage: {% raw %}{% include twitter-embed.html url="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+  For Twitter embed docs: https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview
+-->
+{% assign twitter_url = include.url | replace: "x.com", "twitter.com" %}
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    <a href="{{ twitter_url }}">{{ twitter_url }}</a>
+  </p>
+</blockquote>
+{% unless page.twitter_widget_loaded %}
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  {% assign twitter_widget_loaded = true %}
+{% endunless %}

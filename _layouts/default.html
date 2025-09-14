@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en' }}">
+
+  <!--
+  =========================
+  Jekyll Default Layout: <head> Section
+  =========================
+  This section sets up the HTML <head> for every page using this layout.
+  For more on Jekyll layouts: https://jekyllrb.com/docs/layouts/
+  -->
   <head>
-    <!--
-    =========================
-    Jekyll Default Layout: <head> Section
-    =========================
-    This section sets up the HTML <head> for every page using this layout.
-    For more on Jekyll layouts: https://jekyllrb.com/docs/layouts/
-    -->
 
     <!--
       CSS Stylesheets for custom embeds and site styling.
@@ -21,14 +22,6 @@
     -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!--
-      Extra meta tags from page front matter.
-      See: https://jekyllrb.com/docs/front-matter/
-    -->
-    {% if page.extra_meta %}
-      {{ page.extra_meta }}
-    {% endif %}
 
     <!--
       Page title and description for SEO.
@@ -154,121 +147,21 @@
     {% endif %}
 
     <!--
-      Platform-specific social media optimizations.
-      See: https://ogp.me/
-    -->
-
-    <!--
-      Site-wide CSS for layout and appearance.
-      For more on Jekyll assets: https://jekyllrb.com/docs/assets/
-    -->
-    <style>
-        .footer-strato-link,
-        .footer-strato-link:visited,
-        .footer-strato-link:hover,
-        .footer-strato-link:active {
-            color: #fff !important;
-            font-weight: bold !important;
-            text-decoration: underline !important;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-        }
-        header {
-            border-bottom: 2px solid #007acc;
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-        }
-        h1 {
-            color: #007acc;
-            margin: 0;
-        }
-        .site-description {
-            color: #666;
-            font-style: italic;
-            margin-top: 5px;
-        }
-        nav {
-            margin-top: 20px;
-        }
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        nav a {
-            color: #007acc;
-            text-decoration: none;
-            font-weight: 500;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-        main {
-            margin-bottom: 40px;
-        }
-        footer {
-            border-top: 1px solid #ddd;
-            padding-top: 20px;
-            text-align: center;
-            color: #666;
-            font-size: 0.9em;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 4px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-        .content-meta {
-            color: #666;
-            font-size: 0.9em;
-            margin-bottom: 20px;
-        }
-        .back-link {
-            margin-bottom: 20px;
-        }
-        .back-link a {
-            color: #007acc;
-            text-decoration: none;
-        }
-        .back-link a:hover {
-            text-decoration: underline;
-        }
-        @media (max-width: 768px) {
-            body {
-                padding: 15px;
-            }
-            nav ul {
-                flex-direction: column;
-                gap: 10px;
-            }
-        }
-    </style>
-
-    <!--
       Jekyll SEO Tag plugin: outputs SEO meta tags for search engines and social media.
       See: https://github.com/jekyll/jekyll-seo-tag
       Docs: https://jekyll.github.io/jekyll-seo-tag/
     -->
     {% seo %}
+
   </head>
+
+  <!--
+  =========================
+  Jekyll Default Layout: <body> Section
+  =========================
+  This section contains the main site header, navigation, content, and footer.
+  -->
   <body>
-    {%- comment -%}
-    =========================
-    Jekyll Default Layout: <body> Section
-    =========================
-    This section contains the main site header, navigation, content, and footer.
-    {%- endcomment -%}
 
     <!--
       Site header with title and navigation.
@@ -301,353 +194,159 @@
       Customize as needed for your project.
     -->
     <footer style="background: linear-gradient(90deg, #007acc 0%, #005fa3 100%); color: #fff; padding: 32px 0 18px 0; text-align: center; border-top: none; font-size: 1em;">
-    <!-- Desktop footer (original single-line) -->
-    <div class="footer-desktop" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
-        <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
-            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
-                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;">Early Days of Ethereum is supported by<span style="white-space:pre;"> </span><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
-            </a>
+
+        <!-- Desktop footer (original single-line) -->
+        <div class="footer-desktop" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+            <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
+                <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+                    <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;">Early Days of Ethereum is supported by<span style="white-space:pre;"> </span><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
+                </a>
+            </div>
+            <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+                Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
+                <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
+                or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
+                <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+            </div>
         </div>
-        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
-            Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
-            <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
-            or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
-            <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+
+        <!-- Mobile footer (split lines) -->
+        <div class="footer-mobile" style="display: none; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 6px;">
+                <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+                    <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-bottom: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">Early Days of Ethereum</span>
+                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">is supported by</span>
+                    <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a></span>
+                </a>
+            </div>
+            <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+                Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
+                <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
+                or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
+                <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
+            </div>
         </div>
-    </div>
-    <!-- Mobile footer (split lines) -->
-    <div class="footer-mobile" style="display: none; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 6px;">
-            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
-                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-bottom: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">Early Days of Ethereum</span>
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">is supported by</span>
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a></span>
-            </a>
-        </div>
-        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
-            Contributions welcome via <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues" style="color: #fff; text-decoration: underline;">issues</a>, 
-            <a href="https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls" style="color: #fff; text-decoration: underline;">pull requests</a>, 
-            or directly to Bob's <a href="https://x.com/bobsummerwill" style="color: #fff; text-decoration: underline;">X</a> or 
-            <a href="https://linkedin.com/in/bobsummerwill" style="color: #fff; text-decoration: underline;">LinkedIn</a>.
-        </div>
-    </div>
-    <style>
-        @media (max-width: 600px) {
-            .footer-desktop { display: none !important; }
-            .footer-mobile { display: flex !important; }
-        }
-        @media (min-width: 601px) {
-            .footer-desktop { display: flex !important; }
-            .footer-mobile { display: none !important; }
-        }
-    </style>
-</footer>
-{%- comment -%}
-  HIDEABLE SECTION SUPPORT
-  ------------------------
-  Any page (post, person, video, etc.) can define a hideable section by using a Liquid capture block in the Markdown file:
 
-    {% capture hideable_section %}
-    ...content to hide...
-    {% endcapture %}
-
-  The default layout will automatically output this section wrapped in:
-    <div class="hideable-section" style="display:none">...</div>
-
-  A global JavaScript snippet will show all .hideable-section elements if the URL contains ?hidden=false.
-  This allows for dynamic, client-side toggling of sensitive or optional content for review or admin purposes.
-
-  No raw HTML or includes are needed in the Markdown file—just the capture block.
-{%- endcomment -%}
-{% if hideable_section %}
-<div class="hideable-section" style="display:none">
-{{ hideable_section | markdownify }}
-</div>
-{% endif %}
-<script>
-  // Show hideable sections if ?hidden=false is present in the URL
-  (function() {
-    var params = new URLSearchParams(window.location.search);
-    if (params.get('hidden') === 'false') {
-      document.querySelectorAll('.hideable-section').forEach(function(el) {
-        el.style.display = '';
-      });
-    }
-  })();
-</script>
-<!-- Begin: Inlined blog-embed.html -->
-<!--
-  =========================
-  Blog Embed Include
-  =========================
-  This Jekyll include renders a styled card for embedding external blog posts or articles.
-  Usage: {% raw %}{% include blog-embed.html url="..." title="..." site="..." author="..." date="..." img="..." alt="..." %}{% endraw %}
-  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
-  For Liquid templating: https://shopify.github.io/liquid/
--->
-<div class="blog-embed-card" style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 420px; overflow: hidden;">
-  <a href="{{ include.url }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
-    {% if include.img %}
-      <div style="width: 100%; background: #f8f9fa; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
-        <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" style="width: 92%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06);" loading="lazy" />
-      </div>
-    {% endif %}
-    <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #f8f9fa;">
-      {% if include.title %}
-        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
-          {{ include.title }}
-        </div>
-      {% endif %}
-      {% if include.site or include.author or include.date %}
-        <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
-          {% if include.site %}<span class="blog-embed-site" style="color: #007acc;">{{ include.site }}</span>{% endif %}
-          {% if include.author %} by
-            {% assign matched_person = nil %}
-            {% for person in site.people %}
-              {% if person.name == include.author %}
-                {% assign matched_person = person %}
-                {% break %}
-              {% endif %}
-            {% endfor %}
-            {% if matched_person %}
-              <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
-            {% else %}
-              <span class="blog-embed-author">{{ include.author }}</span>
-            {% endif %}
-          {% endif %}
-          {% if include.date %} , <span class="blog-embed-date">{{ include.date }}</span>{% endif %}
-        </div>
-      {% endif %}
-      {% unless include.img %}
-        <span class="blog-embed blog-embed-link" style="color: #007acc; word-break: break-all;">{{ include.url }}</span>
-      {% endunless %}
-    </div>
-  </a>
-</div>
-<!-- End: Inlined blog-embed.html -->
-
-<!-- Begin: Inlined medium-embed.html -->
-<!--
-  =========================
-  Medium Profile Embed Include
-  =========================
-  This Jekyll include renders a styled card for embedding a Medium profile.
-  Usage: {% raw %}{% include medium-embed.html url="..." img="..." name="..." desc="..." handle="..." %}{% endraw %}
-  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
-  For Liquid templating: https://shopify.github.io/liquid/
--->
-<div class="medium-embed">
-  <a href="{{ include.url }}" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="{{ include.img }}" alt="{{ include.name }} Medium profile photo" class="medium-profile-photo" />
-    <div class="medium-profile-info">
-      <div class="name">{{ include.name }}</div>
-      <div class="desc">{{ include.desc }}</div>
-      <div class="url">{{ include.handle }}</div>
-    </div>
-  </a>
-</div>
-<!-- End: Inlined medium-embed.html -->
-
-<!-- Begin: Inlined twitter-embed.html -->
-<!--
-  =========================
-  Twitter/X Tweet Embed Include
-  =========================
-  This Jekyll include renders an embedded tweet using Twitter's official widget.
-  Usage: {% raw %}{% include twitter-embed.html url="..." %}{% endraw %}
-  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
-  For Liquid templating: https://shopify.github.io/liquid/
-  For Twitter embed docs: https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview
--->
-{% assign twitter_url = include.url | replace: "x.com", "twitter.com" %}
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">
-    <a href="{{ twitter_url }}">{{ twitter_url }}</a>
-  </p>
-</blockquote>
-{% unless page.twitter_widget_loaded %}
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  {% assign twitter_widget_loaded = true %}
-{% endunless %}
-<!-- End: Inlined twitter-embed.html -->
-
-<!-- Begin: Inlined video-embed.html -->
-<!--
-  =========================
-  Video Embed Include
-  =========================
-  This Jekyll include renders a styled card for embedding a video (e.g., YouTube, Vimeo).
-  Usage: {% raw %}{% include video-embed.html url="..." src="..." title="..." site="..." author="..." date="..." %}{% endraw %}
-  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
-  For Liquid templating: https://shopify.github.io/liquid/
-  For iframe best practices: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
--->
-<div class="blog-embed-card" style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 420px; overflow: hidden;">
-  <a href="{{ include.url }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
-    <div style="width: 100%; background: #f8f9fa; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
-      <div style="width: 92%; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06); background: #f8f9fa; border: 1px solid #e9ecef; overflow: hidden;">
-        <iframe
-          class="video-embed-minimal"
-          src="{{ include.src }}"
-          title="{{ include.title | escape }}"
-          allowfullscreen
-          loading="lazy"
-          referrerpolicy="no-referrer"
-          style="width: 100%; aspect-ratio: 16/9; border: none; display: block; background: #000;"
-        ></iframe>
-      </div>
-    </div>
-    <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #f8f9fa;">
-      {% if include.title %}
-        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
-          {{ include.title }}
-        </div>
-      {% endif %}
-      {% if include.site or include.author or include.date %}
-        {% if include.site %}
-          <div style="font-size: 0.98em; color: #666; margin-bottom: 2px;">
-            <span class="blog-embed-site" style="color: #007acc;">{{ include.site }}</span>
-          </div>
-        {% endif %}
-        {% if include.author or include.date %}
-          <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
-            {% if include.author %}by
-              {% assign matched_person = nil %}
-              {% for person in site.people %}
-                {% if person.name == include.author %}
-                  {% assign matched_person = person %}
-                  {% break %}
-                {% endif %}
-              {% endfor %}
-              {% if matched_person %}
-                <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
-              {% else %}
-                <span class="blog-embed-author">{{ include.author }}</span>
-              {% endif %}
-            {% endif %}
-            {% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
-          </div>
-        {% endif %}
-      {% endif %}
-    </div>
-  </a>
-</div>
-<!-- End: Inlined video-embed.html -->
-
-<!-- Begin: Inlined youtube_embed.html -->
-<!--
-  =========================
-  YouTube Video Embed Include
-  =========================
-  This Jekyll include renders a responsive YouTube video embed.
-  Usage: {% raw %}{% include youtube_embed.html video_id="VIDEO_ID" width="75%" start_time="SECONDS" %}{% endraw %}
-  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
-  For Liquid templating: https://shopify.github.io/liquid/
-  For iframe best practices: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
-  For YouTube embed parameters: https://developers.google.com/youtube/player_parameters
--->
-{% assign video_id = include.video_id | default: page.youtube_id %}
-{% assign width = include.width | default: "75%" %}
-{% assign start_time = include.start_time %}
-{% if video_id %}
-<style>
-.video-embed-content {
-    max-width: 75%;
-    padding-bottom: 42.1875%;
-    position: relative;
-    height: 0;
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    margin: 20px 0;
-}
-.video-embed-content iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
-}
-</style>
-<div class="video-embed-content">
-    <iframe 
-        src="https://www.youtube.com/embed/{{ video_id }}{% if start_time %}?start={{ start_time }}{% endif %}" 
-        frameborder="0" 
-        allowfullscreen
-        title="YouTube video embed">
-    </iframe>
-</div>
-{% endif %}
-<!-- End: Inlined youtube_embed.html -->
-
-<!-- Begin: Inlined devcon0-video-script.html -->
-<script>
-// Handles click-to-play for DEVCON0 video section.
-// See: https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
-document.addEventListener('DOMContentLoaded', function() {
-    // For single person page
-    const thumbnailWrapper = document.querySelector('.devcon0-thumbnail-wrapper');
-    const videoPlayer = document.querySelector('.devcon0-video-player');
-    if (thumbnailWrapper && videoPlayer) {
-        const iframe = videoPlayer.querySelector('iframe');
-        thumbnailWrapper.addEventListener('click', function() {
-            // Set the iframe src to start the video
-            iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}&autoplay=1';
-            // Hide thumbnail and show video
-            thumbnailWrapper.style.display = 'none';
-            videoPlayer.style.display = 'block';
-        });
-        // Hover effect for play button
-        const playButton = thumbnailWrapper.querySelector('.play-button-overlay');
-        if (playButton) {
-            thumbnailWrapper.addEventListener('mouseenter', function() {
-                playButton.style.background = 'rgba(0,0,0,0.9)';
-                playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
-            });
-            thumbnailWrapper.addEventListener('mouseleave', function() {
-                playButton.style.background = 'rgba(0,0,0,0.8)';
-                playButton.style.transform = 'translate(-50%, -50%) scale(1)';
-            });
-        }
-    }
-
-    // For people index grid (multiple videos)
-    const thumbnailWrappers = document.querySelectorAll('.devcon0-thumbnail-wrapper-people');
-    thumbnailWrappers.forEach(function(wrapper) {
-        const img = wrapper.querySelector('img');
-        const videoContainer = wrapper.parentElement;
-        const videoPlayer = videoContainer.querySelector('.devcon0-video-player-people');
-        const iframe = videoPlayer.querySelector('iframe');
-        const playButton = wrapper.querySelector('.play-button-overlay-people');
-        // Add hover effects for play button
-        if (playButton) {
-            wrapper.addEventListener('mouseenter', function() {
-                playButton.style.background = 'rgba(0,0,0,0.9)';
-                playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
-            });
-            wrapper.addEventListener('mouseleave', function() {
-                playButton.style.background = 'rgba(0,0,0,0.8)';
-                playButton.style.transform = 'translate(-50%, -50%) scale(1)';
-            });
-        }
-        // Handle click to play video
-        wrapper.addEventListener('click', function() {
-            const timestamp = img.getAttribute('data-devcon0-timestamp');
-            if (timestamp && iframe) {
-                // Set the iframe src to start the video with autoplay
-                iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start=' + timestamp + '&autoplay=1';
-                // Hide thumbnail and show video
-                wrapper.style.display = 'none';
-                videoPlayer.style.display = 'block';
+        <!--
+        Responsive CSS for footer: shows .footer-desktop on large screens and .footer-mobile on small screens.
+        Ensures the footer layout adapts for desktop and mobile devices.
+        -->
+        <style>
+            @media (max-width: 600px) {
+                .footer-desktop { display: none !important; }
+                .footer-mobile { display: flex !important; }
             }
-        });
-    });
-});
-</script>
-<!-- End: Inlined devcon0-video-script.html -->
+            @media (min-width: 601px) {
+                .footer-desktop { display: flex !important; }
+                .footer-mobile { display: none !important; }
+            }
+        </style>
+    
+    </footer>
 
-</body>
+    <!--
+    HIDEABLE SECTION SUPPORT
+    ------------------------
+    Any page (post, person, video, etc.) can define a hideable section by using a Liquid capture block in the Markdown file:
+
+        {% capture hideable_section %}
+        ...content to hide...
+        {% endcapture %}
+
+    The default layout will automatically output this section wrapped in:
+        <div class="hideable-section" style="display:none">...</div>
+
+    A global JavaScript snippet will show all .hideable-section elements if the URL contains ?hidden=false.
+    This allows for dynamic, client-side toggling of sensitive or optional content for review or admin purposes.
+
+    No raw HTML or includes are needed in the Markdown file—just the capture block.
+    -->
+    {% if hideable_section %}
+    <div class="hideable-section" style="display:none">
+    {{ hideable_section | markdownify }}
+    </div>
+    {% endif %}
+    <script>
+    // Show hideable sections if ?hidden=false is present in the URL
+    (function() {
+        var params = new URLSearchParams(window.location.search);
+        if (params.get('hidden') === 'false') {
+        document.querySelectorAll('.hideable-section').forEach(function(el) {
+            el.style.display = '';
+        });
+        }
+    })();
+    </script>
+
+        <!--
+        Handles click-to-play for DEVCON0 video section.
+        See: https://jekyllrb.com/docs/navigation/
+        https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+        -->
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // For single person page
+            const thumbnailWrapper = document.querySelector('.devcon0-thumbnail-wrapper');
+            const videoPlayer = document.querySelector('.devcon0-video-player');
+            if (thumbnailWrapper && videoPlayer) {
+                const iframe = videoPlayer.querySelector('iframe');
+                thumbnailWrapper.addEventListener('click', function() {
+                    // Set the iframe src to start the video
+                    iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}&autoplay=1';
+                    // Hide thumbnail and show video
+                    thumbnailWrapper.style.display = 'none';
+                    videoPlayer.style.display = 'block';
+                });
+                // Hover effect for play button
+                const playButton = thumbnailWrapper.querySelector('.play-button-overlay');
+                if (playButton) {
+                    thumbnailWrapper.addEventListener('mouseenter', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.9)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+                    });
+                    thumbnailWrapper.addEventListener('mouseleave', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.8)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+                    });
+                }
+            }
+
+            // For people index grid (multiple videos)
+            const thumbnailWrappers = document.querySelectorAll('.devcon0-thumbnail-wrapper-people');
+            thumbnailWrappers.forEach(function(wrapper) {
+                const img = wrapper.querySelector('img');
+                const videoContainer = wrapper.parentElement;
+                const videoPlayer = videoContainer.querySelector('.devcon0-video-player-people');
+                const iframe = videoPlayer.querySelector('iframe');
+                const playButton = wrapper.querySelector('.play-button-overlay-people');
+                // Add hover effects for play button
+                if (playButton) {
+                    wrapper.addEventListener('mouseenter', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.9)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+                    });
+                    wrapper.addEventListener('mouseleave', function() {
+                        playButton.style.background = 'rgba(0,0,0,0.8)';
+                        playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+                    });
+                }
+                // Handle click to play video
+                wrapper.addEventListener('click', function() {
+                    const timestamp = img.getAttribute('data-devcon0-timestamp');
+                    if (timestamp && iframe) {
+                        // Set the iframe src to start the video with autoplay
+                        iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start=' + timestamp + '&autoplay=1';
+                        // Hide thumbnail and show video
+                        wrapper.style.display = 'none';
+                        videoPlayer.style.display = 'block';
+                    }
+                });
+            });
+        });
+        </script>
+
+    </body>
+
 </html>

@@ -11,7 +11,6 @@ social:
   twitter: https://x.com/VitalikButerin
   website: https://vitalik.eth.limo/
   wikipedia: https://en.wikipedia.org/wiki/Vitalik_Buterin
-  medium: https://vitalik.eth.limo/
 ---
 
 ## References

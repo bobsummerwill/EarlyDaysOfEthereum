@@ -13,9 +13,7 @@
       CSS Stylesheets for custom embeds and site styling.
       See: https://jekyllrb.com/docs/assets/
     -->
-    <link rel="stylesheet" href="/assets/css/video-embed.css">
-    <link rel="stylesheet" href="/assets/css/medium-embed.css">
-    <link rel="stylesheet" href="/assets/css/blog-embed.css">
+    <link rel="stylesheet" href="/assets/css/common.css">
 
     <!--
       Character encoding and responsive viewport.
@@ -379,5 +377,277 @@
     }
   })();
 </script>
+<!-- Begin: Inlined blog-embed.html -->
+<!--
+  =========================
+  Blog Embed Include
+  =========================
+  This Jekyll include renders a styled card for embedding external blog posts or articles.
+  Usage: {% raw %}{% include blog-embed.html url="..." title="..." site="..." author="..." date="..." img="..." alt="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+-->
+<div class="blog-embed-card" style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 420px; overflow: hidden;">
+  <a href="{{ include.url }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
+    {% if include.img %}
+      <div style="width: 100%; background: #f8f9fa; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
+        <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" style="width: 92%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06);" loading="lazy" />
+      </div>
+    {% endif %}
+    <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #f8f9fa;">
+      {% if include.title %}
+        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
+          {{ include.title }}
+        </div>
+      {% endif %}
+      {% if include.site or include.author or include.date %}
+        <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
+          {% if include.site %}<span class="blog-embed-site" style="color: #007acc;">{{ include.site }}</span>{% endif %}
+          {% if include.author %} by
+            {% assign matched_person = nil %}
+            {% for person in site.people %}
+              {% if person.name == include.author %}
+                {% assign matched_person = person %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% if matched_person %}
+              <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
+            {% else %}
+              <span class="blog-embed-author">{{ include.author }}</span>
+            {% endif %}
+          {% endif %}
+          {% if include.date %} , <span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+        </div>
+      {% endif %}
+      {% unless include.img %}
+        <span class="blog-embed blog-embed-link" style="color: #007acc; word-break: break-all;">{{ include.url }}</span>
+      {% endunless %}
+    </div>
+  </a>
+</div>
+<!-- End: Inlined blog-embed.html -->
+
+<!-- Begin: Inlined medium-embed.html -->
+<!--
+  =========================
+  Medium Profile Embed Include
+  =========================
+  This Jekyll include renders a styled card for embedding a Medium profile.
+  Usage: {% raw %}{% include medium-embed.html url="..." img="..." name="..." desc="..." handle="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+-->
+<div class="medium-embed">
+  <a href="{{ include.url }}" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="{{ include.img }}" alt="{{ include.name }} Medium profile photo" class="medium-profile-photo" />
+    <div class="medium-profile-info">
+      <div class="name">{{ include.name }}</div>
+      <div class="desc">{{ include.desc }}</div>
+      <div class="url">{{ include.handle }}</div>
+    </div>
+  </a>
+</div>
+<!-- End: Inlined medium-embed.html -->
+
+<!-- Begin: Inlined twitter-embed.html -->
+<!--
+  =========================
+  Twitter/X Tweet Embed Include
+  =========================
+  This Jekyll include renders an embedded tweet using Twitter's official widget.
+  Usage: {% raw %}{% include twitter-embed.html url="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+  For Twitter embed docs: https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview
+-->
+{% assign twitter_url = include.url | replace: "x.com", "twitter.com" %}
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    <a href="{{ twitter_url }}">{{ twitter_url }}</a>
+  </p>
+</blockquote>
+{% unless page.twitter_widget_loaded %}
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  {% assign twitter_widget_loaded = true %}
+{% endunless %}
+<!-- End: Inlined twitter-embed.html -->
+
+<!-- Begin: Inlined video-embed.html -->
+<!--
+  =========================
+  Video Embed Include
+  =========================
+  This Jekyll include renders a styled card for embedding a video (e.g., YouTube, Vimeo).
+  Usage: {% raw %}{% include video-embed.html url="..." src="..." title="..." site="..." author="..." date="..." %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+  For iframe best practices: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+-->
+<div class="blog-embed-card" style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 420px; overflow: hidden;">
+  <a href="{{ include.url }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
+    <div style="width: 100%; background: #f8f9fa; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
+      <div style="width: 92%; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06); background: #f8f9fa; border: 1px solid #e9ecef; overflow: hidden;">
+        <iframe
+          class="video-embed-minimal"
+          src="{{ include.src }}"
+          title="{{ include.title | escape }}"
+          allowfullscreen
+          loading="lazy"
+          referrerpolicy="no-referrer"
+          style="width: 100%; aspect-ratio: 16/9; border: none; display: block; background: #000;"
+        ></iframe>
+      </div>
+    </div>
+    <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #f8f9fa;">
+      {% if include.title %}
+        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
+          {{ include.title }}
+        </div>
+      {% endif %}
+      {% if include.site or include.author or include.date %}
+        {% if include.site %}
+          <div style="font-size: 0.98em; color: #666; margin-bottom: 2px;">
+            <span class="blog-embed-site" style="color: #007acc;">{{ include.site }}</span>
+          </div>
+        {% endif %}
+        {% if include.author or include.date %}
+          <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
+            {% if include.author %}by
+              {% assign matched_person = nil %}
+              {% for person in site.people %}
+                {% if person.name == include.author %}
+                  {% assign matched_person = person %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+              {% if matched_person %}
+                <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
+              {% else %}
+                <span class="blog-embed-author">{{ include.author }}</span>
+              {% endif %}
+            {% endif %}
+            {% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+          </div>
+        {% endif %}
+      {% endif %}
+    </div>
+  </a>
+</div>
+<!-- End: Inlined video-embed.html -->
+
+<!-- Begin: Inlined youtube_embed.html -->
+<!--
+  =========================
+  YouTube Video Embed Include
+  =========================
+  This Jekyll include renders a responsive YouTube video embed.
+  Usage: {% raw %}{% include youtube_embed.html video_id="VIDEO_ID" width="75%" start_time="SECONDS" %}{% endraw %}
+  For more on Jekyll includes: https://jekyllrb.com/docs/includes/
+  For Liquid templating: https://shopify.github.io/liquid/
+  For iframe best practices: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+  For YouTube embed parameters: https://developers.google.com/youtube/player_parameters
+-->
+{% assign video_id = include.video_id | default: page.youtube_id %}
+{% assign width = include.width | default: "75%" %}
+{% assign start_time = include.start_time %}
+{% if video_id %}
+<style>
+.video-embed-content {
+    max-width: 75%;
+    padding-bottom: 42.1875%;
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    margin: 20px 0;
+}
+.video-embed-content iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+</style>
+<div class="video-embed-content">
+    <iframe 
+        src="https://www.youtube.com/embed/{{ video_id }}{% if start_time %}?start={{ start_time }}{% endif %}" 
+        frameborder="0" 
+        allowfullscreen
+        title="YouTube video embed">
+    </iframe>
+</div>
+{% endif %}
+<!-- End: Inlined youtube_embed.html -->
+
+<!-- Begin: Inlined devcon0-video-script.html -->
+<script>
+// Handles click-to-play for DEVCON0 video section.
+// See: https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+document.addEventListener('DOMContentLoaded', function() {
+    // For single person page
+    const thumbnailWrapper = document.querySelector('.devcon0-thumbnail-wrapper');
+    const videoPlayer = document.querySelector('.devcon0-video-player');
+    if (thumbnailWrapper && videoPlayer) {
+        const iframe = videoPlayer.querySelector('iframe');
+        thumbnailWrapper.addEventListener('click', function() {
+            // Set the iframe src to start the video
+            iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}&autoplay=1';
+            // Hide thumbnail and show video
+            thumbnailWrapper.style.display = 'none';
+            videoPlayer.style.display = 'block';
+        });
+        // Hover effect for play button
+        const playButton = thumbnailWrapper.querySelector('.play-button-overlay');
+        if (playButton) {
+            thumbnailWrapper.addEventListener('mouseenter', function() {
+                playButton.style.background = 'rgba(0,0,0,0.9)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+            });
+            thumbnailWrapper.addEventListener('mouseleave', function() {
+                playButton.style.background = 'rgba(0,0,0,0.8)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+            });
+        }
+    }
+
+    // For people index grid (multiple videos)
+    const thumbnailWrappers = document.querySelectorAll('.devcon0-thumbnail-wrapper-people');
+    thumbnailWrappers.forEach(function(wrapper) {
+        const img = wrapper.querySelector('img');
+        const videoContainer = wrapper.parentElement;
+        const videoPlayer = videoContainer.querySelector('.devcon0-video-player-people');
+        const iframe = videoPlayer.querySelector('iframe');
+        const playButton = wrapper.querySelector('.play-button-overlay-people');
+        // Add hover effects for play button
+        if (playButton) {
+            wrapper.addEventListener('mouseenter', function() {
+                playButton.style.background = 'rgba(0,0,0,0.9)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+            });
+            wrapper.addEventListener('mouseleave', function() {
+                playButton.style.background = 'rgba(0,0,0,0.8)';
+                playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+            });
+        }
+        // Handle click to play video
+        wrapper.addEventListener('click', function() {
+            const timestamp = img.getAttribute('data-devcon0-timestamp');
+            if (timestamp && iframe) {
+                // Set the iframe src to start the video with autoplay
+                iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start=' + timestamp + '&autoplay=1';
+                // Hide thumbnail and show video
+                wrapper.style.display = 'none';
+                videoPlayer.style.display = 'block';
+            }
+        });
+    });
+});
+</script>
+<!-- End: Inlined devcon0-video-script.html -->
+
 </body>
 </html>

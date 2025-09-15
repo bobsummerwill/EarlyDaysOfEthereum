@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<nav aria-label="Breadcrumb">
+    <div class="back-link">
+        <a href="{{ '/articles/' | relative_url }}">&larr; Back to Articles</a>
+    </div>
+</nav>
+
+<article itemscope itemtype="https://schema.org/Article">
+    <header>
+        <h1 itemprop="headline">{{ page.title }}</h1>
+        <div class="content-meta">
+            {% if page.date %}
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>
+                <meta itemprop="dateModified" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
+            {% endif %}
+            {% if page.author %}
+                <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                    by <span itemprop="name">{{ page.author }}</span>
+                </span>
+            {% endif %}
+        </div>
+        {% if page.description %}
+        <div class="post-description" itemprop="description">
+            {{ page.description }}
+        </div>
+        <meta itemprop="description" content="{{ page.description }}">
+        {% endif %}
+        {% if page.image %}
+        <meta itemprop="image" content="{{ page.image | absolute_url }}">
+        {% endif %}
+    </header>
+    
+    <div class="post-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+    
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+            <span class="tag" itemprop="keywords">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>

@@ -128,7 +128,9 @@ I have started copying them across into this repository and will add captions to
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.19.jpeg' | relative_url }})
 
 ----
-*Back to Meierskappel and the group has expanded once again. [Richard]({{ '/people/richard-stott/' | relative_url }}) and Ian arrive to join the creative efforts while [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) jumps in to do interviews. We all share a table to work and a floor to sleep #Ethereum* - 20th February 2014
+*Back to Meierskappel and the group has expanded once again. [Richard]({{ '/people/richard-stott/' | relative_url }}) and [Ian]({{ '/people/ian-meikle/' | relative_url }}) arrive to join the creative efforts while [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) jumps in to do interviews. We all share a table to work and a floor to sleep #Ethereum* - 20th February 2014
+
+![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }})
 
 ---
 *We had met just 2 weeks prior, but were already raising a glass to one another's birthdays* - 21st February 2014

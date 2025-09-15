@@ -211,6 +211,7 @@ img {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    border-left: 4px solid #007acc;
 }
 .person-card .person-header {
     display: flex;
@@ -517,6 +518,7 @@ img {
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 8px;
+    border-left: 4px solid #007acc;
     display: flex;
     gap: 25px;
 }
@@ -578,7 +580,7 @@ img {
     color: #007acc;
 }
 .release-date {
-    margin-left: 15px;
+    font-style: italic;
 }
 .video-guests {
     color: #555;
@@ -772,6 +774,7 @@ img {
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 8px;
+    border-left: 4px solid #007acc;
 }
 .article-preview h2 {
     margin-top: 0;

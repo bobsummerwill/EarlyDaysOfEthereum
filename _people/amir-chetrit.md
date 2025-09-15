@@ -6,6 +6,10 @@ start: Dec 2013
 end: Jun 2014
 ---
 
+![Bob and Amir](/images/personal/bob-summerwill/twitter.com/2025.09.14/1967440888310989059/bob-and-amir.jpg)
+
+*(Bob Summerwill and Amir at BTC Miami, January 2018)*
+
 ## Links
 
 - [AngelList](https://angel.co/amir-chetrit)

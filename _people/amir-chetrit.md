@@ -10,14 +10,10 @@ end: Jun 2014
 
 *(Bob Summerwill and Amir at BTC Miami, January 2018)*
 
-## Links
-
-- [AngelList](https://angel.co/amir-chetrit)
-
 ## References
 
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - Ethereum Foundation Timeline
-- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
-- [Taylor Gerring Photos (batch #1)]({{ '/articles/taylor-gerring-photos2/' | relative_url }})
+- Taylor Gerring Photos (batch #1)
+- Taylor Gerring Photos (batch #2)

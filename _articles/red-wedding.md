@@ -1,5 +1,5 @@
 ---
-title: "Red Wedding"
+title: '"Red Wedding"'
 date: 2014-06-03
 description: 'The "Red Wedding" was the meeting at Zug in June 2014 where Charles Hoskinson and Amir Chetrit were ejected from the project'
 ---

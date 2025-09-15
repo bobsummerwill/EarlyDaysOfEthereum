@@ -114,7 +114,12 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
+{% capture hideable_section %}
 <img src="{{ '/images/duncan.co/duncan.co_cropped_ian_meikle.png' | relative_url }}" style="width: 25%; height: auto;">
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 **Bob:**  Richard Wild?
 
@@ -150,7 +155,12 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
+{% capture hideable_section %}
 <img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 

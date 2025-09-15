@@ -1,6 +1,7 @@
 ---
 name: Konrad Feldmeier
 description: Python client developer
+photo: /images/youtube.com/BvvUlKDqp0/headshots/konrad-feldmeier.png
 start: Mar 2014
 end: present (but never in the EF)  Nov 2015 to Mar 2017
 devcon0: '1721'

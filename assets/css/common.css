@@ -144,7 +144,7 @@ img {
     max-width: 1200px;
 }
 .person-card {
-    background: #f9f9f9;
+    background: #e0e0e0;
     padding: 20px;
     border-radius: 8px;
     border-left: 4px solid #007acc;
@@ -159,23 +159,33 @@ img {
     gap: 15px;
 }
 .person-photo {
-    width: 100%;
-    padding: 16px;
-    box-sizing: border-box;
-    margin: 0 auto;
-    display: block;
-    background: none;
-    border: none;
+    position: relative !important;
+    width: 100% !important;
+    aspect-ratio: 1/1 !important;
+    overflow: hidden !important;
+    border-radius: 8px !important;
+    background: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block !important;
 }
 .person-photo img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    border-radius: 8px;
-    filter: grayscale(100%);
-    transition: filter 0.3s ease;
-    display: block;
-    margin: 0 auto;
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    width: 122% !important;
+    height: 122% !important;
+    object-fit: cover !important;
+    object-position: center center !important;
+    border-radius: 8px !important;
+    filter: grayscale(100%) !important;
+    transition: filter 0.3s ease !important;
+    display: block !important;
+    margin: 0 !important;
+    max-width: none !important;
+    max-height: none !important;
+    transform: translate(-50%, -50%);
 }
 .person-photo img:hover {
     filter: grayscale(0%);

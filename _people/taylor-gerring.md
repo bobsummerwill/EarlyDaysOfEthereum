@@ -1,7 +1,7 @@
 ---
 name: Taylor Gerring
 description: Team member from Dec 2013.  Ethereum Foundation co-Founder.
-photo: /images/archive.org/ethereum.org/20140701165441/gerring-taylor.jpg
+photo: /images/archive.org/ethdev.com/20150315012946/taylor-gerring.jpg
 start: Dec 2013
 end: Dec 2016
 interview: /videos/episode004-taylor-gerring/

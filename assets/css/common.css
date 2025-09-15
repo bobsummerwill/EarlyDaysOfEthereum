@@ -17,7 +17,7 @@ body {
     background-color: #fff;
 }
 header {
-    border-bottom: 2px solid #007acc;
+    border-bottom: 1px solid #eee;
     margin-bottom: 30px;
     padding-bottom: 20px;
 }
@@ -152,7 +152,6 @@ img {
     line-height: 1.5;
     color: #555;
     font-style: italic;
-    border-bottom: 1px solid #eee;
     margin-bottom: 20px;
 }
 

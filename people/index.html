@@ -286,34 +286,14 @@ Display people grouped by start date with epoch headings
                     
                     {% if person.description %}
                     <p class="person-description">
-                        {% assign desc = person.description %}
-                        {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
-                        {% for video in site.videos %}
-                            {% assign title_to_replace = video.title %}
-                            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                        {% endfor %}
-                        {% for article in site.articles %}
-                            {% assign title_to_replace = article.title %}
-                            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                        {% endfor %}
-                        {% for other_person in site.people %}
-                            {% if other_person.name != person.name %}
-                                {% assign name_to_replace = other_person.name %}
-                                {% assign display_name = other_person.name %}
-                                {% if other_person.nickname and other_person.nickname != '' %}
-                                    {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                                {% endif %}
-                                {% if other_person.hidden %}
-                                    {% assign link_replacement = '[REDACTED]' %}
-                                {% else %}
-                                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                                {% endif %}
-                                {% assign desc = desc | replace: name_to_replace, link_replacement %}
+                        {% include auto_link.html content=person.description %}
+                        {% if person.start and person.start != "" %}
+                            {% if person.end and person.end != "" %}
+                                <br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>
+                            {% else %}
+                                <br><span class="person-dates">({{ person.start }} to ???)</span>
                             {% endif %}
-                        {% endfor %}
-                        {{ desc }}{% if person.start and person.start != "" %}{% if person.end and person.end != "" %}<br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>{% else %}<br><span class="person-dates">({{ person.start }} to ???)</span>{% endif %}{% endif %}
+                        {% endif %}
                     </p>
                     {% endif %}
                     
@@ -473,41 +453,7 @@ Display people without start dates in "Other" section
                     
                     {% if person.description %}
                     <p class="person-description">
-                        {% assign desc = person.description %}
-                        {% comment %}Auto-link in order: Videos, Articles, People (match all occurrences){% endcomment %}
-                        {% for video in site.videos %}
-                            {% assign title_to_replace = video.title %}
-                            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                        {% endfor %}
-                        {% for article in site.articles %}
-                            {% assign title_to_replace = article.title %}
-                            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                        {% endfor %}
-                        {% for other_person in site.people %}
-                            {% if other_person.name != person.name %}
-                                {% assign name_to_replace = other_person.name %}
-                                {% assign display_name = other_person.name %}
-                                {% if other_person.nickname and other_person.nickname != '' %}
-                                    {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                                {% endif %}
-                                {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                                {% assign desc = desc | replace: name_to_replace, link_replacement %}
-                            {% endif %}
-                        {% endfor %}
-                        {% for other_person in site.people %}
-                            {% if other_person.name != person.name %}
-                                {% assign name_to_replace = other_person.name %}
-                                {% assign display_name = other_person.name %}
-                                {% if other_person.nickname and other_person.nickname != '' %}
-                                    {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                                {% endif %}
-                                {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                                {% assign desc = desc | replace: name_to_replace, link_replacement %}
-                            {% endif %}
-                        {% endfor %}
-                        {{ desc }}
+                        {% include auto_link.html content=person.description %}
                     </p>
                     {% endif %}
                 </div>

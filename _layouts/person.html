@@ -9,7 +9,6 @@ layout: default
   - Liquid Templating: https://shopify.github.io/liquid/
 -->
 
-
 <!--
   Back link navigation to the People index.
   See: https://jekyllrb.com/docs/variables/#page-variables
@@ -21,212 +20,169 @@ layout: default
 {% if page.hidden %}
   <meta http-equiv="refresh" content="0; url=/404.html" />
 {% else %}
-<article class="person-profile">
-    <header>
-        <!--
-          Person's name and optional nickname.
-          See: https://jekyllrb.com/docs/front-matter/
-        -->
-        <h1>{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</h1>
-        {% if page.photo %}
-        <!--
-          Person's photo, if provided in front matter.
-        -->
-        <div class="person-photo-header">
-            <img src="{{ page.photo | relative_url }}" alt="{{ page.name }}" />
-        </div>
-        {% endif %}
-        {% if page.description %}
-        <!--
-          Person's description with auto-linking for videos, articles, and people.
-          See: https://jekyllrb.com/docs/variables/#site-variables
-        -->
-        <div class="person-description">
-            {% include auto_link.html content=page.description %}
-            {% if page.start and page.start != "" %}
-                {% if page.end and page.end != "" %}
-                    <br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>
-                {% else %}
-                    <br><span class="person-dates">({{ page.start }} to ???)</span>
-                {% endif %}
-            {% endif %}
-        </div>
-        {% endif %}
-        
-        {% if page.social %}
-        <!--
-          Social media links (website, GitHub, Twitter/X, LinkedIn, Reddit, YouTube, Wikipedia, Medium).
-          SVG icons are used for each platform.
-        -->
-        <div class="person-social-links">
-            {% if page.social.website %}
-            <a href="{{ page.social.website }}" target="_blank" rel="noopener" title="Website">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.94-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.github %}
-            <a href="{{ page.social.github }}" target="_blank" rel="noopener" title="GitHub">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.twitter %}
-            <a href="{{ page.social.twitter }}" target="_blank" rel="noopener" title="Twitter/X">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.linkedin %}
-            <a href="{{ page.social.linkedin }}" target="_blank" rel="noopener" title="LinkedIn">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.reddit %}
-            <a href="{{ page.social.reddit }}" target="_blank" rel="noopener" title="Reddit">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.youtube %}
-            <a href="{{ page.social.youtube }}" target="_blank" rel="noopener" title="YouTube">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
-                </svg>
-            </a>
-            {% endif %}
-            {% if page.social.wikipedia %}
-            <a href="{{ page.social.wikipedia }}" target="_blank" rel="noopener" title="Wikipedia">
-                <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="filter: brightness(0) saturate(100%); opacity: 0.6;"/>
-            </a>
-            {% endif %}
-            {% if page.social.medium %}
-            <a href="{{ page.social.medium }}" target="_blank" rel="noopener" title="Medium">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/>
-                </svg>
-            </a>
-            {% endif %}
-        </div>
-        {% endif %}
-        {% if page.interview %}
-        <!--
-          Interview link section, with SVG play button.
-          If the interview matches a video in site.videos, use its title.
-        -->
-        <div class="person-interview-link">
-            {% assign interview_page = site.videos | where: "url", page.interview | first %}
-            {% if interview_page %}
-                <a href="{{ page.interview | relative_url }}" class="interview-link" style="display: inline-flex; align-items: center; gap: 8px; vertical-align: middle; padding: 12px 20px; font-size: 1.08em;">
-                  <svg viewBox="0 0 20 20" width="18" height="18" style="display: inline-block; vertical-align: middle;">
-                    <circle cx="10" cy="10" r="10" fill="#005580"/>
-                    <polygon points="7,5 15,10 7,15" fill="#fff"/>
-                  </svg>
-                  {{ interview_page.title }}
-                </a>
+<div class="person-card" style="width: 33.33%; min-width: 300px; max-width: 400px;">
+  <div class="person-header">
+    {% if page.photo %}
+      <div class="person-photo">
+        <img src="{{ page.photo | relative_url }}" alt="{{ page.name }}" />
+      </div>
+    {% endif %}
+    <div class="person-info">
+      <h3><a href="{{ page.url | relative_url }}">{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</a></h3>
+      {% if page.role %}
+        <div class="person-role">{{ page.role }}</div>
+      {% endif %}
+      {% if page.period %}
+        <div class="person-period">Active: {{ page.period }}</div>
+      {% endif %}
+      {% if page.description %}
+        <p class="person-description">
+          {% include auto_link.html content=page.description %}
+          {% if page.start and page.start != "" %}
+            {% if page.end and page.end != "" %}
+              <br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>
             {% else %}
-                <a href="{{ page.interview | relative_url }}" class="interview-link">
-                  <svg viewBox="0 0 20 20" width="18" height="18" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; fill: white; display: inline-block;">
-                    <polygon points="5,3 17,10 5,17" />
-                  </svg>
-                  Interview
-                </a>
+              <br><span class="person-dates">({{ page.start }} to ???)</span>
             {% endif %}
+          {% endif %}
+        </p>
+      {% endif %}
+      {% if page.social %}
+        <div class="person-social-links-index">
+          {% if page.social.website %}
+          <a href="{{ page.social.website }}" target="_blank" rel="noopener" title="Website">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.94-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.github %}
+          <a href="{{ page.social.github }}" target="_blank" rel="noopener" title="GitHub">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.twitter %}
+          <a href="{{ page.social.twitter }}" target="_blank" rel="noopener" title="Twitter/X">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.linkedin %}
+          <a href="{{ page.social.linkedin }}" target="_blank" rel="noopener" title="LinkedIn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.reddit %}
+          <a href="{{ page.social.reddit }}" target="_blank" rel="noopener" title="Reddit">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.youtube %}
+          <a href="{{ page.social.youtube }}" target="_blank" rel="noopener" title="YouTube">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+            </svg>
+          </a>
+          {% endif %}
+          {% if page.social.wikipedia %}
+          <a href="{{ page.social.wikipedia }}" target="_blank" rel="noopener" title="Wikipedia">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="width: 16px; height: 16px; filter: brightness(0) saturate(100%); opacity: 0.6;">
+          </a>
+          {% endif %}
+          {% if page.social.medium %}
+          <a href="{{ page.social.medium }}" target="_blank" rel="noopener" title="Medium">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/>
+            </svg>
+          </a>
+          {% endif %}
         </div>
-        {% endif %}
-        <div class="content-meta">
-            <!--
-              Person's role and period of activity.
-            -->
-            {% if page.role %}
-                <div class="person-role">{{ page.role }}</div>
-            {% endif %}
-            {% if page.period %}
-                <div class="person-period">Active: {{ page.period }}</div>
-            {% endif %}
+      {% endif %}
+      {% if page.interview %}
+        <div class="person-interview-link">
+          <a href="{{ page.interview | relative_url }}" class="interview-link">
+            <svg viewBox="0 0 20 20" width="16" height="16" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; display: inline-block;">
+              <circle cx="10" cy="10" r="10" fill="#005580"/>
+              <polygon points="7,5 15,10 7,15" fill="#fff"/>
+            </svg>
+            Interview
+          </a>
         </div>
-    </header>
-    
-    {% if page.devcon0 %}
-    <!--
-      DEVCON0 self-introduction video section.
-      Shows a thumbnail if available, otherwise embeds the YouTube video.
-      For more on YouTube embed: https://developers.google.com/youtube/player_parameters
-    -->
-    <div class="devcon0-section">
-        <h3>DEVCON0 self-introduction</h3>
-        {% assign name_parts = page.name | split: ' ' %}
-        {% assign firstname = name_parts[0] | downcase %}
-        {% assign lastname = name_parts[-1] | downcase %}
-        {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
-        {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
-        
-        <div class="devcon0-video-container" style="max-width: 75%; margin: 20px 0;">
-            <div class="devcon0-thumbnail-wrapper" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-                <img src="{{ thumbnail_path | relative_url }}" 
-                     alt="{{ page.name }} DEVCON0 introduction" 
-                     style="width: 100%; height: auto; display: block;"
-                     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                
-                <!-- Fallback to embedded video if thumbnail doesn't exist -->
-                <div class="devcon0-fallback" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
-                    <iframe 
-                        src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}" 
-                        frameborder="0" 
-                        allowfullscreen
-                        title="DEVCON0 self-introduction"
-                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                    </iframe>
-                </div>
-                
-                <!-- Play button overlay -->
-                <div class="play-button-overlay" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
-                    <div style="width: 0; height: 0; border-left: 25px solid white; border-top: 15px solid transparent; border-bottom: 15px solid transparent; margin-left: 5px;"></div>
-                </div>
-            </div>
-            
-            <!-- Hidden video container for click-to-play -->
-            <div class="devcon0-video-player" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% if page.devcon0 %}
+<div class="devcon0-section" style="width: 75%;">
+    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555; text-align: left;">DEVCON0 self-introduction</h4>
+    {% assign name_parts = page.name | split: ' ' %}
+    {% assign firstname = name_parts[0] | downcase %}
+    {% assign lastname = name_parts[-1] | downcase %}
+    {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+    {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
+    <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
+        <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <img src="{{ thumbnail_path | relative_url }}" 
+                 alt="{{ page.name }} DEVCON0 introduction" 
+                 style="width: 100%; height: auto; display: block;"
+                 onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                 data-person-name="{{ page.name }}"
+                 data-devcon0-timestamp="{{ page.devcon0 }}">
+            <div class="devcon0-fallback-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
                 <iframe 
-                    src="" 
+                    src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}" 
                     frameborder="0" 
                     allowfullscreen
                     title="DEVCON0 self-introduction"
                     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
                 </iframe>
             </div>
-        </div>
-        
+            <div class="play-button-overlay-people" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
+                <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 4px;"></div>
             </div>
-    {% endif %}
-    
-    <!--
-      Main content for the person page, with auto-linking for videos, articles, and people.
-    -->
-    <div class="person-content">
-        {% include auto_link.html content=content %}
+        </div>
+        <div class="devcon0-video-player-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <iframe 
+                src="" 
+                frameborder="0" 
+                allowfullscreen
+                title="DEVCON0 self-introduction"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+            </iframe>
+        </div>
     </div>
-    
-    {% if page.links %}
-    <!--
-      Additional links section for the person.
-    -->
-    <div class="person-links">
-        <h3>Links</h3>
-        <ul>
-            {% for link in page.links %}
-            <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
-            {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
-    
-</article>
+</div>
+{% endif %}
+
+<hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
+
+<!--
+  Main content for the person page, with auto-linking for videos, articles, and people.
+-->
+<div class="person-content">
+    {% include auto_link.html content=content %}
+</div>
+
+{% if page.links %}
+<!--
+  Additional links section for the person.
+-->
+<div class="person-links">
+    <h3>Links</h3>
+    <ul>
+        {% for link in page.links %}
+        <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
 
 {% endif %}

@@ -34,7 +34,7 @@ layout: default
     </header>
     
     <div class="post-content" itemprop="articleBody">
-        {{ content }}
+        {% include auto_link.html content=content %}
     </div>
     
     {% if page.tags and page.tags.size > 0 %}

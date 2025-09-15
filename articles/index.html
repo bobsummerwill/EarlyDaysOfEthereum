@@ -76,55 +76,12 @@ title: Articles
         
         {% if article.description %}
         <p class="article-description">
-            {% assign desc = article.description %}
-            <!--
-              Auto-linking for videos, articles, and people.
-              - Liquid Filters: https://shopify.github.io/liquid/filters/
-            -->
-            {% for video in site.videos %}
-                {% assign title_to_replace = video.title %}
-                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                {% assign desc = desc | replace: title_to_replace, link_replacement %}
-            {% endfor %}
-            {% for other_article in site.articles %}
-                {% if other_article.title != article.title %}
-                    {% assign title_to_replace = other_article.title %}
-                    {% assign link_replacement = '<a href="' | append: other_article.url | append: '">' | append: other_article.title | append: '</a>' %}
-                    {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                {% endif %}
-            {% endfor %}
-            {% for person in site.people %}
-                {% assign name_to_replace = person.name %}
-                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
-                {% assign desc = desc | replace: name_to_replace, link_replacement %}
-            {% endfor %}
-            {{ desc }}
+            {% include auto_link.html content=article.description %}
         </p>
         {% else %}
         <p class="article-excerpt">
             {% assign excerpt = article.content | strip_html | truncatewords: 50 %}
-            <!--
-              Auto-linking for videos, articles, and people.
-              - Liquid Filters: https://shopify.github.io/liquid/filters/
-            -->
-            {% for video in site.videos %}
-                {% assign title_to_replace = video.title %}
-                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                {% assign excerpt = excerpt | replace: title_to_replace, link_replacement %}
-            {% endfor %}
-            {% for other_article in site.articles %}
-                {% if other_article.title != article.title %}
-                    {% assign title_to_replace = other_article.title %}
-                    {% assign link_replacement = '<a href="' | append: other_article.url | append: '">' | append: other_article.title | append: '</a>' %}
-                    {% assign excerpt = excerpt | replace: title_to_replace, link_replacement %}
-                {% endif %}
-            {% endfor %}
-            {% for person in site.people %}
-                {% assign name_to_replace = person.name %}
-                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
-                {% assign excerpt = excerpt | replace: name_to_replace, link_replacement %}
-            {% endfor %}
-            {{ excerpt }}
+            {% include auto_link.html content=excerpt %}
         </p>
         {% endif %}
     </article>

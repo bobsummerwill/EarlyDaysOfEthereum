@@ -42,34 +42,14 @@ layout: default
           See: https://jekyllrb.com/docs/variables/#site-variables
         -->
         <div class="person-description">
-            {% assign desc = page.description %}
-            <!--
-              Auto-linking logic: replaces occurrences of video, article, and person titles/names with links.
-              For more on Liquid filters: https://shopify.github.io/liquid/filters/
-            -->
-            {% for video in site.videos %}
-                {% assign title_to_replace = video.title %}
-                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                {% assign desc = desc | replace: title_to_replace, link_replacement %}
-            {% endfor %}
-            {% for article in site.articles %}
-                {% assign title_to_replace = article.title %}
-                {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                {% assign desc = desc | replace: title_to_replace, link_replacement %}
-            {% endfor %}
-            {% for other_person in site.people %}
-                {% if other_person.name != page.name %}
-                    {% assign name_to_replace = other_person.name %}
-                    {% assign display_name = other_person.name %}
-                    {% if other_person.hidden %}
-                        {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
-                    {% else %}
-                        {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
-                    {% endif %}
-                    {% assign desc = desc | replace: name_to_replace, link_replacement %}
+            {% include auto_link.html content=page.description %}
+            {% if page.start and page.start != "" %}
+                {% if page.end and page.end != "" %}
+                    <br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>
+                {% else %}
+                    <br><span class="person-dates">({{ page.start }} to ???)</span>
                 {% endif %}
-            {% endfor %}
-            {{ desc }}{% if page.start and page.start != "" %}{% if page.end and page.end != "" %}<br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>{% else %}<br><span class="person-dates">({{ page.start }} to ???)</span>{% endif %}{% endif %}
+            {% endif %}
         </div>
         {% endif %}
         
@@ -230,30 +210,7 @@ layout: default
       Main content for the person page, with auto-linking for videos, articles, and people.
     -->
     <div class="person-content">
-        {% assign body_content = content %}
-        {% for video in site.videos %}
-            {% assign title_to_replace = video.title %}
-            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
-        {% endfor %}
-        {% for article in site.articles %}
-            {% assign title_to_replace = article.title %}
-            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
-        {% endfor %}
-        {% for other_person in site.people %}
-            {% if other_person.name != page.name %}
-                {% assign name_to_replace = other_person.name %}
-                {% assign display_name = other_person.name %}
-                {% if other_person.hidden %}
-                    {% assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' %}
-                {% else %}
-                    {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' %}
-                {% endif %}
-                {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
-            {% endif %}
-        {% endfor %}
-        {{ body_content }}
+        {% include auto_link.html content=content %}
     </div>
     
     {% if page.links %}

@@ -99,30 +99,7 @@ layout: default
       - Jekyll Content Variable: https://jekyllrb.com/docs/variables/#content
     -->
     <div class="video-content">
-        {% assign body_content = content %}
-        {% for video in site.videos %}
-            {% if video.title != page.title %}
-                {% assign title_to_replace = video.title %}
-                {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
-            {% endif %}
-        {% endfor %}
-        {% for article in site.articles %}
-            {% assign title_to_replace = article.title %}
-            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-            {% assign body_content = body_content | replace: title_to_replace, link_replacement %}
-        {% endfor %}
-        {% for person in site.people %}
-            {% assign name_to_replace = person.name %}
-            {% assign display_name = person.name %}
-            {% if person.hidden %}
-                {% assign link_replacement = '[REDACTED]' %}
-            {% else %}
-                {% assign link_replacement = '<a href="' | append: person.url | append: '">' | append: person.name | append: '</a>' %}
-            {% endif %}
-            {% assign body_content = body_content | replace: name_to_replace, link_replacement %}
-        {% endfor %}
-        {{ body_content }}
+        {% include auto_link.html content=content %}
     </div>
     
     {% if page.links %}

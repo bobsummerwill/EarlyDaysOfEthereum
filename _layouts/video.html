@@ -29,7 +29,7 @@ layout: default
         <h1>{{ page.title }}</h1>
         <div class="content-meta">
             {% if page.date %}
-                <div class="release-date">Released: {{ page.date | date: "%B %d, %Y" }}</div>
+                <div class="release-date" style="margin-bottom: 15px;"><em>{{ page.date | date: "%B %d, %Y" }}</em></div>
             {% endif %}
             {% if page.hosts and page.hosts.size > 0 or page.guests and page.guests.size > 0 %}
             <div style="margin-bottom: 15px;">

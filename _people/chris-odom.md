@@ -19,3 +19,8 @@ Co-Founder of Monetas with Johann Gevers.
   author="Triple Zero Media"
   date="January 30, 2014"
 %}
+
+
+## References
+
+[Speaker at Bitcoin Expo](https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/) in Toronto, April 2014

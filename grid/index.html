@@ -1,100 +1,25 @@
 ---
 layout: default
-title: "Ethereum People Photo Cloud"
-description: "A visual collection of all the people who contributed to the early days of Ethereum"
+title: "Ethereum People Grid"
+description: "A visual grid of all the people who contributed to the early days of Ethereum"
 ---
 
-<style>
-.photo-cloud {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 15px;
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-}
 
-.photo-item {
-    position: relative;
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    background: #f5f5f5;
-}
-
-.photo-item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
-}
-
-.photo-item img {
-    width: 100%;
-    height: 120px;
-    object-fit: cover;
-    display: block;
-    filter: grayscale(100%);
-}
-
-.photo-item .name-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(transparent, rgba(0,0,0,0.8));
-    color: white;
-    padding: 8px 6px 4px;
-    font-size: 11px;
-    font-weight: 500;
-    text-align: center;
-    line-height: 1.2;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
-.photo-item:hover .name-overlay {
-    opacity: 1;
-}
-
-.photo-cloud-header {
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-.photo-cloud-header h1 {
-    color: #2e86ab;
-    margin-bottom: 10px;
-}
-
-.photo-cloud-header p {
-    color: #666;
-    font-size: 16px;
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-.stats {
-    text-align: center;
-    margin-bottom: 20px;
-    color: #888;
-    font-size: 14px;
-}
-</style>
-
-<div class="photo-cloud-header">
-    <p>A visual collection of the people who contributed to the early days of Ethereum, from co-founders to developers, advisors, and community builders.</p>
+<div class="people-grid-header">
+    <p>A visual grid of the people who contributed to the early days of Ethereum, from co-founders to developers, advisors, and community builders.</p>
 </div>
 
 {% comment %}
 Use the same sorting logic as /people page: group by start date, sort chronologically, then alphabetically within each date
+Include ALL non-hidden people, whether they have photos or not
 {% endcomment %}
-{% assign people_with_photos = "" | split: "" %}
+{% assign people_with_dates = "" | split: "" %}
 {% assign people_without_dates = "" | split: "" %}
 
 {% for person in site.people %}
-    {% if person.hidden != true and person.hidden != 'true' and person.photo %}
+    {% if person.hidden != true and person.hidden != 'true' %}
         {% if person.start and person.start != '' and person.start != '???' %}
-            {% assign people_with_photos = people_with_photos | push: person %}
+            {% assign people_with_dates = people_with_dates | push: person %}
         {% else %}
             {% assign people_without_dates = people_without_dates | push: person %}
         {% endif %}
@@ -107,7 +32,7 @@ Create a hash of start dates to group people and sort chronologically
 {% assign date_groups = "" | split: "" %}
 {% assign processed_dates = "" | split: "" %}
 
-{% for person in people_with_photos %}
+{% for person in people_with_dates %}
     {% unless processed_dates contains person.start %}
         {% assign processed_dates = processed_dates | push: person.start %}
         {% assign date_groups = date_groups | push: person.start %}
@@ -224,11 +149,11 @@ Add other dates (alphabetically sorted as fallback)
 {% endfor %}
 
 {% comment %}
-Build final sorted list of people with photos
+Build final sorted list of all people (with and without photos)
 {% endcomment %}
 {% assign final_people_list = "" | split: "" %}
 {% for start_date in sorted_dates %}
-    {% assign people_in_date = people_with_photos | where: "start", start_date | sort: "name" %}
+    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
     {% for person in people_in_date %}
         {% assign final_people_list = final_people_list | push: person %}
     {% endfor %}
@@ -237,25 +162,31 @@ Build final sorted list of people with photos
 {% comment %}
 Add people without dates at the end, sorted alphabetically
 {% endcomment %}
-{% assign sorted_other_people = people_without_dates | sort: "name" %}
-{% for person in sorted_other_people %}
-    {% assign final_people_list = final_people_list | push: person %}
-{% endfor %}
+{% if people_without_dates.size > 0 %}
+    {% assign sorted_other_people = people_without_dates | sort: "name" %}
+    {% for person in sorted_other_people %}
+        {% assign final_people_list = final_people_list | push: person %}
+    {% endfor %}
+{% endif %}
 
 <div class="stats">
-    {{ final_people_list.size }} people • Hover over photos to see names
+    {{ final_people_list.size }} people • Hover to see names
 </div>
 
-<div class="photo-cloud">
+<div class="people-grid">
     {% for person in final_people_list %}
-        <a href="{{ person.url | relative_url }}" class="photo-item">
-            <img src="{{ person.photo }}" alt="{{ person.title }}" loading="lazy">
+        <a href="{{ person.url | relative_url }}" class="grid-item">
+            {% if person.photo %}
+                <img src="{{ person.photo }}" alt="{{ person.title }}" loading="lazy">
+            {% else %}
+                <div style="width: 100%; height: 120px; display: flex; align-items: center; justify-content: center; background: #e0e0e0; color: #888; font-size: 48px; font-weight: bold;">?</div>
+            {% endif %}
             <div class="name-overlay">{{ person.title }}</div>
         </a>
     {% endfor %}
 </div>
 
 <div style="text-align: center; margin-top: 40px; padding: 20px; background: #f8f9fa; border-radius: 8px;">
-    <p><strong>About this collection:</strong> These photos represent the diverse group of individuals who contributed to Ethereum's early development, from 2013 through 2016. Each person played a unique role in bringing the vision of a decentralized world computer to life.</p>
+    <p><strong>About this collection:</strong> These photos represent the diverse group of individuals who contributed to Ethereum's early development, from 2013 through 2018. Each person played a unique role in bringing the vision of a decentralized world computer to life.</p>
     <p><a href="{{ '/people/' | relative_url }}" style="color: #2e86ab;">← Back to People Index</a></p>
 </div>

@@ -1611,3 +1611,82 @@ img {
     background: var(--bg-light);
     border-radius: var(--radius-lg);
 }
+
+/**
+ * People Grid Components - Visual grid display of people photos
+ * 
+ * Responsive grid layout for displaying all people photos in a visual grid format.
+ * Includes placeholder styling for people without photos and consistent hover effects.
+ * Uses CSS Grid for responsive layout that adapts to screen size.
+ * 
+ * Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+ */
+.people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: var(--spacing-2xl);
+    padding: var(--spacing-3xl);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grid-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-light);
+    transition: var(--transition-fast);
+    background: var(--bg-lighter);
+}
+
+.grid-item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-medium);
+}
+
+.grid-item img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    display: block;
+    filter: grayscale(100%);
+}
+
+.grid-item .name-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.8));
+    color: var(--bg-white);
+    padding: var(--spacing-md) var(--spacing-sm) var(--spacing-sm);
+    font-size: 11px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.2;
+    opacity: 0;
+    transition: var(--transition-opacity);
+}
+
+.grid-item:hover .name-overlay {
+    opacity: 1;
+}
+
+.people-grid-header {
+    text-align: center;
+    margin-bottom: var(--spacing-5xl);
+}
+
+.people-grid-header p {
+    color: var(--text-light);
+    font-size: 1em;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.stats {
+    text-align: center;
+    margin-bottom: var(--spacing-3xl);
+    color: var(--text-lighter);
+    font-size: 0.9em;
+}

@@ -30,7 +30,7 @@ Chris spoke at the North American Bitcoin conference in January 2014 - the same 
   date="January 30, 2014"
 %}
 
-The proposed technology stack he talks about there is fascinatingL
+The proposed technology stack he talks about there is fascinating:
 
 - [Open Transactions](https://opentransactions.org/) for payment rails
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) as money

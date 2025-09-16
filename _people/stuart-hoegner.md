@@ -1,7 +1,7 @@
 ---
 name: Stuart Hoegner
 description: Ethereum OG
-start: ???
+start: Mar 2014
 end: ???
 ---
 

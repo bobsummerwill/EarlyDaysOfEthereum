@@ -97,6 +97,12 @@ See also the partial public histories in:
 - **Towards a 12 second Block Time, Vitalik Buterin, 11th July 2014**
   - [Blog Post](https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/)
 
+- **Interview with Ethereum, Coin Telegraph, 24th July 2014**
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7Wih6K288fo" title="Interview with Ethereum" frameborder="0" allowfullscreen></iframe>
+
+  - [Cutting edge: An interview with Ethereum creators Vitalik Buterin and Gavin Wood ](https://cointelegraph.com/news/cutting-edge-an-interview-with-ethereum-creators-vitalik-buterin-and-gavin-wood)
+
 - **Vitalik Buterin explains Ethereum, 29th July 2014**
 
   <iframe src="https://player.vimeo.com/video/102024647" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 102024647"></iframe>

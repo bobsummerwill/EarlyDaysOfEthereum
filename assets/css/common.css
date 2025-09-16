@@ -664,6 +664,10 @@ img {
     gap: var(--spacing-2xl);
 }
 
+.person-card .person-header:not(:has(.person-photo)) {
+    gap: var(--spacing-lg);
+}
+
 /**
  * Person Photo Container - Aspect ratio controlled image container
  * 
@@ -718,6 +722,8 @@ img {
     text-align: center;
     flex: 1;
     min-width: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .person-info h3 {
@@ -1264,7 +1270,8 @@ img {
   border: 1px solid var(--border-table) !important;
   border-radius: var(--radius-lg) !important;
   padding: var(--spacing-2xl) !important;
-  margin: 18px 0 !important;
+  margin: 18px 0 0 0 !important;
+  margin-top: auto !important;
   max-width: 420px !important;
   transition: box-shadow 0.2s ease !important;
   box-shadow: var(--shadow-light) !important;

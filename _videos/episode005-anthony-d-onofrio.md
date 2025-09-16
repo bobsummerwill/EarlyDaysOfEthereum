@@ -152,16 +152,13 @@ Aw
 [[6:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=411s) **Bob:**
 Something I've spotted going through making my notes is your Medium is called [Peace, Love, Revolution](https://medium.com/@peaceloverevolution).
 
-<div style="margin: 18px 0;">
-  <a href="https://medium.com/@peaceloverevolution" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none; background: #f3f3f3; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 10px 16px; max-width: 420px;">
-    <img src="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg" alt="Anthony D'Onofrio Medium profile photo" style="height: 80px; width: 80px; object-fit: cover; border-radius: 8px; margin-right: 18px; background: #fff;" />
-    <div style="color: #222;">
-      <div style="font-weight: bold; font-size: 1.1em;">Anthony D'Onofrio</div>
-      <div style="font-size: 0.97em; color: #555;">Revolutionary Technologist. Ethereum Founding Member. Creator of DAS.</div>
-      <div style="font-size: 0.93em; color: #888;">medium.com/@peaceloverevolution</div>
-    </div>
-  </a>
-</div>
+{% include medium-embed.html
+  url="https://medium.com/@peaceloverevolution"
+  img="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg"
+  name="Anthony D'Onofrio"
+  desc="Revolutionary Technologist. Ethereum Founding Member. Creator of DAS."
+  handle="medium.com/@peaceloverevolution"
+%}
 
 [[7:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=421s) **Texture:**
 Yes.

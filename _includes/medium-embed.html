@@ -8,10 +8,10 @@
   For Liquid templating: https://shopify.github.io/liquid/
 -->
 <div class="medium-embed">
-  <a href="{{ include.url }}" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="{{ include.img }}" alt="{{ include.name }} Medium profile photo" class="medium-profile-photo" />
+  <a href="{{ include.url }}" target="_blank" rel="noopener">
+    <img src="{{ include.img }}" alt="Medium profile photo" class="medium-profile-photo" />
     <div class="medium-profile-info">
-      <div class="name">{{ include.name }}</div>
+      <div class="name">{{ include.name | replace: "'", "&#39;" }}</div>
       <div class="desc">{{ include.desc }}</div>
       <div class="url">{{ include.handle }}</div>
     </div>

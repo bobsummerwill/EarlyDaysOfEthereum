@@ -20,8 +20,6 @@ Alex was the very first hire for ETHDEV in Berlin, around August 2014 or Septemb
 
 ## References
 
-Alex is referenced in the following articles and videos:
-
 - ["Gav’s ÐΞV Update I: Where Ethereum’s at"](https://blog.ethereum.org/2014/10/17/gavs-dev-update-ethereums) by Gavin Wood, 17th October 2014
 - ["Gav’s Ethereum ÐΞV Update III"](https://blog.ethereum.org/2014/11/18/gavs-dev-update-iii) by Gavin Wood, 18th November 2014
 - ["ÐΞVcon-0 Recap"](https://blog.ethereum.org/2014/12/05/devcon-0-recap) by [George Hallam]({{ '/people/george-hallam/' | relative_url }}), 15th December 2014

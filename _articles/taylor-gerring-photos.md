@@ -1,7 +1,7 @@
 ---
 title: "Taylor Gerring Photos"
-date: 2025-08-12
-author: "Bob Summerwill"
+date: 2014-01-25
+author: "Taylor Gerring"
 description: "A collection of photographs from Taylor Gerring documenting the early days of Ethereum, from the Miami Bitcoin Conference through the team's time in Switzerland."
 ---
 

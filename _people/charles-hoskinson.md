@@ -17,5 +17,4 @@ social:
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
 - Ethereum Foundation Timeline
 - "Red Wedding"
-- Taylor Gerring Photos (batch #1)
-- Taylor Gerring Photos (batch #2)
+- Taylor Gerring Photos

@@ -25,4 +25,4 @@ Amir did not seem to care about his removal.  He retained his ether allocation a
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
 - Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - EthSuisse
-- Taylor Gerring Photos (batch #2)
+- Taylor Gerring Photos

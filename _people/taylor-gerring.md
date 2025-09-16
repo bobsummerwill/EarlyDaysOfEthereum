@@ -13,9 +13,7 @@ social:
 
 ## References
 
-
-
 - EthSuisse
-- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}) - Dedicated article about his photographic documentation
-- Ethereum Foundation Timeline - Referenced as author and in timeline entries
-- Early Days of Ethereum - Episode 4 - Taylor Gerring - Featured guest in video interview
+- Taylor Gerring Photos
+- Ethereum Foundation Timeline
+- Early Days of Ethereum - Episode 4 - Taylor Gerring

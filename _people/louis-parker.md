@@ -14,5 +14,5 @@ end: present
 
 
 - Ethereum Foundation Timeline
-- [Taylor Gerring Photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
+- Taylor Gerring Photos
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

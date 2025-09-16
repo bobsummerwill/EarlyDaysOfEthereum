@@ -15,5 +15,4 @@ end: Jun 2014
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
 - Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - Ethereum Foundation Timeline
-- Taylor Gerring Photos (batch #1)
-- Taylor Gerring Photos (batch #2)
+- Taylor Gerring Photos

@@ -16,5 +16,4 @@ Charles and Jeremy later collaborated as co-founders of [IOHK](https://iohk.io/)
 
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
 - [Red Wedding]({{ '/articles/red-wedding/' | relative_url }})
-- [Taylor Gerring photos]({{ '/articles/taylor-gerring-photos/' | relative_url }})
-- [Taylor Gerring Photos (batch #1)]({{ '/articles/taylor-gerring-photos2/' | relative_url }})
+- Taylor Gerring Photos

@@ -150,14 +150,11 @@
  * 
  * Implements card design pattern with subtle elevation and branded accent.
  * Uses flexbox for consistent internal spacing.
+ * Includes hover animation for enhanced user interaction.
  * 
  * Reference: https://material.io/components/cards
  */
 .card {
-  background: var(--bg-light);
-  padding: var(--spacing-4xl);
-  border-radius: var(--radius-lg);
-  border-left: var(--spacing-sm) solid var(--primary-blue);
   margin-bottom: var(--spacing-5xl);
 }
 
@@ -216,6 +213,45 @@
 .border-top {
   border-top: 1px solid var(--border-light);
   padding-top: var(--spacing-3xl);
+}
+
+/**
+ * Hover Animation Utility - Consistent hover elevation effect
+ * 
+ * Provides consistent box-shadow animation for interactive elements.
+ * Uses Material Design elevation principles for visual feedback.
+ * 
+ * Reference: https://material.io/design/environment/elevation.html
+ */
+.hover-lift {
+  transition: box-shadow 0.2s ease;
+}
+
+.hover-lift:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+/**
+ * Card Layout Utility - Standard card appearance
+ * 
+ * Combines common card styling patterns into a reusable utility.
+ * Includes background, padding, border radius, and brand accent.
+ */
+.card-layout {
+  background: var(--bg-light);
+  padding: var(--spacing-4xl);
+  border-radius: var(--radius-lg);
+  border-left: var(--spacing-sm) solid var(--primary-blue);
+}
+
+/**
+ * Brand Accent Utility - Left border brand accent
+ * 
+ * Provides consistent brand accent styling for content sections.
+ * Uses primary brand color for visual hierarchy.
+ */
+.brand-accent {
+  border-left: var(--spacing-sm) solid var(--primary-blue);
 }
 
 /**
@@ -611,15 +647,14 @@ img {
  * 
  * Flexible card layout using CSS Flexbox for consistent alignment.
  * Includes photo, information, and action elements.
+ * Includes hover animation for enhanced user interaction.
  */
 .person-card {
     background: var(--border-medium);
     padding: var(--spacing-3xl);
-    border-radius: var(--radius-lg);
     display: flex;
     flex-direction: column;
     gap: var(--spacing-2xl);
-    border-left: var(--spacing-sm) solid var(--primary-blue);
 }
 
 .person-card .person-header {
@@ -1038,6 +1073,11 @@ img {
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
     gap: var(--spacing-4xl);
+    transition: box-shadow 0.2s ease;
+}
+
+.video-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 
 .video-thumbnail {
@@ -1130,6 +1170,7 @@ img {
  * 
  * Responsive video embed with aspect ratio preservation.
  * Includes styling for video cards and Medium profile embeds.
+ * Includes hover animation for enhanced user interaction.
  * 
  * Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio
  */
@@ -1145,6 +1186,11 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  transition: box-shadow 0.2s ease;
+}
+
+.video-embed-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 
 .video-embed-responsive {
@@ -1163,6 +1209,75 @@ img {
   border: none;
   box-shadow: var(--shadow-light);
   background: #000;
+}
+
+/**
+ * Blog Embed Styling - External blog post integration
+ * 
+ * Styled cards for blog post and article embeds.
+ * Uses consistent hover animation with other embed components.
+ */
+.blog-embed-card {
+  transition: box-shadow 0.2s ease;
+}
+
+.blog-embed-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+
+/**
+ * YouTube Embed Styling - YouTube video integration
+ * 
+ * Styled container for YouTube video embeds.
+ * Uses consistent hover animation with other embed components.
+ */
+.video-embed-content {
+  transition: box-shadow 0.2s ease;
+}
+
+.video-embed-content:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+
+/**
+ * Twitter Embed Styling - Twitter/X tweet integration
+ * 
+ * Styled container for Twitter tweet embeds.
+ * Uses consistent hover animation with other embed components.
+ */
+.twitter-tweet {
+  transition: box-shadow 0.2s ease;
+}
+
+.twitter-tweet:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+
+/**
+ * DEVCON0 Video Embed Styling - DEVCON0 self-introduction videos
+ * 
+ * Styled containers for DEVCON0 video embeds on person pages.
+ * Uses card-like appearance with consistent hover animation like other embeds.
+ */
+.devcon0-section {
+  background: #f3f3f3 !important;
+  border: 1px solid var(--border-table) !important;
+  border-radius: var(--radius-lg) !important;
+  padding: var(--spacing-2xl) !important;
+  margin: 18px 0 !important;
+  max-width: 420px !important;
+  transition: box-shadow 0.2s ease !important;
+  box-shadow: var(--shadow-light) !important;
+}
+
+.devcon0-section:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+
+.devcon0-section h4 {
+  margin: 0 0 var(--spacing-lg) 0 !important;
+  color: var(--text-medium) !important;
+  font-size: 0.95em !important;
 }
 
 /**
@@ -1435,6 +1550,7 @@ img {
  * 
  * Consistent styling for article previews and metadata display.
  * Uses card layout with proper typography hierarchy.
+ * Includes hover animation for enhanced user interaction.
  */
 .article-preview {
     background: var(--bg-light);
@@ -1442,6 +1558,11 @@ img {
     margin-bottom: var(--spacing-5xl);
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
+    transition: box-shadow 0.2s ease;
+}
+
+.article-preview:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 
 .article-preview h2 {

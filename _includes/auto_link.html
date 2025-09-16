@@ -1,42 +1,109 @@
-{%- assign body_content = include.content
-    | replace: "‘", "'"
-    | replace: "’", "'"
-    | replace: "“", '"'
-    | replace: "”", '"'
--%}
+{%- assign body_content = include.content -%}
+{%- assign body_content = body_content | replace: "'", "'" -%}
+{%- assign body_content = body_content | replace: "'", "'" -%}
+{%- assign body_content = body_content | replace: """, '"' -%}
+{%- assign body_content = body_content | replace: """, '"' -%}
+
+{%- comment -%}
+Simple approach: Process in order, but avoid replacing text inside already created links
+{%- endcomment -%}
+
+{%- comment -%}
+Process videos first
+{%- endcomment -%}
 {%- for video in site.videos -%}
-  {%- assign title_to_replace = video.title
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
-  {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
-  {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
-{%- endfor -%}
-{%- for article in site.articles -%}
-  {%- assign title_to_replace = article.title
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
-  {%- assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
-  {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
-{%- endfor -%}
-{%- for other_person in site.people -%}
-  {%- assign name_to_replace = other_person.name
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
-  {%- assign display_name = other_person.name -%}
-  {%- if other_person.hidden -%}
-    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
-  {%- else -%}
-    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+  {%- assign title_to_replace = video.title -%}
+  {%- assign title_to_replace = title_to_replace | replace: "'", "'" -%}
+  {%- assign title_to_replace = title_to_replace | replace: "'", "'" -%}
+  {%- assign title_to_replace = title_to_replace | replace: """, '"' -%}
+  {%- assign title_to_replace = title_to_replace | replace: """, '"' -%}
+  {%- if body_content contains title_to_replace -%}
+    {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
+    {%- assign body_content = body_content | replace_first: title_to_replace, link_replacement -%}
   {%- endif -%}
-  {%- assign body_content = body_content | replace: name_to_replace, link_replacement -%}
 {%- endfor -%}
+
+{%- comment -%}
+Process articles second
+{%- endcomment -%}
+{%- for article in site.articles -%}
+  {%- assign title_to_replace = article.title -%}
+  {%- assign title_to_replace = title_to_replace | replace: "'", "'" -%}
+  {%- assign title_to_replace = title_to_replace | replace: "'", "'" -%}
+  {%- assign title_to_replace = title_to_replace | replace: """, '"' -%}
+  {%- assign title_to_replace = title_to_replace | replace: """, '"' -%}
+  {%- if body_content contains title_to_replace -%}
+    {%- assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
+    {%- assign body_content = body_content | replace_first: title_to_replace, link_replacement -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- comment -%}
+Process people last - but use a regex-like approach to avoid matching inside existing links
+We'll split on existing links and only process the non-link parts
+{%- endcomment -%}
+{%- for other_person in site.people -%}
+  {%- assign name_to_replace = other_person.name -%}
+  {%- assign name_to_replace = name_to_replace | replace: "'", "'" -%}
+  {%- assign name_to_replace = name_to_replace | replace: "'", "'" -%}
+  {%- assign name_to_replace = name_to_replace | replace: """, '"' -%}
+  {%- assign name_to_replace = name_to_replace | replace: """, '"' -%}
+  {%- assign display_name = other_person.name -%}
+  
+  {%- comment -%}
+  Simple check: if the content contains the name and it's not already inside a link tag
+  We'll do a basic check by seeing if the name appears outside of <a> tags
+  {%- endcomment -%}
+  {%- if body_content contains name_to_replace -%}
+    {%- comment -%}
+    Split content by <a> tags and only replace in the parts that aren't links
+    {%- endcomment -%}
+    {%- assign parts = body_content | split: '<a ' -%}
+    {%- assign new_content = parts[0] -%}
+    
+    {%- comment -%}
+    Process the first part (before any links)
+    {%- endcomment -%}
+    {%- if new_content contains name_to_replace -%}
+      {%- if other_person.hidden -%}
+        {%- assign person_link = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+      {%- else -%}
+        {%- assign person_link = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+      {%- endif -%}
+      {%- assign new_content = new_content | replace_first: name_to_replace, person_link -%}
+    {%- endif -%}
+    
+    {%- comment -%}
+    Process remaining parts (after each link)
+    {%- endcomment -%}
+    {%- for i in (1..parts.size) -%}
+      {%- if parts[i] -%}
+        {%- assign link_parts = parts[i] | split: '</a>' -%}
+        {%- if link_parts.size > 1 -%}
+          {%- comment -%}
+          Keep the link part as-is, process the text after the link
+          {%- endcomment -%}
+          {%- assign after_link = link_parts[1] -%}
+          {%- if after_link contains name_to_replace -%}
+            {%- if other_person.hidden -%}
+              {%- assign person_link = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+            {%- else -%}
+              {%- assign person_link = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+            {%- endif -%}
+            {%- assign after_link = after_link | replace_first: name_to_replace, person_link -%}
+          {%- endif -%}
+          {%- assign new_content = new_content | append: '<a ' | append: link_parts[0] | append: '</a>' | append: after_link -%}
+        {%- else -%}
+          {%- comment -%}
+          No closing </a> found, treat as regular content
+          {%- endcomment -%}
+          {%- assign new_content = new_content | append: '<a ' | append: parts[i] -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    
+    {%- assign body_content = new_content -%}
+  {%- endif -%}
+{%- endfor -%}
+
 {{ body_content }}

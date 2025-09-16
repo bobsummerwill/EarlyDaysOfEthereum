@@ -1,7 +1,6 @@
 ---
 name: Tim Hughes
+nickname: programmerTim
 description: Ethereum OG
-start: ???
-end: ???
+start: Mar 2014
 ---
-

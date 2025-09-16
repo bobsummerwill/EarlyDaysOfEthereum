@@ -1,6 +1,6 @@
 ---
 title: "Ethereum Foundation Timeline"
-date: 2025-08-07
+date: 2013-12-19
 author: "Bob Summerwill"
 description: "An attempt at building up some canonical history of the Ethereum Project and the Ethereum Foundation, documenting key events, videos, and milestones from 2013-2017."
 ---

@@ -4,7 +4,7 @@ nickname: yann300
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/yann-levreau.jpg
 start: Nov 2014
-end: ???
+
 devcon0: '1300'
 social:
   github: https://github.com/yann300

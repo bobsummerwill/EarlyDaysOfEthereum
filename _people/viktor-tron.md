@@ -4,7 +4,7 @@ nickname: zelig
 description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/viktor-tron.jpg
 start: Oct 2014
-end: ???
+
 devcon0: '1421'
 social:
   github: https://github.com/zelig

@@ -3,7 +3,7 @@ photo: /images/personal/taylor-gerring/taylor-gerring_2014.01.31_kyle-kurbegovic
 name: Kyle Kurbegovich
 description: Media (CoinTalk)
 start: Jan 2014
-end: ???
+
 social:
   linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/
   twitter: https://x.com/KKurbegovich/

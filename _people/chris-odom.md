@@ -21,8 +21,7 @@ He was removed from the Ethereum page by March 2014, so I guess it was a short-l
 
 Chris spoke at the North American Bitcoin conference in January 2014 - the same conference where Ethereum was announced and where the Miami house meetings occurred.  Chris mentions Ethereum as a project which will be supported in that stack, so I assume that he was collaborating with the Ethereum team, rather than being part of the Ethereum team per-se:
 
-{% include video-embed.html
-  url="https://www.youtube.com/watch?v=teNzIFu5L70"
+{% include content-embed.html
   src="https://www.youtube.com/embed/teNzIFu5L70"
   title="Chris Odom - Open Transactions presentation"
   site="https://www.youtube.com/@bitcoinmiami3251"
@@ -39,8 +38,7 @@ The proposed technology stack he talks about there is fascinating:
 
 This proto-Web3 stack reminds me of IBM and Samsung's January 2015 "Project ADEPT", which Henning Dietrich and Paul Brody worked on:
 
-{% include video-embed.html
-  url="https://www.youtube.com/watch?v=teNzIFu5L70"
+{% include content-embed.html
   src="https://www.youtube.com/embed/teNzIFu5L70"
   title="IBM & Samsung live demo of ADEPT | TheProtocol.TV"
   site="https://www.youtube.com/@TheProtocolTV"

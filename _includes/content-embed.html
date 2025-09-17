@@ -4,9 +4,8 @@
   =========================
   This Jekyll include renders a styled card for embedding either a blog/article or a video (YouTube, Vimeo), auto-detecting based on parameters.
   Usage:
-    {% include content-embed.html src="..." ... %}   <!-- Video: has src -->
-    {% include content-embed.html img="..." ... %}   <!-- Blog: has img -->
-    {% include content-embed.html ... %}             <!-- Blog: no img -->
+    Video: has src parameter
+    Blog: has img parameter or no img parameter
 -->
 <div class="blog-embed-card" style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 420px; overflow: hidden;">
   {% if include.src %}

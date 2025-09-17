@@ -10,7 +10,7 @@
     {%- capture embed_html -%}
       <a href="{{ article.url | relative_url }}" style="text-decoration: none; color: inherit;">
         {% assign embed_date = article.date | date: "%B %d, %Y" %}
-        {% include blog-embed.html
+        {% include content-embed.html
           url=article.embed.url
           img=article.embed.img
           site=article.embed.site

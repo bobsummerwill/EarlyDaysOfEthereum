@@ -16,7 +16,7 @@
         </div>
       {% endif %}
       {% if include.title %}
-        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
+        <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222; padding: 0 18px;">
           {{ include.title }}
         </div>
       {% endif %}
@@ -46,10 +46,10 @@
           {% endif %}
         {% endfor %}
         {% if matched_person %}
-          <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
+          by <a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>
           {% if include.date %} , <span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
         {% elsif include.author %}
-          <span class="blog-embed-author">{{ include.author }}</span>
+          by <span class="blog-embed-author">{{ include.author }}</span>
           {% if include.date %} , <span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
         {% elsif include.date %}
           <span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>

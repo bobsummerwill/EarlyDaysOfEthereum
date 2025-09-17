@@ -12,9 +12,12 @@ social:
 
 *"Worked on partnerships and conversations with startups and Fortune 100’s in their understanding of Ethereum and how it would affect their industry."* - [LinkedIn profile](https://www.linkedin.com/in/jonathanmohan/)
 
+Jonathan was mentioned in the [original BitcoinTalk](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) post in January 2014, although his role there was later [written out of history](https://bitcointalk.org/index.php?topic=428589.0), along with many others:
+
+*"Jonathan Mohan - Media, Marketing and Evangelism (BitcoinNYC)"*
+
+
 ## References
-
-
 
 - Ethereum Foundation Timeline
 - Taylor Gerring Photos

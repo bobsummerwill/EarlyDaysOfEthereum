@@ -13,7 +13,7 @@ social:
 
 Open Transactions was a [Chaumian](https://en.wikipedia.org/wiki/David_Chaum_) [eCash](https://en.wikipedia.org/wiki/Ecash) system, like today's [Cashu](https://x.com/CashuBTC) project.  With Johann Gevers, Chris co-founded Monetas, a company commercializing the open source technology.  Johann was also notably the founder of the "Crypto Valley" group when he moved Monetas to Zug in October 2013.  Johann was key to the Ethereum Foundation incorporating in Zug.
 
-Chris was mentioned in the [original BitcoinTalk](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) in January 2014, athough his role there was later [written out of history](https://bitcointalk.org/index.php?topic=428589.0), along with many others.  He was listed as a team member on the [http://ethereum.org](http://ethereum.org) website as a team member [from February 2014](https://web.archive.org/web/20150320224646/http://www.ethereum.org)
+Chris was mentioned in the [original BitcoinTalk](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) post in January 2014, although his role there was later [written out of history](https://bitcointalk.org/index.php?topic=428589.0), along with many others.  He was listed as a team member on the [ethereum.org](http://ethereum.org) website as a team member [from February 2014](https://web.archive.org/web/20150320224646/http://www.ethereum.org):
 
 *"Chris Odom: Strategic Partner, Developer (Open Transactions)"*
 

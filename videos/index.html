@@ -49,6 +49,7 @@ title: Videos
 <div class="videos-list">
     {% assign sorted_videos = site.videos | sort: 'date' %}
     {% for video in sorted_videos %}
+    {% unless video.layout == 'mercata' %}
     <div class="video-card">
         {% if video.youtube_id %}
         <div class="video-thumbnail">
@@ -145,6 +146,7 @@ title: Videos
             
         </div>
     </div>
+    {% endunless %}
     {% endfor %}
     
     {% if site.videos.size == 0 %}

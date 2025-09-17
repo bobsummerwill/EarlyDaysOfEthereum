@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+    <!--
+      CSS Stylesheets for custom embeds and site styling.
+      See: https://jekyllrb.com/docs/assets/
+    -->
+    <link rel="stylesheet" href="/assets/css/common.css">
+
+    <!--
+      Character encoding and responsive viewport.
+      See: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--
+      Page title and description for SEO.
+      See: https://jekyllrb.com/docs/variables/
+    -->
+    <title>
+      {% if page.name %}
+        {{ page.name }} - {{ site.title }}
+      {% elsif page.title %}
+        {{ page.title }} - {{ site.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+    <meta name="author" content="{{ site.author }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <!--
+      Favicon for browser tabs.
+      See: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#attr-rel
+    -->
+    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+    <!--
+      Preconnect for performance optimization.
+      See: https://web.dev/uses-rel-preconnect/
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+
+    <!--
+      Google Analytics integration.
+      See: https://support.google.com/analytics/answer/1008080
+    -->
+    {% if site.google_analytics and site.google_analytics != "" %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+
+    <!--
+      Redirect from GitHub Pages to custom domain.
+      See: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+    -->
+    <script>
+    if (window.location.hostname === "bobsummerwill.github.io") {
+        window.location.replace("https://www.earlydaysofeth.org" + window.location.pathname);
+    }
+    </script>
+
+    <!--
+    Open Graph meta tags for social sharing.
+    - Open Graph: https://ogp.me/
+    -->
+    <meta property="og:title" content="{% if page.name %}{{ page.name }} - {{ site.title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general_2.png' | absolute_url }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Ethereum team historical photo" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:linkedin" content="/images/archive.org/ethdev.com/20151210143340/thumbnails/ethdev-team_thumbnail_linkedin.png" />
+
+    <!--
+    Twitter Card meta tags for social sharing.
+    - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+    -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{% if page.name %}{{ page.name }} - {{ site.title }}{% elsif page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png' | absolute_url }}" />
+    <meta name="twitter:image:alt" content="Ethereum team historical photo" />
+</head>
+<body>
+<main>
+<article class="video-episode">
+    <header>
+        <!--
+          Video title and meta information (release date, hosts, guests).
+          - Jekyll Front Matter: https://jekyllrb.com/docs/front-matter/
+        -->
+        <h1>{{ page.title }}</h1>
+        <div class="content-meta">
+            {% if page.date %}
+                <div class="release-date" style="margin-bottom: 15px;"><em>{{ page.date | date: "%B %d, %Y" }}</em></div>
+            {% endif %}
+            {% if page.hosts and page.hosts.size > 0 or page.guests and page.guests.size > 0 %}
+            <div style="margin-bottom: 15px;">
+                {% if page.hosts and page.hosts.size > 0 %}
+                <div class="episode-hosts">
+                    <strong>
+                      {% if page.hosts.size == 1 %}Host:{% else %}Hosts:{% endif %}
+                    </strong>
+                    {% for host in page.hosts %}
+                        {% assign host_found = false %}
+                        {% assign host_url = '' %}
+                        {% assign host_display_name = host %}
+                        {% for person in site.people %}
+                            {% if person.name == host %}
+                                {% assign host_found = true %}
+                                {% assign host_url = person.url %}
+                                {% assign host_display_name = person.name %}
+                                {% if person.nickname and person.nickname != '' %}
+                                    {% assign host_display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        {% if host_found %}
+                            <a href="{{ host_url | relative_url }}">{{ host_display_name }}</a>
+                        {% else %}
+                            {{ host }}
+                        {% endif %}
+                        {% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+                {% if page.guests and page.guests.size > 0 %}
+                <div class="episode-guests">
+                    <strong>
+                      {% if page.guests.size == 1 %}Guest:{% else %}Guests:{% endif %}
+                    </strong>
+                    {% for guest in page.guests %}
+                        {% assign guest_found = false %}
+                        {% assign guest_url = '' %}
+                        {% assign guest_display_name = guest %}
+                        {% for person in site.people %}
+                            {% if person.name == guest %}
+                                {% assign guest_found = true %}
+                                {% assign guest_url = person.url %}
+                                {% assign guest_display_name = person.name %}
+                                {% if person.nickname and person.nickname != '' %}
+                                    {% assign guest_display_name = person.name | append: ' ("' | append: person.nickname | append: '")' %}
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        {% if guest_found %}
+                            <a href="{{ guest_url | relative_url }}">{{ guest_display_name }}</a>
+                        {% else %}
+                            {{ guest }}
+                        {% endif %}
+                        {% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+    </header>
+    
+    <!--
+      Main video content, with auto-linking for videos, articles, and people.
+      - Jekyll Content Variable: https://jekyllrb.com/docs/variables/#content
+    -->
+    <div class="video-content">
+        {% include auto_link.html content=content %}
+    </div>
+    
+    {% if page.links %}
+    <!--
+      Related links section for the video.
+      - HTML5 Sectioning: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+    -->
+    <div class="video-links">
+        <h3>Related Links</h3>
+        <ul>
+            {% for link in page.links %}
+            <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    
+    {% if page.tags and page.tags.size > 0 %}
+    <!--
+      Video tags for categorization and search.
+      - Jekyll Front Matter: https://jekyllrb.com/docs/front-matter/#tags-and-categories
+    -->
+    <div class="video-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>
+</main>
+
+<!--
+  Site footer with sponsor and contribution links.
+  Customize as needed for your project.
+-->
+<footer style="background: linear-gradient(90deg, #007acc 0%, #005fa3 100%); color: #fff; padding: 32px 0 18px 0; text-align: center; border-top: none; font-size: 1em;">
+
+    <!-- Desktop footer (original single-line) -->
+    <div class="footer-desktop" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+        <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
+                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a> - Where Stability Meets Opportunity</span>
+            </a>
+        </div>
+        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+            Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans.
+        </div>
+    </div>
+
+    <!-- Mobile footer (split lines) -->
+    <div class="footer-mobile" style="display: none; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 6px;">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+                <img src="{{ '/images/github.com/2025.08.28/strato-mercata.png' | relative_url }}" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-bottom: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a></span>
+                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">Where Stability Meets Opportunity</span>
+            </a>
+        </div>
+        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+            Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans.
+        </div>
+    </div>
+
+    <!--
+    Responsive CSS for footer: shows .footer-desktop on large screens and .footer-mobile on small screens.
+    Ensures the footer layout adapts for desktop and mobile devices.
+    -->
+    <style>
+        @media (max-width: 600px) {
+            .footer-desktop { display: none !important; }
+            .footer-mobile { display: flex !important; }
+        }
+        @media (min-width: 601px) {
+            .footer-desktop { display: flex !important; }
+            .footer-mobile { display: none !important; }
+        }
+    </style>
+
+</footer>
+
+<!--
+HIDEABLE SECTION SUPPORT
+------------------------
+Any page (post, person, video, etc.) can define a hideable section by using a Liquid capture block in the Markdown file:
+
+    {% capture hideable_section %}
+    ...content to hide...
+    {% endcapture %}
+
+The default layout will automatically output this section wrapped in:
+    <div class="hideable-section" style="display:none">...</div>
+
+A global JavaScript snippet will show all .hideable-section elements if the URL contains ?hidden=false.
+This allows for dynamic, client-side toggling of sensitive or optional content for review or admin purposes.
+
+No raw HTML or includes are needed in the Markdown file—just the capture block.
+-->
+<script>
+// Show hideable sections if ?hidden=false is present in the URL
+(function() {
+    var params = new URLSearchParams(window.location.search);
+    if (params.get('hidden') === 'false') {
+    document.querySelectorAll('.hideable-section').forEach(function(el) {
+        el.style.display = '';
+    });
+    }
+})();
+</script>
+
+    <!--
+    Handles click-to-play for DEVCON0 video section.
+    See: https://jekyllrb.com/docs/navigation/
+    https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+    -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // For single person page
+        const thumbnailWrapper = document.querySelector('.devcon0-thumbnail-wrapper');
+        const videoPlayer = document.querySelector('.devcon0-video-player');
+        if (thumbnailWrapper && videoPlayer) {
+            const iframe = videoPlayer.querySelector('iframe');
+            thumbnailWrapper.addEventListener('click', function() {
+                // Set the iframe src to start the video
+                iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}&autoplay=1';
+                // Hide thumbnail and show video
+                thumbnailWrapper.style.display = 'none';
+                videoPlayer.style.display = 'block';
+            });
+            // Hover effect for play button
+            const playButton = thumbnailWrapper.querySelector('.play-button-overlay');
+            if (playButton) {
+                thumbnailWrapper.addEventListener('mouseenter', function() {
+                    playButton.style.background = 'rgba(0,0,0,0.9)';
+                    playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+                });
+                thumbnailWrapper.addEventListener('mouseleave', function() {
+                    playButton.style.background = 'rgba(0,0,0,0.8)';
+                    playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+                });
+            }
+        }
+
+        // For people index grid (multiple videos)
+        const thumbnailWrappers = document.querySelectorAll('.devcon0-thumbnail-wrapper-people');
+        thumbnailWrappers.forEach(function(wrapper) {
+            const img = wrapper.querySelector('img');
+            const videoContainer = wrapper.parentElement;
+            const videoPlayer = videoContainer.querySelector('.devcon0-video-player-people');
+            const iframe = videoPlayer.querySelector('iframe');
+            const playButton = wrapper.querySelector('.play-button-overlay-people');
+            // Add hover effects for play button
+            if (playButton) {
+                wrapper.addEventListener('mouseenter', function() {
+                    playButton.style.background = 'rgba(0,0,0,0.9)';
+                    playButton.style.transform = 'translate(-50%, -50%) scale(1.1)';
+                });
+                wrapper.addEventListener('mouseleave', function() {
+                    playButton.style.background = 'rgba(0,0,0,0.8)';
+                    playButton.style.transform = 'translate(-50%, -50%) scale(1)';
+                });
+            }
+            // Handle click to play video
+            wrapper.addEventListener('click', function() {
+                const timestamp = img.getAttribute('data-devcon0-timestamp');
+                if (timestamp && iframe) {
+                    // Set the iframe src to start the video with autoplay
+                    iframe.src = 'https://www.youtube.com/embed/_BvvUlKDqp0?start=' + timestamp + '&autoplay=1';
+                    // Hide thumbnail and show video
+                    wrapper.style.display = 'none';
+                    videoPlayer.style.display = 'block';
+                }
+            });
+        });
+    });
+    </script>
+
+</body>
+</html>

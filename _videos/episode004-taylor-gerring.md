@@ -107,7 +107,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
 {% capture hideable_section %}
-<img src="{{ '/images/duncan.co/duncan.co_cropped_ian_meikle.png' | relative_url }}" style="width: 25%; height: auto;">
+<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_ian_meikle.png' | relative_url }}" style="width: 25%; height: auto;">
 {% endcapture %}
 <div class="hideable-section" style="display:none">
 {{ hideable_section | markdownify }}
@@ -117,7 +117,7 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Taylor:**  Richard Wild. That's right. Richard was actually the first one who was introduced to the project.  He brought Ian along. And I think Ian ended up sticking around longer.
 
-<img src="{{ '/images/duncan.co/duncan.co_cropped_richard_wild.png' | relative_url }}" style="width: 50%; height: auto;">
+<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png' | relative_url }}" style="width: 50%; height: auto;">
 
 *(Taylor and Richard Wild, from https://duncan.co/ethereum/)*
 

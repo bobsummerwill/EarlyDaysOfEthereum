@@ -1,4 +1,5 @@
 ---
+photo: /images/personal/taylor-gerring/taylor-gerring_2014.01.31_kyle-kurbegovich.png
 name: Kyle Kurbegovich
 description: Media (CoinTalk)
 start: Jan 2014

@@ -1,6 +1,7 @@
 ---
 name: Max Kaye
 description: Developer
+photo: /images/x.com/2025.09.17/xertrov/photo/max-kaye.jpeg
 start: Dec 2013
 social:
   linkedin: https://www.linkedin.com/in/maxkaye/

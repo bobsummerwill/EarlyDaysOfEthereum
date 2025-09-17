@@ -10,7 +10,7 @@ social:
 
 *[Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 
-<img src="{{ '/images/duncan.co/duncan.co_cropped_richard_wild.png' | relative_url }}" style="width: 50%; height: auto;">
+<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png' | relative_url }}" style="width: 50%; height: auto;">
 
 It appears that Richard died in 2024:
 

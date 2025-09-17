@@ -1,26 +1,11 @@
-{%- assign body_content = include.content
-    | replace: "‘", "'"
-    | replace: "’", "'"
-    | replace: "“", '"'
-    | replace: "”", '"'
--%}
+{%- assign body_content = include.content -%}
 {%- for video in site.videos -%}
-  {%- assign title_to_replace = video.title
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
+  {%- assign title_to_replace = video.title -%}
   {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
 {%- endfor -%}
 {%- for article in site.articles -%}
-  {%- assign title_to_replace = article.title
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
+  {%- assign title_to_replace = article.title -%}
   {%- if article.embed and article.embed.url -%}
     {%- capture embed_html -%}
       <a href="{{ article.url | relative_url }}" style="text-decoration: none; color: inherit;">

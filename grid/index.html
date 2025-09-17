@@ -177,11 +177,11 @@ Add people without dates at the end, sorted alphabetically
     {% for person in final_people_list %}
         <a href="{{ person.url | relative_url }}" class="grid-item">
             {% if person.photo %}
-                <img src="{{ person.photo }}" alt="{{ person.title }}" loading="lazy">
+                <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
             {% else %}
                 <div style="width: 100%; height: 120px; display: flex; align-items: center; justify-content: center; background: #e0e0e0; color: #888; font-size: 48px; font-weight: bold;">?</div>
             {% endif %}
-            <div class="name-overlay">{{ person.title }}</div>
+            <div class="name-overlay">{{ person.name }}</div>
         </a>
     {% endfor %}
 </div>

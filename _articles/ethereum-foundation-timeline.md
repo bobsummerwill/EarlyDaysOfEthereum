@@ -29,6 +29,8 @@ See also the partial public histories in:
 ![Image](https://i.imgur.com/txxPTG4.png)
   (Old photo of ethereum.org website shows a selection of the early people)
 
+Ethereum: Now Going Public
+
 - **Introducing Ethereum, 19th Feb 2014**
 <p><strong>Introducing Ethereum, <a href="{{ '/people/vitalik-buterin/' | relative_url }}">Vitalik Buterin</a>, 19th Feb 2014</strong></p>
 

@@ -9,7 +9,7 @@ layout: default
 </nav>
 
 <article itemscope itemtype="https://schema.org/Article">
-    <header>
+    <header{% if page.embed and page.embed.url %} class="has-embed"{% endif %}>
         <h1 itemprop="headline">{{ page.title }}</h1>
         <div class="content-meta">
             {% if page.date %}
@@ -18,7 +18,19 @@ layout: default
             {% endif %}
             {% if page.author %}
                 <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-                    by <span itemprop="name">{{ page.author }}</span>
+                    by
+                    {% assign matched_person = nil %}
+                    {% for person in site.people %}
+                      {% if person.name == page.author %}
+                        {% assign matched_person = person %}
+                        {% break %}
+                      {% endif %}
+                    {% endfor %}
+                    {% if matched_person %}
+                      <a href="{{ matched_person.url | relative_url }}" itemprop="name" style="color: #007acc; text-decoration: underline;">{{ page.author }}</a>
+                    {% else %}
+                      <span itemprop="name">{{ page.author }}</span>
+                    {% endif %}
                 </span>
             {% endif %}
         </div>
@@ -32,7 +44,20 @@ layout: default
         <meta itemprop="image" content="{{ page.image | absolute_url }}">
         {% endif %}
     </header>
-    
+    {% if page.embed and page.embed.url %}
+      {% include blog-embed.html
+        url=page.embed.url
+        img=page.embed.img
+        site=page.embed.site
+        title=page.title
+        author=page.author
+        date=page.date
+        description=page.description
+      %}
+    {% else %}
+      <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
+    {% endif %}
+
     <div class="post-content" itemprop="articleBody">
         {% include auto_link.html content=content %}
     </div>

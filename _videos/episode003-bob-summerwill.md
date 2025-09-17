@@ -12,4 +12,6 @@ links:
 
 In the third installment, [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) joined [Victor Wong]({{ '/people/victor-wong/' | relative_url }}), [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) and [Jim Hormuzdiar]({{ '/people/james-hormuzdiar/' | relative_url }}), the co-Founders of [BlockApps](https://blockapps.net) as a guest while he was still working as Executive Director of the ETC Cooperative. He joined BlockApps as Head of Ecosystem in January 2025.
 
-{% include youtube-embed.html width="75%" %}
+{% include video-embed.html
+  src="https://www.youtube.com/embed/BDs4bDHZO1Q"
+%}

@@ -13,7 +13,9 @@ Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | rel
 
 [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) hosted this episode with [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
-{% include youtube-embed.html width="75%" %}
+{% include video-embed.html
+  src="https://www.youtube.com/embed/24A8B9IgfLQ"
+%}
 
 ## Transcript
 [[3:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=189s) **Bob:** Welcome everyone, so yeah, really happy to have [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor]({{ '/people/taylor-gerring/' | relative_url }})
@@ -56,7 +58,9 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 [[14:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=894s) **Bob:** No. He was at DEVCON1 doing a talk about Grants actually and I got my name on the screen.  I didn't get to go to London but I was on the screen as a named contributor to EthEmbedded.  But yeah, I didn't see him around in Ethereum that much, much beyond that kind of timeline.
 
-{% include youtube-embed.html video_id="4jGqmlA4KEY" %}
+{% include video-embed.html
+  src="https://www.youtube.com/embed/4jGqmlA4KEY"
+%}
 
 [[15:16]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=916s) **Taylor:** There's a lot of that, though. A lot of people have, you know, they put in their contribution and they go attend to other aspects of life, right? Life isn't just working about, working on startups.  I mean, some people want to have families and stuff. So, you know, there's a lot of people who have done their thing and gone off to greener pastures, whatever that means for them. And no hard feelings to any of those.  I mean, I find myself in a similar space where I'm not contributing like I once was and trying to enjoy other facets of life. but I think it's just part of the natural cycle of things.
 

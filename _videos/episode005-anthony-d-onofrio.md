@@ -152,12 +152,12 @@ Aw
 [[6:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=411s) **Bob:**
 Something I've spotted going through making my notes is your Medium is called [Peace, Love, Revolution](https://medium.com/@peaceloverevolution).
 
-{% include medium-embed.html
+{% include blog-embed.html
   url="https://medium.com/@peaceloverevolution"
-  img="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg"
-  name="Anthony D'Onofrio"
-  desc="Revolutionary Technologist. Ethereum Founding Member. Creator of DAS."
-  handle="medium.com/@peaceloverevolution"
+  img="https://cdn-images-1.medium.com/fit/c/200/200/1*8QwQn6QwQwQwQwQwQwQwQw.jpeg"
+  title="Anthony D'Onofrio"
+  description="Writer, artist, and Ethereum OG"
+  author="@peaceloverevolution"
 %}
 
 [[7:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=421s) **Texture:**

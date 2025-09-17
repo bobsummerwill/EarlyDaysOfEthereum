@@ -53,19 +53,19 @@ In January of 2025, with dissatisfaction brewing around the Ethereum Foundation,
   url="https://www.coindesk.com/opinion/2025/01/21/the-ethereum-foundation-has-lost-its-way"
   img="https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fbf3bb2a695e2f328f36be1ff918cbf9eb4231f1d-3000x2000.jpg%3Frect%3D0%2C156%2C3000%2C1688%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1920&q=75"
   title="The Ethereum Foundation Has Lost Its Way"
-  site="coindesk.com"
+  site="https://coindesk.com"
   author="Anthony D'Onofrio"
   date="January 21, 2025"
 %}
 
 Love is a common theme for Texture, whose Medium account is:
 
-{% include medium-embed.html
+{% include blog-embed.html
   url="https://medium.com/@peaceloverevolution"
   img="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg"
-  name="Anthony D'Onofrio"
-  desc="Revolutionary Technologist. Ethereum Founding Member. Creator of DAS."
-  handle="medium.com/@peaceloverevolution"
+  title="Revolutionary Technologist. Ethereum Founding Member. Creator of DAS."
+  description="Anthony D'Onofrio"
+  author="Anthony D'Onofrio"
 %}
 
 He used to stand on street corners giving out "free hugs" from what I remember.  I'll have to ask him about that!
@@ -88,7 +88,7 @@ I stuck that epic rant into blog form a few days later:
   url="https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/"
   img="https://bobsummerwill.com/wp-content/uploads/2018/03/tribalism.jpg"
   title="A call for an end to tribalism in Ethereum"
-  site="bobsummerwill.com"
+  site="https://bobsummerwill.com"
   author="Bob Summerwill"
   date="March 1, 2018"
 %}
@@ -99,7 +99,7 @@ And that turned into my opening keynote at the very first [ETHCC](https://ethcc.
   url="https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/"
   img="https://bobsummerwill.com/wp-content/uploads/2018/03/mvimg_20180308_0926082152047230452517189.jpg"
   title="Ethereum Community Conference 2018"
-  site="bobsummerwill.com"
+  site="https://bobsummerwill.com"
   author="Bob Summerwill"
   date="March 8, 2018"
 %}

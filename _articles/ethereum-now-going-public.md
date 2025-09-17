@@ -6,5 +6,5 @@ author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2014/01/23/ethereum-now-going-public
   img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
-  site: ethereum.org
+  site: https://blog.ethereum.org
 ---

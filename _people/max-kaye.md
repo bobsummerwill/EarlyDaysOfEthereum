@@ -18,9 +18,10 @@ Max was mentioned in the [original BitcoinTalk](https://web.archive.org/web/2014
 
 We had two excellent guests on. Stephan Tual is the Chief Communications Officer for the Ethereum project, founder of the London Ethereum meetup and has played a crucial role in building out the Ethereum community. Max Kaye is a Australia-based developer focused on decentralized applications and the developer of Cryptonet, a library to build arbitrary blockchain-based structures ...
 
-{% include blog-embed.html 
-  url="https://epicenter.tv/episodes/016"
+{% include blog-embed.html
   title="Max Kaye & Stephan Tual: Ethereum and Decentralized Applications"
-  site="Epicenter"
+  site="https://epicenter.tv"
   date="April 21st, 2014"
+  url="https://epicenter.tv/episodes/016"
+  img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}

@@ -13,7 +13,7 @@ Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | rel
 
 [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) hosted this episode with [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/24A8B9IgfLQ"
 %}
 
@@ -58,7 +58,7 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 [[14:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=894s) **Bob:** No. He was at DEVCON1 doing a talk about Grants actually and I got my name on the screen.  I didn't get to go to London but I was on the screen as a named contributor to EthEmbedded.  But yeah, I didn't see him around in Ethereum that much, much beyond that kind of timeline.
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/4jGqmlA4KEY"
 %}
 

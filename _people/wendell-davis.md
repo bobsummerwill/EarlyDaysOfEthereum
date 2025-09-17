@@ -12,7 +12,7 @@ Wendell was mentioned in the [original BitcoinTalk](https://web.archive.org/web/
 
 He later worked on the devgrants program.
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/4jGqmlA4KEY"
 %}
 

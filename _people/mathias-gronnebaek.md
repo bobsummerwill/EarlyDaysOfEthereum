@@ -9,7 +9,7 @@ social:
   medium: https://medium.com/@mathias_61938
 ---
 
-{% include blog-embed.html
+{% include content-embed.html
   url="https://medium.com/@mathias_61938/behind-the-scenes-my-experience-in-the-founding-of-ethereum-a4a609b0657d"
   img="https://miro.medium.com/v2/resize:fill:64:64/1*f9UzOBGymqyU-rBlQtC-aQ.png"
   site="https://medium.com/@mathias_61938"

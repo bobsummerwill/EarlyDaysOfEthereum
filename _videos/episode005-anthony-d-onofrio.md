@@ -7,7 +7,7 @@ hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Texture was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."
 ---
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/7i7MJgXoXxk"
 %}
 
@@ -152,7 +152,7 @@ Aw
 [[6:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=411s) **Bob:**
 Something I've spotted going through making my notes is your Medium is called [Peace, Love, Revolution](https://medium.com/@peaceloverevolution).
 
-{% include blog-embed.html
+{% include content-embed.html
   url="https://medium.com/@peaceloverevolution"
   img="https://cdn-images-1.medium.com/fit/c/200/200/1*8QwQn6QwQwQwQwQwQwQwQw.jpeg"
   title="Anthony D'Onofrio"
@@ -200,7 +200,7 @@ Yeah. So DDP, [Gary](https://x.com/GaryLachance), the guy who runs that, he came
 [[9:55]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=595s) **Bob:**
 I'll drop some links on Twitter for that for anyone who hasn't seen Decentralized Dance Party, or you can go and have a Google on your own. It's quite exceptional.
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/JGuhailQK9c"
 %}
 
@@ -322,7 +322,7 @@ Yeah. I mean, it was as early as you could get. I mean, just by happenstance, ju
 [[17:38]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1058s) **Bob:**
 Yeah. Yeah. It's amazing.  Because yeah, so I was able to find that the video of you and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) at the Salon, which was beaming into the [Vancouver Decentral](https://www.dctrl.wtf/) there. And that was December the 15th, that was?
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/gqqv_xrnDJ0"
 %}
 

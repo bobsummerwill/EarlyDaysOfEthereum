@@ -16,7 +16,7 @@ There were three presentations that day:
 - *Writing Smart Contracts - [Joris Bontje]({{ '/people/joris-bontje/' | relative_url }})*
 - *Q&A - Jeff Wilcke*
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/AHAAktdxSOE"
 %}
 
@@ -27,6 +27,6 @@ By the second event in April the bar's occupancy was maxed out.
 Jarrad did early work on [Trust Davis](https://github.com/EtherCasts/trustdavis) and contributed to [Geth](https://github.com/ethereum/go-ethereum). In April 2014, he started work on an [ethereumj](https://github.com/ethereum/ethereumj) fork to add Android support, creating [ethereumj-android](https://github.com/status-im/ethereumj-personal/commit/1d3782c3be1e786da02b755dfd28a8c8b75b75f9).
 
 In May 2014, he started work on [Syng](https://github.com/status-im/syng-client/commit/e0221e5ce2f106a2d4ed31d5f6c256c0824f6944) which later became [Status](https://status.app). He ceased his other work and went full-time on Ethereum during Q1 2015.  Syng was a recipient of a devgrant which was mentioned in [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }})'s talk at DEVCON1:
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/4jGqmlA4KEY"
 %}

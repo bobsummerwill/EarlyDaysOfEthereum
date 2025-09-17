@@ -11,6 +11,6 @@ links:
 
 The second episode of the Early Days of Ethereum video series, independently produced by [Victor Wong](https://x.com/vic4wong), [Kieren James-Lubin](https://x.com/kjameslubin) and [Jim Hormuzdiar](https://x.com/JamshidHormuz), the co-Founders of [BlockApps](https://blockapps.net).
 
-{% include video-embed.html
+{% include content-embed.html
   src="https://www.youtube.com/embed/b0jpu6be4lI"
 %}

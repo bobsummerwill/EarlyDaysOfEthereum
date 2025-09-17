@@ -1,106 +1,63 @@
----
-layout: mercata
-title: "Mercata V2 Contest Kickoff: Bridge, Trade, Triumph"
-date: 2025-09-17
-youtube_id: rSfw2sgHVJE
-hosts: ["Bob Summerwill", "Victor Wong"]
-description: "Twitter Spaces which kicked off the second Mercata V2 competition"
----
-
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/rSfw2sgHVJE"
-%}
-
-Our long-awaited Mercata V2 contest started at 5pm ET on Wednesday 17th September 2025.  The winners will be announced on our 24th September Twitter Spaces exactly a week later.
-
-STRATO Mercata V2 is our completely revamped application, which is due to be released later this year.  The contest is using our testnet running the latest pre-release version.
-
-Here are instructions to get started:
-
-{% include content-embed.html
-  url="https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge"
-  img="https://www.stratomercata.com/lovable-uploads/74ce8343-acaf-41e9-9bb7-a99f53337158.png"
-  title='Announcing the Mercata V2 "Trading and Testing Challenge"'
-  site="https://stratomercata.com"
-  author="Bob Summerwill"
-  date="September 16, 2025"
-%}
-
-## Transcript
-
-
-<a id="introductions-small-talk"></a>
-
-[[1:19]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=79s) **Bob:**
-Can you hear me?  Can you hear me?
-
-[[1:28]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=88s) **Jaime:**
-Yes, I can. Excellent.
-
-[[1:30]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=90s) **Bob:**
-Excellent.
-
-[[0:18]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=18s) **Victor:**
+[Speaker 1] (0:18 - 1:23)
 Okay, can anyone confirm that they can see us on YouTube? Thank you, Michael. Can everyone confirm that they can see us on YouTube and Spaces?
 
 Michael, can you confirm you can hear us on YouTube?
 
-[[1:28]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=88s) **Jaime:**
+[Speaker 2] (1:28 - 1:31)
 You broke up for me quite a lot there, Victor, when you were speaking.
 
-[[1:33]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=93s) **Victor:**
+[Speaker 1] (1:33 - 4:58)
 Okay. Okay. So, Jamie, can you post this on our Twitter, the YouTube, and we'll get started shortly.
 
 Hey, MK, welcome. Glad you could join us. We're just going to wait a few more minutes and get everyone in.
 
 So, okay, we're just waiting a few more minutes for people to kind of start coming in. Thank you, everyone, for joining us. And we are super excited to announce this contest.
 
-[[5:43]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=343s) **Bob:**
+[Speaker 2] (5:43 - 6:19)
 Welcome, Yves. Stefan, do you want to give it maybe until 10 past, Victor, three minutes?
 
-[[6:21]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=381s) **Victor:**
+[Speaker 1] (6:21 - 6:21)
 Sure.
 
-[[6:24]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=384s) **Bob:**
+[Speaker 2] (6:24 - 7:00)
 Nice round number. So, on one of our Spaces not too long ago, where we were interviewing Texture, he berated us for talking about the weather when he joined. You remember that?
 
 We were talking about the turns of the season and when fall was starting and so on.
 
-[[7:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=421s) **Victor:**
+[Speaker 1] (7:01 - 7:04)
 I do not remember that, but...
 
-[[7:04]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=424s) **Bob:**
+[Speaker 2] (7:04 - 7:07)
 And he said we were old for talking about the weather.
 
-[[7:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=429s) **Victor:**
+[Speaker 1] (7:09 - 7:18)
 Well, we are old, but, you know, I guess... We're experienced.
 
-[[7:18]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=438s) **Bob:**
+[Speaker 2] (7:18 - 7:19)
 We're not old.
 
-[[7:25]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=445s) **Victor:**
+[Speaker 1] (7:25 - 7:29)
 Should we troll them by talking about the weather now or not? Yeah.
 
-[[7:31]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=451s) **Bob:**
+[Speaker 2] (7:31 - 7:33)
 Hey, Shiva, Tarzan, welcome.
 
-[[7:43]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=463s) **Victor:**
+[Speaker 1] (7:43 - 8:06)
 So, just for everyone's information, and since we're not going to talk about the weather, this is our first simulcast. It's happening on YouTube Live and Twitter Spaces. There was some behind the scenes wiring up of all this.
 
 And if anyone has poor audio or anything, please let us know and we'll try and rectify it next time.
 
-[[8:07]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=487s) **Bob:**
+[Speaker 2] (8:07 - 8:59)
 So, yeah, we're using StreamYard, which seems to be sort of the best answer there is, but not great either. Also, X do not make it easy to escape their walled garden. They really want you to do everything on Spaces.
 
 There isn't even functionality for downloading the audio afterwards natively. They do not want you to escape. However, we found lots of dodgy browser extensions that allow you to do that.
 
 So, that and command line tools. Just point out with Shiva, prize winning Shiva Tarzan in contest number one. And back for more in this second contest.
 
-[[9:00]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=540s) **Victor:**
+[Speaker 1] (9:00 - 9:03)
 Yes. And Justin, welcome.
 
-[[9:07]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=547s) **Bob:**
+[Speaker 2] (9:07 - 10:32)
 Okay. So, yeah, maybe we start. So, yeah.
 
 Okay. Hi, everyone. Good to have you here.
@@ -111,7 +68,7 @@ Makarta V2 is the new iteration of our application, of our network, which has be
 
 The focus for V2 is really about high quality, hard assets, specifically gold and silver.
 
-[[10:33]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=633s) **Victor:**
+[Speaker 1] (10:33 - 17:44)
 Hey, Bob. We're getting some feedback that your audio is coming in choppy for some reason, but mine seems to be okay. So, why don't I take it over from what you said?
 
 So, as Bob was saying, V2 is really an iteration of what we were doing before. We were kind of offering a lot of different RWAs before, and V2 is our way to kind of really focus on the ability to bring real-world assets and lend and borrow on those assets. So, one of the things that we're going to be testing in this iteration of the contest is really how it interacts with the external world, including things like bridging out and bridging in these different assets.
@@ -144,10 +101,10 @@ So, basically, all of those things are going to come at random times throughout 
 
 And then watch out for those because they could come at any time. So, with that, I think that's a, you know, high level overview of the contest. Bob, not sure if your audio is working better, but maybe you can chip in here and just test it out.
 
-[[17:45]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1065s) **Bob:**
+[Speaker 2] (17:45 - 17:59)
 Yeah, I'll try. Just let me say a little bit and maybe somebody can confirm if that audio is choppy or not still. Yeah, have a look maybe, Jeremy or Michael.
 
-[[18:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1081s) **Victor:**
+[Speaker 1] (18:01 - 18:58)
 Okay. Unfortunately, it sounds like your audio is still a little bit choppy today. We will work out the audio issues for later.
 
 But, yes, we'll get you some wired headphones, Bob. I think, you know, I think it is a technology problem right now. So, we look forward, the contest will run until the following Tuesday at 5pm.
@@ -158,5 +115,5 @@ Your feedback so far has been immensely helpful. And I think this is going to re
 
 And with that, happy hunting, everyone. Take care.
 
-[[19:16]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1156s) **Bob:**
+[Speaker 2] (19:16 - 19:17)
 Has the stream stopped?

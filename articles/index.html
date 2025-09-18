@@ -48,7 +48,11 @@ title: Articles
     {% assign sorted_articles = site.articles | sort: 'date' %}
     {% for article in sorted_articles %}
     <article class="article-preview">
-        <h2><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h2>
+        <h2>
+          <a href="{{ article.url | relative_url }}">
+            {{ article.title }}{% if article.alias %} ("{{ article.alias }}"){% endif %}
+          </a>
+        </h2>
         
         <div class="article-meta">
             {% if article.date %}

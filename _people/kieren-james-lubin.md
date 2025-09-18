@@ -1,6 +1,4 @@
 ---
-hidden: true
-
 name: Kieren James-Lubin
 description: Haskell client developer, Co-Founder of BlockApps
 photo: /images/berkeley.edu/2025.09.02/kieren-james-lubin.jpeg
@@ -46,6 +44,23 @@ Kieren was present in Zug for the "Red Wedding", travelling there with his fathe
 He attended the [Cryptoeconomicon 1](https://web.archive.org/web/20160421023643/http://www.cryptoeconomicon.com/) conference on January 26th to January 29th of 2015, which had a "Who's Who?" of speakers and attendees.
 
 Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/watch?v=x8jIUg5jXjg_) with Victor Wong and James Hormuzdiar at [DEVCON1 (snapshot)](https://web.archive.org/web/20151124053027/https://devcon.ethereum.org/).  The Haskell client and the software stack surrounding it was used as the client software for the first Blockchain-as-a-Service on Microsoft Azure which was also [announced at DEVCON1](https://www.youtube.com/watch?v=ExsTb0iglcs).  The talks were back-to-back on 10th November 2014.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/x8jIUg5jXjg"
+  title="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 10, 2015"
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/ExsTb0iglcs"
+  title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James Lubin, Jim Hormuzdiar"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 10, 2015"
+%}
+
 
 ## References
 

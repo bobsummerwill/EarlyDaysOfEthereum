@@ -48,6 +48,9 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title/
 
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 # Collections
 collections:
   articles:

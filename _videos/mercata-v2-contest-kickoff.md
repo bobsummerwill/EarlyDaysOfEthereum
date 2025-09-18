@@ -224,7 +224,7 @@ But, yes, we'll get you some wired headphones, [Bob]({{ '/people/bob-summerwill/
 
 So, we look forward, the contest will run until the following Tuesday at 5pm.  So, everyone, we look forward to seeing you participate in the contest. We look forward to seeing any of your comments. And please provide whatever feedback that you have on the [Telegram feed](https://t.me/stratomercata).
 
-Your feedback so far has been immensely helpful. And I think this is going to really make Strato Mercado into an amazing product. So, thank you very much.
+Your feedback so far has been immensely helpful. And I think this is going to really make [STRATO Mercata](https://stratomercata.com) into an amazing product. So, thank you very much.
 
 And with that, happy hunting, everyone. Take care.
 

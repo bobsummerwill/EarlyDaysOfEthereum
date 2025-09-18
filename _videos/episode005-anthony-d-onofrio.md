@@ -1,5 +1,5 @@
 ---
-title: Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
+title: "Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio"
 date: 2025-09-03
 youtube_id: 7i7MJgXoXxk
 guests: ["Anthony D'Onofrio"]
@@ -854,7 +854,7 @@ You had [Gav]({{ '/people/gavin-wood/' | relative_url }}) incorporating Ethereum
 
 Most of those ETHDEV ones were kind of co-founded by [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and [Gav]({{ '/people/gavin-wood/' | relative_url }}) and [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) and [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) kind of group.
 
-Yeah, it was only the Toronto one there where it was that I could see [Anthony]({{ '/people/anthony-di-iorio/' | relative_url }}) was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) and [Taylor]({{ '/people/taylor-gerring/' | relative_url }}). But yeah, when you'd had the crowd sale and the Stiftung had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
+Yeah, it was only the Toronto one there where it was that I could see [Anthony]({{ '/people/anthony-di-iorio/' | relative_url }}) was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) and [Taylor]({{ '/people/taylor-gerring/' | relative_url }}). But yeah, when you'd had the crowd sale and the [Stiftung](({{ '/people/stiftung-ethereum/' | relative_url }})) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
 
 And in Cryptopians, it talks about [Gav]({{ '/people/gavin-wood/' | relative_url }}) maybe wanting to like grab all of the money straight into DEV, but then it's like, that's probably not legal and it's probably not a good idea and [Joe]({{ '/people/joseph-lubin/' | relative_url }}) wanting to do it sort of a milestone based slow delivery, which I think what it sort of ended up being. But you did have this sort of weird situation where you'd say, "oh, do you work for the Ethereum Foundation?" But very few people actually work for the Ethereum Foundation.  Most people were actually working as staff or contractors for these for-profit legal entities, which were sort of doing the work.
 

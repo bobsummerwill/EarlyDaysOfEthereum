@@ -1,5 +1,6 @@
 ---
-title: EthSuisse
+title: Ethereum Switzerland GmbH
+alias: "EthSuisse"
 date: 2014-02-28
 description: 'Ethereum Switzerland GmbH was a for-profit "Ethereum Company" which was incorporated in Zug in February 2014'
 ---

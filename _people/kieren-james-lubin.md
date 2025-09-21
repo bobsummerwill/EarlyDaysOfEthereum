@@ -9,7 +9,7 @@ social:
   linkedin: https://www.linkedin.com/in/kjameslubin/
   youtube: https://www.youtube.com/@KierenJames-Lubin
   github: https://github.com/kjameslubin
-
+hidden: true
 ---
 
 Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Ethereum client. Host of The Early Days of Ethereum video series.  Son of [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}).  Was present at "Red Wedding" but involved in Ethereum in NYC earlier.

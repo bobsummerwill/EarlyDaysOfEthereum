@@ -210,33 +210,24 @@ It's funny. I didn't really understand the decentralized thing at that point. I 
 [[10:19]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=619s) **Bob:**
 For sure. So yeah, that's [Gary Lachance](https://x.com/GaryLachance), who was a fellow Vancouverite with me. He was, funnily enough, in a photo for the very first item I could find about [Vancouver Decentral](https://www.dctrl.wtf/), the whole [Decentral](https://decentral.ca/) Toronto / Vancouver thing.
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://www.straight.com/life/777136/decentral-vancouver-incubates-bitcoin-community" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://www.straight.com/files/v3/styles/gs_large/public/2014/11/COL_TechDecentral_2449.jpg?itok=nt3kcSQC" alt="Decentral Vancouver members" style="width: 100%; height: 250px; object-fit: cover; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Decentral Vancouver incubates Bitcoin community</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">Decentral Vancouver is a community incubator for disruptive and decentralized technology that is ground zero for the local cryptocurrency scene.</p>
-                <span style="font-size: 12px; color: #86868b;">www.straight.com • Nov 26, 2014</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://www.straight.com/life/777136/decentral-vancouver-incubates-bitcoin-community"
+  img="https://www.straight.com/files/v3/styles/gs_large/public/2014/11/COL_TechDecentral_2449.jpg?itok=nt3kcSQC"
+  title="Decentral Vancouver incubates Bitcoin community"
+  description="Decentral Vancouver is a community incubator for disruptive and decentralized technology that is ground zero for the local cryptocurrency scene."
+  site="www.straight.com"
+  date="Nov 26, 2014"
+%}
 
 Gary was in that photo for the first one. Maybe well-known as well now for Dogeclaren. So there is the Doge-wrapped McLaren, which travels around many conferences where they can get financial support for that.
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/dogeclaren" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/profile_banners/1466979976150929411/1638663275/1500x500" alt="Dogeclaren banner" style="width: 100%; height: 250px; object-fit: cover; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">✨Dogeclaren✨ (@dogeclaren) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">✨Raising Awareness Worldwide ✨ Doge Consciousness Accelerator ✨ DM @garylachance for sponsorship and media inquiries✨</p>
-                <span style="font-size: 12px; color: #86868b;">x.com</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/dogeclaren"
+  img="https://pbs.twimg.com/profile_banners/1466979976150929411/1638663275/1500x500"
+  title="✨Dogeclaren✨ (@dogeclaren) on X"
+  description="✨Raising Awareness Worldwide ✨ Doge Consciousness Accelerator ✨ DM @garylachance for sponsorship and media inquiries✨"
+  site="x.com"
+%}
 
 Yeah, Gary's a great guy.
 
@@ -378,18 +369,14 @@ Maslow. The hierarchy.
 [[22:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1355s) **Bob:**
 Yeah, Maslow's, right? [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). You know, I remember a number of times saying, you know, it's frankly obscene given all the resources that we have in the world and how, you know, how much more there is than was in previous years.  It's obscene that people should be like worried about housing or education or healthcare or, you know, just these basic things, right? And how wonderful would it be if you could like yank up that base layer a little bit so that people are not like living in this fearful place of powerlessness, but instead can be like not worrying about that shit and not having to make these compromised bad decisions and everything.  But just if you could do what you love, what a world that would be.
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1200644988566028290" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/profile_banners/1361722422/1734212132/600x200" alt="Bob Summerwill banner" style="width: 100%; height: 250px; object-fit: cover; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">Because we already live in a world of abundance and it is obscene that anybody on the planet should worry about food, health and shelter in 2019. Let alone in the USA. But that is our reality. Let's fix it. Please. We can. That is why I am involved with blockchain.</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Nov 29, 2019</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1200644988566028290"
+  img="https://pbs.twimg.com/profile_banners/1361722422/1734212132/600x200"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="Because we already live in a world of abundance and it is obscene that anybody on the planet should worry about food, health and shelter in 2019. Let alone in the USA. But that is our reality. Let's fix it. Please. We can. That is why I am involved with blockchain."
+  site="x.com"
+  date="Nov 29, 2019"
+%}
 
 [[23:33]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1413s) **Texture:**
 Yeah. And I'm a lot less idealistic about it now after the last decade for a lot of reasons, but, you know, the marshmallow test is real and you can create really good technologies and really good user experiences and as many guardrails as you can for people. But at the end of the day, there's motherfuckers that are going to eat the marshmallow before they even hear the rules, you know, and then they'll do it again and again.  So, you know, I think there's a lot of...
@@ -530,93 +517,69 @@ So like I was there day one. I was doing, I was making sure like, you know, firs
 So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
 *(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963986588872110163" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/G0F6wFOb0AAN2CH?format=png&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">I also JUST connected with Ryan Taylor (@AdjyLeak) after having found his name in 2018 on an early website snapshot but having had zero information on him all that time ...</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 5, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963986588872110163"
+  img="https://pbs.twimg.com/media/G0F6wFOb0AAN2CH?format=png&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="I also JUST connected with Ryan Taylor (@AdjyLeak) after having found his name in 2018 on an early website snapshot but having had zero information on him all that time ..."
+  site="x.com"
+  date="Sep 5, 2025"
+%}
 
 <br/>
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963355821754257518" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/Gz89o1cbkAElOK5?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">The very earliest website still on @internetarchive.  That was 6th Jan 2014</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963355821754257518"
+  img="https://pbs.twimg.com/media/Gz89o1cbkAElOK5?format=jpg&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="The very earliest website still on @internetarchive.  That was 6th Jan 2014"
+  site="x.com"
+  date="Sep 3, 2025"
+%}
 
 <br/>
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963356299045065099" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/Gz8-JRFaIAANvBe?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;"> This was 11th Jan 2014:</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963356299045065099"
+  img="https://pbs.twimg.com/media/Gz8-JRFaIAANvBe?format=jpg&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="This was 11th Jan 2014:"
+  site="x.com"
+  date="Sep 3, 2025"
+%}
 
 <br/>
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963356772401606740" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/Gz8-knhbcAAcbqa?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">25th Jan 2014:</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963356772401606740"
+  img="https://pbs.twimg.com/media/Gz8-knhbcAAcbqa?format=jpg&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="25th Jan 2014:"
+  site="x.com"
+  date="Sep 3, 2025"
+%}
 
 <br/>
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963357732976890025" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/Gz8_btNb0AAEg0U?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">8th February 2014:</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963357732976890025"
+  img="https://pbs.twimg.com/media/Gz8_btNb0AAEg0U?format=jpg&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="8th February 2014:"
+  site="x.com"
+  date="Sep 3, 2025"
+%}
 
 <br/>
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1963358456683065579" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/media/Gz9AE2WbkAEiCHn?format=jpg&name=small" alt="Early Ethereum website snapshot" style="width: 100%; height: auto; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">3rd March 2014:</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 3, 2025</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1963358456683065579"
+  img="https://pbs.twimg.com/media/Gz9AE2WbkAEiCHn?format=jpg&name=small"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="3rd March 2014:"
+  site="x.com"
+  date="Sep 3, 2025"
+%}
 
 Right. So I was a designer, full stack developer. So my, my skill was I could take your idea and I could, I could make it look like it existed forever.
 
@@ -686,18 +649,14 @@ There's bizdev sort of stuff. He said he was, he was talking to people, potentia
 
 And I mean, uh, in terms of [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), it took me a lot of years to really understand [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), shall we say.
 
-<div class="link-preview-card" style="width: 75%;">
-    <a href="https://x.com/BobSummerwill/status/1574207436407590912" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #e1e5e9; border-radius: 8px; overflow: hidden; background: white;">
-            <img src="https://pbs.twimg.com/profile_banners/1361722422/1734212132/600x200" alt="Bob Summerwill banner" style="width: 100%; height: 250px; object-fit: cover; display: block;">
-            <div style="padding: 12px;">
-                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600; line-height: 1.3; color: #1d1d1f;">Bob Summerwill (@BobSummerwill) on X</h3>
-                <p style="margin: 0 0 8px 0; font-size: 14px; line-height: 1.4; color: #6e6e73;">"When someone shows you who they are, believe them the first time." - Maya Angelou" This has been my failure. I have always tried to think the best of everyone in the blockchain ecosystem, in-spite of their actions.</p>
-                <span style="font-size: 12px; color: #86868b;">x.com • Sep 25, 2022</span>
-            </div>
-        </div>
-    </a>
-</div>
+{% include content-embed.html
+  url="https://x.com/BobSummerwill/status/1574207436407590912"
+  img="https://pbs.twimg.com/profile_banners/1361722422/1734212132/600x200"
+  title="Bob Summerwill (@BobSummerwill) on X"
+  description="\"When someone shows you who they are, believe them the first time.\" - Maya Angelou\" This has been my failure. I have always tried to think the best of everyone in the blockchain ecosystem, in-spite of their actions."
+  site="x.com"
+  date="Sep 25, 2022"
+%}
 
 [[47:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2821s) **Texture:**
 Yeah. You, you know, I defended you on that because I think you're like a really sweet guy and I think I understand your perspective. So whether or not I like [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), I'm going to come defend you.

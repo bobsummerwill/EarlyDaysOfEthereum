@@ -23,7 +23,10 @@ We suggest that you start at the [Victor's welcome](#victor-welcome).
     <h2>Contents</h2>
     <ul>
         <li><a href="#small-talk-waiting-for-attendees">Small talk. Waiting for attendees</a></li>
-        <li><a href="#victor-welcome">Victor's welcome</a></li>
+        <li><a href="#victor-introduction">Victor's introduction</a></li>
+        <li><a href="#trading-prize">Trading prize</a></li>
+        <li><a href="#exploit-and-suggestion">Exploit and improvement suggestion prizes</a></li>
+        <li><a href="#wrapup">Wrap-up, heading to TOKEN2049</a></li>
     </ul>
 </div>
 
@@ -47,13 +50,13 @@ Okay, I hear you. I'm going to drop that. I hear some echo.
 
 Okay, yeah. Well, that echoes from my laptop, I think.
 
-[[0:55]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=55s) **Michael:**
+[[0:55]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=55s) **Jaime:**
 Cool. I'm going to mute and then try the Twitter audio.
 
 [[1:14]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=74s) **Victor:**
-Oh, can you confirm, Kim?
+Oh, can you confirm, Jaime?
 
-[[1:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=77s) **Michael:**
+[[1:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=77s) **Jaime:**
 It says the stream hasn't started yet since it's scheduled for broadcast at 5 on Twitter.
 
 [[1:24]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=84s) **Victor:**
@@ -61,14 +64,14 @@ Oh, interesting. So I see a preview. Yeah, let's check at 5.
 
 But you can see it on YouTube, right?
 
-[[1:36]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=96s) **Michael:**
+[[1:36]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=96s) **Jaime:**
 Let me load YouTube. I'm just going to mute. Audio is good on YouTube and everything.
 
-[Speaker 2] (1:50 - 2:08)
+[[1:50]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=110s) **Victor:**
 Okay, let's just wait until 5 and just make sure everything comes up. The tube. Things can stop in the tubes.
 
 [[2:11]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=131s) **Kieren:**
-At some point in my life, I was friends with a British person who made reference to the tube, but it definitely was pronounced tube, T-H-U-B-E.
+At some point in my life, I was friends with a British person who made reference to The Tube, but it definitely was pronounced tube, T-H-U-B-E.
 
 [[2:28]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=148s) **Victor:**
 Quite likely, yes.
@@ -119,7 +122,7 @@ Spaces are no video, but they're like a little more interactive. Yeah. The live 
 
 Yes. Like I'm just sort of looking back at myself. And it has views on it kind of, but that's it.
 
-Okay, I see some comments. Hey, Michael. Hey, Strato Mercado.
+Okay, I see some comments. Hey, Michael. Hey, STRATO Mercata.
 
 Appreciate it. Yeah, yeah, yeah.
 
@@ -147,20 +150,20 @@ No, it does not. It definitely does not.
 [[5:57]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=357s) **Kieren:**
 I feel like let's just – Okay, I think we can get started now.
 
-<a id="victor-welcome"></a>
+<a id="victor-introduction"></a>
 
-### Victor's welcome
+### Victor's introduction
 
 [[6:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=361s) **Victor:**
 Let me just share my screen. So, thank you everyone for joining. If there are any AV audio issues, if people were on last week, we were still trying to figure out our whole audio visual setup.
 
 So, we are continuing that journey. So, if there's any problems, please let us know. Post on our Telegram or on any comment that's convenient.
 
-So, today is a really exciting episode. We are announcing the winners of our Mercado V2 trading, bridging, and testing challenge. And yeah, it's been a really exciting time.
+So, today is a really exciting episode. We are announcing the winners of our Mercata V2 trading, bridging, and testing challenge. And yeah, it's been a really exciting time.
 
-I am filling in for Bob Summerill, our normal host, who is on a long delayed digital detox as well as honeymoon. So, yeah, well-deserved break to you, Bob. Hope you're not watching, but you catch up later.
+I am filling in for Bob Summerwill, our normal host, who is on a long delayed digital detox as well as honeymoon. So, yeah, well-deserved break to you, Bob. Hope you're not watching, but you catch up later.
 
-And with me, I have Kiran James-Lupin, our CEO and head of – and whale on Strato Mercado testnet. How's everything going with you today, Kiran?
+And with me, I have Kieren James Lubin, our CEO and head of – and whale on STRATO Mercata testnet. How's everything going with you today, Kieren?
 
 [[7:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=429s) **Kieren:**
 You know, good. I feel like shark is better than whale for this.
@@ -180,7 +183,7 @@ So, we had – and this was a much – Oh, July. Thank you. Back in July.
 
 Time is going so fast. And this challenge was particularly hard because we want to kind of test the application and simulate real-world events. So, anyone that was following in the contest channel could see that there were special events that I triggered on the platform where there were sudden price jumps, there were airdrops, there were all kinds of different events that affected the flow of the contest and made different opportunities both on the downside and upside.
 
-And Karen, can you confirm with everyone, I never shared when those events were happening ahead of time. It's true.
+And Kieren, can you confirm with everyone, I never shared when those events were happening ahead of time. It's true.
 
 [[8:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=531s) **Kieren:**
 I even – I think Victor may have specifically punished me, even though I was ineligible for the prize. Like, you know, my gym hours are kind of predictable, and I sense that Victor put some of them when he knew I would like, you know, be on the treadmill or lifted some weights or something and unable to reap the profits that I normally do.
@@ -192,15 +195,19 @@ We gave everyone one of each assets, and they traded. And also, we basically had
 
 We gave people assets on the Sepolia, Ethereum, Sepolia testnet that they had to bridge into the application. Like I said, we had these random events that happened throughout the contest. And then instead of giving, like, generic bug prizes, we gave two sort of bug prizes, one for the worst export, which was something that caused loss of funds, and then a best suggested improvement prize, which is a specific improvement that would make it easier to use the application.
 
-And we internally kind of rated all the submissions that we got, and then we came up with the winners. So, with that, I'm going to share a screen capture of the leaderboard as of yesterday, 5 p.m., when the contest ended. Karen, you are at the top, but as it says, you are prize ineligible.
+And we internally kind of rated all the submissions that we got, and then we came up with the winners. So, with that, I'm going to share a screen capture of the leaderboard as of yesterday, 5 p.m., when the contest ended. Kieren, you are at the top, but as it says, you are prize ineligible.
 
 Can you read out the name of who got the prize?
 
+<a id="trading-prize"></a>
+
+### Trading prize
+
 [[10:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=654s) **Kieren:**
-Yeah, I don't know quite how to pronounce this, but it's Aspa.
+Yeah, I don't know quite how to pronounce this, but it's Asba.
 
 [[10:59]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=659s) **Victor:**
-I'm going to go with Aspa. Aspa. Yeah.
+I'm going to go with Asba. Asba. Yeah.
 
 They gave you a good run for your money, though, I will say.
 
@@ -219,15 +226,15 @@ One gave you, I guess it was like half an ETH, and the other gave some amount of
 
 So, there were two addresses you had to input, and I think people got confused. So, the first step is bridging in everything. And then I did find, as with the last contest, that, so generally speaking, there are kind of two prices in our system.
 
-There are Oracle, sort of like governance-controlled, if you will, spot prices, and that's what drives liquidations and the valuation of all the assets in there. And sort of with that, you know, maybe the one way to think of it is like, if this asset existed anywhere in the world, what would it be worth? Like, people know what gold is worth.
+There are oracle, sort of like governance-controlled, if you will, spot prices, and that's what drives liquidations and the valuation of all the assets in there. And sort of with that, you know, maybe the one way to think of it is like, if this asset existed anywhere in the world, what would it be worth? Like, people know what gold is worth.
 
 [[13:14]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=794s) **Victor:**
 So, if you withdrew the asset, you could sell it for roughly around that.
 
 [[13:18]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=798s) **Kieren:**
-Probably the spot price, right. Whereas swap pools, for instance, are intrinsic to the system and theoretically should converge to the Oracle price when you're really running the thing, like, because you could bridge in and out. And so, there would be an ARB, like trading across two exchanges, too.
+Probably the spot price, right. Whereas swap pools, for instance, are intrinsic to the system and theoretically should converge to the Oracle price when you're really running the thing, like, because you could bridge in and out. And so, there would be an arb, like trading across two exchanges, too.
 
-There would be an ARB if the spot price diverges from the, sorry, if the pool price diverges from the spot price that you could take advantage of. And there was actually, there was a little bit of ARB in the system. So, even before any of these special events, sometimes like the ETH price would be too high because people are excited about rotating into ETH or wrapped Bitcoin got high because people rotated into that, for instance, and there wasn't that much way to bring the price down.
+There would be an arb if the spot price diverges from the, sorry, if the pool price diverges from the spot price that you could take advantage of. And there was actually, there was a little bit of arb in the system. So, even before any of these special events, sometimes like the ETH price would be too high because people are excited about rotating into ETH or wrapped Bitcoin got high because people rotated into that, for instance, and there wasn't that much way to bring the price down.
 
 There was not too much sell pressure on it, for instance. So, it kind of stayed high, I think, but mostly our prices had the pool price match the spot price, except when Victor, so, Victor manipulated both as part of the contest, of course, at different times. So, moving the spot price up lets people sell.
 
@@ -260,11 +267,11 @@ Yeah. And I think one thing that led to part of the stability is in the last con
 That's right, yeah. It lets you know when to enter versus not. I think a lot of DeFi encourages really rapid buying behavior, especially like the launch pads, like pump.fun or whatever. It's just about who gets in there first. And our system is mostly not like that. So we want that spot price there just so people know if there's big divergence, there's profit to be made and there usually shouldn't be a big divergence and get good execution and so on.
 
 [[17:57]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1077s) **Victor:**
-Yeah, so congratulations to Asba. I guess that's how we say it. I'm going to excuse us if we're saying this wrong, who is going to win 500 USDC plus CADA points.
+Yeah, so congratulations to Asba. I guess that's how we say it. I'm going to excuse us if we're saying this wrong, who is going to win 500 USDC plus CATA points.
 
 And we have a little bit of information from Asba how they did it. Maybe you can react to it, Kiran. So their overall strategy was to diversify, leverage and wait for the right moment to be aggressive.
 
-Sounds similar to what you were doing, Kiran. And then, so what they said is, make sure to take advantage of all the functionality Strong Mercado has to offer from bridging to swapping to borrowing and lending to liquidity provisions and liquidations. So did you do any liquidations, Kiran?
+Sounds similar to what you were doing, Kiran. And then, so what they said is, make sure to take advantage of all the functionality STRATO Mercata has to offer from bridging to swapping to borrowing and lending to liquidity provisions and liquidations. So did you do any liquidations, Kieren?
 
 Or were you just liquidating?
 
@@ -281,7 +288,7 @@ So we actually have two borrowing paths in the app. So we have a CDP mint. That'
 
 It's technically borrowed when you put collateral in. And we have like a lending pool that's more like the secondary market for USDST. So the lending pool allows you to sort of spread the risk across a bunch of collateral. So if you had some collateral that's like way underwater, if it were by itself, that's fine potentially in the lending pool, whereas the CDP is a little more conservative.
 
-And so, you know, theoretically, if you're going to have a diversified portfolio and want to borrow, you might be better off using the lending pool than the CDP mechanism. It sounds like that's what Aspa did.
+And so, you know, theoretically, if you're going to have a diversified portfolio and want to borrow, you might be better off using the lending pool than the CDP mechanism. It sounds like that's what Asba did.
 
 [[20:49]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1249s) **Victor:**
 And I'm going to add something to kind of relate to what you just said. So they said they were conservative with their borrowing, but they stumbled upon an Ethereum price dip event. Since they were keeping their loans healthy, they were able to borrow more at that point and use it to conduct liquidations.
@@ -292,7 +299,7 @@ Interesting. Yeah, so I just looped at those profit taking times. But yes, borro
 We've kept flash loans out of our system just because they're kind of complicated expert feature, but it's a little bit the same, right? Like you need, sometimes you just need, you may be in a healthy situation, but you need some liquidity to liquidate and realize those instant profits. And so, yeah, it's a good way to do it.
 
 [[21:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1295s) **Victor:**
-And the last comment I'm going to say from Aspa is perhaps my most unique decision was to spend time in the higher interest, lower collateral lending pool instead of the low fee pool to increase leverage and have more access to capital at a given health factor while decreasing exposure to single asset price dips.
+And the last comment I'm going to say from Asba is perhaps my most unique decision was to spend time in the higher interest, lower collateral lending pool instead of the low fee pool to increase leverage and have more access to capital at a given health factor while decreasing exposure to single asset price dips.
 
 [[21:58]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1318s) **Kieren:**
 Yeah, I guess that's what I was saying too. So that is a reason to have, we had some debate internally on like, okay, so we've got a CDP and a lending pool. They're kind of both borrowing.
@@ -306,9 +313,13 @@ I think for convenience sake, the lending pool is more convenient. You can kind 
 [[22:55]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1375s) **Victor:**
 Yeah, I mean, it's a pretty good strategy to kind of look for those profit opportunities. I didn't participate this time because I was doing those special events, but we had employees participating in addition to community event, community people. And I don't think that many people actually pursued that strategy about looking for high interest in the pools.
 
-So that was a good one and well-deserved ASPA congratulations. Let's talk about the next two prizes. So the next two prizes were sort of technical bug-fighting prizes.
+<a id="exploit-and-suggestion"></a>
 
-Worst Exploit, which had the biggest prize, it's 1,500 USDC and CADA points. And what we are awarding this prize to Data Juice for this one, no CSRF mechanism.
+### Exploit and improvement suggestion prizes
+
+So that was a good one and well-deserved Asba congratulations. Let's talk about the next two prizes. So the next two prizes were sort of technical bug-fighting prizes.
+
+Worst Exploit, which had the biggest prize, it's 1,500 USDC and CATA points. And what we are awarding this prize to Data Juice for this one, ["no CSRF mechanism"](https://github.com/blockapps/strato-mercata-opensource/issues/114).
 
 [[23:48]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1428s) **Kieren:**
 Wait, wait, wait, let me question that. I was pronouncing it Data Juice in my head. Do you think it's data?
@@ -327,10 +338,10 @@ Yes, I think it's D-A-D-A, yes. It is D-A, it's probably Dada Juice. I think you
 By the way, this was reported in the first contest. We had actually fixed it and then there was a regression. But because it came back, we decided that, you know, that even though it was reported and we fixed it, it deserves a prize because it is theoretically possible to cause loss of funds doing this because you could kind of do like an injection or a man-in-the-middle to steal someone else's funds as you're doing a transaction.
 
 [[24:47]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1487s) **Kieren:**
-Yeah, I think it's like, if you're logged in already and you visit some other site that assumes that every person visiting that site is logged into Mercado, it could try to steal funds, get you to click something and get in there. So it's, yeah, it's a good one to, and we're appreciative of, you know, finding any possible way where there might be loss of funds.
+Yeah, I think it's like, if you're logged in already and you visit some other site that assumes that every person visiting that site is logged into Mercata, it could try to steal funds, get you to click something and get in there. So it's, yeah, it's a good one to, and we're appreciative of, you know, finding any possible way where there might be loss of funds.
 
 [[25:12]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1512s) **Victor:**
-Yeah, and, you know, calling us into account, like, you know, sometimes we make mistakes as we kind of build very, very quickly. I'll also mention some people asked in the repo, in the open source repo where this was posted, why there were still kind of issues from the first contest. It's because we actually continue to do our development in a closed source repo, but we did migrate all those bugs over there.
+Yeah, and, you know, calling us into account, like, you know, sometimes we make mistakes as we kind of build very, very quickly. I'll also mention some people asked in the repo, in the open source repo where this was posted, why there were [still kind of issues from the first contest](https://github.com/blockapps/strato-mercata-opensource/issues). It's because we actually continue to do our development in a closed source repo, but we did migrate all those bugs over there.
 
 So none of that information was lost, but it did appear that, you know, not much had changed, even though if you actually use the application, a ton had changed since. You know, I think we, I think we closed more than 50 issues, if I recall, since July.
 
@@ -338,11 +349,15 @@ So none of that information was lost, but it did appear that, you know, not much
 Yeah, yeah, that's right. And we'll open the other one up soon enough. There are some, you know, relatively minor blockers to doing so, but we're knocking them down.
 
 [[26:03]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1563s) **Victor:**
-And so a little thing that, now let's see if I can pronounce the name, the improvement prize came here, you know, a suggestion to add a confirmation model before actions into the liquidity pool. Currently there's no confirmation. You just press the button and it goes.
+And so a little thing that, now let's see if I can pronounce the name, the improvement prize came here, you know, a suggestion to [add a confirmation model before actions into the liquidity pool](https://github.com/blockapps/strato-mercata-opensource/issues/120). Currently there's no confirmation. You just press the button and it goes.
 
 And we did get some feedback from some other people that this was a bit confusing. So also the winner of this prize is Dada Juice for another 500. So congratulations Dada Juice for all your contributions.
 
-This was a particularly good suggestion that we will implement before making it public. So that's all the announcements for today. Karen, anything you'd like to add about this contest or what's coming down the pipeline?
+This was a particularly good suggestion that we will implement before making it public. So that's all the announcements for today. Kieren, anything you'd like to add about this contest or what's coming down the pipeline?
+
+<a id="wrapup"></a>
+
+### Wrap-up, heading to TOKEN2049
 
 [[26:56]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1616s) **Kieren:**
 Oh yeah, it's a fun one. Got to test more of the app. Interested if anyone has suggestions on like contest setup in the future.
@@ -361,14 +376,16 @@ Although once it's live, it's like all a contest, right? But, you know, just tha
 
 I mentioned to just make it real, you know, just got to do all of the, you know, we're trying to be really serious, both about kind of low level security that could lead to loss of funds, but also things that are unintuitive. You know, we're trying to, I think most DeFi has pretty sharp edges. You know, it's mostly expert products, not easy to use.
 
-We're trying to make it simple, barely easy to use to some extent consumer protecting, but still fun for the DGems out there.
+We're trying to make it simple, barely easy to use to some extent consumer protecting, but still fun for the degens out there.
 
 [[29:21]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1761s) **Victor:**
-Yeah, and I will say we got some amazing feedback this time, both, you know, on the repo and privately, you know, thanks to everyone that participated, provided us that information. Just for everyone to know, we're going to be at Token, Kieran and I will both be at Token 2049 in Singapore next week. If you're around, please ping us on Telegram.
+Yeah, and I will say we got some amazing feedback this time, both, you know, on the repo and privately, you know, thanks to everyone that participated, provided us that information. Just for everyone to know, we're going to be at Token, Kieren and I will both be at [TOKEN2049 in Singapore](https://www.asia.token2049.com/) next week. If you're around, please ping us on Telegram.
 
-We'd love to get together with you, but we won't be having a Spaces next week. So there will be a week delay from our next Spaces, though we have a lot to talk about, including a short preview, you know, Vitalik's announcement that low risk DeFi is the future of Ethereum, and we believe the future of blockchain projects in general. So we'll talk a little bit more about that and maybe a recap of Token 2049 at our next Spaces.
+We'd love to get together with you, but we won't be having a Spaces next week. So there will be a week delay from our next Spaces, though we have a lot to talk about, including a short preview, you know, Vitalik's announcement that [low risk DeFi is the future of Ethereum](https://x.com/VitalikButerin/status/1969522612750672132), and we believe the future of blockchain projects in general. So we'll talk a little bit more about that and maybe a recap of [TOKEN2049](https://www.asia.token2049.com/) at our next Spaces.
 
 Thanks for everyone that's joining. Take care.
 
 [[30:13]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1813s) **Kieren:**
 The truth is out there.
+
+{% include twitter-embed.html url="https://x.com/VitalikButerin/status/1969522612750672132" %}

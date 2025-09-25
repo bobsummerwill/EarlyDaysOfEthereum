@@ -31,21 +31,12 @@ See also the partial public histories in:
 
 Ethereum: Now Going Public
 
-- **Introducing Ethereum, 19th Feb 2014**
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/87131363"
-  title="Introducing Ethereum"
-  author="Ethereum"
-  date="February 19, 2014"
-%}
-
 - **North American Bitcoin Conference, Miami, 26th January 2014**
 
 {% include content-embed.html
   src="https://player.vimeo.com/video/88664033"
   title="Vitalik Buterin introduces Ethereum at Bitcoin Miami 2014"
-  author="Ethereum"
+  author="Vitalik Buterin"
   date="January 26, 2014"
 %}
   - [Vitalik Buterin (Ethereum), a star is born](https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/) – North American Bitcoin Conference in Miami (Jan 2014)
@@ -58,13 +49,46 @@ Ethereum: Now Going Public
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
-**The upcoming crypto-singularity - Coinscrum**, Stephan Tual, 10th March 2014
+- **Introducing Ethereum, 19th February 2014**
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/87131363"
+  title="Introducing Ethereum"
+  author="Vitalik Buterin"
+  date="February 19, 2014"
+%}
+
+- **The upcoming crypto-singularity - Coinscrum, Stephan Tual, 10th March 2014**
 
 {% include content-embed.html
   src="https://player.vimeo.com/video/88661838"
   title="The upcoming crypto-singularity - Coinscrum"
-  author="Ethereum"
+  author="Stephan Tual"
   date="March 10, 2014"
+%}
+
+- **Ethereum – Your Turn (Charles Hoskinson voiceover), 12th March 2014**
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/88959651"
+  title="Ethereum – Your Turn"
+  author="Charles Hoskinson"
+  date="March 12, 2014"
+%}
+
+- **Duncan Rawlinson, 9th April 2014 (something just before the Expo?)**
+  - [Link](https://duncan.co/ethereum/)
+
+- **Bitcoin Expo 2014 Toronto – 11th to 13th April 2014**
+  - [Archived Website](https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/)
+
+- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}), 18th April 2014**
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/92338385"
+  title="Ethereum Video Background loop for Meetup groups and presentations"
+  author="Richard Stott"
+  date="April 18, 2014"
 %}
 
 - **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
@@ -91,42 +115,6 @@ Ethereum: Now Going Public
   title="Crypto Hackathon – Bitcoin Expo 2014!"
   date="May 2, 2014"
 %}
-
-- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}), 18th April 2014**
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/92338385"
-  title="Ethereum Video Background loop for Meetup groups and presentations"
-  author="Richard Stott"
-  date="April 18, 2014"
-%}
-
-- **Some people didn't make the conference, but did make the beach house.**
-  - *Who was at each?*
-
-- **The upcoming crypto-singularity – Coinscrum (Stephan Tual), 10th March 2014**
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/88661838"
-  title="The upcoming crypto-singularity - Coinscrum"
-  author="Ethereum"
-  date="March 10, 2014"
-%}
-
-- **Ethereum – Your Turn (Charles Hoskinson voiceover), 12th March 2014**
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/88959651"
-  title="Ethereum – Your Turn"
-  author="Ethereum"
-  date="March 12, 2014"
-%}
-
-- **Duncan Rawlinson, 9th April 2014 (something just before the Expo?)**
-  - [Link](https://duncan.co/ethereum/)
-
-- **Bitcoin Expo 2014 Toronto – 11th to 13th April 2014**
-  - [Archived Website](https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/)
 
 - **What is Ethereum? (Stephan Tual, CCO), 4th June 2014**
 

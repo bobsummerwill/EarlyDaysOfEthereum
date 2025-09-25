@@ -32,13 +32,22 @@ See also the partial public histories in:
 Ethereum: Now Going Public
 
 - **Introducing Ethereum, 19th Feb 2014**
-<p><strong>Introducing Ethereum, <a href="{{ '/people/vitalik-buterin/' | relative_url }}">Vitalik Buterin</a>, 19th Feb 2014</strong></p>
 
-<iframe src="https://player.vimeo.com/video/87131363" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 87131363"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/87131363"
+  title="Introducing Ethereum"
+  author="Ethereum"
+  date="February 19, 2014"
+%}
 
-- **North American Bitcoin Conference, Miami, 25th and 26th January 2014**
+- **North American Bitcoin Conference, Miami, 26th January 2014**
 
-  <iframe src="https://player.vimeo.com/video/88664033" width="560" height="315" frameborder="0" allowfullscreen title="Vitalik Buterin introduces Ethereum at Bitcoin Miami 2014"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/88664033"
+  title="Vitalik Buterin introduces Ethereum at Bitcoin Miami 2014"
+  author="Ethereum"
+  date="January 26, 2014"
+%}
   - [Vitalik Buterin (Ethereum), a star is born](https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/) – North American Bitcoin Conference in Miami (Jan 2014)
 
 **Beach house in Miami in February, where first face-to-face development happened - 31st January 2014**
@@ -50,34 +59,68 @@ Ethereum: Now Going Public
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
 **The upcoming crypto-singularity - Coinscrum**, Stephan Tual, 10th March 2014
-  <iframe src="https://player.vimeo.com/video/88661838" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 88661838"></iframe>
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/88661838"
+  title="The upcoming crypto-singularity - Coinscrum"
+  author="Ethereum"
+  date="March 10, 2014"
+%}
 
 - **Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014**
 
-  <iframe src="https://player.vimeo.com/video/92563841" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 92563841"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/92563841"
+  title="Why I Joined Ethereum?"
+  author="Charles Hoskinson"
+  date="April 21, 2014"
+%}
 
 - **Ethereum Booth at the Bitcoin Expo 2014, 30th April 2014**
 
-  <iframe src="https://player.vimeo.com/video/93371709" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 93371709"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/93371709"
+  title="Ethereum Booth at the Bitcoin Expo 2014"
+  date="April 30, 2014"
+%}
 
 - **Crypto Hackathon – Bitcoin Expo 2014!, 2nd May 2014**
 
-  <iframe src="https://player.vimeo.com/video/93669998" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 93669998"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/93669998"
+  title="Crypto Hackathon – Bitcoin Expo 2014!"
+  date="May 2, 2014"
+%}
 
-- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}) and Ian Meikle, 18th April 2014**
+- **Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}), 18th April 2014**
 
-  <iframe src="https://player.vimeo.com/video/92338385" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 92338385"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/92338385"
+  title="Ethereum Video Background loop for Meetup groups and presentations"
+  author="Richard Stott"
+  date="April 18, 2014"
+%}
 
 - **Some people didn't make the conference, but did make the beach house.**
   - *Who was at each?*
 
 - **The upcoming crypto-singularity – Coinscrum (Stephan Tual), 10th March 2014**
 
-  <iframe src="https://player.vimeo.com/video/88661838" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 88661838"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/88661838"
+  title="The upcoming crypto-singularity - Coinscrum"
+  author="Ethereum"
+  date="March 10, 2014"
+%}
 
 - **Ethereum – Your Turn (Charles Hoskinson voiceover), 12th March 2014**
 
-  <iframe src="https://player.vimeo.com/video/88959651" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 88959651"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/88959651"
+  title="Ethereum – Your Turn"
+  author="Ethereum"
+  date="March 12, 2014"
+%}
 
 - **Duncan Rawlinson, 9th April 2014 (something just before the Expo?)**
   - [Link](https://duncan.co/ethereum/)
@@ -87,11 +130,21 @@ Ethereum: Now Going Public
 
 - **What is Ethereum? (Stephan Tual, CCO), 4th June 2014**
 
-  <iframe src="https://player.vimeo.com/video/97374143" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 97374143"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/97374143"
+  title="What is Ethereum?"
+  author="Ethereum"
+  date="June 4, 2014"
+%}
 
 - **BitVote: time based voting ÐApp on Ethereum, Aaron Bale, 13th June 2014**
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/z-BtgF3oqoA" title="YouTube Video z-BtgF3oqoA" frameborder="0" allowfullscreen></iframe>
+{% include content-embed.html
+  src="https://www.youtube.com/embed/z-BtgF3oqoA"
+  title="BitVote: time based voting ÐApp on Ethereum"
+  author="Aaron Bale"
+  date="June 13, 2014"
+%}
 
 - **On Abstraction, Vitalik Buterin, 5th July 2014**
   - [Blog Post](https://blog.ethereum.org/2015/07/05/on-abstraction/)
@@ -101,25 +154,45 @@ Ethereum: Now Going Public
 
 - **Interview with Ethereum, Coin Telegraph, 24th July 2014**
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7Wih6K288fo" title="Interview with Ethereum" frameborder="0" allowfullscreen></iframe>
+{% include content-embed.html
+  src="https://www.youtube.com/embed/7Wih6K288fo"
+  title="Interview with Ethereum"
+  author="Cointelegraph"
+  date="July 24, 2014"
+%}
 
   - [Cutting edge: An interview with Ethereum creators Vitalik Buterin and Gavin Wood ](https://cointelegraph.com/news/cutting-edge-an-interview-with-ethereum-creators-vitalik-buterin-and-gavin-wood)
 
 - **Vitalik Buterin explains Ethereum, 29th July 2014**
 
-  <iframe src="https://player.vimeo.com/video/102024647" width="560" height="315" frameborder="0" allowfullscreen title="Vimeo Video 102024647"></iframe>
+{% include content-embed.html
+  src="https://player.vimeo.com/video/102024647"
+  title="Vitalik Buterin explains Ethereum"
+  author="Ethereum"
+  date="July 29, 2014"
+%}
 
 - **State of Ethereum: August Edition, Vitalik Buterin, 27th August 2014**
   - [Blog Post](https://blog.ethereum.org/2014/08/27/state-ethereum-august-edition/)
 
 - **ÐΞVcon-0 conference in Berlin**
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_BvvUlKDqp0" title="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps" frameborder="0" allowfullscreen></iframe>
+{% include content-embed.html
+  src="https://www.youtube.com/embed/_BvvUlKDqp0"
+  title="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
+  author="Ethereum"
+  date="December 2014"
+%}
   - [ÐΞVcon-0 Recap](https://blog.ethereum.org/2014/12/05/devcon-0-recap/), 12th Dec 2014
 
 - **Gavin Wood – Allegality – Systems Which Cannot Care, 10th Dec 2014**
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WdgQI6CA4-E" title="YouTube Video WdgQI6CA4-E" frameborder="0" allowfullscreen></iframe>
+{% include content-embed.html
+  src="https://www.youtube.com/embed/WdgQI6CA4-E"
+  title="Allegality – Systems Which Cannot Care"
+  author="Satoshi Pollen (IamSatoshi Documentary)"
+  date="December 10, 2014"
+%}
 
 ## Timeline 2015
 
@@ -159,7 +232,13 @@ Ethereum: Now Going Public
   - [Internet Archive snapshot](https://web.archive.org/web/20160304212822/https://www.ethereum.org/foundation)
 
 - **Can Ethereum Restore Online Freedom & Transform the Internet? Reason TV, 18th March 2016**
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/H6bGuKN3m6E" title="YouTube Video H6bGuKN3m6E" frameborder="0" allowfullscreen></iframe>
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/H6bGuKN3m6E"
+  title="Can Ethereum Restore Online Freedom & Transform the Internet?"
+  site="ReasonTV"
+  date="March 18, 2016"
+%}
 
 - **Extensive timeline for the DAO fork:**
   - [GitHub](https://github.com/ethereumbook/ethereumbook/blob/develop/contrib/forks-history.asciidoc)
@@ -174,10 +253,22 @@ Ethereum: Now Going Public
   - [Article](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 
 - **Gavin Wood presentation hack of the DAO smart contract and options Ethereum community, Dutch Blockchain Conference, 20th June 2016**
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KaOGtH7J0WE" title="YouTube Video KaOGtH7J0WE" frameborder="0" allowfullscreen></iframe>
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/KaOGtH7J0WE"
+  title="Gavin Wood presentation hack of the DAO smart contract and options Ethereum community"
+  author="Dutch Blockchain Conference"
+  date="June 20, 2016"
+%}
 
 - **Gavin Wood on how $60M hack of DAO happened and what to do next, Dutch Blockchain Conference, 21st June 2016**
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/JzCGRtGyxvY" title="YouTube Video JzCGRtGyxvY" frameborder="0" allowfullscreen></iframe>
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/JzCGRtGyxvY"
+  title="Gavin Wood on how $60M hack of DAO happened and what to do next"
+  author="Dutch Blockchain Conference"
+  date="June 21, 2016"
+%}
   - "Was that because you wanted to make a lot of money?" ([Timestamp](https://youtu.be/JzCGRtGyxvY?t=13m58s))
 
 - **Understanding The DAO Attack, David Siegel, 25th June 2016**

@@ -17,28 +17,16 @@ See also the partial public histories in:
 
 ### Earliest Messages between Vitalik and Gav – 19th Dec 2013
 
-{% include content-embed.html
+{% include twitter-embed.html
   url="https://twitter.com/VitalikButerin/status/895518902817480708"
-  title="Tweet by Vitalik"
-  description="The earliest emails from @gavofyork reaching out to me in Dec 2013. Thanks a lot for Gav's crucial contributions to ethereum!"
-  author="Vitalik Buterin"
-  site="Twitter"
 %}
 
-{% include content-embed.html
+{% include twitter-embed.html
   url="https://twitter.com/gavofyork/status/895536200626425856"
-  title="Tweet by Gav"
-  description="Thanks to @VitalikButerin for the same – I could never have built #ethereum without you :)"
-  author="Gavin Wood"
-  site="Twitter"
 %}
 
-{% include content-embed.html
+{% include twitter-embed.html
   url="https://twitter.com/peter_szilagyi/status/895560354951872512"
-  title="Tweet by Peter"
-  description="Ah yes, thank you @gavofyork for single handedly building #Ethereum! We – the other 30+ programmers – really enjoyed watching you work!"
-  author="Peter Szilagyi"
-  site="Twitter"
 %}
 
 In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jonathan-james-harrison/' | relative_url }}) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}):

@@ -31,11 +31,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 [Reddit Discussion](https://www.reddit.com/r/ethereum/comments/5w9i0j/who_are_the_founders_of_ethereum/?st=japhmhor&sh=594afb35)
 
-![Image](https://i.imgur.com/txxPTG4.png)
-  (Old photo of ethereum.org website shows a selection of the early people)
-
-Ethereum: Now Going Public
-
 ### North American Bitcoin Conference, Miami, 26th January 2014
 
 {% include content-embed.html

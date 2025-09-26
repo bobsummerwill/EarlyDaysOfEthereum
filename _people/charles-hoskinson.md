@@ -13,7 +13,7 @@ social:
 ## References
 
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - Ethereum Timeline
 - "Red Wedding"
 - Taylor Gerring Photos

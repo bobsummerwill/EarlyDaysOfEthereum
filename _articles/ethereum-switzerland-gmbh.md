@@ -20,5 +20,5 @@ Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit compa
 
 ## References
 
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
-- ["Red Wedding"]({{ '/articles/red-wedding/' | relative_url }})
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
+- "Red Wedding"

@@ -36,12 +36,7 @@
   {%- endif -%}
 {%- endfor -%}
 {%- for other_person in site.people -%}
-  {%- assign name_to_replace = other_person.name
-      | replace: "‘", "'"
-      | replace: "’", "'"
-      | replace: "“", '"'
-      | replace: "”", '"'
-  -%}
+  {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
   {%- if other_person.hidden -%}
     {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}

@@ -122,5 +122,5 @@ There are references to Texture in the following articles:
 
 - [Ethereum Community and Adoption Update - Week 1](https://blog.ethereum.org/2014/11/03/stephans-ethereum-community-adoption-update-week-1#meetups) - 3rd Nov 2014
 - Ethereum Timeline
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - Taylor Gerring Photos

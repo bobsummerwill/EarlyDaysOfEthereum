@@ -14,6 +14,6 @@ Charles and Jeremy later collaborated as co-founders of [IOHK](https://iohk.io/)
 
 ## References
 
-- [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - [Red Wedding]({{ '/articles/red-wedding/' | relative_url }})
 - Taylor Gerring Photos

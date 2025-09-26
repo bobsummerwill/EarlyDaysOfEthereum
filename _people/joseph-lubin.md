@@ -16,5 +16,5 @@ social:
 
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - Taylor Gerring Photos

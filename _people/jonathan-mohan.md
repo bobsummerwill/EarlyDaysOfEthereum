@@ -19,6 +19,6 @@ Jonathan was mentioned in the [original BitcoinTalk](https://web.archive.org/web
 
 ## References
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - Taylor Gerring Photos
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

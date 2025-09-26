@@ -29,5 +29,5 @@ On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn whe
 
 ## References
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

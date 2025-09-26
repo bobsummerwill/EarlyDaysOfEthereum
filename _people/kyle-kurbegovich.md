@@ -17,6 +17,6 @@ Kyle recorded many of the early videos in the months before Ian Meikle and Richa
 
 ## References
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - Taylor Gerring Photos
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

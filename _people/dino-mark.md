@@ -10,6 +10,6 @@ start: Jan 2014
 
 
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - Taylor Gerring Photos
 - Early Days of Ethereum - Episode 4 - Taylor Gerring

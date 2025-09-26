@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Foundation Timeline"
+title: "Ethereum Timeline"
 date: 2013-12-19
 author: "Bob Summerwill"
 description: "An attempt at building up some canonical history of the Ethereum Project and the Ethereum Foundation, documenting key events, videos, and milestones from 2013-2017."
@@ -35,7 +35,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   title="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
   site="https://epicenter.tv"
   date="Oct 31st, 2018"
-  url="https://epicenter.tv/episode/259/"
+  url="https://epicenter.tv/episodes/259/"
   img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 

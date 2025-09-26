@@ -121,6 +121,6 @@ Which I opened with the epic "Ethereum - Your Turn" with voiceover by the aforem
 There are references to Texture in the following articles:
 
 - [Ethereum Community and Adoption Update - Week 1](https://blog.ethereum.org/2014/11/03/stephans-ethereum-community-adoption-update-week-1#meetups) - 3rd Nov 2014
-- Ethereum Foundation Timeline
+- Ethereum Timeline
 - [Early Days of Ethereum - Episode 5]({{ '/videos/episode005-anthony-d-onofrio/' | relative_url }})
 - Taylor Gerring Photos

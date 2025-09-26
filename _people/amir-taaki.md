@@ -15,4 +15,4 @@ social:
 
 
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline

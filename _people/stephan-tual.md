@@ -35,4 +35,4 @@ We had two excellent guests on. Stephan Tual is the Chief Communications Officer
 
 ## References
 
-- Ethereum Foundation Timeline
+- Ethereum Timeline

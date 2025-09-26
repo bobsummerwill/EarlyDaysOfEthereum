@@ -32,10 +32,11 @@ See also the partial public histories in:
 In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jonathan-james-harrison/' | relative_url }}) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}):
 
 {% include content-embed.html
+  title="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
+  site="https://epicenter.tv"
+  date="Oct 31st, 2018"
   url="https://epicenter.tv/episode/259/"
-  title="Epicenter Episode 259"
-  author="Gavin Wood"
-  site="Epicenter"
+  img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 
 ## Timeline 2014
@@ -62,6 +63,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   title="Vitalik Buterin (Ethereum), a star is born"
   description="North American Bitcoin Conference in Miami (Jan 2014)"
   site="Ohio Bitcoin"
+  img="https://ohiobitcoin.com/storage/2017/04/yRD6Sr-500x372.jpg"
 %}
 
 ### Beach house in Miami in February, where first face-to-face development happened - 31st January 2014

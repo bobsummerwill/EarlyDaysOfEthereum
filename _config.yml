@@ -17,19 +17,19 @@ bing_site_verification: ""
 # Analytics (add your tracking IDs when available)
 google_analytics: "G-K07HLJER91"
 
-# Social sharing image - using optimized version
-image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general_2.png
+# Social sharing image
+image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
 
 # Social media settings
 twitter:
   username: bobsummerwill
   card: summary_large_image
-  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_twitter_large.png
+  image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
 
 # Facebook/Open Graph settings
 facebook:
   app_id: # Add if you have a Facebook app ID
-  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_facebook_2.png
+  image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
   
 # LinkedIn settings
 linkedin:

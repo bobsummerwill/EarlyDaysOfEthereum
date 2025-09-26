@@ -18,7 +18,7 @@ bing_site_verification: ""
 google_analytics: "G-K07HLJER91"
 
 # Social sharing image
-image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
+  image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
 
 # Social media settings
 twitter:
@@ -33,7 +33,7 @@ facebook:
   
 # LinkedIn settings
 linkedin:
-  image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_linkedin.png
+  image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
 
 # Open Graph settings
 social:
@@ -71,7 +71,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general.png
+      image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
   - scope:
       path: ""
       type: "articles"

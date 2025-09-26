@@ -9,7 +9,7 @@ description: "After a long hiatus since episode 3, Taylor Gerring joined as a gu
 
 After a long hiatus since [Episode 3]({{ '/videos/episode003/' | relative_url }}) in November 2023, we returned with another episode of The Early Days of Ethereum.
 
-Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
+Ethereum OG and "co Founder" Taylor Gerring joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 
 [Bob Summerwill]({{ '/people/bob-summerwill/' | relative_url }}) hosted this episode with [Kieren James-Lubin]({{ '/people/kieren-james-lubin/' | relative_url }}) commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
@@ -18,7 +18,7 @@ Ethereum OG and "co Founder" [Taylor Gerring]({{ '/people/taylor-gerring/' | rel
 %}
 
 ## Transcript
-[[3:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=189s) **Bob:** Welcome everyone, so yeah, really happy to have [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor]({{ '/people/taylor-gerring/' | relative_url }})
+[[3:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=189s) **Bob:** Welcome everyone, so yeah, really happy to have Taylor Gerring here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor]({{ '/people/taylor-gerring/' | relative_url }})
 
 [[4:25]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=265s) **Taylor:** Hello, everybody and thank you very much for that kind introduction Bob, and appreciate everybody.  I'm honored to join you guys and maybe add a little bit to the story.  Fill in some gaps in the history that people might be wondering and do whatever I can do to get some chuckles out of the audience!
 
@@ -100,7 +100,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 <img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }}" style="width: 75%; height: auto;">
 
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, Antony D'Onofrio, [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, Antony D'Onofrio, [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
 [[22:03]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1323s) **Bob:**  So yeah it's saying February the 9th was the day that we arrived in Europe so that's where the Zug adventure began?
 

@@ -763,7 +763,7 @@ I could, you know, kind of code at that time. I can still kind of code today, bu
 
 *(from [Taylor Gerring's photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}))*
 
-*“Ethereum was eventually decided to be an open source non-profit model. After this edict was made clear, we proceeded to sketch out how funds would be allocated. Compared with a lot of other projects, we were stunningly efficient with only ~$15M” – [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jun 4, 2022](https://twitter.com/TaylorGerring/status/1533128197054816257)*
+*“Ethereum was eventually decided to be an open source non-profit model. After this edict was made clear, we proceeded to sketch out how funds would be allocated. Compared with a lot of other projects, we were stunningly efficient with only ~$15M” – Taylor Gerring, [Jun 4, 2022](https://twitter.com/TaylorGerring/status/1533128197054816257)*
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1533128197054816257/1533128197054816257_1.jpg" style="width:75%;">
 
 [[55:43]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3343s) **Kieren:**

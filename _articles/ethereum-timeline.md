@@ -9,7 +9,7 @@ This is an attempt by [Bob Summerwill](https://bobsummerwill.com/about) (along w
 
 See also the partial public histories in:
 
-- [Cut and Try – Building a Dream](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/), written by [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) in February 2016
+- [Cut and Try – Building a Dream](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/), written by Taylor Gerring in February 2016
 - [History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
 - [A Prehistory of the Ethereum Protocol](https://vitalik.eth.limo/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
 
@@ -70,7 +70,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }})
 
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}), [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
@@ -343,7 +343,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   site="Ethereum Blog"
 %}
 
-### Cut and Try: building a dream ([Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }})), 9th Feb 2016
+### Cut and Try: building a dream (Taylor Gerring), 9th Feb 2016
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/"

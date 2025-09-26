@@ -292,7 +292,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[40:46]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2446s) **Kieren:**  And then actually they instated two more co-founders, so to speak, right then who kind of jumped on board the project and helped out. It was like a fun and kind of crazy trip.
 
-*This is referring to [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) and [Stephan]({{ '/people/stephan-tual/' | relative_url }}), but they were added to the leadership group, not as co-Founders.*
+*This is referring to Taylor Gerring and [Stephan]({{ '/people/stephan-tual/' | relative_url }}), but they were added to the leadership group, not as co-Founders.*
 
 [[40:59]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2459s) **Kieren:**  Otherwise, you know, we went out in Zurich. Some people got in trouble with the cops. I won't add more detail to that. But Zurich's a funny place where in the U.S. we're not used to people drinking on the street.
 

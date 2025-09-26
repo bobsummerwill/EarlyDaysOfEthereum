@@ -18,7 +18,7 @@ sdss
 * 14th July 2014: Stiftung Ethereum legal entity joins as "partner" and [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) title changed to "president of the management"
 * 23rd July 2014: [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) joins as "president of the management", [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) title changed to "manager", [Herbert]({{ '/people/herbert-sterchi/' | relative_url }}) resigns
 * 12th Mar 2015: [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) resigns
-* 14th Oct 2015: [Taylor Gerring]({{ '/people/taylor-gerring/' | relative_url }}) joins as "manager", [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) resigns
+* 14th Oct 2015: Taylor Gerring joins as "manager", [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) resigns
 * 10th May 2016: [Ming Chan (ED of the EF)]({{ '/people/ming-chan/' | relative_url }}) joins as "liquidator", [Taylor]({{ '/people/taylor-gerring/' | relative_url }}) resigns
 * 14th Oct 2018: The legal entity is formally dissolved, and is now "Ethereum Switzerland GmbH in Liquidation"
 

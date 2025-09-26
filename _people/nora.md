@@ -4,7 +4,7 @@ description: Ethereum's biggest mystery.
 ---
 
 
-Nora is an unknown individual who seemingly gave [Ming Chan]({{ '/people/ming-chan/' | relative_url }}) legal advice related to her hostile takeover of the EF from the other newly elected board members.
+Nora is an unknown individual who seemingly gave Ming Chan legal advice related to her hostile takeover of the EF from the other newly elected board members.
 
 Here is a Skype message which Ming accidentally sent to [Lars Klawitter]({{ '/people/lars-klawitter/' | relative_url }}) on 4th August 2015.
 

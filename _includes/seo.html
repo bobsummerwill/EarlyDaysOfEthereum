@@ -36,7 +36,16 @@
     {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
   {% endif %}
 {% endunless %}
-{% assign seo_image = seo_image | absolute_url %}
+
+{% comment %} Skip social metadata for hidden profiles to prevent privacy leaks {% endcomment %}
+{% assign skip_social_meta = false %}
+{% if page.collection == 'people' and (page.hidden == true or page.hidden == 'true') %}
+  {% assign skip_social_meta = true %}
+{% endif %}
+
+{% unless skip_social_meta %}
+  {% assign seo_image = seo_image | absolute_url %}
+{% endunless %}
 
 {% comment %} Content type detection {% endcomment %}
 {% assign seo_type = "website" %}
@@ -69,8 +78,9 @@
 
 {% comment %} Language and locale {% endcomment %}
 <meta name="language" content="{{ site.lang | default: 'en' }}">
-<meta property="og:locale" content="{{ site.lang | default: 'en_US' }}">
 
+{% unless skip_social_meta %}
+<meta property="og:locale" content="{{ site.lang | default: 'en_US' }}">
 {% comment %}
   =========================
   Open Graph Meta Tags
@@ -123,6 +133,7 @@
 {% endcomment %}
 
 <meta property="linkedin:owner" content="{{ site.social.linkedin | default: 'bobsummerwill' }}">
+{% endunless %}
 
 {% comment %}
   =========================
@@ -172,7 +183,7 @@
         {% endif %}
       ]
     }
-    {% if page.collection == 'people' %},
+    {% if page.collection == 'people' and skip_social_meta != true %},
     {
       "@type": "Person",
       "@id": "{{ seo_url }}/#person",

@@ -28,10 +28,6 @@
 {% unless seo_image %}
   {% if page.collection == 'people' %}
     {% assign seo_image = "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png" %}
-  {% elsif page.collection == 'articles' or page.collection == 'posts' %}
-    {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general.png" %}
-  {% elsif page.collection == 'videos' %}
-    {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/thumbnails/internetarchive_ethereum.org_20140428062102_thumbnail_og_general.png" %}
   {% else %}
     {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
   {% endif %}

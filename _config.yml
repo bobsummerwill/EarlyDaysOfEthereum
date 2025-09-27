@@ -18,7 +18,7 @@ bing_site_verification: ""
 google_analytics: "G-K07HLJER91"
 
 # Social sharing image
-  image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
+image: /images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png
 
 # Social media settings
 twitter:

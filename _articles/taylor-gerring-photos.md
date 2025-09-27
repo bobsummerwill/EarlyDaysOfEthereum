@@ -330,7 +330,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 *“Still not sure what [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was doing writing on the windows when we had a whiteboard. Also found this interesting pic that I did not take ["Charles Hoskinson 'sleeping on a floor' with Susanne Tarkowski Tempelhof and a bottle of Cristal."](https://imgur.com/a/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2
 )” – Taylor Gerring, [Mar 19, 2022](https://twitter.com/TaylorGerring/status/1505202122136117249)*
 
-*(Editor: Susanne was the founder of [BitNation](en.wikipedia.org/wiki/Bitnation))*
+*(Editor: Susanne was the founder of [BitNation](https://en.wikipedia.org/wiki/Bitnation))*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1505202122136117249/1505202122136117249_1.jpg" style="width:75%;">
 <img src="/images/imgur.com/2025.09.07/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2/t3JPlYR.jpeg" style="width:75%;">

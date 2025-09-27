@@ -18,35 +18,10 @@ embed-content-width: 50%
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!--
-      Page title and description for SEO.
-      See: https://jekyllrb.com/docs/variables/
+      Centralized SEO optimization
+      See: _includes/seo.html for all SEO meta tags, structured data, and social media optimization
     -->
-    <title>
-      {% if page.name %}
-        {{ page.name }} - {{ site.title }}
-      {% elsif page.title %}
-        {{ page.title }} - {{ site.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
-    <meta name="author" content="{{ site.author }}">
-    <link rel="canonical" href="{{ page.url | absolute_url }}">
-
-    <!--
-      Favicon for browser tabs.
-      See: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#attr-rel
-    -->
-    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-
-    <!--
-      Preconnect for performance optimization.
-      See: https://web.dev/uses-rel-preconnect/
-    -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://www.google-analytics.com">
+    {% include seo.html %}
 
     <!--
       Google Analytics integration.
@@ -72,27 +47,6 @@ embed-content-width: 50%
     }
     </script>
 
-    <!--
-    Open Graph meta tags for social sharing.
-    - Open Graph: https://ogp.me/
-    -->
-    <meta property="og:title" content="STRATO Mercata - Early Days of Ethereum" />
-    <meta property="og:description" content="STRATO Mercata: Where Stability Meets Opportunity. Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans." />
-    <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Early Days of Ethereum" />
-    <meta property="og:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | absolute_url }}" />
-    <meta property="og:image:alt" content="Ethereum team historical photo" />
-
-    <!--
-    Twitter Card meta tags for social sharing.
-    - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
-    -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="STRATO Mercata - Early Days of Ethereum" />
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-    <meta name="twitter:image" content="{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | absolute_url }}" />
-    <meta name="twitter:image:alt" content="Ethereum team historical photo" />
 </head>
 <body>
 <main>

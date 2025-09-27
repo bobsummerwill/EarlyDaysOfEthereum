@@ -2,24 +2,6 @@
 layout: default
 ---
 
-<!--
-  Open Graph meta tags for social sharing.
-  - Open Graph: https://ogp.me/
--->
-<meta property="og:title" content="{{ page.title }} - Early Days of Ethereum" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:url" content="{{ page.url | absolute_url }}" />
-<meta property="og:type" content="article" />
-
-<!--
-  Twitter Card meta tags for social sharing.
-  - Twitter Cards: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
--->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ page.title }} - Early Days of Ethereum" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-
-
 <nav aria-label="Breadcrumb">
     <div class="back-link">
         <a href="{{ '/articles/' | relative_url }}">&larr; Back to Articles</a>

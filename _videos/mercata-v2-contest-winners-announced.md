@@ -163,7 +163,7 @@ So, today is a really exciting episode. We are announcing the winners of our Mer
 
 I am filling in for Bob Summerwill, our normal host, who is on a long delayed digital detox as well as honeymoon. So, yeah, well-deserved break to you, Bob. Hope you're not watching, but you catch up later.
 
-And with me, I have Kieren James Lubin, our CEO and head of – and whale on STRATO Mercata testnet. How's everything going with you today, Kieren?
+And with me, I have Kieren James-Lubin, our CEO and head of – and whale on STRATO Mercata testnet. How's everything going with you today, Kieren?
 
 [[7:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=429s) **Kieren:**
 You know, good. I feel like shark is better than whale for this.

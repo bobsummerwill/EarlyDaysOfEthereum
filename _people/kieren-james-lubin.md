@@ -55,7 +55,7 @@ Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/wat
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/ExsTb0iglcs"
-  title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James Lubin, Jim Hormuzdiar"
+  title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
   date="November 10, 2015"

@@ -37,7 +37,7 @@ layout: default
             {% endif %}
         </div>
         {% if page.description %}
-        <div class="post-description" itemprop="description">
+        <div class="article-description" itemprop="description">
             {{ page.description }}
         </div>
         <meta itemprop="description" content="{{ page.description }}">
@@ -60,12 +60,12 @@ layout: default
       <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
     {% endif %}
 
-    <div class="post-content" itemprop="articleBody">
+    <div class="article-content" itemprop="articleBody">
         {% include auto_link.html content=content %}
     </div>
     
     {% if page.tags and page.tags.size > 0 %}
-    <div class="post-tags">
+    <div class="article-tags">
         <strong>Tags:</strong>
         {% for tag in page.tags %}
             <span class="tag" itemprop="keywords">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}

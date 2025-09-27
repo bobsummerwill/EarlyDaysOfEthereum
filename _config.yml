@@ -107,11 +107,11 @@ collections:
 # - Both approaches work identically, but path-based is more readable
 
 defaults:
-  # Articles get the "post" layout automatically
-  # Without this: You'd need "layout: post" in every article file
+  # Articles get the "article" layout automatically
+  # Without this: You'd need "layout: article" in every article file
   # With this: Jekyll adds it automatically to all files in _articles/
   - scope: { path: "_articles" }
-    values: { layout: "post" }
+    values: { layout: "article" }
   
   # People get the "person" layout automatically  
   # Without this: You'd need "layout: person" in all 130+ people files

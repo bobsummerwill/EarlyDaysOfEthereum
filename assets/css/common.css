@@ -463,29 +463,29 @@ img {
 }
 
 /**
- * Post Content Styles - Article and blog post formatting
+ * Article Content Styles - Article and blog article formatting
  * 
  * Provides consistent typography and spacing for long-form content.
  * Optimized for readability with proper line height and spacing.
  * 
  * Reference: https://practicaltypography.com/
  */
-.post-content h2 {
+.article-content h2 {
     margin-top: var(--spacing-5xl);
     margin-bottom: var(--spacing-2xl);
 }
 
-.post-content p {
+.article-content p {
     margin-bottom: var(--spacing-2xl);
 }
 
-.post-content ul,
-.post-content ol {
+.article-content ul,
+.article-content ol {
     margin-bottom: var(--spacing-2xl);
     padding-left: var(--spacing-5xl);
 }
 
-.post-content li {
+.article-content li {
     margin-bottom: 5px;
 }
 
@@ -497,7 +497,7 @@ img {
  * 
  * Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
  */
-.post-content blockquote {
+.article-content blockquote {
     border-left: var(--spacing-sm) solid var(--primary-blue);
     padding-left: var(--spacing-3xl);
     margin: var(--spacing-3xl) 0;
@@ -513,32 +513,32 @@ img {
  * 
  * Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code
  */
-.post-content code {
+.article-content code {
     background-color: var(--bg-code);
     padding: var(--spacing-xs) var(--spacing-sm);
     border-radius: var(--radius-xs);
     font-family: var(--font-mono);
 }
 
-.post-content pre {
+.article-content pre {
     background-color: var(--bg-code);
     padding: var(--spacing-2xl);
     border-radius: 5px;
     overflow-x: auto;
 }
 
-.post-content pre code {
+.article-content pre code {
     background: none;
     padding: 0;
 }
 
 /**
- * Post Tags - Content categorization
+ * Article Tags - Content categorization
  * 
  * Visual separation from main content with top border.
  * Provides metadata about post categories or topics.
  */
-.post-tags {
+.article-tags {
     margin-top: var(--spacing-5xl);
     padding-top: var(--spacing-3xl);
     border-top: 1px solid var(--border-light);
@@ -552,7 +552,7 @@ img {
     font-size: 0.85em;
 }
 
-.post-description {
+.article-description {
     margin-top: var(--spacing-2xl);
     padding: var(--spacing-2xl) 0;
     font-size: 1.1em;
@@ -1218,9 +1218,9 @@ img {
 }
 
 /**
- * Blog Embed Styling - External blog post integration
+ * Blog Embed Styling - External blog article integration
  * 
- * Styled cards for blog post and article embeds.
+ * Styled cards for blog article and article embeds.
  * Uses consistent hover animation with other embed components.
  */
 .blog-embed-card {

@@ -20,13 +20,6 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
-# Block AI training crawlers
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
 # Block common spam bots
 User-agent: AhrefsBot
 Disallow: /

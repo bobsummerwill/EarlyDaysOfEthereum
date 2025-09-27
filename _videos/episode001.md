@@ -54,6 +54,24 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[4:45]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=285s) **Victor:** And he did like a couple episodes of Bitcoin. And I was like, you know, really, really fascinated by it. But mostly from a technical angle, like and even to the point where I downloaded the Bitcoin client and ran it, didn't get any Bitcoin.
 
+{% include content-embed.html
+  url="https://twit.tv/shows/security-now/episodes/287"
+  img="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security%20Now/hero/SN_SocialBanner_4K.jpeg?h=7ae34b4a"
+  title="Security Now 287 - BitCoin CryptoCurrency"
+  description='Firefox adds "Do Not Track", Verizon alters web content, McAfee on Mobile Malware, BitCoin, and more.'
+  site="twit.tv"
+  date="Feb 09, 2011"
+%}
+
+{% include content-embed.html
+  url="https://twit.tv/shows/security-now/episodes/288"
+  img="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security%20Now/hero/SN_SocialBanner_4K.jpeg?h=7ae34b4a"
+  title="Security Now 288 - Your Questions, Steve's Answers #111"
+  description='A critical Microsoft vulnerability, The differences between open and closed source software, A number of questions around BitCoin, and more.'
+  site="twit.tv"
+  date="Feb 16, 2011"
+%}
+
 [[5:00]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=300s) **Victor:** Or if I did, I didn't notice. I think the rewards were like 50 at the time or something like this. But the strange thing was that a year or two later, I started to notice other Chinese startups.
 
 [[5:15]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=315s) **Victor:**  There'd be like groups of computers in like part of their office. And I was like, what are those for? And they're like, oh, we're mining Bitcoin. And I was like, oh, like, why are you mining Bitcoin? And they're like, oh, well, you know, we can like transfer money.

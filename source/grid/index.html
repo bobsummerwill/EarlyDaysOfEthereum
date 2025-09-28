@@ -183,8 +183,8 @@ Add people without dates at the end, sorted alphabetically
                 {% else %}
                     <div class="no-photo">?</div>
                 {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
             </div>
-            <div class="name-label">{{ person.name }}</div>
         </a>
     {% endfor %}
 </div>
@@ -214,7 +214,7 @@ Add people without dates at the end, sorted alphabetically
     height: 120px;
     border-radius: 8px;
     overflow: hidden;
-    margin-bottom: 8px;
+    position: relative;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
@@ -236,15 +236,22 @@ Add people without dates at the end, sorted alphabetically
     font-weight: bold;
 }
 
-.name-label {
-    font-size: 12px;
+.name-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 70%, transparent 100%);
+    color: white;
+    padding: 8px 6px 6px 6px;
+    font-size: 11px;
+    font-weight: 600;
     text-align: center;
     line-height: 1.2;
-    color: #333;
-    font-weight: 500;
-    max-width: 120px;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.8);
     word-wrap: break-word;
     hyphens: auto;
+    opacity: 1 !important;
 }
 
 /* Simple hover effect */

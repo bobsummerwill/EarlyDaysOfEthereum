@@ -171,21 +171,100 @@ Add people without dates at the end, sorted alphabetically
 {% endif %}
 
 <div class="stats">
-    {{ final_people_list.size }} people • Hover to see names
+    {{ final_people_list.size }} people
 </div>
 
-<div class="people-grid">
+<div class="people-grid-section">
     {% for person in final_people_list %}
         <a href="{{ person.url | relative_url }}" class="grid-item">
-            {% if person.photo %}
-                <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
-            {% else %}
-                <div style="width: 100%; height: 120px; display: flex; align-items: center; justify-content: center; background: #e0e0e0; color: #888; font-size: 48px; font-weight: bold;">?</div>
-            {% endif %}
-            <div class="name-overlay">{{ person.name }}</div>
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+            </div>
+            <div class="name-label">{{ person.name }}</div>
         </a>
     {% endfor %}
 </div>
+
+<style>
+.people-grid-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.people-grid-section .grid-item {
+    width: 120px;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.photo-container {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.photo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.no-photo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e0e0e0;
+    color: #888;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.name-label {
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+    color: #333;
+    font-weight: 500;
+    max-width: 120px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+
+/* Simple hover effect */
+.grid-item {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid-item:hover {
+    transform: translateY(-2px);
+}
+
+.grid-item:hover .photo-container {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* Ensure proper spacing */
+.people-grid-section {
+    padding: 0 20px;
+}
+</style>
 
 <div style="text-align: center; margin-top: 40px; padding: 20px; background: #f8f9fa; border-radius: 8px;">
     <p><strong>About this collection:</strong> These photos represent the diverse group of individuals who contributed to Ethereum's early development, from 2013 through 2018. Each person played a unique role in bringing the vision of a decentralized world computer to life.</p>

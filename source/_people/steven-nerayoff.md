@@ -1,6 +1,5 @@
 ---
 name: Steven Nerayoff
-description: Ethereum OG
 start: Jan 2014
 end: Dec 2014
 social:

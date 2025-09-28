@@ -291,14 +291,17 @@ Display people grouped by start date with epoch headings
                     {% if person.description %}
                     <p class="person-description">
                         {% include auto_link.html content=person.description %}
-                        {% if person.start and person.start != "" %}
-                            {% if person.end and person.end != "" %}
-                                <br><span class="person-dates">({{ person.start }} to {{ person.end }})</span>
-                            {% else %}
-                                <br><span class="person-dates">({{ person.start }} to ???)</span>
-                            {% endif %}
-                        {% endif %}
                     </p>
+                    {% endif %}
+                    
+                    {% if person.start and person.start != "" %}
+                    <div class="person-dates">
+                        {% if person.end and person.end != "" %}
+                            <span>({{ person.start }} to {{ person.end }})</span>
+                        {% else %}
+                            <span>({{ person.start }} to ???)</span>
+                        {% endif %}
+                    </div>
                     {% endif %}
                     
                     {% if person.social %}

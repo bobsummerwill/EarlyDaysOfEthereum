@@ -1,6 +1,7 @@
 ---
-name: Alex 'avsa' van de Sande
-description: Ethereum OG
+name: Alex van de Sande
+nickname: avsa
+description: Designer, Mist
 photo: /images/archive.org/ethdev.com/20150315012946/alex-van-de-sande.jpg
 start: Oct 2014
 end: Jan 2019

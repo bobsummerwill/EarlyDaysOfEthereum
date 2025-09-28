@@ -1,6 +1,5 @@
 ---
 name: George Hallam
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/george-hallam.jpg
 start: Aug 2014
 end: Oct 2016

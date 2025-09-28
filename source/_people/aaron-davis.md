@@ -1,7 +1,7 @@
 ---
 name: Aaron Davis
 nickname: Kumavis
-description: Ethereum OG
+description: MetaMask Co-Founder
 
 
 ---

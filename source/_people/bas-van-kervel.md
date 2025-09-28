@@ -1,7 +1,7 @@
 ---
 name: Bas van Kervel
 nickname: bas-vk
-description: Ethereum OG
+description: Core Developer (Geth)
 start: Apr 2015
 end: Jul 2017
 social:

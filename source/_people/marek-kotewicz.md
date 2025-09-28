@@ -1,7 +1,6 @@
 ---
 name: Marek Kotewicz
 nickname: debris
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/marek-kotewicz.jpg
 start: Oct 2014
 end: Dec 2015

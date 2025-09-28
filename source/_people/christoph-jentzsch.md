@@ -1,6 +1,5 @@
 ---
 name: Christophe Jentzsch
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/christoph-jentzsch.jpg
 start: Sep 2014
 end: Nov 2015

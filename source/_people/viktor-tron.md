@@ -1,7 +1,6 @@
 ---
 name: Viktor Tron
 nickname: zelig
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/viktor-tron.jpg
 start: Oct 2014
 

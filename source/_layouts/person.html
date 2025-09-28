@@ -47,14 +47,16 @@ embed-content-width: 50%
       {% if page.description %}
         <p class="person-description">
           {% include auto_link.html content=page.description %}
-          {% if page.start and page.start != "" %}
-            {% if page.end and page.end != "" %}
-              <br><span class="person-dates">({{ page.start }} to {{ page.end }})</span>
-            {% else %}
-              <br><span class="person-dates">({{ page.start }} to ???)</span>
-            {% endif %}
-          {% endif %}
         </p>
+      {% endif %}
+      {% if page.start and page.start != "" %}
+        <div class="person-dates">
+          {% if page.end and page.end != "" %}
+            <span>({{ page.start }} to {{ page.end }})</span>
+          {% else %}
+            <span>({{ page.start }} to ???)</span>
+          {% endif %}
+        </div>
       {% endif %}
       {% if page.social %}
         <div class="person-social-links-index">

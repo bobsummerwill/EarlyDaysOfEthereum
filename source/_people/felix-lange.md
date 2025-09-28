@@ -1,7 +1,5 @@
 ---
 name: Felix Lange
-nickname: fjl
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/felix-lange.jpg
 start: Oct 2014
 end: present

@@ -154,10 +154,10 @@ Something I've spotted going through making my notes is your Medium is called [P
 
 {% include content-embed.html
   url="https://medium.com/@peaceloverevolution"
-  img="https://cdn-images-1.medium.com/fit/c/200/200/1*8QwQn6QwQwQwQwQwQwQwQw.jpeg"
-  title="Anthony D'Onofrio"
-  description="Writer, artist, and Ethereum OG"
-  author="@peaceloverevolution"
+  img="/images/medium.com/2025.09.02/anthony-d-onofrio.jpg"
+  title="Revolutionary Technologist. Ethereum Founding Member. Creator of DAS."
+  description="Anthony D'Onofrio"
+  author="Anthony D'Onofrio"
 %}
 
 [[7:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=421s) **Texture:**

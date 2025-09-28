@@ -1,6 +1,5 @@
 ---
 name: Jutta Steiner
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/jutta-steiner.jpg
 start: Nov 2014
 end: Oct 2015

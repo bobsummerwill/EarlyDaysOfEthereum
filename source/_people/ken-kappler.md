@@ -1,6 +1,5 @@
 ---
 name: Ken Kappler
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/kenneth-kappler.jpg
 start: Nov 2014
 end: Sep 2015

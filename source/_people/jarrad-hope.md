@@ -1,6 +1,5 @@
 ---
 name: Jarrad Hope
-description: Ethereum OG
 photo: /images/theorg.com/2025.08.25/org/status/org-chart/jarrad-hope/jarrad-hope-headshot.jpg
 start: Mar 2014
 end: present

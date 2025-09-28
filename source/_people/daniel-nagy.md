@@ -1,6 +1,5 @@
 ---
 name: Daniel Nagy
-description: Ethereum OG
 photo: /images/archive.org/ethdev.com/20150315012946/daniel-nagy.jpg
 start: Oct 2014
 

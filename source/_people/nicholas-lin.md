@@ -1,6 +1,5 @@
 ---
 name: Nicholas Lin
-description: Ethereum OG
 start: Jul 2017
 end: Dec 2019
 social:

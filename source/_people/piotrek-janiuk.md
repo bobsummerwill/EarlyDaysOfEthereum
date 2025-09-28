@@ -1,6 +1,5 @@
 ---
 name: Piotrek Janiuk
-description: Ethereum OG
 start: Nov 2014
 end: present
 devcon0: '1906'

@@ -1,6 +1,5 @@
 ---
 name: Vlad Zamfir
-description: Ethereum OG
 start: Apr 2014
 
 devcon0: '1503'

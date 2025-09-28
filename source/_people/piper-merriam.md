@@ -1,6 +1,5 @@
 ---
 name: Piper Merriam
-description: Ethereum OG
 start: May 2017
 end: present
 social:

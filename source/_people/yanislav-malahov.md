@@ -1,6 +1,5 @@
 ---
 name: Yanislav Malahov
-description: Ethereum OG
 social:
   linkedin: https://www.linkedin.com/in/yanislav-malahov-5025b712/
 ---

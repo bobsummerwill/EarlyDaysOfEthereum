@@ -1,6 +1,5 @@
 ---
 name: Jon Choi
-description: Ethereum OG
 start: Sep 2017
 end: Aug 2018
 social:

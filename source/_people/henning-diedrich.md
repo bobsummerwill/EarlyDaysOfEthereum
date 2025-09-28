@@ -1,7 +1,6 @@
 ---
 name: Henning Diedrich
-description: Ethereum OG
-start: Nov 2014 (maybe)
+start: Nov 2014
 end: present (but never in the EF)
 devcon0: '1678'
 social:

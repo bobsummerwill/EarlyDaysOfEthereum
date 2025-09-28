@@ -1,7 +1,6 @@
 ---
 name: Dimitry Kholkov
 nickname: winsvega
-description: Ethereum OG
 start: Dec 2014
 end: Jun 2025
 social:

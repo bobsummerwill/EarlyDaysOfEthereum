@@ -1,6 +1,5 @@
 ---
 name: Stuart Hoegner
-description: Ethereum OG
 photo: /images/linkedin.com/2025.09.16/stuart-hoegner.jpeg
 start: Mar 2014
 social:

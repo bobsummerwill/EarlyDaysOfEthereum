@@ -88,11 +88,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   date="March 10, 2014"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/88959651"
-  title="Ethereum – Your Turn"
-  author="Ethereum"
-  date="March 12, 2014"
+{% include video-embed.html
+  name="Ethereum – Your Turn"
 %}
 
 {% include content-embed.html

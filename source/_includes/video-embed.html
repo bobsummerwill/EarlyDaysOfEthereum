@@ -1,0 +1,29 @@
+{% assign video_name = include.name | strip_html %}
+{% assign found_video = null %}
+
+{% for video in site.videos %}
+  {% if video.title == video_name %}
+    {% assign found_video = video %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if found_video %}
+  {% if found_video.youtube_id %}
+    {% assign video_src = "https://www.youtube.com/embed/" | append: found_video.youtube_id %}
+  {% elsif found_video.vimeo_id %}
+    {% assign video_src = "https://player.vimeo.com/video/" | append: found_video.vimeo_id %}
+  {% else %}
+    {% assign video_src = found_video.src %}
+  {% endif %}
+  
+  {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
+  {% include content-embed.html
+    src=video_src
+    title=found_video.title
+    author=found_video.author
+    date=formatted_date
+  %}
+{% else %}
+  <div class="error">Video not found: "{{ video_name }}"</div>
+{% endif %}

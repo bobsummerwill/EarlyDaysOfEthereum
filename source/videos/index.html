@@ -33,6 +33,13 @@ title: Videos
                 <div class="play-button">▶</div>
             </a>
         </div>
+        {% elsif video.vimeo_id %}
+        <div class="video-thumbnail">
+            <a href="{{ video.url | relative_url }}">
+                <img src="https://vumbnail.com/{{ video.vimeo_id }}.jpg" alt="{{ video.title }}" />
+                <div class="play-button">▶</div>
+            </a>
+        </div>
         {% endif %}
         
         <div class="video-info">

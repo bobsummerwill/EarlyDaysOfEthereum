@@ -42,7 +42,7 @@ Here are direct links to the [ethereum.org](https://ethereum.org) snapshots on t
   - The countdown would have ended on 1st February, but it was aborted immediately after the Miami conference)
 - [8th February 2014](https://web.archive.org/web/20140208030136/http://www.ethereum.org/)
   - *"Try the Alpha Client"*, plus some endorsement quotes!
-    - *"Ethereum is without doubt the most ambitious Metacoin layer to date, and Vitalik Buterin is a real pillar of the Bitcoin community. I can't wait to see what comes out of this project."* - Adam B Levine Let's Talk Bitcoin
+    - *"Ethereum is without doubt the most ambitious Metacoin layer to date, and Vitalik Buterin is a real pillar of the Bitcoin community. I can't wait to see what comes out of this project."* - Adam B. Levine Let's Talk Bitcoin
     - *"The most innovative blockchain-based crytpocurrency since Bitcoin itself, and the only one that I would bother acquiring units of."* - FellowTraveler (Chris Odom)
     - *"I really don't like altcoins, and think all of them so far, including Litecoin, are useless but I agree with FT, this is the only one, besides Bitcoin, I would acquire and support. "* - Rassah Bitcoin 100
     - This website includes the "[Introducing Ethereum](https://web.archive.org/web/20140213015403/http://www.youtube.com/watch?v=q5FDvzj8YX4)" video which was uploaded to the CoinTalk YouTube channel on 23rd January 2014, just ahead of the Miami conference.  That was Kyle Kurbegovich's media outlet.  He was present at the Miami house and was listed on the website as "Media (CoinTalk)".  Kyle's version was later deleted, but the same video can be seen on Vimeo as [IntroducingEthereum](https://vimeo.com/87131363) (sic), uploaded to the official Ethereum channel on 19th Feb 2014.

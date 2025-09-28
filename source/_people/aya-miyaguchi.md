@@ -8,3 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/amiyaguchi/
 ---
 
+References:
+
+- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio

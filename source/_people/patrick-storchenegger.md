@@ -1,5 +1,5 @@
 ---
-name: Patrick Karl Storchenegger
+name: Patrick Storchenegger
 description: Board member
 start: Oct 2016
 end: present

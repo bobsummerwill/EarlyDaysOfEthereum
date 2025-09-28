@@ -994,9 +994,9 @@ Yeah, I make this the sick epoch that there's been. So we have white paper to re
 
 So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelly. Becker.
 
-Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the Ming dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with Aya coming in, in another coup there.
+Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the Ming dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}) coming in, in another coup there.
 
-In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that Aya's still around as the president, but you have new executive leadership.
+In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that [Aya]({{ '/people/aya-miyaguchi/' | relative_url }})'s still around as the president, but you have new executive leadership.
 
 [[1:24:48]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5088s) **Bob:**
 Yeah.
@@ -1005,7 +1005,7 @@ Yeah.
 So, yeah, I don't know what this period comes to be called.
 
 [[1:24:52]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5092s) **Texture:**
-But it's definitely better and more coherent. You know, I'm prescient a lot of the time. And, you know, I had my encounters with Aya that clued me into the fact that she was not really qualified or even coherently involved in a way that I would assume somebody in her position would be.
+But it's definitely better and more coherent. You know, I'm prescient a lot of the time. And, you know, I had my encounters with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}) that clued me into the fact that she was not really qualified or even coherently involved in a way that I would assume somebody in her position would be.
 
 So I was, you know, I was applying pressure years ago, years and years ago. And yeah, five years ago, six years ago. So I think, you know, eventually the community kind of came around to what I've been saying this whole time, which is, wait, like she should be doing like there's things that need to be done.
 
@@ -1072,9 +1072,9 @@ Everyone got Minged.
 If she was like Stephan, then yeah, that high energy, like stress stuff. But I don't know. I was a little bit more.
 
 [[1:29:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5375s) **Bob:**
-But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with Aya. That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.
+But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}). That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.
 
-Oh, and they will do a DevCon now and then.
+Oh, and they will do a DEVCON now and then.
 
 [[1:29:58]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5398s) **Texture:**
 Yeah. Well, you asked about the palace politics thing, and I just had a memory. You know, people, it's much less now than it used to be.

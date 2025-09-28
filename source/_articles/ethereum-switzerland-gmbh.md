@@ -5,7 +5,9 @@ date: 2014-02-28
 description: 'Ethereum Switzerland GmbH was a for-profit "Ethereum Company" which was incorporated in Zug in February 2014'
 ---
 
-Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit company was incorporated in Zug, Switzerland, on 28th February 2014 by Mihai Alisie and Swiss local Herbert Sterchi. 
+Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit company which was incorporated in Zug, Switzerland, on 28th February 2014 by Mihai Alisie and Swiss local Herbert Sterchi.
+
+Much of the Ethereum project's legal activity was organized through this for-profit entity in the early months, prior to the formation of the Stiftung Ethereum in July 2014.  EthSuisse activities wound down through 2014 and 2015 with liquidation commenced in 2016.
 
 [B2Bhint.com](https://b2bhint.com) has [public information](https://b2bhint.com/en/company/ch/ethereum-switzerland-gmbh-in-liquidation--CHE-349.816.493) on the legal entity which shows the following timeline:
 
@@ -22,3 +24,4 @@ Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit compa
 
 - Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - "Red Wedding"
+- Stiftung Ethereum

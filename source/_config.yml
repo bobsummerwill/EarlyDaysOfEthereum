@@ -137,18 +137,6 @@ plugins:
   - jekyll-sitemap  # Generates XML sitemap at /sitemap.xml for search engines
 
 # ============================================================================
-# Build Exclusions
-# ============================================================================
-# Files and folders to exclude from the generated site.
-# These are development files that shouldn't appear in the final website.
-
-exclude:
-  - Gemfile          # Ruby dependencies file
-  - Gemfile.lock     # Ruby dependencies lockfile
-  - README.md        # GitHub repository documentation
-  - vendor           # All Bundler cache and gem files
-
-# ============================================================================
 # How This All Works Together
 # ============================================================================
 # 1. Collections organize your content into logical groups (people, articles, videos)

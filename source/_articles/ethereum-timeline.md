@@ -104,7 +104,17 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   img="/images/duncan.co/2025.09.28/Duncan-Rawlinson-Photo-89477-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8862-1024x576.jpg"
 %}
 
-### Bitcoin Expo 2014 Toronto – 11th to 13th April 2014
+{% include content-embed.html
+  src="https://www.youtube.com/embed/exI4zywavD0"
+  title="In Crypto We Trust Hackathon"
+  date="April 10, 2014"
+%}
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/93669998"
+  title="Crypto Hackathon – Bitcoin Expo 2014!"
+  date="April 10, 2014"
+%}
 
 {% include content-embed.html
   url="https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/"
@@ -115,38 +125,31 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   img="/images/archive.org/bitcoinexpo.ca/20171124124825/Screenshot.png"
 %}
 
-### Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}), 18th April 2014
+{% include content-embed.html
+  src="https://player.vimeo.com/video/93371709"
+  title="Ethereum Booth at the Bitcoin Expo 2014"
+  date="April 11, 2014"
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/XjiJDU4ErlY"
+  title="Rare 2014 presentation by Ethereum Co-Founder, Vitalik Buterin"
+  author="Naomi Brockwell TV"
+  date="April 12, 2014"
+%}
+
+{% include content-embed.html
+  src="https://player.vimeo.com/video/92563841"
+  title="Why I Joined Ethereum"
+  author="Charles Hoskinson"
+  date="April 12, 2014"
+%}
 
 {% include content-embed.html
   src="https://player.vimeo.com/video/92338385"
   title="Ethereum Video Background loop for Meetup groups and presentations"
   author="Richard Stott"
   date="April 18, 2014"
-%}
-
-### Charles Hoskinson – Why I Joined Ethereum?, 21st April 2014
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/92563841"
-  title="Why I Joined Ethereum?"
-  author="Charles Hoskinson"
-  date="April 21, 2014"
-%}
-
-### Ethereum Booth at the Bitcoin Expo 2014, 30th April 2014
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/93371709"
-  title="Ethereum Booth at the Bitcoin Expo 2014"
-  date="April 30, 2014"
-%}
-
-### Crypto Hackathon – Bitcoin Expo 2014!, 2nd May 2014
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/93669998"
-  title="Crypto Hackathon – Bitcoin Expo 2014!"
-  date="May 2, 2014"
 %}
 
 ### What is Ethereum? (Stephan Tual, CCO), 4th June 2014

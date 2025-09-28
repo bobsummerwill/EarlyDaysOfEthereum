@@ -67,8 +67,10 @@ while ensuring clean, valid HTML output.
   {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
   
-  {%- comment -%}Skip if this person's name is already part of an article link{%- endcomment -%}
+  {%- comment -%}Skip if this person's name is already part of an article or video link{%- endcomment -%}
   {%- assign skip_person = false -%}
+  
+  {%- comment -%}Check article titles{%- endcomment -%}
   {%- for article in site.articles -%}
     {%- if article.title contains name_to_replace -%}
       {%- assign article_link_pattern = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
@@ -78,6 +80,19 @@ while ensuring clean, valid HTML output.
       {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
+  
+  {%- comment -%}Check video titles{%- endcomment -%}
+  {%- unless skip_person -%}
+    {%- for video in site.videos -%}
+      {%- if video.title contains name_to_replace -%}
+        {%- assign video_link_pattern = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
+        {%- if body_content contains video_link_pattern -%}
+          {%- assign skip_person = true -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endunless -%}
   
   {%- unless skip_person -%}
     {%- comment -%}Create the replacement link{%- endcomment -%}

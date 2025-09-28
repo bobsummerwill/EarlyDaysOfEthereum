@@ -1,7 +1,6 @@
 ---
-name: Joseph Lubin
-nickname: Joe
-description: Ethereum co-Founder
+name: Joe Lubin
+description: Ethereum co-Founder, CEO and Founder, ConsenSys
 photo: /images/archive.org/ethereum.org/20140701165441/lubin-joseph.jpg
 start: Jan 2014
 end: present
@@ -14,6 +13,9 @@ social:
 
 ## References
 
+- Early Days of Ethereum - Episode 1
+- Early Days of Ethereum - Episode 2
+- Early Days of Ethereum - Episode 3 - Bob Summerwill
 - Early Days of Ethereum - Episode 4 - Taylor Gerring
 - Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
 - Ethereum Timeline

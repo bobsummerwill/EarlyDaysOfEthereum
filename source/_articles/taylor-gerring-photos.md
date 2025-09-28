@@ -18,12 +18,12 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.25.jpeg' | relative_url }})
 
 ----
-*8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}) and Anthony Di Iorio can be seen next to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) as the crowd encroaches* - 26th January 2014
+*8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. Joe Lubin and Anthony Di Iorio can be seen next to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) as the crowd encroaches* - 26th January 2014
 
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.26.jpeg' | relative_url }})
 
 ----
-*Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday's photo, appearing below are [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), [Joe]({{ '/people/joseph-lubin/' | relative_url }}), [Jeremy]({{ '/people/jeremy-wood/' | relative_url }}), [Dino]({{ '/people/dino-mark/' | relative_url }}), and one unidentified smoker. My hammock is back and to the left. #EthYearsAgo* - 27th January 2014
+*Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday's photo, appearing below are [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), [Joe]({{ '/people/joe-lubin/' | relative_url }}), [Jeremy]({{ '/people/jeremy-wood/' | relative_url }}), [Dino]({{ '/people/dino-mark/' | relative_url }}), and one unidentified smoker. My hammock is back and to the left. #EthYearsAgo* - 27th January 2014
 
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.27.jpeg' | relative_url }})
 
@@ -32,7 +32,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }})
 
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joseph-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joe-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
 
 *(This image is from [Taylor]({{ '/people/taylor-gerring/' | relative_url }})'s twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))*
 

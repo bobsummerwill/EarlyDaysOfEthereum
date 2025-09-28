@@ -12,9 +12,9 @@ social:
 hidden: true
 ---
 
-Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Ethereum client. Host of The Early Days of Ethereum video series.  Son of [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}).  Was present at "Red Wedding" but involved in Ethereum in NYC earlier.
+Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Ethereum client. Host of The Early Days of Ethereum video series.  Son of Joe Lubin.  Was present at "Red Wedding" but involved in Ethereum in NYC earlier.
 
-[Joe]({{ '/people/joseph-lubin/' | relative_url }}) emailed Kieren from Miami on 28th Jan 2014:
+[Joe]({{ '/people/joe-lubin/' | relative_url }}) emailed Kieren from Miami on 28th Jan 2014:
 
 <img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.54.png" alt="Screenshot 2025-09-02 at 21-54-46" style="width: 65%; border-radius: 8px; margin: 18px 0;" /><
 
@@ -39,7 +39,7 @@ Kieren decided to join the project on 22nd March 2014 and spoke to [Vitalik]({{ 
 <p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.56.17.png" alt="Screenshot 2025-09-02 at 21-56-17" style="width: 69%; border-radius: 8px; margin: 18px 0;" /></p>
 <p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.56.26.png" alt="Screenshot 2025-09-02 at 21-56-26" style="width: 50%; border-radius: 8px; margin: 18px 0;" /></p>
 
-Kieren was present in Zug for the "Red Wedding", travelling there with his father, [Joe]({{ '/people/joseph-lubin/' | relative_url }}).
+Kieren was present in Zug for the "Red Wedding", travelling there with his father, [Joe]({{ '/people/joe-lubin/' | relative_url }}).
 
 He attended the [Cryptoeconomicon 1](https://web.archive.org/web/20160421023643/http://www.cryptoeconomicon.com/) conference on January 26th to January 29th of 2015, which had a "Who's Who?" of speakers and attendees.
 

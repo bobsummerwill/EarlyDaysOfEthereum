@@ -6,7 +6,7 @@ description: 'The "Red Wedding" was the meeting at Zug in June 2014 where Charle
 
 In early June of 2014, all of the co-founders headed to The Spaceship in Zug.  The EthSuisse for-profit legal entity had been incorporated in Zug on 28th February 2014 by Mihai Alisie and Herbert Sterchi.  The original purpose of the trip was to have the in-person meeting required by law for the other seven co-founders to be added as officers of the for-profit legal entity.
 
-Charles Hoskinson, Anthony Di Iorio, Amir Chetrit and [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}) flew in from North America.  Jeff Wilcke  flew in from Amsterdam, Gavin Wood from Berlin, and Vitalik, from his latest nomad location.
+Charles Hoskinson, Anthony Di Iorio, Amir Chetrit and Joe Lubin flew in from North America.  Jeff Wilcke  flew in from Amsterdam, Gavin Wood from Berlin, and Vitalik, from his latest nomad location.
 
 Tensions were at boiling point at that stage, so instead of a signing ceremony it turned into a "get all the venom out" bloodbath of a meeting on 7th June 2014.
 

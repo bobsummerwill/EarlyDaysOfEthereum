@@ -208,7 +208,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[21:03]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1263s) **Jim:**  But anyway, I like that, by the way.
 
-[[21:05]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1265s) **Kieren:**  Yes, yes, Jim's there. I'm in the state of New York at the moment. But, yeah, but, you know, I need a little break, basically. And it ended up being possible to work on the Ethereum project.  But so somehow my, you know, I guess I'll go into this somehow. My dad, [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}), got attached to the projects basically because he was always tracking Bitcoin and blockchain for a long time.
+[[21:05]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1265s) **Kieren:**  Yes, yes, Jim's there. I'm in the state of New York at the moment. But, yeah, but, you know, I need a little break, basically. And it ended up being possible to work on the Ethereum project.  But so somehow my, you know, I guess I'll go into this somehow. My dad, Joe Lubin, got attached to the projects basically because he was always tracking Bitcoin and blockchain for a long time.
 
 [[21:38]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1298s) **Kieren:**  He had a CS background plus the financial background and ran a hedge fund for a number of years. And so I was just kind of always watching technological innovations in financial services.
 
@@ -276,7 +276,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[35:46]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2146s) **Kieren:**  And I'd say the project, so the project had sort of tech folks and business folks, like any tech project, didn't really have a nominal CEO at any time.  It was closest to being Charles Hoskinson. So I think at the time I went to Zug, the leadership looked like, on the business side, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) is the CEO.
 
-[[36:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2177s) **Kieren:**  Amir Chetrit, who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. [Joe]({{ '/people/joseph-lubin/' | relative_url }}), my dad, and Anthony Di Iorio as the other business guys who probably had the most operating experience.
+[[36:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2177s) **Kieren:**  Amir Chetrit, who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. [Joe]({{ '/people/joe-lubin/' | relative_url }}), my dad, and Anthony Di Iorio as the other business guys who probably had the most operating experience.
 
 [[36:38]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2198s) **Kieren:**  And then the tech side was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}), [Gavin]({{ '/people/gavin-wood/' | relative_url }}), and then [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) had sort of done corporate setup.
 
@@ -394,9 +394,9 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[48:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2915s) **Jim:**  and bit by bit putting the whole EVM in Haskell code. So that's what most of the end of the year was like until I think in December I was – so I'm from the East Coast myself.
 
-[[48:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2934s) **Jim:**  And we flew – sorry. We flew out to New York, and I met – you introduced me. You were there at the time too. You introduced me to [Joe Lubin]({{ '/people/joseph-lubin/' | relative_url }}).
+[[48:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2934s) **Jim:**  And we flew – sorry. We flew out to New York, and I met – you introduced me. You were there at the time too. You introduced me to Joe Lubin.
 
-[[49:06]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2946s) **Jim:**  And actually, I think before that, too, you had set up phone calls where I talked to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and [Joe]({{ '/people/joseph-lubin/' | relative_url }}) directly, too. So, and just more and more with the fact that we had had a working client, that we were sort of following very closely all the changes in the testnet era before things were solidified.
+[[49:06]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2946s) **Jim:**  And actually, I think before that, too, you had set up phone calls where I talked to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and [Joe]({{ '/people/joe-lubin/' | relative_url }}) directly, too. So, and just more and more with the fact that we had had a working client, that we were sort of following very closely all the changes in the testnet era before things were solidified.
 
 [[49:28]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2968s) **Jim:**  We just got pulled more and more into that world. and I think like one of the big things sorry
 

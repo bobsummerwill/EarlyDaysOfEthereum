@@ -428,7 +428,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1514973024394653710/1514973024394653710_1.jpg" style="width:75%;">
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1514973024394653710/1514973024394653710_2.jpg" style="width:75%;">
 
-*“Ethereum was not the only star of Bitcoin Expo 2014. Other OGs like [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}) and [Adam B. Levine](https://x.com/AdamBLevine) could be found interviewing or giving talks” – Taylor Gerring, [Apr 15, 2022](https://twitter.com/TaylorGerring/status/1515057938649468930)*
+*“Ethereum was not the only star of Bitcoin Expo 2014. Other OGs like [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}) and Adam B. Levine could be found interviewing or giving talks” – Taylor Gerring, [Apr 15, 2022](https://twitter.com/TaylorGerring/status/1515057938649468930)*
 
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1515057938649468930/1515057938649468930_1.jpg" style="width:75%;">
 

@@ -1,6 +1,6 @@
 ---
 name: Eric Lombrozo
-description: Software Architect
+description: Software Architect, MinGW32 cross-compilation of cpp-ethereum
 photo: /images/ccn.com/2025.09.17/core-developer-bitcoin-business-entitled/eric-lombrozo.jpg
 start: Jan 2014
 social:

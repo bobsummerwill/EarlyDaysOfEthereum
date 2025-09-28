@@ -1,9 +1,17 @@
 ---
 name: Joris Bontje
+description: Continuous integration (CI)
 start: Mar 2014
-end: present
 devcon0: '1774'
 social:
   linkedin: https://www.linkedin.com/in/jorisbontje/
 ---
 
+*"Similarly, [Caktux]({{ '/people/vincent-g/' | relative_url }}) an early volunteer and maintainer of the Ncurses-based C++ Ethereum front-end neth has been invaluble (alongside [Joris]({{ '/people/joris-bontje/' | relative_url }}) and Nick Savers) in getting a continuous integration system up and running."* - Gavin Wood
+
+*"Even though they are not on anyone's team, I like to thank [Nick]({{ '/people/nick-savers/' | relative_url }}), [Caktux]({{ '/people/vincent-g/' | relative_url }}) and [Joris]({{ '/people/joris-bontje/' | relative_url }}) for their ongoing effort in developing out our build systems. I'd also like to thank Nick specifically for pointing out the inconsistencies between our implementations: ~~Nick, you truly are a great pain in my ass (-;~~"* - Jeff Wilcke
+
+## References
+
+- ["Gav’s ÐΞV Update I: Where Ethereum’s at"](https://blog.ethereum.org/2014/10/17/gavs-dev-update-ethereums) by Gavin Wood, 17th October 2014
+- [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - Jeff Wilcke, 2nd November 2014

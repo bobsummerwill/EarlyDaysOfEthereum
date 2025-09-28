@@ -1,6 +1,5 @@
 ---
 name: Jamie Pitts
-nickname: jemenger
 start: Jun 2016
 
 social:

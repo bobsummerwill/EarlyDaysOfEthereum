@@ -4,18 +4,23 @@ This repository has been set up with Jekyll for GitHub Pages deployment, providi
 
 ## Structure
 
-- **`_config.yml`** - Jekyll configuration
-- **`Gemfile`** - Ruby dependencies
-- **`_layouts/`** - Page templates
-  - `default.html` - Base layout with navigation
-  - `post.html` - Article layout
-  - `person.html` - People profile layout
-  - `video.html` - Video episode layout
-- **`_posts/`** - Articles (Jekyll posts)
-- **`_people/`** - People profiles (Jekyll collection)
-- **`_videos/`** - Video episodes (Jekyll collection)
-- **`images/`** - All images (unchanged structure)
-- **Index pages** - `index.html`, `articles/index.html`, `people/index.html`, `videos/index.html`
+- **`Gemfile`** - Ruby dependencies (project root)
+- **`source/`** - Jekyll source directory containing:
+  - **`_config.yml`** - Jekyll configuration
+  - **`_layouts/`** - Page templates
+    - `default.html` - Base layout with navigation
+    - `article.html` - Article layout
+    - `person.html` - People profile layout
+    - `video.html` - Video episode layout
+    - `mercata.html` - Mercata contest layout
+  - **`_articles/`** - Articles (Jekyll collection)
+  - **`_people/`** - People profiles (Jekyll collection)
+  - **`_videos/`** - Video episodes (Jekyll collection)
+  - **`_includes/`** - Template includes
+  - **`images/`** - All images (unchanged structure)
+  - **`assets/`** - CSS and other assets
+  - **`grid/`** - Grid view page
+  - **Index pages** - `index.html`, `articles/index.html`, `people/index.html`, `videos/index.html`
 
 ## Key Features
 
@@ -32,7 +37,7 @@ To run locally:
 
 ```bash
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --source source
 ```
 
 The site will be available at `http://localhost:4000/EarlyDaysOfEthereum/`
@@ -44,16 +49,16 @@ The site is configured to deploy automatically to GitHub Pages when changes are 
 ## Content Management
 
 ### Adding Articles
-Create new files in `_posts/` with the format `YYYY-MM-DD-title.md` and include proper front matter.
+Create new files in `source/_articles/` with appropriate front matter including title, description, and date.
 
 ### Adding People
-Create new files in `_people/` with appropriate front matter including role, period, and social links.
+Create new files in `source/_people/` with appropriate front matter including role, period, and social links.
 
 ### Adding Videos
-Create new files in `_videos/` with front matter including episode number, date, YouTube ID, and guest information.
+Create new files in `source/_videos/` with front matter including episode number, date, YouTube ID, and guest information.
 
 ### Images
-All images remain in the `images/` directory with the same structure. Use Jekyll's `relative_url` filter for proper path resolution:
+All images are stored in the `source/images/` directory. Use Jekyll's `relative_url` filter for proper path resolution:
 
 ```markdown
 ![Description]({{ '/images/path/to/image.jpg' | relative_url }})

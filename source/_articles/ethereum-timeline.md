@@ -41,14 +41,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 ## Timeline 2014
 
-### Who were the Founders of Ethereum?
-
-{% include content-embed.html
-  url="https://www.reddit.com/r/ethereum/comments/5w9i0j/who_are_the_founders_of_ethereum/?st=japhmhor&sh=594afb35"
-  title="Who are the Founders of Ethereum?"
-  site="Reddit"
-%}
-
 ### North American Bitcoin Conference, Miami, 26th January 2014
 
 {% include content-embed.html
@@ -61,9 +53,9 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 {% include content-embed.html
   url="https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/"
   title="Vitalik Buterin (Ethereum), a star is born"
-  description="North American Bitcoin Conference in Miami (Jan 2014)"
+  date="January 26, 2014"
   site="Ohio Bitcoin"
-  img="https://ohiobitcoin.com/storage/2017/04/yRD6Sr-500x372.jpg"
+  img="/images/ohiobitcoin.com/2025.09.28/yRD6Sr-500x372.jpg"
 %}
 
 ### Beach house in Miami in February, where first face-to-face development happened - 31st January 2014
@@ -74,7 +66,13 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
-### Introducing Ethereum, 19th February 2014
+{% include content-embed.html
+  url="http://siliconangle.com/blog/2014/02/12/can-ethereum-kill-bitcoin-with-self-executing-contracts/"
+  title="Can Ethereum Kill Bitcoin With Self-Executing Contracts?"
+  date="February 12, 2014"
+  site="SiliconAngle"
+  img="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
+%}
 
 {% include content-embed.html
   src="https://player.vimeo.com/video/87131363"
@@ -83,8 +81,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   date="February 19, 2014"
 %}
 
-### The upcoming crypto-singularity - Coinscrum, Stephan Tual, 10th March 2014
-
 {% include content-embed.html
   src="https://player.vimeo.com/video/88661838"
   title="The upcoming crypto-singularity - Coinscrum"
@@ -92,22 +88,20 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   date="March 10, 2014"
 %}
 
-### Ethereum – Your Turn (Charles Hoskinson voiceover), 12th March 2014
-
 {% include content-embed.html
   src="https://player.vimeo.com/video/88959651"
   title="Ethereum – Your Turn"
-  author="Charles Hoskinson"
+  author="Ethereum"
   date="March 12, 2014"
 %}
 
-### Duncan Rawlinson, 9th April 2014 (something just before the Expo?)
-
 {% include content-embed.html
   url="https://duncan.co/ethereum/"
-  title="Ethereum"
+  title="This is the team behind Ethereum, a platform for next-generation distributed applications."
   author="Duncan Rawlinson"
   date="April 9, 2014"
+  site="duncan.co"
+  img="/images/duncan.co/2025.09.28/Duncan-Rawlinson-Photo-89477-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8862-1024x576.jpg"
 %}
 
 ### Bitcoin Expo 2014 Toronto – 11th to 13th April 2014
@@ -115,8 +109,10 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 {% include content-embed.html
   url="https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/"
   title="Bitcoin Expo 2014 Toronto"
-  description="Archived Website"
-  site="Internet Archive"
+  description="Attend the first Bitcoin Expo in Canada"
+  date="April 11, 2014"
+  site="bitcoinexpo.ca"
+  img="/images/archive.org/bitcoinexpo.ca/20171124124825/Screenshot.png"
 %}
 
 ### Ethereum Video Background loop for Meetup groups and presentations ([Richard Stott]({{ '/people/richard-stott/' | relative_url }}), 18th April 2014

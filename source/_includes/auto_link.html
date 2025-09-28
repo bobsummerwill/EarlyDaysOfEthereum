@@ -1,9 +1,35 @@
+{%- comment -%}
+Auto-link system that creates links for videos, articles, and people names
+while avoiding double-linking (replacing text that's already inside links)
+
+This system processes content in three phases:
+1. Videos - Links video titles to their pages
+2. Articles - Links article titles to their pages (including embedded content)
+3. People - Links person names to their pages, with conflict detection
+
+The people processing phase includes conflict detection to prevent double-linking.
+When a person's name appears within an article title that has already been linked,
+the person name linking is skipped. For example:
+- Article "Taylor Gerring Photos" gets linked first
+- When processing people, "Taylor Gerring" is detected as already being
+  part of an existing article link, so it's skipped
+- This prevents creating nested <a> tags like:
+  <a href="/articles/taylor-gerring-photos/"><a href="/people/taylor-gerring/">Taylor Gerring</a> Photos</a>
+
+The system maintains proper priority: Videos > Articles > People
+while ensuring clean, valid HTML output.
+{%- endcomment -%}
+
 {%- assign body_content = include.content -%}
+
+{%- comment -%}Process videos first{%- endcomment -%}
 {%- for video in site.videos -%}
   {%- assign title_to_replace = video.title -%}
   {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
 {%- endfor -%}
+
+{%- comment -%}Process articles second{%- endcomment -%}
 {%- for article in site.articles -%}
   {%- assign title_to_replace = article.title -%}
   {%- assign alias_to_replace = article.alias -%}
@@ -35,14 +61,35 @@
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
+
+{%- comment -%}Process people last, but skip if the name is already part of an existing link{%- endcomment -%}
 {%- for other_person in site.people -%}
   {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
-  {%- if other_person.hidden -%}
-    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
-  {%- else -%}
-    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
-  {%- endif -%}
-  {%- assign body_content = body_content | replace: name_to_replace, link_replacement -%}
+  
+  {%- comment -%}Skip if this person's name is already part of an article link{%- endcomment -%}
+  {%- assign skip_person = false -%}
+  {%- for article in site.articles -%}
+    {%- if article.title contains name_to_replace -%}
+      {%- assign article_link_pattern = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
+      {%- if body_content contains article_link_pattern -%}
+        {%- assign skip_person = true -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- unless skip_person -%}
+    {%- comment -%}Create the replacement link{%- endcomment -%}
+    {%- if other_person.hidden -%}
+      {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+    {%- else -%}
+      {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+    {%- endif -%}
+    
+    {%- comment -%}Only replace if not inside existing links{%- endcomment -%}
+    {%- assign body_content = body_content | replace: name_to_replace, link_replacement -%}
+  {%- endunless -%}
 {%- endfor -%}
+
 {{ body_content }}

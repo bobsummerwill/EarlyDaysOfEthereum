@@ -10,7 +10,7 @@ This is an attempt by [Bob Summerwill](https://bobsummerwill.com/about) (along w
 See also the partial public histories in:
 
 - [Cut and Try – Building a Dream](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/), written by Taylor Gerring in February 2016
-- [History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
+- [History of Ethereum](https://web.archive.org/web/20171231180759/http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
 - [A Prehistory of the Ethereum Protocol](https://vitalik.eth.limo/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
 
 ## Timeline 2013
@@ -44,9 +44,9 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 ### North American Bitcoin Conference, Miami, 26th January 2014
 
 {% include content-embed.html
-  src="https://player.vimeo.com/video/88664033"
-  title="Vitalik Buterin introduces Ethereum at Bitcoin Miami 2014"
-  author="Vitalik Buterin"
+  src="https://www.youtube.com/embed/l9dpjN3Mwps"
+  title="Vitalik. Buterin reveals Ethereum at Bitcoin Miami 2014"
+  author="Ethereum Project"
   date="January 26, 2014"
 %}
 
@@ -67,18 +67,18 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
 {% include content-embed.html
+  src="https://player.vimeo.com/video/87131363"
+  title="Introducing Ethereum"
+  author="Ethereum Project"
+  date="February 6, 2014"
+%}
+
+{% include content-embed.html
   url="http://siliconangle.com/blog/2014/02/12/can-ethereum-kill-bitcoin-with-self-executing-contracts/"
   title="Can Ethereum Kill Bitcoin With Self-Executing Contracts?"
   date="February 12, 2014"
   site="SiliconAngle"
   img="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
-%}
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/87131363"
-  title="Introducing Ethereum"
-  author="Vitalik Buterin"
-  date="February 19, 2014"
 %}
 
 {% include content-embed.html

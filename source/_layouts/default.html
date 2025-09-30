@@ -67,6 +67,14 @@
   -->
   <body>
 
+    <!-- Full-page Background Video -->
+    {% if page.url == "/" %}
+    <video class="full-page-bg-video" autoplay loop muted playsinline>
+        <source src="{{ '/assets/videos/ethereum-bg-2014.webm' | relative_url }}" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
+    {% endif %}
+
     <!--
       Site header with title and navigation.
       See: https://jekyllrb.com/docs/navigation/

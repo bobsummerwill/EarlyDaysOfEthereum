@@ -944,7 +944,7 @@ img {
 }
 
 .content-sections section {
-    background: var(--bg-light);
+    background: transparent;
     padding: var(--spacing-4xl);
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
@@ -1083,7 +1083,7 @@ img {
  * Uses different background color to separate from main content.
  */
 .backstory {
-    background: var(--bg-code);
+    background: transparent;
     padding: var(--spacing-5xl);
     border-radius: var(--radius-lg);
     margin-top: var(--spacing-6xl);
@@ -1884,4 +1884,75 @@ img {
     margin-bottom: var(--spacing-3xl);
     color: var(--text-lighter);
     font-size: 0.9em;
+}
+
+/**
+ * Full Page Background Video
+ * 
+ * Covers the entire viewport behind all content with proper layering
+ * and responsive behavior while maintaining content readability.
+ */
+.full-page-bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1000;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+/**
+ * Content Overlays - Ensure readability over video background
+ * 
+ * Adds semi-transparent backgrounds to content areas for better readability
+ * over the background video.
+ */
+body {
+    position: relative;
+}
+
+header {
+    background: transparent;
+}
+
+main {
+    background: transparent;
+}
+
+.hero-section {
+    position: relative;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Hero Content Container */
+.hero-content {
+    position: relative;
+    z-index: 1;
+    background: transparent;
+    padding: var(--spacing-5xl);
+    border-radius: var(--radius-lg);
+    max-width: 1000px;
+    margin: var(--spacing-5xl);
+}
+
+/* Hero Text Styling */
+.hero-text {
+    text-align: left;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .hero-content {
+        margin: var(--spacing-3xl) var(--spacing-2xl);
+        padding: var(--spacing-3xl);
+    }
+    
+    .hero-section {
+        min-height: 60vh;
+    }
 }

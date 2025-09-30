@@ -1872,14 +1872,14 @@ img {
     position: relative;
     overflow: hidden;
     border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-light);
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.8);
     transition: var(--transition-fast);
     background: var(--bg-lighter);
 }
 
 .grid-item:hover {
     transform: translateY(-5px);
-    box-shadow: var(--shadow-medium);
+    box-shadow: 0 0 0 2px rgba(0,0,0,1);
 }
 
 .grid-item img {

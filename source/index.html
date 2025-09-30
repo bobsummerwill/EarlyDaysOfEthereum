@@ -46,220 +46,24 @@ description: "Comprehensive documentation of the early days of Ethereum, featuri
 <!--
   Main Content Sections: People, Videos, Articles
   - Jekyll Collections: https://jekyllrb.com/docs/collections/
-  - CSS Grid/Table: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 -->
 <div class="content-sections">
     <!-- People Section -->
     <section class="people-section">
         <h2><a href="{{ '/people/' | relative_url }}">People</a></h2>
-        <table class="content-table">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Start Date</th>
-                    <th>Description</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% comment %}
-                Group people by start date and sort chronologically like on /people page.
-                - Jekyll Variables: https://jekyllrb.com/docs/variables/
-                {% endcomment %}
-                {% assign people_with_dates = "" | split: "" %}
-                {% assign people_without_dates = "" | split: "" %}
-
-                {% for person in site.people %}
-                    {% if person.hidden != true and person.hidden != 'true' %}
-                        {% if person.start and person.start != '' and person.start != '???' %}
-                            {% assign people_with_dates = people_with_dates | push: person %}
-                        {% else %}
-                            {% assign people_without_dates = people_without_dates | push: person %}
-                        {% endif %}
-                    {% endif %}
-                {% endfor %}
-
-                {% assign date_groups = "" | split: "" %}
-                {% assign processed_dates = "" | split: "" %}
-
-                {% for person in people_with_dates %}
-                    {% unless processed_dates contains person.start %}
-                        {% assign processed_dates = processed_dates | push: person.start %}
-                        {% assign date_groups = date_groups | push: person.start %}
-                    {% endunless %}
-                {% endfor %}
-
-                {% assign sorted_dates = "" | split: "" %}
-                {% assign years_2013 = "" | split: "" %}
-                {% assign years_2014 = "" | split: "" %}
-                {% assign years_2015 = "" | split: "" %}
-                {% assign years_2016 = "" | split: "" %}
-                {% assign years_2017 = "" | split: "" %}
-                {% assign years_2018 = "" | split: "" %}
-                {% assign years_other = "" | split: "" %}
-
-                {% for date_str in date_groups %}
-                    {% if date_str contains "2013" %}
-                        {% assign years_2013 = years_2013 | push: date_str %}
-                    {% elsif date_str contains "2014" %}
-                        {% assign years_2014 = years_2014 | push: date_str %}
-                    {% elsif date_str contains "2015" %}
-                        {% assign years_2015 = years_2015 | push: date_str %}
-                    {% elsif date_str contains "2016" %}
-                        {% assign years_2016 = years_2016 | push: date_str %}
-                    {% elsif date_str contains "2017" %}
-                        {% assign years_2017 = years_2017 | push: date_str %}
-                    {% elsif date_str contains "2018" %}
-                        {% assign years_2018 = years_2018 | push: date_str %}
-                    {% else %}
-                        {% assign years_other = years_other | push: date_str %}
-                    {% endif %}
-                {% endfor %}
-
-                {% assign month_order = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
-
-                {% for month in month_order %}
-                    {% for date_str in years_2013 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% for month in month_order %}
-                    {% for date_str in years_2014 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% for month in month_order %}
-                    {% for date_str in years_2015 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% for month in month_order %}
-                    {% for date_str in years_2016 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% for month in month_order %}
-                    {% for date_str in years_2017 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% for month in month_order %}
-                    {% for date_str in years_2018 %}
-                        {% if date_str contains month %}
-                            {% assign sorted_dates = sorted_dates | push: date_str %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-
-                {% assign years_other_sorted = years_other | sort %}
-                {% for year_group in years_other_sorted %}
-                    {% assign sorted_dates = sorted_dates | push: year_group %}
-                {% endfor %}
-
-                {% for start_date in sorted_dates %}
-                  {% if start_date contains "2013" %}
-                    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
-                    {% for person in people_in_date %}
-                      <tr>
-                        <td><a href="{{ person.url | relative_url }}">{{ person.name }}</a></td>
-                        <td>{{ person.start | default: "" }}</td>
-                        <td>
-                          {% assign desc = person.description | default: person.role | default: "" %}
-                          <!--
-                            Auto-link in order: Videos, Articles, People (match all occurrences)
-                            - Liquid Filters: https://shopify.github.io/liquid/filters/
-                          -->
-                          {% for video in site.videos %}
-                            {% assign title_to_replace = video.title %}
-                            {% assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                          {% endfor %}
-                          {% for article in site.articles %}
-                            {% assign title_to_replace = article.title %}
-                            {% assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' %}
-                            {% assign desc = desc | replace: title_to_replace, link_replacement %}
-                          {% endfor %}
-                          {% for other_person in site.people %}
-                            {% if other_person.name != person.name %}
-                              {% assign name_to_replace = other_person.name %}
-                              {% assign display_name = other_person.name %}
-                              {% if other_person.nickname and other_person.nickname != '' %}
-                                {% assign display_name = other_person.name | append: ' ("' | append: other_person.nickname | append: '")' %}
-                              {% endif %}
-                              {% assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: display_name | append: '</a>' %}
-                              {% assign desc = desc | replace: name_to_replace, link_replacement %}
-                            {% endif %}
-                          {% endfor %}
-                          {{ desc }}
-                        </td>
-                      </tr>
-                    {% endfor %}
-                  {% endif %}
-                {% endfor %}
-            </tbody>
-        </table>
-        {% if site.people.size > 10 %}
         <p><a href="{{ '/people/' | relative_url }}" class="view-all">View all people &rarr;</a></p>
-        {% endif %}
     </section>
 
     <!-- Videos Section -->
     <section class="videos-section">
         <h2><a href="{{ '/videos/' | relative_url }}">Videos</a></h2>
-        <table class="content-table">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Date</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% assign sorted_videos = site.videos | sort: 'episode' %}
-                {% for video in sorted_videos limit: 5 %}
-                <tr>
-                    <td><a href="{{ video.url | relative_url }}">{{ video.title }}</a></td>
-                    <td>{% if video.date %}{{ video.date | date: "%B %d, %Y" }}{% endif %}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        {% if site.videos.size > 5 %}
         <p><a href="{{ '/videos/' | relative_url }}" class="view-all">View all videos &rarr;</a></p>
-        {% endif %}
     </section>
 
     <!-- Articles Section -->
     <section class="articles-section">
         <h2><a href="{{ '/articles/' | relative_url }}">Articles</a></h2>
-        <table class="content-table">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Date</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% assign sorted_articles = site.articles | sort: 'date' %}
-                {% for article in sorted_articles limit: 5 %}
-                <tr>
-                    <td><a href="{{ article.url | relative_url }}">{{ article.title }}</a></td>
-                    <td>{% if article.date %}{{ article.date | date: "%B %d, %Y" }}{% endif %}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        {% if site.articles.size > 5 %}
         <p><a href="{{ '/articles/' | relative_url }}" class="view-all">View all articles &rarr;</a></p>
-        {% endif %}
     </section>
 </div>
 

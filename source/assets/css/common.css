@@ -17,9 +17,9 @@
    * Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
    * WCAG Guidelines: https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html
    */
-  --primary-blue: #007acc;           /* Primary brand color - 4.5:1 contrast ratio */
-  --primary-blue-dark: #005580;      /* Darker variant for hover states */
-  --primary-blue-visited: #551a8b;   /* Standard visited link color per HTML spec */
+  --primary-blue: #333;              /* Original 2014 grayscale link color */
+  --primary-blue-dark: #222;         /* Darker variant for hover states */
+  --primary-blue-visited: #666;      /* Grayscale visited link color */
   --text-dark: #333;                 /* High contrast text - 12.6:1 ratio */
   --text-medium: #555;               /* Medium contrast text - 7.4:1 ratio */
   --text-light: #666;                /* Light text for secondary content - 5.7:1 ratio */
@@ -237,7 +237,7 @@
 }
 
 .section-header {
-  color: var(--primary-blue);
+  color: #333;
   margin-top: 0;
   margin-bottom: var(--spacing-3xl);
 }
@@ -319,13 +319,14 @@
  * Reference: https://every-layout.dev/layouts/center/
  */
 body {
-    font-family: var(--font-family);
+    font-family: 'RobotoLight', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
     line-height: var(--line-height);
-    color: var(--text-dark);
+    color: #333;
     max-width: 1200px;
     margin: 0 auto;
     padding: var(--spacing-3xl);
     background-color: var(--bg-white);
+    font-size: 13px;
 }
 
 /**
@@ -335,7 +336,6 @@ body {
  * Uses border-bottom for subtle visual hierarchy.
  */
 header {
-    border-bottom: 1px solid var(--border-light);
     margin-bottom: var(--spacing-5xl);
     padding-bottom: var(--spacing-3xl);
 }
@@ -346,9 +346,52 @@ header {
  * Uses brand color for visual hierarchy and recognition.
  * Removes default margins for precise control.
  */
+h1, h2, h3, h4, h5, h6 {
+    text-transform: lowercase;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #333;
+    font-weight: 300;
+    font-family: 'RobotoLight', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
 h1 {
     color: var(--primary-blue);
     margin: 0;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #333;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 300;
+    color: #333;
+}
+
+/**
+ * Global Link Styling - Base anchor tag styling for all links
+ * 
+ * Ensures all links throughout the site use the original 2014 ethereum.org colors
+ * regardless of context or specific classes.
+ */
+a {
+    color: var(--primary-blue);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--primary-blue-visited);
+}
+
+a:hover {
+    color: var(--primary-blue);
+    text-decoration: underline;
 }
 
 /**
@@ -603,8 +646,7 @@ img {
  * Reference: https://www.w3.org/WAI/tutorials/page-structure/headings/
  */
 .table-of-contents {
-    background: var(--bg-section);
-    border: 1px solid var(--border-table);
+    background: transparent;
     border-radius: var(--radius-lg);
     padding: var(--spacing-3xl);
     margin: var(--spacing-5xl) 0;
@@ -613,7 +655,7 @@ img {
 
 .table-of-contents h2 {
     margin: 0 0 var(--spacing-2xl) 0;
-    color: var(--primary-blue);
+    color: #333;
     font-size: 1.3em;
 }
 
@@ -683,23 +725,23 @@ img {
  */
 .person-card {
     background: var(--bg-card);
-    padding: var(--spacing-2xl);
+    padding: var(--spacing-lg);
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-2xl);
+    gap: var(--spacing-lg);
 }
 
 .person-card .person-header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: var(--spacing-2xl);
+    gap: var(--spacing-lg);
 }
 
 .person-card .person-header:not(:has(.person-photo)) {
-    gap: var(--spacing-lg);
+    gap: var(--spacing-sm);
 }
 
 /**
@@ -813,8 +855,8 @@ img {
  * Uses flexbox for consistent alignment and spacing.
  */
 .person-social-links-index {
-    margin-top: var(--spacing-lg);
-    margin-bottom: var(--spacing-xl);
+    margin-top: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
     display: block;
     text-align: center;
 }
@@ -850,14 +892,14 @@ img {
  * Uses micro-interactions for enhanced user experience.
  */
 .person-interview-link {
-    margin-top: 18px;
+    margin-top: var(--spacing-sm);
     text-align: center;
 }
 
 .interview-link {
     display: inline-block;
-    background: var(--primary-blue);
-    color: var(--bg-white);
+    background: #007acc;
+    color: #fff !important;
     padding: var(--spacing-sm) var(--spacing-xl);
     border-radius: var(--radius-sm);
     text-decoration: none;
@@ -867,7 +909,7 @@ img {
 }
 
 .interview-link:hover {
-    background: var(--primary-blue-dark);
+    background: #005580;
     transform: translateY(-1px);
     box-shadow: var(--shadow-medium);
 }
@@ -961,6 +1003,7 @@ img {
  */
 .content-table {
     width: 100%;
+    max-width: 1000px;
     border-collapse: collapse;
     margin-bottom: var(--spacing-2xl);
 }
@@ -982,12 +1025,12 @@ img {
 }
 
 .content-table td {
-    padding: var(--spacing-xl);
-    border-bottom: 1px solid var(--border-medium);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    border-bottom: none;
 }
 
 .content-table tr:hover {
-    background: #f0f8ff;
+    background: transparent;
 }
 
 .content-table a {
@@ -1090,7 +1133,7 @@ img {
 }
 
 .backstory h2 {
-    color: var(--primary-blue);
+    color: #333;
     margin-top: 0;
 }
 
@@ -1547,7 +1590,7 @@ img {
 
 .person-role {
     font-weight: bold;
-    color: var(--primary-blue);
+    color: var(--text-medium);
     font-size: 1.1em;
 }
 
@@ -1569,8 +1612,8 @@ img {
 
 .interview-link {
     display: inline-block;
-    background: var(--primary-blue);
-    color: var(--bg-white);
+    background: #007acc;
+    color: #fff !important;
     padding: var(--spacing-md) var(--spacing-2xl);
     border-radius: var(--radius-md);
     text-decoration: none;
@@ -1580,7 +1623,7 @@ img {
 }
 
 .interview-link:hover {
-    background: var(--primary-blue-dark);
+    background: #005580;
     transform: translateY(-2px);
     box-shadow: var(--shadow-medium);
 }
@@ -1669,7 +1712,7 @@ img {
 .person-content h4,
 .person-content h5,
 .person-content h6 {
-    color: var(--primary-blue);
+    color: #333;
     margin-top: var(--spacing-4xl);
     margin-bottom: var(--spacing-2xl);
 }
@@ -1691,7 +1734,7 @@ img {
 }
 
 .person-links h3 {
-    color: var(--primary-blue);
+    color: #333;
     margin-bottom: var(--spacing-lg);
 }
 
@@ -1998,7 +2041,7 @@ main {
 }
 
 .ethereum-text {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-family: 'RobotoRegular', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
     font-size: 2.2em;
     font-weight: 400;
     color: #333;

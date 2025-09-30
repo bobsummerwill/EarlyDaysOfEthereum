@@ -55,6 +55,38 @@
   --spacing-4xl: 25px;  /* ~3 × base unit - large spacing */
   --spacing-5xl: 30px;  /* ~4 × base unit - major section spacing */
   --spacing-6xl: 40px;  /* 5 × base unit - page-level spacing */
+  --spacing-embed: 18px; /* Embed component spacing - factored out common value */
+  
+  /**
+   * Typography Scale - Consistent font sizing system
+   * 
+   * Factored out common font sizes used throughout the design system.
+   * Based on modular scale for consistent visual hierarchy.
+   */
+  --font-size-small: 0.85em;    /* Small text for metadata */
+  --font-size-normal: 0.9em;    /* Slightly reduced normal text */
+  --font-size-medium: 0.95em;   /* Medium text for descriptions */
+  --font-size-large: 0.98em;    /* Large text for content */
+  --font-size-title: 1.13em;    /* Title text for cards and embeds */
+  
+  /**
+   * Common Background Colors - Standardized background system
+   * 
+   * Consolidates the #e8e8e8 background used across many card components
+   * and other common background patterns.
+   */
+  --bg-card: #e8e8e8;           /* Standard card background - replaces hardcoded values */
+  --bg-card-content: #444;      /* Card content text color */
+  --bg-card-text: #222;         /* Card title text color */
+  
+  /**
+   * Common Shadow System - Standardized elevation effects
+   * 
+   * Consolidates repeated shadow patterns used across interactive elements.
+   */
+  --shadow-hover: 0 4px 16px rgba(0,0,0,0.15); /* Standard hover elevation */
+  --shadow-embed: 0 2px 8px rgba(0,0,0,0.04);  /* Embed component shadow */
+  --shadow-embed-inner: 0 1px 6px rgba(0,0,0,0.06); /* Inner embed shadow */
   
   /**
    * Border Radius Scale - Consistent corner rounding system
@@ -650,7 +682,7 @@ img {
  * Includes hover animation for enhanced user interaction.
  */
 .person-card {
-    background: #e8e8e8;
+    background: var(--bg-card);
     padding: var(--spacing-2xl);
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
@@ -1081,7 +1113,7 @@ img {
 }
 
 .video-card {
-    background: #e8e8e8;
+    background: var(--bg-card);
     padding: var(--spacing-2xl);
     margin-bottom: var(--spacing-3xl);
     border-radius: var(--radius-lg);
@@ -1092,7 +1124,7 @@ img {
 }
 
 .video-card:hover {
-    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    box-shadow: var(--shadow-hover);
 }
 
 .video-thumbnail {
@@ -1190,8 +1222,8 @@ img {
  * Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio
  */
 .video-embed-card {
-  margin: 18px auto;
-  background: #e8e8e8;
+  margin: var(--spacing-embed) auto;
+  background: var(--bg-card);
   border-radius: var(--spacing-xl);
   box-shadow: var(--shadow-heavy);
   border: 1.5px solid var(--border-medium);
@@ -1205,7 +1237,7 @@ img {
 }
 
 .video-embed-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  box-shadow: var(--shadow-hover);
 }
 
 .video-embed-responsive {
@@ -1233,11 +1265,139 @@ img {
  * Uses consistent hover animation with other embed components.
  */
 .blog-embed-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-table);
+  border-radius: var(--radius-xl);
+  padding: 0;
+  margin: var(--spacing-embed) 0;
+  box-shadow: var(--shadow-embed);
+  overflow: hidden;
   transition: box-shadow 0.2s ease;
 }
 
 .blog-embed-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+  box-shadow: var(--shadow-hover) !important;
+}
+
+/* Video embed container within blog embed cards */
+.blog-embed-video-container {
+  width: 100%;
+  background: #e8e8e8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 0 10px 0;
+}
+
+.blog-embed-video-wrapper {
+  width: 92%;
+  border-radius: var(--radius-lg);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  background: #e8e8e8;
+  border: 1px solid var(--border-table);
+  overflow: hidden;
+}
+
+.video-embed-minimal {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: none;
+  display: block;
+  background: #000;
+}
+
+/* Blog embed image container */
+.blog-embed-image-container {
+  width: 100%;
+  background: #e8e8e8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 0 10px 0;
+}
+
+.blog-embed-image {
+  width: 92%;
+  display: block;
+  object-fit: contain;
+  border-radius: var(--radius-lg);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+}
+
+/* Blog embed content areas */
+.blog-embed-meta {
+  padding: 18px 18px 16px 18px;
+  background: #e8e8e8;
+}
+
+.blog-embed-title {
+  font-weight: bold;
+  font-size: 1.13em;
+  margin-bottom: 6px;
+  color: #222;
+}
+
+.blog-embed-title-with-padding {
+  font-weight: bold;
+  font-size: 1.13em;
+  margin-bottom: 6px;
+  color: #222;
+  padding: 0 18px;
+  background: #e8e8e8;
+}
+
+.blog-embed-description {
+  font-size: 0.98em;
+  color: #444;
+  margin-bottom: 6px;
+}
+
+.blog-embed-site {
+  color: var(--primary-blue);
+}
+
+.blog-embed-site-line {
+  font-size: 0.98em;
+  color: var(--text-light);
+  margin-bottom: 4px;
+}
+
+.blog-embed-site-line a {
+  color: var(--primary-blue);
+  text-decoration: underline;
+}
+
+.blog-embed-author {
+  color: var(--primary-blue);
+  text-decoration: underline;
+}
+
+.blog-embed-date {
+  color: var(--text-light);
+}
+
+.blog-embed-link {
+  color: var(--primary-blue);
+  word-break: break-all;
+}
+
+.blog-embed-meta-line {
+  font-size: 0.98em;
+  color: var(--text-light);
+  margin-bottom: 2px;
+}
+
+.blog-embed-meta-line-with-margin {
+  font-size: 0.98em;
+  color: var(--text-light);
+  margin-bottom: 4px;
+}
+
+/* Blog embed link styling */
+.blog-embed-link-wrapper {
+  color: inherit;
+  text-decoration: none;
+  display: block;
 }
 
 /**

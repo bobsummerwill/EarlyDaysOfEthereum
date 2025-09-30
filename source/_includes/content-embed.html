@@ -8,12 +8,12 @@
     Blog: has img parameter or no img parameter
 -->
 {% assign embed_width = layout.embed-content-width | default: "420px" %}
-<div class="blog-embed-card" style="background: #e8e8e8; border: 1px solid #e9ecef; border-radius: 12px; padding: 0; margin: 18px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: {{ embed_width }}; overflow: hidden;">
+<div class="blog-embed-card" style="max-width: {{ embed_width }};">
   {% if include.src %}
     <!-- VIDEO MODE -->
-    <a href="{{ include.url | default: include.src }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
-      <div style="width: 100%; background: #e8e8e8; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
-        <div style="width: 92%; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06); background: #e8e8e8; border: 1px solid #e9ecef; overflow: hidden;">
+    <a href="{{ include.url | default: include.src }}" target="_blank" rel="noopener" class="blog-embed-link-wrapper">
+      <div class="blog-embed-video-container">
+        <div class="blog-embed-video-wrapper">
           <iframe
             class="video-embed-minimal"
             src="{{ include.src }}"
@@ -21,25 +21,24 @@
             allowfullscreen
             loading="lazy"
             referrerpolicy="no-referrer"
-            style="width: 100%; aspect-ratio: 16/9; border: none; display: block; background: #000;"
           ></iframe>
         </div>
       </div>
-      <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #e8e8e8;">
+      <div class="blog-embed-meta">
         {% if include.title %}
-          <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222;">
+          <div class="blog-embed-title">
             {{ include.title }}
           </div>
         {% endif %}
         {% if include.site or include.author or include.date %}
           {% if include.site %}
-            <div style="font-size: 0.98em; color: #666; margin-bottom: 2px;">
-              <span class="blog-embed-site" style="color: #007acc;">{{ include.site }}</span>
+            <div class="blog-embed-meta-line">
+              <span class="blog-embed-site">{{ include.site }}</span>
             </div>
           {% endif %}
           {% if include.author or include.date %}
-            <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
-              {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url | relative_url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+            <div class="blog-embed-meta-line-with-margin">
+              {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url | relative_url }}" class="blog-embed-author">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
             </div>
           {% endif %}
         {% endif %}
@@ -48,20 +47,20 @@
   {% else %}
     <!-- BLOG MODE -->
     {% if include.img or include.title %}
-      <a href="{{ include.url }}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; display: block;">
+      <a href="{{ include.url }}" target="_blank" rel="noopener" class="blog-embed-link-wrapper">
         {% if include.img %}
-          <div style="width: 100%; background: #e8e8e8; display: flex; align-items: center; justify-content: center; padding: 14px 0 10px 0;">
-            <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" style="width: 92%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,0.06);" loading="lazy" />
+          <div class="blog-embed-image-container">
+            <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" class="blog-embed-image" loading="lazy" />
           </div>
         {% endif %}
         {% if include.title %}
-          <div class="blog-embed-title" style="font-weight: bold; font-size: 1.13em; margin-bottom: 6px; color: #222; padding: 0 18px; background: #e8e8e8;">
+          <div class="blog-embed-title-with-padding">
             {{ include.title }}
           </div>
         {% endif %}
       </a>
     {% endif %}
-    <div class="blog-embed-meta" style="padding: 18px 18px 16px 18px; background: #e8e8e8;">
+    <div class="blog-embed-meta">
       {% if include.description %}
         <div class="blog-embed-description" style="font-size: 0.98em; color: #444; margin-bottom: 6px;">
           {{ include.description }}

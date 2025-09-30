@@ -1900,7 +1900,7 @@ img {
     height: 100vh;
     z-index: -1000;
     object-fit: cover;
-    opacity: 0.8;
+    opacity: 1.0;
 }
 
 /**
@@ -1954,5 +1954,72 @@ main {
     
     .hero-section {
         min-height: 60vh;
+    }
+}
+
+/**
+ * Ethereum Logo Section - 2014 authentic branding recreation
+ * 
+ * Recreates the iconic diamond logo and typography from the original ethereum.org
+ * with centered layout and period-appropriate styling.
+ */
+.ethereum-logo-section {
+    text-align: center;
+    padding: var(--spacing-2xl) 0;
+    margin: var(--spacing-xl) 0;
+}
+
+.ethereum-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-2xl);
+}
+
+.ethereum-diamond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ethereum-diamond img {
+    width: 180px;
+    height: auto;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: none !important;
+    border: none !important;
+}
+
+.ethereum-diamond svg {
+    width: 180px;
+    height: auto;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+}
+
+.ethereum-text {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-size: 2.2em;
+    font-weight: 400;
+    color: #333;
+    margin: 0;
+    letter-spacing: 0.25em;
+    text-transform: lowercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+    .ethereum-logo-section {
+        padding: var(--spacing-4xl) 0;
+    }
+    
+    .ethereum-diamond img,
+    .ethereum-diamond svg {
+        width: 120px;
+    }
+    
+    .ethereum-text {
+        font-size: 1.6em;
     }
 }

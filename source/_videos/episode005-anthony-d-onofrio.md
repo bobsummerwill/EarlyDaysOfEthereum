@@ -4,7 +4,7 @@ date: 2025-09-03
 youtube_id: 7i7MJgXoXxk
 guests: ["Anthony D'Onofrio"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
-description: "Texture was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."
+description: "Anthony D'Onofrio ('Texture') was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."
 ---
 
 {% include content-embed.html

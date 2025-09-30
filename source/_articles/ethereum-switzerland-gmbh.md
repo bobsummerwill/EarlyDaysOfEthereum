@@ -2,6 +2,7 @@
 title: Ethereum Switzerland GmbH
 alias: "EthSuisse"
 date: 2014-02-28
+author: "Bob Summerwill"
 description: 'Ethereum Switzerland GmbH was a for-profit "Ethereum Company" which was incorporated in Zug in February 2014'
 ---
 

@@ -2,6 +2,7 @@
 title: Stiftung Ethereum
 alias: Ethereum Foundation
 date: 2014-07-13
+author: "Bob Summerwill"
 description: 'Stiftung Ethereum is a non-profit organization which was incorporated in Zug in July 2014.  It is more commonly known by its English name - the Ethereum Foundation.'
 ---
 

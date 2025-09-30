@@ -66,11 +66,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/87131363"
-  title="Introducing Ethereum"
-  author="Ethereum Project"
-  date="February 6, 2014"
+{% include video-embed.html
+  name="Introducing Ethereum"
 %}
 
 {% include content-embed.html

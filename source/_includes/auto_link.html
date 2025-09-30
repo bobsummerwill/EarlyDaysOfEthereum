@@ -67,14 +67,9 @@ while ensuring clean, valid HTML output.
   {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
   
-  {%- comment -%}Skip if this person is hidden{%- endcomment -%}
-  {%- assign skip_person = false -%}
-  {%- if other_person.hidden == true or other_person.hidden == 'true' -%}
-    {%- assign skip_person = true -%}
-  {%- endif -%}
-  
   {%- comment -%}Skip if this person's name is already part of an article or video link{%- endcomment -%}
-  {%- unless skip_person -%}
+  {%- assign skip_person = false -%}
+  
   {%- comment -%}Check article titles{%- endcomment -%}
   {%- for article in site.articles -%}
     {%- if article.title contains name_to_replace -%}
@@ -98,11 +93,14 @@ while ensuring clean, valid HTML output.
       {%- endif -%}
     {%- endfor -%}
   {%- endunless -%}
-  {%- endunless -%}
   
   {%- unless skip_person -%}
-    {%- comment -%}Create the replacement link for non-hidden people{%- endcomment -%}
-    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+    {%- comment -%}Create the replacement link{%- endcomment -%}
+    {%- if other_person.hidden -%}
+      {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+    {%- else -%}
+      {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+    {%- endif -%}
     
     {%- comment -%}Only replace if not inside existing links{%- endcomment -%}
     {%- assign body_content = body_content | replace: name_to_replace, link_replacement -%}

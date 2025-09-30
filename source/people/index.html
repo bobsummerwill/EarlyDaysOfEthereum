@@ -266,7 +266,7 @@ Display people grouped by start date with epoch headings
         {% endif %}
     {% endif %}
     
-    <h2 style="color: #007acc;">{{ start_date }}</h2>
+    <h2 style="color: #333;">{{ start_date }}</h2>
     
     <div class="people-list">
         {% for person in people_in_date %}
@@ -451,11 +451,11 @@ Display people without start dates in "Other" section
         {% for person in sorted_other_people %}
         <div class="person-card">
             <div class="person-header">
-                <div class="person-photo">
-                    {% if person.photo %}
-                    <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
-                    {% endif %}
-                </div>
+                {% if person.photo %}
+                    <div class="person-photo">
+                        <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" />
+                    </div>
+                {% endif %}
                 
                 <div class="person-info">
                     <h3><a href="{{ person.url | relative_url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
@@ -477,7 +477,6 @@ Display people without start dates in "Other" section
             </div>
             
             {% if person.devcon0 %}
-            <hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">
             <div class="devcon0-section">
                 <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555;">DEVCON0 self-introduction</h4>
                 

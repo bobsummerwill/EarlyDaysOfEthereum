@@ -68,7 +68,22 @@
   <body>
 
     <!-- Full-page Background Video -->
-    {% if page.url == "/" %}
+    {% assign video_pages = "/" | split: "," %}
+    {% assign video_pages = video_pages | push: "/people/" %}
+    {% assign video_pages = video_pages | push: "/videos/" %}
+    {% assign video_pages = video_pages | push: "/articles/" %}
+    {% assign video_pages = video_pages | push: "/grid/" %}
+    {% assign show_video = false %}
+    {% if video_pages contains page.url %}
+      {% assign show_video = true %}
+    {% elsif page.url contains "/articles/" %}
+      {% assign show_video = true %}
+    {% elsif page.url contains "/people/" %}
+      {% assign show_video = true %}
+    {% elsif page.url contains "/videos/" %}
+      {% assign show_video = true %}
+    {% endif %}
+    {% if show_video %}
     <video class="full-page-bg-video" autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/archive.org/ethereum.org/20140305192502/ethereum-bg-2014.webm' | relative_url }}" type="video/webm">
         Your browser does not support the video tag.

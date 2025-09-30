@@ -29,7 +29,7 @@ layout: default
                       {% endif %}
                     {% endfor %}
                     {% if matched_person %}
-                      <a href="{{ matched_person.url | relative_url }}" itemprop="name" style="color: #007acc; text-decoration: underline;">{{ page.author }}</a>
+                      <a href="{{ matched_person.url | relative_url }}" itemprop="name">{{ page.author }}</a>
                     {% else %}
                       <span itemprop="name">{{ page.author }}</span>
                     {% endif %}
@@ -56,8 +56,6 @@ layout: default
         date=page.date
         description=page.description
       %}
-    {% else %}
-      <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
     {% endif %}
 
     <div class="article-content" itemprop="articleBody">

@@ -110,13 +110,17 @@
                 flex-wrap: nowrap !important;
             }
             
+            /* Always show underline on navigation links */
+            nav ul.site-nav a {
+                text-decoration: underline !important;
+            }
+            
             /* Keep navigation horizontal on mobile */
             @media (max-width: 768px) {
                 nav ul.site-nav {
                     flex-direction: row !important;
                     flex-wrap: nowrap !important;
                     gap: 8px !important;
-                    font-size: 0.85em !important;
                 }
                 nav ul.site-nav li {
                     white-space: nowrap !important;

@@ -105,15 +105,22 @@
             </ul>
         </nav>
         <style>
+            /* Override common.css navigation styles for mobile */
+            nav ul.site-nav {
+                flex-wrap: nowrap !important;
+            }
+            
             /* Keep navigation horizontal on mobile */
-            @media (max-width: 600px) {
-                .site-nav {
+            @media (max-width: 768px) {
+                nav ul.site-nav {
+                    flex-direction: row !important;
                     flex-wrap: nowrap !important;
                     gap: 8px !important;
                     font-size: 0.85em !important;
                 }
-                .site-nav li {
-                    white-space: nowrap;
+                nav ul.site-nav li {
+                    white-space: nowrap !important;
+                    flex-shrink: 0 !important;
                 }
             }
         </style>

@@ -108,49 +108,63 @@ while ensuring clean, valid HTML output.
   {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%}Process people last, but skip if the name is already part of an existing link{%- endcomment -%}
+{%- comment -%}Process people last, protecting instances that are part of existing links{%- endcomment -%}
 {%- for other_person in site.people -%}
   {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
   
-  {%- comment -%}Skip if this person's name is already part of an article or video link{%- endcomment -%}
-  {%- assign skip_person = false -%}
+  {%- comment -%}Create the replacement link{%- endcomment -%}
+  {%- if other_person.hidden -%}
+    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+  {%- else -%}
+    {%- assign link_replacement = '<a href=" | append: other_person.url | append: ">' | append: other_person.name | append: '</a>' -%}
+  {%- endif -%}
   
-  {%- comment -%}Check article titles{%- endcomment -%}
+  {%- comment -%}Replace person names, but protect instances within existing article/video links{%- endcomment -%}
+  {%- assign temp_content = body_content -%}
+  
+  {%- comment -%}First, temporarily replace article and video links that contain this person's name{%- endcomment -%}
+  {%- assign protected_links = "" | split: "" -%}
+  {%- assign link_counter = 0 -%}
+  
   {%- for article in site.articles -%}
     {%- if article.title contains name_to_replace -%}
       {%- assign article_link_pattern = '<a href=" | append: article.url | append: ">' | append: article.title | append: '</a>' -%}
-      {%- if body_content contains article_link_pattern -%}
-        {%- assign skip_person = true -%}
-        {%- break -%}
+      {%- if temp_content contains article_link_pattern -%}
+        {%- assign placeholder = '___PROTECTED_LINK_' | append: link_counter | append: '___' -%}
+        {%- assign temp_content = temp_content | replace_first: article_link_pattern, placeholder -%}
+        {%- assign protected_pair = placeholder | append: '|||' | append: article_link_pattern -%}
+        {%- assign protected_links = protected_links | push: protected_pair -%}
+        {%- assign link_counter = link_counter | plus: 1 -%}
       {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
   
-  {%- comment -%}Check video titles{%- endcomment -%}
-  {%- unless skip_person -%}
-    {%- for video in site.videos -%}
-      {%- if video.title contains name_to_replace -%}
-        {%- assign video_link_pattern = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
-        {%- if body_content contains video_link_pattern -%}
-          {%- assign skip_person = true -%}
-          {%- break -%}
-        {%- endif -%}
+  {%- for video in site.videos -%}
+    {%- if video.title contains name_to_replace -%}
+      {%- assign video_link_pattern = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
+      {%- if temp_content contains video_link_pattern -%}
+        {%- assign placeholder = '___PROTECTED_LINK_' | append: link_counter | append: '___' -%}
+        {%- assign temp_content = temp_content | replace_first: video_link_pattern, placeholder -%}
+        {%- assign protected_pair = placeholder | append: '|||' | append: video_link_pattern -%}
+        {%- assign protected_links = protected_links | push: protected_pair -%}
+        {%- assign link_counter = link_counter | plus: 1 -%}
       {%- endif -%}
-    {%- endfor -%}
-  {%- endunless -%}
-  
-  {%- unless skip_person -%}
-    {%- comment -%}Create the replacement link{%- endcomment -%}
-    {%- if other_person.hidden -%}
-      {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
-    {%- else -%}
-      {%- assign link_replacement = '<a href=" | append: other_person.url | append: ">' | append: other_person.name | append: '</a>' -%}
     {%- endif -%}
-    
-    {%- comment -%}Only replace if not inside existing links{%- endcomment -%}
-    {%- assign body_content = body_content | replace: name_to_replace, link_replacement -%}
-  {%- endunless -%}
+  {%- endfor -%}
+  
+  {%- comment -%}Now replace the person name in the remaining content{%- endcomment -%}
+  {%- assign temp_content = temp_content | replace: name_to_replace, link_replacement -%}
+  
+  {%- comment -%}Restore the protected links{%- endcomment -%}
+  {%- for pair in protected_links -%}
+    {%- assign parts = pair | split: '|||' -%}
+    {%- assign placeholder = parts[0] -%}
+    {%- assign original_link = parts[1] -%}
+    {%- assign temp_content = temp_content | replace: placeholder, original_link -%}
+  {%- endfor -%}
+  
+  {%- assign body_content = temp_content -%}
 {%- endfor -%}
 
 {{ body_content }}

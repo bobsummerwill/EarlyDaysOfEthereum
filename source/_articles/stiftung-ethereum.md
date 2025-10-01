@@ -25,13 +25,13 @@ Ethereum project legal activities which had previously been organized under the 
 
 There is a lot of "noise" in there, but ignoring hat-shuffling, it boils down to:
 
-* 14th Jul 2014: Vitalik Buterin, Mihai Alisie and Taylor Gerring founded the Ethereum Foundation, with MUTARA Audit AG as auditor
+* 14th Jul 2014: Vitalik Buterin, Mihai Alisie and Taylor Gerring founded the Ethereum Foundation, with [MUTARA Audit AG](https://mutara.ch/en/) as auditor
 * 4th Aug 2015: [Taylor]('/people/taylor-gerring/') and [Mihai]('/people/mihai-alisie/') resign and are replaced by Lars Klawitter, Vadim Levitin and Wayne Hennessy-Barrett (the "professional board")
 * 17th Dec 2015: [Lars]('/people/lars-klawitter/'), [Vadim]('/people/vadim-levitin/') and [Wayne]('/people/wayne-hennessy-barrett/') resign en-masse after getting Minged, leaving [Vitalik]('/people/vitalik-buterin/') as the sole board member for seven months.  See Nora for more on that.  It appears that the Foundation might have been in legal breach during this period as there were no domiciled (legally resident) Swiss board members during this period, which is a requirement.  [Mihai]('/people/mihai-alisie/') had been a resident.
 * 26th July 2016: Ming Chan is appointed as the second board member. Swiss citizen, often resident.
 * 21st Oct 2016: Patrick Storchenegger is appointed as the third board member. Another Swiss citizen and resident.
 * 7th Jun 2018: [Ming]('/people/ming-chan/') resigns and is replaced by [Aya]('/people/aya-miyaguchi/').  This "paperwork" happened months after the actual switch, with [Ming]('/people/ming-chan/')'s final day being 31st Jan 2018)
-* 22nd May 2019: MUTARA Audit AG replaced by Grant Thornton AG as auditor
+* 22nd May 2019: [MUTARA Audit AG](https://www.grantthornton.ch/en/) replaced by [Grant Thornton AG](https://www.grantthornton.ch/en/) as auditor
 
 For many years, [https://ethereum.org/foundation](https://web.archive.org/web/20190222044758/https://ethereum.org/foundation) was the only public information on the Ethereum Foundation.  As you can see from that snapshot in February 2019, as well as being totally inadequate, the information was also chronically outdated, with [Aya]('/people/aya-miyaguchi/') nowhere to be seen and with Jeff Wilcke still listed years after his departure.
 

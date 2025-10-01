@@ -2,7 +2,8 @@
 Auto-link system that creates links for videos, articles, and people names
 while avoiding double-linking (replacing text that's already inside links)
 
-This system processes content in three phases:
+This system processes content in four phases:
+0. Hidden People Links - Converts explicit links to hidden people into [REDACTED]
 1. Videos - Links video titles to their pages
 2. Articles - Links article titles to their pages (including embedded content)
 3. People - Links person names to their pages, with conflict detection
@@ -16,11 +17,56 @@ the person name linking is skipped. For example:
 - This prevents creating nested <a> tags like:
   <a href="/articles/taylor-gerring-photos/"><a href="/people/taylor-gerring/">Taylor Gerring</a> Photos</a>
 
-The system maintains proper priority: Videos > Articles > People
+The system maintains proper priority: Hidden People > Videos > Articles > People
 while ensuring clean, valid HTML output.
 {%- endcomment -%}
 
 {%- assign body_content = include.content -%}
+
+{%- comment -%}Process hidden people links first - replace explicit links to hidden people with [REDACTED]{%- endcomment -%}
+{%- for person in site.people -%}
+  {%- if person.hidden -%}
+    {%- comment -%}Handle links with various formats - we need to replace the entire <a>...</a> tag{%- endcomment -%}
+    {%- assign person_url_pattern = person.url | append: '"' -%}
+    {%- assign person_url_pattern_slash = person.url | append: '/"' -%}
+    
+    {%- comment -%}Split content on opening link tag to find matches{%- endcomment -%}
+    {%- assign parts = body_content | split: '<a href="' -%}
+    {%- assign new_content = "" -%}
+    {%- for part in parts -%}
+      {%- if forloop.first -%}
+        {%- assign new_content = part -%}
+      {%- else -%}
+        {%- comment -%}Check if this part starts with the hidden person's URL{%- endcomment -%}
+        {%- if part contains person_url_pattern or part contains person_url_pattern_slash -%}
+          {%- comment -%}Find the closing tag and replace the link with [REDACTED]{%- endcomment -%}
+          {%- assign close_tag_parts = part | split: '</a>' -%}
+          {%- if close_tag_parts.size > 1 -%}
+            {%- comment -%}Check if this is actually a link to this person{%- endcomment -%}
+            {%- assign link_start = close_tag_parts[0] -%}
+            {%- if link_start contains person.url -%}
+              {%- assign new_content = new_content | append: '[REDACTED]' -%}
+              {%- for remaining_part in close_tag_parts offset: 1 -%}
+                {%- if forloop.first -%}
+                  {%- assign new_content = new_content | append: remaining_part -%}
+                {%- else -%}
+                  {%- assign new_content = new_content | append: '</a>' | append: remaining_part -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- else -%}
+              {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign body_content = new_content -%}
+  {%- endif -%}
+{%- endfor -%}
 
 {%- comment -%}Process videos first{%- endcomment -%}
 {%- for video in site.videos -%}

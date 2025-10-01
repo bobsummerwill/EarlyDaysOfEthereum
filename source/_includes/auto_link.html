@@ -71,7 +71,7 @@ while ensuring clean, valid HTML output.
 {%- comment -%}Process videos first{%- endcomment -%}
 {%- for video in site.videos -%}
   {%- assign title_to_replace = video.title -%}
-  {%- assign link_replacement = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
+  {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
 {%- endfor -%}
 
@@ -99,10 +99,10 @@ while ensuring clean, valid HTML output.
       {%- assign body_content = body_content | replace: alias_to_replace, embed_html -%}
     {%- endif -%}
   {%- else -%}
-    {%- assign link_replacement = '<a href=" | append: article.url | append: ">' | append: article.title | append: '</a>' -%}
+    {%- assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
     {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
     {%- if alias_to_replace %}
-      {%- assign alias_link_replacement = '<a href=" | append: article.url | append: ">' | append: article.alias | append: '</a>' -%}
+      {%- assign alias_link_replacement = '<a href="' | append: article.url | append: '">' | append: article.alias | append: '</a>' -%}
       {%- assign body_content = body_content | replace: alias_to_replace, alias_link_replacement -%}
     {%- endif -%}
   {%- endif -%}
@@ -117,7 +117,7 @@ while ensuring clean, valid HTML output.
   {%- if other_person.hidden -%}
     {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
   {%- else -%}
-    {%- assign link_replacement = '<a href=" | append: other_person.url | append: ">' | append: other_person.name | append: '</a>' -%}
+    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
   {%- endif -%}
   
   {%- comment -%}Replace person names, but protect instances within existing article/video links{%- endcomment -%}
@@ -129,7 +129,7 @@ while ensuring clean, valid HTML output.
   
   {%- for article in site.articles -%}
     {%- if article.title contains name_to_replace -%}
-      {%- assign article_link_pattern = '<a href=" | append: article.url | append: ">' | append: article.title | append: '</a>' -%}
+      {%- assign article_link_pattern = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
       {%- if temp_content contains article_link_pattern -%}
         {%- assign placeholder = '___PROTECTED_LINK_' | append: link_counter | append: '___' -%}
         {%- assign temp_content = temp_content | replace_first: article_link_pattern, placeholder -%}
@@ -142,7 +142,7 @@ while ensuring clean, valid HTML output.
   
   {%- for video in site.videos -%}
     {%- if video.title contains name_to_replace -%}
-      {%- assign video_link_pattern = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
+      {%- assign video_link_pattern = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
       {%- if temp_content contains video_link_pattern -%}
         {%- assign placeholder = '___PROTECTED_LINK_' | append: link_counter | append: '___' -%}
         {%- assign temp_content = temp_content | replace_first: video_link_pattern, placeholder -%}

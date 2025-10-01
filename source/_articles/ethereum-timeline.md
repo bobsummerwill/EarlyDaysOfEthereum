@@ -45,7 +45,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/l9dpjN3Mwps"
-  title="Vitalik. Buterin reveals Ethereum at Bitcoin Miami 2014"
+  title="Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014"
   author="Ethereum Project"
   date="January 26, 2014"
 %}

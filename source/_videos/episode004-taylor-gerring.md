@@ -7,7 +7,7 @@ hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "After a long hiatus since episode 3, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."
 ---
 
-After a long hiatus since [Episode 3]({{ '/videos/episode003/' | relative_url }}) in November 2023, we returned with another episode of The Early Days of Ethereum.
+After a long hiatus since [Episode 3]('/videos/episode003/') in November 2023, we returned with another episode of The Early Days of Ethereum.
 
 Ethereum OG and "co Founder" Taylor Gerring joined us as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013.
 
@@ -74,7 +74,7 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 One thing I like to point out is that conference there's some photos some of which I took and some of which others took but the way the story goes is that room was standing room only he was in to give the announcement of Ethereum and then afterwards the questions kept coming in and kept coming in and the organizers had to ask him to step outside and I just remember these photos of like him being mobbed by a group of people just wanting to ask them questions.  I think Joe Lubin was standing right there. Probably Anthony Di Iorio was probably real close. But that's a very iconic picture in my mind, at least.
 
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.26.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.26.jpeg" style="width: 75%; height: auto;">
 
 But anyway, the house that Anthony Di Iorio had organized became kind of the hub and the central place where we all gathered around.  I think Jonathan Monaghan? Mohan?
 
@@ -82,7 +82,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 **Taylor:** He was doing some recording stuff there. I remember Charles Hoskinson being there out on the back patio with [Joe]('/people/joe-lubin/') and [Vitalik]('/people/vitalik-buterin/').  I was in my photography era, so I was doing more photo taking. But I didn't know where to sleep, and I had brought a hammock down with me.  And so I ended up sleeping in the backyard on a hammock between two trees, looking out over the canal that ran past the house for two nights.
 
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.25.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.25.jpeg" style="width: 75%; height: auto;">
 
 [[19:57]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1197s) **Bob:**  Nice. Yeah. Same with that iconic photograph. I can't remember the guy's name now, but at some point I met the guy who had the speaking slot after [Vitalik]('/people/vitalik-buterin/').  And he said "... and everyone just sodded off!"  It's like nobody left in the room for him.
 
@@ -90,7 +90,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 [[20:20]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1220s) **Bob"**  Yeah. So, yeah, saying about a great number of photos from January, March through July of 2014.  If you look on my Twitter thread from yesterday, I linked to some of those.
 
-*(Since this interview, Bob has started gathering all of Taylor's photos from 2014 into a new [page on this site]({{ '/2025/08/12/taylor-gerring-photos/' | relative_url }}). Original Twitter posts are [JAN-FEB 2014](https://x.com/TaylorGerring/status/1948427437731193004), [MAR 2014](https://x.com/TaylorGerring/status/1948429487252644114) and [APR-JUL 2014](https://x.com/TaylorGerring/status/1948430165794566358))*
+*(Since this interview, Bob has started gathering all of Taylor's photos from 2014 into a new [page on this site]('/2025/08/12/taylor-gerring-photos/'). Original Twitter posts are [JAN-FEB 2014](https://x.com/TaylorGerring/status/1948427437731193004), [MAR 2014](https://x.com/TaylorGerring/status/1948429487252644114) and [APR-JUL 2014](https://x.com/TaylorGerring/status/1948430165794566358))*
 
 [[20:50]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1250s) **Taylor:**  It was a really interesting time I don't think anybody really knew what was going on I just felt like documenting as much as I could while I was there was like the way to do it because everybody was just living in the moment
 
@@ -98,7 +98,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 [[21:20]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1280s) **Bob:** Oh I'm back.  I was just saying on that thread on the photo thread that you got, Taylor, that was that sort of iconic everyone crowding around [Vitalik]('/people/vitalik-buterin/') yeah with [Anthony]('/people/anthony-di-iorio/') and [Joe]('/people/joe-lubin/') there and then some photos on you on the back patio.  Then there's that group shot with everyone there and some other bits and pieces.
 
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg" style="width: 75%; height: auto;">
 
 *(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]('/people/dino-mark/'), [Yanislav Malahov]('/people/yanislav-malahov/'), Charles Hoskinson, Antony D'Onofrio, [Steve Dakh]('/people/steve-dakh/'), [Wendell Davis]('/people/wendell-davis/'), [Jonathan Mohan]('/people/jonathan-mohan/'), [Joseph Lubin]('/people/joe-lubin/'), Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]('/people/jason-colby/'), [Kyle Kurbegovich]('/people/kyle-kurbegovich/'))*
 
@@ -106,12 +106,12 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 [[22:06]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1326s) **Taylor:**  Yeah, it would be interesting to go back and check the actual timeline. I felt like things happened kind of fast.  Where we landed in Zug was, I mean, we landed in Zurich, but then we took the train to a small farm town called Meierskoppel. And there was a handful group there that was just staying on Airbnb.  And I went along with my friend [Nick Fierro]('/people/nicolas-fierro/'), who kind of came with me. We met up in, I think, Germany somewhere and continued on to Zurich.  But we landed there, and it was just very chaotic in the sense that nobody had a good sense of what was happening, on what timeline, for what reason, you know, whether it was just sleeping quarters or getting the website online or who was arriving.
 
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.09_7.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.02.09_7.jpeg" style="width: 75%; height: auto;">
 
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
 {% capture hideable_section %}
-<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_ian_meikle.png' | relative_url }}" style="width: 25%; height: auto;">
+<img src="/images/duncan.co/2025.09.17/duncan.co_cropped_ian_meikle.png" style="width: 25%; height: auto;">
 {% endcapture %}
 <div class="hideable-section" style="display:none">
 {{ hideable_section | markdownify }}
@@ -121,7 +121,7 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Taylor:**  Richard Wild. That's right. Richard was actually the first one who was introduced to the project.  He brought Ian along. And I think Ian ended up sticking around longer.
 
-<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png' | relative_url }}" style="width: 50%; height: auto;">
+<img src="/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png" style="width: 50%; height: auto;">
 
 *(Taylor and Richard Wild, from https://duncan.co/ethereum/)*
 
@@ -152,7 +152,7 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 [[27:00]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1620s) **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
 {% capture hideable_section %}
-<img src="{{ '/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg" style="width: 75%; height: auto;">
 {% endcapture %}
 <div class="hideable-section" style="display:none">
 {{ hideable_section | markdownify }}
@@ -168,7 +168,7 @@ TODO - Add photo
 
 But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
 
-<img src="{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | relative_url }}" style="width: 75%; height: auto;">
+<img src="/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" style="width: 75%; height: auto;">
 
 [[29:34]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1774s) **Bob:** I believe that at the Miami time or shortly afterwards it was announced that the crowdsale would happen within a month or two months, it was like a really super short timeline that was thought at that point but then yeah, I guess all of that got delayed both with technical and more importantly legal concerns.
 
@@ -186,7 +186,7 @@ But, yeah, it was like the app was being developed. Who built the app that gener
 
 **Kieren:**  Damn, that might be right. He might have gone in. Did he go to work at ConsenSys afterwards? I think that might have been the case, but I could be misremembering.
 
-*(Edit - his name is actually [Marian Oancea]('/people/marian-oancea/') and he is listed on the [People page]({{ '/2018/03/31/early-ethereum-people/' | relative_url }}))*
+*(Edit - his name is actually [Marian Oancea]('/people/marian-oancea/') and he is listed on the [People page]('/2018/03/31/early-ethereum-people/'))*
 
 **Taylor:**  Because he wrote the [EthStats app](https://ethstats.dev/), I thought.
 
@@ -314,7 +314,7 @@ So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCO
 
 **Taylor:** Yeah I think I had done that in like something really basic just for like a blog post or something like that but it was really cool to have that.
 
-<img src="{{ '/images/personal/victor-wong/telegram/2025.08.11/victor-wong_devcon1_sticker.jpeg' | relative_url }}" style="width: 25%; height: auto;">
+<img src="/images/personal/victor-wong/telegram/2025.08.11/victor-wong_devcon1_sticker.jpeg" style="width: 25%; height: auto;">
 
 *(Edit - Victor Wong later found that he still had an original sticker of that DEVCON1 logo!)*
 

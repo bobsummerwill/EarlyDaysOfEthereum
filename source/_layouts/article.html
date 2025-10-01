@@ -4,7 +4,7 @@ layout: default
 
 <nav aria-label="Breadcrumb">
     <div class="back-link">
-        <a href="'/articles/'">&larr; Back to Articles</a>
+        <a href="/articles/">&larr; Back to Articles</a>
     </div>
 </nav>
 
@@ -29,7 +29,7 @@ layout: default
                       {% endif %}
                     {% endfor %}
                     {% if matched_person %}
-                      <a href="{{ matched_person.url | relative_url }}" itemprop="name">{{ page.author }}</a>
+                      <a href="{{ matched_person.url }}" itemprop="name">{{ page.author }}</a>
                     {% else %}
                       <span itemprop="name">{{ page.author }}</span>
                     {% endif %}

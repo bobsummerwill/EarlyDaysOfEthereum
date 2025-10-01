@@ -28,14 +28,14 @@ title: Videos
     <div class="video-card">
         {% if video.youtube_id %}
         <div class="video-thumbnail">
-            <a href="{{ video.url | relative_url }}">
+            <a href="{{ video.url }}">
                 <img src="https://img.youtube.com/vi/{{ video.youtube_id }}/maxresdefault.jpg" alt="{{ video.title }}" />
                 <div class="play-button">▶</div>
             </a>
         </div>
         {% elsif video.vimeo_id %}
         <div class="video-thumbnail">
-            <a href="{{ video.url | relative_url }}">
+            <a href="{{ video.url }}">
                 <img src="https://vumbnail.com/{{ video.vimeo_id }}.jpg" alt="{{ video.title }}" />
                 <div class="play-button">▶</div>
             </a>
@@ -43,7 +43,7 @@ title: Videos
         {% endif %}
         
         <div class="video-info">
-            <h3><a href="{{ video.url | relative_url }}">{{ video.title }}</a></h3>
+            <h3><a href="{{ video.url }}">{{ video.title }}</a></h3>
             
             <div class="video-meta">
                 {% if video.date %}

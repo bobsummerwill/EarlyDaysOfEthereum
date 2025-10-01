@@ -24,7 +24,7 @@ title: Articles
     {% for article in sorted_articles %}
     <article class="article-preview">
         <h2>
-          <a href="{{ article.url | relative_url }}">
+          <a href="{{ article.url }}">
             {{ article.title }}{% if article.alias %} ("{{ article.alias }}"){% endif %}
           </a>
         </h2>
@@ -46,7 +46,7 @@ title: Articles
                 {% endfor %}
                 by
                 {% if person_found %}
-                  <a href="{{ person_url | relative_url }}">{{ person_display_name }}</a>
+                  <a href="{{ person_url }}">{{ person_display_name }}</a>
                 {% else %}
                   {{ article.author }}
                 {% endif %}

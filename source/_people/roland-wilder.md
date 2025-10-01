@@ -12,4 +12,4 @@ Aeron Buchanan said to Bob Summerwill in a personal email on 16th August 2018:*
 
 ## References
 
-- Thanked by Gav in the [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=100s) session which kicked off DEVCON0
+- [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=100s)

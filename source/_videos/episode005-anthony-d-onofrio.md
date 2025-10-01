@@ -596,7 +596,7 @@ But when they show up and they're like, yeah, let's fucking, uh, let's make sure
 [[41:39]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2499s) **Bob:**
 Yeah. And I mean, I guess that Miami house was where that really like dug in, cause that was the first time that most people were physically in the same location out of that.
 
-*(Bob: check out Taylor Gerring's photos from January 2014 to see the [Miami house]({{ '/articles/taylor-gerring-photos/' | relative_url }}))*
+*(Bob: check out Taylor Gerring's photos from January 2014 to see the [Miami house]('/articles/taylor-gerring-photos/'))*
 
 [[41:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2511s) **Texture:**
 So it was pretty fun. The weirdest part about that was meeting [Charles]('/people/charles-hoskinson/') and, um, you know, [Charles]('/people/charles-hoskinson/'), I, he might've been the first person who is doing kind of the thing that I just said, right? Like he just showed up and kind of inserted himself and was like, I'm going to be CEO.
@@ -761,7 +761,7 @@ So I had, um, I think by March I was, um, talking with [Vitalik]('/people/vitali
 
 I could, you know, kind of code at that time. I can still kind of code today, but that's sort of, we ended up talking about like, all the things should work at a, you know, theory protocol level more than an implementation level. And that kind of, I guess, and this was covered in the, in the "Red Wedding" time, there was like, we, you know, um, a discussion of the usage of funds that ended up like on a whiteboard or something.
 
-*(from [Taylor Gerring's photos]({{ '/articles/taylor-gerring-photos/' | relative_url }}))*
+*(from [Taylor Gerring's photos]('/articles/taylor-gerring-photos/'))*
 
 *“Ethereum was eventually decided to be an open source non-profit model. After this edict was made clear, we proceeded to sketch out how funds would be allocated. Compared with a lot of other projects, we were stunningly efficient with only ~$15M” – Taylor Gerring, [Jun 4, 2022](https://twitter.com/TaylorGerring/status/1533128197054816257)*
 <img src="/images/x.com/2025.09.07/TaylorGerring/status/1533128197054816257/1533128197054816257_1.jpg" style="width:75%;">
@@ -813,7 +813,7 @@ You had [Gav]('/people/gavin-wood/') incorporating Ethereum DEV in Berlin. [Jeff
 
 Most of those ETHDEV ones were kind of co-founded by [Vitalik]('/people/vitalik-buterin/') and [Gav]('/people/gavin-wood/') and [Jeff]('/people/jeff-wilcke/') and [Mihai]('/people/mihai-alisie/') kind of group.
 
-Yeah, it was only the Toronto one there where it was that I could see [Anthony]('/people/anthony-di-iorio/') was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]('/people/mihai-alisie/') and [Taylor]('/people/taylor-gerring/'). But yeah, when you'd had the crowd sale and the [Stiftung](({{ '/people/stiftung-ethereum/' | relative_url }})) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
+Yeah, it was only the Toronto one there where it was that I could see [Anthony]('/people/anthony-di-iorio/') was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]('/people/mihai-alisie/') and [Taylor]('/people/taylor-gerring/'). But yeah, when you'd had the crowd sale and the [Stiftung](('/people/stiftung-ethereum/')) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
 
 And in Cryptopians, it talks about [Gav]('/people/gavin-wood/') maybe wanting to like grab all of the money straight into DEV, but then it's like, that's probably not legal and it's probably not a good idea and [Joe]('/people/joe-lubin/') wanting to do it sort of a milestone based slow delivery, which I think what it sort of ended up being. But you did have this sort of weird situation where you'd say, "oh, do you work for the Ethereum Foundation?" But very few people actually work for the Ethereum Foundation.  Most people were actually working as staff or contractors for these for-profit legal entities, which were sort of doing the work.
 

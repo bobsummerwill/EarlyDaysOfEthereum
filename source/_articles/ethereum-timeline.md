@@ -60,7 +60,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
 
 ### Beach house in Miami in February, where first face-to-face development happened - 31st January 2014
 
-![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }})
+<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg"/>
 
 *(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]('/people/dino-mark/'), [Yanislav Malahov]('/people/yanislav-malahov/'), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]('/people/anthony-d-onofrio/'), [Steve Dakh]('/people/steve-dakh/'), [Wendell Davis]('/people/wendell-davis/'), [Jonathan Mohan]('/people/jonathan-mohan/'), [Joseph Lubin]('/people/joe-lubin/'), [Louis Parker]('/people/louis-parker/'). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]('/people/jason-colby/'), [Kyle Kurbegovich]('/people/kyle-kurbegovich/'))*
 
@@ -155,7 +155,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   date="June 4, 2014"
 %}
 
-### BitVote: time based voting ÐApp on Ethereum, Aaron Bale, 13th June 2014
+### BitVote: time based voting DApp on Ethereum, Aaron Bale, 13th June 2014
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/z-BtgF3oqoA"

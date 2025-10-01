@@ -11,7 +11,7 @@ social:
 
 *Taylor Gerring (left) with Richard (right) at the Bitcoin Expo in April 2014*:
 
-<img src="{{ '/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png' | relative_url }}" style="width: 50%; height: auto;">
+<img src="/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png" style="width: 50%; height: auto;">
 
 It appears that Richard died in 2024:
 

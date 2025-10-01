@@ -15,7 +15,7 @@ embed-content-width: 50%
   See: https://jekyllrb.com/docs/variables/#page-variables
 -->
 <div class="back-link">
-    <a href="'/people/'">&larr; Back to People</a>
+    <a href="/people/">&larr; Back to People</a>
 </div>
 
 {% if page.hidden %}
@@ -33,11 +33,11 @@ embed-content-width: 50%
   <div class="person-header">
     {% if page.photo %}
       <div class="person-photo">
-        <img src="{{ page.photo | relative_url }}" alt="{{ page.name }}" />
+        <img src="{{ page.photo }}" alt="{{ page.name }}" />
       </div>
     {% endif %}
     <div class="person-info">
-      <h3><a href="{{ page.url | relative_url }}">{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</a></h3>
+      <h3><a href="{{ page.url }}">{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</a></h3>
       {% if page.role %}
         <div class="person-role">{{ page.role }}</div>
       {% endif %}
@@ -118,7 +118,7 @@ embed-content-width: 50%
       {% endif %}
       {% if page.interview %}
         <div class="person-interview-link">
-          <a href="{{ page.interview | relative_url }}" class="interview-link">
+          <a href="{{ page.interview }}" class="interview-link">
             <svg viewBox="0 0 20 20" width="16" height="16" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; display: inline-block;">
               <circle cx="10" cy="10" r="10" fill="#005580"/>
               <polygon points="7,5 15,10 7,15" fill="#fff"/>
@@ -153,7 +153,7 @@ embed-content-width: 50%
     <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
         <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             {% if thumbnail_exists %}
-                <img src="{{ thumbnail_path | relative_url }}" 
+                <img src="thumbnail_path" 
                      alt="{{ page.name }} DEVCON0 introduction" 
                      style="width: 100%; height: auto; display: block;"
                      data-person-name="{{ page.name }}"

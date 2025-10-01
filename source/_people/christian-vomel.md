@@ -7,8 +7,7 @@ end: Apr 2017
 devcon0: '2042'
 ---
 
+
 ## References
 
-
-
-- Thanked by Gav in the [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=143s) session which kicked off DEVCON0
+- [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=143s)

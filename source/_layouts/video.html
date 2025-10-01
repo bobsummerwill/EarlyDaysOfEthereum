@@ -19,7 +19,7 @@ embed-content-width: 50%
   - Jekyll Variables: https://jekyllrb.com/docs/variables/
 -->
 <div class="back-link">
-    <a href="'/videos/'">&larr; Back to Videos</a>
+    <a href="/videos/">&larr; Back to Videos</a>
 </div>
 
 <article class="video-episode">
@@ -59,7 +59,7 @@ embed-content-width: 50%
                         {% endfor %}
                         {% unless host_hidden %}
                             {% if host_found %}
-                                {% assign host_entry = '<a href="' | append: host_url | append: '">' | append: host_display_name | append: '</a>' %}
+                                {% assign host_entry = '<a href=" | append: host_url | append: ">' | append: host_display_name | append: '</a>' %}
                             {% else %}
                                 {% assign host_entry = host %}
                             {% endif %}
@@ -97,7 +97,7 @@ embed-content-width: 50%
                         {% endfor %}
                         {% unless guest_hidden %}
                             {% if guest_found %}
-                                {% assign guest_entry = '<a href="' | append: guest_url | append: '">' | append: guest_display_name | append: '</a>' %}
+                                {% assign guest_entry = '<a href=" | append: guest_url | append: ">' | append: guest_display_name | append: '</a>' %}
                             {% else %}
                                 {% assign guest_entry = guest %}
                             {% endif %}

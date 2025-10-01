@@ -71,7 +71,7 @@ while ensuring clean, valid HTML output.
 {%- comment -%}Process videos first{%- endcomment -%}
 {%- for video in site.videos -%}
   {%- assign title_to_replace = video.title -%}
-  {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
+  {%- assign link_replacement = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
 {%- endfor -%}
 
@@ -81,7 +81,7 @@ while ensuring clean, valid HTML output.
   {%- assign alias_to_replace = article.alias -%}
   {%- if article.embed and article.embed.url -%}
     {%- capture embed_html -%}
-      <a href="{{ article.url | relative_url }}" style="text-decoration: none; color: inherit;">
+      <a href="{{ article.url }}" style="text-decoration: none; color: inherit;">
         {% assign embed_date = article.date | date: "%B %d, %Y" %}
         {% include content-embed.html
           url=article.embed.url
@@ -99,10 +99,10 @@ while ensuring clean, valid HTML output.
       {%- assign body_content = body_content | replace: alias_to_replace, embed_html -%}
     {%- endif -%}
   {%- else -%}
-    {%- assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
+    {%- assign link_replacement = '<a href=" | append: article.url | append: ">' | append: article.title | append: '</a>' -%}
     {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
     {%- if alias_to_replace %}
-      {%- assign alias_link_replacement = '<a href="' | append: article.url | append: '">' | append: article.alias | append: '</a>' -%}
+      {%- assign alias_link_replacement = '<a href=" | append: article.url | append: ">' | append: article.alias | append: '</a>' -%}
       {%- assign body_content = body_content | replace: alias_to_replace, alias_link_replacement -%}
     {%- endif -%}
   {%- endif -%}
@@ -119,7 +119,7 @@ while ensuring clean, valid HTML output.
   {%- comment -%}Check article titles{%- endcomment -%}
   {%- for article in site.articles -%}
     {%- if article.title contains name_to_replace -%}
-      {%- assign article_link_pattern = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
+      {%- assign article_link_pattern = '<a href=" | append: article.url | append: ">' | append: article.title | append: '</a>' -%}
       {%- if body_content contains article_link_pattern -%}
         {%- assign skip_person = true -%}
         {%- break -%}
@@ -131,7 +131,7 @@ while ensuring clean, valid HTML output.
   {%- unless skip_person -%}
     {%- for video in site.videos -%}
       {%- if video.title contains name_to_replace -%}
-        {%- assign video_link_pattern = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
+        {%- assign video_link_pattern = '<a href=" | append: video.url | append: ">' | append: video.title | append: '</a>' -%}
         {%- if body_content contains video_link_pattern -%}
           {%- assign skip_person = true -%}
           {%- break -%}
@@ -145,7 +145,7 @@ while ensuring clean, valid HTML output.
     {%- if other_person.hidden -%}
       {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
     {%- else -%}
-      {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+      {%- assign link_replacement = '<a href=" | append: other_person.url | append: ">' | append: other_person.name | append: '</a>' -%}
     {%- endif -%}
     
     {%- comment -%}Only replace if not inside existing links{%- endcomment -%}

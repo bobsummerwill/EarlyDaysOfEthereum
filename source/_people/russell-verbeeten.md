@@ -10,9 +10,3 @@ social:
   medium: https://medium.com/@russellverbeeten
   website: https://www.crunchbase.com/person/russell-verbeeten
 ---
-
-## References
-
-This page is referenced from the following articles and videos:
-
-- [People]({{ '/people/' | relative_url }}) - Referenced in content

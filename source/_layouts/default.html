@@ -108,8 +108,12 @@
             /* Keep navigation horizontal on mobile */
             @media (max-width: 600px) {
                 .site-nav {
-                    gap: 12px !important;
-                    font-size: 0.9em;
+                    flex-wrap: nowrap !important;
+                    gap: 8px !important;
+                    font-size: 0.85em !important;
+                }
+                .site-nav li {
+                    white-space: nowrap;
                 }
             }
         </style>

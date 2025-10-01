@@ -29,7 +29,7 @@ See also the partial public histories in:
   url="https://twitter.com/peter_szilagyi/status/895560354951872512"
 %}
 
-In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jonathan-james-harrison/' | relative_url }}) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]({{ '/people/amir-taaki/' | relative_url }}):
+In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonathan-james-harrison/') AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]('/people/amir-taaki/'):
 
 {% include content-embed.html
   title="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
@@ -62,7 +62,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
 
 ![image]({{ '/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg' | relative_url }})
 
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]({{ '/people/dino-mark/' | relative_url }}), [Yanislav Malahov]({{ '/people/yanislav-malahov/' | relative_url }}), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]({{ '/people/anthony-d-onofrio/' | relative_url }}), [Steve Dakh]({{ '/people/steve-dakh/' | relative_url }}), [Wendell Davis]({{ '/people/wendell-davis/' | relative_url }}), [Jonathan Mohan]({{ '/people/jonathan-mohan/' | relative_url }}), [Joseph Lubin]({{ '/people/joe-lubin/' | relative_url }}), [Louis Parker]({{ '/people/louis-parker/' | relative_url }}). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]({{ '/people/jason-colby/' | relative_url }}), [Kyle Kurbegovich]({{ '/people/kyle-kurbegovich/' | relative_url }}))*
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]('/people/dino-mark/'), [Yanislav Malahov]('/people/yanislav-malahov/'), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]('/people/anthony-d-onofrio/'), [Steve Dakh]('/people/steve-dakh/'), [Wendell Davis]('/people/wendell-davis/'), [Jonathan Mohan]('/people/jonathan-mohan/'), [Joseph Lubin]('/people/joe-lubin/'), [Louis Parker]('/people/louis-parker/'). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]('/people/jason-colby/'), [Kyle Kurbegovich]('/people/kyle-kurbegovich/'))*
 
 (this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
@@ -256,7 +256,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]({{ '/people/jon
   site="Ethereum Blog"
 %}
 
-### The Ethereum Launch Process, [Vinay Gupta]({{ '/people/vinay-gupta/' | relative_url }}), 3rd March 2015
+### The Ethereum Launch Process, [Vinay Gupta]('/people/vinay-gupta/'), 3rd March 2015
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/03/03/ethereum-launch-process/"
@@ -472,7 +472,7 @@ document.addEventListener('DOMContentLoaded', function() {
   site="vitalik.ca"
 %}
 
-### The Ether Thief, Bloomberg Markets, [Matthew Leising]({{ '/people/matthew-leising/' | relative_url }}), 13th June 2017
+### The Ether Thief, Bloomberg Markets, [Matthew Leising]('/people/matthew-leising/'), 13th June 2017
 
 {% include content-embed.html
   url="https://www.bloomberg.com/features/2017-the-ether-thief/"

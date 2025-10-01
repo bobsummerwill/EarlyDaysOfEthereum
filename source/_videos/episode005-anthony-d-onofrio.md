@@ -61,7 +61,7 @@ I might have to see that. White suit's pretty nice.
 I may have a photo. I think it's been worn to two sort of summer weddings, and that's the only time it's been, but I could probably dig one up for you, Jaime.
 
 [[3:16]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=196s) **Jaime:**
-Yeah. [Texture]({{ '/people/anthony-d-onofrio/' | relative_url }}), welcome!
+Yeah. [Texture]('/people/anthony-d-onofrio/'), welcome!
 
 [[3:23]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=203s) **Kieren:**
 We had him. We lost him.
@@ -91,7 +91,7 @@ Very, very kind of cool August for those of us who spent some of it in New York.
 Yeah, completely agree. A lot of long sleeves and sweatshirts during the night. A bit cooler
 
 [[5:09]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=309s) **Kieren:**
-[Texture]({{ '/people/anthony-d-onofrio/' | relative_url }})!
+[Texture]('/people/anthony-d-onofrio/')!
 
 [[5:10]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=310s) **Texture:**
 You guys are old. You've been around talking about the weather.
@@ -112,7 +112,7 @@ Welcome.
 What's up?
 
 [[5:23]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=323s) **Jaime:**
-GM. Yeah, great to kick this off. I'll hand the mic over to Bob, but I just want to pay my compliments to your PFP, [Texture]({{ '/people/anthony-d-onofrio/' | relative_url }}).  It's quite a good one.
+GM. Yeah, great to kick this off. I'll hand the mic over to Bob, but I just want to pay my compliments to your PFP, [Texture]('/people/anthony-d-onofrio/').  It's quite a good one.
 
 [[5:37]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=337s) **Texture:**
 Thanks. Do you own a [Texture Punk](https://x.com/texturepunx)?
@@ -138,7 +138,7 @@ Great stuff.
 <a id="texture-background"></a>
 
 [[6:33]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=393s) **Bob:**
-Well, let's get going, eh?  Hi, [Texture]({{ '/people/anthony-d-onofrio/' | relative_url }}).  How are you? It's been a while.
+Well, let's get going, eh?  Hi, [Texture]('/people/anthony-d-onofrio/').  How are you? It's been a while.
 
 [[6:42]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=402s) **Texture:**
 It's been a long time.
@@ -244,15 +244,15 @@ Yeah. So what actually happened was I had a roommate for years ago, like years w
 
 And so I had given up working in tech because my arms had given out. I was a programmer and designer for a very long time. And I started making cannabis edibles in California because it seemed like an industry that was going to be pretty easy to get into, like the marketing, the production, everything was shit.  And I was pretty good at it. So yeah, I had a girlfriend who was about four hours away, and I would go visit her on the weekends. And so I threw the Bitcoin podcast on.  I ate one of my candies and, don't drive stoned, kids. But yeah, on the way there, I was listening to the podcast, and my brain just kind of tuned in. And I had what I can only describe as a biblical vision.
 
-I would say before that, I wouldn't have understood what that meant. But just this massive data download into my head where I could basically see the future visually. I just saw the whole thing playing out in front of me.  And I was like, oh shit, Bitcoin, I'm still not particularly fascinated by. But the blockchain idea has an amazing amount of potential. And I kind of saw how it could help people coordinate.  And so it just kind of struck me so much that I was like, I got to go talk to [Adam]({{ '/people/adam-b-levine/' | relative_url }}). I got to go meet the people who did this podcast.
+I would say before that, I wouldn't have understood what that meant. But just this massive data download into my head where I could basically see the future visually. I just saw the whole thing playing out in front of me.  And I was like, oh shit, Bitcoin, I'm still not particularly fascinated by. But the blockchain idea has an amazing amount of potential. And I kind of saw how it could help people coordinate.  And so it just kind of struck me so much that I was like, I got to go talk to [Adam]('/people/adam-b-levine/'). I got to go meet the people who did this podcast.
 
 Because at that time, it was the only Bitcoin podcast.  And I thought anybody who wanted attention for what they were doing would probably contact them. So the buddy that had told me to listen to the podcast randomly came into town three days later. And I said, hey, man, I've been thinking a lot.
 
-I listened to the podcast. I have a lot of ideas. I need to meet [Adam]({{ '/people/adam-b-levine/' | relative_url }}).  I need to meet. And he goes, well, actually, I'm flying out in a couple of days to go meet him. We have a meeting scheduled.  He's in Washington celebrating his birthday with his wife. And I said, no, no, no, no, we're getting in my car right now. I'm driving.  I'm driving us there. I'm going. I'm going to go talk to him.
+I listened to the podcast. I have a lot of ideas. I need to meet [Adam]('/people/adam-b-levine/').  I need to meet. And he goes, well, actually, I'm flying out in a couple of days to go meet him. We have a meeting scheduled.  He's in Washington celebrating his birthday with his wife. And I said, no, no, no, no, we're getting in my car right now. I'm driving.  I'm driving us there. I'm going. I'm going to go talk to him.
 
-And he's like, what, really? And I'm like, yeah, fucking cancel your ticket. We're getting in my car right now.  So we drove like 20 hours or whatever to Washington State. I walked in pretty much. I don't know what their meeting was about, but I pretty much just took [Adam]({{ '/people/adam-b-levine/' | relative_url }}) to the side and we ended up sitting in his hot tub on his balcony for like nine hours just talking.
+And he's like, what, really? And I'm like, yeah, fucking cancel your ticket. We're getting in my car right now.  So we drove like 20 hours or whatever to Washington State. I walked in pretty much. I don't know what their meeting was about, but I pretty much just took [Adam]('/people/adam-b-levine/') to the side and we ended up sitting in his hot tub on his balcony for like nine hours just talking.
 
-And it was a really cool. It was a really cool discussion. And I said, what I want from you is I want you to tell me anybody you know who's working on anything like this.  And he said, well, do you know who [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) is? I said, man, I'm not in crypto. I'm not in Bitcoin.
+And it was a really cool. It was a really cool discussion. And I said, what I want from you is I want you to tell me anybody you know who's working on anything like this.  And he said, well, do you know who [Vitalik]('/people/vitalik-buterin/') is? I said, man, I'm not in crypto. I'm not in Bitcoin.
 
 I don't know. I don't know anybody. I don't know anything.  And he said, well, he just sent me this white paper a few days ago. I can like I can forward it to you. And can you guys still hear me?
 
@@ -264,9 +264,9 @@ Yeah. Yeah.
 [[15:26]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=926s) **Texture:**
 So then, yeah, so he forwarded me the white paper. I looked at it, you know, to me, it wasn't as comprehensive as the vision that I had. But I thought, you know, this is [kismet](https://www.dictionary.com/browse/kismet), you know, right?
 
-What are the chances that all the stuff lined up like this? So I said, yeah, make the intro. And so we started a Skype group and, you know, [Adam]({{ '/people/adam-b-levine/' | relative_url }}) was there.
+What are the chances that all the stuff lined up like this? So I said, yeah, make the intro. And so we started a Skype group and, you know, [Adam]('/people/adam-b-levine/') was there.
 
-I remember [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was there. [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) was there. I was there.  It became the official Ethereum Skype group and just kind of grew from there. So, you know, it was like...
+I remember [Charles]('/people/charles-hoskinson/') was there. [Vitalik]('/people/vitalik-buterin/') was there. I was there.  It became the official Ethereum Skype group and just kind of grew from there. So, you know, it was like...
 
 [[16:00]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=960s) **Kieren:**
 Was that 'Water Cooler'?
@@ -296,7 +296,7 @@ Maybe, but like I was kind of like the dude that everybody trusted. And so like 
 So when do you think you had that trip to Washington? When do you think that would have been?
 
 [[16:59]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1019s) **Texture:**
-I'm horrible with the time and dates, especially during that time, when you're like a free-flowing hippie dude. Yeah. But I would say it was the week after, the week, week and a half after [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) sent the white paper out to...
+I'm horrible with the time and dates, especially during that time, when you're like a free-flowing hippie dude. Yeah. But I would say it was the week after, the week, week and a half after [Vitalik]('/people/vitalik-buterin/') sent the white paper out to...
 
 [[17:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1037s) **Bob:**
 Right, right
@@ -311,7 +311,7 @@ Yeah. So it might even have been during November still?
 Yeah. I mean, it was as early as you could get. I mean, just by happenstance, just by the timing, I was there.  Basically, the moment we were coming together.
 
 [[17:38]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1058s) **Bob:**
-Yeah. Yeah. It's amazing.  Because yeah, so I was able to find that the video of you and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) at the Salon, which was beaming into the [Vancouver Decentral](https://www.dctrl.wtf/) there. And that was December the 15th, that was?
+Yeah. Yeah. It's amazing.  Because yeah, so I was able to find that the video of you and [Vitalik]('/people/vitalik-buterin/') at the Salon, which was beaming into the [Vancouver Decentral](https://www.dctrl.wtf/) there. And that was December the 15th, that was?
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/gqqv_xrnDJ0"
@@ -327,15 +327,15 @@ You did that one?
 Yeah. So we've been... Yeah.  I mean, again, the timing, the timing, I don't know. But yeah, obviously, by that time, we had been doing it for a minute.
 
 [[18:10]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1090s) **Bob:**
-Yeah. I mean, the funny thing was looking at that, that's before there was any code, any public code, at least. There wasn't even any Python code from [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) published at that point.
+Yeah. I mean, the funny thing was looking at that, that's before there was any code, any public code, at least. There wasn't even any Python code from [Vitalik]('/people/vitalik-buterin/') published at that point.
 
-[Gav]({{ '/people/gavin-wood/' | relative_url }}) and [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) were weeks away still.
+[Gav]('/people/gavin-wood/') and [Jeff]('/people/jeff-wilcke/') were weeks away still.
 
 [[18:25]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1105s) **Texture:**
-Yeah. And [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}), to my understanding, just read the white paper and started coding it up on his own and said, hey, I've got this Go implementation.
+Yeah. And [Jeff]('/people/jeff-wilcke/'), to my understanding, just read the white paper and started coding it up on his own and said, hey, I've got this Go implementation.
 
 [[18:34]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1114s) **Bob:**
-Yeah, pretty much. And the same for [Gav]({{ '/people/gavin-wood/' | relative_url }}). They were both at the very tail end of December, basically like a Christmas project kind of deal for the pair of them.
+Yeah, pretty much. And the same for [Gav]('/people/gavin-wood/'). They were both at the very tail end of December, basically like a Christmas project kind of deal for the pair of them.
 
 [[18:45]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=1125s) **Texture:**
 Yeah. No, it was great. And I've been a developer my whole life since I was a kid.  And since I quit coding, I wasn't really sure where I fit in, you know. But I was really happy when all these other people got in. I guess maybe if I had dropped some code and gotten a lot more ETH, that would have been cool, but whatever.
@@ -512,11 +512,11 @@ So I mean, how did that like play out? That you've just got like tons and tons o
 [[39:33]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2373s) **Texture:**
 It turned everything into "Game of Thrones". Yeah, that's what happened. It turned everything into "Game of Thrones".
 
-So like I was there day one. I was doing, I was making sure like, you know, first thing I did was [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) posted this website that he made. It was piss yellow.  He had stolen some other shit coins logo and just put Ethereum on it. And I was like, please don't post this. Give me till tomorrow.
+So like I was there day one. I was doing, I was making sure like, you know, first thing I did was [Vitalik]('/people/vitalik-buterin/') posted this website that he made. It was piss yellow.  He had stolen some other shit coins logo and just put Ethereum on it. And I was like, please don't post this. Give me till tomorrow.
 
 So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
-*(Bob - from what I can determine, it was [Ryan Taylor]({{ '/people/ryan-taylor/' | relative_url }}) who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
+*(Bob - from what I can determine, it was [Ryan Taylor]('/people/ryan-taylor/') who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
 {% include content-embed.html
   url="https://x.com/BobSummerwill/status/1963986588872110163"
   img="https://pbs.twimg.com/media/G0F6wFOb0AAN2CH?format=png&name=small"
@@ -599,7 +599,7 @@ Yeah. And I mean, I guess that Miami house was where that really like dug in, ca
 *(Bob: check out Taylor Gerring's photos from January 2014 to see the [Miami house]({{ '/articles/taylor-gerring-photos/' | relative_url }}))*
 
 [[41:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2511s) **Texture:**
-So it was pretty fun. The weirdest part about that was meeting [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) and, um, you know, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), I, he might've been the first person who is doing kind of the thing that I just said, right? Like he just showed up and kind of inserted himself and was like, I'm going to be CEO.
+So it was pretty fun. The weirdest part about that was meeting [Charles]('/people/charles-hoskinson/') and, um, you know, [Charles]('/people/charles-hoskinson/'), I, he might've been the first person who is doing kind of the thing that I just said, right? Like he just showed up and kind of inserted himself and was like, I'm going to be CEO.
 
 And I'm like, he was just, he's just a fucking liar though, man. He was like 24 or something.
 
@@ -610,12 +610,12 @@ And I'm like, he was just, he's just a fucking liar though, man. He was like 24 
 [[42:16]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2536s) **Texture:**
 And he presented himself like he was 50 years old and he'd been in tech forever.  And here's the thing, man. I actually was probably the most, um, experienced in terms of, I'd lived in Silicon Valley. I'd worked in multiple startups, but like, despite my personality, um, on Twitter, or even if you meet me in person, like I'm pretty humble when I get into a group of people that I can tell have skills.  So I kind of just sat back and didn't try to insert myself. I didn't try to like demand, you know, I'd be involved in this or that. I just tried to kind of be as helpful as I could.
 
-Um, so, you know, when I, when I talked to, uh, uh, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) for the first time, I was like, all right, you know, this is kind of weird. Like, but we'll, we'll see what's up. So like literally the moment I met him in Miami, I shook his hand and I was like, Oh God, he's a fucking sociopath.  Like, okay, well maybe he's our sociopath, you know, like every company has a sociopath.
+Um, so, you know, when I, when I talked to, uh, uh, [Charles]('/people/charles-hoskinson/') for the first time, I was like, all right, you know, this is kind of weird. Like, but we'll, we'll see what's up. So like literally the moment I met him in Miami, I shook his hand and I was like, Oh God, he's a fucking sociopath.  Like, okay, well maybe he's our sociopath, you know, like every company has a sociopath.
 
 Like maybe he's like a well-regulated sociopath. And then when we got to the Miami house, I found out, no, no, he's not a well-regulated sociopath.  He's a fucking compulsive liar, manipulative weirdo.  Kieren, were you going to say something?
 
 [[43:37]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2617s) **Kieren:**
-I was just going to say in [Charles]({{ '/people/charles-hoskinson/' | relative_url }})' defense, uh, at that time he did look 50 years old.
+I was just going to say in [Charles]('/people/charles-hoskinson/')' defense, uh, at that time he did look 50 years old.
 
 [[43:46]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2626s) **Texture:**
 (Laughs) Bro, when I found out he was like fucking seven years younger than me, I was like, what the, why am I deferring to this kid? He's like, what the hell? Um, so yeah, it was, it was weird, man.
@@ -628,26 +628,26 @@ Sorry for any children listening. Um, and, uh, I'm like, why the fuck is he show
 
 I'm like, Jesus Christ, dude.  Oh my God. Shut the fuck up.
 
-And so I will say this because it's something that bothers me.  Like, for some reason, the media all says that the reason that [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was kicked out was because he wanted to do business and not a nonprofit. And like, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) got kicked out because he was a fucking weirdo sociopath who didn't do anything like on above board and like, couldn't be trusted.
+And so I will say this because it's something that bothers me.  Like, for some reason, the media all says that the reason that [Charles]('/people/charles-hoskinson/') was kicked out was because he wanted to do business and not a nonprofit. And like, [Charles]('/people/charles-hoskinson/') got kicked out because he was a fucking weirdo sociopath who didn't do anything like on above board and like, couldn't be trusted.
 
 He, he didn't, he played games with everybody.  Like I was not in his inner circle. Cause I, I did like, he would do, I call him sociopath test where like, they say something fucked up to see how you respond. They'll ask you to do unreasonable things to see if you'll do them.  Um, and then the people that do them and do them without question end up being in his inner circle. They, they become the people we just continued on in his [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)).
 
 So like, you know, he, he, he just operates in such a way that he gets sycophants around him.  He lies to them. He gets them into situations where they like loyal to him and they don't question them. And then, you know, just weaves a whole reality around that, that isn't real.
 
-Um, and that's, that, that's my assessment of [Charles]({{ '/people/charles-hoskinson/' | relative_url }}). And he, he was, he was not kicked out because of business. And it was a cluster now.  Yeah. I mean, no one else was kicked out. Let's just say that.
+Um, and that's, that, that's my assessment of [Charles]('/people/charles-hoskinson/'). And he, he was, he was not kicked out because of business. And it was a cluster now.  Yeah. I mean, no one else was kicked out. Let's just say that.
 
-I guess [Amir]({{ '/people/amir-chetrit/' | relative_url }}) left, but that's another story.
+I guess [Amir]('/people/amir-chetrit/') left, but that's another story.
 
 [[46:19]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2779s) **Bob:**
-Well, [Amir]({{ '/people/amir-chetrit/' | relative_url }}) was kind of kicked out from what I saw based on the fact that people thought he wasn't actually doing anything. He wasn't really like pulling his weight or doing anything useful.
+Well, [Amir]('/people/amir-chetrit/') was kind of kicked out from what I saw based on the fact that people thought he wasn't actually doing anything. He wasn't really like pulling his weight or doing anything useful.
 
 [[46:30]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2790s) **Texture:**
-I like, I liked [Amir]({{ '/people/amir-chetrit/' | relative_url }}) as a person. We haven't talked to him in a few years. We're still cool to this day, but yeah.  I mean, what, what was his skillset? Yeah. I don't know.
+I like, I liked [Amir]('/people/amir-chetrit/') as a person. We haven't talked to him in a few years. We're still cool to this day, but yeah.  I mean, what, what was his skillset? Yeah. I don't know.
 
 [[46:41]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2801s) **Bob:**
 There's bizdev sort of stuff. He said he was, he was talking to people, potential investors sort of thing. Um, but, uh, yeah.  Yeah.
 
-And I mean, uh, in terms of [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), it took me a lot of years to really understand [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), shall we say.
+And I mean, uh, in terms of [Charles]('/people/charles-hoskinson/'), it took me a lot of years to really understand [Charles]('/people/charles-hoskinson/'), shall we say.
 
 {% include content-embed.html
   url="https://x.com/BobSummerwill/status/1574207436407590912"
@@ -659,22 +659,22 @@ And I mean, uh, in terms of [Charles]({{ '/people/charles-hoskinson/' | relative
 %}
 
 [[47:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2821s) **Texture:**
-Yeah. You, you know, I defended you on that because I think you're like a really sweet guy and I think I understand your perspective. So whether or not I like [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), I'm going to come defend you.
+Yeah. You, you know, I defended you on that because I think you're like a really sweet guy and I think I understand your perspective. So whether or not I like [Charles]('/people/charles-hoskinson/'), I'm going to come defend you.
 
 [[47:12]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2832s) **Kieren:**
-Not to dig too much, but, um, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) had a like buddy, assistant partner guy. Is his name [Jeremy]({{ '/people/jeremy-wood/' | relative_url }})?
+Not to dig too much, but, um, [Charles]('/people/charles-hoskinson/') had a like buddy, assistant partner guy. Is his name [Jeremy]('/people/jeremy-wood/')?
 
 [[47:24]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2844s) **Bob:**
-[Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }})
+[Jeremy Wood]('/people/jeremy-wood/')
 
 [[47:26]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2846s) **Kieren:**
 I'm trying, I'm remembering cause I actually thought he was, yeah.  And there was more there, but, um, I, I'm just to Texture's point, you know, um, maybe he was just naive or maybe you guys know more than I do, but that wasn't sort of a strange dichotomy.
 
 [[47:38]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2858s) **Texture:**
-Yeah. Again, I think it was just whoever would follow him around and not question him. Like that's how you got to be his right hand man.  The less questions you ask, the closer, better friend you are, the more you listen to his stupid stories. Didn't call him on it. You know what I mean?  Like I met this, "I was on the front lines of Afghanistan for DARPA and now I'm like", shut the fuck up, [Charles]({{ '/people/charles-hoskinson/' | relative_url }}).
+Yeah. Again, I think it was just whoever would follow him around and not question him. Like that's how you got to be his right hand man.  The less questions you ask, the closer, better friend you are, the more you listen to his stupid stories. Didn't call him on it. You know what I mean?  Like I met this, "I was on the front lines of Afghanistan for DARPA and now I'm like", shut the fuck up, [Charles]('/people/charles-hoskinson/').
 
 [[48:01]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2881s) **Bob:**
-With [Jeremy Wood]({{ '/people/jeremy-wood/' | relative_url }}), he notably called him boy. "Come here, boy!"
+With [Jeremy Wood]('/people/jeremy-wood/'), he notably called him boy. "Come here, boy!"
 
 [[48:06]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2886s) **Texture:**
 Well, I never saw that. I'm telling you, like, I remember some story about him, like playing games with people in the Zug house, like sending somebody's sending somebody off who, who's like a wife was there, a girlfriend and, and telling them that they had to go do this thing for him, uh, out of town. And then when that person had left, he then tried to convince one of the other dudes to like get with the dude's wife.
@@ -683,7 +683,7 @@ Like just weird stuff, man. Like just things that they're not, that they have no
 
 You know, the biggest problem for me was, um, after the fundraiser, after the "Red Wedding" uh, Stephan Tual, who I had introduced, or I had welcomed into the, the, the organization. And again, there was a lot of political stuff. If you went to Zug, you got, um, basically put up in the hierarchy.
 
-So I ended up under [Stephan]({{ '/people/stephan-tual/' | relative_url }}). I couldn't go to Zug cause my girlfriend was pregnant and I couldn't leave to go to Zug for a month. Um, and, um, yeah, I don't know.  [Stephan]({{ '/people/stephan-tual/' | relative_url }}) was, I don't know, high energy, high anxiety, dude. It was a weird thing.
+So I ended up under [Stephan]('/people/stephan-tual/'). I couldn't go to Zug cause my girlfriend was pregnant and I couldn't leave to go to Zug for a month. Um, and, um, yeah, I don't know.  [Stephan]('/people/stephan-tual/') was, I don't know, high energy, high anxiety, dude. It was a weird thing.
 
 [[49:44]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2984s) **Kieren:**
 He was smoking the stereotypical amount of cigarettes at the time.
@@ -695,7 +695,7 @@ The stereotypical amount. That dude lived, he had a vape that he puffed.
 You're right. It was a vape.
 
 [[49:58]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=2998s) **Texture:**
-It was a vape. And so I went, you know, with DEVON0, I went and spent a week with them in, um, the office in, in, uh, London. And dude, [Stephan]({{ '/people/stephan-tual/' | relative_url }}), if you weren't having a fucking panic attack, [Stephan]({{ '/people/stephan-tual/' | relative_url }}) couldn't tell you were working.
+It was a vape. And so I went, you know, with DEVON0, I went and spent a week with them in, um, the office in, in, uh, London. And dude, [Stephan]('/people/stephan-tual/'), if you weren't having a fucking panic attack, [Stephan]('/people/stephan-tual/') couldn't tell you were working.
 
 It was crazy. And he would pace around this coworking space like nobody else was there. Just the whole place looked like a fucking rave, dude.
 
@@ -727,15 +727,15 @@ Yeah. We kept saying two weeks. I don't know.  That was a meme for a very long t
 Well, the website that was up at the time of the Miami conference, uh, was showing a countdown to the 1st of February. That was when the sale was going to start.
 
 [[53:17]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3197s) **Texture:**
-Yeah. And then, you know, I was with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) when the sale was launched. Uh, we had hung out all day in San Francisco.  We were in the Westfield Mall in the food court for, uh, uh, he needed wifi. Um, and he was just sitting there and he just looked up at me and he goes, oh, the crowdsale went live. Um, because that wasn't planned.
+Yeah. And then, you know, I was with [Vitalik]('/people/vitalik-buterin/') when the sale was launched. Uh, we had hung out all day in San Francisco.  We were in the Westfield Mall in the food court for, uh, uh, he needed wifi. Um, and he was just sitting there and he just looked up at me and he goes, oh, the crowdsale went live. Um, because that wasn't planned.
 
-I don't know if [Taylor]({{ '/people/taylor-gerring/' | relative_url }}) talked to you about that?
+I don't know if [Taylor]('/people/taylor-gerring/') talked to you about that?
 
 [[53:49]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3229s) **Bob:**
 Uh, that was an accidental launch was it?
 
 [[53:51]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3231s) **Texture:**
-It was an accident. I don't know. You have to ask [Taylor]({{ '/people/taylor-gerring/' | relative_url }}) about that, but yeah, I guess he accidentally accidentally hit the button because, you know, it was legal.  Like that's what kept happening. They kept saying, we're waiting on legal. We're waiting on legal.  We're waiting on legal. We're waiting like, fuck legal in retrospect. Right.
+It was an accident. I don't know. You have to ask [Taylor]('/people/taylor-gerring/') about that, but yeah, I guess he accidentally accidentally hit the button because, you know, it was legal.  Like that's what kept happening. They kept saying, we're waiting on legal. We're waiting on legal.  We're waiting on legal. We're waiting like, fuck legal in retrospect. Right.
 
 [[54:11]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3251s) **Bob:**
 So you and Kieren must have met each other a little bit.
@@ -757,7 +757,7 @@ Yeah. So, uh, okay. This is a good, good tie in point.
 
 So, uh, and, and Bob, uh, at your request, of course, I was digging through the emails trying to piece together some pieces of the timeline, you know, yesterday, day before.
 
-So I had, um, I think by March I was, um, talking with [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and, um, you know, I was in academia at that time. And he kind of found it useful to bounce like protocol, economic modeling stuff off, you know, like I was like good at reading the white papers and understand what they were doing.
+So I had, um, I think by March I was, um, talking with [Vitalik]('/people/vitalik-buterin/') and, um, you know, I was in academia at that time. And he kind of found it useful to bounce like protocol, economic modeling stuff off, you know, like I was like good at reading the white papers and understand what they were doing.
 
 I could, you know, kind of code at that time. I can still kind of code today, but that's sort of, we ended up talking about like, all the things should work at a, you know, theory protocol level more than an implementation level. And that kind of, I guess, and this was covered in the, in the "Red Wedding" time, there was like, we, you know, um, a discussion of the usage of funds that ended up like on a whiteboard or something.
 
@@ -769,20 +769,20 @@ I could, you know, kind of code at that time. I can still kind of code today, bu
 [[55:43]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3343s) **Kieren:**
 And, uh, a lot of it was theoretically earmarked for a research group that meant to solve, you know, hard problems like scalability, um, in, in crypto that, you know, like in practice people have sort of solved today. Um, and not by any of the means we imagined exactly. Um, but, um, you know, they've been solved to some degree, at least, um, like with layer twos, for instance.
 
-Scalability was very much anticipated as a problem and, you know, it took a couple of years, but, you know, we, we had like $55 fees on NFT transfers at some point. Um, so I think, um, [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) sort of like, uh, talk, we, we talked about this for a little bit and then he kind of like blessed me as like the representative who's currently in academia. I started contacting people and trying to get them interested in Ethereum and then doing like research related to it in general, even like set a legal entity up, uh, for a separate research group, um, at some point.
+Scalability was very much anticipated as a problem and, you know, it took a couple of years, but, you know, we, we had like $55 fees on NFT transfers at some point. Um, so I think, um, [Vitalik]('/people/vitalik-buterin/') sort of like, uh, talk, we, we talked about this for a little bit and then he kind of like blessed me as like the representative who's currently in academia. I started contacting people and trying to get them interested in Ethereum and then doing like research related to it in general, even like set a legal entity up, uh, for a separate research group, um, at some point.
 
 And I'm trying to remember, so, uh, Texture, we mostly worked together just on the site basically. Like, uh, I guess you were like, you know, web designer at that time, but I'm trying to remember.
 
 [[57:05]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3425s) **Texture:**
 Yeah, I was doing web design. We had talked about the CRG, Cryptocurrency Research Group, uh, and I was like, that's cool. Let me build a website.
 
-I remember throwing, you know, faces on it and then it just kind of puttered out, which, you know, it's, you know, like, um, it would have, it would have been a like cool thing, fun thing. I don't know. Um, but also, uh, there's a story about [Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), not anyways, I like, I didn't know people were getting paid for a long time.
+I remember throwing, you know, faces on it and then it just kind of puttered out, which, you know, it's, you know, like, um, it would have, it would have been a like cool thing, fun thing. I don't know. Um, but also, uh, there's a story about [Di Iorio]('/people/anthony-di-iorio/'), not anyways, I like, I didn't know people were getting paid for a long time.
 
-And, um, I was like living on my sister's love seat in her one bedroom apartment with my daughter. Cause I was like fucking homeless, uh, and working on Ethereum as much as I could, uh, like multiple other jobs, uh, to, to try to make money. And, uh, I contact, or [Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}) contacted me one day cause he was, you know, he was in the earlier days, like the primary contact, um, that I would talk to the most.
+And, um, I was like living on my sister's love seat in her one bedroom apartment with my daughter. Cause I was like fucking homeless, uh, and working on Ethereum as much as I could, uh, like multiple other jobs, uh, to, to try to make money. And, uh, I contact, or [Di Iorio]('/people/anthony-di-iorio/') contacted me one day cause he was, you know, he was in the earlier days, like the primary contact, um, that I would talk to the most.
 
 And he called me and he asked me for a favor. And, uh, I was like, yeah, man, no problem. And I said, Hey, by the way, if you, you know, like, listen, I'm in a bad spot right now.  Is there any way I could get like back pay for 10 grand, which, you know, was not much. And this dude just says, oh no. And I was like, what the fuck?
 
-Anyways, I talked to [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}), the way it goes back to the CRG, um, is, uh, the, the CRG was supposed to, to pay me $5,000. So you owe me $5,000, Kieren. I don't know, uh, you know, given that it was so early, if you could just pay me an ETH, uh, relative to the price at that time, that'd be sick.
+Anyways, I talked to [Vitalik]('/people/vitalik-buterin/'), the way it goes back to the CRG, um, is, uh, the, the CRG was supposed to, to pay me $5,000. So you owe me $5,000, Kieren. I don't know, uh, you know, given that it was so early, if you could just pay me an ETH, uh, relative to the price at that time, that'd be sick.
 
 [[58:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3534s) **Kieren:**
 Exactly.  20 cents was the, uh, pre-sale price. Yeah. Something like that.  So it'd be like, uh, quite the, quite the amount of ETH.
@@ -794,13 +794,13 @@ Yeah. So just like 15,000 ETH and we'll call it even. All right.  All right.
 But yeah, I mean, I guess, you know, many, that was the case for many people through those months, you know, for some people that was nine, 10 months of, of unpaid contributions.
 
 [[59:29]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3569s) **Kieren:**
-My, my memory is also that [Anthony]({{ '/people/anthony-di-iorio/' | relative_url }}) was the main force behind sort of actually not quite stopping, but delaying the funding to the, the CCRG. So like somehow we got it, some of it way later.
+My, my memory is also that [Anthony]('/people/anthony-di-iorio/') was the main force behind sort of actually not quite stopping, but delaying the funding to the, the CCRG. So like somehow we got it, some of it way later.
 
 [[59:46]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3586s) **Bob:**
-[Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}), you mean?
+[Di Iorio]('/people/anthony-di-iorio/'), you mean?
 
 [[59:48]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3588s) **Kieren:**
-[Di Iorio]({{ '/people/anthony-di-iorio/' | relative_url }}).  And it was like, not quite the original amount, but it was still some, but we were all like working on different things at that time. We ended up returning it, I think, but yeah, it was a strange, like the, the strange delay that happened, I guess, like right after the pre-sale. So before people are working, you know, uncompensated or largely uncompensated.
+[Di Iorio]('/people/anthony-di-iorio/').  And it was like, not quite the original amount, but it was still some, but we were all like working on different things at that time. We ended up returning it, I think, but yeah, it was a strange, like the, the strange delay that happened, I guess, like right after the pre-sale. So before people are working, you know, uncompensated or largely uncompensated.
 
 And then right after there was, I suppose like a big cash grab going on. So like, but maybe, Bob, you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
@@ -809,13 +809,13 @@ Yeah, so, so Anthony Di Iorio, (not you), incorporated Ethereum Canada in Februa
 
 *(Bob: It was actually incorporated on 28th Feb 2014)*
 
-You had [Gav]({{ '/people/gavin-wood/' | relative_url }}) incorporating Ethereum DEV in Berlin. [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
+You had [Gav]('/people/gavin-wood/') incorporating Ethereum DEV in Berlin. [Jeff]('/people/jeff-wilcke/') in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
 
-Most of those ETHDEV ones were kind of co-founded by [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and [Gav]({{ '/people/gavin-wood/' | relative_url }}) and [Jeff]({{ '/people/jeff-wilcke/' | relative_url }}) and [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) kind of group.
+Most of those ETHDEV ones were kind of co-founded by [Vitalik]('/people/vitalik-buterin/') and [Gav]('/people/gavin-wood/') and [Jeff]('/people/jeff-wilcke/') and [Mihai]('/people/mihai-alisie/') kind of group.
 
-Yeah, it was only the Toronto one there where it was that I could see [Anthony]({{ '/people/anthony-di-iorio/' | relative_url }}) was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]({{ '/people/mihai-alisie/' | relative_url }}) and [Taylor]({{ '/people/taylor-gerring/' | relative_url }}). But yeah, when you'd had the crowd sale and the [Stiftung](({{ '/people/stiftung-ethereum/' | relative_url }})) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
+Yeah, it was only the Toronto one there where it was that I could see [Anthony]('/people/anthony-di-iorio/') was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]('/people/mihai-alisie/') and [Taylor]('/people/taylor-gerring/'). But yeah, when you'd had the crowd sale and the [Stiftung](({{ '/people/stiftung-ethereum/' | relative_url }})) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
 
-And in Cryptopians, it talks about [Gav]({{ '/people/gavin-wood/' | relative_url }}) maybe wanting to like grab all of the money straight into DEV, but then it's like, that's probably not legal and it's probably not a good idea and [Joe]({{ '/people/joe-lubin/' | relative_url }}) wanting to do it sort of a milestone based slow delivery, which I think what it sort of ended up being. But you did have this sort of weird situation where you'd say, "oh, do you work for the Ethereum Foundation?" But very few people actually work for the Ethereum Foundation.  Most people were actually working as staff or contractors for these for-profit legal entities, which were sort of doing the work.
+And in Cryptopians, it talks about [Gav]('/people/gavin-wood/') maybe wanting to like grab all of the money straight into DEV, but then it's like, that's probably not legal and it's probably not a good idea and [Joe]('/people/joe-lubin/') wanting to do it sort of a milestone based slow delivery, which I think what it sort of ended up being. But you did have this sort of weird situation where you'd say, "oh, do you work for the Ethereum Foundation?" But very few people actually work for the Ethereum Foundation.  Most people were actually working as staff or contractors for these for-profit legal entities, which were sort of doing the work.
 
 [[1:03:02]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3782s) **Kieren:**
 Yeah, I think, I guess they must have got it kind of like having now run a business for a long time, you got to set up sensible contracts and IP agreements and or, you know, sometimes that looks like an intercompany agreement. And then, you know, if you do it in the buttoned up way, there's like a lot of headache associated with such things.
@@ -839,14 +839,14 @@ Sorry. They could have just worked for the foundation, but I guess they didn't w
 And I mean, yeah, well, this was another funny thing, right, with the spaceship was that there was an expectation at the start there that it was going to be a lot of development work happening in Switzerland as well. And then that never happened.
 
 [[1:04:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3875s) **Texture:**
-Also, it kind of goes against the [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) was fired for wanting to make it corporate when every single person filed their own corporate legal entity in an attempt to divert the funds to their own personal power structure.
+Also, it kind of goes against the [Charles]('/people/charles-hoskinson/') was fired for wanting to make it corporate when every single person filed their own corporate legal entity in an attempt to divert the funds to their own personal power structure.
 
 [[1:04:53]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=3893s) **Kieren:**
-Yeah, I'll add because I was in the room for some of this, [Gavin]({{ '/people/gavin-wood/' | relative_url }}) immediately started talking about brain drain when there was to be no crypto Google. So I guess like they for a long time, they wanted to do hybrid for profit, nonprofit. And the protocol sits in the not for profit and the for profit tries to commercialize and yada, yada, yada.
+Yeah, I'll add because I was in the room for some of this, [Gavin]('/people/gavin-wood/') immediately started talking about brain drain when there was to be no crypto Google. So I guess like they for a long time, they wanted to do hybrid for profit, nonprofit. And the protocol sits in the not for profit and the for profit tries to commercialize and yada, yada, yada.
 
-And of course, in the end, everyone's like the tokens were worth more than probably any equity would have ever been worth. But yeah, I think it's definitely a mix of factors. I think it's primarily what you said, but also, you know, like the I think while there's just a grossness to [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), I'm like, I guess, OK with being on record on, I think there was also a dev guy business guy divide that to your point on like the autists, right?
+And of course, in the end, everyone's like the tokens were worth more than probably any equity would have ever been worth. But yeah, I think it's definitely a mix of factors. I think it's primarily what you said, but also, you know, like the I think while there's just a grossness to [Charles]('/people/charles-hoskinson/'), I'm like, I guess, OK with being on record on, I think there was also a dev guy business guy divide that to your point on like the autists, right?
 
-You know, not that they were great at business like [Amir]({{ '/people/amir-chetrit/' | relative_url }}), [Charles]({{ '/people/charles-hoskinson/' | relative_url }}), but there was more of a like, what do you do? And some of what they did was like, try to set up deals with the Council of Zug and then do like other business developments, etc. That kind of was lost afterwards.
+You know, not that they were great at business like [Amir]('/people/amir-chetrit/'), [Charles]('/people/charles-hoskinson/'), but there was more of a like, what do you do? And some of what they did was like, try to set up deals with the Council of Zug and then do like other business developments, etc. That kind of was lost afterwards.
 
 I'm not saying it was all that effective in their hands, but there was this like meaty commercialization gap. And so, yeah, to your point, everyone then started their own companies, ConsenSys being the most successful of them and kind of filling that business guy plus commercialization role from there on.
 
@@ -889,7 +889,7 @@ Yeah, I mean, I think to some degree, that's why I'm still here in this space, t
 Yeah, yeah, for sure. I mean, it was something which came up, I think, through sort of 2018, 2019 as well was the Foundation stiffing developers, essentially.
 
 [[1:09:47]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=4187s) **Texture:**
-Yeah, I don't know. That didn't happen to me, praise [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}).
+Yeah, I don't know. That didn't happen to me, praise [Vitalik]('/people/vitalik-buterin/').
 
 <a id="palace-politics"></a>
 
@@ -905,7 +905,7 @@ You mean in the last 10 years?
 Right, right. I mean, because it's quite a contrast, right? In your Coinbase article, you were speaking about the contrast, right, between your open, decentralized, collaborative space and the Foundation as an entity.
 
 [[1:10:46]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=4246s) **Texture:**
-Yeah, so I think that it's difficult because if you look at, you know, this is my personal assessment, how I think about the situation. If you look at the early days and you take all that political shit seriously and you realize that [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})'s basically like an 18-year-old kid in the middle of this, like, I was underprepared for the political shit, but I wasn't even like the center of it, you know, Vitalik had to be pushed into this weird situation where all of these sharks and snakes were around and where [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) is acting some type of way and then everyone else around him is vying for power and that's a lot of stress, right? And so if I was thinking of it from [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})'s perspective, to me, my primary goal for myself would be to insulate myself from those political games to the greatest degree possible, right? And so, you know, in some ways, it's kind of like the requirement to stay sane and the requirement to insulate yourself from people playing these games and trying to get to you is that you kind of have to anoint yourself king and do the thing that [Charles]({{ '/people/charles-hoskinson/' | relative_url }}) did, which is surround yourself with people who are going to basically have a fealty to you, right?
+Yeah, so I think that it's difficult because if you look at, you know, this is my personal assessment, how I think about the situation. If you look at the early days and you take all that political shit seriously and you realize that [Vitalik]('/people/vitalik-buterin/')'s basically like an 18-year-old kid in the middle of this, like, I was underprepared for the political shit, but I wasn't even like the center of it, you know, Vitalik had to be pushed into this weird situation where all of these sharks and snakes were around and where [Charles]('/people/charles-hoskinson/') is acting some type of way and then everyone else around him is vying for power and that's a lot of stress, right? And so if I was thinking of it from [Vitalik]('/people/vitalik-buterin/')'s perspective, to me, my primary goal for myself would be to insulate myself from those political games to the greatest degree possible, right? And so, you know, in some ways, it's kind of like the requirement to stay sane and the requirement to insulate yourself from people playing these games and trying to get to you is that you kind of have to anoint yourself king and do the thing that [Charles]('/people/charles-hoskinson/') did, which is surround yourself with people who are going to basically have a fealty to you, right?
 
 They're not there because they're trying to manipulate you or get one over on you. They're not there because, you know, they're not playing games behind your back that you're going to have to deal with. And I think that if you're trying to focus on your goal, you know, in this kind of like foundational structure, I just assume that every decision that's been made in the structure of the foundation is based on kind of two principles.
 
@@ -913,7 +913,7 @@ One is kind of the amorphous notion that like a decentralized project shouldn't 
 
 And I think that that's like incredibly misguided. I don't think there's any historical examples of anything like that happening. And I think that if the foundation disappeared tomorrow, then all those power game, you know, the power vacuum would just create fucking infinity of those power games until somebody stepped up and, you know, Ethereum becomes whatever the person who can kind of get that power position.
 
-So I think that unfortunately, from my assessment, [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})'s need to keep himself sane and protected has not been done in such a way that the Ethereum Foundation necessarily serves the long term survival of Ethereum. Just like that's a major concern for me. So I don't, I don't think a lot of people might criticize the way it's structured for reasons like, but I understand, man, like I'm not [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) and I've had to deal with, you know, those power games and they drive you crazy, man.
+So I think that unfortunately, from my assessment, [Vitalik]('/people/vitalik-buterin/')'s need to keep himself sane and protected has not been done in such a way that the Ethereum Foundation necessarily serves the long term survival of Ethereum. Just like that's a major concern for me. So I don't, I don't think a lot of people might criticize the way it's structured for reasons like, but I understand, man, like I'm not [Vitalik]('/people/vitalik-buterin/') and I've had to deal with, you know, those power games and they drive you crazy, man.
 
 They get in your way. They keep you from being able to focus on what you want to focus on. And I think not coming up through the traditional kind of like Silicon Valley group, you know, when you when you come up in that, you're surrounded by people who have been in it and have survived for a long time.
 
@@ -987,16 +987,16 @@ But if you completely undermine everybody who's trying to do that, then you're g
 You know, there's a mechanism for a coup, I assume, like in practice, the foundation is like, you know, kind of doing whatever the people who work for it wants to do.
 
 [[1:22:45]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=4965s) **Texture:**
-But in the end, this dictatorship of [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}) at the end of the day, like, yeah, so, yeah, the only mechanism I see is the people who have [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }})'s ear get in his ear long enough that. You know, it's not working, so to some degree, there might be a community capacity to be a louder voice consistently to ensure that, you know, there will be backlash if anything like that happens.
+But in the end, this dictatorship of [Vitalik]('/people/vitalik-buterin/') at the end of the day, like, yeah, so, yeah, the only mechanism I see is the people who have [Vitalik]('/people/vitalik-buterin/')'s ear get in his ear long enough that. You know, it's not working, so to some degree, there might be a community capacity to be a louder voice consistently to ensure that, you know, there will be backlash if anything like that happens.
 
 [[1:23:21]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5001s) **Bob:**
 Yeah, I make this the sick epoch that there's been. So we have white paper to red webbing, where it's essentially, you know, just no formal structures really, you know, emergent. Then you have the period of the Ethereum Foundation and FDev.
 
 So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelly. Becker.
 
-Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the Ming dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}) coming in, in another coup there.
+Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the Ming dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya]('/people/aya-miyaguchi/') coming in, in another coup there.
 
-In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that [Aya]({{ '/people/aya-miyaguchi/' | relative_url }})'s still around as the president, but you have new executive leadership.
+In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that [Aya]('/people/aya-miyaguchi/')'s still around as the president, but you have new executive leadership.
 
 [[1:24:48]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5088s) **Bob:**
 Yeah.
@@ -1005,7 +1005,7 @@ Yeah.
 So, yeah, I don't know what this period comes to be called.
 
 [[1:24:52]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5092s) **Texture:**
-But it's definitely better and more coherent. You know, I'm prescient a lot of the time. And, you know, I had my encounters with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}) that clued me into the fact that she was not really qualified or even coherently involved in a way that I would assume somebody in her position would be.
+But it's definitely better and more coherent. You know, I'm prescient a lot of the time. And, you know, I had my encounters with [Aya]('/people/aya-miyaguchi/') that clued me into the fact that she was not really qualified or even coherently involved in a way that I would assume somebody in her position would be.
 
 So I was, you know, I was applying pressure years ago, years and years ago. And yeah, five years ago, six years ago. So I think, you know, eventually the community kind of came around to what I've been saying this whole time, which is, wait, like she should be doing like there's things that need to be done.
 
@@ -1048,7 +1048,7 @@ Also, there's no public information on the Ethereum Foundation. Like, you know, 
 
 Who are advisors to the foundation? What teams are there? Who works on these teams?
 
-There wasn't even a grants program at that point either. It was just basically, you just had Ming and [Vitalik]({{ '/people/vitalik-buterin/' | relative_url }}). And she had hired on Jamie Pitts and Hudson.
+There wasn't even a grants program at that point either. It was just basically, you just had Ming and [Vitalik]('/people/vitalik-buterin/'). And she had hired on Jamie Pitts and Hudson.
 
 So there was a little bit of extra help. But essentially, it was that thin little bit of overhead and a bunch of devs. And that was what there was.
 
@@ -1072,7 +1072,7 @@ Everyone got Minged.
 If she was like Stephan, then yeah, that high energy, like stress stuff. But I don't know. I was a little bit more.
 
 [[1:29:35]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=5375s) **Bob:**
-But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with [Aya]({{ '/people/aya-miyaguchi/' | relative_url }}). That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.
+But yeah, I mean, you know, so I think that was the problem. Like that you hadn't got enough people to get anything done, you know, like what you talked about with [Aya]('/people/aya-miyaguchi/'). That was a case in that earlier year as well, is that there wasn't really no organizational structure and nothing really much was happening beyond the developers doing their development.
 
 Oh, and they will do a DEVCON now and then.
 

@@ -7,11 +7,11 @@ permalink: /404.html
 <h1>404 - Page Not Found</h1>
 <p>Sorry, the page you are looking for does not exist or is not available.</p>
 <p>
-  <a href="{{ '/' | relative_url }}" style="color: #007acc; text-decoration: underline;">Return to the homepage</a>
+  <a href="'/'" style="color: #007acc; text-decoration: underline;">Return to the homepage</a>
 </p>
 <script>
   // Optional: Redirect to homepage after 5 seconds for static hosts that do not support 404.html natively
   setTimeout(function() {
-    window.location.href = "{{ '/' | relative_url }}";
+    window.location.href = "'/'";
   }, 5000);
 </script>

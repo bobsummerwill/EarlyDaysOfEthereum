@@ -10,7 +10,7 @@ social:
 
 Aeron Buchanan said to Bob Summerwill in a personal email on 16th August 2018:*
 
-*"[Roland Wilder]({{ '/people/roland-wilder' | relative_url }}) was brought on by Sarah O'Neill, who was the interior designer and renovation coordinator for the ethdev office. They were fantastic, making it happen on a small budget and on an accelerated timescale."*
+*"[Roland Wilder]('/people/roland-wilder') was brought on by Sarah O'Neill, who was the interior designer and renovation coordinator for the ethdev office. They were fantastic, making it happen on a small budget and on an accelerated timescale."*
 
 ## References
 

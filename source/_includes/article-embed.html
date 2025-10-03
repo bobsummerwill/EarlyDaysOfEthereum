@@ -1,0 +1,24 @@
+{% assign article_name = include.name | strip_html %}
+{% assign found_article = null %}
+
+{% for article in site.articles %}
+  {% if article.title == article_name %}
+    {% assign found_article = article %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if found_article %}
+  {% assign formatted_date = found_article.date | date: "%B %d, %Y" %}
+  {% include content-embed.html
+    url=found_article.source_url
+    img=found_article.img
+    title=found_article.title
+    author=found_article.author
+    date=formatted_date
+    description=found_article.description
+    site=found_article.site
+  %}
+{% else %}
+  <div class="error">Article not found: "{{ article_name }}"</div>
+{% endif %}

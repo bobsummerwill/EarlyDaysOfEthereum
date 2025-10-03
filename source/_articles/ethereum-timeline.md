@@ -219,6 +219,14 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
+{% include article-embed.html
+  name="Gav's ÐΞV Update I: Where Ethereum's at"
+%}
+
+{% include article-embed.html
+  name="Jeff's Ethereum ÐΞV Update I"
+%}
+
 ### ÐΞVcon-0 conference in Berlin
 
 {% include content-embed.html

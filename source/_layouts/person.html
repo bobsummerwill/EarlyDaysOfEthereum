@@ -153,7 +153,7 @@ embed-content-width: 50%
     <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
         <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
             {% if thumbnail_exists %}
-                <img src="thumbnail_path" 
+                <img src="{{ thumbnail_path }}" 
                      alt="{{ page.name }} DEVCON0 introduction" 
                      style="width: 100%; height: auto; display: block;"
                      data-person-name="{{ page.name }}"

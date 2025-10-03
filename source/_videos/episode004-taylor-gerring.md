@@ -306,7 +306,7 @@ So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCO
 
 <img src="https://pbs.twimg.com/media/D92kBZRXUAIOgkN?format=jpg&name=4096x4096" style="width: 75%; height: auto;">
 
-*(Edit - DEVCON0 was held on November 24-28, 2014, in the newly renovated Berlin offices of Ethereum DEV UG, in the Kreuzberg borough of Berlin.  The street address was 37a Waldemarstraße, Berlin 10999)*
+*(Edit - DEVCON0 was held on November 24-28, 2014, in the newly renovated Berlin offices of Ethereum ÐΞV UG, in the Kreuzberg borough of Berlin.  The street address was 37a Waldemarstraße, Berlin 10999)*
 
 **Taylor:** We had interest from, I think Microsoft was involved as a sponsor.  Fun little fact I had come up with the colored Ethereum logo with Microsoft colors and that ended up being adopted and being used as like a de facto logo for that conference.
 

@@ -809,9 +809,9 @@ Yeah, so, so Anthony Di Iorio, (not you), incorporated Ethereum Canada in Februa
 
 *(Bob: It was actually incorporated on 28th Feb 2014)*
 
-You had [Gav]('/people/gavin-wood/') incorporating Ethereum DEV in Berlin. [Jeff]('/people/jeff-wilcke/') in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
+You had [Gav]('/people/gavin-wood/') incorporating Ethereum ÐΞV in Berlin. [Jeff]('/people/jeff-wilcke/') in Amsterdam, though, that took quite a few months, more legalities to it. And there was a, there was an Ethereum in London as well.
 
-Most of those ETHDEV ones were kind of co-founded by [Vitalik]('/people/vitalik-buterin/') and [Gav]('/people/gavin-wood/') and [Jeff]('/people/jeff-wilcke/') and [Mihai]('/people/mihai-alisie/') kind of group.
+Most of those ETHÐΞV ones were kind of co-founded by [Vitalik]('/people/vitalik-buterin/') and [Gav]('/people/gavin-wood/') and [Jeff]('/people/jeff-wilcke/') and [Mihai]('/people/mihai-alisie/') kind of group.
 
 Yeah, it was only the Toronto one there where it was that I could see [Anthony]('/people/anthony-di-iorio/') was a director.  I don't think he was ever a director on any of the other legal entities. They were basically the, you know, the dev people and or [Mihai]('/people/mihai-alisie/') and [Taylor]('/people/taylor-gerring/'). But yeah, when you'd had the crowd sale and the [Stiftung](('/people/stiftung-ethereum/')) had been formed and then were the recipients of those funds, there was a whole power grab of a mess of how those funds went out and, you know, how that was done.
 

@@ -1,9 +1,9 @@
 ---
-name: Viktor Tron
+name: Viktor Trón
 nickname: zelig
 description: Swarm
 photo: /images/archive.org/ethdev.com/20150315012946/viktor-tron.jpg
-start: Oct 2014
+start: Feb 2014
 
 devcon0: '1421'
 social:
@@ -14,5 +14,4 @@ social:
 
 ## References
 
-- [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - Jeff Wilcke, 2nd November 2014
-
+- Jeff's Ethereum ÐΞV Update I - *"I've known Vik all the way back since the start of the project somewhere in Jan/Feb, he's a great guy and a real asset to this team."* - Jeff Wilcke

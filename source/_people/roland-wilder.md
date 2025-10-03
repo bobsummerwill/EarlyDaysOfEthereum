@@ -1,6 +1,6 @@
 ---
 name: Roland Wilder
-description: Builder of the ETHDEV space in Berlin
+description: Builder of the ETHÐΞV space in Berlin
 start: Aug 2014
 end: Nov 2014
 devcon0: '100'

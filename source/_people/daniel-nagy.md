@@ -15,5 +15,5 @@ That was when he started at the EF, but he was watching for the sidelines from A
 
 ## References
 
-- [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - Jeff Wilcke, 2nd November 2014
+- Jeff's Ethereum ÐΞV Update I
 

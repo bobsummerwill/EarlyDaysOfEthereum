@@ -9,4 +9,6 @@ social:
   website: https://bra.twurst.com/
 ---
 
+## References
 
+- Jeff's Ethereum ÐΞV Update I

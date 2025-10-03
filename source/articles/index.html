@@ -25,7 +25,7 @@ title: Articles
     <article class="article-preview">
         <h2>
           <a href="{{ article.url }}">
-            {{ article.title }}{% if article.alias %} ("{{ article.alias }}"){% endif %}
+            {% if article.lowercase_title %}{{ article.lowercase_title }}{% else %}{{ article.title }}{% endif %}{% if article.alias %} ("{{ article.alias }}"){% endif %}
           </a>
         </h2>
         

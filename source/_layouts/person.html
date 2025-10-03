@@ -129,11 +129,10 @@ embed-content-width: 50%
       {% endif %}
     </div>
   </div>
-</div>
-
-{% if page.devcon0 %}
-<div class="devcon0-section" style="width: 75%;">
-    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555; text-align: left;">DEVCON0 self-introduction</h4>
+  
+  {% if page.devcon0 %}
+  <div class="devcon0-section">
+    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555; text-align: center;">DEVCON0 self-introduction</h4>
     {% assign name_parts = page.name | split: ' ' %}
     {% assign firstname = name_parts[0] | downcase %}
     {% assign lastname = name_parts[-1] | downcase %}
@@ -184,10 +183,9 @@ embed-content-width: 50%
             </iframe>
         </div>
     </div>
+  </div>
+  {% endif %}
 </div>
-{% endif %}
-
-<hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
 
 <!--
   Main content for the person page, with auto-linking for videos, articles, and people.

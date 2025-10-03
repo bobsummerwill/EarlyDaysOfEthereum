@@ -9,9 +9,9 @@ layout: default
 </nav>
 
 <article itemscope itemtype="https://schema.org/Article">
-    <header{% if page.embed and page.embed.url %} class="has-embed"{% endif %}>
+    <header{% if page.source_url %} class="has-embed"{% endif %}>
         <h1 itemprop="headline">
-          {{ page.title }}{% if page.alias %} ("{{ page.alias }}"){% endif %}
+          {% if page.lowercase_title %}{{ page.lowercase_title }}{% else %}{{ page.title }}{% endif %}{% if page.alias %} ("{{ page.alias }}"){% endif %}
         </h1>
         <div class="content-meta">
             {% if page.date %}
@@ -46,11 +46,11 @@ layout: default
         <meta itemprop="image" content="{{ page.image | absolute_url }}">
         {% endif %}
     </header>
-    {% if page.embed and page.embed.url %}
+    {% if page.source_url %}
       {% include content-embed.html
-        url=page.embed.url
-        img=page.embed.img
-        site=page.embed.site
+        url=page.source_url
+        img=page.img
+        site=page.site
         title=page.title
         author=page.author
         date=page.date

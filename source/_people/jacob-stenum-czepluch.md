@@ -1,7 +1,7 @@
 ---
 name: Jacob Stenum Czepluch
 photo: /images/personal/jacob-stenum-czepluch/twitter/2025.08.27/jacob-stenum-czepluch.png
-description: ETHDEV intern
+description: ETHÐΞV intern
 start: Aug 2015
 end: Dec 2015
 social:

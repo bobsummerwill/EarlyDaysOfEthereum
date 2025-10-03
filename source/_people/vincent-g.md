@@ -16,5 +16,5 @@ social:
 
 ## References
 
-- ["Gav’s ÐΞV Update I: Where Ethereum’s at"](https://blog.ethereum.org/2014/10/17/gavs-dev-update-ethereums) by Gavin Wood, 17th October 2014
-- [Jeff’s Ethereum ÐΞV Update I](https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update) - Jeff Wilcke, 2nd November 2014
+- Gav’s ÐΞV Update I: Where Ethereum’s at by Gavin Wood, 17th October 2014
+- Jeff's Ethereum ÐΞV Update I

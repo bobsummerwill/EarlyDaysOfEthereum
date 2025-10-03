@@ -1,6 +1,6 @@
 ---
 name: Jannik Luhn
-description: Python developer - intern at Ethereum DEV UG
+description: Python developer - intern at Ethereum ÐΞV UG
 start: Apr 2015
 end: Nov 2015
 social:

@@ -1,6 +1,6 @@
 ---
 name: "Sarah O'Neill"
-description: Interior designer who built the ETHDEV space in Berlin
+description: Interior designer who built the ETHÐΞV space in Berlin
 start: Aug 2014
 end: Nov 2014
 devcon0: '71'

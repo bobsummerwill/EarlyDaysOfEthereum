@@ -5,6 +5,9 @@
   {% if video.title == video_name %}
     {% assign found_video = video %}
     {% break %}
+  {% elsif video.lowercase_title == video_name %}
+    {% assign found_video = video %}
+    {% break %}
   {% endif %}
 {% endfor %}
 
@@ -18,11 +21,14 @@
   {% endif %}
   
   {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
+  
+  {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
   {% include content-embed.html
     src=video_src
     title=found_video.title
     author=found_video.author
     date=formatted_date
+    url=found_video.url
   %}
 {% else %}
   <div class="error">Video not found: "{{ video_name }}"</div>

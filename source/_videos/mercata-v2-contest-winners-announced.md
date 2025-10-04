@@ -7,9 +7,6 @@ hosts: ["Kieren James-Lubin", "Victor Wong", "Jaime Gonzalez", "Michael Tan"]
 description: "Twitter Spaces which announced the winners of the second Mercata V2 competition"
 ---
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/X4ikRJhB-CQ"
-%}
 
 Our long-awaited [Mercata V2 contest]("https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge") started at 5pm ET on Wednesday 17th September 2025.  The winners of the contest were announced in this live session exactly a week later.
 

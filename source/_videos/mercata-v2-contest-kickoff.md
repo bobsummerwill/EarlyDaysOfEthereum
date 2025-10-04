@@ -8,8 +8,6 @@ description: "Twitter Spaces which kicked off the second Mercata V2 competition"
 ---
 
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/rSfw2sgHVJE"
 %}
 
 Our long-awaited [Mercata V2 contest]("https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge") started at 5pm ET on Wednesday 17th September 2025.  The winners will be announced on our 24th September Twitter Spaces exactly a week later.

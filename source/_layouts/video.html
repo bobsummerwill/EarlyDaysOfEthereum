@@ -28,7 +28,7 @@ embed-content-width: 50%
           Video title and meta information (release date, hosts, guests).
           - Jekyll Front Matter: https://jekyllrb.com/docs/front-matter/
         -->
-        <h1>{{ page.title }}</h1>
+        <h1>{% if page.lowercase_title %}{{ page.lowercase_title }}{% else %}{{ page.title }}{% endif %}</h1>
         <div class="content-meta">
             {% if page.date %}
                 <div class="release-date" style="margin-bottom: 15px;">
@@ -117,6 +117,29 @@ embed-content-width: 50%
             {% endif %}
         </div>
     </header>
+    
+    <!--
+      Video player embed card
+    -->
+    {% if page.youtube_id or page.vimeo_id or page.src %}
+        {% if page.youtube_id %}
+            {% assign video_src = "https://www.youtube.com/embed/" | append: page.youtube_id %}
+        {% elsif page.vimeo_id %}
+            {% assign video_src = "https://player.vimeo.com/video/" | append: page.vimeo_id %}
+        {% else %}
+            {% assign video_src = page.src %}
+        {% endif %}
+        
+        {% assign formatted_date = page.date | date: "%B %d, %Y" %}
+        
+        {% include content-embed.html
+            src=video_src
+            title=page.title
+            author=page.author
+            date=formatted_date
+            description=page.description
+        %}
+    {% endif %}
     
     <!--
       Main video content, with auto-linking for videos, articles, and people.

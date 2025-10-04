@@ -13,8 +13,6 @@ Ethereum OG and "co Founder" Taylor Gerring joined us as a guest to talk about h
 
 Bob Summerwill hosted this episode with Kieren James-Lubin commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/24A8B9IgfLQ"
 %}
 
 ## Transcript
@@ -58,8 +56,6 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 
 [[14:54]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=894s) **Bob:** No. He was at DEVCON1 doing a talk about Grants actually and I got my name on the screen.  I didn't get to go to London but I was on the screen as a named contributor to EthEmbedded.  But yeah, I didn't see him around in Ethereum that much, much beyond that kind of timeline.
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/4jGqmlA4KEY"
 %}
 
 [[15:16]](https://www.youtube.com/watch?v={{ page.youtube_id }}&t=916s) **Taylor:** There's a lot of that, though. A lot of people have, you know, they put in their contribution and they go attend to other aspects of life, right? Life isn't just working about, working on startups.  I mean, some people want to have families and stuff. So, you know, there's a lot of people who have done their thing and gone off to greener pastures, whatever that means for them. And no hard feelings to any of those.  I mean, I find myself in a similar space where I'm not contributing like I once was and trying to enjoy other facets of life. but I think it's just part of the natural cycle of things.

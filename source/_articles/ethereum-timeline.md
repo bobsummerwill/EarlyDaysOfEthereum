@@ -13,10 +13,6 @@ See also the partial public histories in:
 - [History of Ethereum](https://web.archive.org/web/20171231180759/http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html), written by the community for Homestead in March 2016
 - [A Prehistory of the Ethereum Protocol](https://vitalik.eth.limo/general/2017/09/14/prehistory.html), written by Vitalik Buterin in September 2017
 
-## Timeline 2013
-
-### Earliest Messages between Vitalik and Gav – 19th Dec 2013
-
 {% include twitter-embed.html
   url="https://twitter.com/VitalikButerin/status/895518902817480708"
 %}
@@ -39,15 +35,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 
-## Timeline 2014
-
-### North American Bitcoin Conference, Miami, 26th January 2014
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/l9dpjN3Mwps"
-  title="Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014"
-  author="Ethereum Project"
-  date="January 26, 2014"
+{% include video-embed.html
+  name="Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014"
 %}
 
 {% include content-embed.html
@@ -57,14 +46,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ohio Bitcoin"
   img="/images/ohiobitcoin.com/2025.09.28/yRD6Sr-500x372.jpg"
 %}
-
-### Beach house in Miami in February, where first face-to-face development happened - 31st January 2014
-
-<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg"/>
-
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): [Dino Mark]('/people/dino-mark/'), [Yanislav Malahov]('/people/yanislav-malahov/'), Charles Hoskinson, [Anthony 'Texture' D'Onofrio]('/people/anthony-d-onofrio/'), [Steve Dakh]('/people/steve-dakh/'), [Wendell Davis]('/people/wendell-davis/'), [Jonathan Mohan]('/people/jonathan-mohan/'), [Joseph Lubin]('/people/joe-lubin/'), [Louis Parker]('/people/louis-parker/'). Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, [Jason Colby]('/people/jason-colby/'), [Kyle Kurbegovich]('/people/kyle-kurbegovich/'))*
-
-(this image is from Taylor's twitter thread, with caption and names taken from [Why Polkadot is The Next Big Mover This Bull Cycle](https://archive.ph/mqtoo))
 
 {% include video-embed.html
   name="Introducing Ethereum"
@@ -78,11 +59,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   img="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/88661838"
-  title="The upcoming crypto-singularity - Coinscrum"
-  author="Stephan Tual"
-  date="March 10, 2014"
+{% include video-embed.html
+  name="The upcoming crypto-singularity - Coinscrum"
 %}
 
 {% include video-embed.html
@@ -98,16 +76,12 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   img="/images/duncan.co/2025.09.28/Duncan-Rawlinson-Photo-89477-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8862-1024x576.jpg"
 %}
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/exI4zywavD0"
-  title="In Crypto We Trust Hackathon"
-  date="April 10, 2014"
+{% include video-embed.html
+  name="In Crypto We Trust Hackathon"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/93669998"
-  title="Crypto Hackathon – Bitcoin Expo 2014!"
-  date="April 10, 2014"
+{% include video-embed.html
+  name="Crypto Hackathon – Bitcoin Expo 2014!"
 %}
 
 {% include content-embed.html
@@ -119,52 +93,29 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   img="/images/archive.org/bitcoinexpo.ca/20171124124825/Screenshot.png"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/93371709"
-  title="Ethereum Booth at the Bitcoin Expo 2014"
-  date="April 11, 2014"
+{% include video-embed.html
+  name="Ethereum Booth at the Bitcoin Expo 2014"
 %}
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/XjiJDU4ErlY"
-  title="Rare 2014 presentation by Ethereum Co-Founder, Vitalik Buterin"
-  author="Naomi Brockwell TV"
-  date="April 12, 2014"
+{% include video-embed.html
+  name="Rare 2014 presentation by Ethereum Co-Founder, Vitalik Buterin"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/92563841"
-  title="Why I Joined Ethereum"
-  author="Charles Hoskinson"
-  date="April 12, 2014"
+{% include video-embed.html
+  name="Why I Joined Ethereum"
 %}
 
-{% include content-embed.html
-  src="https://player.vimeo.com/video/92338385"
-  title="Ethereum Video Background loop for Meetup groups and presentations"
-  author="Richard Stott"
-  date="April 18, 2014"
+{% include video-embed.html
+  name="Ethereum Video Background loop for Meetup groups and presentations"
 %}
 
-### What is Ethereum? (Stephan Tual, CCO), 4th June 2014
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/97374143"
-  title="What is Ethereum?"
-  author="Stephan Tual"
-  date="June 4, 2014"
+{% include video-embed.html
+  name="What is Ethereum?"
 %}
 
-### BitVote: time based voting DApp on Ethereum, Aaron Bale, 13th June 2014
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/z-BtgF3oqoA"
-  title="BitVote: time based voting ÐApp on Ethereum"
-  author="Aaron Bale"
-  date="June 13, 2014"
+{% include video-embed.html
+  name="BitVote: time based voting ÐApp on Ethereum"
 %}
-
-### On Abstraction, Vitalik Buterin, 5th July 2014
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/07/05/on-abstraction/"
@@ -174,8 +125,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### Towards a 12 second Block Time, Vitalik Buterin, 11th July 2014
-
 {% include content-embed.html
   url="https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/"
   title="Towards a 12 second Block Time"
@@ -184,13 +133,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### Interview with Ethereum, Coin Telegraph, 24th July 2014
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/7Wih6K288fo"
-  title="Interview with Ethereum"
-  author="Vitalik Buterin"
-  date="July 24, 2014"
+{% include video-embed.html
+  name="Interview with Ethereum"
 %}
 
 {% include content-embed.html
@@ -200,16 +144,9 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   date="July 24, 2014"
 %}
 
-### Vitalik Buterin explains Ethereum, 29th July 2014
-
-{% include content-embed.html
-  src="https://player.vimeo.com/video/102024647"
-  title="Vitalik Buterin explains Ethereum"
-  author="Vitalik Buterin"
-  date="July 29, 2014"
+{% include video-embed.html
+  name="Vitalik Buterin explains Ethereum"
 %}
-
-### State of Ethereum: August Edition, Vitalik Buterin, 27th August 2014
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2014/08/27/state-ethereum-august-edition/"
@@ -227,13 +164,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   name="Jeff's Ethereum ÐΞV Update I"
 %}
 
-### ÐΞVcon-0 conference in Berlin
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/_BvvUlKDqp0"
-  title="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
-  author="Gavin Wood"
-  date="December 2014"
+{% include video-embed.html
+  name="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
 %}
 
 {% include content-embed.html
@@ -243,22 +175,13 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### Gavin Wood – Allegality – Systems Which Cannot Care, 10th Dec 2014
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/WdgQI6CA4-E"
-  title="Allegality – Systems Which Cannot Care"
-  author="Gavin Wood"
-  date="December 10, 2014"
+{% include video-embed.html
+  name="Allegality – Systems Which Cannot Care"
 %}
-
-## Timeline 2015
 
 {% include article-embed.html
   name="Gav's Ethereum ÐΞV Update V"
 %}
-
-### The Ethereum Launch Process, [Vinay Gupta]('/people/vinay-gupta/'), 3rd March 2015
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/03/03/ethereum-launch-process/"
@@ -267,8 +190,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   date="March 3, 2015"
   site="Ethereum Blog"
 %}
-
-### Ethereum Foundation Open Call re: Board Selection, Vitalik, 10th April 2015
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/04/10/ethereum-foundation-open-call-re-board-selection/"
@@ -282,8 +203,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   name="The end of the beginning…"
 %}
 
-### Godfather of Ethereum (Yanislav Malahov), 25th May 2015
-
 {% include content-embed.html
   url="https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5"
   title="Godfather of Ethereum"
@@ -296,8 +215,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   name="Another Ethereum ÐΞV Update"
 %}
 
-### Announcing the New Foundation Board and Executive Director, 30th July 2015
-
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director/"
   title="Announcing the New Foundation Board and Executive Director"
@@ -305,16 +222,12 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### New Ethereum Structure Executive Director and Board Members Signal a Reboot for Ethereum, Bitcoin Publication, 2nd Aug 2015
-
 {% include content-embed.html
   url="http://www.swissapp.mobi/2015/08/02/new-ethereum-structure-executive-director-and-board-members-signal-a-reboot-for-ethereum/"
   title="New Ethereum Structure Executive Director and Board Members Signal a Reboot for Ethereum"
   date="August 2, 2015"
   site="Bitcoin Publication"
 %}
-
-### A Message from Stephan Tual, 3rd Sep 2015
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/09/03/a-message-from-stephan-tual/"
@@ -324,8 +237,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### So Ethereum is Released, Gavin Wood, 12th Dec 2015
-
 {% include content-embed.html
   url="https://medium.com/@gavofyork/so-ethereum-is-released-4291da46b770"
   title="So Ethereum is Released"
@@ -334,13 +245,9 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Medium"
 %}
 
-## Timeline 2016
-
 {% include article-embed.html
   name="The Last Post"
 %}
-
-### Cut and Try: building a dream (Taylor Gerring), 9th Feb 2016
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/"
@@ -350,8 +257,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
-### Ethereum Foundation page, 4th March 2016
-
 {% include content-embed.html
   url="https://web.archive.org/web/20160304212822/https://www.ethereum.org/foundation"
   title="Ethereum Foundation page"
@@ -360,24 +265,15 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Internet Archive"
 %}
 
-### Can Ethereum Restore Online Freedom & Transform the Internet? Reason TV, 18th March 2016
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/H6bGuKN3m6E"
-  title="Can Ethereum Restore Online Freedom & Transform the Internet?"
-  site="Reason TV"
-  date="March 18, 2016"
+{% include video-embed.html
+  name="Can Ethereum Restore Online Freedom & Transform the Internet?"
 %}
-
-### Extensive timeline for the DAO fork:
 
 {% include content-embed.html
   url="https://github.com/ethereumbook/ethereumbook/blob/develop/contrib/forks-history.asciidoc"
   title="Extensive timeline for the DAO fork"
   site="GitHub"
 %}
-
-### Why I've Resigned as a Curator of the DAO, 13th May 2016
 
 {% include content-embed.html
   url="https://medium.com/@gavofyork/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447"
@@ -387,16 +283,12 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Medium"
 %}
 
-### The Uncanny Mind That Built Ethereum, 16th June 2016
-
 {% include content-embed.html
   url="https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/"
   title="The Uncanny Mind That Built Ethereum"
   date="June 16, 2016"
   site="Wired"
 %}
-
-### Analysis of the DAO exploit, Phil Daian, 18th June 2016
 
 {% include content-embed.html
   url="http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/"
@@ -406,27 +298,15 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Hacking Distributed"
 %}
 
-### Gavin Wood presentation hack of the DAO smart contract and options Ethereum community, Dutch Blockchain Conference, 20th June 2016
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/KaOGtH7J0WE"
-  title="Gavin Wood presentation hack of the DAO smart contract and options Ethereum community"
-  author="Gavin Wood"
-  date="June 20, 2016"
+{% include video-embed.html
+  name="Gavin Wood presentation hack of the DAO smart contract and options Ethereum community"
 %}
 
-### Gavin Wood on how $60M hack of DAO happened and what to do next, Dutch Blockchain Conference, 21st June 2016
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/JzCGRtGyxvY"
-  title="Gavin Wood on how $60M hack of DAO happened and what to do next"
-  author="Gavin Wood"
-  date="June 21, 2016"
+{% include video-embed.html
+  name="Gavin Wood on how $60M hack of DAO happened and what to do next"
 %}
 
 "Was that because you wanted to make a lot of money?" ([Timestamp](https://youtu.be/JzCGRtGyxvY?t=13m58s))
-
-### Understanding The DAO Attack, David Siegel, 25th June 2016
 
 {% include content-embed.html
   url="https://www.coindesk.com/understanding-dao-hack-journalists/"
@@ -436,14 +316,14 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="CoinDesk"
 %}
 
-### TBP79 – Infrastructure for a Seven Billion World, 13th August 2016
-
 {% include content-embed.html
   url="https://thebitcoinpodcast.com/episode-79/"
   title="TBP79 – Infrastructure for a Seven Billion World"
   date="August 13, 2016"
   site="The Bitcoin Podcast"
 %}
+
+<div style="max-width: 75%;">
 
 *"We knew that Stephan Tual was a bad actor ... Same logic applies to Charles Hoskinson. There are all kinds of legends about that guy. Jesus Christ, right?  Serious, serious troublemaker.  Lots of people know the stories."* (soundbite at 26m45s).
 
@@ -463,10 +343,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-
-## Timeline 2017
-
-### Hard Forks, Soft Forks, Defaults and Coercion, Vitalik Buterin, 14th March 2017
+</div>
 
 {% include content-embed.html
   url="http://vitalik.ca/general/2017/03/14/forks_and_markets.html"
@@ -476,8 +353,6 @@ document.addEventListener('DOMContentLoaded', function() {
   site="vitalik.ca"
 %}
 
-### The Ether Thief, Bloomberg Markets, [Matthew Leising]('/people/matthew-leising/'), 13th June 2017
-
 {% include content-embed.html
   url="https://www.bloomberg.com/features/2017-the-ether-thief/"
   title="The Ether Thief"
@@ -485,8 +360,6 @@ document.addEventListener('DOMContentLoaded', function() {
   date="June 13, 2017"
   site="Bloomberg Markets"
 %}
-
-### SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities, SEC, 25th July 2017
 
 {% include content-embed.html
   url="https://www.sec.gov/news/press-release/2017-131"
@@ -504,8 +377,6 @@ document.addEventListener('DOMContentLoaded', function() {
   site="SEC"
 %}
 
-### A Prehistory of the Ethereum Protocol, Vitalik Buterin, 15th September 2017
-
 {% include content-embed.html
   url="http://vitalik.ca/2017-09-15-prehistory.html"
   title="A Prehistory of the Ethereum Protocol"
@@ -513,8 +384,6 @@ document.addEventListener('DOMContentLoaded', function() {
   date="September 15, 2017"
   site="vitalik.ca"
 %}
-
-### I remember Cardano now… Red flags everywhere., 30th Nov 2017
 
 {% include content-embed.html
   url="https://www.reddit.com/r/ethtrader/comments/7grmiq/i_remember_cardano_now_red_flags_everywhere/?st=jap372rr&sh=87fee4a0"

@@ -9,12 +9,15 @@
   For Twitter embed docs: https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview
 -->
 {% assign twitter_url = include.url | replace: "x.com", "twitter.com" %}
-<blockquote class="twitter-tweet" data-conversation="none">
-  <p lang="en" dir="ltr">
-    <a href="{{ twitter_url }}">{{ twitter_url }}</a>
-  </p>
-</blockquote>
-{% unless page.twitter_widget_loaded %}
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  {% assign twitter_widget_loaded = true %}
-{% endunless %}
+{% assign embed_width = layout.embed-content-width | default: "75%" %}
+<div style="max-width: {{ embed_width }};">
+  <blockquote class="twitter-tweet" data-conversation="none">
+    <p lang="en" dir="ltr">
+      <a href="{{ twitter_url }}">{{ twitter_url }}</a>
+    </p>
+  </blockquote>
+  {% unless page.twitter_widget_loaded %}
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {% assign twitter_widget_loaded = true %}
+  {% endunless %}
+</div>

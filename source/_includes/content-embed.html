@@ -1,37 +1,29 @@
-{% assign embed_width = layout.embed-content-width | default: "420px" %}
+{% assign embed_width = layout.embed-content-width | default: "75%" %}
 <div class="blog-embed-card" style="max-width: {{ embed_width }};">
   {% if include.src %}
     <!-- VIDEO MODE -->
-    <a href="{{ include.url | default: include.src }}" target="_blank" rel="noopener" class="blog-embed-link-wrapper">
-      <div class="blog-embed-video-container">
-        <div class="blog-embed-video-wrapper">
-          <iframe
-            class="video-embed-minimal"
-            src="{{ include.src }}"
-            title="{{ include.title | escape }}"
-            allowfullscreen
-            loading="lazy"
-            referrerpolicy="no-referrer"
-          ></iframe>
-        </div>
+    <a href="{{ include.url | default: include.src }}" class="blog-embed-link-wrapper" style="display: block; text-decoration: none;">
+      <div class="blog-embed-video-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 0;">
+        <iframe
+          class="video-embed-minimal"
+          src="{{ include.src }}"
+          title="{{ include.title | escape }}"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          allowfullscreen
+          loading="lazy"
+          referrerpolicy="no-referrer"
+        ></iframe>
       </div>
-      <div class="blog-embed-meta">
+      <div class="blog-embed-meta" style="padding: 12px; background: white;">
         {% if include.title %}
-          <div class="blog-embed-title">
+          <div class="blog-embed-title" style="margin-bottom: 8px; font-weight: bold;">
             <span class="no-auto-link-marker">{{ include.title }}</span>
           </div>
         {% endif %}
-        {% if include.site or include.author or include.date %}
-          {% if include.site %}
-            <div class="blog-embed-meta-line">
-              <span class="blog-embed-site">{{ include.site }}</span>
-            </div>
-          {% endif %}
-          {% if include.author or include.date %}
-            <div class="blog-embed-meta-line-with-margin">
-              {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url }}" class="blog-embed-author">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
-            </div>
-          {% endif %}
+        {% if include.author or include.date %}
+          <div style="font-size: 0.95em; color: #666;">
+            {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url }}" class="blog-embed-author" style="color: #007acc;">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+          </div>
         {% endif %}
       </div>
     </a>

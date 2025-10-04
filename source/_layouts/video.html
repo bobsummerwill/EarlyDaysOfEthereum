@@ -1,6 +1,5 @@
 ---
 layout: default
-embed-content-width: 50%
 ---
 
 <!--
@@ -121,19 +120,11 @@ embed-content-width: 50%
     <!--
       Video player embed card
     -->
-    {% if page.youtube_id or page.vimeo_id or page.src %}
-        {% if page.youtube_id %}
-            {% assign video_src = "https://www.youtube.com/embed/" | append: page.youtube_id %}
-        {% elsif page.vimeo_id %}
-            {% assign video_src = "https://player.vimeo.com/video/" | append: page.vimeo_id %}
-        {% else %}
-            {% assign video_src = page.src %}
-        {% endif %}
-        
+    {% if page.embed.url %}
         {% assign formatted_date = page.date | date: "%B %d, %Y" %}
         
         {% include content-embed.html
-            src=video_src
+            src=page.embed.url
             title=page.title
             author=page.author
             date=formatted_date

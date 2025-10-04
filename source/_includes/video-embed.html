@@ -12,17 +12,10 @@
 {% endfor %}
 
 {% if found_video %}
-  {% if found_video.youtube_id %}
-    {% assign video_src = "https://www.youtube.com/embed/" | append: found_video.youtube_id %}
-  {% elsif found_video.vimeo_id %}
-    {% assign video_src = "https://player.vimeo.com/video/" | append: found_video.vimeo_id %}
-  {% else %}
-    {% assign video_src = found_video.src %}
-  {% endif %}
+  {% assign video_src = found_video.embed.url %}
   
   {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
   
-  {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
   {% include content-embed.html
     src=video_src
     title=found_video.title

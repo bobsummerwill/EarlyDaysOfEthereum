@@ -26,20 +26,25 @@ title: Videos
     {% for video in sorted_videos %}
     {% unless video.layout == 'mercata' %}
     <div class="video-card">
-        {% if video.youtube_id %}
-        <div class="video-thumbnail">
-            <a href="{{ video.url }}">
-                <img src="https://img.youtube.com/vi/{{ video.youtube_id }}/maxresdefault.jpg" alt="{{ video.title }}" />
-                <div class="play-button">▶</div>
-            </a>
-        </div>
-        {% elsif video.vimeo_id %}
-        <div class="video-thumbnail">
-            <a href="{{ video.url }}">
-                <img src="https://vumbnail.com/{{ video.vimeo_id }}.jpg" alt="{{ video.title }}" />
-                <div class="play-button">▶</div>
-            </a>
-        </div>
+        {% if video.embed.url %}
+            {% assign embed_url = video.embed.url %}
+            {% if embed_url contains 'youtube.com/embed/' %}
+                {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}
+                <div class="video-thumbnail">
+                    <a href="{{ video.url }}">
+                        <img src="https://img.youtube.com/vi/{{ video_id }}/maxresdefault.jpg" alt="{{ video.title }}" />
+                        <div class="play-button">▶</div>
+                    </a>
+                </div>
+            {% elsif embed_url contains 'vimeo.com/video/' %}
+                {% assign video_id = embed_url | split: '/video/' | last | split: '?' | first %}
+                <div class="video-thumbnail">
+                    <a href="{{ video.url }}">
+                        <img src="https://vumbnail.com/{{ video_id }}.jpg" alt="{{ video.title }}" />
+                        <div class="play-button">▶</div>
+                    </a>
+                </div>
+            {% endif %}
         {% endif %}
         
         <div class="video-info">

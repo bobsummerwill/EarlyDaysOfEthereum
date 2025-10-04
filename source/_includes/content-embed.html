@@ -2,8 +2,25 @@
 <div class="blog-embed-card" style="max-width: {{ embed_width }};">
   {% if include.src %}
     <!-- VIDEO MODE -->
+    {% assign is_local_video = false %}
+    {% if include.src contains '.mp4' or include.src contains '.webm' or include.src contains '.ogg' %}
+      {% unless include.src contains 'youtube.com' or include.src contains 'vimeo.com' or include.src contains 'http://' or include.src contains 'https://' %}
+        {% assign is_local_video = true %}
+      {% endunless %}
+    {% endif %}
+    
     <a href="{{ include.url | default: include.src }}" class="blog-embed-link-wrapper" style="display: block; text-decoration: none;">
       <div class="blog-embed-video-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 0;">
+        {% if is_local_video %}
+        <video
+          class="video-embed-minimal"
+          src="{{ include.src }}"
+          title="{{ include.title | escape }}"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          controls
+          preload="metadata"
+        ></video>
+        {% else %}
         <iframe
           class="video-embed-minimal"
           src="{{ include.src }}"
@@ -13,6 +30,7 @@
           loading="lazy"
           referrerpolicy="no-referrer"
         ></iframe>
+        {% endif %}
       </div>
       <div class="blog-embed-meta" style="padding: 12px; background: white;">
         {% if include.title %}

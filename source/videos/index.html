@@ -26,7 +26,14 @@ title: Videos
     {% for video in sorted_videos %}
     {% unless video.layout == 'mercata' %}
     <div class="video-card">
-        {% if video.embed.url %}
+        {% if video.img %}
+            <div class="video-thumbnail">
+                <a href="{{ video.url }}">
+                    <img src="{{ video.img }}" alt="{{ video.title }}" />
+                    <div class="play-button">▶</div>
+                </a>
+            </div>
+        {% elsif video.embed.url %}
             {% assign embed_url = video.embed.url %}
             {% if embed_url contains 'youtube.com/embed/' %}
                 {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}

@@ -4,9 +4,10 @@ lowercase_title: jeff's ethereum dev update i
 date: 2014-11-02
 author: Jeffrey Wilcke
 description: "Jeff Wilcke's first development update covering the Amsterdam hub setup, team introductions, and progress on Mist browser and ethereum.js"
-source_url: https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update
-img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
-site: Ethereum Foundation Blog
+embed:
+  url: https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 I thought it was about time I'd give an update on my side of things for those interested in knowing how we're doing on the Dutch side. My name is Jeff, a founder of Ethereum and one of the three directors (alongside Vitalik and Gavin) of Ethereum ÐΞV, the development entity building Ethereum and all the associated tech.

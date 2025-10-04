@@ -527,11 +527,13 @@ document.addEventListener('DOMContentLoaded', function() {
   site="Reddit"
 %}
 
-### Visions of Ether, 16th Nov 2018
-
 {% include content-embed.html
   url="https://tokeneconomy.co/visions-of-ether-590858bf848e"
   title="Visions of Ether"
   date="November 16, 2018"
   site="Token Economy"
+%}
+
+{% include article-embed.html
+  name="The Cryptopians"
 %}

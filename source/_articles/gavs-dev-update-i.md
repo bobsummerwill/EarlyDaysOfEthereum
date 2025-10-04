@@ -4,9 +4,10 @@ lowercase_title: "gav's dev update i: where ethereum's at"
 date: 2014-10-17
 author: Gavin Wood
 description: "Gavin Wood's first development update covering the Berlin hub setup, team introductions across Berlin, London, and Silicon Valley, and progress towards Ethereum 1.0"
-source_url: https://blog.ethereum.org/2014/10/17/gavs-dev-update-ethereums
-img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
-site: Ethereum Foundation Blog
+embed:
+  url: https://blog.ethereum.org/2014/10/17/gavs-dev-update-ethereums
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 **Who are you?**

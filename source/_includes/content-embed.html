@@ -1,12 +1,3 @@
-<!--
-  =========================
-  Content Embed Include (Blog + Video)
-  =========================
-  This Jekyll include renders a styled card for embedding either a blog/article or a video (YouTube, Vimeo), auto-detecting based on parameters.
-  Usage:
-    Video: has src parameter
-    Blog: has img parameter or no img parameter
--->
 {% assign embed_width = layout.embed-content-width | default: "420px" %}
 <div class="blog-embed-card" style="max-width: {{ embed_width }};">
   {% if include.src %}
@@ -27,7 +18,7 @@
       <div class="blog-embed-meta">
         {% if include.title %}
           <div class="blog-embed-title">
-            {{ include.title }}
+            <span class="no-auto-link-marker">{{ include.title }}</span>
           </div>
         {% endif %}
         {% if include.site or include.author or include.date %}
@@ -96,7 +87,7 @@
         {% endif %}
       {% elsif include.author or include.date %}
         <div style="font-size: 0.98em; color: #666; margin-bottom: 4px;">
-          {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+          {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url }}" class="blog-embed-author" style="color: #007acc; text-decoration: underline;">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
         </div>
       {% endif %}
       {% unless include.img %}

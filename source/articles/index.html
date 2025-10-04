@@ -20,7 +20,8 @@ title: Articles
 </p>
 
 <div class="articles-list">
-    {% assign sorted_articles = site.articles | sort: 'date' %}
+    {% assign articles_with_dates = site.articles | where_exp: "item", "item.date" %}
+    {% assign sorted_articles = articles_with_dates | sort: 'date' %}
     {% for article in sorted_articles %}
     <article class="article-preview">
         <h2>

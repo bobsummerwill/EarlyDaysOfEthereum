@@ -46,11 +46,11 @@ layout: default
         <meta itemprop="image" content="{{ page.image | absolute_url }}">
         {% endif %}
     </header>
-    {% if page.source_url %}
+    {% if page.embed.url %}
       {% include content-embed.html
-        url=page.source_url
-        img=page.img
-        site=page.site
+        url=page.embed.url
+        img=page.embed.img
+        site=page.embed.site
         title=page.title
         author=page.author
         date=page.date

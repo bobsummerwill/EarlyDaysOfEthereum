@@ -13,7 +13,7 @@ Tensions were at boiling point at that stage, so instead of a signing ceremony i
 
 The leadership group (the 8 co-founders) was dissolved, with Vitalik asking Mihai, Jeff, Gavin, Joe and Anthony to return, with Charles and Amir being removed.  They remained co-founders and, like all the other early contributors, they still received their ether allocations.  Stephan and Taylor were appointed to take their places.
 
-This story is told in detail in The Cryptopians, Out of Ether and Infinite Machine, and has been mentioned in many other articles and interviews.
+This story is told in detail in The Cryptopians, Out of The Ether and The Infinite Machine, and has been mentioned in many other articles and interviews.
 
 Charles is still incredibly bitter about these events.  He allegedly gave all of his ether allocation to his assistant, Jeremy Wood, in frustration.  Jeremy left the Ethereum project himself only a few months later.
 

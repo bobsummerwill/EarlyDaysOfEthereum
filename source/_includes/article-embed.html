@@ -8,17 +8,4 @@
   {% endif %}
 {% endfor %}
 
-{% if found_article %}
-  {% assign formatted_date = found_article.date | date: "%B %d, %Y" %}
-  {% include content-embed.html
-    url=found_article.source_url
-    img=found_article.img
-    title=found_article.title
-    author=found_article.author
-    date=formatted_date
-    description=found_article.description
-    site=found_article.site
-  %}
-{% else %}
-  <div class="error">Article not found: "{{ article_name }}"</div>
-{% endif %}
+{% if found_article %}{% if found_article.embed.url %}{% assign embed_date = found_article.date | date: "%B %d, %Y" %}{% include content-embed.html url=found_article.url img=found_article.embed.img site=found_article.embed.site title=found_article.title author=found_article.author date=embed_date description=found_article.description %}{% else %}<a href="{{ found_article.url }}">{{ article_name }}</a>{% endif %}{% else %}<div class="error">Article not found: "{{ article_name }}"</div>{% endif %}

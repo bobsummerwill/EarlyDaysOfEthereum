@@ -254,14 +254,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
 
 ## Timeline 2015
 
-### Gav's Ethereum ÐΞV Update V, 2nd March 2015
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/03/02/gavs-ethereum-dev-update-v/"
-  title="Gav's Ethereum ÐΞV Update V"
-  author="Gavin Wood"
-  date="March 2, 2015"
-  site="Ethereum Blog"
+{% include article-embed.html
+  name="Gav's Ethereum ÐΞV Update V"
 %}
 
 ### The Ethereum Launch Process, [Vinay Gupta]('/people/vinay-gupta/'), 3rd March 2015
@@ -284,6 +278,10 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   site="Ethereum Blog"
 %}
 
+{% include article-embed.html
+  name="The end of the beginning…"
+%}
+
 ### Godfather of Ethereum (Yanislav Malahov), 25th May 2015
 
 {% include content-embed.html
@@ -292,6 +290,10 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
   author="Yanislav Malahov"
   date="May 25, 2015"
   site="Medium"
+%}
+
+{% include article-embed.html
+  name="Another Ethereum ÐΞV Update"
 %}
 
 ### Announcing the New Foundation Board and Executive Director, 30th July 2015
@@ -334,14 +336,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonath
 
 ## Timeline 2016
 
-### The Last Post, Gavin Wood, 11th Jan 2016
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2016/01/11/last-blog-post/"
-  title="The Last Post"
-  author="Gavin Wood"
-  date="January 11, 2016"
-  site="Ethereum Blog"
+{% include article-embed.html
+  name="The Last Post"
 %}
 
 ### Cut and Try: building a dream (Taylor Gerring), 9th Feb 2016

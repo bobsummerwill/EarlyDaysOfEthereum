@@ -2,7 +2,7 @@
 title: Jeff's Ethereum ÐΞV Update I
 lowercase_title: jeff's ethereum dev update i
 date: 2014-11-02
-author: Jeffrey Wilcke
+author: Jeff Wilcke
 description: "Jeff Wilcke's first development update covering the Amsterdam hub setup, team introductions, and progress on Mist browser and ethereum.js"
 embed:
   url: https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update

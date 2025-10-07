@@ -8,23 +8,12 @@ embed:
   url: https://www.youtube.com/embed/rSfw2sgHVJE
 ---
 
-
-%}
-
 Our long-awaited [Mercata V2 contest]("https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge") started at 5pm ET on Wednesday 17th September 2025.  The winners will be announced on our 24th September Twitter Spaces exactly a week later.
 
 **STRATO Mercata V2** is our completely revamped application, which is due to be released later this year.  The contest is using our testnet running the latest pre-release version.
 
-Here are instructions to get started:
+Here are [instructions to get started](https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge).
 
-{% include content-embed.html
-  url="https://www.stratomercata.com/blog/announcing-the-mercata-v2-trading-and-testing-challenge"
-  img="https://www.stratomercata.com/lovable-uploads/74ce8343-acaf-41e9-9bb7-a99f53337158.png"
-  title='Announcing the Mercata V2 "Trading and Testing Challenge"'
-  site="https://stratomercata.com"
-  author="Bob Summerwill"
-  date="September 16, 2025"
-%}
 
 ## Transcript
 
@@ -143,7 +132,7 @@ And it's really interesting because one of the things I think that stands out in
 [[11:52]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=712s) **Victor:**
 Now, what you're seeing on your screen right now is an overview of the new V2 application. It's been basically the focus of our efforts throughout this year, and there have been significant changes to it, which I'll show in one second, from the earlier iteration of our contest in July. So, thank you for everyone that provided feedback, and that was immensely useful.
 
-<img src="/images/personal/bob-summerwill/streamyard.ai/2025.09.17/screenshot-of-spaces.png" alt="Screenshot of Spaces" style="width: 75%;" />
+<img src="/images/personal/bob-summerwill/streamyard.ai/2025.09.17/screenshot-of-spaces.png" alt="Screenshot of Spaces" style="width: 50%;" />
 
 <a id="prizes"></a>
 
@@ -171,7 +160,7 @@ The way the process works is slightly different. So, I just want to kind of walk
 [[13:56]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=836s) **Victor:**
 So, if you look here, I'm going to show you how you do that. You go to the deposits page and we're providing two contest specific assets. One we call mETH for Mercata ETH and you bring that in by bridging.
 
-<img src="/images/personal/bob-summerwill/streamyard.ai/2025.09.17/screenshot-of-spaces2.png" alt="Screenshot of Spaces" style="width: 75%;" />
+<img src="/images/personal/bob-summerwill/streamyard.ai/2025.09.17/screenshot-of-spaces2.png" alt="Screenshot of Spaces" style="width: 50%;" />
 
 [[14:12]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=852s) **Victor:**
 So, you use the [Sepolia](https://ethereum.org/developers/docs/networks/#sepolia) and you can bridge it in on the Mercata network. Now, when you see this and when you bridge it and connect it to your wallet, you'll see two confirmations.

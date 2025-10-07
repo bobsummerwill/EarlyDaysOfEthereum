@@ -41,9 +41,6 @@ embed-content-width: 50%
       {% if page.role %}
         <div class="person-role">{{ page.role }}</div>
       {% endif %}
-      {% if page.period %}
-        <div class="person-period">Active: {{ page.period }}</div>
-      {% endif %}
       {% if page.description %}
         <p class="person-description">
           {% include auto_link.html content=page.description %}

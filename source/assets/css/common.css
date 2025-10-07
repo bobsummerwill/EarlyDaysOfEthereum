@@ -822,12 +822,6 @@ img {
     margin-bottom: var(--spacing-sm);
 }
 
-.person-period {
-    color: var(--text-light);
-    font-size: 0.9em;
-    margin-bottom: var(--spacing-lg);
-}
-
 .person-description,
 .person-excerpt {
     color: var(--text-medium);
@@ -1594,12 +1588,6 @@ img {
     font-size: 1.1em;
 }
 
-.person-period {
-    color: var(--text-light);
-    font-style: italic;
-    margin-top: 5px;
-}
-
 .person-interview-link {
     margin-top: 18px;
     text-align: left;
@@ -2064,5 +2052,424 @@ main {
     
     .ethereum-text {
         font-size: 1.6em;
+    }
+}
+
+/**
+ * Header and Footer Utilities - Consistent header and footer styling
+ * 
+ * Provides reusable classes for site header and footer components.
+ */
+.site-header-center {
+    text-align: center;
+}
+
+.site-header-title {
+    margin: 0;
+}
+
+.site-header-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.site-description-center {
+    margin: 0 auto 5px auto;
+    text-align: center;
+}
+
+.site-nav-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.site-nav-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-gradient {
+    background: linear-gradient(90deg, #007acc 0%, #005fa3 100%);
+    color: #fff;
+    padding: 32px 0 18px 0;
+    text-align: center;
+    border-top: none;
+    font-size: 1em;
+}
+
+.footer-desktop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    margin: 0;
+}
+
+.footer-mobile {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    margin: 0;
+}
+
+.footer-brand-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6px;
+}
+
+.footer-brand-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.footer-brand-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    background: #fff;
+    padding: 4px;
+    margin-right: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
+.footer-brand-text {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.1em;
+    letter-spacing: 0.01em;
+}
+
+.footer-brand-text-block {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.1em;
+    letter-spacing: 0.01em;
+    display: block;
+}
+
+.footer-contribution-text {
+    color: #e6f2fa;
+    margin: 0;
+    font-size: 1em;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.footer-mobile-brand-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 6px;
+}
+
+.footer-mobile-brand-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+.footer-mobile-brand-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    background: #fff;
+    padding: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
+/**
+ * DEVCON0 Video Components - Self-introduction video styling
+ * 
+ * Reusable classes for DEVCON0 video sections on person pages.
+ */
+.devcon0-header {
+    margin: 10px 0 8px 0;
+    font-size: 0.95em;
+    color: #555;
+    text-align: center;
+}
+
+.devcon0-header-left {
+    margin: 10px 0 8px 0;
+    font-size: 0.95em;
+    color: #555;
+}
+
+.devcon0-container {
+    position: relative;
+    margin: 10px 0;
+}
+
+.devcon0-thumbnail-wrapper {
+    position: relative;
+    cursor: pointer;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.devcon0-thumbnail-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.devcon0-play-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,0.8);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.devcon0-play-triangle {
+    width: 0;
+    height: 0;
+    border-left: 20px solid white;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    margin-left: 4px;
+}
+
+.devcon0-fallback {
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    overflow: hidden;
+}
+
+.devcon0-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.devcon0-video-player {
+    display: none;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/**
+ * Interview Link SVG - Play button icon for interview links
+ * 
+ * Reusable SVG styling for interview call-to-action buttons.
+ */
+.interview-svg {
+    vertical-align: middle;
+    margin-right: 7px;
+    margin-left: -2px;
+    display: inline-block;
+}
+
+/**
+ * Wikipedia Icon - External link icon styling
+ * 
+ * Consistent styling for Wikipedia profile links.
+ */
+.wikipedia-icon {
+    width: 16px;
+    height: 16px;
+    filter: brightness(0) saturate(100%);
+    opacity: 0.6;
+}
+
+/**
+ * Video Metadata Utilities - Video page metadata styling
+ * 
+ * Styling for video release dates and host/guest information.
+ */
+.video-release-date {
+    margin-bottom: 15px;
+}
+
+.video-hosts-guests {
+    margin-bottom: 15px;
+}
+
+/**
+ * Person Card Utilities - Person profile card dimensions
+ * 
+ * Sizing utilities for person profile cards.
+ */
+.person-card-size {
+    width: 33.33%;
+    min-width: 300px;
+    max-width: 400px;
+}
+
+/**
+ * Grid Page Utilities - Grid page introduction section
+ * 
+ * Styling for the photo grid introduction section.
+ */
+.grid-intro-section {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.grid-back-link {
+    color: #2e86ab;
+}
+
+/**
+ * 404 Page Utilities - Error page link styling
+ * 
+ * Styling for 404 page return link.
+ */
+.error-page-link {
+    color: #007acc;
+    text-decoration: underline;
+}
+
+/**
+ * Content Embed Utilities - Blog and content embed cards
+ * 
+ * Reusable classes for embedded content cards.
+ */
+.content-embed-card {
+    max-width: 75%;
+}
+
+.content-embed-link-wrapper {
+    display: block;
+    text-decoration: none;
+}
+
+.content-embed-video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+.content-embed-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.content-embed-meta {
+    padding: 12px;
+    background: white;
+}
+
+.content-embed-title {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.content-embed-metadata {
+    font-size: 0.95em;
+    color: #666;
+}
+
+.content-embed-metadata-mb {
+    font-size: 0.95em;
+    color: #666;
+    margin-bottom: 4px;
+}
+
+.content-embed-description {
+    font-size: 0.98em;
+    color: #444;
+    margin-bottom: 6px;
+}
+
+.content-embed-author-link {
+    color: #007acc;
+    text-decoration: underline;
+}
+
+.content-embed-site-link {
+    color: #007acc;
+    text-decoration: underline;
+}
+
+.content-embed-url-text {
+    color: #007acc;
+    word-break: break-all;
+}
+
+/**
+ * Twitter Embed Utilities - Twitter content width
+ * 
+ * Width control for embedded tweets.
+ */
+.twitter-embed-container {
+    max-width: 75%;
+}
+
+/**
+ * Heading Date Utilities - Date styling for index pages
+ * 
+ * Styling for date headings on people index.
+ */
+.heading-date {
+    color: #333;
+}
+
+/**
+ * Hideable Section Utility - JavaScript-controlled visibility
+ * 
+ * Hidden by default, shown via JavaScript.
+ */
+.hideable-section {
+    display: none;
+}
+
+/**
+ * Whitespace Utility - Preserved whitespace
+ * 
+ * For preserving spaces in inline text.
+ */
+.whitespace-pre {
+    white-space: pre;
+}
+
+@media (max-width: 768px) {
+    .footer-desktop {
+        display: none;
+    }
+    
+    .footer-mobile {
+        display: flex;
     }
 }

@@ -30,12 +30,12 @@ layout: default
         <h1>{% if page.lowercase_title %}{{ page.lowercase_title }}{% else %}{{ page.title }}{% endif %}</h1>
         <div class="content-meta">
             {% if page.date %}
-                <div class="release-date" style="margin-bottom: 15px;">
+                <div class="release-date video-release-date">
                     <em>{{ page.date | date: "%B %d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}</em>
                 </div>
             {% endif %}
             {% if page.hosts and page.hosts.size > 0 or page.guests and page.guests.size > 0 %}
-            <div style="margin-bottom: 15px;">
+            <div class="video-hosts-guests">
                 {% if page.hosts and page.hosts.size > 0 %}
                     {% assign visible_hosts = "" | split: "" %}
                     {% for host in page.hosts %}

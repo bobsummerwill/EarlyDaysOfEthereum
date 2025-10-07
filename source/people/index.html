@@ -266,7 +266,7 @@ Display people grouped by start date with epoch headings
         {% endif %}
     {% endif %}
     
-    <h2 style="color: #333;">{{ start_date }}</h2>
+    <h2 class="heading-date">{{ start_date }}</h2>
     
     <div class="people-list">
         {% for person in people_in_date %}
@@ -350,7 +350,7 @@ Display people grouped by start date with epoch headings
                         {% endif %}
                         {% if person.social.wikipedia %}
                         <a href="{{ person.social.wikipedia }}" target="_blank" rel="noopener" title="Wikipedia">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="width: 16px; height: 16px; filter: brightness(0) saturate(100%); opacity: 0.6;">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" class="wikipedia-icon">
                         </a>
                         {% endif %}
                         {% if person.social.medium %}
@@ -365,7 +365,7 @@ Display people grouped by start date with epoch headings
                     {% if person.interview %}
                     <div class="person-interview-link">
                         <a href="{{ person.interview }}" class="interview-link">
-                          <svg viewBox="0 0 20 20" width="16" height="16" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; display: inline-block;">
+                          <svg viewBox="0 0 20 20" width="16" height="16" class="interview-svg">
                             <circle cx="10" cy="10" r="10" fill="#005580"/>
                             <polygon points="7,5 15,10 7,15" fill="#fff"/>
                           </svg>

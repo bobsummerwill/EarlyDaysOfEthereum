@@ -59,10 +59,10 @@ embed-content-width: 50%
         <h1>{{ page.title }}</h1>
         <div class="content-meta">
             {% if page.date %}
-                <div class="release-date" style="margin-bottom: 15px;"><em>{{ page.date | date: "%B %d, %Y" }}</em></div>
+                <div class="release-date video-release-date"><em>{{ page.date | date: "%B %d, %Y" }}</em></div>
             {% endif %}
             {% if page.hosts and page.hosts.size > 0 or page.guests and page.guests.size > 0 %}
-            <div style="margin-bottom: 15px;">
+            <div class="video-hosts-guests">
                 {% if page.hosts and page.hosts.size > 0 %}
                 <div class="episode-hosts">
                     <strong>
@@ -166,31 +166,31 @@ embed-content-width: 50%
   Site footer with sponsor and contribution links.
   Customize as needed for your project.
 -->
-<footer style="background: linear-gradient(90deg, #007acc 0%, #005fa3 100%); color: #fff; padding: 32px 0 18px 0; text-align: center; border-top: none; font-size: 1em;">
+<footer class="footer-gradient">
 
     <!-- Desktop footer (original single-line) -->
-    <div class="footer-desktop" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
-        <div style="display: flex; align-items: center; justify-content: center; padding-bottom: 6px;">
-            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; align-items: center; text-decoration: none;">
-                <img src="/images/github.com/2025.08.28/strato-mercata.png" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a>: Where Stability Meets Opportunity</span>
+    <div class="footer-desktop">
+        <div class="footer-brand-container">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" class="footer-brand-link">
+                <img src="/images/github.com/2025.08.28/strato-mercata.png" alt="STRATO Mercata" class="footer-brand-logo" />
+                <span class="footer-brand-text"><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a>: Where Stability Meets Opportunity</span>
             </a>
         </div>
-        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+        <div class="footer-contribution-text">
             Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans.
         </div>
     </div>
 
     <!-- Mobile footer (split lines) -->
-    <div class="footer-mobile" style="display: none; flex-direction: column; align-items: center; justify-content: center; gap: 18px; margin: 0;">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 6px;">
-            <a href="https://stratomercata.com" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
-                <img src="/images/github.com/2025.08.28/strato-mercata.png" alt="STRATO Mercata" style="height: 40px; width: 40px; border-radius: 8px; background: #fff; padding: 4px; margin-bottom: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;"><a href="https://stratomercata.com" class="footer-strato-link" style="color: #fff; text-decoration: underline;">STRATO Mercata</a></span>
-                <span style="color: #fff; font-weight: 700; font-size: 1.1em; letter-spacing: 0.01em; display: block;">Where Stability Meets Opportunity</span>
+    <div class="footer-mobile">
+        <div class="footer-mobile-brand-container">
+            <a href="https://stratomercata.com" target="_blank" rel="noopener" class="footer-mobile-brand-link">
+                <img src="/images/github.com/2025.08.28/strato-mercata.png" alt="STRATO Mercata" class="footer-mobile-brand-logo" />
+                <span class="footer-brand-text-block"><a href="https://stratomercata.com" class="footer-strato-link">STRATO Mercata</a></span>
+                <span class="footer-brand-text-block">Where Stability Meets Opportunity</span>
             </a>
         </div>
-        <div style="color: #e6f2fa; margin: 0; font-size: 1em;">
+        <div class="footer-contribution-text">
             Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans.
         </div>
     </div>

@@ -29,7 +29,7 @@ embed-content-width: 50%
   </script>
 {% endif %}
 
-<div class="person-card" style="width: 33.33%; min-width: 300px; max-width: 400px;">
+<div class="person-card person-card-size">
   <div class="person-header">
     {% if page.photo %}
       <div class="person-photo">
@@ -101,7 +101,7 @@ embed-content-width: 50%
           {% endif %}
           {% if page.social.wikipedia %}
           <a href="{{ page.social.wikipedia }}" target="_blank" rel="noopener" title="Wikipedia">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="width: 16px; height: 16px; filter: brightness(0) saturate(100%); opacity: 0.6;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" class="wikipedia-icon">
           </a>
           {% endif %}
           {% if page.social.medium %}
@@ -116,7 +116,7 @@ embed-content-width: 50%
       {% if page.interview %}
         <div class="person-interview-link">
           <a href="{{ page.interview }}" class="interview-link">
-            <svg viewBox="0 0 20 20" width="16" height="16" style="vertical-align: middle; margin-right: 7px; margin-left: -2px; display: inline-block;">
+            <svg viewBox="0 0 20 20" width="16" height="16" class="interview-svg">
               <circle cx="10" cy="10" r="10" fill="#005580"/>
               <polygon points="7,5 15,10 7,15" fill="#fff"/>
             </svg>
@@ -129,7 +129,7 @@ embed-content-width: 50%
   
   {% if page.devcon0 %}
   <div class="devcon0-section">
-    <h4 style="margin: 10px 0 8px 0; font-size: 0.95em; color: #555; text-align: center;">DEVCON0 self-introduction</h4>
+    <h4 class="devcon0-header">DEVCON0 self-introduction</h4>
     {% assign name_parts = page.name | split: ' ' %}
     {% assign firstname = name_parts[0] | downcase %}
     {% assign lastname = name_parts[-1] | downcase %}
@@ -146,37 +146,37 @@ embed-content-width: 50%
         {% endif %}
     {% endfor %}
     
-    <div class="devcon0-video-container-people" style="position: relative; margin: 10px 0;">
-        <div class="devcon0-thumbnail-wrapper-people" style="position: relative; cursor: pointer; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <div class="devcon0-container">
+        <div class="devcon0-thumbnail-wrapper">
             {% if thumbnail_exists %}
                 <img src="{{ thumbnail_path }}" 
                      alt="{{ page.name }} DEVCON0 introduction" 
-                     style="width: 100%; height: auto; display: block;"
+                     class="devcon0-thumbnail-img"
                      data-person-name="{{ page.name }}"
                      data-devcon0-timestamp="{{ page.devcon0 }}">
-                <div class="play-button-overlay-people" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0,0,0,0.8); border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; transition: all 0.3s ease;">
-                    <div style="width: 0; height: 0; border-left: 20px solid white; border-top: 12px solid transparent; border-bottom: 12px solid transparent; margin-left: 4px;"></div>
+                <div class="devcon0-play-overlay">
+                    <div class="devcon0-play-triangle"></div>
                 </div>
             {% else %}
                 <!-- No thumbnail available, show iframe directly -->
-                <div class="devcon0-fallback-people" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
+                <div class="devcon0-fallback">
                     <iframe 
                         src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ page.devcon0 }}" 
                         frameborder="0" 
                         allowfullscreen
                         title="DEVCON0 self-introduction"
-                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                        class="devcon0-iframe">
                     </iframe>
                 </div>
             {% endif %}
         </div>
-        <div class="devcon0-video-player-people" style="display: none; padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <div class="devcon0-video-player">
             <iframe 
                 src="" 
                 frameborder="0" 
                 allowfullscreen
                 title="DEVCON0 self-introduction"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+                class="devcon0-iframe">
             </iframe>
         </div>
     </div>

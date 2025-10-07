@@ -2539,6 +2539,65 @@ main {
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+/**
+ * Back-links Section - Automatic bidirectional linking
+ * 
+ * Displays pages that reference the current page, creating a web of connections.
+ */
+.back-links-section {
+    margin-top: var(--spacing-6xl);
+    padding-top: var(--spacing-5xl);
+    border-top: 1px solid var(--border-light);
+}
+
+.back-links-section h2 {
+    color: var(--text-dark);
+    margin-top: 0;
+    margin-bottom: var(--spacing-lg);
+}
+
+.back-links-description {
+    color: var(--text-light);
+    font-size: 0.9em;
+    font-style: italic;
+    margin-bottom: var(--spacing-2xl);
+}
+
+.back-links-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.back-links-list li {
+    margin-bottom: var(--spacing-sm);
+    padding-left: var(--spacing-3xl);
+    position: relative;
+}
+
+.back-links-list li:before {
+    content: "←";
+    position: absolute;
+    left: 0;
+    color: var(--primary-blue);
+    font-weight: bold;
+}
+
+.back-links-list a {
+    color: var(--primary-blue);
+    text-decoration: none;
+}
+
+.back-links-list a:hover {
+    text-decoration: underline;
+}
+
+.back-link-type {
+    color: var(--text-lighter);
+    font-size: 0.85em;
+    margin-left: var(--spacing-sm);
+}
+
 @media (max-width: 768px) {
     .footer-desktop {
         display: none;

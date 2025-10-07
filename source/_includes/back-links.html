@@ -1,0 +1,82 @@
+{% comment %}
+Back-links Generator
+====================
+Searches all collections (articles, videos, people) to find pages that link to the current page.
+Simple approach without plugins - may be slow but works reliably.
+
+Usage: {% include back-links.html %}
+Expects page.url to be set (automatically available in layouts)
+{% endcomment %}
+
+{% assign current_url = page.url %}
+{% assign current_title = page.title | default: page.name %}
+{% assign backlinks = "" | split: "" %}
+
+{% comment %}
+Search through all articles for references to current page
+{% endcomment %}
+{% for article in site.articles %}
+  {% if article.url != current_url %}
+    {% comment %}Check if article content or title links to current page{% endcomment %}
+    {% assign content_with_fm = article.content | append: article.title | append: article.description %}
+    {% if content_with_fm contains current_url or content_with_fm contains current_title %}
+      {% assign backlinks = backlinks | push: article %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Search through all videos for references to current page
+{% endcomment %}
+{% for video in site.videos %}
+  {% if video.url != current_url %}
+    {% comment %}Check video content, hosts, guests{% endcomment %}
+    {% assign video_content = video.content | append: video.title | append: video.description %}
+    {% if video.hosts %}
+      {% for host in video.hosts %}
+        {% assign video_content = video_content | append: " " | append: host %}
+      {% endfor %}
+    {% endif %}
+    {% if video.guests %}
+      {% for guest in video.guests %}
+        {% assign video_content = video_content | append: " " | append: guest %}
+      {% endfor %}
+    {% endif %}
+    {% if video_content contains current_url or video_content contains current_title %}
+      {% assign backlinks = backlinks | push: video %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Search through all people for references to current page
+{% endcomment %}
+{% for person in site.people %}
+  {% if person.url != current_url %}
+    {% comment %}Check person content and description{% endcomment %}
+    {% assign person_content = person.content | append: person.description | append: person.name %}
+    {% if person_content contains current_url or person_content contains current_title %}
+      {% assign backlinks = backlinks | push: person %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Display back-links section if any were found
+{% endcomment %}
+{% if backlinks.size > 0 %}
+<div class="back-links-section">
+  <h2>Back-links</h2>
+  <p class="back-links-description">Other pages that reference this:</p>
+  <ul class="back-links-list">
+    {% for backlink in backlinks %}
+    <li>
+      <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
+      {% if backlink.collection %}
+        <span class="back-link-type">({{ backlink.collection | slice: 0 | upcase }}{{ backlink.collection | slice: 1, 20 }})</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

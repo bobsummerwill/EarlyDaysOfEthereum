@@ -1,128 +1,84 @@
-# Early Days of Ethereum - Jekyll Site
+# Early Days of Ethereum
 
-This repository has been set up with Jekyll for GitHub Pages deployment, providing a clean, maintainable way to present the Early Days of Ethereum content.
+A comprehensive historical archive documenting the people, events, articles, and videos from Ethereum's formative years (2013-2018).
 
-## Structure
+## About This Project
 
-- **`Gemfile`** - Ruby dependencies (project root)
-- **`source/`** - Jekyll source directory containing:
-  - **`_config.yml`** - Jekyll configuration
-  - **`_layouts/`** - Page templates
-    - `default.html` - Base layout with navigation
-    - `article.html` - Article layout
-    - `person.html` - People profile layout
-    - `video.html` - Video episode layout
-    - `mercata.html` - Mercata contest layout
-  - **`_articles/`** - Articles (Jekyll collection)
-  - **`_people/`** - People profiles (Jekyll collection)
-  - **`_videos/`** - Video episodes (Jekyll collection)
-  - **`_includes/`** - Template includes
-    - `auto_link.html` - Automatic link processing with hidden people redaction
-    - `content-embed.html` - Content embed formatting
-    - `video-embed.html` - Video embed formatting
-    - `seo.html` - SEO metadata
-  - **`images/`** - All images (unchanged structure)
-  - **`assets/`** - CSS and other assets
-  - **`grid/`** - Grid view page
-  - **Index pages** - `index.html`, `articles/index.html`, `people/index.html`, `videos/index.html`
+**Early Days of Ethereum** (https://www.earlydaysofeth.org) is a living historical archive dedicated to preserving and sharing the stories of Ethereum's founding period. The project chronicles the remarkable journey from Vitalik Buterin's whitepaper in November 2013 through the establishment of the Ethereum Foundation and the early years of the protocol's development.
 
-## Key Features
+### What You'll Find Here
 
-- **Responsive Design**: Mobile-friendly layout
-- **Absolute Paths**: All paths use simple quoted strings (e.g., `'/people/name/'`) without Jekyll liquid filters
-- **Collections**: Organized content using Jekyll collections for articles, people, and videos
-- **Auto-linking with Privacy Protection**: Automatic link generation with special handling for hidden people
-- **SEO**: Built-in SEO tags and proper metadata
-- **Navigation**: Clean navigation between sections
-- **GitHub Pages Ready**: Configured for automatic deployment
+- **180+ People Profiles**: Biographies of co-founders, core developers, advisors, and early contributors
+- **Historical Articles**: Key blog posts, announcements, and technical updates from 2014-2018
+- **Video Archive**: Podcast episodes, conference talks, and interviews
+- **Timeline Documentation**: Chronological narrative divided into distinct epochs:
+  - Whitepaper to "Red Wedding" (Nov 2013 - Jun 2014)
+  - Stiftung Ethereum and ETH ÐΞV (Jul 2014 - Feb 2015)
+  - The Interregnum (Mar 2015 - Jun 2015)
+  - The Ming Dynasty (Jul 2015 - Jan 2018)
+  - The Infinite Garden (Feb 2018 onwards)
 
-## Privacy Features
+### Why This Matters
 
-### Hidden People Handling
+Many original blog posts, videos, and documents have disappeared as websites changed or shut down. This project preserves primary sources, documents the human story behind Ethereum, and honors the contributors who built the foundation for today's ecosystem.
 
-The site includes comprehensive privacy protection for people marked as `hidden: true` in their front matter:
+---
 
-1. **Auto-link Redaction** (`source/_includes/auto_link.html`):
-   - Phase 0: Converts explicit markdown/HTML links to hidden people into `[REDACTED]`
-   - Phase 1: Auto-links video titles
-   - Phase 2: Auto-links article titles
-   - Phase 3: Auto-links people names (with `[REDACTED]` for hidden people)
+## Jekyll Setup
 
-2. **Video Layout** (`source/_layouts/video.html`):
-   - Completely excludes hidden people from hosts and guests lists
-   - Adjusts singular/plural headings based on visible person count
-   - Hides entire section if all people are hidden
+This is a static site built with Jekyll 4.3.4 and deployed via GitHub Pages.
 
-3. **Link Format**:
-   - Explicit links: `[Name]('/people/slug/')` → converted to `[REDACTED]` if person is hidden
-   - Auto-links: Plain text names → converted to `[REDACTED]` if person is hidden
+### Project Structure
 
-## Local Development
+```
+EarlyDaysOfEthereum/
+├── Gemfile                    # Ruby dependencies
+├── .github/workflows/         # GitHub Actions for deployment
+└── source/                    # Jekyll source directory
+    ├── _config.yml            # Jekyll configuration
+    ├── _layouts/              # Page templates (default, person, article, video)
+    ├── _includes/             # Reusable components (auto_link, embeds, SEO)
+    ├── _articles/             # Article collection (Markdown files)
+    ├── _people/               # People collection (Markdown files)
+    ├── _videos/               # Video collection (Markdown files)
+    ├── articles/index.html    # Articles listing page
+    ├── people/index.html      # People listing page
+    ├── videos/index.html      # Videos listing page
+    ├── grid/index.html        # Photo grid view
+    ├── assets/css/            # Stylesheets
+    └── images/                # Image assets
+```
 
-To run locally:
+### Local Development
 
 ```bash
+# Install dependencies
 bundle install
+
+# Run development server
 bundle exec jekyll serve --source source
+
+# Access at http://localhost:4000
 ```
 
-The site will be available at `http://localhost:4000/`
+### Collections
 
-## GitHub Pages Deployment
+The site uses three Jekyll collections:
 
-The site is configured to deploy automatically to GitHub Pages when changes are pushed to the main branch. The GitHub Actions workflow in `.github/workflows/jekyll-gh-pages.yml` handles the build and deployment.
+- **Articles** (`_articles/`): Blog posts and announcements
+- **People** (`_people/`): Person profiles with photos and bios
+- **Videos** (`_videos/`): Podcast episodes and talks
 
-## Content Management
+### Deployment
 
-### Adding Articles
-Create new files in `source/_articles/` with appropriate front matter including title, description, and date.
+The site automatically deploys to GitHub Pages when changes are pushed to `main`. See `.github/workflows/jekyll-gh-pages.yml` for the build configuration.
 
-### Adding People
-Create new files in `source/_people/` with front matter including:
-- `name`: Full name
-- `role`: Position/role
-- `period`: Time period of involvement
-- `hidden`: (optional) Set to `true` to redact from public display
-- Social links and other metadata
+---
 
-When `hidden: true` is set:
-- All explicit links to that person will show as `[REDACTED]`
-- Auto-linked mentions of their name will show as `[REDACTED]`
-- They will be excluded from video episode host/guest lists
+## Contributing
 
-### Adding Videos
-Create new files in `source/_videos/` with front matter including:
-- Episode number, date, YouTube/Vimeo ID
-- `hosts`: Array of host names
-- `guests`: Array of guest names
-- Guest information
+Contributions welcome via [issues](https://github.com/bobsummerwill/EarlyDaysOfEthereum/issues), [pull requests](https://github.com/bobsummerwill/EarlyDaysOfEthereum/pulls), or directly to [@bobsummerwill](https://x.com/bobsummerwill).
 
-Hidden people in hosts/guests arrays will be automatically excluded from display.
+## License
 
-### Images
-All images are stored in the `source/images/` directory. Use simple absolute paths:
-
-```markdown
-![Description](/images/path/to/image.jpg)
-```
-
-Or in HTML:
-```html
-<img src="/images/path/to/image.jpg" alt="Description">
-```
-
-### Links
-
-Use simple quoted paths for all internal links:
-
-**Markdown:**
-```markdown
-[Link Text]('/path/to/page/')
-```
-
-**HTML:**
-```html
-<a href="/path/to/page/">Link Text</a>
-```
-
-The auto_link system will automatically process these and handle hidden people appropriately.
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) - see [LICENSE](LICENSE) file for details.

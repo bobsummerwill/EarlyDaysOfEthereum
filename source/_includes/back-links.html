@@ -2,7 +2,7 @@
 Back-links Generator
 ====================
 Searches all collections (articles, videos, people) to find pages that link to the current page.
-Simple approach without plugins - may be slow but works reliably.
+Articles and videos are intermixed chronologically, followed by people.
 
 Usage: {% include back-links.html %}
 Expects page.url to be set (automatically available in layouts)
@@ -10,7 +10,8 @@ Expects page.url to be set (automatically available in layouts)
 
 {% assign current_url = page.url %}
 {% assign current_title = page.title | default: page.name %}
-{% assign backlinks = "" | split: "" %}
+{% assign content_backlinks = "" | split: "" %}
+{% assign people_backlinks = "" | split: "" %}
 
 {% comment %}
 Search through all articles for references to current page
@@ -20,7 +21,7 @@ Search through all articles for references to current page
     {% comment %}Check if article content or title links to current page{% endcomment %}
     {% assign content_with_fm = article.content | append: article.title | append: article.description %}
     {% if content_with_fm contains current_url or content_with_fm contains current_title %}
-      {% assign backlinks = backlinks | push: article %}
+      {% assign content_backlinks = content_backlinks | push: article %}
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -43,7 +44,7 @@ Search through all videos for references to current page
       {% endfor %}
     {% endif %}
     {% if video_content contains current_url or video_content contains current_title %}
-      {% assign backlinks = backlinks | push: video %}
+      {% assign content_backlinks = content_backlinks | push: video %}
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -56,20 +57,37 @@ Search through all people for references to current page
     {% comment %}Check person content and description{% endcomment %}
     {% assign person_content = person.content | append: person.description | append: person.name %}
     {% if person_content contains current_url or person_content contains current_title %}
-      {% assign backlinks = backlinks | push: person %}
+      {% assign people_backlinks = people_backlinks | push: person %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
 {% comment %}
+Sort content (articles and videos) chronologically by date
+{% endcomment %}
+{% assign sorted_content = content_backlinks | sort: "date" %}
+
+{% comment %}
 Display back-links section if any were found
 {% endcomment %}
-{% if backlinks.size > 0 %}
+{% assign total_backlinks = content_backlinks.size | plus: people_backlinks.size %}
+{% if total_backlinks > 0 %}
 <div class="back-links-section">
   <h2>Back-links</h2>
   <p class="back-links-description">Other pages that reference this:</p>
   <ul class="back-links-list">
-    {% for backlink in backlinks %}
+    {% comment %}First display articles and videos in chronological order{% endcomment %}
+    {% for backlink in sorted_content %}
+    <li>
+      <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
+      {% if backlink.collection %}
+        <span class="back-link-type">({{ backlink.collection | slice: 0 | upcase }}{{ backlink.collection | slice: 1, 20 }})</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+    
+    {% comment %}Then display people{% endcomment %}
+    {% for backlink in people_backlinks %}
     <li>
       <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
       {% if backlink.collection %}

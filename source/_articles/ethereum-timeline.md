@@ -25,7 +25,7 @@ See also the partial public histories in:
   url="https://twitter.com/peter_szilagyi/status/895560354951872512"
 %}
 
-In Gav's Epicenter interview, he named [Jonathan James Harrison]('/people/jonathan-james-harrison/') AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki]('/people/amir-taaki/'):
+In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonathan-james-harrison/) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki](/people/amir-taaki/):
 
 {% include content-embed.html
   title="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"

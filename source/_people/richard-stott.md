@@ -21,7 +21,7 @@ His last tweet was [posted on 25th May 2024](https://x.com/raidraidrune/status/1
 
 On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn where I read about it.  on his profile.  the bio said 'deceased' and somebody had posted something from this profile saying they are a family member.  asking for privacy, etc.  the profile got deactivated and reactivated since.  just checked, it seems deactivated again."*
 
-[Bob]('/people/bob-summerwill/') intended to speak to Richard in 2017/2018 during Bob's "maple syrup diplomacy phase" with [Charles]('/people/charles-hoskinson/'), after this [tweet-thread](https://twitter.com/raidraidrune/status/936638941947625474), but the call never actually happened.
+[Bob](/people/bob-summerwill/) intended to speak to Richard in 2017/2018 during Bob's "maple syrup diplomacy phase" with [Charles](/people/charles-hoskinson/), after this [tweet-thread](https://twitter.com/raidraidrune/status/936638941947625474), but the call never actually happened.
 
 ## Links
 - [X](https://x.com/raidraidrune) (note: his twitter handle was **IOHK_Richard** in earlier years)

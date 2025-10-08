@@ -42,7 +42,7 @@ Okay, can anyone confirm that they can see us on YouTube? Thank you, Michael. Ca
 Michael, can you confirm you can hear us on YouTube?
 
 [[1:28]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=88s) **Bob:**
-You broke up for me quite a lot there, [Victor](people/victor-wong), when you were speaking.
+You broke up for me quite a lot there, [Victor](/people/victor-wong/), when you were speaking.
 
 [[1:33]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=93s) **Victor:**
 Okay. Okay. So, Jaime, can you post this on our Twitter, the YouTube, and we'll get started shortly.
@@ -60,7 +60,7 @@ Welcome, Yves.
 Stefan
 
 [[6:15]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=375s) **Bob:**
-Do you want to give it maybe until 10 past, [Victor](people/victor-wong), three minutes?
+Do you want to give it maybe until 10 past, [Victor](/people/victor-wong/), three minutes?
 
 [[6:21]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=381s) **Victor:**
 Sure.
@@ -69,7 +69,7 @@ Sure.
 Nice round number.
 
 [[6:42]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=402s) **Bob:**
-So, on one of our Spaces not too long ago, where we were interviewing [Texture]('/people/anthony-d-onofrio/'), he berated us for talking about the weather when he joined. You remember that?  We were talking about the turns of the season and when Fall was starting and so on.
+So, on one of our Spaces not too long ago, where we were interviewing [Texture](/people/anthony-d-onofrio/), he berated us for talking about the weather when he joined. You remember that?  We were talking about the turns of the season and when Fall was starting and so on.
 
 [[7:01]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=421s) **Victor:**
 I do not remember that, but...
@@ -110,7 +110,7 @@ Okay. So, yeah, maybe we start. So, yeah.
 [[9:12]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=552s) **Bob:**
 Okay. Hi, everyone. Good to have you here.
 
-I'm Bob Summerwill. I'm the [Head of Ecosystem](https://blockapps.net/blog/bob-summerwill-joins-blockapps-as-key-industry-leader/) at [STRATO Mercata](https://stratomercata.com). [Victor](people/victor-wong), who's with us here, is the Chief Product Officer and Co-Founder.
+I'm Bob Summerwill. I'm the [Head of Ecosystem](https://blockapps.net/blog/bob-summerwill-joins-blockapps-as-key-industry-leader/) at [STRATO Mercata](https://stratomercata.com). [Victor](/people/victor-wong/), who's with us here, is the Chief Product Officer and Co-Founder.
 
 Mercata V2 is the new iteration of our application, of our network, which has been a major focus for us this year. We spent the vast majority of this year rebuilding a completely new application experience. The current production main net is more of a sort of eBay-ish kind of setup, really coming out of an earlier period where we were having a marketplace of collectibles, tokenized whiskey barrels, and other things which were more NFT-like.
 
@@ -121,10 +121,10 @@ The focus for V2 is really about high quality, hard assets, specifically gold an
 ## Victor takes over
 
 [[10:33]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=633s) **Victor:**
-Hey, [Bob]('/people/bob-summerwill/'). We're getting some feedback that your audio is coming in choppy for some reason, but mine seems to be okay. So, why don't I take it over from what you said?
+Hey, [Bob](/people/bob-summerwill/). We're getting some feedback that your audio is coming in choppy for some reason, but mine seems to be okay. So, why don't I take it over from what you said?
 
 [[10:45]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=645s) **Victor:**
-So, as [Bob]('/people/bob-summerwill/') was saying, V2 is really an iteration of what we were doing before. We were kind of offering a lot of different RWAs before, and V2 is our way to kind of really focus on the ability to bring real-world assets and lend and borrow on those assets. So, one of the things that we're going to be testing in this iteration of the contest is really how it interacts with the external world, including things like bridging out and bridging in these different assets.
+So, as [Bob](/people/bob-summerwill/) was saying, V2 is really an iteration of what we were doing before. We were kind of offering a lot of different RWAs before, and V2 is our way to kind of really focus on the ability to bring real-world assets and lend and borrow on those assets. So, one of the things that we're going to be testing in this iteration of the contest is really how it interacts with the external world, including things like bridging out and bridging in these different assets.
 
 [[11:20]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=680s) **Victor:**
 And it's really interesting because one of the things I think that stands out in our positioning in terms of the RWA spaces, most RWA projects seem to really be trying to focus on getting degens to buy RWAs. We're focused on people who already have RWAs, things like gold, silver, US dollars, and bring that into the crypto ecosystem and the DeFi ecosystem. So, that's really what we want to kind of test in terms of this overall contest.
@@ -196,7 +196,7 @@ And one other thing we want to mention is that to kind of give a good simulation
 So, basically, all of those things are going to come at random times throughout the day. So, stay on your toes. Make sure you sign up to the channel, contest channel on [Telegram channel](https://t.me/stratomercata), which is called **Mercata V2 Contest 9/17 to 9/23**.
 
 [[17:27]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=1037s) **Victor:**
-And then watch out for those because they could come at any time. So, with that, I think that's a, you know, high level overview of the contest. [Bob]('/people/bob-summerwill/'), not sure if your audio is working better, but maybe you can chip in here and just test it out.
+And then watch out for those because they could come at any time. So, with that, I think that's a, you know, high level overview of the contest. [Bob](/people/bob-summerwill/), not sure if your audio is working better, but maybe you can chip in here and just test it out.
 
 [[17:45]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=1065s) **Bob:**
 Yeah, I'll try. Just let me say a little bit and maybe somebody can confirm if that audio is choppy or not still. Yeah, have a look maybe, Jamie or Michael.
@@ -204,7 +204,7 @@ Yeah, I'll try. Just let me say a little bit and maybe somebody can confirm if t
 [[18:01]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=1081s) **Victor:**
 Okay. Unfortunately, it sounds like your audio is still a little bit choppy today. We will work out the audio issues for later.
 
-But, yes, we'll get you some wired headphones, [Bob]('/people/bob-summerwill/'). I think, you know, I think it is a technology problem right now.
+But, yes, we'll get you some wired headphones, [Bob](/people/bob-summerwill/). I think, you know, I think it is a technology problem right now.
 
 <a id="wrap-up"></a>
 

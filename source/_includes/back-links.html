@@ -9,7 +9,9 @@ Expects page.url to be set (automatically available in layouts)
 {% endcomment %}
 
 {% assign current_url = page.url %}
-{% assign current_title = page.title | default: page.name %}
+{% assign current_title = page.title %}
+{% assign current_name = page.name %}
+{% assign current_alias = page.alias %}
 {% assign content_backlinks = "" | split: "" %}
 {% assign people_backlinks = "" | split: "" %}
 
@@ -20,7 +22,20 @@ Search through all articles for references to current page
   {% if article.url != current_url %}
     {% comment %}Check if article content or title links to current page{% endcomment %}
     {% assign content_with_fm = article.content | append: article.title | append: article.description %}
-    {% if content_with_fm contains current_url or content_with_fm contains current_title %}
+    {% assign found_match = false %}
+    {% if content_with_fm contains current_url %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_title and current_title != "" and content_with_fm contains current_title %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_name and current_name != "" and content_with_fm contains current_name %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_alias and current_alias != "" and content_with_fm contains current_alias %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if found_match %}
       {% assign content_backlinks = content_backlinks | push: article %}
     {% endif %}
   {% endif %}
@@ -43,7 +58,20 @@ Search through all videos for references to current page
         {% assign video_content = video_content | append: " " | append: guest %}
       {% endfor %}
     {% endif %}
-    {% if video_content contains current_url or video_content contains current_title %}
+    {% assign found_match = false %}
+    {% if video_content contains current_url %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_title and current_title != "" and video_content contains current_title %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_name and current_name != "" and video_content contains current_name %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_alias and current_alias != "" and video_content contains current_alias %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if found_match %}
       {% assign content_backlinks = content_backlinks | push: video %}
     {% endif %}
   {% endif %}
@@ -56,7 +84,20 @@ Search through all people for references to current page
   {% if person.url != current_url %}
     {% comment %}Check person content and description{% endcomment %}
     {% assign person_content = person.content | append: person.description | append: person.name %}
-    {% if person_content contains current_url or person_content contains current_title %}
+    {% assign found_match = false %}
+    {% if person_content contains current_url %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_title and current_title != "" and person_content contains current_title %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_name and current_name != "" and person_content contains current_name %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_alias and current_alias != "" and person_content contains current_alias %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if found_match %}
       {% assign people_backlinks = people_backlinks | push: person %}
     {% endif %}
   {% endif %}

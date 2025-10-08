@@ -64,7 +64,3 @@ Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/wat
 
 ## References
 - [Berkeley webpage, 2014](https://math.berkeley.edu/~ksjames/)
-- Early Days of Ethereum - Episode 2
-- Early Days of Ethereum - Episode 3 - Bob Summerwill
-- Early Days of Ethereum - Episode 4 - Taylor Gerring
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio

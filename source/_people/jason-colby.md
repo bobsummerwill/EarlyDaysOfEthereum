@@ -8,6 +8,3 @@ devcon0: '2006'
 social:
   website: https://www.crunchbase.com/person/jason-colby
 ---
-
-## References
-- Ethereum Timeline

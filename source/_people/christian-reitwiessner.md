@@ -1,5 +1,5 @@
 ---
-name: Christian Reitwiessner
+name: Christian Reitwießner
 nickname: chriseth
 photo: /images/archive.org/ethdev.com/20150315012946/christian-reitwiessner.jpg
 start: Oct 2014

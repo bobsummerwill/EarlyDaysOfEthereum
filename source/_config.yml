@@ -122,7 +122,6 @@ defaults:
   # Videos get the "video" layout automatically
   # Without this: You'd need "layout: video" in every video file
   # With this: Jekyll adds it automatically to all files in _videos/
-  # Note: Individual files can override (e.g., Mercata videos use "layout: mercata")
   - scope: { path: "_videos" }
     values: { layout: "video" }
 

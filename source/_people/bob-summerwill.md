@@ -10,6 +10,3 @@ social:
   twitter: https://x.com/bobsummerwill
   website: https://bobsummerwill.com/about
 ---
-
-## References
-- [Dream Job - working for Ethereum Foundation](https://bobsummerwill.com/2016/02/10/dream-job-working-for-ethereum-foundation/) - 10th Feb 2016

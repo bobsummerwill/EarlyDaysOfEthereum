@@ -10,25 +10,27 @@
     {% endif %}
     
     <a href="{{ include.url | default: include.src }}" class="blog-embed-link-wrapper content-embed-link-wrapper">
-      <div class="blog-embed-video-wrapper content-embed-video-wrapper">
-        {% if is_local_video %}
-        <video
-          class="video-embed-minimal content-embed-iframe"
-          src="{{ include.src }}"
-          title="{{ include.title | escape }}"
-          controls
-          preload="metadata"
-        ></video>
-        {% else %}
-        <iframe
-          class="video-embed-minimal content-embed-iframe"
-          src="{{ include.src }}"
-          title="{{ include.title | escape }}"
-          allowfullscreen
-          loading="lazy"
-          referrerpolicy="no-referrer"
-        ></iframe>
-        {% endif %}
+      <div class="blog-embed-video-container">
+        <div class="blog-embed-video-wrapper content-embed-video-wrapper">
+          {% if is_local_video %}
+          <video
+            class="video-embed-minimal content-embed-iframe"
+            src="{{ include.src }}"
+            controls
+            preload="none"
+            {% if include.img %}poster="{{ include.img }}"{% endif %}
+          ></video>
+          {% else %}
+          <iframe
+            class="video-embed-minimal content-embed-iframe"
+            src="{{ include.src }}"
+            title="{{ include.title | escape }}"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="no-referrer"
+          ></iframe>
+          {% endif %}
+        </div>
       </div>
       <div class="blog-embed-meta content-embed-meta">
         {% if include.title %}

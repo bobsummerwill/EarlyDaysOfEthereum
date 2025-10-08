@@ -8,5 +8,3 @@ devcon0: '1963'
 hidden: true
 ---
 
-## References
-- Ethereum Timeline

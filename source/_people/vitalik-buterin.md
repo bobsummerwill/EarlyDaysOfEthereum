@@ -12,7 +12,3 @@ social:
   website: https://vitalik.eth.limo/
   wikipedia: https://en.wikipedia.org/wiki/Vitalik_Buterin
 ---
-
-## References
-- Early Days of Ethereum - Episode 2
-- Early Days of Ethereum - Episode 3 - Bob Summerwill

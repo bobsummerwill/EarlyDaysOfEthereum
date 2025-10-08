@@ -14,6 +14,3 @@ He later worked on the devgrants program.
 {% include content-embed.html
   src="https://www.youtube.com/embed/4jGqmlA4KEY"
 %}
-
-## References
-- Ethereum Timeline

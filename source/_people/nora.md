@@ -6,9 +6,9 @@ description: Ethereum's biggest mystery.
 
 Nora is an unknown individual who seemingly gave Ming Chan legal advice related to her hostile takeover of the EF from the other newly elected board members.
 
-Here is a Skype message which Ming accidentally sent to [Lars Klawitter](/people/lars-klawitter/) on 4th August 2015.
+Here is a Skype message which [Ming](/people/ming-chan/) accidentally sent to [Lars Klawitter](/people/lars-klawitter/) on 4th August 2015.
 
-Ming deleted it almost immediately afterwards, but not before Lars took a copy.  It is assumed that the message was intended for her sister and legal counsel [Tung Chan](/people/tung-chan/).
+[Ming](/people/ming-chan/) deleted it almost immediately afterwards, but not before Lars took a copy.  It is assumed that the message was intended for her sister and legal counsel [Tung Chan](/people/tung-chan/).
 
 ----
 *[04/08/2015 20:05:15] Bumper Chan: [Wayne](/people/wayne-hennessy-barrett/) is dismissive of everyone, including the other board members. He says he will handle everything. It sounds like [Wayne](/people/wayne-hennessy-barrett/) convinced [Lars](/people/lars-klawitter/) to write this letter. [Wayne](/people/wayne-hennessy-barrett/) told me "You're not going anywhere" and neither is anyone else*
@@ -23,7 +23,7 @@ Ming deleted it almost immediately afterwards, but not before Lars took a copy. 
 
 ----
 
-Bumper Chan was Ming's Skype name.  Her first official day as Executive Director had been just a few days earlier, on 1st August 2015.
+Bumper Chan was [Ming](/people/ming-chan/)'s Skype name.  Her first official day as Executive Director had been just a few days earlier, on 1st August 2015.
 
 This episode was described in The Cryptopians by Laura Shin in 2022, but to this day nobody has discovered who "Nora" actually is.  The only people who would probably know would be [Ming](/people/ming-chan/) and [Tung](/people/tung-chan/), but they don't want to talk, unsurprisingly.
 

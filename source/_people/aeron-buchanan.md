@@ -8,6 +8,3 @@ devcon0: '945'
 social:
   linkedin: https://www.linkedin.com/in/ambuchanan/
 ---
-
-## References
-- [Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps](https://www.youtube.com/watch?v=_BvvUlKDqp0&t=38s)

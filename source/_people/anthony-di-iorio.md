@@ -10,6 +10,3 @@ social:
   github: https://github.com/diiorio
   wikipedia: https://en.wikipedia.org/wiki/Anthony_Di_Iorio
 ---
-
-## References
-- Ethereum Timeline

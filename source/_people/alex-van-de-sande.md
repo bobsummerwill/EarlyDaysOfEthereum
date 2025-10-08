@@ -13,7 +13,3 @@ social:
   reddit: https://www.reddit.com/user/avsa/
   website: https://vandesande.design
 ---
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I

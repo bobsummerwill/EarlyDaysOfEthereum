@@ -168,11 +168,8 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   name="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
 %}
 
-{% include content-embed.html
-  url="https://blog.ethereum.org/2014/12/05/devcon-0-recap/"
-  title="ÐΞVcon-0 Recap"
-  date="December 12, 2014"
-  site="Ethereum Blog"
+{% include article-embed.html
+  name="ÐΞVcon-0 Recap"
 %}
 
 {% include video-embed.html

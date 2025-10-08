@@ -11,7 +11,3 @@ social:
   linkedin: https://www.linkedin.com/in/viktortron/
   twitter: https://x.com/zeligf
 ---
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I - *"I've known Vik all the way back since the start of the project somewhere in Jan/Feb, he's a great guy and a real asset to this team."* - Jeff Wilcke

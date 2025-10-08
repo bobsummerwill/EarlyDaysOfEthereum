@@ -1333,14 +1333,20 @@ img {
   background: #e8e8e8;
   border: 1px solid var(--border-table);
   overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
 }
 
 .video-embed-minimal {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  aspect-ratio: 16/9;
+  height: 100%;
   border: none;
   display: block;
-  background: #000;
+  background: transparent;
 }
 
 /* Blog embed image container */
@@ -2362,7 +2368,7 @@ main {
  * Reusable classes for embedded content cards.
  */
 .content-embed-card {
-    max-width: 75%;
+    max-width: 50%;
 }
 
 .content-embed-link-wrapper {

@@ -822,7 +822,7 @@ I think it was a lot looser than that.
 I have a strong memory, yes, of like a, let's just put all the money in this other legal entity discussion going on, like during the whole "Red Wedding" week, you know, so. Yes, yes.
 
 [[1:03:44]](https://www.youtube.com/watch?v=7i7MJgXoXxk&t=3824s) **Bob:**
-And yes, the majority of those legal entities have since been shut down. That was something that Ming did over the course of her time was tidy up all of this like corporate mess that was maybe not really even required in the first place.
+And yes, the majority of those legal entities have since been shut down. That was something that [Ming](/people/ming-chan/) did over the course of her time was tidy up all of this like corporate mess that was maybe not really even required in the first place.
 
 [[1:04:06]](https://www.youtube.com/watch?v=7i7MJgXoXxk&t=3846s) **Texture:**
 Yeah, I mean. Go ahead.
@@ -989,7 +989,7 @@ Yeah, I make this the sick epoch that there's been. So we have white paper to re
 
 So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelly. Becker.
 
-Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the Ming dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya](/people/aya-miyaguchi/) coming in, in another coup there.
+Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the [Ming](/people/ming-chan/) dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya](/people/aya-miyaguchi/) coming in, in another coup there.
 
 In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that [Aya](/people/aya-miyaguchi/)'s still around as the president, but you have new executive leadership.
 
@@ -1043,11 +1043,11 @@ Also, there's no public information on the Ethereum Foundation. Like, you know, 
 
 Who are advisors to the foundation? What teams are there? Who works on these teams?
 
-There wasn't even a grants program at that point either. It was just basically, you just had Ming and [Vitalik](/people/vitalik-buterin/). And she had hired on Jamie Pitts and Hudson.
+There wasn't even a grants program at that point either. It was just basically, you just had [Ming](/people/ming-chan/) and [Vitalik](/people/vitalik-buterin/). And she had hired on Jamie Pitts and Hudson.
 
 So there was a little bit of extra help. But essentially, it was that thin little bit of overhead and a bunch of devs. And that was what there was.
 
-So, and she couldn't delegate either Ming. So just nothing got done. Like, really, just nothing got done at all.
+So, and she couldn't delegate either [Ming](/people/ming-chan/). So just nothing got done. Like, really, just nothing got done at all.
 
 [[1:28:53]](https://www.youtube.com/watch?v=7i7MJgXoXxk&t=5333s) **Texture:**
 Yeah, I mean, I don't know, in retrospect, if I had known that. I mean, I know you said she was a nightmare, but she did offer to hire me back into the Ethereum Foundation. But I didn't feel, it was a time where I didn't really feel like working.

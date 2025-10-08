@@ -4,6 +4,3 @@ name: Louis Parker
 description: Just some guy who happened to be at the Miami house.  Not a team member.
 start: Jan 2014
 ---
-
-## References
-- Ethereum Timeline

@@ -20,9 +20,3 @@ Much of the Ethereum project's legal activity was organized through this for-pro
 * 14th Oct 2015: Taylor Gerring joins as "manager", Mihai resigns
 * 10th May 2016: Ming Chan joins as "liquidator", Taylor resigns
 * 14th Oct 2018: The legal entity is formally dissolved, and is now "Ethereum Switzerland GmbH in Liquidation"
-
-## References
-
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
-- "Red Wedding"
-- Stiftung Ethereum

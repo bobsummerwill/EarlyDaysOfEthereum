@@ -9,6 +9,3 @@ social:
   twitter: https://x.com/MihaiAlisie
   github: https://github.com/mihaialisie
 ---
-
-## References
-- Ethereum Timeline

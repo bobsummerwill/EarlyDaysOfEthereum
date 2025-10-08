@@ -10,8 +10,3 @@ social:
   twitter: https://x.com/ethereumJoseph
   wikipedia: https://en.wikipedia.org/wiki/Joseph_Lubin_(entrepreneur)
 ---
-
-## References
-- Early Days of Ethereum - Episode 2
-- Early Days of Ethereum - Episode 3 - Bob Summerwill
-- Ethereum Timeline

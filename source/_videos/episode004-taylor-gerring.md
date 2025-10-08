@@ -183,7 +183,7 @@ But, yeah, it was like the app was being developed. Who built the app that gener
 
 **Kieren:**  Damn, that might be right. He might have gone in. Did he go to work at ConsenSys afterwards? I think that might have been the case, but I could be misremembering.
 
-*(Edit - his name is actually [Marian Oancea](/people/marian-oancea/) and he is listed on the [People page](/2018/03/31/early-ethereum-people/))*
+*(Edit - his name is actually Marian Oancea and he is listed on the [People page](/2018/03/31/early-ethereum-people/))*
 
 **Taylor:**  Because he wrote the [EthStats app](https://ethstats.dev/), I thought.
 
@@ -287,7 +287,7 @@ We ended up signing some docs on a train one time to resign our positions from t
 
 Switzerland was treating us really, really well up until that point and they offered us some very favorable incentives to continue our progress there and I think that's worked out well for them. They've become like a crypto valley in a way.  The cottage industry's popped up around it.  So I think it all worked out in the end.
 
-[[1:03:28]](https://www.youtube.com/watch?v=24A8B9IgfLQ&t=3808s) **Bob:**  So yeah. So, not to go on too much longer, but the next phase was the phase of Ming.  So, Ming arrived in 2015, right?
+[[1:03:28]](https://www.youtube.com/watch?v=24A8B9IgfLQ&t=3808s) **Bob:**  So yeah. So, not to go on too much longer, but the next phase was the phase of [Ming](/people/ming-chan/).  So, [Ming](/people/ming-chan/) arrived in 2015, right?
 
 [[1:03:46]](https://www.youtube.com/watch?v=24A8B9IgfLQ&t=3826s) **Taylor:** [Ming arrived](https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director). She cleared out some of the cruft, which I think was very necessary. A lot of people still had ties with the organization but weren't as actively involved.  To a degree, myself included with that. My role kept changing with the org. First, it was scaling the initial website. Then it was the crowdsale.  Then I started helping on doing not QA work, but unit testing work on the go-ethereum clients.  So doing some coding there, writing the first complete RPC implementation was my responsibility, least some of the terrible namings of the functions. You can definitely blame me for those.  Then eventually kind of like traveling around the world and speaking in places that [Vitalik](/people/vitalik-buterin/) was too busy for or didn't desire to go to, I would kind of go do those talks. So my role had kept shifting and I wasn't the only one that maybe some of the positions that were valuable in the earliest of days were no longer as valuable and she kind of had to come and clean house a little bit. And, you know, to her credit, she did what she needed to do at that time.
 

@@ -16,10 +16,3 @@ Paweł started working on the [C++ JIT VM](https://github.com/ethereum/evmjit) w
 When the C++ work was being defunded, Gavin and others were leaving to form ethcore (later Parity) and the imapp contract was terminated.  This was around the time of DEVCON1.  Paweł continued to work for imapp, but not on Ethereum for a while.  The contract was renewed around February 2016 at the same time that Bob Summerwill and Greg Colvin were also hired to backfill the C++ development team.
 
 In November 2016, Paweł left imapp and signed a contract directly with the Ethereum Foundation and continued working there until June 2025.  He worked as part of the Ipsilon team on various VM projects, including [evmc](https://github.com/ipsilon/evmc), [evmone](https://github.com/ipsilon/evmone) and [EVM Object Format](https://eips.ethereum.org/EIPS/eip-7692).
-
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I
-
-

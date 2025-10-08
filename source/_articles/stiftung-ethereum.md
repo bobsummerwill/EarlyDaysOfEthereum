@@ -36,13 +36,3 @@ There is a lot of "noise" in there, but ignoring hat-shuffling, it boils down to
 For many years, [https://ethereum.org/foundation](https://web.archive.org/web/20190222044758/https://ethereum.org/foundation) was the only public information on the Ethereum Foundation.  As you can see from that snapshot in February 2019, as well as being totally inadequate, the information was also chronically outdated, with [Aya](/people/aya-miyaguchi/) nowhere to be seen and with Jeff Wilcke still listed years after his departure.
 
 They finally set up their (now useful) website, [https://ethereum.foundation](https://ethereum.foundation/), as part of the [https://ethereum.org](https://ethereum.org) community reboot which [started in April 2019](https://blog.ethereum.org/2019/04/30/beginning-a-new-ethereum-org).
-
-
-## References
-
-- "Crypto Valley"
-- Early Days of Ethereum - Episode 1
-- Early Days of Ethereum - Episode 4 - Taylor Gerring
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
-- Ethereum Timeline
-- EthSuisse

@@ -14,6 +14,3 @@ Kyle was mentioned in the [original BitcoinTalk](https://web.archive.org/web/201
 *"Kyle Kurbegovich - Media (Cointalk)"*
 
 Kyle recorded many of the early videos in the months before Ian Meikle and Richard Wild joined the project, and was filming at the Miami house as well.
-
-## References
-- Ethereum Timeline

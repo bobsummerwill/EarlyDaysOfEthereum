@@ -6,9 +6,3 @@ social:
   twitter: https://x.com/StevenNerayoff
   linkedin: https://www.linkedin.com/in/nerayoff/
 ---
-
-## References
-
-
-
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

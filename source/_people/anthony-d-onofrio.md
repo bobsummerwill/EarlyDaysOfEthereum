@@ -16,7 +16,6 @@ Texture was the first "community guy", reading the White Paper as one of the ver
 
 *"I actually had envisioned everything in the paper before. I was more blown away by the fact that I found it and Vitalik a week after having the vision" - [Texture on Twitter, 29th August 2025](https://x.com/iamtexture/status/1961541627694219532)*
 
-
 In mid-December 1013, Texture and [Vitalik]('/people/vitalik-buterin/') did a live-streamed "Salon Talk" to DCTRL, in Vancouver, BC 🇨🇦
 
 *"Texture (Anthony d'Onofrio) is spearheading community development for Ethereum in North America, he has written many works on Decentralized governance & community incubators."*
@@ -113,10 +112,6 @@ Which I opened with the epic "Ethereum - Your Turn" with voiceover by the aforem
   author="Ethereum"
   date="March 12, 2014"
 %}
-
-
-
-## References
 
 There are references to Texture in the following articles:
 

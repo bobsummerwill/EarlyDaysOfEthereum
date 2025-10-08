@@ -16,7 +16,4 @@ Kyle was mentioned in the [original BitcoinTalk](https://web.archive.org/web/201
 Kyle recorded many of the early videos in the months before Ian Meikle and Richard Wild joined the project, and was filming at the Miami house as well.
 
 ## References
-
 - Ethereum Timeline
-- Taylor Gerring Photos
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

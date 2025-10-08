@@ -8,7 +8,3 @@ devcon0: '1949'
 social:
   linkedin: https://www.linkedin.com/in/vinay-gupta-0072/
 ---
-
-
-## References
-- Ethereum Timeline

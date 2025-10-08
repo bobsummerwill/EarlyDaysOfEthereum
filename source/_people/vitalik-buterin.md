@@ -14,10 +14,5 @@ social:
 ---
 
 ## References
-- Early Days of Ethereum - Episode 1
 - Early Days of Ethereum - Episode 2
 - Early Days of Ethereum - Episode 3 - Bob Summerwill
-- Early Days of Ethereum - Episode 4 - Taylor Gerring
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
-- Ethereum Timeline
-- Taylor Gerring Photos

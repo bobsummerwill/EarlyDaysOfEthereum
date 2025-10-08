@@ -13,10 +13,3 @@ social:
   website: https://gavwood.com
   wikipedia: https://en.wikipedia.org/wiki/Gavin_Wood
 ---
-
-## References
-
-- Early Days of Ethereum - Episode 4 - Taylor Gerring
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
-- Ethereum Timeline
-- Taylor Gerring Photos

@@ -31,8 +31,3 @@ We had two excellent guests on. Stephan Tual is the Chief Communications Officer
   url="https://epicenter.tv/episodes/016"
   img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
-
-
-## References
-
-- Ethereum Timeline

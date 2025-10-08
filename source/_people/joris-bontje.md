@@ -12,6 +12,5 @@ social:
 *"Even though they are not on anyone's team, I like to thank [Nick]('/people/nick-savers/'), [Caktux]('/people/vincent-g/') and [Joris]('/people/joris-bontje/') for their ongoing effort in developing out our build systems. I'd also like to thank Nick specifically for pointing out the inconsistencies between our implementations: ~~Nick, you truly are a great pain in my ass (-;~~"* - Jeff Wilcke
 
 ## References
-
 - Gav’s ÐΞV Update I: Where Ethereum’s at by Gavin Wood, 17th October 2014
 - Jeff's Ethereum ÐΞV Update I

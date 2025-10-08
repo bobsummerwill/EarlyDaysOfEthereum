@@ -16,7 +16,4 @@ He later worked on the devgrants program.
 %}
 
 ## References
-
 - Ethereum Timeline
-- Taylor Gerring Photos
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

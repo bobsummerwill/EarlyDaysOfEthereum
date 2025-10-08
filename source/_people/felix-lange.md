@@ -8,7 +8,3 @@ social:
   github: https://github.com/fjl
   website: https://bra.twurst.com/
 ---
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I

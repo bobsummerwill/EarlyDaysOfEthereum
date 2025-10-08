@@ -11,9 +11,3 @@ social:
 ---
 
 That was when he started at the EF, but he was watching for the sidelines from Apr 2014, as per his DEVCON0 clip.
-
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I
-

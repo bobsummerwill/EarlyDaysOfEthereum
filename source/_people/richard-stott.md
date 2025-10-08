@@ -27,8 +27,3 @@ On 8th August 2025, Janina told Bob via Twitter DM that *"It was on LinkedIn whe
 - [X](https://x.com/raidraidrune) (note: his twitter handle was **IOHK_Richard** in earlier years)
 - [IOHK profile](https://iohk.io/en/blog/authors/richard-wild/page-1/)
 - [LinkedIn (now deleted)](https://www.linkedin.com/in/richard-wild-a0552026/)
-
-## References
-
-- Ethereum Timeline
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

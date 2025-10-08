@@ -8,8 +8,3 @@ social:
   github: https://github.com/maran
   linkedin: https://www.linkedin.com/in/maranhidskes/
 ---
-
-## References
-
-- Jeff's Ethereum ÐΞV Update I
-

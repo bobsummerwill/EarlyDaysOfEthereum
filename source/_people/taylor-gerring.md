@@ -10,10 +10,3 @@ social:
   linkedin: https://www.linkedin.com/in/taylorgerring/
   twitter: https://x.com/taylorgerring
 ---
-
-## References
-
-- EthSuisse
-- Taylor Gerring Photos
-- Ethereum Timeline
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

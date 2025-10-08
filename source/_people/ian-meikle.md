@@ -9,6 +9,4 @@ hidden: true
 ---
 
 ## References
-
 - Ethereum Timeline
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

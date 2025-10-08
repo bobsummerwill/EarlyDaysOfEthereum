@@ -15,7 +15,4 @@ Steve was mentioned in the [original BitcoinTalk](https://web.archive.org/web/20
 
 
 ## References
-
 - Ethereum Timeline
-- Taylor Gerring Photos
-- Early Days of Ethereum - Episode 4 - Taylor Gerring

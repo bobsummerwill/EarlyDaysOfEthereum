@@ -46,7 +46,4 @@ This proto-Web3 stack reminds me of IBM and Samsung's January 2015 "Project ADEP
   date="Feb 3, 2015"
 %}
 
-
-## References
-
 [Speaker at Bitcoin Expo](https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/) in Toronto, April 2014

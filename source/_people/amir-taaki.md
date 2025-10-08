@@ -10,9 +10,3 @@ social:
 ## Links
 - ["My old YouTube"](https://www.youtube.com/@BoxxyBrassin)
 - ["Our old Wiki"](https://web.archive.org/web/20150309190939/http://wiki.unsystem.net/en/index.php/Bitlaw)
-
-## References
-
-
-
-- Ethereum Timeline

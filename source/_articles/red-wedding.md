@@ -20,10 +20,3 @@ Charles is still incredibly bitter about these events.  He allegedly gave all of
 Charles and Jeremy later collaborated as co-founders of [IOHK](https://iohk.io/) (later partially rebranded as IO Global) in April 2015, a company most famous for the development of the [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) blockchain.
 
 Amir did not seem to care about his removal.  He retained his ether allocation and now did not even need to do any more work!  He had been quite clear that his involvement was primarily motivated by money and he continued to spend lots of time on colored coins when while being an Ethereum co-founder.
-
-## References
-
-- Early Days of Ethereum - Episode 4 - Taylor Gerring
-- Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio
-- EthSuisse
-- Taylor Gerring Photos

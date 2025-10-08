@@ -42,7 +42,7 @@ Okay, can anyone confirm that they can see us on YouTube? Thank you, Michael. Ca
 Michael, can you confirm you can hear us on YouTube?
 
 [[1:28]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=88s) **Bob:**
-You broke up for me quite a lot there, [Victor]('/people/victor-wong/'), when you were speaking.
+You broke up for me quite a lot there, [Victor](people/victor-wong), when you were speaking.
 
 [[1:33]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=93s) **Victor:**
 Okay. Okay. So, Jaime, can you post this on our Twitter, the YouTube, and we'll get started shortly.
@@ -60,7 +60,7 @@ Welcome, Yves.
 Stefan
 
 [[6:15]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=375s) **Bob:**
-Do you want to give it maybe until 10 past, [Victor]('/people/victor-wong/'), three minutes?
+Do you want to give it maybe until 10 past, [Victor](people/victor-wong), three minutes?
 
 [[6:21]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=381s) **Victor:**
 Sure.
@@ -110,7 +110,7 @@ Okay. So, yeah, maybe we start. So, yeah.
 [[9:12]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=552s) **Bob:**
 Okay. Hi, everyone. Good to have you here.
 
-I'm Bob Summerwill. I'm the [Head of Ecosystem](https://blockapps.net/blog/bob-summerwill-joins-blockapps-as-key-industry-leader/) at [STRATO Mercata](https://stratomercata.com). [Victor]('/people/victor-wong/'), who's with us here, is the Chief Product Officer and Co-Founder.
+I'm Bob Summerwill. I'm the [Head of Ecosystem](https://blockapps.net/blog/bob-summerwill-joins-blockapps-as-key-industry-leader/) at [STRATO Mercata](https://stratomercata.com). [Victor](people/victor-wong), who's with us here, is the Chief Product Officer and Co-Founder.
 
 Mercata V2 is the new iteration of our application, of our network, which has been a major focus for us this year. We spent the vast majority of this year rebuilding a completely new application experience. The current production main net is more of a sort of eBay-ish kind of setup, really coming out of an earlier period where we were having a marketplace of collectibles, tokenized whiskey barrels, and other things which were more NFT-like.
 

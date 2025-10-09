@@ -2,7 +2,10 @@
 title: "On Settlement Finality"
 date: 2016-05-09
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2016/05/09/on-settlement-finality
+embed:
+  url: https://blog.ethereum.org/2016/05/09/on-settlement-finality
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 _Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality._

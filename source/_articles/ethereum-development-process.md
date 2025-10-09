@@ -2,7 +2,10 @@
 title: "The Ethereum Development Process"
 date: 2015-03-05
 author: Gavin Wood
-source: https://blog.ethereum.org/2015/03/05/ethereum-development-process
+embed:
+  url: https://blog.ethereum.org/2015/03/05/ethereum-development-process
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 So I'm not sure if this kind of development methodology has ever been applied to such an extreme before so I figured I'd document it. In a nutshell, it's sort of like test-driven triplet-programming development.

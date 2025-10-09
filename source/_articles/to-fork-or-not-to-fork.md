@@ -2,7 +2,10 @@
 title: "To fork or not to fork"
 date: 2016-07-15
 author: Jeffrey Wilcke
-source: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork
+embed:
+  url: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 The DAO, though not a product developed by the Ethereum Foundation, has been a hot topic as of late, both internally in the organisation as well as within our community. The Hard Fork is a delicate topic and the way we see it, no decision is the right one. As this is not a decision that can be made by the foundation or any other single entity, we again turn towards the community to assess its wishes in order to provide the most appropriate protocol change.

@@ -2,7 +2,10 @@
 title: "Proof of Stake: How I Learned to Love Weak Subjectivity"
 date: 2014-11-25
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity
+embed:
+  url: https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Proof of stake continues to be controversial, particularly regarding the "nothing at stake" problem. However, the problems are solvable - at a moderate cost. This post explains what that cost is and how to minimize its impact.

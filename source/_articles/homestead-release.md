@@ -2,7 +2,10 @@
 title: "Homestead Release"
 date: 2016-02-29
 author: Jeffrey Wilcke
-source: https://blog.ethereum.org/2016/02/29/homestead-release
+embed:
+  url: https://blog.ethereum.org/2016/02/29/homestead-release
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 **Update: We've released [version 1.3.5](https://github.com/ethereum/go-ethereum/releases/tag/v1.3.5) including networking hotfix for homestead 1.3.4.** 

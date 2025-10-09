@@ -2,7 +2,10 @@
 title: "Ethereum Foundation Internal Update"
 date: 2016-01-07
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2016/01/07/2394
+embed:
+  url: https://blog.ethereum.org/2016/01/07/2394
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Now that Ethereum has launched and is rapidly nearing its Homestead phase, over the last few months we at the Ethereum Foundation have finally had the chance to have some breathing room and plan our strategies with a more long-term view. From a development perspective, we have now started in earnest the [development](/2015/12/24/understanding-serenity-part-i-abstraction) of [Serenity](/2015/12/28/understanding-serenity-part-2-casper), the next large overhaul of the Ethereum protocol that will include powerful software abstraction features, the Casper consensus algorithm and hopefully some basic scaffolding that will allow for the development of scalability features over time with minimal disruption. POC1 has been released, and POC2 will likely be released in about one month. In parallel to this, Martin Becze is actively exploring options for optimizing the EVM using WebAssembly, and several groups are working on implementing various forms of advanced cryptography on top of the EVM today.

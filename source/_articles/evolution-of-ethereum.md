@@ -2,7 +2,10 @@
 title: "The Evolution of Ethereum"
 date: 2015-09-28
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum
+embed:
+  url: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Many of you know that the Ethereum platform grew out of the realization that blockchains can go far beyond currency, together with a frustration with the limitations of previous projects. The core idea was simple: a blockchain with a built-in Turing-complete programming language, allowing users to build any kind of applications on top.

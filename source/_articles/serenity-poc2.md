@@ -2,7 +2,10 @@
 title: "Serenity PoC2"
 date: 2016-03-05
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2016/03/05/serenity-poc2
+embed:
+  url: https://blog.ethereum.org/2016/03/05/serenity-poc2
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 After an additional two months of work after the release of the first python proof of concept release of Serenity, I am pleased to announce that Serenity PoC2 [is now available](http://github.com/ethereum/pyethereum/tree/serenity). Although the release continues to be far from a testnet-ready client, much less a production-ready one, PoC2 brings with it a number of important improvements.

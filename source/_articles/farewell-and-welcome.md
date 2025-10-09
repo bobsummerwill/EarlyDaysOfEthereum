@@ -2,7 +2,10 @@
 title: "Farewell and Welcome"
 date: 2018-01-31
 author: Ethereum Team
-source: https://blog.ethereum.org/2018/01/31/farewell-and-welcome
+embed:
+  url: https://blog.ethereum.org/2018/01/31/farewell-and-welcome
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 It is with sadness that we announce that Ming Chan, who has served as Executive Director at the Ethereum Foundation for nearly three years, is leaving the Foundation. Since her arrival in 2015, she has played a critical role in the development and success of the Foundation.

@@ -3,7 +3,10 @@ title: "Gav's Ethereum ÐΞV Update IV"
 lowercase_title: "gav's ethereum dev update iv"
 date: 2014-12-15
 author: Gavin Wood
-source: https://blog.ethereum.org/2014/12/15/gavs-ethereum-dev-update-iv
+embed:
+  url: https://blog.ethereum.org/2014/12/15/gavs-ethereum-dev-update-iv
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Time for another update! So quite a bit has happened following ÐΞVcon-0, our internal developer's conference. The conference itself was a great time to get all the developers together and really get to know each other, dissipate a _lot_ of information (back to back presentations for 5 days!) and chat over a lot of ideas. The comms team will be releasing each of the presentations as fast as Ian can get them nicely polished.

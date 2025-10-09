@@ -2,7 +2,10 @@
 title: "Announcing the New Foundation Board and Executive Director"
 date: 2015-07-30
 author: Stephan Tual
-source: https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director
+embed:
+  url: https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 After an intensive recruitment period, the Ethereum Foundation has selected an Executive Director and named three members to the Board of Directors. This is a new organizational structure, which will allow us to focus on our next phase of development.

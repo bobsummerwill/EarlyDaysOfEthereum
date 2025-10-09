@@ -2,7 +2,10 @@
 title: "Microsoft to Sponsor Ethereum's DEVCON1"
 date: 2015-10-28
 author: George Hallam
-source: https://blog.ethereum.org/2015/10/28/microsoft-to-sponsor-ethereums-devcon1-2
+embed:
+  url: https://blog.ethereum.org/2015/10/28/microsoft-to-sponsor-ethereums-devcon1-2
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 **London, United Kingdom, October 28th - [Ethereum](https://ethereum.org/) is happy to announce that Microsoft will sponsor and attend [DΞVCON1](https://devcon.ethereum.org/), the premier Ethereum developer conference.**

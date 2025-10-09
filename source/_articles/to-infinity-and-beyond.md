@@ -2,7 +2,10 @@
 title: "To Infinity and Beyond!"
 date: 2018-01-31
 author: Ming Chan
-source: https://blog.ethereum.org/2018/01/31/to-infinity-and-beyond
+embed:
+  url: https://blog.ethereum.org/2018/01/31/to-infinity-and-beyond
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Dear Ethereum community (and wonderful Etherheads!),

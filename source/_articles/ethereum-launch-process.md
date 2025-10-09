@@ -2,7 +2,10 @@
 title: "The Ethereum Launch Process"
 date: 2015-03-03
 author: Vinay Gupta
-source: https://blog.ethereum.org/2015/03/03/ethereum-launch-process
+embed:
+  url: https://blog.ethereum.org/2015/03/03/ethereum-launch-process
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 I'm [Vinay Gupta](http://re.silience.com/), the newly minted release coordinator for Ethereum. I've been working with the comms team on strategy, and have now come aboard to help smooth the release process (some of the content in this blog is out of date, please see [this link](https://ethereum.gitbooks.io/frontier-guide/content/ethereum.html) for the most up to date information on Ethereum).

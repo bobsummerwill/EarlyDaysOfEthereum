@@ -3,7 +3,10 @@ title: "Jeff's Ethereum ÐΞV Update II"
 lowercase_title: jeff's ethereum dev update ii
 date: 2015-01-06
 author: Jeffrey Wilcke
-source: https://blog.ethereum.org/2015/01/06/jeffs-ethereum-dev-update-2
+embed:
+  url: https://blog.ethereum.org/2015/01/06/jeffs-ethereum-dev-update-2
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 First of all, [happy new year](https://answers.yahoo.com/question/index?qid=20080105074822AAveQrL)! What a year it has been. With a little luck we'll surpass last year with an even more awesome year. It's been too long since I've given an update on my side of things and that of the Go team and mostly due to a lack of time. I've been so incredibly busy and so many things have happened these past 2 months I've hardly had time to sit down and assess it all.

@@ -3,7 +3,10 @@ title: "Ethereum ÐΞV: What are we doing?"
 lowercase_title: "ethereum dev: what are we doing?"
 date: 2014-12-17
 author: Gavin Wood
-source: https://blog.ethereum.org/2014/12/17/ethereum-dev
+embed:
+  url: https://blog.ethereum.org/2014/12/17/ethereum-dev
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 OK so a minor update about what we are (and are not) doing here at Ethereum DEV.

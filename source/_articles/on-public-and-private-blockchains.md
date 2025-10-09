@@ -2,7 +2,10 @@
 title: "On Public and Private Blockchains"
 date: 2015-08-07
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains
+embed:
+  url: https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Over the last year the concept of "private blockchains" has become very popular in the broader blockchain technology discussion. What are the practical differences between public and private blockchains?

@@ -2,7 +2,10 @@
 title: "Cut and try: building a dream"
 date: 2016-02-09
 author: Taylor Gerring
-source: https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream
+embed:
+  url: https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Last month marked the 2 year anniversary of Ethereum's public announcement at The North American Bitcoin Conference in Miami, Florida, USA. Amid much rumour and excitement, a sizeable crowd mobbed the young Vitalik Buterin after his on-stage announcement, questioning the merit and his desire to build such a system.

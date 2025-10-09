@@ -2,7 +2,10 @@
 title: "DAOs, DACs, DAs and More: An Incomplete Terminology Guide"
 date: 2014-05-06
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide
+embed:
+  url: https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 One of the most popular topics in the digital consensus space is the concept of decentralized autonomous entities. However, one hidden problem is that no one even knows what all of these individual terms mean. This article attempts to provide coherent definitions.

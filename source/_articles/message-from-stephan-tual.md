@@ -2,7 +2,10 @@
 title: "A message from Stephan Tual"
 date: 2015-09-03
 author: Stephan Tual
-source: https://blog.ethereum.org/2015/09/03/a-message-from-stephan-tual
+embed:
+  url: https://blog.ethereum.org/2015/09/03/a-message-from-stephan-tual
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 To the wonderful Ethereum Community,

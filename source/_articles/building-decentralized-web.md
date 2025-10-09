@@ -2,7 +2,10 @@
 title: "building the decentralized web 3.0"
 date: 2014-08-18
 author: Taylor Gerring
-source: https://blog.ethereum.org/2014/08/18/building-decentralized-web
+embed:
+  url: https://blog.ethereum.org/2014/08/18/building-decentralized-web
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 ## how ethereum could shard the web

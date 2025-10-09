@@ -2,7 +2,10 @@
 title: "Ethereum Comms Announcement"
 date: 2015-09-18
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2015/09/18/ethereum-comms-announcement
+embed:
+  url: https://blog.ethereum.org/2015/09/18/ethereum-comms-announcement
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 The foundation is currently in the phase of restructuring its communications activities. Several members of our current communications team in London are soon leaving or reducing their involvement in the Foundation in order to pursue for-profit ventures on top of the Ethereum ecosystem; we wish them the best of luck. And so, we have both the necessity and a unique opportunity to "reboot" that side of the organization and take another look at how the Ethereum foundation interacts with the community.

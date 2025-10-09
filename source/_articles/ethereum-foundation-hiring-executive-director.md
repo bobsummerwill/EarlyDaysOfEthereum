@@ -2,7 +2,10 @@
 title: "Ethereum Foundation is hiring an Executive Director"
 date: 2015-04-08
 author: Anthony Di Iorio
-source: https://blog.ethereum.org/2015/04/08/ethereum-foundation-is-hiring-an-executive-director
+embed:
+  url: https://blog.ethereum.org/2015/04/08/ethereum-foundation-is-hiring-an-executive-director
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 Stiftung Ethereum, the Zug, Switzerland-based Ethereum Foundation --[ethereum.org](https://ethereum.org/), is seeking to immediately fill the Executive Director position within the Foundation.

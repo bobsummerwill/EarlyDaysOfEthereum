@@ -2,7 +2,10 @@
 title: "Ethereum Launches"
 date: 2015-07-30
 author: Stephan Tual
-source: https://blog.ethereum.org/2015/07/30/ethereum-launches
+embed:
+  url: https://blog.ethereum.org/2015/07/30/ethereum-launches
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 A few minutes ago, many of you generated and loaded the Ethereum Genesis block, marking the inception of Frontier, the first Live release of the Ethereum project.

@@ -2,7 +2,10 @@
 title: "DEVcon is back!"
 date: 2015-09-24
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2015/09/24/devcon-is-back
+embed:
+  url: https://blog.ethereum.org/2015/09/24/devcon-is-back
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 DevCon 1 will be happening in London on November 9-13, a little over one hundred days since the Ethereum network launched. Over the last months, we've seen the network grow from a few hundred nodes starting on that one exciting and special night to a very substantial, globally deployed stable platform with thousands of devs pushing towards the decentralization revolution which motivates and inspires us.

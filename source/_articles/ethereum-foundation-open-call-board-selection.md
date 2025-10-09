@@ -2,7 +2,10 @@
 title: "Ethereum Foundation Open Call re: Board Selection"
 date: 2015-04-10
 author: Vitalik Buterin
-source: https://blog.ethereum.org/2015/04/10/ethereum-foundation-open-call-re-board-selection
+embed:
+  url: https://blog.ethereum.org/2015/04/10/ethereum-foundation-open-call-re-board-selection
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 With Ethereum getting close to its first official launch with Frontier, we have spent the last week of February at our holon in Switzerland discussing what the future of the Ethereum Foundation is going to look like. Since the start of the project, one of our primary dreams has been to not just deliver a world-class product, but also build a world-class organization, with quality of governance and transparency suitable for a foundation that would be tasked with helping to organize the maintenance of the Ethereum code for potentially decades to come. To that end, we have taken a number of steps including an effort to hire new administrative staff and an internal branding shift, and now we are officially announcing our search for new members to join our board of directors.

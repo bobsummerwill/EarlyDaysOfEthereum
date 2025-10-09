@@ -2,7 +2,10 @@
 title: "Nick Szabo Confirmed as Keynote Speaker of Ethereum's DEVCON1"
 date: 2015-10-22
 author: George Hallam
-source: https://blog.ethereum.org/2015/10/22/nick-szabo-confirmed-as-keynote-speaker-of-ethereums-devcon1
+embed:
+  url: https://blog.ethereum.org/2015/10/22/nick-szabo-confirmed-as-keynote-speaker-of-ethereums-devcon1
+  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  site: Ethereum Foundation Blog
 ---
 
 London, United Kingdom, October 22nd - The Ethereum Foundation is pleased to announce the Keynote Speaker of Ethereum's annual conference [DΞVCON1](https://devcon.ethereum.org/), Nick Szabo. Nick's keynote will focus on the history of the blockchain, smart contracts and assets on the blockchain.

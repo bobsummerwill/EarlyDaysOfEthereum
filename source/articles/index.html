@@ -19,9 +19,14 @@ title: Articles
   A collection of articles documenting the early days of Ethereum, from the pre-Ethereum period through the foundation's early years.
 </p>
 
+{% assign articles_with_dates = site.articles | where_exp: "item", "item.date" %}
+{% assign sorted_articles = articles_with_dates | sort: 'date' %}
+
+<div class="stats">
+    {{ sorted_articles.size }} articles
+</div>
+
 <div class="articles-list">
-    {% assign articles_with_dates = site.articles | where_exp: "item", "item.date" %}
-    {% assign sorted_articles = articles_with_dates | sort: 'date' %}
     {% for article in sorted_articles %}
     <article class="article-preview">
         <h2>

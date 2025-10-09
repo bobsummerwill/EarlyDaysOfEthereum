@@ -17,12 +17,17 @@ title: Videos
   Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights.
 </p>
 
+{% assign sorted_videos = site.videos | sort: 'date' %}
+
+<div class="stats">
+    {{ sorted_videos.size }} videos
+</div>
+
 <!--
   Videos List Section: Grid of video cards.
   - CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 -->
 <div class="videos-list">
-    {% assign sorted_videos = site.videos | sort: 'date' %}
     {% for video in sorted_videos %}
     <div class="video-card">
         {% if video.img %}

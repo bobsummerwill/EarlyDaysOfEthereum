@@ -3,7 +3,6 @@ title: "Another Ethereum ÐΞV Update"
 lowercase_title: "another ethereum dev update"
 date: 2015-06-15
 author: Gavin Wood
-description: "Gavin Wood's second development update covering Olympic testnet, multi-client systems, exchange integration, C++ improvements, auditing, and preparations for the Frontier release"
 embed:
   url: https://blog.ethereum.org/2015/06/15/another-ethereum-dev-update
   img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Fposts%2Fyouth.jpg&w=1080&q=75

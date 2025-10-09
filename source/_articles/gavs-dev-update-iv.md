@@ -1,5 +1,6 @@
 ---
 title: "Gav's Ethereum ÐΞV Update IV"
+lowercase_title: "gav's ethereum dev update iv"
 date: 2014-12-15
 author: Gavin Wood
 source: https://blog.ethereum.org/2014/12/15/gavs-ethereum-dev-update-iv

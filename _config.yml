@@ -47,6 +47,7 @@ google_analytics: "G-K07HLJER91"  # Google Analytics 4 tracking ID
 # ============================================================================
 # These settings control how Jekyll processes and builds your site.
 
+source: source  # Source directory containing all site content, layouts, and includes
 markdown: kramdown  # Markdown processor (kramdown is Jekyll's default)
 highlighter: rouge  # Syntax highlighter for code blocks
 permalink: /:categories/:year/:month/:day/:title/  # URL structure for blog posts

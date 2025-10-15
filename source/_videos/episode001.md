@@ -375,7 +375,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[47:04]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2824s) **Kieren:**  that's really funny
 
-[[47:07]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2827s) **Jim:**  yeah oh man that was our introduction to Bitcoin And then around this time, you and I started hanging up a lot.
+[[47:07]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2827s) **Jim:**  yeah oh man that was our introduction to Bitcoin.  And then around this time, you and I started hanging up a lot.
 
 [[47:17]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2837s) **Jim:**  We were meeting regularly, and I was working – I had started working on the Haskell client, and I brought you in on that, and we were – we'd have, like, these coding sessions at your place.
 
@@ -385,11 +385,13 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[47:42]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2862s) :  Yeah.
 
-[[47:42]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2862s) **Jim:**  and I was sort of laughing when you're talking about the over promising like I was immediately fascinated by Ethereum but I also remember like trying to understand what it was at the beginning and some of some of the material out there was great but some of it was just very vague and and overbroad like I would like go to these YouTube videos and people would be like Ethereum is a new way of life it's going to take over as a second internet and we are going to rebuild the Internet from beginning to end.
+[[47:42]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2862s) **Jim:**  and I was sort of laughing when you're talking about the over promising like I was immediately fascinated by Ethereum but I also remember like trying to understand what it was at the beginning and some of some of the material out there was great but some of it was just very vague and and overbroad like I would like go to these YouTube videos and people would be like "Ethereum is a new way of life.  It's going to take over as a second internet and we are going to rebuild the Internet from beginning to end".
 
 [[48:10]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2890s) **Jim:**  And I was like, what are they talking about? And so the only way I was going to really understand this stuff, I thought, was to literally just start, like, writing code. And so, you know, you can't hide what's happening.
 
-[[48:21]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2901s) **Jim:**  Once you have, like, so I talked about the white paper, but Gavin Wood had put up a yellow paper at the same time, which talked about the technical details of the innards. And so I started looking through that and implementing that in my favorite language, Haskell.
+[[48:21]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2901s) **Jim:**  Once you have, like, so I talked about the white paper, but Gavin Wood had put up a [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) at the same time, which talked about the technical details of the innards. And so I started looking through that and implementing that in my favorite language, Haskell.
+
+*(Jim's work can be seen at [https://github.com/jamshidh/ethereum-client-haskell](https://github.com/jamshidh/ethereum-client-haskell), with the initial commit being on 14th September 2014 "[First version of ethereumHaskell](https://github.com/jamshidh/ethereum-client-haskell/commit/60d4cadb9ebde7b126b80079dede5ca0d5604a99)")*
 
 [[48:35]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2915s) **Jim:**  and bit by bit putting the whole EVM in Haskell code. So that's what most of the end of the year was like until I think in December I was – so I'm from the East Coast myself.
 
@@ -399,7 +401,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[49:28]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2968s) **Jim:**  We just got pulled more and more into that world. and I think like one of the big things sorry
 
-[[49:37]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2977s) **Kieren:**  we've been you know assuming an expert audience can you define the term client for everybody
+[[49:37]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2977s) **Kieren:**  we've been you know assuming an expert audience can you define the term "client" for everybody
 
 [[49:43]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2983s) **Jim:**  oh so it's the software that blockchain runs on the thing about usual software is that you know like if I'm just like going to run a video game or something I just get a computer and I put the software on it and that's my running project in a blockchain blockchain is a distributed thing, so you have to create a piece of software that can be run from anywhere in the world on multiple computers simultaneously.
 

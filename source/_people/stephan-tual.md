@@ -13,7 +13,7 @@ social:
 
 <div style="margin: 24px 0;">
   <a href="https://x.com/BobSummerwill/status/958004291523854337" target="_blank" rel="noopener">
-    <img src="/images/personal/bob-summerwill/twitter.com/2018.01.29/958004291523854337/gav-and-stephan.jpeg" alt="Photo of Gav Wood and Stephan Tual at Ethereum London Meetup, June 16, 2017" style="width: 100%; max-width: 500px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);" />
+    ![Photo of Gav Wood and Stephan Tual at Ethereum London Meetup, June 16, 2017](/images/personal/bob-summerwill/twitter.com/2018.01.29/958004291523854337/gav-and-stephan.jpeg)
   </a>
   <div style="font-size: 0.95em; color: #555; margin-top: 4px;">
     <a href="https://x.com/BobSummerwill/status/958004291523854337" target="_blank" rel="noopener">Photo from Bob Summerwill's tweet</a> of Gav Wood and Stephan Tual at the Ethereum London Meetup, June 16, 2017.

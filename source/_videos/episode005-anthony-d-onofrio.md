@@ -759,7 +759,7 @@ I could, you know, kind of code at that time. I can still kind of code today, bu
 *(from [Taylor Gerring's photos](/articles/taylor-gerring-photos/))*
 
 *“Ethereum was eventually decided to be an open source non-profit model. After this edict was made clear, we proceeded to sketch out how funds would be allocated. Compared with a lot of other projects, we were stunningly efficient with only ~$15M” – Taylor Gerring, [Jun 4, 2022](https://twitter.com/TaylorGerring/status/1533128197054816257)*
-<img src="/images/x.com/2025.09.07/TaylorGerring/status/1533128197054816257/1533128197054816257_1.jpg" style="width:75%;">
+![Ethereum planning](/images/x.com/2025.09.07/TaylorGerring/status/1533128197054816257/1533128197054816257_1.jpg)
 
 [[55:43]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=3343s) **Kieren:**
 And, uh, a lot of it was theoretically earmarked for a research group that meant to solve, you know, hard problems like scalability, um, in, in crypto that, you know, like in practice people have sort of solved today. Um, and not by any of the means we imagined exactly. Um, but, um, you know, they've been solved to some degree, at least, um, like with layer twos, for instance.

@@ -15,4 +15,4 @@ He was a primary contributor to [pyethapp](https://github.com/ethereum/pyethapp/
 
 He made the initial commit to create [pyethereum](https://github.com/ethereum/pyethereum/commit/36c3668d9989ada69c26e3c6f965802f0e48720e) in March 2014!
 
-<img src="/images/github.com/2025.09.04/ethereum_pyethereum@36c3668.png" alt="First commit to pyethereum (March 2014)" style="width: 50%; border-radius: 8px; margin: 18px 0;" />
+![First commit to pyethereum (March 2014)](/images/github.com/2025.09.04/ethereum_pyethereum@36c3668.png)

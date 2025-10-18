@@ -538,29 +538,35 @@ img {
 }
 
 /**
- * Article Content Styles - Article and blog article formatting
+ * Content Styles - Article and video content formatting
  * 
  * Provides consistent typography and spacing for long-form content.
+ * Applies to both article pages and video pages for uniform presentation.
  * Optimized for readability with proper line height and spacing.
  * 
  * Reference: https://practicaltypography.com/
  */
-.article-content h2 {
+.article-content h2,
+.video-content h2 {
     margin-top: var(--spacing-5xl);
     margin-bottom: var(--spacing-2xl);
 }
 
-.article-content p {
+.article-content p,
+.video-content p {
     margin-bottom: var(--spacing-2xl);
 }
 
 .article-content ul,
-.article-content ol {
+.article-content ol,
+.video-content ul,
+.video-content ol {
     margin-bottom: var(--spacing-2xl);
     padding-left: var(--spacing-5xl);
 }
 
-.article-content li {
+.article-content li,
+.video-content li {
     margin-bottom: 5px;
 }
 
@@ -568,11 +574,13 @@ img {
  * Blockquote Styling - Emphasized quoted content
  * 
  * Uses left border accent and italic styling for visual distinction.
+ * Applies to both article and video content for consistency.
  * Follows typographic conventions for quoted material.
  * 
  * Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
  */
-.article-content blockquote {
+.article-content blockquote,
+.video-content blockquote {
     border-left: var(--spacing-sm) solid var(--primary-blue);
     padding-left: var(--spacing-3xl);
     margin: var(--spacing-3xl) 0;
@@ -584,36 +592,42 @@ img {
  * Code Styling - Inline and block code formatting
  * 
  * Distinguishes code from regular text with background color and monospace font.
+ * Applies to both article and video content for consistency.
  * Provides consistent styling for both inline and block code elements.
  * 
  * Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code
  */
-.article-content code {
+.article-content code,
+.video-content code {
     background-color: var(--bg-code);
     padding: var(--spacing-xs) var(--spacing-sm);
     border-radius: var(--radius-xs);
     font-family: var(--font-mono);
 }
 
-.article-content pre {
+.article-content pre,
+.video-content pre {
     background-color: var(--bg-code);
     padding: var(--spacing-2xl);
     border-radius: 5px;
     overflow-x: auto;
 }
 
-.article-content pre code {
+.article-content pre code,
+.video-content pre code {
     background: none;
     padding: 0;
 }
 
 /**
- * Article Tags - Content categorization
+ * Content Tags - Article and video categorization
  * 
  * Visual separation from main content with top border.
+ * Applies to both article and video pages for consistency.
  * Provides metadata about post categories or topics.
  */
-.article-tags {
+.article-tags,
+.video-tags {
     margin-top: var(--spacing-5xl);
     padding-top: var(--spacing-3xl);
     border-top: 1px solid var(--border-light);
@@ -2322,6 +2336,41 @@ main {
 
 .video-hosts-guests {
     margin-bottom: 15px;
+}
+
+/**
+ * Video Links Section - Related links for video content
+ * 
+ * Provides consistent styling for video-specific related links sections.
+ * Similar to person-links but adapted for video content.
+ */
+.video-links {
+    margin-top: var(--spacing-5xl);
+    padding-top: var(--spacing-3xl);
+    border-top: 1px solid var(--border-light);
+}
+
+.video-links h3 {
+    color: #333;
+    margin-bottom: var(--spacing-lg);
+}
+
+.video-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.video-links li {
+    margin-bottom: var(--spacing-md);
+}
+
+.video-links a {
+    color: var(--primary-blue);
+    text-decoration: none;
+}
+
+.video-links a:hover {
+    text-decoration: underline;
 }
 
 /**

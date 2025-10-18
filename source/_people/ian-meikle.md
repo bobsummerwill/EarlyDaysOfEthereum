@@ -6,4 +6,3 @@ start: Feb 2014
 end: Nov 2018
 devcon0: '1963'
 ---
-

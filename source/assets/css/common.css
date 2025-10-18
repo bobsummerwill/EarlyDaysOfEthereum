@@ -2420,6 +2420,21 @@ main {
     max-width: 50%;
 }
 
+/* Override max-width for mobile on desktop - ensuring it only applies to large screens */
+@media (min-width: 769px) {
+    .content-embed-card {
+        max-width: 50%;
+    }
+}
+
+/* Full width on mobile */
+@media (max-width: 768px) {
+    .content-embed-card {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+}
+
 .content-embed-link-wrapper {
     display: block;
     text-decoration: none;

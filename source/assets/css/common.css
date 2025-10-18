@@ -2444,6 +2444,44 @@ main {
 }
 
 /**
+ * Mobile Responsive - Video and Content Embeds
+ * 
+ * Make video and content embeds full width on mobile devices.
+ * Applies to embeds within video pages, article pages, and standalone embeds.
+ */
+@media (max-width: 768px) {
+    .content-embed-card,
+    .blog-embed-card,
+    .video-embed-card,
+    .twitter-embed-container {
+        max-width: 100% !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    
+    .content-embed-video-wrapper,
+    .blog-embed-video-wrapper {
+        width: 100%;
+    }
+    
+    /* Ensure embeds within article and video layouts are full width */
+    article .content-embed-card,
+    article .blog-embed-card,
+    .video-episode .content-embed-card,
+    .video-episode .blog-embed-card {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    
+    /* Ensure video and article content areas allow full width */
+    .video-content,
+    .article-content {
+        width: 100%;
+    }
+}
+
+/**
  * Heading Date Utilities - Date styling for index pages
  * 
  * Styling for date headings on people index.

@@ -107,12 +107,7 @@ But anyway, the house that Anthony Di Iorio had organized became kind of the hub
 
 It was just constant chaos. But if I remember correctly, Charles came in the next day or two pretty soon thereafter. And then the house eventually filled up with Ian Meikle, who did all the artwork.  And oh, gosh, I can't remember his buddy.
 
-{% capture hideable_section %}
 <img src="/images/duncan.co/2025.09.17/duncan.co_cropped_ian_meikle.png" style="width: 25%; height: auto;">
-{% endcapture %}
-<div class="hideable-section" style="display:none">
-{{ hideable_section | markdownify }}
-</div>
 
 **Bob:**  Richard Wild?
 
@@ -148,18 +143,15 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 [[27:00]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1620s) **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
-{% capture hideable_section %}
 <img src="/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg" style="width: 75%; height: auto;">
-{% endcapture %}
-<div class="hideable-section" style="display:none">
-{{ hideable_section | markdownify }}
-</div>
 
 [[27:38]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1658s) **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
 
 [[27:43]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1663s) **Bob:** Right.  Then I'm just looking in March, the March photos. "Charles bought dinner for 10 people on March 1st". Watching Fight Club.
 
-TODO - Add photo
+<img src="/images/x.com/2025.09.07/TaylorGerring/status/1498782352062963714/1498782352062963714_1.jpg" style="width:75%;">
+
+<img src="/images/x.com/2025.09.07/TaylorGerring/status/1499046474100969473/1499046474100969473_1.jpg" style="width:75%;">
 
 [[27:58]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1678s) **Taylor:** You know, like looking back, And one thing that kind of stands out to me is it was definitely like a ragtag team of people there and trying to figure out what we were doing. Like this became a constant like wedge in the group is like what our contribution was, right, from a code perspective.  And I was responsible for the website stuff. So I think to our credit, getting the team kind of motivated up and going to go from we just met and within a couple of few weeks here, we started spinning prototypes of the website and working together in our different capacities to kind of get this machine in motion and prepared for what would eventually become the crowd sale.  It was like kind of no small task, I guess, just having to learn how to get together and figure out your skills and know how you're going to plug into the rest of the global organization.
 

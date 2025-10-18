@@ -151,7 +151,7 @@ while ensuring clean, valid HTML output.
   {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%}Process people last, protecting instances that are part of existing links{%- endcomment -%}
+{%- comment -%}Process people last, protecting instances that are part of existing links and HTML attributes{%- endcomment -%}
 {%- for other_person in site.people -%}
   {%- assign name_to_replace = other_person.name -%}
   {%- assign display_name = other_person.name -%}
@@ -163,10 +163,85 @@ while ensuring clean, valid HTML output.
     {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
   {%- endif -%}
   
-  {%- comment -%}Replace person names, but protect instances within existing article/video links{%- endcomment -%}
+  {%- comment -%}Replace person names, but protect instances within existing article/video links and HTML attributes{%- endcomment -%}
   {%- assign temp_content = body_content -%}
   
-  {%- comment -%}First, temporarily replace article and video links that contain this person's name{%- endcomment -%}
+  {%- comment -%}First, protect HTML attributes (alt, title, aria-label, etc.) that contain this person's name{%- endcomment -%}
+  {%- assign protected_attributes = "" | split: "" -%}
+  {%- assign attr_counter = 0 -%}
+  {%- assign attribute_names = "alt|title|aria-label|aria-describedby|data-" | split: "|" -%}
+  
+  {%- for attr_name in attribute_names -%}
+    {%- comment -%}Match attributes like: alt="text with name" or title='text with name'{%- endcomment -%}
+    {%- assign attr_pattern_double = attr_name | append: '="' -%}
+    {%- assign attr_pattern_single = attr_name | append: "='" -%}
+    
+    {%- comment -%}Process double-quoted attributes{%- endcomment -%}
+    {%- assign attr_parts = temp_content | split: attr_pattern_double -%}
+    {%- if attr_parts.size > 1 -%}
+      {%- assign new_temp = attr_parts[0] -%}
+      {%- for part in attr_parts offset: 1 -%}
+        {%- assign quote_parts = part | split: '"' -%}
+        {%- if quote_parts.size > 1 -%}
+          {%- assign attr_value = quote_parts[0] -%}
+          {%- if attr_value contains name_to_replace -%}
+            {%- assign placeholder = '___PROTECTED_ATTR_' | append: attr_counter | append: '___' -%}
+            {%- assign original_attr = attr_pattern_double | append: attr_value | append: '"' -%}
+            {%- assign attr_pair = placeholder | append: '|||' | append: original_attr -%}
+            {%- assign protected_attributes = protected_attributes | push: attr_pair -%}
+            {%- assign new_temp = new_temp | append: placeholder -%}
+            {%- assign attr_counter = attr_counter | plus: 1 -%}
+            {%- for remaining in quote_parts offset: 1 -%}
+              {%- if forloop.first -%}
+                {%- assign new_temp = new_temp | append: remaining -%}
+              {%- else -%}
+                {%- assign new_temp = new_temp | append: '"' | append: remaining -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- else -%}
+            {%- assign new_temp = new_temp | append: attr_pattern_double | append: part -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- assign new_temp = new_temp | append: attr_pattern_double | append: part -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- assign temp_content = new_temp -%}
+    {%- endif -%}
+    
+    {%- comment -%}Process single-quoted attributes{%- endcomment -%}
+    {%- assign attr_parts = temp_content | split: attr_pattern_single -%}
+    {%- if attr_parts.size > 1 -%}
+      {%- assign new_temp = attr_parts[0] -%}
+      {%- for part in attr_parts offset: 1 -%}
+        {%- assign quote_parts = part | split: "'" -%}
+        {%- if quote_parts.size > 1 -%}
+          {%- assign attr_value = quote_parts[0] -%}
+          {%- if attr_value contains name_to_replace -%}
+            {%- assign placeholder = '___PROTECTED_ATTR_' | append: attr_counter | append: '___' -%}
+            {%- assign original_attr = attr_pattern_single | append: attr_value | append: "'" -%}
+            {%- assign attr_pair = placeholder | append: '|||' | append: original_attr -%}
+            {%- assign protected_attributes = protected_attributes | push: attr_pair -%}
+            {%- assign new_temp = new_temp | append: placeholder -%}
+            {%- assign attr_counter = attr_counter | plus: 1 -%}
+            {%- for remaining in quote_parts offset: 1 -%}
+              {%- if forloop.first -%}
+                {%- assign new_temp = new_temp | append: remaining -%}
+              {%- else -%}
+                {%- assign new_temp = new_temp | append: "'" | append: remaining -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- else -%}
+            {%- assign new_temp = new_temp | append: attr_pattern_single | append: part -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- assign new_temp = new_temp | append: attr_pattern_single | append: part -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- assign temp_content = new_temp -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- comment -%}Now, temporarily replace article and video links that contain this person's name{%- endcomment -%}
   {%- assign protected_links = "" | split: "" -%}
   {%- assign link_counter = 0 -%}
   
@@ -205,6 +280,14 @@ while ensuring clean, valid HTML output.
     {%- assign placeholder = parts[0] -%}
     {%- assign original_link = parts[1] -%}
     {%- assign temp_content = temp_content | replace: placeholder, original_link -%}
+  {%- endfor -%}
+  
+  {%- comment -%}Restore the protected attributes{%- endcomment -%}
+  {%- for pair in protected_attributes -%}
+    {%- assign parts = pair | split: '|||' -%}
+    {%- assign placeholder = parts[0] -%}
+    {%- assign original_attr = parts[1] -%}
+    {%- assign temp_content = temp_content | replace: placeholder, original_attr -%}
   {%- endfor -%}
   
   {%- assign body_content = temp_content -%}

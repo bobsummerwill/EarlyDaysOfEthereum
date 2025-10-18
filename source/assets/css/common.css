@@ -557,6 +557,12 @@ img {
     margin-bottom: var(--spacing-2xl);
 }
 
+.article-content img,
+.video-content img {
+    width: 75%;
+    height: auto;
+}
+
 .article-content ul,
 .article-content ol,
 .video-content ul,
@@ -2542,6 +2548,12 @@ main {
     .video-content,
     .article-content {
         width: 100%;
+    }
+    
+    /* Make images full width on mobile in article and video pages */
+    .article-content img,
+    .video-content img {
+        width: 100% !important;
     }
 }
 

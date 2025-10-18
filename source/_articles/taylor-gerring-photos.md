@@ -15,7 +15,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ----
 *GM! 8 years ago today, I arrived at the Miami house rented by Decentral. Since I showed up unannounced and there were no more beds, my only choice was to sleep under the stars. I don't know anyone, don't have a car, and don't know what I'm there to do.* - 25th January 2014
 
-<img src="/images/personal/taylor-gerring/taylor-gerring_2014.01.25.jpeg" style="width:75%;">
+![Taylor Gerring sleeping outdoors](/images/personal/taylor-gerring/taylor-gerring_2014.01.25.jpeg)
 
 ----
 *8 years ago today, #Ethereum was formally announced in Miami. After a standing-room only talk and extended line of questions, we all shuffled into a hallway to make room for the next speaker. Joe Lubin and Anthony Di Iorio can be seen next to [Vitalik](/people/vitalik-buterin/) as the crowd encroaches* - 26th January 2014

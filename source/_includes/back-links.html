@@ -109,9 +109,105 @@ Sort content (articles and videos) chronologically by date
 {% assign sorted_content = content_backlinks | sort: "date" %}
 
 {% comment %}
+Phase 2: Auto-link reciprocal back-links
+Find content that the current page would auto-link to, and add those as reciprocal back-links
+{% endcomment %}
+{% assign current_content = page.content | append: page.title | append: page.description %}
+
+{% comment %}
+Find people that the current page would auto-link to
+{% endcomment %}
+{% for person in site.people %}
+  {% if person.url != current_url %}
+    {% comment %}Check if current page content contains this person's name (would create auto-link){% endcomment %}
+    {% if person.name and person.name != "" and current_content contains person.name %}
+      {% comment %}Add this person as a reciprocal back-link{% endcomment %}
+      {% assign already_exists = false %}
+      {% for existing in people_backlinks %}
+        {% if existing.url == person.url %}
+          {% assign already_exists = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% unless already_exists %}
+        {% assign people_backlinks = people_backlinks | push: person %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Find articles that the current page would auto-link to
+{% endcomment %}
+{% assign autolink_backlinks = "" | split: "" %}
+{% for article in site.articles %}
+  {% if article.url != current_url %}
+    {% assign would_be_linked = false %}
+    
+    {% comment %}Check if current page would auto-link to this article by title{% endcomment %}
+    {% if article.title and article.title != "" and current_content contains article.title %}
+      {% assign would_be_linked = true %}
+    {% endif %}
+    
+    {% comment %}Check if current page would auto-link to this article by alias{% endcomment %}
+    {% if article.alias and article.alias != "" and current_content contains article.alias %}
+      {% assign would_be_linked = true %}
+    {% endif %}
+    
+    {% if would_be_linked %}
+      {% comment %}Check if this article isn't already in the backlinks{% endcomment %}
+      {% assign already_exists = false %}
+      {% for existing in content_backlinks %}
+        {% if existing.url == article.url %}
+          {% assign already_exists = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% unless already_exists %}
+        {% assign autolink_backlinks = autolink_backlinks | push: article %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Find videos that the current page would auto-link to
+{% endcomment %}
+{% for video in site.videos %}
+  {% if video.url != current_url %}
+    {% comment %}Check if current page would auto-link to this video by title{% endcomment %}
+    {% if video.title and video.title != "" and current_content contains video.title %}
+      {% comment %}Check if this video isn't already in the backlinks{% endcomment %}
+      {% assign already_exists = false %}
+      {% for existing in content_backlinks %}
+        {% if existing.url == video.url %}
+          {% assign already_exists = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% for existing in autolink_backlinks %}
+        {% if existing.url == video.url %}
+          {% assign already_exists = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% unless already_exists %}
+        {% assign autolink_backlinks = autolink_backlinks | push: video %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Merge auto-link back-links with content back-links and sort chronologically
+{% endcomment %}
+{% assign all_content_backlinks = content_backlinks | concat: autolink_backlinks %}
+{% assign sorted_content = all_content_backlinks | sort: "date" %}
+
+{% comment %}
 Display back-links section if any were found
 {% endcomment %}
-{% assign total_backlinks = content_backlinks.size | plus: people_backlinks.size %}
+{% assign total_backlinks = all_content_backlinks.size | plus: people_backlinks.size %}
 {% if total_backlinks > 0 %}
 <div class="back-links-section">
   <h2>Back-links</h2>
@@ -127,8 +223,9 @@ Display back-links section if any were found
     </li>
     {% endfor %}
     
-    {% comment %}Then display people{% endcomment %}
-    {% for backlink in people_backlinks %}
+    {% comment %}Then display people alphabetically{% endcomment %}
+    {% assign sorted_people = people_backlinks | sort: "name" %}
+    {% for backlink in sorted_people %}
     <li>
       <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
       {% if backlink.collection %}

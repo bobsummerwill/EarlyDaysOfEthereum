@@ -1,8 +1,8 @@
 ---
 name: Jason Carver
-description: Senior Staff Engineer
+description: Python & Rust Core Developer
 start: May 2017
-end: present
+end: July 2025
 social:
   github: https://github.com/carver
   twitter: https://x.com/jasoncarver

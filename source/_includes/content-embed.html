@@ -38,6 +38,11 @@
             <span class="no-auto-link-marker">{{ include.title }}</span>
           </div>
         {% endif %}
+        {% if include.description %}
+          <div class="blog-embed-description content-embed-description">
+            {{ include.description }}
+          </div>
+        {% endif %}
         {% if include.author or include.date %}
           <div class="content-embed-metadata">
             {% if include.author %}by {% assign matched_person = nil %}{% for person in site.people %}{% if person.name == include.author %}{% assign matched_person = person %}{% break %}{% endif %}{% endfor %}{% if matched_person %}<a href="{{ matched_person.url }}" class="blog-embed-author content-embed-author-link">{{ include.author }}</a>{% else %}<span class="blog-embed-author">{{ include.author }}</span>{% endif %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}

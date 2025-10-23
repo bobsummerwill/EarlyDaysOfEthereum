@@ -28,48 +28,64 @@ title: Articles
 
 <div class="articles-list">
     {% for article in sorted_articles %}
-    <article class="article-preview">
-        <h2>
-          <a href="{{ article.url }}">
-            {% if article.lowercase_title %}{{ article.lowercase_title }}{% else %}{{ article.title }}{% endif %}{% if article.alias %} ("{{ article.alias }}"){% endif %}
-          </a>
-        </h2>
-        
-        <div class="article-meta">
-            {% if article.date %}
-                <time datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%B %d, %Y" }}</time>
-            {% endif %}
-            {% if article.author %}
-                {% assign person_found = false %}
-                {% assign person_url = '' %}
-                {% assign person_display_name = article.author %}
-                {% for person in site.people %}
-                  {% if person.name == article.author %}
-                    {% assign person_found = true %}
-                    {% assign person_url = person.url %}
-                    {% assign person_display_name = person.name %}
-                  {% endif %}
-                {% endfor %}
-                by
-                {% if person_found %}
-                  <a href="{{ person_url }}">{{ person_display_name }}</a>
-                {% else %}
-                  {{ article.author }}
-                {% endif %}
-            {% endif %}
-        </div>
-        
-        {% if article.description %}
-        <p class="article-description">
-            {% include auto_link.html content=article.description %}
-        </p>
+    <div class="article-card">
+        {% if article.img %}
+            <div class="article-thumbnail">
+                <a href="{{ article.url }}">
+                    <img src="{{ article.img }}" alt="{{ article.title }}" />
+                </a>
+            </div>
+        {% elsif article.embed.img %}
+            <div class="article-thumbnail">
+                <a href="{{ article.url }}">
+                    <img src="{{ article.embed.img }}" alt="{{ article.title }}" />
+                </a>
+            </div>
         {% else %}
-        <p class="article-excerpt">
-            {% assign excerpt = article.content | strip_html | truncatewords: 50 %}
-            {% include auto_link.html content=excerpt %}
-        </p>
+            <div class="article-thumbnail-placeholder"></div>
         {% endif %}
-    </article>
+        
+        <div class="article-info">
+            <h3><a href="{{ article.url }}">{% if article.lowercase_title %}{{ article.lowercase_title }}{% else %}{{ article.title }}{% endif %}{% if article.alias %} ("{{ article.alias }}"){% endif %}</a></h3>
+            
+            <div class="article-meta">
+                {% if article.date %}
+                    <span class="release-date">{{ article.date | date: "%B %d, %Y" }}{% if article.author %} by {% endif %}</span>
+                {% endif %}
+                {% if article.author %}
+                    {% assign person_found = false %}
+                    {% assign person_url = '' %}
+                    {% assign person_display_name = article.author %}
+                    {% for person in site.people %}
+                      {% if person.name == article.author %}
+                        {% assign person_found = true %}
+                        {% assign person_url = person.url %}
+                        {% assign person_display_name = person.name %}
+                      {% endif %}
+                    {% endfor %}
+                    {% if person_found %}
+                      <a href="{{ person_url }}">{{ person_display_name }}</a>
+                    {% else %}
+                      {{ article.author }}
+                    {% endif %}
+                {% endif %}
+            </div>
+            
+            {% if article.description %}
+            <p class="article-description">
+                {% include auto_link.html content=article.description %}
+            </p>
+            {% else %}
+            <p class="article-excerpt">
+                {% assign excerpt = article.content | strip_html | truncatewords: 50 %}
+                {% assign excerpt_parts = excerpt | split: '##' %}
+                {% assign clean_excerpt = excerpt_parts[0] | strip %}
+                {% include auto_link.html content=clean_excerpt %}
+            </p>
+            {% endif %}
+            
+        </div>
+    </div>
     {% endfor %}
     
     {% if site.articles.size == 0 %}

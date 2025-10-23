@@ -3,6 +3,7 @@ title: "Taylor Gerring Photos"
 date: 2014-01-25
 author: "Taylor Gerring"
 description: "A collection of photographs from Taylor Gerring documenting the early days of Ethereum, from the Miami Bitcoin Conference through the team's time in Switzerland."
+img: /images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg
 ---
 
 In 2022, Taylor Gerring posted a series of photos from the early days of Ethereum on Twitter and then gathered those into a single thread to celebrate the 10th Anniversary in 2025.  This article aggregates the photos and their captions into a single article, together with links to the profiles of individuals who are mentioned.

@@ -29,7 +29,7 @@
   {% if page.collection == 'people' %}
     {% assign seo_image = "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png" %}
   {% elsif page.collection == 'videos' %}
-    {% comment %} For videos, try to extract thumbnail from embed URL {% endcomment %}
+    {% comment %} For videos, use the exact same logic as videos index page {% endcomment %}
     {% if page.img %}
       {% assign seo_image = page.img %}
     {% elsif page.embed.url %}
@@ -40,12 +40,12 @@
       {% elsif embed_url contains 'vimeo.com/video/' %}
         {% assign video_id = embed_url | split: '/video/' | last | split: '?' | first %}
         {% assign seo_image = "https://vumbnail.com/" | append: video_id | append: ".jpg" %}
-      {% else %}
-        {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
       {% endif %}
-    {% else %}
-      {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
     {% endif %}
+    {% comment %} Only use default image if no video-specific image found {% endcomment %}
+    {% unless seo_image %}
+      {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
+    {% endunless %}
   {% else %}
     {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
   {% endif %}

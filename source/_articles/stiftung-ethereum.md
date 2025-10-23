@@ -4,6 +4,7 @@ alias: Ethereum Foundation
 date: 2014-07-13
 author: "Bob Summerwill"
 description: 'Stiftung Ethereum is a non-profit organization which was incorporated in Zug in July 2014.  It is more commonly known by its English name - the Ethereum Foundation.'
+img: /images/archive.org/ethereum.org/20160304212822/about-the-ethereum-foundation.png
 ---
 
 Stiftung Ethereum (commonly known in the English-speaking world as the Ethereum Foundation) is a non-profit company which was incorporated in Zug, Switzerland, on 13th July 2014 by Vitalik Buterin, Taylor Gerring and Mihai Alisie.  Ethereum project legal activities which had previously been organized under the for-profit EthSuisse legal entity were quickly transitioned to the Stiftung after its formation in the aftermath of the "Red Wedding".

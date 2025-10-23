@@ -4,6 +4,7 @@ alias: "EthSuisse"
 date: 2014-02-28
 author: "Bob Summerwill"
 description: 'Ethereum Switzerland GmbH was a for-profit "Ethereum Company" which was incorporated in Zug in February 2014'
+img: https://swisscryptojay.ch/wp-content/uploads/2023/03/swisscryptojay-eth-ethereum-coin-krypto-1.jpg
 ---
 
 Ethereum Switzerland GmbH (commonly known as "EthSuisse") was a for-profit company which was incorporated in Zug, Switzerland, on 28th February 2014 by Mihai Alisie and Swiss local Herbert Sterchi.

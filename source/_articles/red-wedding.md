@@ -2,7 +2,8 @@
 title: '"Red Wedding"'
 date: 2014-06-07
 author: "Bob Summerwill"
-description: 'The "Red Wedding" was the meeting at Zug in June 2014 where Charles Hoskinson and Amir Chetrit were ejected from the project'
+description: 'The "Red Wedding" was the meeting at Zug in June 2014 where Charles Hoskinson and Amir Chetrit were ejected from the project.'
+img: /images/x.com/2025.09.07/TaylorGerring/status/1531973630623633408/1531973630623633408_1.jpg
 ---
 
 In early June of 2014, all of the co-founders headed to The Spaceship in Zug.  The EthSuisse for-profit legal entity had been incorporated in Zug on 28th February 2014 by Mihai Alisie and Herbert Sterchi.  The original purpose of the trip was to have the in-person meeting required by law for the other seven co-founders to be added as officers of the for-profit legal entity.

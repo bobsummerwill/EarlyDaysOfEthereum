@@ -3,6 +3,7 @@ title: "Ethereum Timeline"
 date: 2013-12-19
 author: "Bob Summerwill"
 description: "An attempt at building up some canonical history of the Ethereum Project and the Ethereum Foundation, documenting key events, videos, and milestones from 2013-2017."
+img: https://duncan.co/wp-content/uploads/2014/04/Duncan-Rawlinson-Photo-89446-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8831-1024x576.jpg
 ---
 
 This is an attempt by [Bob Summerwill](https://bobsummerwill.com/about) (along with [Ethereum Foundation People](https://bobsummerwill.com/ethereum-foundation-people/)) at building up some canonical history of the Ethereum Project and the Ethereum Foundation.

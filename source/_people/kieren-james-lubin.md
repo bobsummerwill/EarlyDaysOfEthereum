@@ -3,7 +3,6 @@ name: Kieren James-Lubin
 description: Haskell client developer, Co-Founder of BlockApps
 photo: /images/berkeley.edu/2025.09.02/kieren-james-lubin.jpeg
 start: Mar 2014
-end: present
 social:
   twitter: https://x.com/kjameslubin
   linkedin: https://www.linkedin.com/in/kjameslubin/

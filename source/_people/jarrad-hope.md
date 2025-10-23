@@ -2,7 +2,6 @@
 name: Jarrad Hope
 photo: /images/theorg.com/2025.08.25/org/status/org-chart/jarrad-hope/jarrad-hope-headshot.jpg
 start: Mar 2014
-end: present
 social:
   github: https://github.com/0xc1c4da
   twitter: https://x.com/jarradhope_

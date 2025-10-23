@@ -3,13 +3,14 @@ name: Konrad Feldmeier
 description: Python client developer
 photo: /images/youtube.com/BvvUlKDqp0/headshots/konrad-feldmeier.png
 start: Mar 2014
-end: present (but never in the EF)  Nov 2015 to Mar 2017
 devcon0: '1721'
 social:
   github: https://github.com/konradkonrad
 ---
 
 Konrad worked for Brainbot on the Python client and attended at DEVCON0.
+
+Commits to the Python codebase between Nov 2015 to Mar 2017
 
 He was a primary contributor to [pyethapp](https://github.com/ethereum/pyethapp/commits?author=konradkonrad), [pythereum](https://github.com/ethereum/pyethereum/commits?author=konradkonrad) and [HydraChain](https://github.com/HydraChain/hydrachain/commits?author=konradkonrad) repositories in 2015 to 2017.
 

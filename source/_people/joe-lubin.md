@@ -3,7 +3,6 @@ name: Joe Lubin
 description: Ethereum co-Founder, CEO and Founder, ConsenSys
 photo: /images/archive.org/ethereum.org/20140701165441/lubin-joseph.jpg
 start: Jan 2014
-end: present
 devcon0: '1747'
 social:
   linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/

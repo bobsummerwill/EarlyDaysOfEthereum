@@ -5,7 +5,7 @@ author: Laura Shin
 description: "The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze.  The story of the idealists, technologists, and opportunists fighting to bring cryptocurrency to the masses."
 embed:
   url: https://www.amazon.com/Cryptopians-Idealism-Greed-Making-Cryptocurrency/dp/1541763017/
-  img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617718780i/57356067.jpg
+  img: /images/booksamillion.com/2025.10.23/the-cryptopians.webp
   site: PublicAffairs Books
 ---
 

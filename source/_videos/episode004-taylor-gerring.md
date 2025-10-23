@@ -14,9 +14,8 @@ Ethereum OG and "co Founder" Taylor Gerring joined us as a guest to talk about h
 
 Bob Summerwill hosted this episode with Kieren James-Lubin commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
-%}
-
 ## Transcript
+
 [[3:09]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=189s) **Bob:** Welcome everyone, so yeah, really happy to have Taylor Gerring here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor](/people/taylor-gerring/)
 
 [[4:25]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=265s) **Taylor:** Hello, everybody and thank you very much for that kind introduction Bob, and appreciate everybody.  I'm honored to join you guys and maybe add a little bit to the story.  Fill in some gaps in the history that people might be wondering and do whatever I can do to get some chuckles out of the audience!

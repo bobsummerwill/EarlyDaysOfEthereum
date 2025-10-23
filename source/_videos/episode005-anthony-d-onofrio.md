@@ -8,8 +8,6 @@ embed:
   url: https://www.youtube.com/embed/vITKYMJ30xw
 ---
 
-%}
-
 ## Transcript
 
 <div class="table-of-contents">

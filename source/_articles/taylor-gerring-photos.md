@@ -494,11 +494,3 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 *“Happy Birthday Ethereum” – Taylor Gerring, [Jul 30, 2022](https://twitter.com/TaylorGerring/status/1685645153086676992)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1685645153086676992/1685645153086676992_1.jpg)
-
-
-<style>
-.post-content img {
-    width: 75%;
-    height: auto;
-}
-</style>

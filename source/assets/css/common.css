@@ -559,7 +559,7 @@ img {
 
 .article-content img,
 .video-content img {
-    width: 75%;
+    width: 50%;
     height: auto;
 }
 

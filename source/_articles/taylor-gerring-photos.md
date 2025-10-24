@@ -205,13 +205,16 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500086807060434945/1500086807060434945_2.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500086807060434945/1500086807060434945_3.jpg)
 
-
+{% capture hideable_section %}
 ----
 *“From work to play, the top floor of the EthSwiss Spaceship would be ground zero for all sorts of meetings.  30mm; ISO 320; f2.2; 1/30s” – Taylor Gerring, [Mar 6, 2022](https://twitter.com/TaylorGerring/status/1500488265681485824)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500488265681485824/1500488265681485824_1.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500488265681485824/1500488265681485824_2.jpg)
-
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ----
 *“When life was filled with banalities the friendships we forged over rounds of beers pulled us through.  ISO 100; 30mm; f2.2; 1/30s” – Taylor Gerring, [Mar 7, 2022](https://twitter.com/TaylorGerring/status/1501008670951362560)*
@@ -246,9 +249,13 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 *“We had only been in the Spaceship for a few days, but you know what that meant?! Time for a party!!!” – Taylor Gerring, [Mar 9, 2022](https://twitter.com/TaylorGerring/status/1501581511287574533)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_1.jpg)
+{% capture hideable_section %}
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_2.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_3.jpg)
-
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ----
 *“While the Spaceship was extravagant in a way that none of us had experienced before, we made the best of otherwise mediocre resources. [Mathias](/people/mathias-gronnebaek/) brought an old projector, which we used for meetings, ambiance & entertainment” – Taylor Gerring, [Mar 10, 2022](https://twitter.com/TaylorGerring/status/1502115261238984749)*
@@ -264,6 +271,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1502444317067120643/1502444317067120643_1.jpg)
 
 
+{% capture hideable_section %}
 ----
 *“[Charles](/people/charles-hoskinson/) would scribble on the windows with a whiteboard marker to illustrate some of the things he would claim. Eventually, I asked myself what he was trying to convey” – Taylor Gerring, [Mar 12, 2022](https://twitter.com/TaylorGerring/status/1502794007952384011)*
 
@@ -271,6 +279,10 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1502794007952384011/1502794007952384011_2.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1502794007952384011/1502794007952384011_3.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1502794007952384011/1502794007952384011_4.jpg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ----
 *“Some chill pictures from Zug in 2014 for a relaxing Sunday. I was really intrigued by this school’s architecture and we passed by it whenever we went to town” – Taylor Gerring, [Mar 13, 2022](https://twitter.com/TaylorGerring/status/1503053208347942913)*
@@ -321,11 +333,16 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ![Early Ethereum team photo](/images/imgur.com/2025.09.07/charles-hoskinson-sleeping-on-floor-with-susanne-tarkowski-tempelhof-bottle-of-cristal-9WCA2/t3JPlYR.jpeg)
 
 
+{% capture hideable_section %}
 ----
 *“Outside vs. Inside” – Taylor Gerring, [Mar 21, 2022](https://twitter.com/TaylorGerring/status/1505907792267329547)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1505907792267329547/1505907792267329547_1.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1505907792267329547/1505907792267329547_2.jpg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ----
 *“In the beginning of living in the Spaceship, we constantly had trouble with mail delivery. Finally, it was decided we needed a street sign. A story of iteration in 3 pics” – Taylor Gerring, [Mar 22, 2022](https://twitter.com/TaylorGerring/status/1506282868305276930)*
@@ -340,15 +357,23 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1506952511231471619/1506952511231471619_1.jpg)
 
-
+{% capture hideable_section %}
 ----
 *“GM to all the mfers that burn the midnight oil” – Taylor Gerring, [Mar 28, 2022](https://twitter.com/TaylorGerring/status/1508455498626093063)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1508455498626093063/1508455498626093063_1.jpg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
-
+{% capture hideable_section %}
 ----
 *“GM & Happy Saturday! 🥱 Everything in life is a scam except frens & family. Bullish on connection” – Taylor Gerring, [Apr 2, 2022](https://twitter.com/TaylorGerring/status/1510249764683763717)*
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1510249764683763717/1510249764683763717_1.jpg)
 

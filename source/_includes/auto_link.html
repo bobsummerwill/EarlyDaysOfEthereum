@@ -50,7 +50,49 @@ while ensuring clean, valid HTML output.
   {%- assign body_content = new_body -%}
 {%- endif -%}
 
-{%- comment -%}Process hidden people links first - replace explicit links to hidden people with [REDACTED]{%- endcomment -%}
+{%- comment -%}Process hidden content links first - replace explicit links to hidden people and articles with [REDACTED]{%- endcomment -%}
+
+{%- comment -%}Handle hidden articles{%- endcomment -%}
+{%- for article in site.articles -%}
+  {%- if article.hidden -%}
+    {%- assign article_url_pattern = article.url | append: '"' -%}
+    {%- assign article_url_pattern_slash = article.url | append: '/"' -%}
+    
+    {%- assign parts = body_content | split: '<a href="' -%}
+    {%- assign new_content = "" -%}
+    {%- for part in parts -%}
+      {%- if forloop.first -%}
+        {%- assign new_content = part -%}
+      {%- else -%}
+        {%- if part contains article_url_pattern or part contains article_url_pattern_slash -%}
+          {%- assign close_tag_parts = part | split: '</a>' -%}
+          {%- if close_tag_parts.size > 1 -%}
+            {%- assign link_start = close_tag_parts[0] -%}
+            {%- if link_start contains article.url -%}
+              {%- assign new_content = new_content | append: '[REDACTED]' -%}
+              {%- for remaining_part in close_tag_parts offset: 1 -%}
+                {%- if forloop.first -%}
+                  {%- assign new_content = new_content | append: remaining_part -%}
+                {%- else -%}
+                  {%- assign new_content = new_content | append: '</a>' | append: remaining_part -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- else -%}
+              {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- assign new_content = new_content | append: '<a href="' | append: part -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign body_content = new_content -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- comment -%}Handle hidden people{%- endcomment -%}
 {%- for person in site.people -%}
   {%- if person.hidden -%}
     {%- comment -%}Handle links with various formats - we need to replace the entire <a>...</a> tag{%- endcomment -%}

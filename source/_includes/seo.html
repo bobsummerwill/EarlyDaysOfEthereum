@@ -51,9 +51,12 @@
   {% endif %}
 {% endunless %}
 
-{% comment %} Skip social metadata for hidden profiles to prevent privacy leaks {% endcomment %}
+{% comment %} Skip social metadata for hidden profiles and articles to prevent privacy leaks {% endcomment %}
 {% assign skip_social_meta = false %}
 {% if page.collection == 'people' and (page.hidden == true or page.hidden == 'true') %}
+  {% assign skip_social_meta = true %}
+{% endif %}
+{% if page.collection == 'articles' and (page.hidden == true or page.hidden == 'true') %}
   {% assign skip_social_meta = true %}
 {% endif %}
 

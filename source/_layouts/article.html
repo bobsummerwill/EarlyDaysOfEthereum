@@ -8,6 +8,17 @@ layout: default
     </div>
 </nav>
 
+{% if page.hidden %}
+  <script>
+    (function() {
+      var params = new URLSearchParams(window.location.search);
+      if (params.get('hidden') !== 'false') {
+        window.location.replace('/404.html');
+      }
+    })();
+  </script>
+{% endif %}
+
 <article itemscope itemtype="https://schema.org/Article">
     <header{% if page.source_url %} class="has-embed"{% endif %}>
         <h1 itemprop="headline">

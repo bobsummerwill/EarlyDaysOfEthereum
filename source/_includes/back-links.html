@@ -19,7 +19,7 @@ Expects page.url to be set (automatically available in layouts)
 Search through all articles for references to current page
 {% endcomment %}
 {% for article in site.articles %}
-  {% if article.url != current_url %}
+  {% if article.url != current_url and article.hidden != true and article.hidden != 'true' %}
     {% comment %}Check if article content or title links to current page{% endcomment %}
     {% assign content_with_fm = article.content | append: article.title | append: article.description %}
     {% assign found_match = false %}
@@ -81,7 +81,7 @@ Search through all videos for references to current page
 Search through all people for references to current page
 {% endcomment %}
 {% for person in site.people %}
-  {% if person.url != current_url %}
+  {% if person.url != current_url and person.hidden != true and person.hidden != 'true' %}
     {% comment %}Check person content and description{% endcomment %}
     {% assign person_content = person.content | append: person.description | append: person.name %}
     {% assign found_match = false %}
@@ -118,7 +118,7 @@ Find content that the current page would auto-link to, and add those as reciproc
 Find people that the current page would auto-link to
 {% endcomment %}
 {% for person in site.people %}
-  {% if person.url != current_url %}
+  {% if person.url != current_url and person.hidden != true and person.hidden != 'true' %}
     {% comment %}Check if current page content contains this person's name (would create auto-link){% endcomment %}
     {% if person.name and person.name != "" and current_content contains person.name %}
       {% comment %}Add this person as a reciprocal back-link{% endcomment %}
@@ -141,7 +141,7 @@ Find articles that the current page would auto-link to
 {% endcomment %}
 {% assign autolink_backlinks = "" | split: "" %}
 {% for article in site.articles %}
-  {% if article.url != current_url %}
+  {% if article.url != current_url and article.hidden != true and article.hidden != 'true' %}
     {% assign would_be_linked = false %}
     
     {% comment %}Check if current page would auto-link to this article by title{% endcomment %}

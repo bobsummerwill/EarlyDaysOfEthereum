@@ -6,6 +6,25 @@ hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "After a long hiatus since episode 3, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."
 embed:
   url: https://www.youtube.com/embed/PSA1hWb7y9A
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction and Taylor's background"
+  - link: "#bitcoin-ethereum"
+    title: "Discovery of Bitcoin and Ethereum"
+  - link: "#miami-conference"
+    title: "Miami conference and meeting the team"
+  - link: "#zug-switzerland"
+    title: "Early days in Zug, Switzerland"
+  - link: "#multi-client"
+    title: "Multi-client development and the yellow paper"
+  - link: "#web3-vision"
+    title: "Vision for Ethereum and Web3"
+  - link: "#daos-governance"
+    title: "DAOs and governance"
+  - link: "#red-wedding"
+    title: "The Red Wedding and Foundation formation"
+  - link: "#ming-devcon1"
+    title: "Ming Chan era and DEVCON1"
 ---
 
 After a long hiatus since [Episode 3](/videos/episode003/) in November 2023, we returned with another episode of The Early Days of Ethereum.
@@ -14,7 +33,11 @@ Ethereum OG and "co Founder" Taylor Gerring joined us as a guest to talk about h
 
 Bob Summerwill hosted this episode with Kieren James-Lubin commenting a few times. Bob and Taylor overlapped at the Ethereum Foundation in 2016 and Taylor and Kieren's paths crossed in some of these early months of the project.
 
+<!-- TABLE_OF_CONTENTS -->
+
 ## Transcript
+
+<h3 id="introduction">Introduction and Taylor's background</h3>
 
 [[3:09]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=189s) **Bob:** Welcome everyone, so yeah, really happy to have Taylor Gerring here as a guest.  Back in late 2023 Kieren, Victor and Jim did a couple of videos on the early days of Ethereum which I absolutely loved, being an Ethereum history buff as I am, and I made a whole load of notes on those sufficient that they invited me on as guest on the third edition so I made a bunch of notes on that again.  So we were talking through our own experiences from 2014 onwards to around late 2017.  But yeah, just thought especially with the 10th anniversary that it would be great to have an OG on to talk about the early days and you don't get a lot more OG than Taylor.  So welcome, [Taylor](/people/taylor-gerring/)
 
@@ -31,6 +54,8 @@ But, yeah, I left there to go to Chicago and got a lot of great experience in th
 [[7:21]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=441s) **Bob:**  I mean, were you like a libertarian, a cypherpunk, a gold bug, a prepper, any of that kind of flavor?
 
 [[7:34]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=454s) **Taylor:**  You know, honestly, I kind of had a little bit of a heads up about politics and the whole left versus right thing and trying to step away from that. But I had not really gotten into the super libertarian stuff. I wasn't really a precious metal guy.  It was really once I discovered Bitcoin and really understood it and those principles that we all kind of take to heart once we finally joined the cult. That really stumbling upon Bitcoin is when I most embraced those kind of ideals, if you will, and certainly hold a lot of those still close to me today, even though it feels like as a whole industry or whatever, we're kind of out of practice. A lot of people just don't really think about the decentralization side, but that is definitely part of what drew me in was the idea that wasn't controlled and that we all are contributing. And even some more esoteric ideas like living in Holons, like alternative communities and stuff.  I'm fascinated by all that stuff. I recognize there's some practical limitations with modern society on making that work.
+
+<h3 id="bitcoin-ethereum">Discovery of Bitcoin and Ethereum</h3>
 
 [[8:50]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=530s) **Bob:**  Yeah, yeah. So, I mean, how long were you a Bitcoiner before you heard about Ethereum?
 
@@ -65,6 +90,8 @@ But once I learned about Ethereum, I found it really, really hard to want to kee
 [[16:15]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=975s) **Taylor:** Yeah and kind of to your point, it would be great to capture that because especially with 10 years in the past I know not all these memories are being perfectly remembered.  You know our brains are kind of faulty and it'd be nice to get some of it down in video or or books or whatever just to capture all that for future posterity
 
 [[16:37]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=997s) **Bob:** Yeah, yeah, for sure.  So I mean, you mentioned Miami there, so Bitcoin Miami was late January 2014 and very early February where [Vitalik](/people/vitalik-buterin/) had his sort of announcing Ethereum first presentation at a conference and then that was where I guess many of you got together to meet each other physically for the first time after a month or two of interactions. How was that?
+
+<h3 id="miami-conference">Miami conference and meeting the team</h3>
 
 [[17:10]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1030s) **Taylor:** A little nerve-wracking for a shy computer nerd to just meet up with a bunch of randos. And I was kind of there with [Wendell](/people/wendell-davis/) and his group. And then he had told us about these other people that rented a house.  I don't think any of us had sorted rooms or figured out where we're staying, and it was kind of like just turning into a crash space. So, like, I didn't know hardly anybody.  I was keeping to myself a lot. But it did turn out to be a very important time and place to be in the historical story of Ethereum. There were the vast majority of, I'd say, like some of the earliest people that had huge influences on Ethereum's eventual launch.  A lot of those people got together physically for the first time there. I believe Jeff Wilcke was not able to go, but a lot of the other Europeans came over stateside for that.  And that was the first time that I met and sat down with [Vitalik](/people/vitalik-buterin/), and we started working on some of the very basic ideas of what the website crowdsale sort of situation would need be, although that all eventually changed.
 
@@ -145,6 +172,8 @@ One of the things I one of the fun stories I remember is dealing with the German
 
 Thinking about setting up a server for Gavin.  We were crammed in a tiny little apartment and he wanted something set up and i didn't do it fast enough and i definitely heard a little bit from him and i probably could have been faster but i didn't realize he was kind of just waiting on the other end for me.  So yeah it was it was just very interesting.  I was in my own little bubble with the Switzerland crew but then uh gosh it was probably only a few weeks before we got moved up and out into a larger house and and things became much more complicated much more quickly.
 
+<h3 id="zug-switzerland">Early days in Zug, Switzerland</h3>
+
 [[27:00]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1620s) **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
 {% capture hideable_section %}
@@ -200,6 +229,8 @@ But, yeah, it was like the app was being developed. Who built the app that gener
 
 [[33:41]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2021s) **Bob:** Yeah, because, I mean, what was happening during those months was the parallel development of three different clients, right? You've got Pyethapp that [Vitalik](/people/vitalik-buterin/) was working on.  You've got Geth that Jeff was leading and then Gav building cpp-ethereum and stacking out the yellow paper. I mean, Jesus, Gav did so much work in those three months.  Like, absolutely insane to get to the yellow paper so fast from there. So, yeah, I can imagine it was just heads down and did not really want to talk to, have people, chewing his time up.
 
+<h3 id="multi-client">Multi-client development and the yellow paper</h3>
+
 [[34:20]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2060s) **Taylor:**  It felt like having [Vitalik](/people/vitalik-buterin/) doing coding in Switzerland gave us a better balance because when [Vitalik](/people/vitalik-buterin/) visited Berlin or Amsterdam, it felt like the code went in the direction of wherever two of the three main developers were.
 
 **Bob:**  Yeah.
@@ -222,6 +253,8 @@ So it's a really hard thing to do. I mean, other industries certainly, like, the
 
 [[42:33]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2553s) **Bob:**  Yeah, no, I mean, I think it's, yeah, a very sort of exceptional situation and event. and maybe you could say what do you think might come out of Ethereum what do you think could be built what were your thoughts on how this might pan out in an ideal sense?
 
+<h3 id="web3-vision">Vision for Ethereum and Web3</h3>
+
 [[42:56]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2576s) **Taylor:**  Ethereum generally? Is that what you're asking? How Ethereum would pan out?
 
 [[43:02]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2582s) **Bob:**  Yeah, I mean what do you think Ethereum was going to be? What did you think these efforts could lead to?
@@ -239,6 +272,8 @@ I mean it's kind of what we joke we call Web3 but I think it had a more concrete
 Yeah. And there's there's, you know, I mean, actually, I just don't hear that much about IPFS lately. Like it doesn't feel like the demand for censor proof everything on the Internet is that strong right now.  Something would have to happen for there to be really big uptake and need again? People have to your point kind of forgotten that part. And it may happen again.  I mean, like the we see pretty strong speech controls coming out of the EU, especially as regards the Internet. So we might see another wave.  But even the the attempts that sort of a crypto native social have all been about financialization versus uncensorability, the ones that have caught on to some degree.  And financialization is also just really important, you know. but yeah so I guess I'm saying so maybe it's you know it's not the complete original vision but it's not his fault it's sort of like where the demand went in my opinion.
 
 [[49:38]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=2978s) **Taylor:**  What about do you either you guys this wasn't a part of my original question but I'm looking at the photos here and I don't know in one case I kind of feel like the area that Ethereum failed a little bit was the whole DAOification of various aspects. Ethereum itself never really became a DAO.  We tried The DAO and that had famously a bug that we had to have like a white hat hacker group help recover funds from. And then a lot of DAOs get set up today, which are essentially just money funnels. I don't know, maybe it was too out there of an idea, maybe not concrete enough for anything to be considered and reconciled as a DAO, but the whole turning things into a DAO just never seemed to transpire, even though it was technically possible with just a compute layer.
+
+<h3 id="daos-governance">DAOs and governance</h3>
 
 [[50:30]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=3030s) **Kieren:**  You know, and I'll throw it over to Bob in a second, but I think it didn't happen. I agree. And I know both of you were kind of heavily involved with the Foundation, which could have pushed that along harder or been sort of a legal brick-and-mortar host for the DAO as opposed to whatever it is and was.  And we've seen a couple kind of work. It seems like the DeFi DAOs are okay, and they may be a little bit centralized in decision-making and so on, but they actually seem to serve a purpose, and sometimes they're kind of, like, intimately involved in the protocols.  I think of, like, the Aave DAO or the Uniswap DAO, et cetera. So, like, people have been able to achieve it, and it's on Ethereum, right? And so, like, why didn't Ethereum itself achieve it?  Also, I mean, there's things that could be done that aren't. Like, we could take stake-weighted votes on things, for instance. And I think it's never really been done other than staking itself.  And I don't know why. Like, I think maybe later entrants sort of had to do it from a transparency perspective. But, you know, the will, I think it's a will thing more than anything.  You know, everyone, one, it's like a really intense effort just to keep the network up and so on. And then it got really big and you didn't want to change it, kind of et cetera, et cetera.  So, yeah, I agree it didn't happen. And I think it could have happened and I don't know. You know, there's definitely a gap there. And I don't really know the why.
 
@@ -266,6 +301,8 @@ And the DAO question I think maybe it's as simple as that people don't care abou
 
 [[57:04]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=3424s) **Bob:** That's right. So, yeah, talking about the "Red Wedding" or really just really the birth of the Ethereum Foundation, right? Because you were a director on that at the start of the Ethereum Foundation.  So how did all that, like, resolve into what came out of that in the form of the...
 
+<h3 id="red-wedding">The Red Wedding and Foundation formation</h3>
+
 [[57:29]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=3449s) **Taylor:**  Yeah, so I had the dates clicked away on my timeline. But the best way that I remembered the story was there was unease cropping up with Charles, who seemed to have kind of lost the trust of the people that he claimed to want to be leading.  And Amir Chetrit, who a lot of people, myself or included, were kind of asking what contribution is this guy giving other than just being given a title of founder?  Because he was supposed to be responsible for all the stuff that I was actually doing, and he wasn't really involved, like wasn't somebody I reported up to in any way. and I think those kind of those conversations came to a head when he was wearing swag of a different organization in Toronto when we had that Bitcoin Expo 2014 and I ended up in the basement of the office there on the phone with like a Cloudflare type company to provide DDoS protection and I'm just like I don't understand why I'm on the phone having the big boy meeting and Amir, who's supposed to be doing this, is not.
 
 So I think just kind of the frustrations rose and it got to a point where some hard decisions had to be made because the organization definitely was not moving forward.  Charles, I think on his part, was a little bit more on the let's set this up like Google, and make it a corporation, and I was definitely more on the side of open source and making it available to everybody.  So I don't know what kind of, like, weight that had in [Vitalik](/people/vitalik-buterin/)'s head when he was making his decisions, but it felt like, to me, in hindsight, it felt like a huge exhale after that whole incident happened.
@@ -287,6 +324,8 @@ And I think I have a picture of being on the back patio where we kind of all cra
 We ended up signing some docs on a train one time to resign our positions from the board. And to the best of my knowledge the board never been faithfully repopulated.  There been a couple of times where some other people have been brought onto the board but I don think the board ever really been truly flushed out in that way.  Maybe that doesn't matter now, but the three of us were the first ones that actually created the entity, and that served as kind of the goalpost that we were aiming for and the legal restrictions we were going to abide by.
 
 Switzerland was treating us really, really well up until that point and they offered us some very favorable incentives to continue our progress there and I think that's worked out well for them. They've become like a crypto valley in a way.  The cottage industry's popped up around it.  So I think it all worked out in the end.
+
+<h3 id="ming-devcon1">Ming Chan era and DEVCON1</h3>
 
 [[1:03:28]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=3808s) **Bob:**  So yeah. So, not to go on too much longer, but the next phase was the phase of [Ming](/people/ming-chan/).  So, [Ming](/people/ming-chan/) arrived in 2015, right?
 

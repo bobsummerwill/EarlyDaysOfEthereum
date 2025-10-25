@@ -6,26 +6,34 @@ hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Anthony D'Onofrio ('Texture') was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."
 embed:
   url: https://www.youtube.com/embed/vITKYMJ30xw
+table_of_contents:
+  - link: "#introductions-small-talk"
+    title: "Introductions & Small Talk"
+  - link: "#texture-background"
+    title: "Texture's Background: Peace, Love, Human & Decentralized Dance Party"
+  - link: "#the-vision"
+    title: "The Vision: Initial Thoughts on Ethereum"
+  - link: "#early-days-skype-group"
+    title: "The Early Days: The Skype Group and White Paper"
+  - link: "#technical-idealism-ux"
+    title: "The Problem with Technical Idealism & User Experience"
+  - link: "#neurodiversity"
+    title: "Neurodiversity in Early Crypto"
+  - link: "#miami-house-charles"
+    title: "The Miami House & Charles Hoskinson"
+  - link: "#palace-politics"
+    title: "Palace Politics"
+  - link: "#ethereum-foundation-structure"
+    title: "The Ethereum Foundation: Structure and Criticism"
 ---
 
 ## Transcript
 
-<div class="table-of-contents">
-    <h2>Contents</h2>
-    <ul>
-        <li><a href="#introductions-small-talk">Introductions & Small Talk</a></li>
-        <li><a href="#texture-background">Texture's Background: Peace, Love, Human & Decentralized Dance Party</a></li>
-        <li><a href="#the-vision">The Vision: Initial Thoughts on Ethereum</a></li>
-        <li><a href="#early-days-skype-group">The Early Days: The Skype Group and White Paper</a></li>
-        <li><a href="#technical-idealism-ux">The Problem with Technical Idealism & User Experience</a></li>
-        <li><a href="#neurodiversity">Neurodiversity in Early Crypto</a></li>
-        <li><a href="#miami-house-charles">The Miami House & Charles Hoskinson</a></li>
-        <li><a href="#palace-politics">Palace Politics</a></li>
-        <li><a href="#ethereum-foundation-structure">The Ethereum Foundation: Structure and Criticism</a></li>
-    </ul>
-</div>
+<!-- TABLE_OF_CONTENTS -->
 
-<a id="introductions-small-talk"></a>
+<h3 id="introductions-small-talk">Introductions & Small Talk</h3>
+
+
 
 [[1:19]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=79s) **Bob:**
 Can you hear me?  Can you hear me?
@@ -132,7 +140,9 @@ Accidental success. Fantastic.
 [[6:32]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=392s) **Jaime:**
 Great stuff.
 
-<a id="texture-background"></a>
+<h3 id="texture-background">Texture's Background: Peace, Love, Human & Decentralized Dance Party</h3>
+
+
 
 [[6:33]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=393s) **Bob:**
 Well, let's get going, eh?  Hi, [Texture](/people/anthony-d-onofrio/).  How are you? It's been a while.
@@ -229,7 +239,9 @@ Yeah, Gary's a great guy.
 [[11:04]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=664s) **Texture:**
 He's pretty fun.
 
-<a id="the-vision"></a>
+<h3 id="the-vision">The Vision: Initial Thoughts on Ethereum</h3>
+
+
 
 [[11:10]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=670s) **Bob:**
 So tell me about the vision that you had, which was then the same as the white paper. Because on the Twitter thread, I was wrongly saying your mind was blown by the Ethereum white paper, where actually what happened was that you'd had a vision of this about a week before, and then the white paper landed on your lap. So what the hell was that about?
@@ -254,7 +266,9 @@ I don't know. I don't know anybody. I don't know anything.  And he said, well, h
 [[15:23]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=923s) **Bob:**
 Yeah. Yeah.
 
-<a id="early-days-skype-group"></a>
+<h3 id="early-days-skype-group">The Early Days: The Skype Group and White Paper</h3>
+
+
 
 [[15:26]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=926s) **Texture:**
 So then, yeah, so he forwarded me the white paper. I looked at it, you know, to me, it wasn't as comprehensive as the vision that I had. But I thought, you know, this is [kismet](https://www.dictionary.com/browse/kismet), you know, right?
@@ -385,7 +399,9 @@ Yeah.
 [[25:12]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=1512s) **Bob:**
 Yeah, it's just nutty.  So, but then it's like, I realized it's like hierarchy isn't the problem, being trapped in a hierarchy where it's to your detriment and you can't get out is the problem.
 
-<a id="technical-idealism-ux"></a>
+<h3 id="technical-idealism-ux">The Problem with Technical Idealism & User Experience</h3>
+
+
 
 [[25:24]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=1524s) **Texture:**
 Yeah. Yeah, and a lot of, I think a lot of times what happens in that is smart people, you know, smart people aren't really, they don't really understand not smart people. And so what happens is we are born into a world where these preexisting hierarchies exist and they've, you know, to some degree or another, you know, kind of persisted through generation after generation.
@@ -424,7 +440,9 @@ Yeah. And I, you know, after I became a father, I became really a huge proponent
 
 But you're going to have to keep me on topic as much as you want to, because I am a meanderer.
 
-<a id="neurodiversity"></a>
+<h3 id="neurodiversity">Neurodiversity in Early Crypto</h3>
+
+
 
 [[30:04]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=1804s) **Bob:**
 Yeah. On this human side, something I talked about during my "maple syrup peace phase" was neurodiversity and the fact that normies would not be involved in the early phases of such a project, right? It's absolutely crazy to go and do what you did.  It's crazy what most people did.
@@ -584,7 +602,9 @@ The type of people who show up and are just wanting to build the thing. Cause it
 
 But when they show up and they're like, yeah, let's fucking, uh, let's make sure it's us. Let's make sure we're the ones let's like, fuck those people. Let's not communicate with them.  So there was a lot of like political maneuvering that was required to survive.
 
-<a id="miami-house-charles"></a>
+<h3 id="miami-house-charles">The Miami House & Charles Hoskinson</h3>
+
+
 
 [[41:39]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=2499s) **Bob:**
 Yeah. And I mean, I guess that Miami house was where that really like dug in, cause that was the first time that most people were physically in the same location out of that.
@@ -884,7 +904,9 @@ Yeah, yeah, for sure. I mean, it was something which came up, I think, through s
 [[1:09:47]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=4187s) **Texture:**
 Yeah, I don't know. That didn't happen to me, praise [Vitalik](/people/vitalik-buterin/).
 
-<a id="palace-politics"></a>
+<h3 id="palace-politics">Palace Politics</h3>
+
+
 
 [[1:09:53]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=4193s) **Bob:**
 No, no. It's all right for you early guys. But yeah, what else they have noted?

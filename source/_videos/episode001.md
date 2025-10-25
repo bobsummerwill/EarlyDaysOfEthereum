@@ -8,11 +8,40 @@ links:
     url: "https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/"
 embed:
   url: https://www.youtube.com/embed/V2BJX9OkDNo
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction and early Bitcoin awareness"
+  - link: "#meeting-the-founders"
+    title: "How the co-founders met"
+  - link: "#discovering-ethereum"
+    title: "Discovering Ethereum and the white paper"
+  - link: "#zug-trip"
+    title: "The Zug trip and Ethereum Foundation drama"
+  - link: "#haskell-client"
+    title: "Building the Haskell client"
+  - link: "#crowd-sale"
+    title: "The Ethereum crowd sale"
+  - link: "#post-crowdsale"
+    title: "Post-crowdsale development"
+  - link: "#cryptoeconomicon"
+    title: "Crypto Economicon conference"
+  - link: "#client-race"
+    title: "The client development race"
+  - link: "#launch-pressure"
+    title: "Launch pressure and deadline changes"
+  - link: "#consensys-blockapps"
+    title: "ConsenSys, BlockApps, and hackathons"
+  - link: "#mining-launch"
+    title: "Mining and the Ethereum launch"
 ---
 
 The first episode of the Early Days of Ethereum video series, independently produced by Victor Wong, Kieren James-Lubin and Jim Hormuzdiar, the co-Founders of [BlockApps](https://blockapps.net).
 
+<!-- TABLE_OF_CONTENTS -->
+
 ## Transcript
+
+<h3 id="introduction">Introduction and early Bitcoin awareness</h3>
 
 [[0:00]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=0s) **Kieren:**  Ready. So we're on. Thanks. So my name is Kieren James-Lubin. I'm joined by [Jim](/people/james-hormuzdiar/) or James Hormuzdiar and Victor Wong.
 
@@ -145,6 +174,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[13:46]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=826s) **Jim:**  It does happen sometimes.
 
+<h3 id="meeting-the-founders">How the co-founders met</h3>
+
 [[13:49]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=829s) **Kieren:**  Segueing quickly, can you guys go into how you met, because you guys met first, and then we can do the whole how we all met.
 
 **Victor:** Yeah, Jim, do I want to start, or do you want to start?
@@ -182,6 +213,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 [[17:44]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1064s) **Jim:**  Something like that. Yeah, we were back at, when did we come back? I guess we were back in the country in 2013. But like January.
 
 **Kieren:** Let me, I'll segue, I'm trying to keep it slightly chronological to keep everything in my mind here consistent. So I was in grad school at Berkeley between 2012 and really 2015, I got to start working on Ethereum kind of purely by accident.  Maybe not purely by accident, but basically I had passed my qualifying exam, I'm going to say spring 2014 or maybe May, April or May 2014.
+
+<h3 id="discovering-ethereum">Discovering Ethereum and the white paper</h3>
 
 [[18:35]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1115s) **Kieren:**  So for those who are not aware of how a PhD program works, qualifying exam is like one of the last things you need to do before you just do the research and produce the thesis. So sometimes it's a coursework requirement. Sometimes you need to, you know, translate a work from like an academic work from one language to another to show proficiency. I think most of them have dropped those requirements at this point. And so, you know, it's a whole bunch of study, intense prep at Berkeley. It's a three-hour oral exam with a couple people from your department and one from an external department and then they give you a pass or not.  I got a pass thankfully it was a i don't know that it was it was everyone feels bad after their qualifying exam except the people who are really good right like and you know so, while I passed, it was like you know didn't feel great at least the rest of that day
 
@@ -285,6 +318,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[37:58]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2278s) **Kieren:**  He did some work on that. So anyway, so those were the eight at the time. And there was a meeting for everyone to kind of get on the same page.
 
+<h3 id="zug-trip">The Zug trip and Ethereum Foundation drama</h3>
+
 [[38:10]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2290s) **Kieren:**  You know, remote project, there was a Slack. People were maybe working a little bit at cross purposes. There's lots of infighting. People are stressed. They're trying to deliver on this, like, awesome concept that [Vitalik](/people/vitalik-buterin/) put out there.
 
 [[38:24]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2304s) **Kieren:**  And then everyone kind of tried to grab ownership of, like, was there a reason to have all these different clients? You know, in the end, empirically, it worked, right? But a little bit of it was a I want, you know, Ethereum to be mine, sort of thing.
@@ -346,6 +381,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 [[44:02]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2642s) **Kieren:**  But, yes, I think the big, other than some Zug, you know, basically what we saw, or let me see, there was growing momentum around the project.
 
 [[44:13]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2653s) **Kieren:**  Lots of people all over the world kind of working on it. Stuff was probably not tightly papered. There's no employment agreements probably at that time. It was like, but there was really intense excitement, and, I think, the belief that everyone was going to be mega successful out of it one way or another. It's been kind of interesting to watch.  [Jim](/people/james-hormuzdiar/), do you want to talk about getting into it? I alluded to all the different clients of Ethereum and the reason why there was more than one.  Do you want to tell your report of that part now?
+
+<h3 id="haskell-client">Building the Haskell client</h3>
 
 [[44:53]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=2693s) **Jim:**  Well, this part of the story, you know, when you were doing all that stuff I was too busy driving around the country But I came back.
 
@@ -512,6 +549,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 [[1:02:54]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=3774s) **Kieren:**  I'm sure he could procure whatever he likes. But, you know, it was funny times for sure. He's probably put some really nice couches nowadays. Really nice couches.
 
 [[1:03:03]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=3783s) **Jim:**  I would hope.
+
+<h3 id="cryptoeconomicon">Crypto Economicon conference</h3>
 
 [[1:03:05]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=3785s) **Kieren:**  Yeah. But so I can't even remember quite how we got the idea, but we were talking about, for whatever reason, a bunch of people were going to be in the Bay Area late January 2015.
 
@@ -735,6 +774,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[1:28:09]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5289s) **Kieren:**  Can you kind of go into our, you know, anything you remember from that time?
 
+<h3 id="launch-pressure">Launch pressure and deadline changes</h3>
+
 [[1:28:14]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5294s) **Jim:**  It would have continued except for a bit of unluck that in a way was lucky, is what ended up happening is Bitcoin crashed at that time. And it really put the fire under everybody's feet.
 
 [[1:28:28]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5308s) **Jim:**  that they had to get this thing out immediately because their holdings were in Bitcoin. And so I think if that hadn't happened, there wouldn't have been the pressure to push it out right then and there, and they might have just kept adding and modifying indefinitely after that.
@@ -806,6 +847,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 [[1:34:50]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5690s) **Jim:**  I had never been to Williamsburg or Bushwick and it was sort of moving in various locations there so I used to love coming and hanging out at the offices
 
 [[1:34:59]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5699s) **Kieren:**  It was, yeah, it was, Contestas got the famous office on Bogart, but first was at an office by the water in Williamsburg. In Greenport.
+
+<h3 id="consensys-blockapps">ConsenSys, BlockApps, and hackathons</h3>
 
 [[1:35:10]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=5710s) **Kieren:**  It was in Greenport. I remember getting completely lost at one point in finding it.
 
@@ -918,6 +961,8 @@ The first episode of the Early Days of Ethereum video series, independently prod
 [[1:45:44]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=6344s) **Kieren:**  I remember us furiously, and just the uncertainty of the launch, I remember we had many, many conversations, like, is this thing ever going to launch?
 
 [[1:45:55]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=6355s) **Kieren:**  We weren't sure if it would happen. Yeah. Do you remember? Okay, let's talk quickly about the mining that we did. And this is all for the company, you know, but do you recall what we did at that time?
+
+<h3 id="mining-launch">Mining and the Ethereum launch</h3>
 
 [[1:46:15]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=6375s) **Kieren:**  Yeah, I totally remember. So I remember, well, at some point up to the launch, we realized, okay, if we were going to help businesses or other groups build applications on Ethereum, we would need Ether to be able to pay for gas for those transactions.
 

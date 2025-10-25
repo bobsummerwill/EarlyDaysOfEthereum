@@ -8,12 +8,39 @@ links:
     url: "https://bobsummerwill.com/2023/10/17/the-early-days-of-ethereum-videos/"
 embed:
   url: https://www.youtube.com/embed/FsCilArdlMg
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction and recap"
+  - link: "#first-dappathon"
+    title: "First Consensus Dappathon (June 2015)"
+  - link: "#ethereum-launch"
+    title: "Second Dappathon and Ethereum Launch"
+  - link: "#post-launch"
+    title: "Post-launch period and early activity"
+  - link: "#devcon1-microsoft"
+    title: "DevCon 1 and Microsoft announcement"
+  - link: "#enterprise-adoption"
+    title: "Corporate inbound and enterprise adoption"
+  - link: "#the-dao"
+    title: "The DAO and its hack"
+  - link: "#consensus-conference"
+    title: "First Consensus conference and Hyperledger"
+  - link: "#devcon2-shanghai"
+    title: "DevCon 2 in Shanghai"
+  - link: "#eea-formation"
+    title: "Enterprise Ethereum Alliance formation"
+  - link: "#eea-launch"
+    title: "EEA launch and closing thoughts"
 ---
 
 The second episode of the Early Days of Ethereum video series, independently produced by [Victor Wong](https://x.com/vic4wong), [Kieren James-Lubin](https://x.com/kjameslubin) and [Jim Hormuzdiar](https://x.com/JamshidHormuz), the co-Founders of [BlockApps](https://blockapps.net).
 
 
+<!-- TABLE_OF_CONTENTS -->
+
 ## Transcript
+
+<h3 id="introduction">Introduction and recap</h3>
 
 [[0:00]](https://www.youtube.com/watch?v=FsCilArdlMg&t=0s) **Kieren:**
 All right. Well, welcome back, everybody. The first episode of the early days of Ethereum actually got quite good critical reception on LinkedIn and Twitter.
@@ -32,6 +59,8 @@ I'm James Ramos-Diaz, or Jim, CTO and co-founder of BlockApps.
 All right. Thank you. And so I believe where we left, so I can't watch video of myself.
 
 So I forget exactly how we ended the last episode, but I believe we pretty much ended with the Ethereum launch. And there were some things we left out even prior to launch that we can kind of backtrack to a little bit, and then go forward to all of the kind of after launch activity. So with that said, maybe I'll hand it to Victor to talk about the first Consensus Dappathon, which was June, 2015, I believe.
+
+<h3 id="first-dappathon">First Consensus Dappathon (June 2015)</h3>
 
 [[1:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=98s) **Victor:**
 Yeah. So that was, I think the first actual hackathon building what in those days were known as Dapps. I guess some people still call it, but that seems to go now in favor with blockchain applications.
@@ -75,6 +104,8 @@ And it was us, the Java client, which I think was called Ethercap at that time, 
 But it introduced a lot of ideas that would become more developed pretty quickly. The winner was a GameFi app. It really had that element of tokenized gameplay.
 
 There was a decentralized social app, I think, called Truthr or something like that. And then there was a traceability supply chain app in those early days. And that kind of all coincided with the launch of Ethereum.
+
+<h3 id="ethereum-launch">Second Dappathon and Ethereum Launch</h3>
 
 [[4:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=299s) **Kieren:**
 Yeah. So, okay. So you're talking about the second one.
@@ -152,6 +183,8 @@ Yeah.
 [[8:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=535s) **Jim:**
 Yeah. That's very funny.
 
+<h3 id="post-launch">Post-launch period and early activity</h3>
+
 [[8:56]](https://www.youtube.com/watch?v=FsCilArdlMg&t=536s) **Kieren:**
 The Slack is the treasure trove of interesting things. All right. So yeah, so it launched and I kind of felt like there was a sort of, and then what's going on, you know, it took a little time for things to get going.
 
@@ -213,6 +246,8 @@ That's very interesting.
 
 [[16:06]](https://www.youtube.com/watch?v=FsCilArdlMg&t=966s) **Victor:**
 I remember I was talking to them at some point and they were developing that. They did want to be a day one dApp, I remember.
+
+<h3 id="devcon1-microsoft">DevCon 1 and Microsoft announcement</h3>
 
 [[16:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=974s) **Kieren:**
 Platform went live 2018, the Wikipedia page says, but they did the crowd sale basically right away. So should we go on to DevCon 1, which I guess I can talk about. So kind of concurrently while all this is happening, we started to work a bunch.
@@ -370,6 +405,8 @@ Yeah. You never know really what's causing price action, but.
 [[27:11]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1631s) **Jim:**
 I I'm, I'm joking, but I just remember like sort of the mentality within was that until it was up to $20, people thought it was a flop and somehow when it hit $20, everybody around me all of a sudden got really excited then.
 
+<h3 id="enterprise-adoption">Corporate inbound and enterprise adoption</h3>
+
 [[27:25]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1645s) **Kieren:**
 Yeah. The average person, you know, buys high, sells low. So yeah.
 
@@ -397,6 +434,8 @@ And do you remember, like, I think they presented, but I can't, I'm having a har
 So Slocket was this sort of IOT kind of strange thing that you could unlock a lock, but they, it was structured around what actually became the DAO. Like they, I think they invented the concept, not the concept, but I think they practically created a DAO in order to run this lock. And then they realized, well, you know, I think they realized, well, we don't actually need the lock.
 
 Like the DAO is the most important thing and the lock, the actual lock thing is not that interesting. So yeah, it was 100% the same people. Like they were introducing both ideas at the same time.
+
+<h3 id="the-dao">The DAO and its hack</h3>
 
 [[30:05]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1805s) **Kieren:**
 So let me, let me transition into the DAO part. I'm going to go slightly out of order here. So Victor, what was the DAO?
@@ -450,6 +489,8 @@ So I remember there was a, at this time, and we had to implement this in our sof
 Or do you stick true to the absolute, you know, immutability of, you know, in the classic blockchain sense where, you know, it's totally buyer beware, shouldn't have put your ether in this contract if you weren't going to, you know, if you weren't prepared to lose it. And the refund group one, you know, so in a sense, both like Ethereum, Bitcoin, really all the projects are governed to an extent, right, by the people who develop the software and kind of on an ongoing basis discuss additions to the protocol, you know, et cetera, et cetera. Right.
 
 And, you know, even in the early days of Bitcoin, I was not really around for this, but supposedly they had to be extremely creative about having, about keeping the protocol running while not ever reverting any of the history. Right. So I don't believe
+
+<h3 id="consensus-conference">First Consensus conference and Hyperledger</h3>
 
 [[41:02]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2462s) **Victor:**
 Yeah, I found it from CoinDesk. Let me see if I can still find them. But so what I remember of it is that it was, I think it was one of the first CoinDesk consensus events, which, you know, subsequently became huge.
@@ -530,6 +571,8 @@ Yeah, yeah. I remember this one.
 [[48:18]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2898s) **Victor:**
 And here I am sitting in the middle of it over here, but yes. But yeah, it grew really, really rapidly.
 
+<h3 id="devcon2-shanghai">DevCon 2 in Shanghai</h3>
+
 [[48:30]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2910s) **Kieren:**
 Alrighty. Close to rounding up here, but got a couple more things. So things are moving along.
 
@@ -552,6 +595,8 @@ So.
 I do remember. It was like transactions that slowed the clients down being created. Right.
 
 And yeah, I think like, I guess it was like due to the way the data structures worked to some extent, it was like hard to make them process fast. I can't recall, but yeah, it was funny that it was right around that time. Also, okay, Tim, go ahead.
+
+<h3 id="eea-formation">Enterprise Ethereum Alliance formation</h3>
 
 [[50:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3034s) **Jim:**
 Well, the funny thing that I sort of remember is like, and maybe you're about to talk about this, but the EA was sort of formed during that conference and Victor somehow in the morning grabbed me and he's like, I've got all these meetings and I'd like you to come along too. But I was like, I had my laptop and I was like trying to dig into the tech with all the stuff that was going on there. So I sort of sat in the corner in this coffee shop and I was like a programming all day.
@@ -661,6 +706,8 @@ Right. So no one wanted to connect to the public net at that time. It's definite
 And, you know, so there was not a lot of technological reuse going on in, you know, the the duct tape that, you know, various enterprises were putting on the software to make it work for their needs, probably most notable in that set of enterprises was JP Morgan, which we can, you know, talk about in more detail. But a lot of them were doing it, folks at the innovation lab at Santander, who we know pretty well, were doing their own thing. You know, it was quite a quite interesting to observe the goings on.
 
 And do you remember, okay, so there were like a couple face to face meetings that were like very hush hush. I think Microsoft some of them around the launch of the EEA. So you've kind of napkinned out the idea in Starbucks, but then what was the next thing that happened?
+
+<h3 id="eea-launch">EEA launch and closing thoughts</h3>
 
 [[1:01:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3715s) **Victor:**
 So then there were a bunch, there were a series of meetings that were kind of really about structuring. So like, how did we want to structure this organization? And, you know, what composition should be like, should it be all big companies?

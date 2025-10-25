@@ -1,6 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 3 - Bob Summerwill"
 date: 2023-11-08
+show: true
 guests: ["Bob Summerwill"]
 hosts: ["Victor Wong", "Kieren James-Lubin", "James Hormuzdiar"]
 description: "In the third installment, Bob Summerwill joined the co-Founders of BlockApps as a guest while he was still working as Executive Director of the ETC Cooperative."

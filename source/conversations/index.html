@@ -1,40 +1,35 @@
 ---
 layout: default
-title: Videos
+title: Conversations
 ---
 <!--
-  Videos Index Page
+  Conversations Index Page
   =========================
-  This page lists all video episodes in the Early Days of Ethereum site.
+  This page lists video episodes marked as conversations (show: true) in the Early Days of Ethereum site.
   - Jekyll Collections: https://jekyllrb.com/docs/collections/
   - Liquid Templating: https://shopify.github.io/liquid/
 -->
 
 
-<h1>Videos</h1>
+<h1>Conversations</h1>
 
 <p>
-  Video episodes documenting the early days of Ethereum, featuring interviews with key participants and historical insights.
+  Video conversations documenting the early days of Ethereum, featuring key participants and historical insights.
 </p>
 
 {% assign sorted_videos = site.videos | sort: 'date' %}
-{% assign non_interview_videos = "" | split: "" %}
-{% for video in sorted_videos %}
-  {% unless video.show == true %}
-    {% assign non_interview_videos = non_interview_videos | push: video %}
-  {% endunless %}
-{% endfor %}
+{% assign conversation_videos = sorted_videos | where: 'show', true %}
 
 <div class="stats">
-    {{ non_interview_videos.size }} videos
+    {{ conversation_videos.size }} conversations
 </div>
 
 <!--
-  Videos List Section: Grid of video cards.
+  Conversations List Section: Grid of video cards.
   - CSS Grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 -->
 <div class="videos-list">
-    {% for video in non_interview_videos %}
+    {% for video in conversation_videos %}
     <div class="video-card">
         {% if video.img %}
             <div class="video-thumbnail">
@@ -88,7 +83,7 @@ title: Videos
     </div>
     {% endfor %}
     
-    {% if non_interview_videos.size == 0 %}
-    <p class="no-content">No video episodes have been added yet. Check back soon!</p>
+    {% if conversation_videos.size == 0 %}
+    <p class="no-content">No conversation episodes have been added yet. Check back soon!</p>
     {% endif %}
 </div>

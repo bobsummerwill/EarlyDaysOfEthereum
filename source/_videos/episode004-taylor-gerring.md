@@ -1,6 +1,7 @@
 ---
 title: Early Days of Ethereum - Episode 4 - Taylor Gerring
 date: 2025-08-08
+show: true
 guests: ["Taylor Gerring"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "After a long hiatus since episode 3, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."

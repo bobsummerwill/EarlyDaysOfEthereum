@@ -71,6 +71,7 @@
     {% assign video_pages = "/" | split: "," %}
     {% assign video_pages = video_pages | push: "/people/" %}
     {% assign video_pages = video_pages | push: "/videos/" %}
+    {% assign video_pages = video_pages | push: "/conversations/" %}
     {% assign video_pages = video_pages | push: "/articles/" %}
     {% assign video_pages = video_pages | push: "/grid/" %}
     {% assign show_video = false %}
@@ -81,6 +82,8 @@
     {% elsif page.url contains "/people/" %}
       {% assign show_video = true %}
     {% elsif page.url contains "/videos/" %}
+      {% assign show_video = true %}
+    {% elsif page.url contains "/conversations/" %}
       {% assign show_video = true %}
     {% endif %}
     {% if show_video %}
@@ -100,8 +103,9 @@
         <nav class="site-nav-flex">
             <ul class="site-nav site-nav-list">
                 <li><a href="/people/">People</a> (<a href="/grid/">Grid</a>)</li>
-                <li><a href="/videos/">Videos</a></li>
                 <li><a href="/articles/">Articles</a></li>
+                <li><a href="/videos/">Videos</a></li>
+                <li><a href="/conversations/">Conversations</a></li>
             </ul>
         </nav>
         <style>

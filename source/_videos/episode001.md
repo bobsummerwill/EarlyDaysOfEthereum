@@ -1,6 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 1"
 date: 2023-08-28
+show: true
 hosts: ["Victor Wong", "Kieren James-Lubin", "James Hormuzdiar"]
 description: "The first episode of the Early Days of Ethereum video series, independently produced by the co-Founders of BlockApps."
 links:

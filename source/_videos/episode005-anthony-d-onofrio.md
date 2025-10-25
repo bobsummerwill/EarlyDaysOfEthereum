@@ -1,6 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 5 - Anthony 'Texture' D'Onofrio"
 date: 2025-09-03
+show: true
 guests: ["Anthony D'Onofrio"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Anthony D'Onofrio ('Texture') was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."

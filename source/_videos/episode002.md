@@ -1,6 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 2"
 date: 2023-10-09
+show: true
 hosts: ["Victor Wong", "Kieren James-Lubin", "James Hormuzdiar"]
 description: "The second episode of the Early Days of Ethereum video series, continuing the exploration of Ethereum's founding period."
 links:

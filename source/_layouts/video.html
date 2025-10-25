@@ -138,7 +138,22 @@ layout: default
       - Jekyll Content Variable: https://jekyllrb.com/docs/variables/#content
     -->
     <div class="video-content">
-        {% include auto_link.html content=content %}
+        {% if page.table_of_contents and page.table_of_contents.size > 0 %}
+            {% capture toc_html %}
+            <div class="table-of-contents">
+                <h2>Contents</h2>
+                <ul style="margin-left: 2em;">
+                    {% for item in page.table_of_contents %}
+                    <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endcapture %}
+            {% assign content_with_toc = content | replace: '<!-- TABLE_OF_CONTENTS -->', toc_html %}
+            {% include auto_link.html content=content_with_toc %}
+        {% else %}
+            {% include auto_link.html content=content %}
+        {% endif %}
     </div>
     
     {% if page.links %}

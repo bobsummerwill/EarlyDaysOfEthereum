@@ -15,55 +15,55 @@ The second episode of the Early Days of Ethereum video series, independently pro
 
 ## Transcript
 
-[Speaker 1] (0:00 - 0:48)
+[[0:00]](https://www.youtube.com/watch?v=FsCilArdlMg&t=0s) **Kieren:**
 All right. Well, welcome back, everybody. The first episode of the early days of Ethereum actually got quite good critical reception on LinkedIn and Twitter.
 
 I have a total of nine YouTube subscribers now, which I think is not so bad for a first video. And there have been a few people who reached out who we've known a long time who really appreciated the content. One of them called it essential viewing.
 
 So anyway, we're back for another episode. So remind everybody, I'm Kieran James Levin, CEO of BlockApps, here with my co-founders. Victor, do you want to introduce yourself quickly?
 
-[Speaker 2] (0:48 - 0:54)
+[[0:48]](https://www.youtube.com/watch?v=FsCilArdlMg&t=48s) **Victor:**
 Oh, okay. I'm Victor Wong, co-founder and chief product officer of BlockApps.
 
-[Speaker 3] (0:55 - 1:01)
+[[0:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=55s) **Jim:**
 I'm James Ramos-Diaz, or Jim, CTO and co-founder of BlockApps.
 
-[Speaker 1] (1:01 - 1:37)
+[[1:01]](https://www.youtube.com/watch?v=FsCilArdlMg&t=61s) **Kieren:**
 All right. Thank you. And so I believe where we left, so I can't watch video of myself.
 
 So I forget exactly how we ended the last episode, but I believe we pretty much ended with the Ethereum launch. And there were some things we left out even prior to launch that we can kind of backtrack to a little bit, and then go forward to all of the kind of after launch activity. So with that said, maybe I'll hand it to Victor to talk about the first Consensus Dappathon, which was June, 2015, I believe.
 
-[Speaker 2] (1:38 - 2:13)
+[[1:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=98s) **Victor:**
 Yeah. So that was, I think the first actual hackathon building what in those days were known as Dapps. I guess some people still call it, but that seems to go now in favor with blockchain applications.
 
 So the first idea was to really try to build blockchain applications directly on Ethereum. And that was in the first Consensus office, which was like a very small co-working space in like Greenpoint, I think.
 
-[Speaker 1] (2:14 - 2:20)
+[[2:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=134s) **Kieren:**
 It was water in Williamsburg. It was called Green Desks, maybe.
 
-[Speaker 2] (2:21 - 2:22)
+[[2:21]](https://www.youtube.com/watch?v=FsCilArdlMg&t=141s) **Victor:**
 Green Desks. Yeah, that's right. Yeah.
 
-[Speaker 3] (2:22 - 2:26)
+[[2:22]](https://www.youtube.com/watch?v=FsCilArdlMg&t=142s) **Jim:**
 It's right next to the modern day Domino Park, maybe a block away from there.
 
-[Speaker 1] (2:27 - 2:39)
+[[2:27]](https://www.youtube.com/watch?v=FsCilArdlMg&t=147s) **Kieren:**
 Exactly. Yeah, that's right. And of course, Domino Park did not exist at that time.
 
 In fact, Domino Park went up really quickly and took me by surprise. I looked up one day and there was like a big kind of well-manicured park there.
 
-[Speaker 3] (2:40 - 2:49)
+[[2:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=160s) **Jim:**
 Yeah. Well, they kind of walled it off. And so it just was like, I don't know, I thought it was like an abandoned site.
 
 And then one day, all of a sudden the wall was gone and there was a beautiful park there.
 
-[Speaker 2] (2:53 - 3:16)
+[[2:53]](https://www.youtube.com/watch?v=FsCilArdlMg&t=173s) **Victor:**
 So at that event, which was, I think, two months, two to three months before the actual launch of I will say, the concepts were really interesting. People were coming up and it was mostly, I think, interns that were interning at ConsenSys over that summer. And ConsenSys at this point was only like maybe 20 people at max.
 
-[Speaker 1] (3:17 - 3:18)
+[[3:17]](https://www.youtube.com/watch?v=FsCilArdlMg&t=197s) **Kieren:**
 20 or 30, yeah, that seems right.
 
-[Speaker 2] (3:18 - 4:58)
+[[3:18]](https://www.youtube.com/watch?v=FsCilArdlMg&t=198s) **Victor:**
 Yeah. It was really, really small. And some great concepts came up, but even with the stuff we built, we realized pretty quickly that no one could build anything in a short period of time.
 
 It was just impossible. Very basic stuff, like reading a variable off the blockchain was kind of impossible. You couldn't read the state off the blockchain and all of this kind of stuff.
@@ -76,13 +76,13 @@ But it introduced a lot of ideas that would become more developed pretty quickly
 
 There was a decentralized social app, I think, called Truthr or something like that. And then there was a traceability supply chain app in those early days. And that kind of all coincided with the launch of Ethereum.
 
-[Speaker 1] (4:59 - 5:03)
+[[4:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=299s) **Kieren:**
 Yeah. So, okay. So you're talking about the second one.
 
-[Speaker 2] (5:03 - 5:04)
+[[5:03]](https://www.youtube.com/watch?v=FsCilArdlMg&t=303s) **Victor:**
 I'm talking about the second one, yeah.
 
-[Speaker 1] (5:04 - 5:59)
+[[5:04]](https://www.youtube.com/watch?v=FsCilArdlMg&t=304s) **Kieren:**
 The second one, also the offices had shifted. So we had ConsenSys, which we were kind of working as a part of at that time, had moved to a much larger office in Bushwick, which is, I believe they still have a presence there, though they've gone mostly remote. I remember there was like a horse lineage app.
 
 Yeah. Which was pretty interesting. And we ended up actually hiring a couple of people who participated in the hackathon, but that one was open to externals, right?
@@ -91,80 +91,80 @@ So that was the big difference. And it actually was quite well attended. The roo
 
 And I think that one was like 24 hours or it was two days. I can't remember.
 
-[Speaker 2] (5:59 - 6:29)
+[[5:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=359s) **Victor:**
 I think it was two days. And yeah, like the air conditioning thing. So we moved into that space to have the hackathon.
 
 ConsenSys was because they had outgrown that co-working space already. And so we moved into that space, which was a reasonably sized room. Like you could probably get 80 to 100 people in that room, right?
 
 But yes, the air conditioning was terrible. And we had to frantically, we only realized this after we got into the room. So we had to like frantically buy some and set them up.
 
-[Speaker 1] (6:30 - 6:31)
+[[6:30]](https://www.youtube.com/watch?v=FsCilArdlMg&t=390s) **Kieren:**
 Okay. I do have a memory of that.
 
-[Speaker 2] (6:32 - 6:43)
+[[6:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=392s) **Victor:**
 Yeah. I don't know if you recall that, but yeah, we were like trying to like get those air conditioning units in place before a ton of people showed up. Cause yeah, like we were sweating when there were only like five people in the room.
 
-[Speaker 1] (6:44 - 6:45)
+[[6:44]](https://www.youtube.com/watch?v=FsCilArdlMg&t=404s) **Kieren:**
 These were the scrappy days.
 
-[Speaker 2] (6:46 - 6:46)
+[[6:46]](https://www.youtube.com/watch?v=FsCilArdlMg&t=406s) **Victor:**
 Yeah.
 
-[Speaker 1] (6:47 - 6:56)
+[[6:47]](https://www.youtube.com/watch?v=FsCilArdlMg&t=407s) **Kieren:**
 Manually configuring air conditioning. I think the amount of like furniture assembly that you do is like a good proxy for how scrappy you are in your startup journey.
 
-[Speaker 2] (6:56 - 7:09)
+[[6:56]](https://www.youtube.com/watch?v=FsCilArdlMg&t=416s) **Victor:**
 There was a lot of furniture. I mean, it was basically an empty room when we moved in there. And I think we moved in there a day or two before the hackathon actually started.
 
 So we had to get everything up and running.
 
-[Speaker 1] (7:09 - 7:15)
+[[7:09]](https://www.youtube.com/watch?v=FsCilArdlMg&t=429s) **Kieren:**
 And was this to like sort of commemorate the launch, I think, or was it like right before the launch?
 
-[Speaker 2] (7:15 - 7:54)
+[[7:15]](https://www.youtube.com/watch?v=FsCilArdlMg&t=435s) **Victor:**
 It was right. It actually, you know, if you recall at the time, we didn't know when the launch would be. The dates were always shifting.
 
 Right. And we just said, we kind of arbitrarily chose, like we wanted to actually synchronize it with the launch, but because it was, because we couldn't know exactly when the launch was. And even when they declared the date, it was still a little bit vague.
 
 Like we were like, is that going to actually happen? So we, we kept at some point had to arbitrarily choose the date and they, they more or less was the right date. Like I think it was off by maybe a day or two.
 
-[Speaker 1] (7:55 - 8:13)
+[[7:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=475s) **Kieren:**
 Jim, I might've asked you this last episode, but I'll ask again. Do you remember one trying to predict the launch and could you explain how, and two, there was some complicated mechanism for how the launch would actually happen. Cause it's hard for like a decentralized group to decide on a launch time.
 
 I can't remember that at all.
 
-[Speaker 3] (8:13 - 8:22)
+[[8:13]](https://www.youtube.com/watch?v=FsCilArdlMg&t=493s) **Jim:**
 You were mentioning it in the last video and I didn't remember this, but I don't doubt it. It sounds correct. You were saying we were looking through the Git commits at the time.
 
 Yes.
 
-[Speaker 1] (8:22 - 8:44)
+[[8:22]](https://www.youtube.com/watch?v=FsCilArdlMg&t=502s) **Kieren:**
 You know, you make, you make this plot. It was like commits by day. And as like the commits and you like extrapolated it for you, I think probably got within a couple of days of the launch date, but okay.
 
 So I have to, yeah, I still don't know how they like set the clock on the first block, so to speak. Maybe we can like dig this up. There was something they did.
 
-[Speaker 3] (8:44 - 8:53)
+[[8:44]](https://www.youtube.com/watch?v=FsCilArdlMg&t=524s) **Jim:**
 It's probably in our DMs. I wish I thought to look between the first and second video to find the actual discussion that we had. Maybe the graph is in there.
 
-[Speaker 1] (8:54 - 8:54)
+[[8:54]](https://www.youtube.com/watch?v=FsCilArdlMg&t=534s) **Kieren:**
 Yeah.
 
-[Speaker 3] (8:55 - 8:55)
+[[8:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=535s) **Jim:**
 Yeah. That's very funny.
 
-[Speaker 1] (8:56 - 9:32)
+[[8:56]](https://www.youtube.com/watch?v=FsCilArdlMg&t=536s) **Kieren:**
 The Slack is the treasure trove of interesting things. All right. So yeah, so it launched and I kind of felt like there was a sort of, and then what's going on, you know, it took a little time for things to get going.
 
 And then, you know, it obviously it's been a smashing success, right? It's just sort of the reality of a new platform. You sort of get it out there.
 
 You see what people do, you learn from it. And, you know, it took a minute for the activity to kick in.
 
-[Speaker 3] (9:33 - 9:57)
+[[9:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=573s) **Jim:**
 I remember like a lot of people around us at the time had been buying a lot of presale Ether beforehand. And so the day it came out, I think they were expecting it to like have a huge jump in value immediately. And when like a couple of weeks had gone by and it was only still like 20 cents in Ether.
 
 So I remember people around us were kind of like, some of the people there were like, oh, this thing was a flop. It's never going to go anywhere.
 
-[Speaker 1] (9:58 - 12:58)
+[[9:58]](https://www.youtube.com/watch?v=FsCilArdlMg&t=598s) **Kieren:**
 Yeah. Yeah. And it's just psychologically.
 
 Yeah. The expectations were super high. There was this concept floating around consensus of day one dapps.
@@ -189,10 +189,10 @@ And I met him in San Francisco with Vitalik, because Vitalik was staying at what
 
 It's kind of a common thing to do.
 
-[Speaker 2] (12:58 - 13:08)
+[[12:58]](https://www.youtube.com/watch?v=FsCilArdlMg&t=778s) **Victor:**
 Well, I think if you hear the term Crypto Castle now, people would imagine an actual castle. What you're describing, which is more like a dormitory.
 
-[Speaker 1] (13:09 - 16:05)
+[[13:09]](https://www.youtube.com/watch?v=FsCilArdlMg&t=789s) **Kieren:**
 Yes, it was more like a dorm. I mean, it was a nice little house. I can't remember, it might've been like adjacent to the mission in San Francisco.
 
 So Vitalik would stay there sometimes. Joey Krug, I've probably met two or three times over the years. I'm not even sure if I ever met Jack Peterson.
@@ -211,10 +211,10 @@ It sounded very high end math, mechanistic, which it was very common of the spac
 
 That's very interesting.
 
-[Speaker 2] (16:06 - 16:13)
+[[16:06]](https://www.youtube.com/watch?v=FsCilArdlMg&t=966s) **Victor:**
 I remember I was talking to them at some point and they were developing that. They did want to be a day one dApp, I remember.
 
-[Speaker 1] (16:14 - 18:33)
+[[16:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=974s) **Kieren:**
 Platform went live 2018, the Wikipedia page says, but they did the crowd sale basically right away. So should we go on to DevCon 1, which I guess I can talk about. So kind of concurrently while all this is happening, we started to work a bunch.
 
 ConsenSys had a business development team, a little bit of a mix of marketing, BD, actual sales, et cetera, that was starting to generate interest from big companies in the technology. So for us ourselves, we definitely worked with companies far more than sort of the crypto public for most of the history of the company. Still don't really work with the crypto public today.
@@ -225,7 +225,7 @@ And I think Microsoft had already been kind of watching the Ethereum revolution 
 
 And maybe, so that ended up being basically us and the Java folks. Vic, do you want to take any, I think you were saying before?
 
-[Speaker 2] (18:33 - 21:32)
+[[18:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1113s) **Victor:**
 Yeah, sure. So they were interested in kind of being able to deploy one of the clients that we had. We had the Haskell client and then the Java folks, they were actually more interested in the Java folks.
 
 Wait, I should take a step back here. Just mentioning that DevCon1 almost didn't happen if you recall, right? Because it was in this low period and the Ethereum Foundation was kind of running out of money because this is why the launch had to happen when it happened.
@@ -250,109 +250,109 @@ There weren't really that many exchanges or anything to go on. So that's kind of
 
 And then the launch itself in London, when we got up with Microsoft, I think people were shocked that Microsoft was into it.
 
-[Speaker 1] (21:33 - 21:52)
+[[21:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1293s) **Kieren:**
 You know, so I just looked that up and didn't have in our little outline, but I had forgotten about this. So I think Coinbase listed Ether like mid-2016, right? I'm seeing May 24th, 2016.
 
 So, and I guess like Kraken was the popular exchange at the time.
 
-[Speaker 2] (21:52 - 21:54)
+[[21:52]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1312s) **Victor:**
 I think it was Poloniex.
 
-[Speaker 1] (21:54 - 21:58)
+[[21:54]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1314s) **Kieren:**
 I'm sorry, you're right. Poloniex still exists.
 
-[Speaker 2] (21:59 - 22:07)
+[[21:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1319s) **Victor:**
 And I just remember there was like the chat function on Poloniex. Like, man, like that was like crazy. Like that was Discord before there was Discord.
 
-[Speaker 1] (22:08 - 22:32)
+[[22:08]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1328s) **Kieren:**
 Oh wait, hold on. Circle bought it maybe? And then it seems to have shut it down.
 
 Anyway, I'm confused by all this. But yeah, so it was like, it was sketchy for sure. There was like a whale chat box.
 
 I never really used it, but I would like to see it on people's computers and all that sort of thing. It was, it was difficult to get it out of Ether for a while. Jim, are you going to say something?
 
-[Speaker 3] (22:33 - 22:49)
+[[22:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1353s) **Jim:**
 I'm just kind of remembering back then. Remind me, cause I'm sort of like, not sure if I've got this straight, but I sort of, I think maybe you're downplaying the Java thing a little bit. I think if I remember right, Microsoft guys were pretty mad at that time.
 
 Am I misremembering that?
 
-[Speaker 2] (22:49 - 23:23)
+[[22:49]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1369s) **Victor:**
 No, you're not. They, they, they, well, the thing is they really want something that they could pitch to companies and you know, like just, you know, companies use Java, right? So they were like, really?
 
 And so like when we kind of like, were like, like we just dropped everything and just focused on that. And I remember like we sort of had the internal mantra, like we got to get on stage and be able to write a dap in like 30 seconds. Like that was our internal mantra.
 
-[Speaker 3] (23:23 - 23:28)
+[[23:23]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1403s) **Jim:**
 They had like pre-announced something or something and then the Java guys sort of disappeared or something.
 
-[Speaker 2] (23:28 - 23:48)
+[[23:28]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1408s) **Victor:**
 Yeah. They pre-announced that, you know, they were going to show like the Java client and the Haskell client. And we were like this, we were like the runner up.
 
 Like they were like, I think they kind of accepted us because we were willing to work really hard. And the Java guy, like, I think they knew that they needed a backup.
 
-[Speaker 3] (23:49 - 24:13)
+[[23:49]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1429s) **Jim:**
 The other thing I remember about Microsoft is that there was a little bit of like a tension within there because there were the, they were just launching Azure at that time. Yeah. At the same time they had blockchain people and the blockchain people really wanted to focus on the blockchain side of it.
 
 And the Azure people wanted to like use this as a way to, to promote the new platform. So, so there was always a little bit of friction within.
 
-[Speaker 2] (24:15 - 24:46)
+[[24:15]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1455s) **Victor:**
 Yeah. I mean, like, I remember like, I think the, you know, Marley Gray was really driving those efforts inside Microsoft at the time and they were like really, really pushing it. And I remember like they were trying to get people in the room to talk to us and some of them wouldn't even come in the room.
 
 I mean, it was probably like you said, they were launching Azure. So that's a huge project. I'm sure they were just busy with other stuff, but we spent a lot of time in their New York office.
 
 I remember we were like going there all the time.
 
-[Speaker 1] (24:46 - 25:04)
+[[24:46]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1486s) **Kieren:**
 Yeah. I'm thinking the Azure launch is 2010. I checked it, but it did feel much more nascent than it is today.
 
 Like Amazon got out, AWS got out there and like took the whole market. And then Azure was kind of like in a catch-up mode, but I think it might've even like exceeded AWS revenues at some point.
 
-[Speaker 3] (25:04 - 25:11)
+[[25:04]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1504s) **Jim:**
 They were running around one of the conferences, I can't remember which one, handing out free passes to Azure, to everybody.
 
-[Speaker 2] (25:11 - 25:13)
+[[25:11]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1511s) **Victor:**
 It was that conference, DEF CON 1.
 
-[Speaker 3] (25:13 - 25:13)
+[[25:13]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1513s) **Jim:**
 Okay.
 
-[Speaker 2] (25:14 - 25:40)
+[[25:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1514s) **Victor:**
 Yeah. They were, they were handing it out and that's why they wanted to make sure we were on their marketplace. So like they could hand out this free pass and you could get the, you know, you could get our client up and running and start building something right away.
 
 And that was like a revelation to a lot of people. I remember like dozens of companies were like starting in that first week.
 
-[Speaker 3] (25:40 - 25:49)
+[[25:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1540s) **Jim:**
 Their devious plan worked on us, that we grabbed a whole bunch of free passes. And then a year later we were like giving them like $10,000 a month to stay on.
 
-[Speaker 2] (25:51 - 26:04)
+[[25:51]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1551s) **Victor:**
 It definitely works. But I don't know if you remember like the day after the Microsoft announcement, there was a spike in the price. And we were like, I think we just did.
 
-[Speaker 1] (26:05 - 26:11)
+[[26:05]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1565s) **Kieren:**
 The price, you mean the Microsoft stock price? No, no, no. I meant the Ethereum price.
 
 I think it was both actually.
 
-[Speaker 2] (26:11 - 26:12)
+[[26:11]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1571s) **Victor:**
 Yeah, I think both.
 
-[Speaker 1] (26:12 - 26:15)
+[[26:12]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1572s) **Kieren:**
 Memory of the Microsoft stock price like slightly ticking.
 
-[Speaker 2] (26:15 - 26:19)
+[[26:15]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1575s) **Victor:**
 Yeah. I think they both went up and we were like, Hey, I think we actually did that.
 
-[Speaker 3] (26:19 - 26:21)
+[[26:19]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1579s) **Jim:**
 So like either went from 20 cents to 30 cents?
 
-[Speaker 2] (26:23 - 26:33)
+[[26:23]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1583s) **Victor:**
 Uh, no, I think it actually went significantly up. I remember like, like it was, I think it might've like doubled for a day or something like that.
 
-[Speaker 3] (26:33 - 26:34)
+[[26:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1593s) **Jim:**
 20 cents to 40 cents.
 
-[Speaker 2] (26:34 - 26:39)
+[[26:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1594s) **Victor:**
 Maybe, I think it was like a dollar to a dollar 80 or I don't remember the price.
 
-[Speaker 1] (26:40 - 27:10)
+[[26:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1600s) **Kieren:**
 Check it out. It's hard to see. It's funny.
 
 The price range is like, so. Yeah. Cause the price is.
@@ -367,10 +367,10 @@ Few areas taken up like, and I think we definitely got calls related to the Micr
 
 Yeah. You never know really what's causing price action, but.
 
-[Speaker 3] (27:11 - 27:25)
+[[27:11]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1631s) **Jim:**
 I I'm, I'm joking, but I just remember like sort of the mentality within was that until it was up to $20, people thought it was a flop and somehow when it hit $20, everybody around me all of a sudden got really excited then.
 
-[Speaker 1] (27:25 - 28:05)
+[[27:25]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1645s) **Kieren:**
 Yeah. The average person, you know, buys high, sells low. So yeah.
 
 That's, that's pretty successful. It's funny. And it was still low.
@@ -379,7 +379,7 @@ Okay. So moving along kind of on the back of the enterprise announcement, sorry,
 
 Some of them were actually ready to implement something. I don't know, Vic, you took a whole lot of phone calls, you know, do you want to comment on, on any of that?
 
-[Speaker 2] (28:05 - 28:57)
+[[28:05]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1685s) **Victor:**
 I mean, it was kind of amazing. Like, like now the numbers in relative size seem pretty small, but in the first couple of months, we went from zero to like dozens of companies calling us. Right.
 
 And, and, and the amazing thing to me was they had actually tried our software, like they had played around. And like, I remember over and over people were like, oh, you know, like we've been working on a blockchain project for the last few years and haven't been able to build anything. And now we can do something.
@@ -388,23 +388,23 @@ Right. So I remember like we were getting them from financial companies and like
 
 And for the first time they had it.
 
-[Speaker 1] (28:59 - 29:25)
+[[28:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1739s) **Kieren:**
 Gotcha. Do you remember, so I believe, I'm trying to keep this straight. So I remember the, the project Slocket was sort of being marketed at DevCon1, but I believe it's a lot of the same people as the DAO.
 
 And do you remember, like, I think they presented, but I can't, I'm having a hard time keeping it straight.
 
-[Speaker 2] (29:25 - 30:04)
+[[29:25]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1765s) **Victor:**
 So Slocket was this sort of IOT kind of strange thing that you could unlock a lock, but they, it was structured around what actually became the DAO. Like they, I think they invented the concept, not the concept, but I think they practically created a DAO in order to run this lock. And then they realized, well, you know, I think they realized, well, we don't actually need the lock.
 
 Like the DAO is the most important thing and the lock, the actual lock thing is not that interesting. So yeah, it was 100% the same people. Like they were introducing both ideas at the same time.
 
-[Speaker 1] (30:05 - 30:13)
+[[30:05]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1805s) **Kieren:**
 So let me, let me transition into the DAO part. I'm going to go slightly out of order here. So Victor, what was the DAO?
 
-[Speaker 2] (30:14 - 30:50)
+[[30:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1814s) **Victor:**
 So the DAO was basically, it was kind of like a investment fund on the Ethereum blockchain, right? So basically people would put like money into this contract and this contract would basically fund, the goal of it was it would fund different projects, but it started to consume a huge amount of, you know, the overall Ether supply. I think it was as high as like 20 or 25% of the entire Ether supply got locked up into this contract.
 
-[Speaker 1] (30:51 - 32:27)
+[[30:51]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1851s) **Kieren:**
 Yeah. I'm looking on the Wikipedia right now. So the part of the reason I thought of it in this sequence is like looking at the price action.
 
 Part of it is that the supply, the extant Ether supply went down because, okay. So as of May, 2016, the DAO had attracted nearly 14% of all Ether tokens issued to date. So they ran a crowd sale and that crowd sale raised $34 million, $34 million by May 10th, 2016.
@@ -415,10 +415,10 @@ So I suppose there was some sort of virality going on. People are talking about 
 
 But they end up holding by May 21st, 2016, over $150 million in Ether from over 10,000 people, which is about, it says, according to the article, about 14% of all Ether tokens issued at that.
 
-[Speaker 2] (32:27 - 32:27)
+[[32:27]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1947s) **Victor:**
 Okay.
 
-[Speaker 1] (32:27 - 33:40)
+[[32:27]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1947s) **Kieren:**
 So it was really fast, right? It took everybody's surprise. I remember, I think I had a meeting that the enterprise folks at ConsenSys had set up with, I'm going to say the people at BVVA, I'm forgetting last names, but I think it was like Scarlett and Carlos.
 
 I don't think you went to this one, Vic, I think you were in Edtown. But they were just like, it just caught everyone's attention. It was crazy.
@@ -429,7 +429,7 @@ And it was also a cautionary tale of what was to come over the next couple of ye
 
 Do you remember anything about that beyond? It was crazy.
 
-[Speaker 2] (33:41 - 34:53)
+[[33:41]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2021s) **Victor:**
 So you had all the supply locked into this contract. And I think the hack was, like, yeah, so there was this massive race between, there was a flaw in the contract logic. And because it's immutable, the smart contract couldn't be changed, right?
 
 And when people realized there was this massive race between the people who were trying to extract the money out of the contract, and the people who actually worked on the DAO itself. So it was like and, but the people who were successful at extracting the money pulled out a lot of it. Like, I think, I don't remember the number, but I think it was like a huge amount of the value they were able to pull that out.
@@ -440,7 +440,7 @@ But no one could do anything about it. Like, they couldn't take the money out. A
 
 And no one knew what to do about this situation.
 
-[Speaker 1] (34:54 - 37:40)
+[[34:54]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2094s) **Kieren:**
 Yeah. Yeah. And so, okay.
 
 I'm kind of looking back on it. So it was, yeah, it blew up. And it also caused the creation.
@@ -449,51 +449,9 @@ So I remember there was a, at this time, and we had to implement this in our sof
 
 Or do you stick true to the absolute, you know, immutability of, you know, in the classic blockchain sense where, you know, it's totally buyer beware, shouldn't have put your ether in this contract if you weren't going to, you know, if you weren't prepared to lose it. And the refund group one, you know, so in a sense, both like Ethereum, Bitcoin, really all the projects are governed to an extent, right, by the people who develop the software and kind of on an ongoing basis discuss additions to the protocol, you know, et cetera, et cetera. Right.
 
-And, you know, even in the early days of Bitcoin, I was not really around for this, but supposedly they had to be extremely creative about having, about keeping the protocol running while not ever reverting any of the history. Right. So I don't believe they did, they've ever done a hard fork of the nature described here, though there have been maybe not sponsored by the founders.
+And, you know, even in the early days of Bitcoin, I was not really around for this, but supposedly they had to be extremely creative about having, about keeping the protocol running while not ever reverting any of the history. Right. So I don't believe
 
-Obviously there are forks of Bitcoin now, Bitcoin cash, you know, all that sort of thing. And so the Ethereum community elected to, or the foundation or whatever that is, the elected to sort of forcibly revert the funds. There was just like a, almost like a credit as of a certain block number.
-
-So everyone got their funds back. Jim had to code it. Maybe I helped a little bit.
-
-No, I was not coding anymore at this point. And so then Ethereum Classic was like the hard line, like we're sticking to the immutability. Sorry, Jim, were you going to say something?
-
-Oh no, I figured you were going to say something.
-
-[Speaker 2] (37:40 - 37:41)
-No, no, no.
-
-[Speaker 1] (37:41 - 38:06)
-No. And so Ethereum Classic got some backers, you know, I think maybe famously, I think Barry Silbert was in their Ethereum Classic, maybe still is. And eventually it was, I think someday, Victor, you told me this, right?
-
-Someday later, it had a hard fork itself, right? When some issue was discovered with the protocol. Is that correct?
-
-[Speaker 2] (38:07 - 38:35)
-I think, I don't know if it was a hard fork or a soft fork, but yeah, there have been like, you know, there have been debates inside, there have been debates inside the Ethereum Classic community too, on how to implement different changes into the protocol, right? It's not just running, like there's constantly, I think Bob Summerill of the Ethereum Classic collective knows more about this stuff than I do. Interesting.
-
-[Speaker 1] (38:35 - 40:28)
-Yeah. Maybe I could follow up on exactly how this went down, but I think also I think Ethereum Classic, maybe it was mining forever philosophically. Yeah.
-
-Whereas Ethereum switched over to proof of stake like a year ago, you know, year and a half. So yeah, there were more kind of, although there was, okay, yeah, I just Googled it. Here's a June 28th Cointelegraph article that says Ethereum Classic devs announced upcoming hard fork, yada, yada.
-
-So they at least subsequently did some amount of hard forking, but you know, interesting nonetheless. Funny thing also when this hard fork happens, right? It's, you know, you don't, this is a silly comment from someone who's, you know, fairly compliance focused, right?
-
-Like what's the tax treatment of a hard fork? Like you had some, let's say you had some tokens on one chain and then they morph and now you have tokens on both chains. I think it's like airdrops too, or like ordinary income, which means whether or not you wanted those hard fork coins, you know, you probably have to pay taxes on them if you can access it and liquidate them, but you have to pay them whether or not you liquidate, it's not just capital gains.
-
-So quite a strange test of our system that we've seen with blockchain because, you know, they fork all the time. There's lots of airdrops, et cetera. And you might not even be aware.
-
-All right. So that was the Dow. I want to, yeah, this was crazy.
-
-Like I still kind of can't believe this happened. And it's happened way bigger and differently later, but you know, it's, yeah, it was just quite a moment, you know, all of this.
-
-[Speaker 2] (40:28 - 40:44)
-Well, I looked up the current price and in current dollars, it would be roughly the equivalent of $30 billion if you think about it. So yeah, it'd be huge, you know, like, cause just, I think we were so small at the time, right?
-
-[Speaker 1] (40:46 - 41:02)
-Yeah. Okay. I want to take you to the second CoinDesk consensus hackathon.
-
-And again, hand it to Victor for everything you recall. Also, we have some pictures from that time. We could just show some of that on the screen.
-
-[Speaker 2] (41:02 - 43:16)
+[[41:02]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2462s) **Victor:**
 Yeah, I found it from CoinDesk. Let me see if I can still find them. But so what I remember of it is that it was, I think it was one of the first CoinDesk consensus events, which, you know, subsequently became huge.
 
 And then, so they kind of had two events around it. One was a hackathon, which we were part of. And then, and we were running, we were like one of the main platforms that was participating in it.
@@ -508,16 +466,16 @@ And like, you know, there weren't very many people in there. It seemed like the 
 
 Though at the end, we didn't win, at least someone building on our stack didn't win because I think the winner was actually something that was getting built way before that hackathon existed, which was, you know, technically against the rules, but we didn't, we didn't hold anyone.
 
-[Speaker 1] (43:17 - 43:26)
+[[43:17]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2597s) **Kieren:**
 This is, Victor asserts, if we lost, it's because someone else cheated. So that's, that's how we feel.
 
-[Speaker 2] (43:27 - 43:35)
+[[43:27]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2607s) **Victor:**
 That's at least how I felt at the time, whether or not that's completely true. It's, you know, memory is subjective. That's all I'm saying.
 
-[Speaker 1] (43:40 - 43:42)
+[[43:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2620s) **Kieren:**
 And the rest of the conference.
 
-[Speaker 2] (43:44 - 45:32)
+[[43:44]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2624s) **Victor:**
 Oh, and then the rest of the conference. So that I think was like the first shiny big blockchain conference, right? Like, you know, you had, I remember Vitalik speaking, they launched, I think the first Hyperledger app there and a bunch of, you know, there was a bunch of activity.
 
 Like it was a really interesting combination because most of the other conferences like DevCon are really developer focused, but this, you could really see a lot of businesses becoming interested. And the thing I most remember about that conference is that we were like pulled into a room at one point. And that room was basically, in the room was the head of Hyperledger, John Wilpert, and Vitalik were in that room.
@@ -530,16 +488,16 @@ And it kind of ended, what I remember of it was it ended with, I think Vitalik w
 
 But... Interesting.
 
-[Speaker 1] (45:32 - 45:34)
+[[45:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2732s) **Kieren:**
 I think Vitalik is very tall.
 
-[Speaker 2] (45:34 - 45:34)
+[[45:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2734s) **Victor:**
 Yeah.
 
-[Speaker 1] (45:35 - 45:48)
+[[45:35]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2735s) **Kieren:**
 And John is stockier, if they're at a bench press competition, I expect there would be a pretty big differentiation, you know, in what John could bench and what Vitalik could bench.
 
-[Speaker 2] (45:49 - 46:37)
+[[45:49]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2749s) **Victor:**
 Yeah. I think you're right. Like, it's not, we're not talking that John is unfit.
 
 He's just like much larger than Vitalik is what, you know, still quite skinny. Right. So like John was like three sizes before.
@@ -550,7 +508,7 @@ You know, it was like a compression shirt. And he went on stage and that was lik
 
 And it's interesting because what eventually that led to Hyperledger actually supporting Ethereum type clients like Bera.
 
-[Speaker 1] (46:38 - 47:57)
+[[46:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2798s) **Kieren:**
 Yeah. I would add in talking to, obviously we spoke to John occasionally over the years and he actually went on to join consensus later. I don't really know what he's up to today.
 
 I don't think he's there anymore. But he had sort of a sense of like not wanting to be on the wrong side of history. Like he always wanted to talk about, he was always talking about like IBM's embrace of Linux as a, instead of like pushing really hard on a continual basis with its own operating system.
@@ -563,16 +521,16 @@ And I think this was, you know, like perhaps the best illustration of that confl
 
 I think they've shifted resources and all that sort of thing.
 
-[Speaker 2] (47:57 - 48:15)
+[[47:57]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2877s) **Victor:**
 By the way, I did find the picture from that first hackathon. So, you know, this is off the CoinDesk, but here's the picture, you know, at the, and this was one of the rooms and there was, we had to call up another room. Like this was very early in the process.
 
-[Speaker 1] (48:15 - 48:17)
+[[48:15]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2895s) **Kieren:**
 Yeah, yeah. I remember this one.
 
-[Speaker 2] (48:18 - 48:27)
+[[48:18]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2898s) **Victor:**
 And here I am sitting in the middle of it over here, but yes. But yeah, it grew really, really rapidly.
 
-[Speaker 1] (48:30 - 49:45)
+[[48:30]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2910s) **Kieren:**
 Alrighty. Close to rounding up here, but got a couple more things. So things are moving along.
 
 2016, there's some kind of organic momentum. I know like we hired a lot of people during this time. You know, our software has been used in enterprise projects.
@@ -585,28 +543,28 @@ We were kind of doing a capital raise, sort of our first sort of seed-ish one at
 
 I think, what do you guys recall? What are some of your impressions from DEF CON 2, kind of, et cetera?
 
-[Speaker 3] (49:45 - 50:07)
+[[49:45]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2985s) **Jim:**
 There was some big attack on Ethereum. I'm trying to remember the details right now, but I remember in the morning and lots of stuff was happening on the business front there. But I remember like waking up and suddenly I was just like completely involved in like digging in with the Haskell client and figuring out what was going on and what changes we had to make.
 
 So.
 
-[Speaker 1] (50:08 - 50:34)
+[[50:08]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3008s) **Kieren:**
 I do remember. It was like transactions that slowed the clients down being created. Right.
 
 And yeah, I think like, I guess it was like due to the way the data structures worked to some extent, it was like hard to make them process fast. I can't recall, but yeah, it was funny that it was right around that time. Also, okay, Tim, go ahead.
 
-[Speaker 3] (50:34 - 51:07)
+[[50:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3034s) **Jim:**
 Well, the funny thing that I sort of remember is like, and maybe you're about to talk about this, but the EA was sort of formed during that conference and Victor somehow in the morning grabbed me and he's like, I've got all these meetings and I'd like you to come along too. But I was like, I had my laptop and I was like trying to dig into the tech with all the stuff that was going on there. So I sort of sat in the corner in this coffee shop and I was like a programming all day.
 
 And then at the end of the day, I kind of was like, what were all those meetings you had? And Victor essentially is like, oh yeah, we just formed the EA.
 
-[Speaker 2] (51:09 - 51:35)
+[[51:09]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3069s) **Victor:**
 Well, I, yeah, it was funny. I think really it was Jeremy Miller, who I think later went on to become chief of staff for consensus really kind of drove that, like there'd been a previous attempt. I think by Matt spoke to create some sort of group of enterprises to work together on standards and that never kind of went anywhere, but then I have no memory of this.
 
-[Speaker 1] (51:36 - 51:44)
+[[51:36]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3096s) **Kieren:**
 So could you, you know, Matt was at Deloitte.
 
-[Speaker 2] (51:44 - 53:29)
+[[51:44]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3104s) **Victor:**
 Matt was at Deloitte at the time and Deloitte was early in the blockchain. Like, so they were at DEF CON one, they were really early in the blockchain and kind of building up a practice. Ironically in the Toronto office, right?
 
 So like they're really focused on it. And so they were quite early and quite knowledgeable. And so they were trying to kind of, at some point they had started this effectively a consortium of companies who want to use Ethereum, right?
@@ -619,7 +577,7 @@ And there was like Jeremy, you know, John Wheeling was there from Santander, lik
 
 And it was all happening at this coffee shop that was at the Starbucks that was just like, just literally outside the conference center. And it really kind of all came together. And it was amazing to me because it was like, right, like sort of by the end of the day, we were like, yes, we're going to form this group that eventually became the EEO.
 
-[Speaker 1] (53:30 - 54:39)
+[[53:30]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3210s) **Kieren:**
 So I want to add some peripheral details. So we get to Shanghai, right? You get this, we're jet lagged.
 
 It's a hefty flight, you know, you get this card and the card says something like aliens not going to hotels, aliens being like, you know, people who are not Chinese who are in the country must report to the police within 72 hours or something. And I was like, does that mean like the hotels are like part of the police? Like, like, I don't know.
@@ -628,25 +586,25 @@ I assume plenty of listeners will not have been to Mainland China. And then you 
 
 Shanghai is vast. Like there are high rises along the highway the whole way and they just get denser as you get close to where we, do you know, is there a name for the neighborhood where we're staying in like the old stock exchange, I believe, which has been converted to a hotel.
 
-[Speaker 2] (54:39 - 54:50)
+[[54:39]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3279s) **Victor:**
 Yeah, we were right downtown. I'm trying to remember where we stayed at the time. The conference was right downtown along, I think, close to the Bund.
 
 That's the area next to the river.
 
-[Speaker 1] (54:51 - 54:56)
+[[54:51]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3291s) **Kieren:**
 Yeah, that's right. So the Bund is on the European side and then the other side is like brand new.
 
-[Speaker 2] (54:57 - 55:41)
+[[54:57]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3297s) **Victor:**
 Yeah, that's Pudong. Like that's like sort of, you know, originally was the suburbs, basically. And, you know, like I've founded two companies in China.
 
 So I think I was like the China expert there and like taking people around. And yeah, like, I mean, you, well, if you're not staying in a hotel, the government wants to know how to reach you. And so if you're like staying in the Airbnb and stuff, you need to like, if you stay in a hotel, the hotel takes care of all that stuff for you, basically.
 
 They just, but like, if you're staying in a hotel and we were all staying in sort of a small hotel, but I remember like taking you guys for like a Chinese breakfast and like you guys loved it. Like we went back to that same place. Like, I was like, there are better places.
 
-[Speaker 1] (55:41 - 55:45)
+[[55:41]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3341s) **Kieren:**
 It was really good. I think we went to like a couple holes in the wall too.
 
-[Speaker 2] (55:45 - 56:28)
+[[55:45]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3345s) **Victor:**
 Yeah, exactly. Exactly. So it was like this hole in the wall place and I was just kind of trying to give you the flavor and you guys really liked it.
 
 So we kept that. The other thing I remember about that conference is that the Wall Street Journal was there. And I remember I got quoted from them as saying, I think China is going to be one of the biggest blockchain markets in the world.
@@ -655,7 +613,7 @@ You know, this is before they started their own digital currency and really kind
 
 But as you said, this all happened really fast.
 
-[Speaker 1] (56:29 - 57:43)
+[[56:29]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3389s) **Kieren:**
 Yeah. I'd also mention, so we announced a project we were working on and it was getting close to completion with BHP Billiton. So the big time project and kind of the first of our supply chain work our kind of champion at BHP is a guy named Tyler Smith, very smart guy, geophysicist, blockchain enthusiast.
 
 And so the announcement was great. It definitely got everyone excited about the technology, helped us close the financing at that time, et cetera. So we're all on stage.
@@ -666,32 +624,32 @@ And he kind of told me like his algorithm, there's something nearby called, I be
 
 He told me and he watched where like the Chinese business people went and they all went up to like the third floor to this particular guy. And so he kind of showed us where that was. I think you got some too, right?
 
-[Speaker 2] (57:43 - 58:07)
+[[57:43]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3463s) **Victor:**
 I did. I did. And that algorithm worked out really well.
 
 That is also my algorithm for finding good places to eat. Like I follow taxi, like the way I found that hole in the wall, like, you know, I lived in Beijing, so I've been to Shanghai plenty of times, but I didn't know near the hotel where to eat. And I just kind of follow where taxi drivers wind up stopping.
 
 And if that's the place, you know, they probably have pretty good food there.
 
-[Speaker 1] (58:07 - 58:32)
+[[58:07]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3487s) **Kieren:**
 Yeah, yeah. And he told me also the last time he had done a China trip, he went like 10 hours by buses, trains, boats to get like the best silk blankets, which were somewhere near Shanghai. I was never able to look into this and get them back.
 
 So similarly, he kind of, you know, followed the local knowledge will get you a long way, I guess.
 
-[Speaker 2] (58:32 - 58:55)
+[[58:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3512s) **Victor:**
 Nowadays, it's all high speed rail. Like I remember like I remember at various times traveling through China and being like, you know, having like 18 hour train rides and stuff like that, which were brutal, because like, in many times, I just had to stand during that entire time in a crowded thing. But yeah, now it's high speed rail.
 
 It's it's it's amazing. Like it's it's faster than planes in most cases.
 
-[Speaker 1] (58:57 - 59:30)
+[[58:57]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3537s) **Kieren:**
 Yeah. In any case, it was it was an experience, right? So we also we you know, we did some business development there, had a lot of meetings with prospective customers, investors, all that sort of thing.
 
 It's definitely tough to do business in China for listeners considering it and not from China, I don't recommend it unless you really know what you're doing. But it was quite the trip. Like, I actually had to leave a little bit early for some events I was doing with Intel, actually.
 
-[Speaker 2] (59:30 - 59:31)
+[[59:30]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3570s) **Victor:**
 Yeah, that's right.
 
-[Speaker 1] (59:32 - 1:01:54)
+[[59:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3572s) **Kieren:**
 But it was, you know, crazy. It made, you know, it made things for a tech project, Ethereum was actually kind of Europe centric. But I think Asia, you know, almost bigger uptake there.
 
 So it made it feel really global. And it was just kind of funny, you know, just to see all of this happening, you know, at the same time, like, the Internet kind of works, you know, it was it was cool to hang out in Shanghai as well. And just totally different planet felt like.
@@ -704,7 +662,7 @@ And, you know, so there was not a lot of technological reuse going on in, you kn
 
 And do you remember, okay, so there were like a couple face to face meetings that were like very hush hush. I think Microsoft some of them around the launch of the EEA. So you've kind of napkinned out the idea in Starbucks, but then what was the next thing that happened?
 
-[Speaker 2] (1:01:55 - 1:03:29)
+[[1:01:55]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3715s) **Victor:**
 So then there were a bunch, there were a series of meetings that were kind of really about structuring. So like, how did we want to structure this organization? And, you know, what composition should be like, should it be all big companies?
 
 Should it be, you know, like, how much of the tech should be involved? How much of that, you know, company side should be involved? And how it should work?
@@ -715,27 +673,27 @@ And ultimately, we just kind of had to set a line in the sand and make a launch,
 
 And then at the launch of EA, it was like 40 companies that were, yeah, I remember 28 or something like that.
 
-[Speaker 1] (1:03:29 - 1:03:34)
+[[1:03:29]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3809s) **Kieren:**
 There was a logo wall that they showed, you know, it was really substantial.
 
-[Speaker 2] (1:03:34 - 1:04:06)
+[[1:03:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3814s) **Victor:**
 And it was in the Brooklyn JPM office. And you know, like, it was like, a lot of big players. And this really kind of told the world, like, hey, this is serious, like, this is something that should happen.
 
 So I, you know, it was really, really exciting. But yeah, the negotiations around it were really complicated. And in some cases, either.
 
 I remember, like, one of the biggest negotiations was between the different clients, right? Like, there was us, and there were other clients who were trying to figure out, like, how do we share information in between us?
 
-[Speaker 1] (1:04:07 - 1:04:21)
+[[1:04:07]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3847s) **Kieren:**
 Yeah. I'd also add, okay, so JP Morgan, when did they announce Quora? That's a good question.
 
 I don't, I think it was- Probably before the EA launch, but I'm not sure.
 
-[Speaker 2] (1:04:21 - 1:04:40)
+[[1:04:21]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3861s) **Victor:**
 Yeah, I know they had a blockchain team that ironically also were working in Haskell. So they were, and you know, eventually we wound up doing work on Quorum too. So there was like, we had been talking to them a while.
 
 And, but I can't remember when the official launch of Quorum was.
 
-[Speaker 1] (1:04:40 - 1:06:20)
+[[1:04:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3880s) **Kieren:**
 I have some memory that they demoed something at, and consensus might have helped, like, the front end of the demo. I can't quite recall, but I believe that they demoed something at the launch, which was what, like, it was either February or March 2017, something like that. So I think they must have announced it by then.
 
 So Quorum is, was a flavor of, Ethereum, or a flavor of enterprise Ethereum, where they'd taken the Go Ethereum client and done things like add privacy and, so that it was easier to obscure data. And there was like a messaging layer it had, you know, et cetera. And similar things we developed over the years, just as we, in response to the, you know, privacy preferences and needs of big, big enterprises, basically.
@@ -744,10 +702,10 @@ So they all wanted to use the technology, didn't want a native token. They didn'
 
 The, but yeah, so, so the event, 30 big enterprises, they're, you know, or 30 companies, a few startups, a lot of big enterprises. I think the membership of the EEA peaked at, like, 500 companies or something, something really large, right?
 
-[Speaker 2] (1:06:20 - 1:06:23)
+[[1:06:20]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3980s) **Victor:**
 Like, It was in the hundreds, I don't remember.
 
-[Speaker 1] (1:06:23 - 1:08:07)
+[[1:06:23]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3983s) **Kieren:**
 300 or something like that. So like, on the back of this announcement, the business side, you know, got pretty excited. And, you know, as later in that year, there's also crypto run-ups, kind of everyone wanted to be involved.
 
 But I think of the EEA launch as sort of the end of the beginning. If you look back at the price trend also, oh, I'm bringing it back up, I closed it. So let's say it's February here.
@@ -760,10 +718,10 @@ And had sort of transitioned, it was almost in the position of incumbent at that
 
 Crypto coins, or however you want to call them at that time, like for a while, Litecoin was number two, right? Yeah.
 
-[Speaker 2] (1:08:08 - 1:08:09)
+[[1:08:08]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4088s) **Victor:**
 I think Ripple was up there.
 
-[Speaker 1] (1:08:10 - 1:09:04)
+[[1:08:10]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4090s) **Kieren:**
 XRP was usually three or something. And I don't even know where Litecoin is today. But it, I'd have to check when the actual crossover happened.
 
 Ethereum would be solidly number two for a long time. But maybe we should, you know, figure that out right now. I forget how to overlay the prices on coin market cap, or the market caps rather.
@@ -772,41 +730,41 @@ So we've never seen the flip just yet. But it got close at different times in th
 
 But I don't know, any final words, Vic, Jim, from, you know, this interesting time period in many people's lives, our lives?
 
-[Speaker 2] (1:09:06 - 1:09:33)
+[[1:09:06]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4146s) **Victor:**
 I think it was just, like, you know, looking back, it seems that, you know, I think if you look back on successful projects, there's sort of that survivorship bias that, you know, all the elements were just there. And you can see a lot of the elements there. But I don't think in any way that success was predetermined.
 
 Like, I think there was a lot...
 
-[Speaker 1] (1:09:33 - 1:09:37)
+[[1:09:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4173s) **Kieren:**
 A lot of coordinated effort, right? A lot of working hard on it together.
 
-[Speaker 3] (1:09:38 - 1:09:38)
+[[1:09:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4178s) **Jim:**
 Yeah.
 
-[Speaker 1] (1:09:38 - 1:09:41)
+[[1:09:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4178s) **Kieren:**
 Getting the pieces to make it happen, so to speak.
 
-[Speaker 3] (1:09:41 - 1:10:02)
+[[1:09:41]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4181s) **Jim:**
 I mean, it's dangerous to look back in time and say, like, I knew that was going to happen. But I will say that even before the launch, I remember feeling that I'd never seen such a large group of people so excited about a particular project as that one. So I, yeah, it felt like it was going to be successful.
 
-[Speaker 2] (1:10:04 - 1:10:19)
+[[1:10:04]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4204s) **Victor:**
 Yeah, I just mean that, you know, we've mentioned a bunch of the people that I, I think they all contributed to the success of the key point, even though they weren't, you know, the founders of Ethereum. Like, they made something happen that wouldn't have happened otherwise.
 
-[Speaker 1] (1:10:22 - 1:10:32)
+[[1:10:22]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4222s) **Kieren:**
 Yeah. It's an interesting thing. It's like, are you, are you being tossed in a great wave or can you will reality into existence?
 
 And it's like, I tend to think of it as a little bit of both.
 
-[Speaker 3] (1:10:32 - 1:10:37)
+[[1:10:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4232s) **Jim:**
 Yeah. I mean, it's not all hot air from us because we literally... We do, we did some of it.
 
-[Speaker 1] (1:10:38 - 1:10:39)
+[[1:10:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4238s) **Kieren:**
 ...saved our lives. Yeah.
 
-[Speaker 3] (1:10:40 - 1:10:41)
+[[1:10:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4240s) **Jim:**
 ...successful technology.
 
-[Speaker 1] (1:10:42 - 1:11:10)
+[[1:10:42]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4242s) **Kieren:**
 Yeah. Anyways. All right.
 
 Let's, let's close it there. Thanks, everybody. For listening this far, if you make it this far on the second one.
@@ -815,8 +773,8 @@ And yeah, it'd be interesting to, you know, we might continue this series. We co
 
 So if anyone wants us to cover anything particular, please do let us know.
 
-[Speaker 2] (1:11:11 - 1:11:13)
+[[1:11:11]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4271s) **Victor:**
 Thanks everyone. Have a great day.
 
-[Speaker 1] (1:11:13 - 1:11:14)
+[[1:11:13]](https://www.youtube.com/watch?v=FsCilArdlMg&t=4273s) **Kieren:**
 Thank you.

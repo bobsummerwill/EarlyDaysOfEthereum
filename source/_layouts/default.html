@@ -222,7 +222,7 @@
         var params = new URLSearchParams(window.location.search);
         if (params.get('hidden') === 'false') {
         document.querySelectorAll('.hideable-section').forEach(function(el) {
-            el.style.display = '';
+            el.style.display = 'block';
         });
         }
     })();

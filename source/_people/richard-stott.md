@@ -5,6 +5,7 @@ description: Designer in the early days.  AKA Richard Wild
 photo: /images/archive.org/ethereum.org/20140701165441/stott-richard.jpg
 start: Feb 2014
 end: Aug 2014
+hidden: true
 social:
   twitter: https://x.com/raidraidrune
 ---

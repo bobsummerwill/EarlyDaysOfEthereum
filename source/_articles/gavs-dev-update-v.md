@@ -34,7 +34,7 @@ So one of the major things that needed sorting for the next release is the proof
 
 While this looked like a good direction to be going in, a swift audit of Vitalik and Matt's initial algorithm by Tim Hughes (ex-Director of Technology at Frontier Developments and expert in low-level CPU and GPU operation and optimisation) showed major flaws. With his help, they were able to work together to devise a substantially more watertight algorithm that, we are confident to say, should make the job of developing an FPGA/ASIC sufficiently difficult, especially given our determination to switch to a proof-of-stake system within the next 6-12 months.
 
-Last, but not least, the new website was launched. Kudos to Ian and Konstantin for mucking down and getting it done. Next stop will be the developer site, which will be loosely based on the excellent resource at qt.io, the aim to provide a one-stop extravaganza of up to date reference documentation, curated tutorials, examples, recipes, downloads, issue tracking, and build status.
+Last, but not least, the new website was launched. Kudos to [Ian](/people/ian-meikle/) and Konstantin for mucking down and getting it done. Next stop will be the developer site, which will be loosely based on the excellent resource at qt.io, the aim to provide a one-stop extravaganza of up to date reference documentation, curated tutorials, examples, recipes, downloads, issue tracking, and build status.
 
 ## Onwards
 

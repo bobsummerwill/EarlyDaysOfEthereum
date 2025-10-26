@@ -37,7 +37,7 @@ layout: default
         </div>
         {% if page.description %}
         <div class="article-description" itemprop="description">
-            {{ page.description }}
+            {% include auto_link.html content=page.description %}
         </div>
         <meta itemprop="description" content="{{ page.description }}">
         {% endif %}

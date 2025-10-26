@@ -55,7 +55,7 @@ Also with a view to scale up these initiatives we're proud to welcome George Hal
 
 As part of these efforts, expect to see a lot more interactions on Reddit, IRC, Discuss and of course our very own forums. George will also help me identify key Ethereum-based projects and make contact to see how we can best help with information, connections and inclusion as guests in our weekly video updates, shot at our Putney Studio.
 
-In order to produce very high quality content, we are also welcoming Ian Meikle to the London Hub. Ian is the creator of most of the video materials you might have seen relating to Ethereum, including the superb video loop that has been a staple at many Ethereum meetups. Ian will leverage the equipment at our studio to create explainer videos, interview key players in the space, and record panels led by Vinay Gupta, who joins the coms team as Strategic Consultant.
+In order to produce very high quality content, we are also welcoming Ian Meikle to the London Hub. [Ian](/people/ian-meikle/) is the creator of most of the video materials you might have seen relating to Ethereum, including the superb video loop that has been a staple at many Ethereum meetups. [Ian](/people/ian-meikle/) will leverage the equipment at our studio to create explainer videos, interview key players in the space, and record panels led by Vinay Gupta, who joins the comms team as Strategic Consultant.
 
 In London, and above and beyond our existing panels, socials and hackathons, regular 'show and tell' are being scheduled for dapp developers to present their work and receive feedback, a model we intend to promote internationally within the month.
 

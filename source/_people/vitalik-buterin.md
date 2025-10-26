@@ -1,6 +1,5 @@
 ---
 name: Vitalik Buterin
-nickname: V
 description: Ethereum co-Founder
 photo: /images/archive.org/ethdev.com/20150315012946/buterin-vitalik.jpg
 start: Nov 2013

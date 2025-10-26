@@ -9,7 +9,7 @@ embed:
   site: Ethereum Foundation Blog
 ---
 
-Time for another update! So quite a bit has happened following ÐΞVcon-0, our internal developer's conference. The conference itself was a great time to get all the developers together and really get to know each other, dissipate a _lot_ of information (back to back presentations for 5 days!) and chat over a lot of ideas. The comms team will be releasing each of the presentations as fast as Ian can get them nicely polished.
+Time for another update! So quite a bit has happened following ÐΞVcon-0, our internal developer's conference. The conference itself was a great time to get all the developers together and really get to know each other, dissipate a _lot_ of information (back to back presentations for 5 days!) and chat over a lot of ideas. The comms team will be releasing each of the presentations as fast as [Ian](/people/ian-meikle/) can get them nicely polished.
 
 During the time since the last update, much has happened including, finally, the release of the Ethereum ÐΞV website, ethdev.com. Though relatively simple as present, there are great plans to extend this into a developer's portal in which you'll be able to browse the bug bounty programme, look at and, ultimately follow tutorials, look up documentation, find the latest binaries for each platform and see the progress of builds.
 

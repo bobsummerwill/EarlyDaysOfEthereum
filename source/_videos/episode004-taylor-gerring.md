@@ -143,21 +143,26 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Bob:**  Richard Wild?
 
-**Taylor:**  Richard Wild. That's right. Richard was actually the first one who was introduced to the project.  He brought Ian along. And I think Ian ended up sticking around longer.
+**Taylor:**  Richard Wild. That's right. [Richard](/people/richard-stott/) was actually the first one who was introduced to the project.  He brought [Ian](/people/ian-meikle/) along. And I think [Ian](/people/ian-meikle/) ended up sticking around longer.
 
+{% capture hideable_section %}
 ![Richard Stott](/images/duncan.co/2025.09.17/duncan.co_cropped_richard_stott.png)
 
 *(Taylor and Richard Wild, from https://duncan.co/ethereum/)*
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
-[[23:29]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1409s) **Bob:** Yeah. Though he wasn't originally called Wild. Funny little tidbit. That's actually his wife's surname that he took when they got married. I forget her name, though.
+[[23:29]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1409s) **Bob:** Yeah. Though he wasn't originally called Richard Wild. Funny little tidbit. That's actually his wife's surname that he took when they got married. I forget her name, though.
 
-[[23:39]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1419s) **Taylor:**:  Really?
+[[23:39]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1419s) **Taylor:**  Really?
 
-[[23:40]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1420s) **Bob:** Yep. I guess he liked Wild. It sounded cool.
+[[23:40]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1420s) **Bob:** Yep. I guess he liked Richard Wild. It sounded cool.
 
 [[23:46]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1426s) **Taylor:**  I just assumed it was a pseudonymous name that he had picked and changed or something like that.
 
-[[23:52]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1432s) **Bob:** It could have been. But yeah, I believe he had a different name before than her name. Jane. Jane Wild. Perhaps it was a pseudonym for them both?
+[[23:52]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1432s) **Bob:** It could have been. But yeah, I believe he had a different name before than her name. [REDACTED]. [REDACTED]. Perhaps it was a pseudonym for them both?
 
 **Taylor:**  Who knows?
 
@@ -173,7 +178,7 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 
 <h3 id="zug-switzerland">Early days in Zug, Switzerland</h3>
 
-[[27:00]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1620s) **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah Richard and Ian arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
+[[27:00]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1620s) **Bob:** Yeah, just looking down through your photos it says February the 9th is when you arrived in Europe and then February the 13th is when Stefan "arrived at our tiny Airbnb" and then there was something on the 22nd.  Oh yeah [Richard](/people/richard-stott/) and [Ian](/people/ian-meikle/) arrive on February the 22nd at the Airbnb (*Edit - I misspoke, this was actually Feb 20th*)
 
 {% capture hideable_section %}
 ![Taylor Gerring](/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg)
@@ -182,17 +187,22 @@ Thinking about setting up a server for Gavin.  We were crammed in a tiny little 
 {{ hideable_section | markdownify }}
 </div>
 
-[[27:38]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1658s) **Taylor:** So I guess that was a couple few weeks of there before Ian and Richard arrived.
+[[27:38]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1658s) **Taylor:** So I guess that was a couple few weeks of there before [Ian](/people/ian-meikle/) and [Richard](/people/richard-stott/) arrived.
 
 [[27:43]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1663s) **Bob:** Right.  Then I'm just looking in March, the March photos. "Charles bought dinner for 10 people on March 1st". Watching Fight Club.
 
+{% capture hideable_section %}
 ![Taylor Gerring](/images/x.com/2025.09.07/TaylorGerring/status/1498782352062963714/1498782352062963714_1.jpg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ![Taylor Gerring](/images/x.com/2025.09.07/TaylorGerring/status/1499046474100969473/1499046474100969473_1.jpg)
 
 [[27:58]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1678s) **Taylor:** You know, like looking back, And one thing that kind of stands out to me is it was definitely like a ragtag team of people there and trying to figure out what we were doing. Like this became a constant like wedge in the group is like what our contribution was, right, from a code perspective.  And I was responsible for the website stuff. So I think to our credit, getting the team kind of motivated up and going to go from we just met and within a couple of few weeks here, we started spinning prototypes of the website and working together in our different capacities to kind of get this machine in motion and prepared for what would eventually become the crowd sale.  It was like kind of no small task, I guess, just having to learn how to get together and figure out your skills and know how you're going to plug into the rest of the global organization.
 
-But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
+But, yeah, there's there's, I think from February 12th, so just a few days after I landed, we kind of were up and moving on the Web site ([Internet Archive snapshot from 8th Feb](https://web.archive.org/web/20140208030136/http://www.ethereum.org/)). And that was constantly a moving target, too.  Once we got additional legal guidance and getting everybody's photos right in the right order and the right titles underneath, and that became a huge headache. And that wasn't even like the actual functioning app that took in Bitcoin and assigned like your key out.  This was just months before in the run up to that. Just these personalities jiving, if you will.
 
 ![Ethereum.org](/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png)
 

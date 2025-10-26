@@ -141,7 +141,12 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 *We had met just 2 weeks prior, but were already raising a glass to one another's birthdays* - 21st February 2014
 
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.21_1.jpeg)
+{% capture hideable_section %}
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.21_2.jpeg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.21_3.jpeg)
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.21_4.jpeg)
 
@@ -178,8 +183,12 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ----
 *“[Charles](/people/charles-hoskinson/) bought dinner for 10 people that night. This was the first time I remember eating out after sleeping on the floor for a month. The bill was 100s of Swiss Francs and little did we know—none of us would be paid for months to come” – Taylor Gerring, [Mar 1, 2022](https://twitter.com/TaylorGerring/status/1498782352062963714)*
 
+{% capture hideable_section %}
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1498782352062963714/1498782352062963714_1.jpg)
-
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ----
 *“Watching “Fight Club” in the loft of Ethereum’s Swiss AirBnB in 2014 - 
@@ -207,7 +216,12 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 *“We had finally & officially moved into the Spaceship. Surrounded by farmland, we bought everything we could from Ikea. Everything else would come from a local farmer shop” – Taylor Gerring, [Mar 5, 2022](https://twitter.com/TaylorGerring/status/1500086807060434945)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500086807060434945/1500086807060434945_1.jpg)
+{% capture hideable_section %}
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500086807060434945/1500086807060434945_2.jpg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1500086807060434945/1500086807060434945_3.jpg)
 
 {% capture hideable_section %}
@@ -253,8 +267,8 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 ----
 *“We had only been in the Spaceship for a few days, but you know what that meant?! Time for a party!!!” – Taylor Gerring, [Mar 9, 2022](https://twitter.com/TaylorGerring/status/1501581511287574533)*
 
-![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_1.jpg)
 {% capture hideable_section %}
+![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_1.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_2.jpg)
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1501581511287574533/1501581511287574533_3.jpg)
 {% endcapture %}

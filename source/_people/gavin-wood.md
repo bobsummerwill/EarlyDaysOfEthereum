@@ -1,6 +1,5 @@
 ---
 name: Gavin Wood
-nickname: Gav
 description: Ethereum co-Founder
 photo: /images/archive.org/ethdev.com/20150315012946/gavin-wood.jpg
 start: Dec 2013

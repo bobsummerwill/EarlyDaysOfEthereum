@@ -69,7 +69,7 @@ title: Videos
             
             <div class="video-meta">
                 {% if video.date %}
-                    <span class="release-date">{{ video.date | date: "%B %d, %Y" }}{% if video.author %} by {{ video.author }}{% endif %}</span>
+                    <span class="release-date">{{ video.date | date: "%B %d, %Y" }}{% if video.author %} by {% include auto_link.html content=video.author %}{% endif %}</span>
                 {% endif %}
             </div>
             

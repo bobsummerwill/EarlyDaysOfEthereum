@@ -60,21 +60,7 @@ title: Articles
                     <span class="release-date">{{ article.date | date: "%B %d, %Y" }}{% if article.author %} by {% endif %}</span>
                 {% endif %}
                 {% if article.author %}
-                    {% assign person_found = false %}
-                    {% assign person_url = '' %}
-                    {% assign person_display_name = article.author %}
-                    {% for person in site.people %}
-                      {% if person.name == article.author %}
-                        {% assign person_found = true %}
-                        {% assign person_url = person.url %}
-                        {% assign person_display_name = person.name %}
-                      {% endif %}
-                    {% endfor %}
-                    {% if person_found %}
-                      <a href="{{ person_url }}">{{ person_display_name }}</a>
-                    {% else %}
-                      {{ article.author }}
-                    {% endif %}
+                    {% include auto_link.html content=article.author %}
                 {% endif %}
             </div>
             

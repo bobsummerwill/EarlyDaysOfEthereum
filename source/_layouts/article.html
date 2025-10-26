@@ -31,19 +31,7 @@ layout: default
             {% endif %}
             {% if page.author %}
                 <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-                    by
-                    {% assign matched_person = nil %}
-                    {% for person in site.people %}
-                      {% if person.name == page.author %}
-                        {% assign matched_person = person %}
-                        {% break %}
-                      {% endif %}
-                    {% endfor %}
-                    {% if matched_person %}
-                      <a href="{{ matched_person.url }}" itemprop="name">{{ page.author }}</a>
-                    {% else %}
-                      <span itemprop="name">{{ page.author }}</span>
-                    {% endif %}
+                    by {% include auto_link.html content=page.author %}
                 </span>
             {% endif %}
         </div>

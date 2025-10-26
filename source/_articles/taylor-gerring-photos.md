@@ -127,10 +127,15 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.19.jpeg)
 
+{% capture hideable_section %}
 ----
 *Back to Meierskappel and the group has expanded once again. [Richard](/people/richard-stott/) and [Ian](/people/ian-meikle/) arrive to join the creative efforts while [Charles](/people/charles-hoskinson/) jumps in to do interviews. We all share a table to work and a floor to sleep #Ethereum* - 20th February 2014
 
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.02.20.jpeg)
+{% endcapture %}
+<div class="hideable-section" style="display:none">
+{{ hideable_section | markdownify }}
+</div>
 
 ---
 *We had met just 2 weeks prior, but were already raising a glass to one another's birthdays* - 21st February 2014

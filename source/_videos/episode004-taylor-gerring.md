@@ -161,8 +161,6 @@ It was just constant chaos. But if I remember correctly, Charles came in the nex
 
 **Taylor:**  Who knows?
 
-(*Added during editing:  His real name was [Richard Stott](/people/richard-stott/), and it appears that [he died in 2024](https://x.com/blockchaingirl/status/1818203032980471885).  Bob intended to speak to Richard in 2017/2018 during his "maple syrup diplomacy phase" with [Charles](/people/charles-hoskinson/), but the call never actually happened.*)
-
 [[24:19]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1459s) **Bob:** I mean, at that point, were other people, like, working together in other parts of the world? Have you got people together in, you know, in London or New York as well at that point?
 
 [[24:21]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=1461s) **Taylor:** Unbeknownst to me, I thought Zug in Switzerland was kind of ground zero. And I think from a legal standpoint, that was probably true. But certainly from a code standpoint, it was not the case.  And that, you know, led to some schisms down the road of like.  The funny thing is like Game of Thrones was premiering every Sunday while like Ethereum's developing.  And Switzerland was just like, turned out to be one of the hubs, right? There was also Berlin and London and Amsterdam and Toronto, arguably.  And so it was like, took a little bit of time, but it started to become apparent there was definitely a Game of Thrones being played in many different ways. I think we were all very naive in the earliest of days.

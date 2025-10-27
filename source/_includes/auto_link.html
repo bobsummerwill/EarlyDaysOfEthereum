@@ -21,7 +21,117 @@ The system maintains proper priority: Hidden People > Videos > Articles > People
 while ensuring clean, valid HTML output.
 {%- endcomment -%}
 
+{%- comment -%}Start with original content - normalize only for matching, not for replacement{%- endcomment -%}
 {%- assign body_content = include.content -%}
+
+{%- comment -%}Convert markdown-style links [text](url) to HTML{%- endcomment -%}
+{%- assign converted = body_content -%}
+{%- assign md_link_pattern = '\[([^\]]+)\]\(([^)]+)\)' -%}
+{%- comment -%}Use a simpler approach: find and replace markdown links iteratively{%- endcomment -%}
+{%- assign continue_processing = true -%}
+{%- for i in (1..20) -%}
+  {%- unless continue_processing -%}
+    {%- break -%}
+  {%- endunless -%}
+  {%- assign continue_processing = false -%}
+  {%- assign parts = converted | split: '[' -%}
+  {%- assign new_converted = "" -%}
+  {%- for part in parts -%}
+    {%- if forloop.first -%}
+      {%- assign new_converted = part -%}
+    {%- else -%}
+      {%- assign close_bracket_pos = part | split: '](' -%}
+      {%- if close_bracket_pos.size > 1 -%}
+        {%- assign link_text = close_bracket_pos[0] -%}
+        {%- assign after_bracket = close_bracket_pos[1] -%}
+        {%- assign paren_pos = after_bracket | split: ')' -%}
+        {%- if paren_pos.size > 1 -%}
+          {%- assign url = paren_pos[0] -%}
+          {%- comment -%}Rejoin remaining parts with ) separator{%- endcomment -%}
+          {%- assign remaining_parts = "" -%}
+          {%- for remaining in paren_pos offset: 1 -%}
+            {%- if forloop.first -%}
+              {%- assign remaining_parts = remaining -%}
+            {%- else -%}
+              {%- assign remaining_parts = remaining_parts | append: ')' | append: remaining -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {%- assign new_converted = new_converted | append: '<a href="' | append: url | append: '">' | append: link_text | append: '</a>' | append: remaining_parts -%}
+          {%- assign continue_processing = true -%}
+        {%- else -%}
+          {%- assign new_converted = new_converted | append: '[' | append: part -%}
+        {%- endif -%}
+      {%- else -%}
+        {%- assign new_converted = new_converted | append: '[' | append: part -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign converted = new_converted -%}
+{%- endfor -%}
+{%- assign body_content = converted -%}
+
+{%- comment -%}Remove links to non-existent people profiles{%- endcomment -%}
+{%- comment -%}Find all links to /people/ and check if the person exists{%- endcomment -%}
+{%- assign people_link_parts = body_content | split: '<a href="' -%}
+{%- assign new_body = "" -%}
+{%- for part in people_link_parts -%}
+  {%- if forloop.first -%}
+    {%- assign new_body = part -%}
+  {%- else -%}
+    {%- comment -%}Check if this link is to a LOCAL people page (not external URLs){%- endcomment -%}
+    {%- assign is_local_people_link = false -%}
+    {%- if part contains '/people/' -%}
+      {%- unless part contains 'http://' or part contains 'https://' -%}
+        {%- assign is_local_people_link = true -%}
+      {%- endunless -%}
+    {%- endif -%}
+    {%- if is_local_people_link -%}
+      {%- assign link_parts = part | split: '">' -%}
+      {%- if link_parts.size > 1 -%}
+        {%- assign href_part = link_parts[0] -%}
+        {%- assign after_link_start = link_parts[1] -%}
+        {%- assign link_text_parts = after_link_start | split: '</a>' -%}
+        {%- if link_text_parts.size > 1 -%}
+          {%- assign link_text = link_text_parts[0] -%}
+          {%- assign after_link = link_text_parts[1] -%}
+          
+          {%- comment -%}Extract the person identifier from the href{%- endcomment -%}
+          {%- assign person_identifier = href_part | split: '/people/' | last | split: '/' | first -%}
+          
+          {%- comment -%}Check if this person exists in site.people{%- endcomment -%}
+          {%- assign person_exists = false -%}
+          {%- for person in site.people -%}
+            {%- assign person_slug = person.url | split: '/people/' | last | split: '/' | first -%}
+            {%- if person_slug == person_identifier -%}
+              {%- assign person_exists = true -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+          
+          {%- if person_exists -%}
+            {%- comment -%}Person exists, keep the link{%- endcomment -%}
+            {%- assign new_body = new_body | append: '<a href="' | append: part -%}
+          {%- else -%}
+            {%- comment -%}Person doesn't exist, replace with plain text{%- endcomment -%}
+            {%- assign new_body = new_body | append: link_text | append: after_link -%}
+            {%- comment -%}Add back any remaining </a> tags that might be in after_link{%- endcomment -%}
+            {%- for remaining in link_text_parts offset: 2 -%}
+              {%- assign new_body = new_body | append: '</a>' | append: remaining -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- else -%}
+          {%- assign new_body = new_body | append: '<a href="' | append: part -%}
+        {%- endif -%}
+      {%- else -%}
+        {%- assign new_body = new_body | append: '<a href="' | append: part -%}
+      {%- endif -%}
+    {%- else -%}
+      {%- comment -%}Not a people link, keep as is{%- endcomment -%}
+      {%- assign new_body = new_body | append: '<a href="' | append: part -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign body_content = new_body -%}
 
 {%- comment -%}Protect content inside no-auto-link-marker spans{%- endcomment -%}
 {%- assign protected_spans = "" | split: "" -%}
@@ -225,15 +335,17 @@ while ensuring clean, valid HTML output.
 
 {%- comment -%}Process people last, protecting instances that are part of existing links{%- endcomment -%}
 {%- for other_person in site.people -%}
-  {%- assign name_to_replace = other_person.name -%}
+  {%- comment -%}Normalize the person name by removing quotes{%- endcomment -%}
+  {%- assign normalized_person_name = other_person.name | remove: '"' | remove: "'" -%}
+  {%- assign name_to_replace = normalized_person_name -%}
   {%- assign nickname_to_replace = other_person.nickname -%}
-  {%- assign display_name = other_person.name -%}
+  {%- assign display_name = normalized_person_name -%}
   
   {%- comment -%}Create the replacement link{%- endcomment -%}
   {%- if other_person.hidden -%}
     {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
   {%- else -%}
-    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: other_person.name | append: '</a>' -%}
+    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: normalized_person_name | append: '</a>' -%}
   {%- endif -%}
   
   {%- comment -%}For nicknames, create a separate replacement that links to the same person{%- endcomment -%}
@@ -292,8 +404,17 @@ while ensuring clean, valid HTML output.
     {%- endif -%}
   {%- endfor -%}
   
-  {%- comment -%}Now replace the person name in the remaining content{%- endcomment -%}
+  {%- comment -%}Now replace the person name in the remaining content - handle both normalized and original versions{%- endcomment -%}
   {%- assign temp_content = temp_content | replace: name_to_replace, link_replacement -%}
+  {%- comment -%}Also handle versions with quotes if different from normalized{%- endcomment -%}
+  {%- assign quoted_name = '"' | append: normalized_person_name | append: '"' -%}
+  {%- assign single_quoted_name = "'" | append: normalized_person_name | append: "'" -%}
+  {%- if quoted_name != name_to_replace -%}
+    {%- assign temp_content = temp_content | replace: quoted_name, link_replacement -%}
+  {%- endif -%}
+  {%- if single_quoted_name != name_to_replace -%}
+    {%- assign temp_content = temp_content | replace: single_quoted_name, link_replacement -%}
+  {%- endif -%}
   
   {%- comment -%}Also replace the nickname if it exists{%- endcomment -%}
   {%- if nickname_to_replace and nickname_to_replace != "" -%}

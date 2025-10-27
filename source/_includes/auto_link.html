@@ -317,18 +317,57 @@ while ensuring clean, valid HTML output.
 {%- comment -%}Process videos first{%- endcomment -%}
 {%- for video in site.videos -%}
   {%- assign title_to_replace = video.title -%}
-  {%- assign link_replacement = '<a href="' | append: video.url | append: '">' | append: video.title | append: '</a>' -%}
+  {%- assign video_url = video.url | relative_url -%}
+  {%- assign link_replacement = '<a href="' | append: video_url | append: '">' | append: video.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
 {%- endfor -%}
+
+{%- comment -%}Protect rendered content-embed blocks (blog-embed-card divs) from auto-linking{%- endcomment -%}
+{%- assign content_embeds = "" | split: "" -%}
+{%- assign embed_parts = body_content | split: '<div class="blog-embed-card"' -%}
+{%- if embed_parts.size > 1 -%}
+  {%- assign new_body = embed_parts[0] -%}
+  {%- for part in embed_parts offset: 1 -%}
+    {%- assign end_parts = part | split: '</div>' -%}
+    {%- if end_parts.size > 1 -%}
+      {%- comment -%}Find the closing div for blog-embed-card by counting nested divs{%- endcomment -%}
+      {%- assign div_count = 1 -%}
+      {%- assign embed_content = '<div class="blog-embed-card"' | append: end_parts[0] -%}
+      {%- assign remaining_content = "" -%}
+      {%- for remaining_part in end_parts offset: 1 -%}
+        {%- assign div_opens = remaining_part | split: '<div' | size | minus: 1 -%}
+        {%- assign div_count = div_count | plus: div_opens | minus: 1 -%}
+        {%- if div_count == 0 -%}
+          {%- assign embed_content = embed_content | append: '</div>' -%}
+          {%- assign remaining_content = remaining_part -%}
+          {%- for rest in end_parts offset: forloop.index | plus: 1 -%}
+            {%- assign remaining_content = remaining_content | append: '</div>' | append: rest -%}
+          {%- endfor -%}
+          {%- break -%}
+        {%- else -%}
+          {%- assign embed_content = embed_content | append: '</div>' | append: remaining_part -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- assign placeholder = '___CONTENT_EMBED_' | append: forloop.index | append: '___' -%}
+      {%- assign embed_pair = placeholder | append: '|||' | append: embed_content -%}
+      {%- assign content_embeds = content_embeds | push: embed_pair -%}
+      {%- assign new_body = new_body | append: placeholder | append: remaining_content -%}
+    {%- else -%}
+      {%- assign new_body = new_body | append: '<div class="blog-embed-card"' | append: part -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign body_content = new_body -%}
+{%- endif -%}
 
 {%- comment -%}Process articles second - always create simple links, never embeds{%- endcomment -%}
 {%- for article in site.articles -%}
   {%- assign title_to_replace = article.title -%}
   {%- assign alias_to_replace = article.alias -%}
-  {%- assign link_replacement = '<a href="' | append: article.url | append: '">' | append: article.title | append: '</a>' -%}
+  {%- assign article_url = article.url | relative_url -%}
+  {%- assign link_replacement = '<a href="' | append: article_url | append: '">' | append: article.title | append: '</a>' -%}
   {%- assign body_content = body_content | replace: title_to_replace, link_replacement -%}
   {%- if alias_to_replace %}
-    {%- assign alias_link_replacement = '<a href="' | append: article.url | append: '">' | append: article.alias | append: '</a>' -%}
+    {%- assign alias_link_replacement = '<a href="' | append: article_url | append: '">' | append: article.alias | append: '</a>' -%}
     {%- assign body_content = body_content | replace: alias_to_replace, alias_link_replacement -%}
   {%- endif -%}
 {%- endfor -%}
@@ -342,18 +381,19 @@ while ensuring clean, valid HTML output.
   {%- assign display_name = normalized_person_name -%}
   
   {%- comment -%}Create the replacement link{%- endcomment -%}
+  {%- assign person_url = other_person.url | relative_url -%}
   {%- if other_person.hidden -%}
-    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: person_url | append: '">[REDACTED]</span>' -%}
   {%- else -%}
-    {%- assign link_replacement = '<a href="' | append: other_person.url | append: '">' | append: normalized_person_name | append: '</a>' -%}
+    {%- assign link_replacement = '<a href="' | append: person_url | append: '">' | append: normalized_person_name | append: '</a>' -%}
   {%- endif -%}
   
   {%- comment -%}For nicknames, create a separate replacement that links to the same person{%- endcomment -%}
   {%- if nickname_to_replace and nickname_to_replace != "" -%}
     {%- if other_person.hidden -%}
-      {%- assign nickname_link_replacement = '<span class="hidden-autolink" data-original-name="' | append: nickname_to_replace | append: '" data-original-url="' | append: other_person.url | append: '">[REDACTED]</span>' -%}
+      {%- assign nickname_link_replacement = '<span class="hidden-autolink" data-original-name="' | append: nickname_to_replace | append: '" data-original-url="' | append: person_url | append: '">[REDACTED]</span>' -%}
     {%- else -%}
-      {%- assign nickname_link_replacement = '<a href="' | append: other_person.url | append: '">' | append: nickname_to_replace | append: '</a>' -%}
+      {%- assign nickname_link_replacement = '<a href="' | append: person_url | append: '">' | append: nickname_to_replace | append: '</a>' -%}
     {%- endif -%}
   {%- endif -%}
   
@@ -438,6 +478,14 @@ while ensuring clean, valid HTML output.
   {%- assign placeholder = parts[0] -%}
   {%- assign original_attr = parts[1] -%}
   {%- assign body_content = body_content | replace: placeholder, original_attr -%}
+{%- endfor -%}
+
+{%- comment -%}Restore content-embed includes{%- endcomment -%}
+{%- for pair in content_embeds -%}
+  {%- assign parts = pair | split: '|||' -%}
+  {%- assign placeholder = parts[0] -%}
+  {%- assign original_embed = parts[1] -%}
+  {%- assign body_content = body_content | replace: placeholder, original_embed -%}
 {%- endfor -%}
 
 {%- comment -%}Restore protected span markers{%- endcomment -%}

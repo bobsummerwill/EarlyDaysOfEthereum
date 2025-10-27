@@ -375,66 +375,6 @@ Display people grouped by start date with epoch headings
                     {% endif %}
                 </div>
             </div>
-            
-            {% if person.devcon0 %}
-            <div class="devcon0-section">
-                <h4 class="devcon0-header">DEVCON0 self-introduction</h4>
-                
-                {% assign name_parts = person.name | split: ' ' %}
-                {% assign firstname = name_parts[0] | downcase %}
-                {% assign lastname = name_parts[-1] | downcase %}
-                {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
-                {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
-                
-                {% comment %}Check if thumbnail file exists{% endcomment %}
-                {% assign thumbnail_exists = false %}
-                {% for static_file in site.static_files %}
-                    {% if static_file.path == thumbnail_path %}
-                        {% assign thumbnail_exists = true %}
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-                
-                <div class="devcon0-video-container-people">
-                    <div class="devcon0-thumbnail-wrapper-people">
-                        {% if thumbnail_exists %}
-                            <img src="{{ thumbnail_path }}" 
-                                 alt="{{ person.name }} DEVCON0 introduction"
-                                 class="devcon0-thumbnail-img-people"
-                                 data-person-name="{{ person.name }}"
-                                 data-devcon0-timestamp="{{ person.devcon0 }}">
-                            
-                            <!-- Play button overlay -->
-                            <div class="play-button-overlay-people">
-                                <div class="play-button-triangle-people"></div>
-                            </div>
-                        {% else %}
-                            <!-- No thumbnail available, show iframe directly -->
-                            <div class="devcon0-fallback-people">
-                                <iframe 
-                                    src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
-                                    frameborder="0" 
-                                    allowfullscreen
-                                    title="DEVCON0 self-introduction"
-                                    class="devcon0-iframe-people">
-                                </iframe>
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <!-- Hidden video container for click-to-play -->
-                    <div class="devcon0-video-player-people">
-                        <iframe 
-                            src="" 
-                            frameborder="0" 
-                            allowfullscreen
-                            title="DEVCON0 self-introduction"
-                            class="devcon0-iframe-people">
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-            {% endif %}
         </div>
         {% endfor %}
     </div>
@@ -475,66 +415,6 @@ Display people without start dates in "Other" section
                     {% endif %}
                 </div>
             </div>
-            
-            {% if person.devcon0 %}
-            <div class="devcon0-section">
-                <h4 class="devcon0-header-left">DEVCON0 self-introduction</h4>
-                
-                {% assign name_parts = person.name | split: ' ' %}
-                {% assign firstname = name_parts[0] | downcase %}
-                {% assign lastname = name_parts[-1] | downcase %}
-                {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
-                {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
-                
-                {% comment %}Check if thumbnail file exists{% endcomment %}
-                {% assign thumbnail_exists = false %}
-                {% for static_file in site.static_files %}
-                    {% if static_file.path == thumbnail_path %}
-                        {% assign thumbnail_exists = true %}
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-                
-                <div class="devcon0-video-container-people">
-                    <div class="devcon0-thumbnail-wrapper-people">
-                        {% if thumbnail_exists %}
-                            <img src="{{ thumbnail_path }}" 
-                                 alt="{{ person.name }} DEVCON0 introduction" 
-                                 class="devcon0-thumbnail-img-people"
-                                 data-person-name="{{ person.name }}"
-                                 data-devcon0-timestamp="{{ person.devcon0 }}">
-                            
-                            <!-- Play button overlay -->
-                            <div class="play-button-overlay-people">
-                                <div class="play-button-triangle-people"></div>
-                            </div>
-                        {% else %}
-                            <!-- No thumbnail available, show iframe directly -->
-                            <div class="devcon0-fallback-people">
-                                <iframe 
-                                    src="https://www.youtube.com/embed/_BvvUlKDqp0?start={{ person.devcon0 }}" 
-                                    frameborder="0" 
-                                    allowfullscreen
-                                    title="DEVCON0 self-introduction"
-                                    class="devcon0-iframe-people">
-                                </iframe>
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <!-- Hidden video container for click-to-play -->
-                    <div class="devcon0-video-player-people">
-                        <iframe 
-                            src="" 
-                            frameborder="0" 
-                            allowfullscreen
-                            title="DEVCON0 self-introduction"
-                            class="devcon0-iframe-people">
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-            {% endif %}
         </div>
         {% endfor %}
     </div>

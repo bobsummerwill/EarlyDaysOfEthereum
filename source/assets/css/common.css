@@ -731,8 +731,8 @@ img {
     margin-top: var(--spacing-5xl);
     margin-bottom: var(--spacing-6xl);
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: var(--spacing-4xl);
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: var(--spacing-2xl);
     max-width: 1200px;
 }
 
@@ -745,12 +745,12 @@ img {
  */
 .person-card {
     background: var(--bg-card);
-    padding: var(--spacing-lg);
+    padding: var(--spacing-md);
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-lg);
+    gap: var(--spacing-md);
 }
 
 .person-card .person-header {

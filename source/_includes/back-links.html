@@ -2,6 +2,7 @@
 Back-links Generator
 ====================
 Searches all collections (articles, videos, people) to find pages that link to the current page.
+Also includes reciprocal back-links - pages that the current page would auto-link to.
 Articles and videos are intermixed chronologically, followed by people.
 
 Usage: {% include back-links.html %}
@@ -9,19 +10,20 @@ Expects page.url to be set (automatically available in layouts)
 {% endcomment %}
 
 {% assign current_url = page.url %}
-{% assign current_title = page.title %}
-{% assign current_name = page.name %}
-{% assign current_alias = page.alias %}
+{% assign current_title = page.title | default: page.name | remove: '"' | remove: "'" %}
+{% assign current_name = page.name | remove: '"' | remove: "'" %}
+{% assign current_alias = page.alias | remove: '"' | remove: "'" %}
 {% assign content_backlinks = "" | split: "" %}
 {% assign people_backlinks = "" | split: "" %}
 
 {% comment %}
+Phase 1: Traditional back-links
 Search through all articles for references to current page
 {% endcomment %}
 {% for article in site.articles %}
   {% if article.url != current_url and article.hidden != true and article.hidden != 'true' %}
     {% comment %}Check if article content or title links to current page{% endcomment %}
-    {% assign content_with_fm = article.content | append: article.title | append: article.description %}
+    {% assign content_with_fm = article.content | append: article.title | append: article.description | remove: '"' | remove: "'" %}
     {% assign found_match = false %}
     {% if content_with_fm contains current_url %}
       {% assign found_match = true %}
@@ -47,15 +49,17 @@ Search through all videos for references to current page
 {% for video in site.videos %}
   {% if video.url != current_url %}
     {% comment %}Check video content, hosts, guests{% endcomment %}
-    {% assign video_content = video.content | append: video.title | append: video.description %}
+    {% assign video_content = video.content | append: video.title | append: video.description | remove: '"' | remove: "'" %}
     {% if video.hosts %}
       {% for host in video.hosts %}
-        {% assign video_content = video_content | append: " " | append: host %}
+        {% assign normalized_host = host | remove: '"' | remove: "'" %}
+        {% assign video_content = video_content | append: " " | append: normalized_host %}
       {% endfor %}
     {% endif %}
     {% if video.guests %}
       {% for guest in video.guests %}
-        {% assign video_content = video_content | append: " " | append: guest %}
+        {% assign normalized_guest = guest | remove: '"' | remove: "'" %}
+        {% assign video_content = video_content | append: " " | append: normalized_guest %}
       {% endfor %}
     {% endif %}
     {% assign found_match = false %}
@@ -83,7 +87,7 @@ Search through all people for references to current page
 {% for person in site.people %}
   {% if person.url != current_url and person.hidden != true and person.hidden != 'true' %}
     {% comment %}Check person content and description{% endcomment %}
-    {% assign person_content = person.content | append: person.description | append: person.name %}
+    {% assign person_content = person.content | append: person.description | append: person.name | remove: '"' | remove: "'" %}
     {% assign found_match = false %}
     {% if person_content contains current_url %}
       {% assign found_match = true %}
@@ -104,15 +108,14 @@ Search through all people for references to current page
 {% endfor %}
 
 {% comment %}
-Sort content (articles and videos) chronologically by date
-{% endcomment %}
-{% assign sorted_content = content_backlinks | sort: "date" %}
-
-{% comment %}
-Phase 2: Auto-link reciprocal back-links
+Phase 2: Reciprocal back-links
 Find content that the current page would auto-link to, and add those as reciprocal back-links
 {% endcomment %}
 {% assign current_content = page.content | append: page.title | append: page.description %}
+{% if page.author %}
+  {% assign current_content = current_content | append: " " | append: page.author %}
+{% endif %}
+{% assign current_content = current_content | remove: '"' | remove: "'" %}
 
 {% comment %}
 Find people that the current page would auto-link to
@@ -120,7 +123,8 @@ Find people that the current page would auto-link to
 {% for person in site.people %}
   {% if person.url != current_url and person.hidden != true and person.hidden != 'true' %}
     {% comment %}Check if current page content contains this person's name (would create auto-link){% endcomment %}
-    {% if person.name and person.name != "" and current_content contains person.name %}
+    {% assign normalized_person_name = person.name | remove: '"' | remove: "'" %}
+    {% if normalized_person_name and normalized_person_name != "" and current_content contains normalized_person_name %}
       {% comment %}Add this person as a reciprocal back-link{% endcomment %}
       {% assign already_exists = false %}
       {% for existing in people_backlinks %}
@@ -145,12 +149,14 @@ Find articles that the current page would auto-link to
     {% assign would_be_linked = false %}
     
     {% comment %}Check if current page would auto-link to this article by title{% endcomment %}
-    {% if article.title and article.title != "" and current_content contains article.title %}
+    {% assign normalized_article_title = article.title | remove: '"' | remove: "'" %}
+    {% if normalized_article_title and normalized_article_title != "" and current_content contains normalized_article_title %}
       {% assign would_be_linked = true %}
     {% endif %}
     
     {% comment %}Check if current page would auto-link to this article by alias{% endcomment %}
-    {% if article.alias and article.alias != "" and current_content contains article.alias %}
+    {% assign normalized_article_alias = article.alias | remove: '"' | remove: "'" %}
+    {% if normalized_article_alias and normalized_article_alias != "" and current_content contains normalized_article_alias %}
       {% assign would_be_linked = true %}
     {% endif %}
     
@@ -176,7 +182,8 @@ Find videos that the current page would auto-link to
 {% for video in site.videos %}
   {% if video.url != current_url %}
     {% comment %}Check if current page would auto-link to this video by title{% endcomment %}
-    {% if video.title and video.title != "" and current_content contains video.title %}
+    {% assign normalized_video_title = video.title | remove: '"' | remove: "'" %}
+    {% if normalized_video_title and normalized_video_title != "" and current_content contains normalized_video_title %}
       {% comment %}Check if this video isn't already in the backlinks{% endcomment %}
       {% assign already_exists = false %}
       {% for existing in content_backlinks %}
@@ -216,9 +223,9 @@ Display back-links section if any were found
     {% comment %}First display articles and videos in chronological order{% endcomment %}
     {% for backlink in sorted_content %}
     <li>
-      <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
+      <a href="{{ backlink.url | relative_url }}">{{ backlink.title | default: backlink.name }}</a>
       {% if backlink.collection %}
-        <span class="back-link-type">({{ backlink.collection | slice: 0 | upcase }}{{ backlink.collection | slice: 1, 20 }})</span>
+        <span class="back-link-type">({{ backlink.collection | slice: 0 | upcase }}{{ backlink.collection | slice: 1, 20 }}{% if backlink.date %}, {{ backlink.date | date: "%B %d, %Y" }}{% endif %})</span>
       {% endif %}
     </li>
     {% endfor %}
@@ -227,7 +234,7 @@ Display back-links section if any were found
     {% assign sorted_people = people_backlinks | sort: "name" %}
     {% for backlink in sorted_people %}
     <li>
-      <a href="{{ backlink.url }}">{{ backlink.title | default: backlink.name }}</a>
+      <a href="{{ backlink.url | relative_url }}">{{ backlink.title | default: backlink.name }}</a>
       {% if backlink.collection %}
         <span class="back-link-type">({{ backlink.collection | slice: 0 | upcase }}{{ backlink.collection | slice: 1, 20 }})</span>
       {% endif %}

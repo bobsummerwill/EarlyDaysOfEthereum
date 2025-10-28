@@ -37,6 +37,11 @@ Search through all articles for references to current page
     {% if current_alias and current_alias != "" and content_with_fm contains current_alias %}
       {% assign found_match = true %}
     {% endif %}
+    {% comment %}Check if this article is authored by the current person{% endcomment %}
+    {% assign normalized_author = article.author | remove: '"' | remove: "'" %}
+    {% if normalized_author and current_name and normalized_author == current_name %}
+      {% assign found_match = true %}
+    {% endif %}
     {% if found_match %}
       {% assign content_backlinks = content_backlinks | push: article %}
     {% endif %}

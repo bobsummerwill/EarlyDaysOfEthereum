@@ -115,6 +115,17 @@ Find content that the current page would auto-link to, and add those as reciproc
 {% if page.author %}
   {% assign current_content = current_content | append: " " | append: page.author %}
 {% endif %}
+{% comment %}Include hosts and guests in current content for reciprocal back-links{% endcomment %}
+{% if page.hosts %}
+  {% for host in page.hosts %}
+    {% assign current_content = current_content | append: " " | append: host %}
+  {% endfor %}
+{% endif %}
+{% if page.guests %}
+  {% for guest in page.guests %}
+    {% assign current_content = current_content | append: " " | append: guest %}
+  {% endfor %}
+{% endif %}
 {% assign current_content = current_content | remove: '"' | remove: "'" %}
 
 {% comment %}

@@ -2,7 +2,7 @@
 title: "Ethereum Community and Adoption Update - Week 1"
 date: 2014-11-03
 author: Stephan Tual
-description: "Stephan Tual's first community update outlining Ethereum's education, meetup, and community initiatives, including the announcement of new team members Ken Kappler, Anthony D'Onofrio, Freya Stevens, George Hallam, Ian Meikle, and Vinay Gupta"
+description: "Stephan Tual's first community update outlining Ethereum's education, meetup, and community initiatives, including the announcement of new team members."
 embed:
   url: https://blog.ethereum.org/2014/11/03/stephans-ethereum-community-adoption-update-week-1
   img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Fposts%2Fvlcsnap-2014-11-03-19h47m32s52.png&w=3840&q=75

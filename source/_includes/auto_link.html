@@ -218,13 +218,21 @@ while ensuring clean, valid HTML output.
       {%- else -%}
         {%- comment -%}Check if this part starts with the hidden person's URL{%- endcomment -%}
         {%- if part contains person_url_pattern or part contains person_url_pattern_slash -%}
-          {%- comment -%}Find the closing tag and replace the link with [REDACTED]{%- endcomment -%}
+          {%- comment -%}Find the closing tag and replace the link with [REDACTED] span{%- endcomment -%}
           {%- assign close_tag_parts = part | split: '</a>' -%}
           {%- if close_tag_parts.size > 1 -%}
             {%- comment -%}Check if this is actually a link to this person{%- endcomment -%}
             {%- assign link_start = close_tag_parts[0] -%}
             {%- if link_start contains person.url -%}
-              {%- assign new_content = new_content | append: '[REDACTED]' -%}
+              {%- comment -%}Extract the link text for data-original-name{%- endcomment -%}
+              {%- assign link_text_parts = link_start | split: '">' -%}
+              {%- if link_text_parts.size > 1 -%}
+                {%- assign link_text = link_text_parts[1] -%}
+              {%- else -%}
+                {%- assign link_text = person.name -%}
+              {%- endif -%}
+              {%- assign redaction_span = '<span class="hidden-autolink" data-original-name="' | append: link_text | append: '" data-original-url="' | append: person.url | append: '">[REDACTED]</span>' -%}
+              {%- assign new_content = new_content | append: redaction_span -%}
               {%- for remaining_part in close_tag_parts offset: 1 -%}
                 {%- if forloop.first -%}
                   {%- assign new_content = new_content | append: remaining_part -%}
@@ -244,6 +252,12 @@ while ensuring clean, valid HTML output.
       {%- endif -%}
     {%- endfor -%}
     {%- assign body_content = new_content -%}
+    
+    {%- comment -%}Also replace plain text occurrences of hidden person names{%- endcomment -%}
+    {%- assign normalized_person_name = person.name | remove: '"' | remove: "'" -%}
+    {%- assign person_url = person.url | relative_url -%}
+    {%- assign name_redaction = '<span class="hidden-autolink" data-original-name="' | append: normalized_person_name | append: '" data-original-url="' | append: person_url | append: '">[REDACTED]</span>' -%}
+    {%- assign body_content = body_content | replace: normalized_person_name, name_redaction -%}
   {%- endif -%}
 {%- endfor -%}
 
@@ -374,28 +388,22 @@ while ensuring clean, valid HTML output.
 
 {%- comment -%}Process people last, protecting instances that are part of existing links{%- endcomment -%}
 {%- for other_person in site.people -%}
-  {%- comment -%}Normalize the person name by removing quotes{%- endcomment -%}
-  {%- assign normalized_person_name = other_person.name | remove: '"' | remove: "'" -%}
-  {%- assign name_to_replace = normalized_person_name -%}
-  {%- assign nickname_to_replace = other_person.nickname -%}
-  {%- assign display_name = normalized_person_name -%}
-  
-  {%- comment -%}Create the replacement link{%- endcomment -%}
-  {%- assign person_url = other_person.url | relative_url -%}
-  {%- if other_person.hidden -%}
-    {%- assign link_replacement = '<span class="hidden-autolink" data-original-name="' | append: display_name | append: '" data-original-url="' | append: person_url | append: '">[REDACTED]</span>' -%}
-  {%- else -%}
+  {%- comment -%}Skip hidden people - they were already processed in the hidden people phase{%- endcomment -%}
+  {%- unless other_person.hidden -%}
+    {%- comment -%}Normalize the person name by removing quotes{%- endcomment -%}
+    {%- assign normalized_person_name = other_person.name | remove: '"' | remove: "'" -%}
+    {%- assign name_to_replace = normalized_person_name -%}
+    {%- assign nickname_to_replace = other_person.nickname -%}
+    {%- assign display_name = normalized_person_name -%}
+    
+    {%- comment -%}Create the replacement link{%- endcomment -%}
+    {%- assign person_url = other_person.url | relative_url -%}
     {%- assign link_replacement = '<a href="' | append: person_url | append: '">' | append: normalized_person_name | append: '</a>' -%}
-  {%- endif -%}
-  
-  {%- comment -%}For nicknames, create a separate replacement that links to the same person{%- endcomment -%}
-  {%- if nickname_to_replace and nickname_to_replace != "" -%}
-    {%- if other_person.hidden -%}
-      {%- assign nickname_link_replacement = '<span class="hidden-autolink" data-original-name="' | append: nickname_to_replace | append: '" data-original-url="' | append: person_url | append: '">[REDACTED]</span>' -%}
-    {%- else -%}
+    
+    {%- comment -%}For nicknames, create a separate replacement that links to the same person{%- endcomment -%}
+    {%- if nickname_to_replace and nickname_to_replace != "" -%}
       {%- assign nickname_link_replacement = '<a href="' | append: person_url | append: '">' | append: nickname_to_replace | append: '</a>' -%}
     {%- endif -%}
-  {%- endif -%}
   
   {%- comment -%}Replace person names, but protect instances within existing article/video links{%- endcomment -%}
   {%- assign temp_content = body_content -%}
@@ -470,6 +478,7 @@ while ensuring clean, valid HTML output.
   {%- endfor -%}
   
   {%- assign body_content = temp_content -%}
+  {%- endunless -%}
 {%- endfor -%}
 
 {%- comment -%}Restore protected attributes (from early protection){%- endcomment -%}

@@ -1,7 +1,7 @@
 ---
 name: Freya Stevens
 description: PR/Marketing lead for Ethereum
-photo: https://media.licdn.com/dms/image/v2/C4D03AQFtnKpZGvjKLQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600699640329?e=1762992000&v=beta&t=of8IxSqk02Qs-s_AdHH9udICbJd-JiW6ljqTnMkCZDg
+photo: /images/linkedin.com/2025.10.28/freya-stevens.jpeg
 social:
   linkedin: https://www.linkedin.com/in/freyastevens/
 ---

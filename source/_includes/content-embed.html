@@ -45,7 +45,7 @@
         {% endif %}
         {% if include.author or include.date %}
           <div class="content-embed-metadata">
-            {% if include.author %}by {% include auto_link.html content=include.author %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date }}</span>{% endif %}
+            {% if include.author %}by {% include auto_link.html content=include.author %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
           </div>
         {% endif %}
       </div>

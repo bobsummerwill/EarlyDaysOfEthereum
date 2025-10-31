@@ -1,7 +1,6 @@
 ---
 title: '"Crypto Valley"'
 date: 2013-10-30
-author: "Bob Summerwill"
 description: In July 2013, Johann Gevers relocated his cryptofinance startup, Monetas (a Bitcoin payment system), to Zug, envisioning it as a "global hub for crypto technologies" modeled after Silicon Valley.
 embed:
   url: https://cryptovalley.swiss/about-us/

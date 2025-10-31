@@ -1,7 +1,6 @@
 ---
 title: '"Red Wedding"'
 date: 2014-06-07
-author: "Bob Summerwill"
 description: 'The "Red Wedding" was the meeting at Zug in June 2014 where Charles Hoskinson and Amir Chetrit were ejected from the project.'
 img: /images/x.com/2025.09.07/TaylorGerring/status/1531973630623633408/1531973630623633408_1.jpg
 ---

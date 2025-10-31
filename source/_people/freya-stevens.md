@@ -19,7 +19,7 @@ Freya Stevens was announced as a newly hired PR/Marketing lead in a November 201
 > 
 > "I invited [Vitalik](/people/vitalik-buterin/) and Stephan Tual to [Cambridge University](https://en.wikipedia.org/wiki/University_of_Cambridge) as I was helping the crypto currency society there to get off the ground. They came and met someone that I was also working with at the time, helping with the [Cambridge Bitcoin Meetup](https://www.meetup.com/cambridge-bitcoin/) - he was called [Justin Drake](https://x.com/drakefjustin) - a few years later he would join the team."
 
-Here the blog post where she was prematurely announced.  She continues to work in the industry:
+Here is the blog post where she was prematurely announced.  She continues to work in the industry:
 
 {% include article-embed.html
   name="Ethereum Community and Adoption Update - Week 1"

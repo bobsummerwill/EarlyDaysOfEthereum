@@ -64,6 +64,7 @@ Who else did not make the photo?  Anybody missing here?
 - Felix Lange
 - Lefteris Karapetsas
 - Marek Kotewicz
+- Piotrek Janiuk
 - Roland Wilder
 - Sarah O'Neill
 

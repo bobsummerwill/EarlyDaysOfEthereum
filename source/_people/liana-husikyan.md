@@ -1,6 +1,6 @@
 ---
 name: Liana Husikyan
-description: Remix
+description: Mix and Remix
 start: Jan 2015
 end: around Jun 2016
 social:

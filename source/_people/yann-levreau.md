@@ -1,7 +1,7 @@
 ---
 name: Yann Levreau
 nickname: yann300
-description: Remix
+description: Mix and Remix
 photo: /images/archive.org/ethdev.com/20150315012946/yann-levreau.jpg
 start: Nov 2014
 

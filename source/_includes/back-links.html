@@ -25,9 +25,24 @@ Search through all articles for references to current page
     {% comment %}Check if article content or title links to current page{% endcomment %}
     {% assign content_with_fm = article.content | append: article.title | append: article.description | remove: '"' | remove: "'" %}
     {% assign found_match = false %}
+    {% comment %}Check for URL with or without trailing slash{% endcomment %}
     {% if content_with_fm contains current_url %}
       {% assign found_match = true %}
     {% endif %}
+    {% unless found_match %}
+      {% comment %}Create alternate URL version by adding/removing only trailing slash{% endcomment %}
+      {% assign url_length = current_url | size %}
+      {% assign last_char_index = url_length | minus: 1 %}
+      {% assign last_char = current_url | slice: last_char_index %}
+      {% if last_char == "/" %}
+        {% assign url_alternate = current_url | slice: 0, last_char_index %}
+      {% else %}
+        {% assign url_alternate = current_url | append: "/" %}
+      {% endif %}
+      {% if content_with_fm contains url_alternate %}
+        {% assign found_match = true %}
+      {% endif %}
+    {% endunless %}
     {% if current_title and current_title != "" and content_with_fm contains current_title %}
       {% assign found_match = true %}
     {% endif %}
@@ -68,9 +83,24 @@ Search through all videos for references to current page
       {% endfor %}
     {% endif %}
     {% assign found_match = false %}
+    {% comment %}Check for URL with or without trailing slash{% endcomment %}
     {% if video_content contains current_url %}
       {% assign found_match = true %}
     {% endif %}
+    {% unless found_match %}
+      {% comment %}Create alternate URL version by adding/removing only trailing slash{% endcomment %}
+      {% assign url_length = current_url | size %}
+      {% assign last_char_index = url_length | minus: 1 %}
+      {% assign last_char = current_url | slice: last_char_index %}
+      {% if last_char == "/" %}
+        {% assign url_alternate = current_url | slice: 0, last_char_index %}
+      {% else %}
+        {% assign url_alternate = current_url | append: "/" %}
+      {% endif %}
+      {% if video_content contains url_alternate %}
+        {% assign found_match = true %}
+      {% endif %}
+    {% endunless %}
     {% if current_title and current_title != "" and video_content contains current_title %}
       {% assign found_match = true %}
     {% endif %}
@@ -94,9 +124,24 @@ Search through all people for references to current page
     {% comment %}Check person content and description{% endcomment %}
     {% assign person_content = person.content | append: person.description | append: person.name | remove: '"' | remove: "'" %}
     {% assign found_match = false %}
+    {% comment %}Check for URL with or without trailing slash{% endcomment %}
     {% if person_content contains current_url %}
       {% assign found_match = true %}
     {% endif %}
+    {% unless found_match %}
+      {% comment %}Create alternate URL version by adding/removing only trailing slash{% endcomment %}
+      {% assign url_length = current_url | size %}
+      {% assign last_char_index = url_length | minus: 1 %}
+      {% assign last_char = current_url | slice: last_char_index %}
+      {% if last_char == "/" %}
+        {% assign url_alternate = current_url | slice: 0, last_char_index %}
+      {% else %}
+        {% assign url_alternate = current_url | append: "/" %}
+      {% endif %}
+      {% if person_content contains url_alternate %}
+        {% assign found_match = true %}
+      {% endif %}
+    {% endunless %}
     {% if current_title and current_title != "" and person_content contains current_title %}
       {% assign found_match = true %}
     {% endif %}

@@ -77,7 +77,11 @@ Wednesday's presentation and panel content offered a great opportunity to get th
 
 The morning commenced with Vinay Gupta leading a workshop which had everyone present trying to come up with a definitive answer to "What is Ethereum?". It turns out it's not as easy as we thought! Each person had a chance to stand up and offer their own personal 30 second definition on what Ethereum is. The answers were diverse, and it was interesting to see how people changed their angle of approach depending on which audience the explanation was aimed at.
 
-**--> MISSING VIDEO <--**
+{% include video-embed.html
+  name="Ethereum ÐΞVcon-0: How to Sell Ideas"
+%}
+
+**(This video does not match the description in the blog post, but is certainly a presentation which Vinay Gupta gave at DEVCON!)**
 
 Following Vinay's workshop, Martin Becze brought everyone up to speed with node-ethereum - a Node.js project he has been working on with Joseph Chow in Palo Alto. The talk started by outlining the ethereumjs-lib and node-etheruem's architecture, then focused on areas where the client differs in structure from the other C++, Go and Python client implementations. Jeff Wilcke also gave a brief update on Ethereum Go client on the whiteboard before the panel discussion.
 

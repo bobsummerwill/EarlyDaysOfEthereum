@@ -1,6 +1,5 @@
 ---
 title: "Jeff's Ethereum ÐΞV Update II"
-lowercase_title: jeff's ethereum dev update ii
 date: 2015-01-06
 author: Jeffrey Wilcke
 embed:

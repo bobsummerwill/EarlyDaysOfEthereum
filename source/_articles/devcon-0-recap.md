@@ -1,6 +1,5 @@
 ---
 title: "ÐΞVcon-0 Recap"
-lowercase_title: devcon-0 recap
 date: 2014-12-05
 author: George Hallam
 description: "A comprehensive recap of the first Ethereum developer conference held in Berlin from November 24-28, 2014, covering mission, processes, languages, ÐApps, architecture, security, and future blockchain theory"

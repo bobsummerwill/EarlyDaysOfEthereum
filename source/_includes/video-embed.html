@@ -5,9 +5,6 @@
   {% if video.title == video_name %}
     {% assign found_video = video %}
     {% break %}
-  {% elsif video.lowercase_title == video_name %}
-    {% assign found_video = video %}
-    {% break %}
   {% endif %}
 {% endfor %}
 

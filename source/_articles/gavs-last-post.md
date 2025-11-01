@@ -1,6 +1,5 @@
 ---
 title: "The last Blog Post"
-lowercase_title: "the last blog post"
 date: 2016-01-11
 author: Gavin Wood
 description: "Gavin Wood's farewell blog post announcing his departure from the Ethereum Foundation to pursue new ventures, reflecting on his journey and the future ahead"

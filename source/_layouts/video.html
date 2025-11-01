@@ -27,7 +27,7 @@ layout: default
           Video title and meta information (release date, hosts, guests).
           - Jekyll Front Matter: https://jekyllrb.com/docs/front-matter/
         -->
-        <h1>{% if page.lowercase_title %}{{ page.lowercase_title }}{% else %}{{ page.title }}{% endif %}</h1>
+        <h1>{{ page.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}</h1>
         <div class="content-meta">
             {% if page.date %}
                 <div class="release-date video-release-date">

@@ -1,6 +1,5 @@
 ---
 title: "Another Ethereum ÐΞV Update"
-lowercase_title: "another ethereum dev update"
 date: 2015-06-15
 author: Gavin Wood
 embed:

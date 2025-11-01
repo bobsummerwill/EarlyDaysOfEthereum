@@ -1,6 +1,5 @@
 ---
 title: "Ethereum ÐΞV: What are we doing?"
-lowercase_title: "ethereum dev: what are we doing?"
 date: 2014-12-17
 author: Gavin Wood
 embed:

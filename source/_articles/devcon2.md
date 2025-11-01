@@ -1,6 +1,5 @@
 ---
 title: "DEVCON2"
-lowercase_title: devcon2
 date: 2016-09-19
 author: Ethereum Foundation
 description: "The second public Ethereum developer conference held in Shanghai, China"

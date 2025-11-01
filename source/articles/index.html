@@ -53,7 +53,7 @@ title: Articles
         {% endif %}
         
         <div class="article-info">
-            <h3><a href="{{ article.url }}">{% if article.lowercase_title %}{{ article.lowercase_title }}{% else %}{{ article.title }}{% endif %}{% if article.alias %} ("{{ article.alias }}"){% endif %}</a></h3>
+            <h3><a href="{{ article.url }}">{{ article.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}{% if article.alias %} ("{{ article.alias }}"){% endif %}</a></h3>
             
             <div class="article-meta">
                 {% if article.date %}

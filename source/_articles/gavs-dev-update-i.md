@@ -1,6 +1,5 @@
 ---
 title: "Gav's ÐΞV Update I: Where Ethereum's at"
-lowercase_title: "gav's dev update i: where ethereum's at"
 date: 2014-10-17
 author: Gavin Wood
 description: "Gavin Wood's first development update covering the Berlin hub setup, team introductions across Berlin, London, and Silicon Valley, and progress towards Ethereum 1.0"

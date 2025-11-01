@@ -65,7 +65,7 @@ title: Videos
         {% endif %}
         
         <div class="video-info">
-            <h3><a href="{{ video.url }}">{% if video.lowercase_title %}{{ video.lowercase_title }}{% else %}{{ video.title }}{% endif %}</a></h3>
+            <h3><a href="{{ video.url }}">{{ video.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}</a></h3>
             
             <div class="video-meta">
                 {% if video.date %}

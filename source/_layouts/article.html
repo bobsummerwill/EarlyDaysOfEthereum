@@ -22,7 +22,7 @@ layout: default
 <article itemscope itemtype="https://schema.org/Article">
     <header{% if page.source_url %} class="has-embed"{% endif %}>
         <h1 itemprop="headline">
-          {% if page.lowercase_title %}{{ page.lowercase_title }}{% else %}{{ page.title }}{% endif %}{% if page.alias %} ("{{ page.alias }}"){% endif %}
+          {{ page.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}{% if page.alias %} ("{{ page.alias }}"){% endif %}
         </h1>
         <div class="content-meta">
             {% if page.date %}

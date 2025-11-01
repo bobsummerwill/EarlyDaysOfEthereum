@@ -1,6 +1,5 @@
 ---
 title: "Gav's Ethereum ÐΞV Update V"
-lowercase_title: "gav's ethereum dev update v"
 date: 2015-03-02
 author: Gavin Wood
 description: "Gavin Wood's fifth development update covering foundation restructuring, PoC-9 development sprint, proof-of-work algorithm improvements, and preparations for release"

@@ -1,6 +1,5 @@
 ---
 title: "The end of the beginning…"
-lowercase_title: "the end of the beginning"
 date: 2015-05-02
 author: Gavin Wood
 description: "Gavin Wood announces the Olympic testnet phase with incentivized testing before the Frontier release, offering prizes for mining, gas usage, and finding bugs"

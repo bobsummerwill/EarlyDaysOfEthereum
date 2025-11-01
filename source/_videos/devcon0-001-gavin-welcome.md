@@ -1,6 +1,5 @@
 ---
 title: "Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps"
-lowercase_title: "ethereum devcon-0 - gavin: welcome! our mission: dapps"
 author: Gavin Wood
 date: 2014-11-24
 img: /images/youtube.com/BvvUlKDqp0/maxresdefault.jpg

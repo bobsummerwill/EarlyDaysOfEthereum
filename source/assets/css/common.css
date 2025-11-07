@@ -72,10 +72,10 @@
   /**
    * Common Background Colors - Standardized background system
    * 
-   * Consolidates the #e8e8e8 background used across many card components
-   * and other common background patterns.
+   * Consolidates the card background used across many card components
+   * and other common background patterns. Darker shade for better contrast.
    */
-  --bg-card: #e8e8e8;           /* Standard card background - replaces hardcoded values */
+  --bg-card: #d0d0d0;           /* Standard card background - darker for better contrast with white background */
   --bg-card-content: #444;      /* Card content text color */
   --bg-card-text: #222;         /* Card title text color */
   
@@ -1339,7 +1339,7 @@ img {
 /* Video embed container within blog embed cards */
 .blog-embed-video-container {
   width: 100%;
-  background: #e8e8e8;
+  background: var(--bg-card);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1350,7 +1350,7 @@ img {
   width: 92%;
   border-radius: var(--radius-lg);
   box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-  background: #e8e8e8;
+  background: var(--bg-card);
   border: 1px solid var(--border-table);
   overflow: hidden;
   position: relative;
@@ -1372,7 +1372,7 @@ img {
 /* Blog embed image container */
 .blog-embed-image-container {
   width: 100%;
-  background: #e8e8e8;
+  background: var(--bg-card);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1390,7 +1390,7 @@ img {
 /* Blog embed content areas */
 .blog-embed-meta {
   padding: 18px 18px 16px 18px;
-  background: #e8e8e8;
+  background: var(--bg-card);
 }
 
 .blog-embed-title {
@@ -1406,7 +1406,7 @@ img {
   margin-bottom: 6px;
   color: #222;
   padding: 0 18px;
-  background: #e8e8e8;
+  background: var(--bg-card);
 }
 
 .blog-embed-description {
@@ -1498,7 +1498,7 @@ img {
  * Uses card-like appearance with consistent hover animation like other embeds.
  */
 .devcon0-section {
-  background: #e8e8e8 !important;
+  background: var(--bg-card) !important;
   border: 1px solid var(--border-table) !important;
   border-radius: var(--radius-lg) !important;
   padding: var(--spacing-2xl) !important;
@@ -1533,7 +1533,7 @@ img {
   display: flex;
   align-items: center;
   text-decoration: none;
-  background: #e8e8e8;
+  background: var(--bg-card);
   border: 1px solid var(--border-table);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-light);

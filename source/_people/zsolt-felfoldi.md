@@ -1,5 +1,6 @@
 ---
 name: Zsolt Felföldi
+description: Geth core developer
 photo: /images/x.com/2025.11.07/zsfelfoldi/photo/zsolt-feldoldi.jpg
 start: Sep 2014
 end: present (left and returned?)

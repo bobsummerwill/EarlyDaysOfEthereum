@@ -5,6 +5,7 @@ show: true
 guests: ["Anthony D'Onofrio"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Anthony D'Onofrio ('Texture') was Ethereum's first 'community guy' and shared his unique perspective starting from the very earliest days of the project."
+img: /images/covers-for-conversations/episode005-anthony-d-onofrio.png
 embed:
   url: https://www.youtube.com/embed/vITKYMJ30xw
 table_of_contents:

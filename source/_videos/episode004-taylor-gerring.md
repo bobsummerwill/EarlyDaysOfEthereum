@@ -5,6 +5,7 @@ show: true
 guests: ["Taylor Gerring"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "After a long hiatus since episode 3, Taylor Gerring joined as a guest to talk about his experiences in the very early days of the Ethereum project, starting in December 2013."
+img: /images/covers-for-conversations/episode004-taylor-gerring.png
 embed:
   url: https://www.youtube.com/embed/PSA1hWb7y9A
 table_of_contents:

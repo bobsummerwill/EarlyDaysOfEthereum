@@ -8,6 +8,6 @@ social:
 ---
 
 
-## Tweet References
-
-{% include twitter-embed.html url="https://twitter.com/no__________end/status/1881040627351314703" %}
+{% include twitter-embed.html
+  url="https://twitter.com/no__________end/status/1881040627351314703"
+  %}

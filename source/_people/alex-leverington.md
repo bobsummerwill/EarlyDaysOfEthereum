@@ -17,7 +17,8 @@ Network Protocols, Encryption and C++ Client Development.
 
 Alex was the very first hire for ETHDEV in Berlin, around August 2014 or September 2014.
 
+*(For a long time, Bob was under the false impression that Alex Leverington was the first employee for the Ethereum Foundation as a whole, but Viktor Trón was hired in February 2014, by Jeff Wilcke in Amsterdam.  Many other people were working on Ethereum for months before any of this, of course, but not as paid employees or contractors)*
 
-## References
-
-- ["Ethereum ÐΞVcon-0: Multi Protocol Peer Network Framework: Vision and Roadmap"](https://www.youtube.com/watch?v=FqWOeJJmNQc), his DEVCON0 talk, belatedly posted on the [Ethereum YouTube channel](https://www.youtube.com/@EthereumProtocol) on 20th January 2015
+{% include video-embed.html
+  name="Ethereum ÐΞVcon-0: Multi Protocol Peer Network Framework: Vision and Roadmap"
+%}

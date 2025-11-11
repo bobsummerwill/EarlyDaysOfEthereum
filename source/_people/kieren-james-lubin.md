@@ -45,6 +45,4 @@ Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/wat
   date="November 10, 2015"
 %}
 
-
-## References
-- [Berkeley webpage, 2014](https://math.berkeley.edu/~ksjames/)
+[Berkeley webpage, 2014](https://math.berkeley.edu/~ksjames/)

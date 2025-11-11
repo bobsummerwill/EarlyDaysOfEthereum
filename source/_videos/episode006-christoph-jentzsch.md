@@ -21,7 +21,7 @@ Ming coming in and "cleaning house"
 The formation of http://slock.it
 DEVCON1 kettle demo and announcing DAO
 Building "The DAO"
-~~DAO Fork and aftermath~~
+~~DAO Fork and aftermath~~ (largely skipping over)
 Other http://slock.it projects
 Blockchains LLC
 And what you do now.

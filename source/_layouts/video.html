@@ -118,7 +118,8 @@ layout: default
     </header>
     
     <!--
-      Video player embed card
+      Video player embed card or image display
+      Shows video embed if available, otherwise shows image if available
     -->
     {% if page.embed.url %}
         {% assign formatted_date = page.date | date: "%B %d, %Y" %}
@@ -131,6 +132,10 @@ layout: default
             date=formatted_date
             description=page.description
         %}
+    {% elsif page.img %}
+        <div class="video-cover-image">
+            <img src="{{ page.img }}" alt="{{ page.title }}" loading="lazy" style="max-width: 50%; height: auto; display: block;" />
+        </div>
     {% endif %}
     
     <!--

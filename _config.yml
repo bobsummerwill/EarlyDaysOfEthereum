@@ -51,6 +51,7 @@ source: source  # Source directory containing all site content, layouts, and inc
 markdown: kramdown  # Markdown processor (kramdown is Jekyll's default)
 highlighter: rouge  # Syntax highlighter for code blocks
 permalink: /:categories/:year/:month/:day/:title/  # URL structure for blog posts
+future: true  # Show posts/pages with future dates (important for upcoming content)
 
 # Kramdown-specific settings
 kramdown:

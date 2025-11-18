@@ -1,5 +1,5 @@
 ---
-name: Jacob Stenum Czepluch
+name: Jacob Czepluch
 photo: /images/personal/jacob-stenum-czepluch/twitter/2025.08.27/jacob-stenum-czepluch.png
 description: ETHÐΞV intern
 start: Aug 2015

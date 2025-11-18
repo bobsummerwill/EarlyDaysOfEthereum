@@ -8,6 +8,13 @@ description: "Christophe Jentzsch joined ETHDEV shortly after the crowdsale and 
 img: /images/covers-for-conversations/episode006-christoph-jentzsch.png
 ---
 
+## Audio
+
+<audio controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/audio/episode006-christoph-jentzsch.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## Rough agenda
 
 ```

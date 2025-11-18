@@ -58,7 +58,7 @@ table_of_contents:
 
 **Christoph Jentzsch:**
 
-[00:16]    Hi, Rob. Nice to meet you again. I'm doing good. I hope you are too. Thanks for the invitation.
+[00:16]    Hi, Bob. Nice to meet you again. I'm doing good. I hope you are too. Thanks for the invitation.
 
 **Bob Summerwill:**
 

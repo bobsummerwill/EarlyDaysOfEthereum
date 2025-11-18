@@ -3,9 +3,38 @@ title: "Early Days of Ethereum - Episode 6 - Christoph Jentzsch"
 date: 2025-11-19
 show: true
 guests: ["Christoph Jentzsch"]
-hosts: ["Bob Summerwill", "Kieren James-Lubin", "James Hormuzdiar"]
+hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Christophe Jentzsch joined ETHDEV shortly after the crowdsale and built all the cross-client testing infrastructure.  He founded Slock.it, focused on smartlocks and IoT.  Slock.it were the creators of The DAO, Ethereum's first 'killer app'"
 img: /images/covers-for-conversations/episode006-christoph-jentzsch.png
+table_of_contents:
+  - link: "#background-ethereum"
+    title: "Background & Finding Ethereum"
+  - link: "#joining-ethdev"
+    title: "Joining ETHDEV & Meeting Gavin"
+  - link: "#devcon-zero"
+    title: "DEVCON0 & Early Team Dynamics"
+  - link: "#testing-infrastructure"
+    title: "Building Cross-Client Testing Infrastructure"
+  - link: "#client-wars"
+    title: "The Client Wars: C++ vs Geth"
+  - link: "#launch-frontier"
+    title: "The Launch & Frontier"
+  - link: "#ming-restructuring"
+    title: "Ming & Foundation Restructuring"
+  - link: "#slockit-birth"
+    title: "The Birth of Slock.it"
+  - link: "#the-dao"
+    title: "The DAO: Vision & Reality"
+  - link: "#devcon-one"
+    title: "DEVCON1 & The Smart Lock Demo"
+  - link: "#dao-aftermath"
+    title: "DAO Aftermath & Community Response"
+  - link: "#consulting-years"
+    title: "The Consulting Years & Energy Web"
+  - link: "#blockchains-llc"
+    title: "Blockchains LLC & Lessons Learned"
+  - link: "#tokenize-it"
+    title: "Tokenize It & The Future"
 ---
 
 ## Audio
@@ -15,27 +44,12 @@ img: /images/covers-for-conversations/episode006-christoph-jentzsch.png
   Your browser does not support the audio element.
 </audio>
 
-## Rough agenda
-
-```
-Your background pre-Ethereum
-Joining ETHDEV in September 2014
-DEVCON0
-Cross-client testing (and how coordinating Amsterdam and Berlin worked)
-Talking about the POCs and Olympia
-Working towards the launch (how did you know it was "ready"?)
-Ming coming in and "cleaning house"
-The formation of http://slock.it
-DEVCON1 kettle demo and announcing DAO
-Building "The DAO"
-~~DAO Fork and aftermath~~ (largely skipping over)
-Other http://slock.it projects
-Blockchains LLC
-And what you do now.
-```
-
 
 ## Transcript
+
+<!-- TABLE_OF_CONTENTS -->
+
+<h3 id="background-ethereum">Background & Finding Ethereum</h3>
 
 **Bob Summerwill:**
 
@@ -94,6 +108,8 @@ And what you do now.
 
 [04:27]    Well, by the way, Jim is trying to join. I don't know if there’s anything that needs happening. He gets some browser issues.
 
+<h3 id="joining-ethdev">Joining ETHDEV & Meeting Gavin</h3>
+
 **Bob Summerwill:**
 
 
@@ -127,6 +143,10 @@ And what you do now.
 
 [07:39]    And then talking about, you know, where you met there initially, that group—so FDev were and is a company coordinating the development of Ethereum stuff, so it's a subsidiary of the Ethereum Foundation—were working initially in a co-working space but then got an offer, and it was between August and November of that year that the office was getting, like, you know, done up and tidied. And then in November you had Devcon Zero, you know, the first conference—an internal one—
 
+
+<h3 id="devcon-zero">DEVCON0 & Early Team Dynamics</h3>
+
+**Bob Summerwill:**
 
 [08:03]    Where a lot of the people, that was their first sort of face-to-face meetings. How was Devcon Zero? What was that like?
 
@@ -317,6 +337,8 @@ And what you do now.
 
 [18:50]    And then in the end, actually, I had automated fuzz testing where I wrote software that would create thousands of tests. We had some AWS—like over 100 cores of machines, constantly creating tests. We had always some failing on some versions of Geth or other clients. So this was mostly what I did during one and a half years.
 
+<h3 id="testing-infrastructure">Building Cross-Client Testing Infrastructure</h3>
+
 **Bob Summerwill:**
 
 [19:13]    Right, right. So yeah, I mean, I guess for the viewers, something that Ethereum chose to do differently from Bitcoin was to have this specification separate from the client software, right? So, when Bitcoin started, it was the code that happened first, and the white paper afterwards, but the white paper wasn't a protocol specification. So, you know, Gav
@@ -342,6 +364,8 @@ And what you do now.
 
 
 [20:17]    And... And yeah, like a little later, there was a Ruby client as well. And yeah, at one point, there were eight different clients.
+
+<h3 id="client-wars">The Client Wars: C++ vs Geth</h3>
 
 **Christoph Jentzsch:**
 
@@ -523,6 +547,8 @@ And what you do now.
 
 [35:52]    I mean, it's like treasuries, I guess.
 
+<h3 id="the-dao">The DAO: Vision & Reality</h3>
+
 **Christoph Jentzsch:**
 
 [35:54]    But this opens up the questions: How should the Ethereum app be built economically? And this is also a question being answered during that time. The DAO was one approach: it should be fully on-chain. All the revenue should be on-chain. There should be no for-profit entity directly attached to it. And Slock.it, the company I built after that, would be a service provider for them, getting paid by them for work being done for the DAO—one version.
@@ -534,6 +560,8 @@ And what you do now.
 [37:09]    The token, if you want to have a share in the economic success of the protocol, you would buy Ether. And so later on, there were many other token projects where they had a nonprofit foundation, so no shareholders, no second cap table. And then you would have only the token and all the value would be there.
 
 [37:27]    And now with Uniswap you have this problem of having again shareholders and tokens, and I think that's dangerous and not a good idea, actually.
+
+<h3 id="launch-frontier">The Launch & Frontier</h3>
 
 **Bob Summerwill:**
 
@@ -718,6 +746,8 @@ And what you do now.
 
 [50:18]    And in the end, yes, Vitalik, Gavin, and Jeff just made decisions and executed as quick as they could. So this all changed after launch. Then things became a bit slowed down and people consolidated, and every change was a big thing, rightfully so. Yeah.
 
+<h3 id="ming-restructuring">Ming & Foundation Restructuring</h3>
+
 **Bob Summerwill:**
 
 
@@ -734,6 +764,10 @@ And what you do now.
 [51:19]    ...which part of this grand vision was going to be funded initially, right? And I remember talking to her at the time, she felt like, "I have to clean up the whole mess." Like the paperwork and everything was totally messy—working with lawyers, accountants, and so on, and cleaning up basically the foundation.
 
 [51:42]    For me, I did expect it to last something like that, so for me it was clear they are not making any money. I didn't know, like, how big the reserve was in detail. I think it was like, I don't know, five percent, something in this range, like, how much ETH the foundation held at the time. There wasn't that much value either, price like 50 cents, one euro or something. So it was clear this would not last forever.
+
+<h3 id="slockit-birth">The Birth of Slock.it</h3>
+
+**Christoph Jentzsch:**
 
 [52:07]    So I was thinking about going back to my PhD—or then I came across this idea about Slock.it and building a company. And Slock.it was the idea of—maybe similar to Airlock—smart contracts are essentially permission systems. Ninety percent of a smart contract is who's allowed to do what. In the case of the ERC-20, it's just who's allowed to send the token or setting an allowance. And in terms of the DAO, it's who can vote for what and making decisions and then money gets sent.
 
@@ -788,6 +822,8 @@ And what you do now.
 **Kieren James-Lubin:**
 
 [58:54]    He strongly alluded to it in the presentation. It was funny.
+
+<h3 id="devcon-one">DEVCON1 & The Smart Lock Demo</h3>
 
 **Bob Summerwill:**
 
@@ -934,6 +970,10 @@ And what you do now.
 
 **Christoph Jentzsch:**
 
+<h3 id="consulting-years">The Consulting Years & Energy Web</h3>
+
+**Christoph Jentzsch:**
+
 [01:07:53] Slock.it itself did a number of these different products, right? There was something with electrical charging and something to do with toll roads, is that right?
 
 [01:08:01] Right, we had a prototype running with RWE or Innogy in Germany, they’re doing like at that time, most of the charging stations. So this was in general—we got a lot of attention, of course, also after the DAO hack and all of that. And so that’s kind of why we became a consulting company, because so many asked us, could we do a prototype with you? Because there were not many Ethereum builders at the time.
@@ -970,6 +1010,10 @@ And what you do now.
 
 [01:11:53] I found out once you're an entrepreneur, you never can be an employee again. And so I had to leave. But maybe, actually, it's too far in the future.
 
+<h3 id="dao-aftermath">DAO Aftermath & Community Response</h3>
+
+**Christoph Jentzsch:**
+
 [01:12:00] I mean, that's one thing I think I have to say here, because you talked about Devcon 1 and we skipped a little bit Devcon 2. You said in Devcon 1, Stefan Tual was very concerned how people perceived him and they were very gentle, forgiving, and nice to him. So he was well-received and then he built the DAO community.
 
 [01:12:18] I was super worried to go to Devcon 2 because this was after the DAO hack. I was like seriously thinking someone might beat me up there. I went to the corner and I almost destroyed Ethereum with the spark and so much attention to it and all the money lost for some people or the time of growth gone—it depends on how you view it.
@@ -988,7 +1032,15 @@ And what you do now.
 
 **Kieren James-Lubin:**
 
+<h3 id="tokenize-it">Tokenize It & The Future</h3>
+
+**Kieren James-Lubin:**
+
 [01:14:20] Yeah, I think good notes, just Bob—you were the one who tried to impose the hour to half hour to hour rule. We're at a solid 120 right here. Maybe with me, you know, we've reached a— you know, a good kind of end point, I guess. So what happened after Blockchains LLC for you then?
+
+**Christoph Jentzsch:**
+
+<h3 id="blockchains-llc">Blockchains LLC & Lessons Learned</h3>
 
 **Christoph Jentzsch:**
 

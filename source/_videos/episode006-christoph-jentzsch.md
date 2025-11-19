@@ -6,6 +6,8 @@ guests: ["Christoph Jentzsch"]
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
 description: "Christophe Jentzsch joined ETHDEV shortly after the crowdsale and built all the cross-client testing infrastructure.  He founded Slock.it, focused on smartlocks and IoT.  Slock.it were the creators of The DAO, Ethereum's first 'killer app'"
 img: /images/covers-for-conversations/episode006-christoph-jentzsch.png
+embed:
+  url: https://www.youtube.com/embed/wTXc_gpx5iA
 table_of_contents:
   - link: "#background-ethereum"
     title: "Background & Finding Ethereum"

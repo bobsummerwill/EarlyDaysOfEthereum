@@ -34,7 +34,7 @@ table_of_contents:
   - link: "#blockchains-llc"
     title: "Blockchains LLC & Lessons Learned"
   - link: "#tokenize-it"
-    title: "Tokenize It & The Future"
+    title: "tokenize.it & The Future"
 ---
 
 ## Audio
@@ -63,7 +63,9 @@ table_of_contents:
 **Bob Summerwill:**
 
 
-[00:22]    Fantastic, yeah. So Christoph and I, our paths crossed for the first time way back in 2015 when I was trying to do C++ Ethereum on my smartwatch. And this was around the time that Christoph was still at the Ethereum Foundation. And then I think I crossed paths a number of times since, and Kieran's too. Indeed. So, Christoph. What were you doing with your life before you found Ethereum and joined this crazy journey?
+[00:22]    Fantastic, yeah. So Christoph and I, our paths crossed for the first time way back in 2015 when I was trying to do [cpp-ethereum on my smartwatch](https://github.com/doublethinkco/cpp-ethereum-cross). And this was around the time that Christoph was still at the Ethereum Foundation. And then I think I crossed paths a number of times since, and Kieren's too. Indeed. So, Christoph. What were you doing with your life before you found Ethereum and joined this crazy journey?
+
+![image](https://camo.githubusercontent.com/3ec632f25af9d07ab0cd1d013d4043088880aed3208b6f48f40978e31855bbb5/68747470733a2f2f646f75626c657468696e6b636f2e66696c65732e776f726470726573732e636f6d2f323031352f31312f32303135313132305f3038333932362e6a70673f773d373838)
 
 **Christoph Jentzsch:**
 
@@ -72,6 +74,16 @@ table_of_contents:
 [01:13]    And so that's how I got into Bitcoin mining. So I bought my first Bitcoin, got into this bubble, read everything I could about it, and then I came across the white paper from Vitalik, early 2014, something like January, February, on some Bitcoin forum somewhere. And I was already totally in love with the idea of Bitcoin being a decentralized currency and all the characteristics and features of it. And this white paper from Vitalik—if you read it again, it's almost a prophecy. Except for NFTs, everything's in there: DAOs, ENS-like domain name systems, and all of that.
 
 [01:46]    So for me, it opened up this option of building applications with the same characteristics as Bitcoin, but not just a currency—everything else. And so then I started reading everything about it. And in 2014, in summer, I read that the crowdsale was in 2014, right? So around the time the crowdsale happened, I watched a video from Gavin Wood. He was somewhere in Scandinavia, some conference there, the Nordics, and he talked about Ethereum. I loved it, and he said he wanted to open up an office in Berlin, looking for C++ developers.
+
+*(Bob - The event was called Assembly 2014, and it was a demo scene event in Hartola, Finland)*
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/xO1AxsYAkU8"
+  title="Programming Society with Asm: An Introduction to Contract Development within Ethereum"
+  site="AssemblyTV"
+  date="2014-08-01"
+%}
+
 
 [02:18]    I was a C++ developer—so in theoretical physics it's 90% software development. So I said, well, I want to do this. So I took my parental leave time plus some vacation time from and paused my PhD for like three or six months and said, I will return after I'm done. I thought this was just a short project because they raised money; maybe six, maybe twelve months, eighteen months or so, then it's over.
 
@@ -88,7 +100,7 @@ table_of_contents:
 
 [03:18]    And so, when I got this project, I said, well, let’s do this for two or three months as a parental leave time and then I can return. And then I decided to really interrupt my PhD, thinking I would maybe return one year later, because I thought the foundation would eventually run out of money. Because they're not making any profits; they just raised donations, then would spend them, that's over, then I can continue my PhD. That was originally the plan; just came different. I mean, I guess it's never too late, right?
 
-[03:45]    I actually sometimes think about it, that I should return. It's just so much to learn again. I'm right now doing Tokenize It. I'm basically working on tokenizing German companies. It works very well. And so currently I'm not planning on getting back anytime soon.
+[03:45]    I actually sometimes think about it, that I should return. It's just so much to learn again. I'm right now doing [tokenize.it](https://tokenize.it). I'm basically working on tokenizing German companies. It works very well. And so currently I'm not planning on getting back anytime soon.
 
 **Bob Summerwill:**
 
@@ -347,7 +359,7 @@ table_of_contents:
 
 [19:50]    So the Java one by Roman, I think, started in about April or May.
 
-[19:54]    You know, ourselves, Jim and Kieran here, with a Haskell client starting in September.
+[19:54]    You know, ourselves, Jim and Kieren here, with a Haskell client starting in September.
 
 [20:00]    You had JavaScript as well.
 
@@ -602,7 +614,7 @@ table_of_contents:
 
 **James Hormuzdiar:**
 
-[40:42]    No, we were able to sync at genesis time, for like a year or so we were syncing. But I remember like that week, Kieran and I were more interested in trying to get a miner in place. So that was what that week looked like for us.
+[40:42]    No, we were able to sync at genesis time, for like a year or so we were syncing. But I remember like that week, Kieren and I were more interested in trying to get a miner in place. So that was what that week looked like for us.
 
 **Kieren James-Lubin:**
 
@@ -886,7 +898,7 @@ table_of_contents:
 
 **Bob Summerwill:**
 
-[01:02:12] Perhaps while we're waiting, Kieran and Jim, you could talk a little bit about the Strato launch.
+[01:02:12] Perhaps while we're waiting, Kieren and Jim, you could talk a little bit about the Strato launch.
 
 **James Hormuzdiar:**
 
@@ -982,7 +994,7 @@ table_of_contents:
 
 [01:08:47] And on top of this, we built those prototypes. We did a lot of work for the Energy Web Foundation. I don't know if you're familiar with them. This was in Switzerland. They are kind of a fork of Ethereum focusing on all the energy use cases. We built most of their stuff in 2018, beginning of 2019,
 
-[01:09:06] until they hired their own developers. And Gavin was also part of this for a while. So, yes, this was still—I mean, if you remember this time, Kieran, you say there was so much enterprise interest. Enterprise at the time were just learning, looking into this, wanted to build prototypes, not yet production stuff.
+[01:09:06] until they hired their own developers. And Gavin was also part of this for a while. So, yes, this was still—I mean, if you remember this time, Kieren, you say there was so much enterprise interest. Enterprise at the time were just learning, looking into this, wanted to build prototypes, not yet production stuff.
 
 [01:09:27] So, and there was a huge demand for it—for blockchain experts for doing consulting, for going to conferences, explain to them what a blockchain is. At every tech conference, you need some blockchain talk, and this was kept, basically, mostly us. And they paid sometimes like 4,000 euro for a talk.
 
@@ -1050,7 +1062,7 @@ table_of_contents:
 
 [01:15:23] And I did, for six months, I did really nothing. I forced myself to do nothing, which was great after so many stressful years. And then I started a venture studio called Corpus Ventures, where we tried out many different ideas. We had EM3, which was a decentralized messaging protocol, GasHawk—you can save transaction costs on Ethereum.
 
-[01:15:47] What else did we have? Some domain name stuff, but we didn't release it at the end. But the biggest one was Tokenize It, and this was—we built something for German—for now, German startups. In the end, we want to do it all over Europe. We're just tokenizing their shares and do fundraising.
+[01:15:47] What else did we have? Some domain name stuff, but we didn't release it at the end. But the biggest one was [tokenize.it](https://tokenize.it), and this was—we built something for German—for now, German startups. In the end, we want to do it all over Europe. We're just tokenizing their shares and do fundraising.
 
 [01:16:10] So, in summary, it's like a Web3-based AngelList for Europe. It's the one-sentence description for Americans also to understand. AngelList—it's a great tool for business angel investing. We want to do the same for Europe, for all countries there, and build it on-chain. So, tokenizing all those shares and enable private as well as public fundraising. Some call it legal ICOs, if you want, but also for private fundraising.
 
@@ -1058,7 +1070,7 @@ table_of_contents:
 
 [01:17:08] They're all getting a Gnosis Safe wallet from us, using Privy for login. So, we build it as intended, and we get normal people to use it. For me, this is kind of a dream come true, because I'm out of, I love the Web3 bubble, I love this community, I love to work inside there.
 
-[01:17:30] But for me, Tokenize It is a way to make this technology available where it belongs—like to startups and investors outside of our Web3 bubble. And I'm super, super happy that I could keep up those values that they have. The complete platform is non-custodial. They have their safe on Ethereum holding their tokens, paying stablecoins. So I'm very happy to see this.
+[01:17:30] But for me, [tokenize.it](https://tokenize.it) is a way to make this technology available where it belongs—like to startups and investors outside of our Web3 bubble. And I'm super, super happy that I could keep up those values that they have. The complete platform is non-custodial. They have their safe on Ethereum holding their tokens, paying stablecoins. So I'm very happy to see this.
 
 [01:17:55] Over the next years, we want to basically roll out this all over Europe and become, yes, the Web3-based AngelList for Europe. That's the goal.
 
@@ -1080,7 +1092,7 @@ table_of_contents:
 
 [01:18:46] of course, Vitalik, and many others. It's just a sweet spirit there. Nice community. Love seeing how it all grows. Listen to those exciting talks.
 
-[01:18:57] I mean, for Tokenize It, it's not as relevant. It's not like our customers or the tech, of course—we're just doing an ERC-20 token on Ethereum. It's super easy. It's no deep tech. Sometimes I miss doing deep tech, but, well, I just enjoy being there, seeing what all happened, and remembering those magic days.
+[01:18:57] I mean, for [tokenize.it](https://tokenize.it), it's not as relevant. It's not like our customers or the tech, of course—we're just doing an ERC-20 token on Ethereum. It's super easy. It's no deep tech. Sometimes I miss doing deep tech, but, well, I just enjoy being there, seeing what all happened, and remembering those magic days.
 
 [01:19:19] And it's like only once in a lifetime, or two times in a lifetime, you have this moment where everything comes together: the right time, the right place, the right people. This certainly—where those one and a half years I worked for Ethereum—are definitely the prime of my career in terms of who I worked with, what we accomplished, the impact we had on the world, and the sweet cypherpunk spirit there, and what we did there. It was really great. I always sometimes get emotional thinking about this and meeting those people again at Devcon.
 
@@ -1098,7 +1110,7 @@ table_of_contents:
 
 **Christoph Jentzsch:**
 
-[01:19:57] You can find me usually on Twitter for the Ethereum people, C-H-R-Y-E-N-G. Of course, I have a complicated name, not many vowels in there, but you'll find it. Or, of course, on LinkedIn. Actually, for my company, I'm more active on LinkedIn, which I was never before, but that's where we get our clients and Tokenize It. Yeah, but usually you can find me on Twitter or follow me there, or on LinkedIn.
+[01:19:57] You can find me usually on Twitter for the Ethereum people, C-H-R-Y-E-N-G. Of course, I have a complicated name, not many vowels in there, but you'll find it. Or, of course, on LinkedIn. Actually, for my company, I'm more active on LinkedIn, which I was never before, but that's where we get our clients and [tokenize.it](https://tokenize.it). Yeah, but usually you can find me on Twitter or follow me there, or on LinkedIn.
 
 **Bob Summerwill:**
 

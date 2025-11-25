@@ -326,7 +326,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
 *"We knew that Stephan Tual was a bad actor ... Same logic applies to Charles Hoskinson. There are all kinds of legends about that guy. Jesus Christ, right?  Serious, serious troublemaker.  Lots of people know the stories."* (soundbite at 26m45s).
 
 <audio id="podcast" controls preload="auto" style="width: 100%;">
-  <source src="https://traffic.libsyn.com/secure/thebitcoinpodcast/VinayFinal.mp3" type="audio/mpeg"/>
+  <source src="/assets/audio/vinay-gupta-charles-stephan-bad-actors-tbp79.mp3" type="audio/mpeg"/>
     Your browser does not support the audio element.
 </audio>
 

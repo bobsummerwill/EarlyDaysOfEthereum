@@ -1,6 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 8 - Michael Parenti"
-date: 2025-11-19
+date: 2025-12-17
 show: true
 guests: ["Michael Parenti"]
 hosts: ["Bob Summerwill"]

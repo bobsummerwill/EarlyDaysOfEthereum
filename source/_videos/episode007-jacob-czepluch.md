@@ -1,6 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 7 - Jacob Czepluch"
-date: 2025-11-19
+date: 2025-12-03
 show: true
 guests: ["Jacob Czepluch"]
 hosts: ["Bob Summerwill"]

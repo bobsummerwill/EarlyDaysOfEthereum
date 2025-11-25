@@ -1,6 +1,6 @@
 ---
 name: Fabian Vogelsteller
-nickname: frozeman
+photo: /images/personal/fabian-vogelsteller/telegram/2025.11.23/fabian-vogelsteller.jpg
 description: ERC-20, Mist and web3.js
 start: Jan 2015
 end: Aug 2018

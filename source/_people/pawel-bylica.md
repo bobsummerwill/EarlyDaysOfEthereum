@@ -2,6 +2,7 @@
 name: Paweł Bylica
 nickname: chfast
 description: Software engineer, C++ team and VM
+photo: /images/x.com/2025.11.25/chfast/pawel-bylica.jpg
 start: Nov 2014
 end: Jun 2025
 devcon0: '1555'

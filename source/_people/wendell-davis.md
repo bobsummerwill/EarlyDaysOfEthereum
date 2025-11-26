@@ -1,6 +1,7 @@
 ---
 name: Wendell Davis
 start: Jan 2014
+photo: /images/medium.com/2025.11.25/electrifyasia/mentorship-value-and-success-8dca7a901b2d/wendell-davis.webp
 social:
   youtube: https://www.youtube.com/watch?v=4jGqmlA4KEY
 ---

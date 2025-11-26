@@ -1,6 +1,7 @@
 ---
 name: Paul Snow
 description: Language Development, Software Development
+photo: /images/x.com/2025.11.25/paulsnx2/photo/paul-snow.jpg
 start: Jan 2014
 social:
   twitter: https://x.com/paulsnx2

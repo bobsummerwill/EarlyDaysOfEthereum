@@ -1,6 +1,7 @@
 ---
 name: Steve Dakh
 description: Developer (KryptoKit)
+photo: /images/x.com/2025.11.25/stevedakh/steve-dakh.jpg
 start: Jan 2014
 social:
   twitter: https://x.com/stevedakh

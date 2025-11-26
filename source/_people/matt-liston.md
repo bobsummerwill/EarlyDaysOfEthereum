@@ -1,5 +1,6 @@
 ---
 name: Matt Liston
+photo: /images/medium.com/2025.11.25/consensus/matt-liston.jpg
 start: Apr 2014
 end: Jun 2015
 social:

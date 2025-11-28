@@ -4,7 +4,6 @@ date: 2023-11-16
 author: "Steven Neyaroff"
 description: 'In late 2014 Ethereum was in trouble. Vitalik Buterin asked Steven Nerayoff to do a full diagnostic assessment and recommendations on how to save Ethereum and restructure it for long term success.'
 img: /images/x.com/2025.10.24/stevennerayoff/status/1725151606944260498/record-player.png
-hidden: true
 ---
 
 In November 2023, Steven Nerayoff dumped a multi-hour recording of a private conversations between himself and Vitalik Buterin, which he described in the following way:

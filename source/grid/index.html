@@ -174,8 +174,90 @@ Add people without dates at the end, sorted alphabetically
     {{ final_people_list.size }} people
 </div>
 
+{% comment %}
+Group people by epoch
+{% endcomment %}
+{% assign epoch1_people = "" | split: "" %}
+{% assign epoch2_people = "" | split: "" %}
+{% assign epoch3_people = "" | split: "" %}
+{% assign epoch4_people = "" | split: "" %}
+{% assign epoch5_people = "" | split: "" %}
+{% assign other_people = people_without_dates | sort: "name" %}
+
+{% for start_date in sorted_dates %}
+    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
+    
+    {% comment %}
+    Determine epoch based on date
+    {% endcomment %}
+    {% assign is_epoch1 = false %}
+    {% assign is_epoch2 = false %}
+    {% assign is_epoch3 = false %}
+    {% assign is_epoch4 = false %}
+    {% assign is_epoch5 = false %}
+    
+    {% if start_date contains "2013" %}
+        {% assign is_epoch1 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2014" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" or start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_epoch1 = true %}
+        {% else %}
+            {% assign is_epoch2 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2015" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_epoch2 = true %}
+        {% elsif start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_epoch3 = true %}
+        {% else %}
+            {% assign is_epoch4 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2016" or start_date contains "2017" %}
+        {% assign is_epoch4 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2018" %}
+        {% if start_date contains "Jan" %}
+            {% assign is_epoch4 = true %}
+        {% else %}
+            {% assign is_epoch5 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" or start_date contains "2025" %}
+        {% assign is_epoch5 = true %}
+    {% endif %}
+    
+    {% for person in people_in_date %}
+        {% if is_epoch1 %}
+            {% assign epoch1_people = epoch1_people | push: person %}
+        {% elsif is_epoch2 %}
+            {% assign epoch2_people = epoch2_people | push: person %}
+        {% elsif is_epoch3 %}
+            {% assign epoch3_people = epoch3_people | push: person %}
+        {% elsif is_epoch4 %}
+            {% assign epoch4_people = epoch4_people | push: person %}
+        {% elsif is_epoch5 %}
+            {% assign epoch5_people = epoch5_people | push: person %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Display each epoch section
+{% endcomment %}
+
+{% if epoch1_people.size > 0 %}
+<h2 class="grid-section-heading">Whitepaper to "Red Wedding"</h2>
+<p class="grid-section-subheading">November 2013 to June 2014</p>
 <div class="people-grid-section">
-    {% for person in final_people_list %}
+    {% for person in epoch1_people %}
         <a href="{{ person.url }}" class="grid-item">
             <div class="photo-container">
                 {% if person.photo %}
@@ -188,8 +270,126 @@ Add people without dates at the end, sorted alphabetically
         </a>
     {% endfor %}
 </div>
+{% endif %}
+
+{% if epoch2_people.size > 0 %}
+<h2 class="grid-section-heading">Stiftung Ethereum and ETH DEV</h2>
+<p class="grid-section-subheading">July 2014 to February 2015</p>
+<div class="people-grid-section">
+    {% for person in epoch2_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch3_people.size > 0 %}
+<h2 class="grid-section-heading">The Interregnum</h2>
+<p class="grid-section-subheading">March 2015 to June 2015</p>
+<div class="people-grid-section">
+    {% for person in epoch3_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch4_people.size > 0 %}
+<h2 class="grid-section-heading">The Ming Dynasty</h2>
+<p class="grid-section-subheading">July 2015 to January 2018</p>
+<div class="people-grid-section">
+    {% for person in epoch4_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch5_people.size > 0 %}
+<h2 class="grid-section-heading">The Infinite Garden</h2>
+<p class="grid-section-subheading">February 2018 onwards</p>
+<div class="people-grid-section">
+    {% for person in epoch5_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if other_people.size > 0 %}
+<h2 class="grid-section-heading">Other</h2>
+<p class="grid-section-subheading">Undated</p>
+<div class="people-grid-section">
+    {% for person in other_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
 
 <style>
+.grid-section-heading {
+    width: 100%;
+    text-align: center;
+    margin: 40px 0 5px 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #333;
+}
+
+.grid-section-heading:first-of-type {
+    margin-top: 20px;
+}
+
+.grid-section-subheading {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 20px 0;
+    font-size: 0.95em;
+    color: #666;
+    font-style: italic;
+}
+
 .people-grid-section {
     display: flex;
     flex-wrap: wrap;

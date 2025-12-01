@@ -237,7 +237,7 @@ Display people grouped by start date with epoch headings
     {% if is_2013 or is_2014_early %}
         {% assign epoch = 'Whitepaper to "Red Wedding" (November 2013 to June 2014)' %}
     {% elsif is_2014_late or is_2015_early %}
-        {% assign epoch = "Stiftung Ethereum and ETH DEV (July 2014 to February 2015)" %}
+        {% assign epoch = "Stiftung Ethereum and ETHDEV (July 2014 to February 2015)" %}
     {% elsif is_2015_mid %}
         {% assign epoch = "The Interregnum (March 2015 to June 2015)" %}
     {% elsif is_2015_late or is_2016_plus %}
@@ -253,7 +253,7 @@ Display people grouped by start date with epoch headings
         {% assign current_epoch = epoch %}
         {% if epoch == 'Whitepaper to "Red Wedding" (November 2013 to June 2014)' %}
             <h1 id="whitepaper-red-wedding">{{ epoch }}</h1>
-        {% elsif epoch == "Stiftung Ethereum and ETH DEV (July 2014 to February 2015)" %}
+        {% elsif epoch == "Stiftung Ethereum and ETHDEV (July 2014 to February 2015)" %}
             <h1 id="stiftung-ethereum">{{ epoch }}</h1>
         {% elsif epoch == "The Interregnum (March 2015 to June 2015)" %}
             <h1 id="interregnum">{{ epoch }}</h1>

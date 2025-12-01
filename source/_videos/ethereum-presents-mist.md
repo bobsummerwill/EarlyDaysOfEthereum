@@ -1,7 +1,7 @@
 ---
 title: "Ethereum presents Mist"
-date: 2016-01-13
-author: "Ethereum Foundation"
+date: 2014-11-12
+author: "Alex van de Sande"
 description: "An introduction to Mist, the Ethereum browser that allows users to interact with decentralized applications, wallets, and smart contracts. This video walks through the Mist interface including the sidebar, app catalog, crowdfunder functionality, and integration with traditional web applications."
 embed:
   url: https://www.youtube.com/embed/IgNjs_WaFSc
@@ -16,11 +16,3 @@ This video provides an introduction to Mist, the Ethereum browser. Mist was desi
 - Exploring the app catalog
 - Participating in crowdfunding campaigns
 - Bridging traditional web applications with Ethereum
-
-## Chapters
-
-- **0:00** - Introduction
-- **2:20** - Sidebar
-- **5:28** - App catalog
-- **10:00** - Crowdfunder
-- **15:10** - Traditional Web

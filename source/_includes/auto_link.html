@@ -341,7 +341,7 @@ while ensuring clean, valid HTML output.
 
 {%- comment -%}Protect rendered content-embed blocks (blog-embed-card divs) from auto-linking{%- endcomment -%}
 {%- assign content_embeds = "" | split: "" -%}
-{%- assign embed_parts = body_content | split: '<div class="blog-embed-card"' -%}
+{%- assign embed_parts = body_content | split: '<div class="blog-embed-card' -%}
 {%- if embed_parts.size > 1 -%}
   {%- assign new_body = embed_parts[0] -%}
   {%- for part in embed_parts offset: 1 -%}
@@ -349,7 +349,7 @@ while ensuring clean, valid HTML output.
     {%- if end_parts.size > 1 -%}
       {%- comment -%}Find the closing div for blog-embed-card by counting nested divs{%- endcomment -%}
       {%- assign div_count = 1 -%}
-      {%- assign embed_content = '<div class="blog-embed-card"' | append: end_parts[0] -%}
+      {%- assign embed_content = '<div class="blog-embed-card' | append: end_parts[0] -%}
       {%- assign remaining_content = "" -%}
       {%- for remaining_part in end_parts offset: 1 -%}
         {%- assign div_opens = remaining_part | split: '<div' | size | minus: 1 -%}
@@ -370,7 +370,7 @@ while ensuring clean, valid HTML output.
       {%- assign content_embeds = content_embeds | push: embed_pair -%}
       {%- assign new_body = new_body | append: placeholder | append: remaining_content -%}
     {%- else -%}
-      {%- assign new_body = new_body | append: '<div class="blog-embed-card"' | append: part -%}
+      {%- assign new_body = new_body | append: '<div class="blog-embed-card' | append: part -%}
     {%- endif -%}
   {%- endfor -%}
   {%- assign body_content = new_body -%}

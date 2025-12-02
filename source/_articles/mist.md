@@ -24,14 +24,14 @@ Mist was discontinued in 2019 for a mixture of usability and more important secu
 
 The core Mist development team was:
 
-- Alex van de Sande
-- Fabian Vogelsteller
-- Ramesh Nair
-- Luca Zeug
-- Victor Maia
-- Everton Fraga
-- Marc Garreau
-- Ryan Ghods
+- [Alex van de Sande](/people/alex-van-de-sande/)
+- [Fabian Vogelsteller](/people/fabian-vogelsteller/)
+- [Ramesh Nair](/people/ramesh-nair/)
+- [Luca Zeug](/people/luca-zeug/)
+- [Victor Maia](/people/victor-maia/)
+- [Everton Fraga](/people/everton-fraga/)
+- [Marc Garreau](/people/marc-garreau/)
+- [Ryan Ghods](/people/ryan-ghods/)
 
 {% include twitter-embed.html
   url="https://x.com/feindura/status/1995577334360146101"

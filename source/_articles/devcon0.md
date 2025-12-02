@@ -73,5 +73,5 @@ There is a [DEVCON0 Playlist on YouTube](https://www.youtube.com/playlist?list=P
 In particular, this opening session given by Gavin Wood has a section in which nearly all the attendees come up to the microphone and briefly introduce themselves.  This is a priceless artifact.  The "DEVCON0" videos shown under individual profiles link to the timestamp within that video of their own self-introduction.
 
 {% include video-embed.html
-  name="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
+  name="Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps"
 %}

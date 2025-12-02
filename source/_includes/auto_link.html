@@ -488,15 +488,7 @@ while ensuring clean, valid HTML output.
   {%- endunless -%}
 {%- endfor -%}
 
-{%- comment -%}Restore protected attributes (from early protection){%- endcomment -%}
-{%- for pair in protected_attributes -%}
-  {%- assign parts = pair | split: '|||' -%}
-  {%- assign placeholder = parts[0] -%}
-  {%- assign original_attr = parts[1] -%}
-  {%- assign body_content = body_content | replace: placeholder, original_attr -%}
-{%- endfor -%}
-
-{%- comment -%}Restore content-embed includes{%- endcomment -%}
+{%- comment -%}Restore content-embed includes FIRST (they may contain attribute placeholders){%- endcomment -%}
 {%- for pair in content_embeds -%}
   {%- assign parts = pair | split: '|||' -%}
   {%- assign placeholder = parts[0] -%}
@@ -510,6 +502,14 @@ while ensuring clean, valid HTML output.
   {%- assign placeholder = parts[0] -%}
   {%- assign original_content = parts[1] -%}
   {%- assign body_content = body_content | replace: placeholder, original_content -%}
+{%- endfor -%}
+
+{%- comment -%}Restore protected attributes LAST (after content-embeds and spans are restored){%- endcomment -%}
+{%- for pair in protected_attributes -%}
+  {%- assign parts = pair | split: '|||' -%}
+  {%- assign placeholder = parts[0] -%}
+  {%- assign original_attr = parts[1] -%}
+  {%- assign body_content = body_content | replace: placeholder, original_attr -%}
 {%- endfor -%}
 
 {{ body_content }}

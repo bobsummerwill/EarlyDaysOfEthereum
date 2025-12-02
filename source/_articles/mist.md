@@ -19,7 +19,7 @@ Mist was discontinued in 2019 for a mixture of usability and more important secu
   description="Announcement that Mist would no longer be supported"
   date="March 22, 2019"
   author="Alex van de Sande"
-  img="https://miro.medium.com/v2/resize:fit:4204/format:webp/1*zQb-Q_Kqw9_QVRvfqqBe7A.png"
+  img="/images/medium.com/2025.12.01/avsa/sunsetting-mist-da21c8e943d2/mist-logos.webp"
 %}
 
 The core Mist development team was:
@@ -28,6 +28,7 @@ The core Mist development team was:
 - Fabian Vogelsteller
 - Ramesh Nair
 - Luca Zeug
+- Victor Maia
 - Everton Fraga
 - Marc Garreau
 - Ryan Ghods

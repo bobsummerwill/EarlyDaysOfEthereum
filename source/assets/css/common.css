@@ -2710,6 +2710,25 @@ main {
 }
 
 /**
+ * Grid Section Headings - Epoch-style section dividers
+ * 
+ * Used on grid pages and article index for section headings.
+ * Provides consistent centered heading styling across different page types.
+ */
+.grid-section-heading {
+    width: 100%;
+    text-align: center;
+    margin: 40px 0 5px 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #333;
+}
+
+.grid-section-heading:first-of-type {
+    margin-top: 20px;
+}
+
+/**
  * Back-links Section - Automatic bidirectional linking
  * 
  * Displays pages that reference the current page, creating a web of connections.

@@ -54,7 +54,7 @@ Search through all articles for references to current page
     {% endif %}
     {% comment %}Check if this article is authored by the current person{% endcomment %}
     {% assign normalized_author = article.author | remove: '"' | remove: "'" %}
-    {% if normalized_author and current_name and normalized_author == current_name %}
+    {% if normalized_author and normalized_author != "" and current_name and current_name != "" and normalized_author == current_name %}
       {% assign found_match = true %}
     {% endif %}
     {% if found_match %}

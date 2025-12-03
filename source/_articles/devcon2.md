@@ -1,7 +1,6 @@
 ---
-title: "DEVCON2"
+title: DEVCON2
 date: 2016-09-19
-author: Ethereum Foundation
 description: "The second public Ethereum developer conference held in Shanghai, China"
 embed:
   url: https://blog.ethereum.org/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016

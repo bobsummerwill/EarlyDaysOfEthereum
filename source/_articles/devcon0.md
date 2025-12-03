@@ -1,5 +1,5 @@
 ---
-title: "DEVCON0"
+title: DEVCON0
 date: 2014-11-24
 description: "Invitation-only developer conference held in Berlin"
 img: /images/x.com/2025.10.30/avsa/status/1143250365166567430/photo/devcon0-group-photo.jpeg

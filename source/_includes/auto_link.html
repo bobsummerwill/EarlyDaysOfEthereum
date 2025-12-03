@@ -264,7 +264,7 @@ while ensuring clean, valid HTML output.
 {%- comment -%}Protect HTML attributes AFTER hidden people processing but BEFORE name replacements{%- endcomment -%}
 {%- assign protected_attributes = "" | split: "" -%}
 {%- assign attr_counter = 0 -%}
-{%- assign attribute_names = "alt|title|aria-label|aria-describedby|data-|src" | split: "|" -%}
+{%- assign attribute_names = "alt|title|aria-label|aria-describedby|data-|src|href" | split: "|" -%}
 
 {%- for attr_name in attribute_names -%}
   {%- comment -%}Match attributes like: alt="text" or title='text'{%- endcomment -%}

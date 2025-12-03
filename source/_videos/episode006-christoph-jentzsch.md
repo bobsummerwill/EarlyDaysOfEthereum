@@ -410,7 +410,7 @@ table_of_contents:
 **Kieren James-Lubin:**
 
 
-[[24:10]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=1450s)    Yeah, it's amazing—the client side was the cause. I think it was part of it, but you know, having—the process maybe started with the Red Wedding, which we just...in some other Early Days of Ethereum episodes.
+[[24:10]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=1450s)    Yeah, it's amazing—the client side was the cause. I think it was part of it, but you know, having—the process maybe started with the "Red Wedding", which we just...in some other Early Days of Ethereum episodes.
 
 
 [[24:26]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=1466s)    Like, I remember very clearly in the room, I was like two weeks into my Ethereum tenure at that time, that he was talking about brain drain if it was only going to be a nonprofit foundation and not going to have a commercial arm.

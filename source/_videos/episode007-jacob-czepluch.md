@@ -13,8 +13,8 @@ table_of_contents:
     title: "Copenhagen Meetup & Bachelor Thesis"
   - link: "#berlin-internship"
     title: "The Berlin Internship"
-  - link: "#foundation-funding-crisis"
-    title: "Foundation Funding Crisis & Ethcore Formation"
+  - link: "#ethereum-foundation-funding-crisis"
+    title: "Ethereum Foundation Funding Crisis & Ethcore Formation"
   - link: "#devcon1-experience"
     title: "DEVCON1 Experience"
   - link: "#evolution-devcons"
@@ -58,13 +58,19 @@ So, yeah, we've known each other about three years or so now. I think we did mee
 [00:44] **Jacob Czepluch:**
 Oh, yeah. Thank you for the intro and good question. It was in Bogotá. I think I knew about you or of you for longer than since then. But yeah, I think you were chatting with someone and talking about ... (Florian Glatz maybe?), and talking about the old days. And I just jumped in because I know [Florian](/people/florian-glatz) and found out that we have a shared interest in the old days of Ethereum.
 
-And yeah, I did my internship working on the Python client, back starting September or August 2015. I think it was like—
+{% include twitter-embed.html
+  url="https://x.com/BobSummerwill/status/1583915307651207168"
+%}
+
+And yeah, I did my internship working on the [Python client](/articles/pyethereum), back starting September or August 2015. I think it was like—
 
 [01:22] **Bob Summerwill:**
 Maybe August to December?
 
 [01:24] **Jacob Czepluch:**
-Yeah, it was August to December. It was a couple of weeks after mainnet launched and the first week I was there was when there was like the first big fork where the Go client forked from the C++ and Python client.
+Yeah, it was August to December. It was a couple of weeks after mainnet launched and the first week I was there was when there was like the first big fork where the Go client forked from the C++ and [Python client](/articles/pyethereum).
+
+*(Bob: I tracked down that Meetup to 20th August 2015, so Jacob's first day will have been Tuesday 19th August 2015.  See photo from the Meetup below)*
 
 [01:40] **Bob Summerwill:**
 There was a chain split on mainnet?
@@ -72,17 +78,32 @@ There was a chain split on mainnet?
 [01:42] **Jacob Czepluch:**
 Yes. And it happened, I think, the second day I was there. And that was the same day that there was a meetup planned in the office.
 
+{% include content-embed.html
+  url="https://blog.ethereum.org/2015/08/20/security-alert-consensus-issue"
+  img="https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75"
+  title="Security alert [consensus issue]"
+  author="Jutta Steiner"
+  date="2015-08-20"
+  site="blog.ethereum.org"
+  description="Consensus issue on the Frontier network at block 116,522, caused by a state database issue in geth with deletion of account data during SUICIDE instructions."
+%}
+
 [01:52] **Bob Summerwill:**
 Right.
 
 [01:53] **Jacob Czepluch:**
 So everything was extremely chaotic and people arrived at the office for the meetup and nothing happened for a good amount of time. And eventually I was just sitting there in the corner working and I was like, no, we can't do this because there's so many people who are just like looking. Some started leaving. So I kind of ad hoc jumped in and gave a presentation on Ethereum back then that I had given a couple of weeks before back in Copenhagen.
 
+{% include twitter-embed.html
+  url="https://x.com/heckerhut/status/634439352605655041"
+%}
+
 [02:22] **Bob Summerwill:**
+
 Prior to your internship.
 
 [02:24] **Jacob Czepluch:**
-Yeah, I gave the presentation prior to my internship because I started a Copenhagen Ethereum meetup group.
+Yeah, I gave the presentation prior to my internship because I started a Copenhagen Ethereum Meetup group.
 
 [02:30] **Bob Summerwill:**
 Oh, goodness. So when do you think that started?
@@ -114,23 +135,35 @@ Right.
 [03:09] **Jacob Czepluch:**
 And because the Ethereum ecosystem, so to speak, was so small back then, we were in contact with the Ethereum Foundation during the internship. I think I opened my first issue in March 2015 to the C++ client or something like that. I've known of Ethereum since the end of 2014, but anyway.
 
-We wrote this bachelor thesis, me and two of my friends, and we shared it with the Foundation, and then we got offered internships.
+*(Bob: His first Github action was actually on 4th April 2015, and it was [an issue](https://github.com/ethereum/aleth/issues/1559) logged against cpp-ethereum for a problem with AlethZero!)*
+
+We wrote this bachelor thesis, me and two of my friends, and we shared it with the [Foundation](/articles/stiftung-ethereum), and then we got offered internships.
+
+{% include content-embed.html
+  url="/assets/docs/jacob-czepluch/personal/bachelor.pdf"
+  img="/assets/docs/jacob-czepluch/personal/screenshot.png"
+  title="The Use of Block Chain Technology in Different Application Domains"
+  author="Jacob Stenum Czepluch, Nikolaj Zangenberg Lollike and Simon Oliver Malone"
+  date="2015-05-20"
+  site="The IT University of Copenhagen"
+%}
 
 [03:42] **Bob Summerwill:**
 Right, right.
 
 [03:43] **Jacob Czepluch:**
-And I was the only one. I was tired of studying already, only after a bachelor, and the other two guys wanted to continue, so I was like, okay, I'm going to do this. And a couple of weeks later, I moved to Berlin to do my internship working on the Python client.
+And I was the only one. I was tired of studying already, only after a bachelor, and the other two guys wanted to continue, so I was like, okay, I'm going to do this. And a couple of weeks later, I moved to Berlin to do my internship working on the [Python client](/articles/pyethereum).
 
-And, yeah, that was a very interesting time. Like thinking back now, I'm sad I didn't write down more things or take more pictures or appreciate some of the things a little bit more. But I also had no idea that things would get as big as they are now. But yeah, I enjoyed it a lot.
+And, yeah, that was a very interesting time. Like thinking back now, I'm sad I didn't write down more things or take more pictures or appreciate some of the things a little bit more. But I a
+lso had no idea that things would get as big as they are now. But yeah, I enjoyed it a lot.
 
 <h3 id="berlin-internship">The Berlin Internship</h3>
 
 [04:22] **Bob Summerwill:**
-So I mean it was primarily C++ development under Gav that was happening in that office, right? But also Felix Lange I know was there on the Geth team.
+So I mean it was primarily C++ development under [Gav](/people/gavin-wood) that was happening in that office, right? But also Felix Lange I know was there on the Geth team.
 
 [04:33] **Jacob Czepluch:**
-Yeah, there were some different people. I remember Gustav Simonsen, I think he was doing Go stuff. And yeah, the Solidity team was also there. I think they were under the C++ team back then, but they were there.
+Yeah, there were some different people. I remember Gustav Simonssen, I think he was doing Go stuff. And yeah, the Solidity team was also there. I think they were under the C++ team back then, but they were there.
 
 [04:42] **Bob Summerwill:**
 And Remix as well. Well, Mix, sorry, at the time.
@@ -155,14 +188,14 @@ And that's cross-client testing as well, wasn't it?
 Yeah, if I remember correctly, he was building a lot of JSON data that they fed to the clients.
 
 [06:15] **Bob Summerwill:**
-And that was from the C++ client, I know, that cpp-ethereum was leading. And the tests were generated from that, but then running those against the Python and Geth clients.
+And that was from the [C++ client](/articles/cpp-ethereum), I know, that cpp-ethereum was leading. And the tests were generated from that, but then running those against the Python and Geth clients.
 
 [06:27] **Jacob Czepluch:**
 Yeah, that sounds about right. There are a lot of more stories. You told me we don't have too much time. I'll try to keep it short.
 
-I would say if I think back to the most interesting things that happened, it was like of course, being lucky enough to participate at DEVCON1. And also experience the kind of split that was taking place at this point in time because the Foundation, I think, almost ran out of money.
+I would say if I think back to the most interesting things that happened, it was like of course, being lucky enough to participate at DEVCON1. And also experience the kind of split that was taking place at this point in time because the [Foundation](/articles/stiftung-ethereum), I think, almost ran out of money.
 
-<h3 id="foundation-funding-crisis">Foundation Funding Crisis & Ethcore Formation</h3>
+<h3 id="ethereum-foundation-funding-crisis">Ethereum Foundation Funding Crisis & Ethcore Formation</h3>
 
 [06:58] **Bob Summerwill:**
 Yeah, that's right.
@@ -186,21 +219,21 @@ And the Ether price itself was also, I think it dipped below the pre-sale price 
 A year in and you've had no accumulation.
 
 [07:50] **Jacob Czepluch:**
-But yeah, I didn't have any interactions with Ming back then. Actually, one thing I just remembered now, I was actually supposed to have done my internship on the C++ team in London, but a couple of weeks before that, I was told, sorry, we can't do it anyway because we don't have the money anymore.
+But yeah, I didn't have any interactions with [Ming](/people/ming-chan) back then. Actually, one thing I just remembered now, I was actually supposed to have done my internship on the C++ team in London, but a couple of weeks before that, I was told, sorry, we can't do it anyway because we don't have the money anymore.
 
 [08:10] **Bob Summerwill:**
 Right. Well, because they were getting very rapidly the funding or even shut down entirely, I think.
 
 [08:17] **Jacob Czepluch:**
-Yeah, probably already. Or that was coming. Yeah, so that's why it ended up being the Python team instead because there was some budget.
+Yeah, probably already. Or that was coming. Yeah, so that's why it ended up being the [Python team](/articles/pyethereum) instead because there was some budget.
 
-But yeah, like sitting as the only person working on the Python client in that office in my small corner, I had a lot of fun kind of following how people came and went and went into Gavin's office and had a chat there with him and Jutta or whatever. And I didn't really know in the beginning what was going on until I was also asked if I wanted to come in and talk. And it was basically like presenting ideas of what would happen next with the C++ team and if we wanted to consider joining there or whatever.
+But yeah, like sitting as the only person working on the [Python client](/articles/pyethereum) in that office in my small corner, I had a lot of fun kind of following how people came and went and went into [Gavin](/people/gavin-wood)'s office and had a chat there with him and [Jutta](/people/jutta-steiner) or whatever. And I didn't really know in the beginning what was going on until I was also asked if I wanted to come in and talk. And it was basically like presenting ideas of what would happen next with the C++ team and if we wanted to consider joining there or whatever.
 
 [09:00] **Bob Summerwill:**
-So that was sort of the pre-formation of what became Ethcore, later Parity.
+So that was sort of the pre-formation of what became Ethcore, later Parity Technologies.
 
 [09:06] **Jacob Czepluch:**
-Yeah, I think so. I was witnessing that without knowing what was going on. I had no insight into the finances of the Foundation or anything like that. I only found out about most of those things later. But it was quite interesting to see.
+Yeah, I think so. I was witnessing that without knowing what was going on. I had no insight into the finances of the [Foundation](/articles/stiftung-ethereum) or anything like that. I only found out about most of those things later. But it was quite interesting to see.
 
 <h3 id="devcon1-experience">DEVCON1 Experience</h3>
 
@@ -218,12 +251,64 @@ But I was just sitting there and sucking up all of these ideas and visions. And 
 
 Because it was a full day, or three full days, of just sitting there and people presenting their ideas. I remember clearly Maker was presented. I was like, OK, we can do stablecoins. Amazing.
 
+{% include content-embed.html
+  src="https://www.youtube.com/embed/tu0Q9ZDrJT4"
+  title="DEVCON1: Maker - Nikolai Mushegian"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 12, 2015"
+%}
+
 I think Fabian Vogelsteller and Alex Van de Sande and some other people presented the ERC-20 token standard or the early version of it, which, yeah, OK, this is such a big part of Ethereum now.
 
-I think maybe Gnosis, I'm not sure actually. And of course the project I was working on, the people there, we were presenting the Raiden network, which got a lot of very good feedback as well. So it was so interesting.
+*(Bob - so the panelists were actually Christian Lundkvist, Vitalik Buterin, Fabian Vogelsteller, Nikolai Mushegian and Gavin Wood, with Simon de la Rouviere moderating.  Simon himself gave a separate talk on tokenization)*
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/wbbbZv1VaVM"
+  title="DEVCON1: Panel: Standardization"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 13, 2015"
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/kE5oGw8oKsY"
+  title="DEVCON1: Tokens - Simon de la Rouviere"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 12, 2015"
+%}
+
+I think maybe Gnosis, I'm not sure actually.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/v19KtrFqAjo"
+  title="DEVCON1: Gnosis - Martin Koppelmann"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="EthereumProtocol"
+  date="November 13, 2015"
+%}
+
+And of course the project I was working on, the people there, we were presenting the Raiden network, which got a lot of very good feedback as well. So it was so interesting.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/h791zjvf3uQ"
+  title="DEVCON1: Raiden: Scaling Out With Offchain State Networks - Heiko Hees"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 10, 2015"
+%}
 
 [11:40] **Bob Summerwill:**
 And HydraChain as well, right?
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/fX6Qo6e9lSE"
+  title="DEVCON1: HydraChain: Permissioned Distributed Ledgers Based on Ethereum - Heiko Hees"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 10, 2015"
+%}
 
 [11:42] **Jacob Czepluch:**
 Yeah, I was not so sold on HydraChain back then because it was aimed at...
@@ -256,7 +341,15 @@ Glory days.
 [12:57] **Jacob Czepluch:**
 It was just dinners and a couple of shepherd's pies somewhere. And that was kind of fun. You got to know people really, really well. It was really just the golden days, I felt like. There were so many inspired people and ideas, and people only talked about tech.
 
-I think there was like one a little bit weird product, hype talk with a guy who had a T-shirt gun on the stage, this like Free My Vunk, who had like a very different energy than everybody else. It felt like he was the only one who actually knew how to give a talk and how to actually sell. And back then I thought it was way too much, but now it's basically what everyone else is doing. And the quality of slides was so bad as well. It's funny to look back.
+I think there was like one a little bit weird product, hype talk with a guy who had a T-shirt gun on the stage, this like [Free My Vunk](https://web.archive.org/web/20180815033502/http://www.freemyvunk.com/), who had like a very different energy than everybody else. It felt like he was the only one who actually knew how to give a talk and how to actually sell. And back then I thought it was way too much, but now it's basically what everyone else is doing. And the quality of slides was so bad as well. It's funny to look back.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/AzGHtX0yaiw"
+  title="DEVCON1: FreeMyVunk: Join the movement - R. Tyler Smith"
+  site="https://www.youtube.com/@EthereumProtocol"
+  author="Ethereum"
+  date="November 10, 2015"
+%}
 
 <h3 id="evolution-devcons">Evolution of DEVCONs</h3>
 
@@ -266,7 +359,7 @@ But yeah, I was thinking about that and then I was comparing with, let's say, DE
 There was just one main stage.
 
 [14:08] **Jacob Czepluch:**
-Yeah, quite doable. And then I think at DEVCON 3 in Cancun, that was where you could really feel, okay, now there's a lot of money in this space because there were parties right and left. And yeah, okay, the rest is history, right?
+Yeah, quite doable. And then I think at DEVCON3 in Cancun, that was where you could really feel, okay, now there's a lot of money in this space because there were parties right and left. And yeah, okay, the rest is history, right?
 
 [14:24] **Bob Summerwill:**
 That's right.

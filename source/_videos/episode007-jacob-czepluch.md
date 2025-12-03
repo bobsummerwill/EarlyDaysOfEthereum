@@ -51,7 +51,7 @@ Good enough. Czepluch.
 Yes, there you go.
 
 [00:16] **Bob Summerwill:**
-So, yeah, we've known each other about three years or so now. I think we did meet in Bogotá for DEVCON6 for the first time, where you introduced yourself. I was not aware of your background and role, but specifically, you were an intern at ETHDEV in Berlin in late 2015, and you also attended DEVCON 1. So how did you come to be involved with Ethereum at that time?
+So, yeah, we've known each other about three years or so now. I think we did meet in Bogotá for DEVCON6 for the first time, where you introduced yourself. I was not aware of your background and role, but specifically, you were an intern at ETHDEV in Berlin in late 2015, and you also attended DEVCON1. So how did you come to be involved with Ethereum at that time?
 
 <h3 id="copenhagen-meetup-thesis">Copenhagen Meetup & Bachelor Thesis</h3>
 

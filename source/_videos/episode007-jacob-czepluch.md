@@ -4,8 +4,21 @@ date: 2025-12-03
 show: true
 guests: ["Jacob Czepluch"]
 hosts: ["Bob Summerwill"]
-description: "Jacob was an intern at ETHDEV in late 2015, so was a fly-on-the-wall in the Berlin office as the C++ team was defunded.  He had earlier founded the Copenhagen Ethereum Meeup"
+description: "Jacob was an intern at ETHDEV in late 2015, so was a fly-on-the-wall in the Berlin office as the C++ team was defunded.  He had earlier founded the Copenhagen Ethereum Meetup"
 img: /images/covers-for-conversations/episode007-jacob-czepluch.png
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction"
+  - link: "#copenhagen-meetup-thesis"
+    title: "Copenhagen Meetup & Bachelor Thesis"
+  - link: "#berlin-internship"
+    title: "The Berlin Internship"
+  - link: "#foundation-funding-crisis"
+    title: "Foundation Funding Crisis & Ethcore Formation"
+  - link: "#devcon1-experience"
+    title: "DEVCON1 Experience"
+  - link: "#evolution-devcons"
+    title: "Evolution of DEVCONs"
 ---
 
 ## Audio
@@ -15,6 +28,12 @@ img: /images/covers-for-conversations/episode007-jacob-czepluch.png
   Your browser does not support the audio element.
 </audio>
 
+
+## Transcript
+
+<!-- TABLE_OF_CONTENTS -->
+
+<h3 id="introduction">Introduction</h3>
 
 [00:00] **Jacob Czepluch:**
 So, hello. Hello, Bob.
@@ -33,6 +52,8 @@ Yes, there you go.
 
 [00:16] **Bob Summerwill:**
 So, yeah, we've known each other about three years or so now. I think we did meet in Bogotá for DEVCON6 for the first time, where you introduced yourself. I was not aware of your background and role, but specifically, you were an intern at ETHDEV in Berlin in late 2015, and you also attended DEVCON 1. So how did you come to be involved with Ethereum at that time?
+
+<h3 id="copenhagen-meetup-thesis">Copenhagen Meetup & Bachelor Thesis</h3>
 
 [00:44] **Jacob Czepluch:**
 Oh, yeah. Thank you for the intro and good question. It was in Bogotá. I think I knew about you or of you for longer than since then. But yeah, I think you were chatting with someone and talking about ... (Florian Glatz maybe?), and talking about the old days. And I just jumped in because I know [Florian](/people/florian-glatz) and found out that we have a shared interest in the old days of Ethereum.
@@ -103,6 +124,8 @@ And I was the only one. I was tired of studying already, only after a bachelor, 
 
 And, yeah, that was a very interesting time. Like thinking back now, I'm sad I didn't write down more things or take more pictures or appreciate some of the things a little bit more. But I also had no idea that things would get as big as they are now. But yeah, I enjoyed it a lot.
 
+<h3 id="berlin-internship">The Berlin Internship</h3>
+
 [04:22] **Bob Summerwill:**
 So I mean it was primarily C++ development under Gav that was happening in that office, right? But also Felix Lange I know was there on the Geth team.
 
@@ -138,6 +161,8 @@ And that was from the C++ client, I know, that cpp-ethereum was leading. And the
 Yeah, that sounds about right. There are a lot of more stories. You told me we don't have too much time. I'll try to keep it short.
 
 I would say if I think back to the most interesting things that happened, it was like of course, being lucky enough to participate at DEVCON1. And also experience the kind of split that was taking place at this point in time because the Foundation, I think, almost ran out of money.
+
+<h3 id="foundation-funding-crisis">Foundation Funding Crisis & Ethcore Formation</h3>
 
 [06:58] **Bob Summerwill:**
 Yeah, that's right.
@@ -176,6 +201,8 @@ So that was sort of the pre-formation of what became Ethcore, later Parity.
 
 [09:06] **Jacob Czepluch:**
 Yeah, I think so. I was witnessing that without knowing what was going on. I had no insight into the finances of the Foundation or anything like that. I only found out about most of those things later. But it was quite interesting to see.
+
+<h3 id="devcon1-experience">DEVCON1 Experience</h3>
 
 [09:22] **Bob Summerwill:**
 Yeah, so maybe let's talk about DEVCON1. So the first DEVCON was DEVCON0, which happened in November 2014 before your time, which was the closed event, mainly Ethereum Foundation-y people, but some broader ecosystem people.
@@ -230,6 +257,8 @@ Glory days.
 It was just dinners and a couple of shepherd's pies somewhere. And that was kind of fun. You got to know people really, really well. It was really just the golden days, I felt like. There were so many inspired people and ideas, and people only talked about tech.
 
 I think there was like one a little bit weird product, hype talk with a guy who had a T-shirt gun on the stage, this like Free My Vunk, who had like a very different energy than everybody else. It felt like he was the only one who actually knew how to give a talk and how to actually sell. And back then I thought it was way too much, but now it's basically what everyone else is doing. And the quality of slides was so bad as well. It's funny to look back.
+
+<h3 id="evolution-devcons">Evolution of DEVCONs</h3>
 
 But yeah, I was thinking about that and then I was comparing with, let's say, DEVCON2. I think at DEVCON2 there was maybe like a couple of parties. I think ConsenSys had like a bar somewhere where we would usually go. It was still not that big. There was still only one stage, I think, at DEVCON2.
 

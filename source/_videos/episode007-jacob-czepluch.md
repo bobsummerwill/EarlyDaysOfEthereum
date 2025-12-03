@@ -270,7 +270,7 @@ I think Fabian Vogelsteller and Alex Van de Sande and some other people presente
   title="DEVCON1: Panel: Standardization"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
-  date="November 13, 2015"
+  date="November 11, 2015"
 %}
 
 {% include content-embed.html
@@ -288,7 +288,7 @@ I think maybe Gnosis, I'm not sure actually.
   title="DEVCON1: Gnosis - Martin Koppelmann"
   site="https://www.youtube.com/@EthereumProtocol"
   author="EthereumProtocol"
-  date="November 13, 2015"
+  date="November 12, 2015"
 %}
 
 And of course the project I was working on, the people there, we were presenting the Raiden network, which got a lot of very good feedback as well. So it was so interesting.
@@ -298,7 +298,7 @@ And of course the project I was working on, the people there, we were presenting
   title="DEVCON1: Raiden: Scaling Out With Offchain State Networks - Heiko Hees"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
-  date="November 10, 2015"
+  date="November 9, 2015"
 %}
 
 [[11:40]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=700s) **Bob Summerwill:**
@@ -309,7 +309,7 @@ And HydraChain as well, right?
   title="DEVCON1: HydraChain: Permissioned Distributed Ledgers Based on Ethereum - Heiko Hees"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
-  date="November 10, 2015"
+  date="November 11, 2015"
 %}
 
 [[11:42]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=702s) **Jacob Czepluch:**

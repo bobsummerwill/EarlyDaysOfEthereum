@@ -963,14 +963,34 @@ img {
 }
 
 /**
- * Interview Link - Legacy support for existing interview links
+ * Interview Link - Styling for interview links on person pages
  * 
- * Maintained for backwards compatibility with existing pages.
- * Note: .action-button.interview-link uses the base .action-button styles.
+ * Used on individual person pages for interview call-to-action.
+ * Matches the compact action-button styling.
  */
 .person-interview-link {
     margin-top: var(--spacing-sm);
     text-align: center;
+}
+
+.interview-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #007acc;
+    color: #fff !important;
+    padding: var(--spacing-sm) var(--spacing-xl);
+    border-radius: var(--radius-sm);
+    text-decoration: none !important;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: var(--transition-fast);
+}
+
+.interview-link:hover {
+    background: #005580;
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-medium);
 }
 
 /**

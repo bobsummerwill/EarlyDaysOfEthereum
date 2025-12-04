@@ -1,35 +1,52 @@
 ---
-title: "The end of the beginning…"
-date: 2015-05-02
+title: "Gav's Ethereum ÐΞV Update III"
+date: 2014-11-18
 author: Gavin Wood
-description: "Gavin Wood announces the Olympic testnet phase with incentivized testing before the Frontier release, offering prizes for mining, gas usage, and finding bugs"
+description: "Gavin Wood's third development update announcing new hires (Sven Ehlert, Jutta Steiner, Yann Levreau, Arkadiy Paronyan), Berlin hub progress with Sarah O'Neill, and ÐΞVcon-0 preparations"
 embed:
-  url: https://blog.ethereum.org/2015/05/02/the-end-of-the-beginning
+  url: https://blog.ethereum.org/2014/11/18/gavs-dev-update-iii
   img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
   site: Ethereum Foundation Blog
 ---
 
-As part of our tiered release process, we will soon be beginning the final phase prior to our Frontier release. So far our ongoing Proof-of-Concept IX testnet has been running smoothly for around a month with dozens of nodes around the world, well over 200,000 blocks and including clients on several platforms and three different clean-room implementations. However, that's not enough of a test for us.
+I'm Gavin Wood, a co-founder of Ethereum and, along with Vitalik Buterin and Jeffrey Wilcke, one of the three directors of the Eth Dev, the NFP organisation that is managing the development (under contract from Ethereum Suisse) of the Ethereum blockchain. This is a small update to let you all know what has been going on recently.
 
-In a phase of the PoC-IX testnet called "Olympic", the usage of this network will be incentivised through a collection of prizes (in ether, naturally!). We will give advice on what usage should maximise your chances of winning ether, though the precise judgement metrics will be withheld until prize time. Suffice it to say, those in the employ of Ethereum or its subsidiaries will not be eligible.
+I sit here on an immaculate couch that has been zapped forward in time from the 1960s. It is in the room that will become the chillout & wind-down room of the heart of the (C++) Ethereum development operation. Surrounding me is Alex Leverington on a Bond villain's easy chair, and Aeron Buchanan stuck behind a locker that looks as though it was an original prop from [M\*A\*S\*H](https://en.wikipedia.org/wiki/M*A*S*H_\(TV_series\)). Lighting equipment from a Soviet [Blade Runner](https://en.wikipedia.org/wiki/Blade_runner), now forgotten except in Berlin's coolest districts where renaissance chemistry and 60s luxury breath Frankensteinesque life into it, provides an unyielding glow to the work in progress. There is still much to be done here (I feel a little like I'm on the set of [Challenge Anneka](https://en.wikipedia.org/wiki/Challenge_Anneka)) but it is undeniably taking shape. This is thanks mostly to our own Anneka Rice, Sarah O'Neill, who is working around the clock to get this place ready for ÐΞVcon-0, our first developer symposium. Helping her, similarly around the clock, is the inimitable Roland, a hardened international interior outfitter whose memoirs I can't wait to read.
 
-The sorts of usage we will be awarding include:
+On a personal note, I must say these last few months have been some of the busiest of my life. I spent the last couple of weeks between Switzerland and the UK, visiting Stephan, Ian and Louis. Despite the draws of the north of England, it's nice to be back in Berlin; the combination of great burgers and cocktails, beautiful surroundings and nice people makes it difficult to leave. Awesome C++ coders are welcome to take that as a hint: we're still hiring (-:
 
-* mining
-* spending gas (in a variety of ways)
-* interesting contracts (variety of opcodes, length of execution time)
-* ... and of course a grand prize for causing a fork!
+## Technicals
 
-Vinay will keep you updated on this but our rough time scale for this is *as soon as possible* :)
+During the last couple of weeks we've made a number of important revisions to the protocol, mostly provisions for creating light-client ÐApp nodes. There will be a directors' post in due course detailing these, but suffice it to say we are as committed as ever that the Ethereum blockchain make possible the massively multi-user decentralised applications for all sizes of devices. The seventh in our proof-of-concept series is awaiting imminent release and the final in the series, PoC-8 will be starting development shortly.
 
-## Ongoing work from my side...
+## Fresh meat
 
-As you might notice if you keep an eye on our repositories, development proceeds steadily. [Alex](/people/alex-leverington/) (alongside Felix on the Go side) continue to perfect our peer-network infrastructure, with the last few changes having been prototyped recently and a period of review and testing to be carried out prior to our Olympic binaries being released. [Marek](/people/marek-kotewicz/)'s work (alongside Fabian on the Go side) on the JSON-RPC testing and web3.js continues to prepare the ground for Frontier and lots of lovely ÐApps.
+As time goes on, our team moves from strength to strength. I'm pleased to announce that Dr. Sven Ehlert has joined us. He will be leading development operations; cleaning up the build process, making the build as robust as possible, assisting Caktux in our CI systems and, most importantly, helping architect a stress-testing harness in which we'll be simulating a series of extreme situations, measuring and analysing. He's also a scrum aficionado and will be helping us streamline some of our development processes as our team grows.
 
-Meanwhile, Lefteris has been refactoring our Ethash implementation, good for both C++ and Go clients and helping make it as efficient and clean as possible. Yann and Arkadiy have been busy polishing Mix and getting the deployment experience as smooth as possible, with the help of Avsa, Fabian and Jutta. Christian and Liana continue working on Solidity, now putting in various optimisations and providing information for gas usage accounting in Mix. For my time coding, I've been doing mainly core refactoring and optimisation, getting the internals as smooth and reliable as possible, especially in block importing and transaction processing.
+It is with great pleasure I can also announce that Dr. Jutta Steiner will also be working closely with us in the capacity of managing our security audit. As well as being an enthusiastic ÐApp-developer, she comes with an excellent track record of handling projects and a superb understanding of not only this cutting edge technology but also the human processes that must go on behind it.
 
-Having largely completed the our test suite for consensus checking, [Christoph](/people/christoph-jentzsch/) now continues on his mammoth mission to get full test coverage through the C++ codebase, helped along by Dimitri. One of our new starters, Vlad, will be helping out with p2p networking and ultimately working his way towards Whisper.
+I must also shout out to Dr. Andreas Lubbe; though a long-time member of the Berlin Ethereum community and having worked on Ethereum-related code (a notable devotee of node.js), we have recently started working much more closely together on the secure Ethereum contract documentation (SECDoc) framework and the associated natural language specification format, NatSpec. I look forward to some great collaboration.
 
-For the past month or so, Edward, our other new starter, has been working on our new developer-resources website for which I have big plans. More on that closer the time of release.
+Aside from Lefteris, who began his first official day with us today (working with Christian on Solidity, and more specifically on the SECDoc and NatSpec portions of it), we have two new developers joining us: Yann Levreau and Arkadiy Paronyan. Yann, a recent arrival in Berlin from his native France will be joined by Arkadiy who is travelling all the way from Moscow to become part of the team. Both have substantial experience in C++ and related technologies and will be helping us flesh out the developer tools and in particular pave the way to the IDE vision.
 
-That's it for now - watch this space for the announcement of Olympic binaries and start figuring out how you'll be trying to win some of that ether!
+Finally, I'm happy to report that Christoph Jentzsch, though originally joining us for only 2 months (while taking time out from his doctoral studies), will be joining the project full time in the new year and continuing his much appreciated work on our tests and the general C++ health and robustness.
+
+## DEVcon-0
+
+As time rushes by, Sarah, Roland and their team rush even more to finish our hub. For they know that come Monday the 24th, Berlin will have some new arrivals. Developers and collaborators from around the globe will descend on 37a Waldemarstraße, Berlin 10999 for a week of getting everybody on the same page. It is DEVcon-0: ethereum's first developer symposium.
+
+Conceived by myself and Jeff on a sleepy train from Zug to Zurich as a means of getting the Amsterdam/Go guys on the same page as the Berlin/C++ guys it has evolved into a showcase, set of seminars and workshops of all of ÐΞV, our technologies, our personnel and some of our close collaborators. It is a chance for us each to build lasting professional relationships and bond in what will become a project that may if not define, certainly form a hallmark, on our professional lifes.
+
+Our hub will play host to around 40 people, the vast majority of which are accomplished technical minds that Jeff, myself or Vitalik has at one point or another mentioned, and for the period of a week we will be chatting, mingling and sharing our ideas, hopes and dreams for everything blockchain, decentralised and disruption related. It's going to be awesome: look out for the videos!
+
+## Ever closer
+
+Aside from the continuing work towards starting PoC-8 and the alpha series, I'm glad to report that the Solidity project storms onwards under the stewardship of Christian: the first contracts compiled with Solidity have been delivered and tested working on the testnet, and as I write this I see another Pull Request for state mappings. Great stuff.
+
+Alex has also been working tirelessly on our crypto code and is now beginning work on the p2p layer, the full strategy for which we'll be seeing in his address at ÐΞVcon. Marek and Marian have also been busy on the Javascript API, and I can assure any Javascript ÐApp developers that they will have a lot to look forward to in PoC-8.
+
+## Summing Up
+
+There are also a few other developments and personnel I'd love to announce, but I fear, once again, it will have to wait until next time. Watch this space for a post-ÐΞVcon update!
+
+Gav.

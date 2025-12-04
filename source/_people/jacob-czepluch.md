@@ -4,6 +4,7 @@ photo: /images/personal/jacob-stenum-czepluch/twitter/2025.08.27/jacob-stenum-cz
 description: ETHÐΞV intern
 start: Aug 2015
 end: Dec 2015
+interview: /videos/episode007-jacob-czepluch/
 social:
   github: https://github.com/czepluch
   twitter: https://x.com/_czepluch

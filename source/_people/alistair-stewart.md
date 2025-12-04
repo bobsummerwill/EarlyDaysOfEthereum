@@ -1,6 +1,7 @@
 ---
 name: Alistair Stewart
 start: Nov 2014
+end: Nov 2014
 photo: https://alistair-stewart.com/flattering.jpg
 social:
   website: https://research.web3.foundation/team_members/alistair

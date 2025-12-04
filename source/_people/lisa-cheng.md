@@ -1,7 +1,9 @@
 ---
 name: Lisa Cheng
-role: Ethereum Foundation Team Member
-start_date: 2016-01
+role: Communications
+start: Jan 2016
+end: Mar 2016
+social:
+  linkedin: https://www.linkedin.com/in/chenglisa/
+  twitter: https://x.com/lisacheng
 ---
-
-Lisa Cheng joined the Ethereum Foundation team in January 2016.

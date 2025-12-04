@@ -732,7 +732,7 @@ img {
     margin-bottom: var(--spacing-6xl);
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: var(--spacing-2xl);
+    gap: 40px 20px;
     max-width: 1200px;
 }
 
@@ -742,6 +742,7 @@ img {
  * Flexible card layout using CSS Flexbox for consistent alignment.
  * Includes photo, information, and action elements.
  * Includes hover animation for enhanced user interaction.
+ * Uses height: 100% to stretch and align in CSS Grid.
  */
 .person-card {
     background: var(--bg-card);
@@ -751,6 +752,7 @@ img {
     display: flex;
     flex-direction: column;
     gap: var(--spacing-md);
+    height: 100%;
 }
 
 .person-card .person-header {
@@ -900,32 +902,75 @@ img {
 }
 
 /**
- * Interview Link - Call-to-action button for interviews
+ * Action Buttons - DEVCON0 and Interview call-to-action buttons
  * 
  * Prominent button styling to encourage engagement.
  * Uses micro-interactions for enhanced user experience.
+ * Single button: centered. Two buttons: side by side, collectively centered.
+ * Always aligned at bottom of card with margin-top: auto.
  */
-.person-interview-link {
-    margin-top: var(--spacing-sm);
+.person-action-buttons {
+    margin-top: auto;
+    padding-top: var(--spacing-md);
     text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-md);
 }
 
-.interview-link {
-    display: inline-block;
+.person-action-buttons.dual-buttons {
+    flex-wrap: wrap;
+}
+
+.action-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     background: #007acc;
     color: #fff !important;
     padding: var(--spacing-sm) var(--spacing-xl);
     border-radius: var(--radius-sm);
-    text-decoration: none;
+    text-decoration: none !important;
     font-size: 0.9em;
     font-weight: 500;
     transition: var(--transition-fast);
 }
 
-.interview-link:hover {
-    background: #005580;
+.action-button:hover {
     transform: translateY(-1px);
     box-shadow: var(--shadow-medium);
+}
+
+.action-button.devcon0-link {
+    background: #007acc;
+}
+
+.action-button.devcon0-link:hover {
+    background: #005580;
+}
+
+.action-button.interview-link {
+    background: #007acc;
+}
+
+.action-button.interview-link:hover {
+    background: #005580;
+}
+
+.action-svg {
+    vertical-align: middle;
+    flex-shrink: 0;
+}
+
+/**
+ * Interview Link - Legacy support for existing interview links
+ * 
+ * Maintained for backwards compatibility with existing pages.
+ * Note: .action-button.interview-link uses the base .action-button styles.
+ */
+.person-interview-link {
+    margin-top: var(--spacing-sm);
+    text-align: center;
 }
 
 /**
@@ -1614,33 +1659,6 @@ img {
     font-size: 1.1em;
 }
 
-.person-interview-link {
-    margin-top: 18px;
-    text-align: left;
-    margin-left: 0;
-}
-
-.person-card .person-interview-link {
-    text-align: center;
-}
-
-.interview-link {
-    display: inline-block;
-    background: #007acc;
-    color: #fff !important;
-    padding: var(--spacing-md) var(--spacing-2xl);
-    border-radius: var(--radius-md);
-    text-decoration: none;
-    font-size: 1em;
-    font-weight: 500;
-    transition: var(--transition-fast);
-}
-
-.interview-link:hover {
-    background: #005580;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-medium);
-}
 
 .person-photo-header {
     max-width: 33.33%;

@@ -402,15 +402,17 @@ while ensuring clean, valid HTML output.
   {%- comment -%}Skip hidden people - they were already processed in the hidden people phase{%- endcomment -%}
   {%- comment -%}Skip if this is the current page{%- endcomment -%}
   {%- unless other_person.hidden or other_person.url == page.url -%}
-    {%- comment -%}Normalize the person name by removing quotes{%- endcomment -%}
-    {%- assign normalized_person_name = other_person.name | remove: '"' | remove: "'" -%}
-    {%- assign name_to_replace = normalized_person_name -%}
+    {%- comment -%}Keep the original name with apostrophes for matching in content{%- endcomment -%}
+    {%- assign original_person_name = other_person.name -%}
+    {%- comment -%}Also create normalized version without quotes for display{%- endcomment -%}
+    {%- assign normalized_person_name = other_person.name | remove: '"' -%}
+    {%- assign name_to_replace = original_person_name -%}
     {%- assign nickname_to_replace = other_person.nickname -%}
     {%- assign display_name = normalized_person_name -%}
     
-    {%- comment -%}Create the replacement link{%- endcomment -%}
+    {%- comment -%}Create the replacement link - use original name with apostrophes in display{%- endcomment -%}
     {%- assign person_url = other_person.url | relative_url -%}
-    {%- assign link_replacement = '<a href="' | append: person_url | append: '">' | append: normalized_person_name | append: '</a>' -%}
+    {%- assign link_replacement = '<a href="' | append: person_url | append: '">' | append: original_person_name | append: '</a>' -%}
     
     {%- comment -%}For nicknames, create a separate replacement that links to the same person{%- endcomment -%}
     {%- if nickname_to_replace and nickname_to_replace != "" -%}

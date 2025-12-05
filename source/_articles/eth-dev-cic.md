@@ -46,4 +46,4 @@ Here's a summary, arranged by epoch:
 * 19th Dec 2018 - Application to strike the company off the register
 * 26th Mar 2019 - Company disolved via voluntary strike-off
 
-There is a [blue plaque at 61 Rivington Street in London](https://openplaques.org/plaques/57720) which commemorates the launch of the Ethereum network on 30th July 2015.  That was the location of the London office at that time, with Stephan Tual, Vinay Gupta, Ian Meikle and Ken Kappler working there.
+There is a [blue plaque at 61 Rivington Street in London](https://openplaques.org/plaques/57720) which commemorates the launch of the Ethereum network on 30th July 2015.  That was the location of the London office at that time, with Stephan Tual, Ian Meikle, George Hallam, Vinay Gupta and Ken Kappler working there.  Gavin Wood will presumably have dropped in from time to time, though he was mainly in Zug early on and in Berlin later during his time at the Ethereum Foundation.

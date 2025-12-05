@@ -182,6 +182,7 @@ Group people by epoch
 {% assign epoch3_people = "" | split: "" %}
 {% assign epoch4_people = "" | split: "" %}
 {% assign epoch5_people = "" | split: "" %}
+{% assign epoch6_people = "" | split: "" %}
 {% assign other_people = people_without_dates | sort: "name" %}
 
 {% for start_date in sorted_dates %}
@@ -195,6 +196,7 @@ Group people by epoch
     {% assign is_epoch3 = false %}
     {% assign is_epoch4 = false %}
     {% assign is_epoch5 = false %}
+    {% assign is_epoch6 = false %}
     
     {% if start_date contains "2013" %}
         {% assign is_epoch1 = true %}
@@ -230,8 +232,16 @@ Group people by epoch
         {% endif %}
     {% endif %}
     
-    {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" or start_date contains "2025" %}
+    {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" %}
         {% assign is_epoch5 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2025" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_epoch5 = true %}
+        {% else %}
+            {% assign is_epoch6 = true %}
+        {% endif %}
     {% endif %}
     
     {% for person in people_in_date %}
@@ -245,6 +255,8 @@ Group people by epoch
             {% assign epoch4_people = epoch4_people | push: person %}
         {% elsif is_epoch5 %}
             {% assign epoch5_people = epoch5_people | push: person %}
+        {% elsif is_epoch6 %}
+            {% assign epoch6_people = epoch6_people | push: person %}
         {% endif %}
     {% endfor %}
 {% endfor %}
@@ -331,9 +343,28 @@ Display each epoch section
 
 {% if epoch5_people.size > 0 %}
 <h2 class="grid-section-heading">The Infinite Garden</h2>
-<p class="grid-section-subheading">February 2018 onwards</p>
+<p class="grid-section-subheading">February 2018 to February 2025</p>
 <div class="people-grid-section">
     {% for person in epoch5_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch6_people.size > 0 %}
+<h2 class="grid-section-heading">Wartime CEO?</h2>
+<p class="grid-section-subheading">March 2025 onwards</p>
+<div class="people-grid-section">
+    {% for person in epoch6_people %}
         <a href="{{ person.url }}" class="grid-item">
             <div class="photo-container">
                 {% if person.photo %}

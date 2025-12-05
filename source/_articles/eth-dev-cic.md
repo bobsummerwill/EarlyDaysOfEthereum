@@ -39,7 +39,7 @@ Here's a summary, arranged by epoch:
 * 12th Aug 2016 - Kelley Becker and Jeff Wilcke are terminated as secretary and director respectively, with Frithjof Weinert being appointed as a director.
 * 7th Jun 2017 - Frithjof Weinert is terminated as a director, with Ming Chan replacing him.
 
-**The Infinite Garden (February 2018 onwards)**
+**The Infinite Garden (February 2018 to February 2025)**
 
 * 19th Jan 2018 - Ming Chan is terminated as a director
 * 7th Feb 2018 - Patrick Storchenegger is appointed as a director

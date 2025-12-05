@@ -14,6 +14,10 @@ Stiftung Ethereum (commonly known in the English-speaking world as the Ethereum 
 
 * 14th Jul 2014: Vitalik Buterin, Mihai Alisie and Taylor Gerring founded the Ethereum Foundation, with [MUTARA Audit AG](https://mutara.ch/en/) as auditor
 
+**The Interregnum (March 2015 to June 2015)**
+
+* No changes
+
 **The Ming Dynasty (July 2015 to January 2018)**
 
 * 4th Aug 2015: [Taylor](/people/taylor-gerring/) and [Mihai](/people/mihai-alisie/) resign and are replaced by Lars Klawitter, Vadim Levitin and Wayne Hennessy-Barrett (the "professional board")
@@ -21,10 +25,13 @@ Stiftung Ethereum (commonly known in the English-speaking world as the Ethereum 
 * 26th July 2016: Ming Chan is appointed as the second board member. Swiss citizen, often resident.
 * 21st Oct 2016: Patrick Storchenegger is appointed as the third board member. Another Swiss citizen and resident.
 
-**The Infinite Garden (February 2018 onwards)**
+**The Infinite Garden (February 2018 to February 2025)**
 
 * 7th Jun 2018: [Ming](/people/ming-chan/) resigns and is replaced by [Aya](/people/aya-miyaguchi/).  This "paperwork" happened months after the actual switch, with [Ming](/people/ming-chan/)'s final day being 31st Jan 2018.
 * 22nd May 2019: [MUTARA Audit AG](https://www.grantthornton.ch/en/) replaced by [Grant Thornton AG](https://www.grantthornton.ch/en/) as auditor
+
+**Wartime CEO? (March 2025 onwards)**
+
 * 9th March 2025 - Hsiao-Wei Wang appointed as board member.  Tomasz K. Stańczak and Hsiao-Wei Wang were appointed as co-Executive Directors, but Tomasz is not a board member.
 
 For many years, [https://ethereum.org/foundation](https://web.archive.org/web/20190222044758/https://ethereum.org/foundation) was the only public information on the Ethereum Foundation.  As you can see from that snapshot in February 2019, as well as being totally inadequate, the information was also chronically outdated, with [Aya](/people/aya-miyaguchi/) nowhere to be seen and with Jeff Wilcke still listed years after his departure.

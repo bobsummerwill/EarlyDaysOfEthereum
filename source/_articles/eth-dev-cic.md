@@ -2,7 +2,7 @@
 title: "ETH DEV CIC"
 date: 2014-08-07
 description: "UK registered non-profit organization incorporated in August 2014"
-img: https://farm66.staticflickr.com/65535/52571176623_cd02a89cc9_z.jpg
+img: /images/staticflickr.com/2025.12.05/65535/52571176623_cd02a89cc9_z.jpg
 ---
 
 The UK legal entity was originally incorporated as ETH DEV Ltd at Companies House, Cardiff, by Gavin Wood, Jeff Wilcke and Vitalik Buterin.

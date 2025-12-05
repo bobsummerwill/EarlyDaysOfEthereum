@@ -1,12 +1,10 @@
 ---
 name: Marko Simovic
 description: Continuous integration (CI)
-photo: /images/x.com/2025.11.25/markosim82/marko-simovic.jpg
 start: Feb 2014
 end: Apr 2014
 social:
   github: https://github.com/msimovic
-  twitter: https://x.com/markosim82
 
 ---
 

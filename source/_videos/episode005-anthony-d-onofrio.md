@@ -1007,9 +1007,9 @@ But in the end, this dictatorship of [Vitalik](/people/vitalik-buterin/) at the 
 [[1:23:21]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=5001s) **Bob:**
 Yeah, I make this the sick epoch that there's been. So we have white paper to red webbing, where it's essentially, you know, just no formal structures really, you know, emergent. Then you have the period of the Ethereum Foundation and FDev.
 
-So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelly. Becker.
+So that was July 2014 through February 2015. Then you have the interregnum, where you were whopped, which was between March 2015 and June 2015, where you had Kelley Becker.
 
-Kelly Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the [Ming](/people/ming-chan/) dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya](/people/aya-miyaguchi/) coming in, in another coup there.
+Kelley Becker, kind of, like, overseeing the installation of the new professional, in quotes, board that began the [Ming](/people/ming-chan/) dynasty, where she immediately knocked off all the other directors. And then she had her three years of tyranny. And then you had the infinite garden with [Aya](/people/aya-miyaguchi/) coming in, in another coup there.
 
 In February 2018. And then it seems this last one was maybe not so much of a coup as an evolution, in that [Aya](/people/aya-miyaguchi/)'s still around as the president, but you have new executive leadership.
 

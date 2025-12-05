@@ -2,6 +2,7 @@
 title: "ETH DEV CIC"
 date: 2014-08-07
 description: "UK registered non-profit organization incorporated in August 2014"
+img: https://farm66.staticflickr.com/65535/52571176623_cd02a89cc9_z.jpg
 ---
 
 The UK legal entity was originally incorporated as ETH DEV Ltd at Companies House, Cardiff, by Gavin Wood, Jeff Wilcke and Vitalik Buterin.
@@ -44,3 +45,5 @@ Here's a summary, arranged by epoch:
 * 7th Feb 2018 - Patrick Storchenegger is appointed as a director
 * 19th Dec 2018 - Application to strike the company off the register
 * 26th Mar 2019 - Company disolved via voluntary strike-off
+
+There is a [blue plaque at 61 Rivington Street in London](https://openplaques.org/plaques/57720) which commemorates the launch of the Ethereum network on 30th July 2015.  That was the location of the London office at that time, with Stephan Tual, Vinay Gupta, Ian Meikle and Ken Kappler working there.

@@ -24,7 +24,7 @@
 {% assign seo_url = page.url | absolute_url %}
 
 {% comment %} Smart image selection {% endcomment %}
-{% assign seo_image = page.image | default: page.photo %}
+{% assign seo_image = page.image | default: page.photo | default: page.img %}
 {% unless seo_image %}
   {% if page.collection == 'people' %}
     {% assign seo_image = "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png" %}

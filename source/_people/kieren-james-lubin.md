@@ -15,13 +15,28 @@ Co-Founder of [BlockApps](https://blockapps.net) and developer of the Haskell Et
 
 [Joe](/people/joe-lubin/) emailed Kieren from Miami on 28th Jan 2014.  Links which Joe sent Kieren:
 
+<img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.54.png" alt="Screenshot 2025-09-02 at 21-54-46" style="width: 65%; border-radius: 8px; margin: 18px 0;" />
+
+Links which Joe sent Kieren:
+
 - [Introducing Ethereum](https://web.archive.org/web/20140223192905/https://www.youtube.com/watch?v=q5FDvzj8YX4) - released on "CoinTalk - The Crypto Currency Show" YouTube channel on 23rd January 2014 (channel since deleted or renamed)
 - [Out in the Open: Teenage Hacker Transforms Web Into One Giant Bitcoin Network](https://web.archive.org/web/20140212142809/https://www.wired.com/wiredenterprise/2014/01/ethereum/) - by [Klint Finley](https://x.com/klintron) in Wired Magazine, 27th January 2014
 - [Ethereum Launches ‘Cryptocurrency 2.0’ Network](https://web.archive.org/web/20140203112108/http://www.coindesk.com/ethererum-launches-cryptocurrency-2-0-network/) - by Nermin Hajdarbegovic in Coindesk, 23rd January 2014
 - [Ethereum: A Next-Generation Cryptocurrency and Decentralized Application Platform](http://bitcoinmagazine.com/9671/ethereum-next-generation-cryptocurrency-decentralized-application-platform/) by [Vitalik](/people/vitalik-buterin/) in Bitcoin Magazine - 24th January 2024
 - [Ethereum – A Glimpse Into A Revolutionary Future](https://web.archive.org/web/20160205151740/https://epicenterbitcoin.com/2014/01/ethereum-glimpse-revolutionary-future/) - by Brian Fabian Crain in Epicenter Bitcoin - 25th January 2014.
 
-Kieren decided to join the project on 22nd March 2014 and spoke to [Vitalik](/people/vitalik-buterin/) on 24th March 2014.
+Kieren decided to join the project on 22nd March 2014 and spoke to [Vitalik](/people/vitalik-buterin/) on 24th March 2014:
+
+**Gmail screenshots from March 2014 (in time order):**
+
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.55.png" alt="Screenshot 2025-09-02 at 21-55-04" style="width: 88%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.55.13.png" alt="Screenshot 2025-09-02 at 21-55-13" style="width: 98%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.55.24.png" alt="Screenshot 2025-09-02 at 21-55-24" style="width: 100%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.55.32.png" alt="Screenshot 2025-09-02 at 21-55-32" style="width: 98%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.55.40.png" alt="Screenshot 2025-09-02 at 21-55-40" style="width: 44%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.56.10.png" alt="Screenshot 2025-09-02 at 21-56-10" style="width: 46%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.56.17.png" alt="Screenshot 2025-09-02 at 21-56-17" style="width: 69%; border-radius: 8px; margin: 18px 0;" /></p>
+<p><img src="/images/personal/kieren-james-lubin/gmail/2025.09.02/kieren-james-lubin-screenshot_2025.09.02_21.56.26.png" alt="Screenshot 2025-09-02 at 21-56-26" style="width: 50%; border-radius: 8px; margin: 18px 0;" /></p>
 
 Kieren was present in Zug for the "Red Wedding", travelling there with his father, [Joe](/people/joe-lubin/).
 

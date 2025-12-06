@@ -2,9 +2,9 @@
 name: Liana Husikyan
 description: Mix and Remix
 start: Jan 2015
-end: around Jun 2016
+photo: https://avatars.githubusercontent.com/u/9685356
 social:
   github: https://github.com/LianaHus
-  linkedin: https://www.linkedin.com/in/liana-husikyan-b3a2a54/
+  twitter: https://x.com/LianaHusikyan
 ---
 

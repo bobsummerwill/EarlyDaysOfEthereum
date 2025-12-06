@@ -1,6 +1,6 @@
 ---
 name: Vincent G
-nickname: caktuk
+nickname: Caktux
 description: Continuous integration (CI)
 photo: /images/github.com/2025.08.25/caktux.png
 start: Oct 2014

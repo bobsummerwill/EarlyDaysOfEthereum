@@ -38,9 +38,6 @@ embed-content-width: 50%
     {% endif %}
     <div class="person-info">
       <h3><a href="{{ page.url }}">{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</a></h3>
-      {% if page.role %}
-        <div class="person-role">{{ page.role }}</div>
-      {% endif %}
       {% if page.description %}
         <p class="person-description">
           {% include auto_link.html content=page.description %}

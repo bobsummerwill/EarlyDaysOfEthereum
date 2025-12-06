@@ -1,6 +1,6 @@
 ---
 name: Lisa Cheng
-role: Communications
+description: Communications
 start: Jan 2016
 end: Mar 2016
 photo: /images/personal/lisa-cheng/X_DM/2025.12.05/lisa-cheng.jpg

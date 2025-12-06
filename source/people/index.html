@@ -293,10 +293,6 @@ Display people grouped by start date with epoch headings
                 <div class="person-info">
                     <h3><a href="{{ person.url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
                     
-                    {% if person.role %}
-                    <div class="person-role">{{ person.role }}</div>
-                    {% endif %}
-                    
                     {% if person.period %}
                     <div class="person-period">Active: {{ person.period }}</div>
                     {% endif %}
@@ -423,10 +419,6 @@ Display people without start dates in "Other" section
                 
                 <div class="person-info">
                     <h3><a href="{{ person.url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
-                    
-                    {% if person.role %}
-                    <div class="person-role">{{ person.role }}</div>
-                    {% endif %}
                     
                     {% if person.period %}
                     <div class="person-period">Active: {{ person.period }}</div>

@@ -838,12 +838,6 @@ img {
     text-decoration: underline;
 }
 
-.person-role {
-    font-weight: bold;
-    color: var(--text-medium);
-    margin-bottom: var(--spacing-sm);
-}
-
 .person-description,
 .person-excerpt {
     color: var(--text-medium);
@@ -1672,13 +1666,6 @@ img {
 .person-profile .content-meta {
     margin-bottom: var(--spacing-4xl);
 }
-
-.person-role {
-    font-weight: bold;
-    color: var(--text-medium);
-    font-size: 1.1em;
-}
-
 
 .person-photo-header {
     max-width: 33.33%;

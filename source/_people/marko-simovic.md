@@ -16,4 +16,4 @@ He made commits to cpp-ethereum between [3rd March 2014 and 8th April 2014](http
 
 He was credited in the Acknowledgements section of the Yellow Paper.
 
-He only worked on Ethereum for a very short time, it appears, with Nick Savers, Caktux and Nick Savers taking over that CI work later in 2014.
+He only worked on Ethereum for a very short time, it appears, with Nick Savers, Caktux and Joris Bontje taking over that CI work later in 2014.

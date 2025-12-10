@@ -1,6 +1,6 @@
 ---
 title: "ConsenSys dApp-a-thon 2 Recap"
-date: 2015-09-09
+date: 2015-08-14
 description: "Recap of the 48-hour ConsenSys dApp-a-thon hackathon held August 14-16, 2015, where 12 teams built decentralized applications on Ethereum using BlockApps, EtherCamp IDE, and Lightwallet."
 embed:
   url: https://www.youtube.com/embed/jeCLfFCOIM4

@@ -30,6 +30,23 @@ He attended the [Cryptoeconomicon 1](https://web.archive.org/web/20160421023643/
 Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/watch?v=x8jIUg5jXjg_) with Victor Wong and James Hormuzdiar at [DEVCON1 (snapshot)](https://web.archive.org/web/20151124053027/https://devcon.ethereum.org/).  The Haskell client and the software stack surrounding it was used as the client software for the first Blockchain-as-a-Service on Microsoft Azure which was also [announced at DEVCON1](https://www.youtube.com/watch?v=ExsTb0iglcs).  The talks were back-to-back on 10th November 2014.
 
 {% include content-embed.html
+  src="https://www.youtube.com/embed/4keTXPSNZVk"
+  title="BlockApps: Build a blockchain application in 5 minutes"
+  site="https://www.youtube.com/@vic4wong"
+  author="vic4wong"
+  date="October 28, 2015"
+%}
+
+{% include content-embed.html
+  url="https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/"
+  img="/images/2015/11/882043a3-e9a0-4da6-972f-6f9d8a61a9d5.webp"
+  title="Ethereum Blockchain as a Service now on Azure"
+  site="https://azure.microsoft.com/"
+  author="Marley Gray"
+  date="November 9, 2015"
+%}
+
+{% include content-embed.html
   src="https://www.youtube.com/embed/x8jIUg5jXjg"
   title="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
   site="https://www.youtube.com/@EthereumProtocol"
@@ -44,5 +61,33 @@ Later that year, Kieren [announced BlockApps STRATO](https://www.youtube.com/wat
   author="Ethereum"
   date="November 10, 2015"
 %}
+
+![devcon1 photo](https://pbs.twimg.com/media/CTcQJuZUYAA80a7?format=jpg&name=4096x4096)
+
+![logo](/images/BlockApps-logo-260x300.webp)
+
+![logo](/images/STRATO-Logo_270.png)
+
+![logo](/images/thanks-from-blockapps.png)
+
+![logo](/images/blockapps-strato-original.png)
+
+
+{% include content-embed.html
+  url="https://azure.microsoft.com/en-us/blog/azure-blockchain-as-a-service-update/"
+  title="Azure Blockchain as a Service update"
+  site="https://azure.microsoft.com/"
+  author="Marley Gray"
+  date="December 7, 2015"
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/-aSBcAlHREI"
+  title="Interview with ​Victor Wong and Kieren James-Lubin of ​BlockApps​ at DEVCON1 in London"
+  site="https://www.youtube.com/@epicenterbtc"
+  author="Epicenter Podcast"
+  date="December 8, 2015"
+%}
+
 
 [Berkeley webpage, 2014](https://math.berkeley.edu/~ksjames/)

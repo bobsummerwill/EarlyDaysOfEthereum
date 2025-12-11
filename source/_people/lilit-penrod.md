@@ -1,7 +1,7 @@
 ---
 name: Lilit Penrod
 description: Volunteer at DEVCON2 and DEVCON3
-start: July 2016
+start: Jul 2016
 end: Sep 2016
 social:
   twitter: https://twitter.com/Cheerio_Buffet

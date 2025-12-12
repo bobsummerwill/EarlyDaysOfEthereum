@@ -2,7 +2,7 @@
 name: Christoph Jentzsch
 photo: /images/archive.org/ethdev.com/20150315012946/christoph-jentzsch.jpg
 start: Sep 2014
-end: Nov 2015
+end: Dec 2015
 devcon0: '1173'
 social:
   twitter: https://x.com/ChrJentzsch

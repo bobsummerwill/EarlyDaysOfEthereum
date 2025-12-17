@@ -50,7 +50,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[01:16] Michael Parenti:** Right. [Mark Karpelès](https://en.wikipedia.org/wiki/Mark_Karpel%C3%A8s) was one of the founders, co-founders of the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation).
 
-**[01:21] Bob Summerwill:** [MagicalTux](https://x.com/MagicalTux) *(Bob: His twitter handle)*
+**[01:21] Bob Summerwill:** [MagicalTux](https://x.com/MagicalTux) *(Bob: this is Mark Karpelès' twitter handle)*
 
 **[01:23] Michael Parenti:** That was really funny. Yeah. And then [Charlie Shrem](https://en.wikipedia.org/wiki/Charlie_Shrem) getting arrested. Right.
 
@@ -64,7 +64,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[01:47] Bob Summerwill:** So young at the start, eh? 17, I think.
 
-**[01:50] Michael Parenti:** Yeah. And then [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) started. Right. Together him and Mihai started that up. And so [Vitalik](/people/vitalik-buterin) was on my radar just because he was present in the community. You know, there's so few of us at the time. Right. It's like stunning how few people there were at the beginning, you know, and how present a lot of those people still are.
+**[01:50] Michael Parenti:** Yeah. And then [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) started. Right. Together him and [Mihai](/people/mihai-alisie) started that up. And so [Vitalik](/people/vitalik-buterin) was on my radar just because he was present in the community. You know, there's so few of us at the time. Right. It's like stunning how few people there were at the beginning, you know, and how present a lot of those people still are.
 
 **[02:11] Bob Summerwill:** Yeah.
 
@@ -82,9 +82,13 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[02:43] Michael Parenti:** And DAOs. Right. And I forget what the exact title of the blog post was that it announced Ethereum.
 
-**[02:52] Bob Summerwill:** I remember there was something that was like [Ultimate Scripting](https://web.archive.org/web/20150214094215/http://vitalik.ca/ultimatescripting.html). Does that sound familiar? Because I know prior to getting to that sort of baked Ethereum vision, because he had been doing work within [Mastercoin]([Mastercoin](https://www.omnilayer.org/)), [Colored Coins](https://en.wikipedia.org/wiki/Colored_Coins), that there was, you know, some of these pre-phases of, well, how could you do different kind of scripting? And then an uncertainty of where that might land.
+**[02:52] Bob Summerwill:** I remember there was something that was like [Ultimate Scripting](https://web.archive.org/web/20150214094215/http://vitalik.ca/ultimatescripting.html). Does that sound familiar? Because I know prior to getting to that sort of baked Ethereum vision, because he had been doing work within [Mastercoin](https://www.omnilayer.org/), [Colored Coins](https://en.wikipedia.org/wiki/Colored_Coins), that there was, you know, some of these pre-phases of, well, how could you do different kind of scripting? And then an uncertainty of where that might land.
 
 **[03:20] Michael Parenti:** So that term doesn't really ring a bell with me. But so anyway, so he posted about Ethereum for the first time on his blog. And I tweeted that out, and so apparently, I'm the first person that ever tweeted about Ethereum is my claim to fame.
+
+{% include twitter-embed.html
+  url="https://x.com/exiledsurfer/status/406749547155570688"
+%}
 
 **[03:39] Bob Summerwill:** Well, that's fantastic. We're gonna have to dig out that tweet, aren't we, and then find the exact date on that. And then maybe the Internet Archive can find the blog post.
 
@@ -101,10 +105,6 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[04:17] Bob Summerwill:** And that's [C E N T](https://www.cent.co/), right?
 
 **[04:20] Michael Parenti:** Yes, [C E N T](https://www.cent.co/). And I get this message. I get a DM from somebody, hey, you know, if you mint this as a tweet, I'll, you know, I'll buy it, you know, And I was like, how much you want to buy it for? And he's like, you know, I'll give you 200 bucks. And I was like, for the first tweet of Ethereum? Nah. But I guess I'll mint it, right? You know, and so I minted the tweet and ended up. So it's actually the second most expensive tweet behind [Jack Dorsey's tweet](https://v.cent.co/tweet/20).
-
-{% include twitter-embed.html
-  url="https://x.com/exiledsurfer/status/406749547155570688"
-%}
 
 **[04:50] Bob Summerwill:** I was gonna say that I remembered because Jack did his first, didn't he? Like his very first tweet.
 
@@ -144,15 +144,17 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[06:26] Bob Summerwill:** Well, so, yeah, so the White Paper that was November, like, like you say, I guess there's some prior blogs before. Right. Here's a fully formed white paper which then he sent out to some random group of people and they passed it on to further people. And that was sort of like how the beginning of that, people getting together to start doing that happened.
 
-**[06:51] Michael Parenti:** So I have like another sort of like, interconnection that the first time I ever spent bitcoin that I earned from the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), I bought whiskey for Smári McCarthy and Ásta Guðrún Helgadóttir, who were two of the parliamentarians in Iceland from the Pirate Party.
+**[06:51] Michael Parenti:** So I have like another sort of like, interconnection that the first time I ever spent bitcoin that I earned from the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), I bought whiskey for [Smári McCarthy](https://x.com/smarimc) and [Asta Fish](https://x.com/asta_fish) (alias of Ásta Guðrún Helgadóttir), who were two of the parliamentarians in Iceland from the Pirate Party.
 
 **[07:10] Bob Summerwill:** Oh, yeah, yeah.
 
-**[07:11] Michael Parenti:** And Smári McCarthy, you know, was one of the early WikiLeaks guys.
+**[07:11] Michael Parenti:** And [Smári McCarthy](https://x.com/smarimc), you know, was one of the early [WikiLeaks](https://en.wikipedia.org/wiki/WikiLeaks) guys.
 
 **[07:15] Bob Summerwill:** Right, okay.
 
-**[07:16] Michael Parenti:** And they, they were sitting in Jörg Platzer's Bar in, in Berlin Room 77, which is where all the earliest Bitcoin meetups were happening.
+**[07:16] Michael Parenti:** And they, they were sitting in [Jörg Platzer](https://x.com/bitcred)'s Bar in, in Berlin Room 77, which is where all the earliest Bitcoin meetups were happening.
+
+[Closing Time for Bitcoin’s Iconic Room 77 – 'And That’s OK,' Says Owner](https://www.coindesk.com/tech/2020/10/19/closing-time-for-bitcoins-iconic-room-77-and-thats-ok-says-owner)
 
 **[07:28] Bob Summerwill:** Okay, okay.
 
@@ -160,23 +162,23 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[07:35] Bob Summerwill:** Right. With Bitcoin.
 
-**[07:37] Michael Parenti:** And so Smári had tweeted that he was going to Jörg's Bar. And I was like, okay, cool, I've definitely gotta buy you a whiskey. So, like, we did this over Twitter and I, and I, you know, I published the transaction, you know, on Twitter.
+**[07:37] Michael Parenti:** And so [Smári](https://x.com/smarimc) had tweeted that he was going to [Jörg](https://x.com/bitcred)'s Bar. And I was like, okay, cool, I've definitely gotta buy you a whiskey. So, like, we did this over Twitter and I, and I, you know, I published the transaction, you know, on Twitter.
 
 **[07:52] Bob Summerwill:** Right, right.
 
-**[07:53] Michael Parenti:** To see that it was confirmed. And I, you know, bought them whiskey in Jörg Platzer's Bar. And so Jörg Platzer is one of the original members here of Paralelní Polis. Right?
+**[07:53] Michael Parenti:** To see that it was confirmed. And I, you know, bought them whiskey in [Jörg Platzer](https://x.com/bitcred)'s Bar. And so [Jörg Platzer](https://x.com/bitcred) is one of the original members here of [Paralelní Polis](https://en.wikipedia.org/wiki/Parallel_Polis). Right?
 
 **[08:02] Bob Summerwill:** Oh, yeah.
 
-**[08:03] Michael Parenti:** The role that I have here now of kind of being the one that packs it all together and gives like a vibe of, you know, where we're at in the space or where we're at in the house was what Jörg used to do. Right, Right here. And so, yeah, there's like an interesting connection. And so Room 77 is actually where it is that [Vitalik](/people/vitalik-buterin) and Gavin decided to literally to actually do Ethereum.
+**[08:03] Michael Parenti:** The role that I have here now of kind of being the one that packs it all together and gives like a vibe of, you know, where we're at in the space or where we're at in the house was what [Jörg](https://x.com/bitcred) used to do. Right, Right here. And so, yeah, there's like an interesting connection. And so Room 77 is actually where it is that [Vitalik](/people/vitalik-buterin) and [Gavin](/people/gavin-wood) decided to literally to actually do Ethereum.
 
 **[08:26] Bob Summerwill:** Right, right.
 
-**[08:27] Michael Parenti:** Gavin was introduced to [Vitalik](/people/vitalik-buterin) by Amir Taaki, who's also here in the house. And so, like, this house is really, like, interconnected for me with all of these people, this social nexus. Yeah, yeah, Because Mike Gogulski, who was my partner in Bitcoiners Without Borders, who was the PHP programmer who wrote the module for all of the membership donations to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), was an original member of this house and he's the one who introduced me to Amir Taaki and also the one who introduced me to Lyn Ulbricht.
+**[08:27] Michael Parenti:** Gavin was introduced to [Vitalik](/people/vitalik-buterin) by Amir Taaki, who's also here in the house. And so, like, this house is really, like, interconnected for me with all of these people, this social nexus. Yeah, yeah, Because [Mike Gogulski](https://x.com/mikegogulski), who was my partner in Bitcoiners Without Borders, who was the PHP programmer who wrote the module for all of the membership donations to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), was an original member of this house and he's the one who introduced me to Amir Taaki and also the one who introduced me to [Lyn Ulbricht](https://www.linkedin.com/in/lyn-ulbricht-98429291/).
 
 **[09:01] Bob Summerwill:** Oh, yeah.
 
-**[09:02] Michael Parenti:** And he's the guy that started freeross.org.
+**[09:02] Michael Parenti:** And he's the guy that started [freeross.org](https://freeross.org/).
 
 **[09:05] Bob Summerwill:** Right, right.
 
@@ -188,9 +190,9 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[09:21] Bob Summerwill:** And you were not so far away from Berlin all of these years. I mean, did you meet some of these people in Berlin? Was that primarily these people were coming.
 
-**[09:33] Michael Parenti:** Through Vienna as well. So we had two spaces in Vienna. We have Metalab, which is the second earliest hacker space after CCC in Europe. So there was Noisebridge in San Francisco and CCC and Metalab. So that's where early meetups happened in Bitcoin. But the earliest Ethereum meetups were at RIAT R I A T at Matthias Tarasiewicz and Ralph, and they hosted the first Ethereum meetups, which is the first time that I met [Vitalik](/people/vitalik-buterin) personally. Was that right? Was that RIAT?
+**[09:33] Michael Parenti:** Through Vienna as well. So we had two spaces in Vienna. We have [Metalab](https://metalab.at/), which is the second earliest hacker space after [CCC](https://www.ccc.de/en/home) in Europe. So there was [Noisebridge](https://en.wikipedia.org/wiki/Noisebridge) in San Francisco and [CCC](https://www.ccc.de/en/home) and [Metalab](https://metalab.at/). So that's where early meetups happened in Bitcoin. But the earliest Ethereum meetups were at [RIAT](https://riat.at/) "R I A T" at [Matthias Tarasiewicz](https://x.com/parasew) and [Ralph](https://riat.at/ralph-pichler/), and they hosted the first Ethereum meetups, which is the first time that I met [Vitalik](/people/vitalik-buterin) personally. Was that right? Was that [RIAT](https://riat.at/)?
 
-**[10:10] Bob Summerwill:** Right, There you go. Yeah. But yeah, you'd mentioned the yellow paper, so that the timeline on that is both Gav and Jeff Wilcke started their Ethereum stuff within days of each other, just after Christmas. So, you know, like or just before, actually. So Gav's first commit was December 23, 2013. And I think Jeff's was it like a couple of days later?
+**[10:10] Bob Summerwill:** Right, There you go. Yeah. But yeah, you'd mentioned the Yellow Paper, so that the timeline on that is both [Gav](/people/gavin-wood) and Jeff Wilcke started their Ethereum stuff within days of each other, just after Christmas. So, you know, like or just before, actually. So [Gav](/people/gavin-wood)'s first commit was December 23, 2013. And I think Jeff's was it like a couple of days later?
 
 **[10:44] Michael Parenti:** 2013, man.
 
@@ -202,15 +204,15 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[10:55] Michael Parenti:** Message that you have.
 
-**[10:56] Bob Summerwill:** You know. That's right. Yeah. So. So Gav said, you know, hey, Johnny gave me the heads up about Ethereum. So that was. I mean. Oh, goodness, I forget his name now. James Harrison. Anyway, he was one of the guys in London. So with, with Amir. So you know, Gav had met Johnny through Amir and Johnny had told him about Ethereum and then he contacted [Vitalik](/people/vitalik-buterin). Yeah, but then, yeah, they got going there.
+**[10:56] Bob Summerwill:** You know. That's right. Yeah. So. So [Gav](/people/gavin-wood) said, you know, hey, Johnny gave me the heads up about Ethereum. So that was. I mean. Oh, goodness, I forget his name now. James Harrison. Anyway, he was one of the guys in London. So with, with Amir. So you know, [Gav](/people/gavin-wood) had met Johnny through Amir and Johnny had told him about Ethereum and then he contacted [Vitalik](/people/vitalik-buterin). Yeah, but then, yeah, they got going there.
 
 **[11:33] Michael Parenti:** Then there was a Cody Wilson was it was there as well.
 
-**[11:36] Bob Summerwill:** Right, right, yep. Cody, Cody in there.
+**[11:36] Bob Summerwill:** Right, right, yep. [Cody](/people/cody-wilson), [Cody](/people/cody-wilson) in there.
 
 **[11:39] Michael Parenti:** And I saw the shot of video.
 
-**[11:42] Bob Summerwill:** Yeah, video of Cody in Canada. So. Yeah. So January of 2014, you had the Bitcoin Miami where Ethereum first got announced, and then they had the house that Anthony Di Iorio had rented where they all sort of met physically for the first time. Well, not everyone, but many, many people.
+**[11:42] Bob Summerwill:** Yeah, video of [Cody](/people/cody-wilson) in Canada. So. Yeah. So January of 2014, you had the Bitcoin Miami where Ethereum first got announced, and then they had the house that Anthony Di Iorio had rented where they all sort of met physically for the first time. Well, not everyone, but many, many people.
 
 **[12:01] Michael Parenti:** Yeah. So these were things that were all tangentially on my online presence.
 
@@ -218,31 +220,31 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[12:06] Michael Parenti:** I mean, you know, you talk about crypto Twitter and it's truly really the place where, you know, all these, these social groups intersected. You knew what people were doing, people were posting about what's going on. So then you asked me about Ben.
 
-**[12:20] Bob Summerwill:** But then, sorry, so. So yeah, it was by April they have this Bitcoin Expo in Toronto, but that was also when the yellow paper had been done. So Gavin spent those four months basically building the first working client and doing the yellow paper spec. Yeah, yeah, But Berlin you were saying.
+**[12:20] Bob Summerwill:** But then, sorry, so. So yeah, it was by April they have this Bitcoin Expo in Toronto, but that was also when the Yellow Paper had been done. So [Gavin](/people/gavin-wood) spent those four months basically building the first working client and doing the Yellow Paper spec. Yeah, yeah, But Berlin you were saying.
 
-**[12:38] Michael Parenti:** Yeah, so, so. And you know, so Berlin here in Europe was, you know, the, basically the city. You know, so there's Prague for the crypto anarchists. Right. But Berlin is really was the city for Ethereum. Right. And so I was involved with the Department of Decentralization. Right. So also doing what it is I do here as an emcee on stage at, at East Berlin with, with the DoD. And then also we did the launch of Goerli. Right.
+**[12:38] Michael Parenti:** Yeah, so, so. And you know, so Berlin here in Europe was, you know, the, basically the city. You know, so there's Prague for the crypto anarchists. Right. But Berlin is really was the city for Ethereum. Right. And so I was involved with the [Department of Decentralization](https://x.com/dod_berlin). Right. So also doing what it is I do here as an emcee on stage at, at East Berlin with, with the [DoD](https://x.com/dod_berlin). And then also we did the launch of [Goerli](https://github.com/eth-clients/goerli). Right.
 
 **[13:09] Bob Summerwill:** Yeah, yeah.
 
-**[13:10] Michael Parenti:** So they're also in, In Berlin was a DOD production.
+**[13:10] Michael Parenti:** So they're also in, In Berlin was a [DoD](https://x.com/dod_berlin) production.
 
 **[13:14] Bob Summerwill:** Do you know where the funding for that came from?
 
 **[13:17] Michael Parenti:** It was just.
 
-**[13:18] Bob Summerwill:** There was no funding for Goerli.
+**[13:18] Bob Summerwill:** There was no funding for [Goerli](https://github.com/eth-clients/goerli).
 
-**[13:19] Michael Parenti:** There was no funding for Goerli. They just did it Afri and Mr. Leagy, you know, and yeah, it was like two or three people that, you know, that deployed Goerli, you know, so.
+**[13:19] Michael Parenti:** There was no funding for [Goerli](https://github.com/eth-clients/goerli). They just did it [Afri](https://github.com/q9f) and [Mr. Ligi](https://x.com/mr_ligi), you know, and yeah, it was like two or three people that, you know, that deployed [Goerli](https://github.com/eth-clients/goerli), you know, so.
 
-**[13:30] Bob Summerwill:** I can tell you the answer is actually from the ETC Cooperative.
+**[13:30] Bob Summerwill:** I can tell you the answer is actually from the [ETC Cooperative](https://etccooperative.org/).
 
-**[13:35] Michael Parenti:** Funding for Goerli came from the ETC Cooperative.
+**[13:35] Michael Parenti:** Funding for [Goerli](https://github.com/eth-clients/goerli) came from the [ETC Cooperative](https://etccooperative.org/).
 
-**[13:38] Bob Summerwill:** Yeah, So it was supposedly a collaboration between the ETC Cooperative and the Ethereum Foundation. But then the Foundation didn't come through with the money. I think they did later. But yes, that's how that happened.
+**[13:38] Bob Summerwill:** Yeah, So it was supposedly a collaboration between the [ETC Cooperative](https://etccooperative.org/) and the Ethereum Foundation. But then the Foundation didn't come through with the money. I think they did later. But yes, that's how that happened.
 
-**[13:56] Michael Parenti:** So I was there as. So we hosted the conference there. GoerliCon. There's. In my, in my YouTube playlist, there's the GoerliCon, you know, hosting video and then also when we deployed it, like pressing the button, watching the screen. Yeah, it's all live because there were.
+**[13:56] Michael Parenti:** So I was there as. So we hosted the conference there. [GoerliCon](https://www.youtube.com/watch?v=d961TWOSnBU&list=PLjOcf_IVqERknYTwN0k1d5cwOd_LGhn3E). There's. In my, in my YouTube playlist, there's the [GoerliCon](https://www.youtube.com/watch?v=d961TWOSnBU&list=PLjOcf_IVqERknYTwN0k1d5cwOd_LGhn3E), you know, hosting video and then also when we deployed it, like pressing the button, watching the screen. Yeah, it's all live because there were.
 
-**[14:16] Bob Summerwill:** Actually two that were launched that day which was Goerli and Kotti. So Kotti was the ETC version, but yeah, that was funded by the ETC Cooperative.
+**[14:16] Bob Summerwill:** Actually two that were launched that day which was [Goerli](https://github.com/eth-clients/goerli) and [Kotti](https://www.youtube.com/watch?v=DT1QloUZl74&list=PLjOcf_IVqERknYTwN0k1d5cwOd_LGhn3E&index=11). So [Kotti](https://www.youtube.com/watch?v=DT1QloUZl74&list=PLjOcf_IVqERknYTwN0k1d5cwOd_LGhn3E&index=11) was the [ETC](https://ethereumclassic.org) version, but yeah, that was funded by the [ETC Cooperative](https://etccooperative.org/).
 
 **[14:27] Michael Parenti:** That's fucking hilarious. Right? Yeah. So Berlin is a major place in Europe because I can't travel off the continent. Right, Right. So. So I was never able to go to London and you know, me and London or go to Devcon or anything like that. Yeah. So. So I got active in Ethereum. The reason I got active in Ethereum was after the block size wars.
 
@@ -260,23 +262,23 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[15:17] Bob Summerwill:** Quite a different vibe.
 
-**[15:19] Michael Parenti:** And so. So EthBerlin was a very, very cool thing at that time. And. And at that time I was working with Status.
+**[15:19] Michael Parenti:** And so. So [ETHBerlin](https://x.com/ETHBerlin) was a very, very cool thing at that time. And. And at that time I was working with Status.
 
 **[15:27] Bob Summerwill:** Right, right, right.
 
-**[15:28] Michael Parenti:** I was the resident cypherpunk at Status.
+**[15:28] Michael Parenti:** I was the resident cypherpunk at [Status](https://status.im).
 
 **[15:31] Bob Summerwill:** Were many of those in.
 
 **[15:34] Michael Parenti:** What do you mean?
 
-**[15:36] Bob Summerwill:** So like on Status, where were people working on Status based generally or all over the place?
+**[15:36] Bob Summerwill:** So like on [Status](https://status.im), where were people working on [Status](https://status.im) based generally or all over the place?
 
-**[15:42] Michael Parenti:** There was obviously a Berlin entity, you know, so Carl, one of the co-founders. So obviously, you know, they were doing the jurisdictional arbitrage between a foundation for management of their token and then where it is. But Berlin was the entity where a lot of people were paid out of and then they have, you know, a Singapore entity, I believe and stuff. But we were distributed.
+**[15:42] Michael Parenti:** There was obviously a Berlin entity, you know, so [Carl](https://x.com/carlbennetts), one of the co-founders. So obviously, you know, they were doing the jurisdictional arbitrage between a foundation for management of their token and then where it is. But Berlin was the entity where a lot of people were paid out of and then they have, you know, a Singapore entity, I believe and stuff. But we were distributed.
 
 **[16:04] Bob Summerwill:** Right, Right.
 
-**[16:05] Michael Parenti:** We were distributed, you know, 24/7 status. And so that was, that was really cool. So that's. So with, with Status and, and Department of Decentralization was my was my primary involvement.
+**[16:05] Michael Parenti:** We were distributed, you know, 24/7 status. And so that was, that was really cool. So that's. So with, with [Status](https://status.im) and, and [Department of Decentralization](https://x.com/dod_berlin) was my was my primary involvement.
 
 **[16:21] Bob Summerwill:** Right.
 
@@ -286,9 +288,9 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[16:38] Michael Parenti:** Yeah, yeah.
 
-**[16:40] Bob Summerwill:** Did you ever spend time visiting or within the EF Dev or Parity offices?
+**[16:40] Bob Summerwill:** Did you ever spend time visiting or within the ETHDEV or Parity offices?
 
-**[16:51] Michael Parenti:** So I never were in either, either of the offices, but I know numerous people. So Kai Gärtler, who's the system administrator for Giveth and a lot of other things was like in Eth. Cat Herders.
+**[16:51] Michael Parenti:** So I never were in either, either of the offices, but I know numerous people. So Kai Gärtler, who's the system administrator for [Giveth](https://x.com/Giveth) and a lot of other things was like in [Eth Cat Herders](https://x.com/EthCatHerders).
 
 **[17:08] Bob Summerwill:** Oh yeah, yeah.
 
@@ -296,35 +298,41 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[17:24] Bob Summerwill:** Right?
 
-**[17:24] Michael Parenti:** Okay. Devcon was supposed to be in Vienna, right. And so that was all that was in 2019. And that was the year that I decided to open a paralelní polis in Vienna.
+**[17:24] Michael Parenti:** Okay. [EDCON](https://www.edcon.io/) was supposed to be in Vienna, right. And so that was all that was in 2019. And that was the year that I decided to open a [Paralelní Polis in Vienna](https://www.parallele.at/).
+
+*(Bob: Chasing up, I find that EDCON (Community Ethereum Development Conference) was actually originally scheduled to take place from April 3–7, 2020, not in 2019)*
 
 **[17:34] Bob Summerwill:** Right.
 
-**[17:34] Michael Parenti:** And I thought, okay, I'll do the launch during Devcon.
+**[17:34] Michael Parenti:** And I thought, okay, I'll do the launch during EDCON.
 
 **[17:37] Bob Summerwill:** Okay.
 
-**[17:38] Michael Parenti:** And I've got all the Ethereum people, you know, here, and then I'll do a side event to announce the launch of Paralelní Polis. Right, right. And then it was like, no, Chinese people can't come to Vienna. Right, right. That's. They're like, okay, but we're still do Devcon. Right. And then the full shutdown came, but everybody had their tickets booked to Devcon in Vienna. Right. And so I was like, well, fuck it, I'm going to do. I'm going to do. This is before the total shutdown, like, okay, I'm going to do Non Con.
+**[17:38] Michael Parenti:** And I've got all the Ethereum people, you know, here, and then I'll do a side event to announce the launch of [Paralelní Polis](https://en.wikipedia.org/wiki/Parallel_Polis). Right, right. And then it was like, no, Chinese people can't come to Vienna. Right, right. That's. They're like, okay, but we're still do [EDCON](https://www.edcon.io/). Right. And then the full shutdown came, but everybody had their tickets booked to Devcon in Vienna. Right. And so I was like, well, fuck it, I'm going to do. I'm going to do. This is before the total shutdown, like, okay, I'm going to do [NonCon](https://noncon.org/).
+
+*(Bob: So NonCon was actually on 3-5 April 2020)*
 
 **[18:09] Bob Summerwill:** Right.
 
-**[18:10] Michael Parenti:** And so I booked a venue and then came the full shutdown. And so I did a virtual conference. It was three days with four tracks with I think 80 speakers. And Kai and I wrote a program called Inner Space. And Inner Space was an integrated online convention portal which had integrated Google Calendar and Jitsi video conferencing and integration with Discord and Telegram. Right. So that you had all of that in one portal.
+**[18:10] Michael Parenti:** And so I booked a venue and then came the full shutdown. And so I did a virtual conference. It was three days with four tracks with I think 80 speakers. And Kai and I wrote a program called [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/). And [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/) was an integrated online convention portal which had integrated Google Calendar and Jitsi video conferencing and integration with Discord and Telegram. Right. So that you had all of that in one portal.
 
 **[18:45] Bob Summerwill:** Right.
 
-**[18:45] Michael Parenti:** And we launched that with Noncon. Okay. And so that's all online, right? Non Con onto the paralelní polis Vienna site. Yeah. So that was, you know, it's just sort of like was obvious for me. Like I'm interested in people who are, who are building. Right. And you know, I'm a true cypherpunk in that sense. You know, deploy the code, show me, do what is you're doing. And I've just been on the convention side and that was. So my, this is where my involvement has been in Ethereum, that and community building. Right. And so through that I got to meet pretty much, you know, like everybody, you know, but Gavin Wood was the last one that I actually met personally.
+**[18:45] Michael Parenti:** And we launched that with [NonCon](https://noncon.org/). Okay. And so that's all online, right? [NonCon](https://noncon.org/) onto the [Paralelní Polis Vienna](https://www.parallele.at/) site. Yeah. So that was, you know, it's just sort of like was obvious for me. Like I'm interested in people who are, who are building. Right. And you know, I'm a true cypherpunk in that sense. You know, deploy the code, show me, do what is you're doing. And I've just been on the convention side and that was. So my, this is where my involvement has been in Ethereum, that and community building. Right. And so through that I got to meet pretty much, you know, like everybody, you know, but Gavin Wood was the last one that I actually met personally.
 
 **[19:26] Bob Summerwill:** Oh, right.
 
-**[19:27] Michael Parenti:** For the first time here in May. Came to Pizza day. And so he's speaking here today.
+**[19:27] Michael Parenti:** For the first time here in May. Came to [Pizza Day](https://2025.pizzaday.cz/). And so he's speaking [here today](https://darkprague.com).
+
+*(Bob:  Here today being 5th October 2025 at the [Dark Prague](https://darkprague.com) conference)*
 
 **[19:34] Bob Summerwill:** He is speaking in 40 minutes.
 
-**[19:36] Michael Parenti:** In 40 minutes. Right. So yeah, so tangentially, you know, get to meet a lot of the people. I also worked at Brainbot for the Trustlines Foundation.
+**[19:36] Michael Parenti:** In 40 minutes. Right. So yeah, so tangentially, you know, get to meet a lot of the people. I also worked at [Brainbot](https://x.com/_brainbot) for the [Trustlines Foundation](https://x.com/trustlinesfound).
 
 **[19:46] Bob Summerwill:** Yeah, yeah.
 
-**[19:46] Michael Parenti:** With Heiko. Yeah, he's and you know, another early person and that's. Yeah, Jacob was there and Right. Left us right yeah, yeah. You know, so. But these, these core people, it's, it's. Yeah, yeah. It's so interesting. This whole thing for me is really wild because I never really came. Although there's an ideological underpinning and a natural, you know, do it yourself ethic that comes out of the punk or the hippie, you know, roots it is that I have out of California, where it is that we built the Internet, whatever. And I've always just been around, interested in the people and the, you know, the sympathetic people and the doers.
+**[19:46] Michael Parenti:** With [Heiko](/people/heiko-hees). Yeah, he's and you know, another early person and that's. Yeah, [Jacob](/people/jacob-czepluch) was there and Right. Left us right yeah, yeah. You know, so. But these, these core people, it's, it's. Yeah, yeah. It's so interesting. This whole thing for me is really wild because I never really came. Although there's an ideological underpinning and a natural, you know, do it yourself ethic that comes out of the punk or the hippie, you know, roots it is that I have out of California, where it is that we built the Internet, whatever. And I've always just been around, interested in the people and the, you know, the sympathetic people and the doers.
 
 **[20:24] Bob Summerwill:** Right, Yep.
 
@@ -364,11 +372,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[22:28] Bob Summerwill:** Yeah, yeah, yeah.
 
-**[22:29] Michael Parenti:** So another thing that I think is really interesting is seeing the is seeing what's going on now with actually Enterprise Ethereum.
-
-**[22:37] Bob Summerwill:** And you were at the EEA at.
-
-**[22:39] Michael Parenti:** The beginning, which was super logical for me. Right. Y. But it was too early because there wasn't really any clients. You were just doing educational work.
+**[22:29] Michael Parenti:** So another thing that I think is really interesting is seeing the is seeing what's going on now with actually Enterprise Ethereum.  And you were at the [EEA](/articles/enterprise-ethereum-alliance) at the beginning, which was super logical for me. Right. Y. But it was too early because there wasn't really any clients. You were just doing educational work.
 
 **[22:47] Bob Summerwill:** Pilots.
 
@@ -380,7 +384,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[23:18] Bob Summerwill:** Yeah.
 
-**[23:18] Michael Parenti:** Was John Matonis, who was the director of the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), went to. Came to Vienna to talk to bankers and diplomats.
+**[23:18] Michael Parenti:** Was [Jon Matonis](https://www.linkedin.com/in/jonmatonis/), who was the director of the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), went to. Came to Vienna to talk to bankers and diplomats.
 
 **[23:28] Bob Summerwill:** Right, right.
 
@@ -388,7 +392,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[23:31] Bob Summerwill:** Yep.
 
-**[23:31] Michael Parenti:** And he's like, oh, I'm going to be in town. Right. Let's have a coffee. Right. And at that coffee, he said, hey, we listen, we need new branding and a new website for the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation). Do you think you can do that? Because there's a vote coming up and it's going to change and we're going to be do. And I agreed to do that. Right. But when he left Vienna, he went to SWIFT.
+**[23:31] Michael Parenti:** And he's like, oh, I'm going to be in town. Right. Let's have a coffee. Right. And at that coffee, he said, hey, we listen, we need new branding and a new website for the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation). Do you think you can do that? Because there's a vote coming up and it's going to change and we're going to be do. And I agreed to do that. Right. But when he left Vienna, he went to [SWIFT](https://en.wikipedia.org/wiki/SWIFT).
 
 **[23:50] Bob Summerwill:** Right.
 
@@ -396,9 +400,9 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[23:51] Bob Summerwill:** Right, right, right.
 
-**[23:52] Michael Parenti:** So is SWIFT doing anything on Bitcoin? No. Why is it not doing anything on Bitcoin? Because bitcoiners were too dumb to to just go ahead and do it back then when add the scripting and composability and everything onto Bitcoin. And the way it is that all the L2s are now doing, all the L2s are a form of Ethereum. Right. So, you know, it's, it's quite wild, quite wild to see. And it's a, you know, huge circle for me just to see that announcement from SWIFT that they're doing an L2, you know.
+**[23:52] Michael Parenti:** So is [SWIFT](https://en.wikipedia.org/wiki/SWIFT) doing anything on Bitcoin? No. Why is it not doing anything on Bitcoin? Because bitcoiners were too dumb to to just go ahead and do it back then when add the scripting and composability and everything onto Bitcoin. And the way it is that all the L2s are now doing, all the L2s are a form of Ethereum. Right. So, you know, it's, it's quite wild, quite wild to see. And it's a, you know, huge circle for me just to see that announcement from [SWIFT](https://en.wikipedia.org/wiki/SWIFT) that they're doing an L2, you know.
 
-**[24:22] Bob Summerwill:** Yeah, yeah. So SWIFT. Then you've got Stripe, you know, with Tempo, Stripe and Friends. Kind of looks like a bit of a Libra again, but, you know, same, same kind of tech base. And then NASDAQ announced Robin Hood, you had as well.
+**[24:22] Bob Summerwill:** Yeah, yeah. So [SWIFT](https://en.wikipedia.org/wiki/SWIFT). Then you've got [Stripe](https://en.wikipedia.org/wiki/Stripe,_Inc.), you know, with [Tempo](https://tempo.xyz/), [Stripe](https://en.wikipedia.org/wiki/Stripe,_Inc.) and friends. Kind of looks like a bit of a [Libra](https://en.wikipedia.org/wiki/Diem_(digital_currency)) again, but, you know, same, same kind of tech base. And then [NASDAQ](https://en.wikipedia.org/wiki/Nasdaq) announced.  [Robinhood](https://en.wikipedia.org/wiki/Robinhood_Markets), you had as well.
 
 **[24:40] Michael Parenti:** So, I mean, I always, I always figure that it doesn't really matter where the chains are, who owns them and who controls them, whether they're, you know, degree of centralized or decentralized and whatever, because there's always going to be a bridge. And if there's not a bridge, there's going to be a tokenized representation of it to trade on it. So this sort of idea of a borderless economy, if the cat's out of the bag and everybody is catching up and it's going to be interesting to see where it is that we're at in 10 years. I think that bitcoiners and Ethereans are going to be incredibly disappointed. But that's what happens when you percolate the tech into the world. You don't know what's actually going to be the end game. But the fact of the matter is, is that the tech revolution has happened.
 

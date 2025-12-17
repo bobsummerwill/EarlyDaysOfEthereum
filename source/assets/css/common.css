@@ -2501,6 +2501,17 @@ main {
     max-width: 50%;
 }
 
+/* Content embeds: make preview images span full card width */
+.content-embed-card .blog-embed-image-container {
+    padding: 0;
+}
+
+.content-embed-card .blog-embed-image {
+    width: 100%;
+    border-radius: 0;
+    box-shadow: none;
+}
+
 /* Override max-width for mobile on desktop - ensuring it only applies to large screens */
 @media (min-width: 769px) {
     .content-embed-card {

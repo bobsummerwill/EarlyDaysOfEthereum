@@ -191,7 +191,24 @@ table_of_contents:
 
 **[07:16] Michael Parenti:** And they, they were sitting in [Jörg Platzer](https://x.com/bitcred)'s Bar in, in Berlin Room 77, which is where all the earliest Bitcoin meetups were happening.
 
-[Closing Time for Bitcoin’s Iconic Room 77 – 'And That’s OK,' Says Owner](https://www.coindesk.com/tech/2020/10/19/closing-time-for-bitcoins-iconic-room-77-and-thats-ok-says-owner)
+{% include content-embed.html
+  url="https://www.bitcoinhistory.net/room-77-became-the-first-brick-and-mortar-business-to-accept-bitcoin-"
+  title="Room 77 became the first brick and mortar business to accept Bitcoin"
+  description="The first brick-and-mortar business to accept Bitcoin was Room 77, a bar and restaurant in the Kreuzberg district of Berlin, Germany."
+  site="Bitcoin History"
+  author="Bitcoin History"
+  img="https://www.bitcoinhistory.net/images/Bitcoin-History-Social-Card.jpg"
+%}
+
+{% include content-embed.html
+  url="https://www.coindesk.com/tech/2020/10/19/closing-time-for-bitcoins-iconic-room-77-and-thats-ok-says-owner"
+  title="Closing Time for Bitcoin’s Iconic Room 77 – 'And That’s OK,' Says Owner"
+  description="Room 77 originally opened as a side project, until Bitcoin came and made it an icon. Now, the first bar to ever accept bitcoin is closing."
+  site="CoinDesk"
+  author="Colin Harper"
+  date="October 19, 2020"
+  img="https://cdn.sanity.io/images/s3y3vcno/production/9648b49a2885fcb78fbf50b1efdbf5b63a574ff5-1420x918.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+%}
 
 **[07:28] Bob Summerwill:** Okay, okay.
 
@@ -204,6 +221,8 @@ table_of_contents:
 **[07:52] Bob Summerwill:** Right, right.
 
 **[07:53] Michael Parenti:** To see that it was confirmed. And I, you know, bought them whiskey in [Jörg Platzer](https://x.com/bitcred)'s Bar. And so [Jörg Platzer](https://x.com/bitcred) is one of the original members here of [Paralelní Polis](https://en.wikipedia.org/wiki/Parallel_Polis). Right?
+
+![paralni](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paraleln%C3%AD_polis_-_D%C4%9Blnick%C3%A1_%28Prague%29_IMG_0863.JPG/960px-Paraleln%C3%AD_polis_-_D%C4%9Blnick%C3%A1_%28Prague%29_IMG_0863.JPG)
 
 **[08:02] Bob Summerwill:** Oh, yeah.
 
@@ -243,13 +262,42 @@ table_of_contents:
 
 **[10:56] Bob Summerwill:** You know. That's right. Yeah. So. So [Gav](/people/gavin-wood) said, you know, hey, Johnny gave me the heads up about Ethereum. So that was. I mean. Oh, goodness, I forget his name now. James Harrison. Anyway, he was one of the guys in London. So with, with Amir. So you know, [Gav](/people/gavin-wood) had met Johnny through Amir and Johnny had told him about Ethereum and then he contacted [Vitalik](/people/vitalik-buterin). Yeah, but then, yeah, they got going there.
 
+![johnny](https://private-user-images.githubusercontent.com/3788156/497769204-29eef3e1-13d5-4633-9100-0030a7028511.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYwMDM0MzIsIm5iZiI6MTc2NjAwMzEzMiwicGF0aCI6Ii8zNzg4MTU2LzQ5Nzc2OTIwNC0yOWVlZjNlMS0xM2Q1LTQ2MzMtOTEwMC0wMDMwYTcwMjg1MTEuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIxNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMTdUMjAyNTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OWFiZDY3NjczMDExMzdlYjRkOTU5MmRhYWQ4ZWRjODE0ODFlMDE3YzFlYmIwMDcwOTBkMWFlMzIzY2NlYjBjMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.mOEzNTq1mGtEccbdap-OwZWbwY52tmQ4XFL12opVcSA)
+
+*(Bob: "Johnny Bitcoin", whose name I could not remember is Jonathan James Harrison)*
+
 **[11:33] Michael Parenti:** Then there was a Cody Wilson was it was there as well.
 
 **[11:36] Bob Summerwill:** Right, right, yep. [Cody](/people/cody-wilson), [Cody](/people/cody-wilson) in there.
 
+{% include video-embed.html
+  name="Crypto Hackathon – Bitcoin Expo 2014!"
+%}
+
 **[11:39] Michael Parenti:** And I saw the shot of video.
 
 **[11:42] Bob Summerwill:** Yeah, video of [Cody](/people/cody-wilson) in Canada. So. Yeah. So January of 2014, you had the Bitcoin Miami where Ethereum first got announced, and then they had the house that Anthony Di Iorio had rented where they all sort of met physically for the first time. Well, not everyone, but many, many people.
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20140208014416/https://btcmiami.com/"
+  img="https://web.archive.org/web/20140208035502im_/http://btcmiami.com/wp-content/uploads/2013/11/logo1.jpg"
+  title="North American Bitcoin Conference (archived: btcmiami.com)"
+  description="Bitcoin Conference - Bitcoin Event - Miami Beach - Bitcoin - Litecoin - Masterclass Workshop"
+  site="Internet Archive"
+  date="February 8, 2014"
+%}
+
+{% include content-embed.html
+  url="https://www.coindesk.com/markets/2017/04/18/miami-2014-the-last-days-of-bitcoins-wild-west"
+  title="Miami 2014: The Last Days of Bitcoin's Wild West"
+  description="'Bitcoin Milestones' continues with a look back at TNABC Miami 2014 – the conference where Bruce Fenton says the industry grew up."
+  site="CoinDesk"
+  author="Bruce Fenton"
+  date="April 18, 2017"
+  img="https://cdn.sanity.io/images/s3y3vcno/production/bc4d7ca7e8790b8b12c87d843cb78e3ea988c32e-1500x844.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+%}
+
+*(Bob: Here is [the schedule](https://www.scribd.com/document/201301458/BTC-Miami-Program-Final-Preview-5) for the conference.  Some other speakers there included Wendell Davis and Chris Odom)*
 
 **[12:01] Michael Parenti:** Yeah. So these were things that were all tangentially on my online presence.
 
@@ -262,6 +310,14 @@ table_of_contents:
 <h3 id="berlin-status-and-goerli">Berlin: Status, DoD, Goerli</h3>
 
 **[12:38] Michael Parenti:** Yeah, so, so. And you know, so Berlin here in Europe was, you know, the, basically the city. You know, so there's Prague for the crypto anarchists. Right. But Berlin is really was the city for Ethereum. Right. And so I was involved with the [Department of Decentralization](https://x.com/dod_berlin). Right. So also doing what it is I do here as an emcee on stage at, at East Berlin with, with the [DoD](https://x.com/dod_berlin). And then also we did the launch of [Goerli](https://github.com/eth-clients/goerli). Right.
+
+{% include content-embed.html
+  url="https://dod.ngo/"
+  title="Department of Decentralization"
+  description="The website for the Department of Decentralization"
+  site="dod.ngo"
+  img="https://dod.ngo/static/images/twitter-card-dod.png"
+%}
 
 **[13:09] Bob Summerwill:** Yeah, yeah.
 
@@ -276,6 +332,14 @@ table_of_contents:
 **[13:19] Michael Parenti:** There was no funding for [Goerli](https://github.com/eth-clients/goerli). They just did it [Afri](https://github.com/q9f) and [Mr. Ligi](https://x.com/mr_ligi), you know, and yeah, it was like two or three people that, you know, that deployed [Goerli](https://github.com/eth-clients/goerli), you know, so.
 
 **[13:30] Bob Summerwill:** I can tell you the answer is actually from the [ETC Cooperative](https://etccooperative.org/).
+
+{% include content-embed.html
+  url="https://etccooperative.org/"
+  title="Ethereum Classic Cooperative"
+  description="Accelerating the growth of Ethereum Classic."
+  site="etccooperative.org"
+  img="https://etccooperative.org/etc-coop-social.png"
+%}
 
 **[13:35] Michael Parenti:** Funding for [Goerli](https://github.com/eth-clients/goerli) came from the [ETC Cooperative](https://etccooperative.org/).
 
@@ -301,7 +365,15 @@ table_of_contents:
 
 **[15:17] Bob Summerwill:** Quite a different vibe.
 
-**[15:19] Michael Parenti:** And so. So [ETHBerlin](https://x.com/ETHBerlin) was a very, very cool thing at that time. And. And at that time I was working with Status.
+**[15:19] Michael Parenti:** And so. So [ETHBerlin](https://x.com/ETHBerlin) was a very, very cool thing at that time. And. And at that time I was working with [Status](https://status.im).
+
+{% include content-embed.html
+  url="https://status.app/"
+  title="Status — Make the jump to web3"
+  description="The open-source, decentralised wallet and messenger. Own your crypto and chat privately."
+  site="status.app"
+  img="https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1200,q_auto/Open%20Graph/Status_Open_Graph_01"
+%}
 
 **[15:27] Bob Summerwill:** Right, right, right.
 
@@ -341,6 +413,23 @@ table_of_contents:
 
 **[17:24] Michael Parenti:** Okay. [EDCON](https://www.edcon.io/) was supposed to be in Vienna, right. And so that was all that was in 2019. And that was the year that I decided to open a [Paralelní Polis in Vienna](https://www.parallele.at/).
 
+{% include content-embed.html
+  url="https://www.edcon.io/"
+  img="https://en.cryptonomist.ch/wp-content/uploads/2020/01/Edcon.jpg"
+  title="EDCON 2025 - Community Ethereum Development Conference | Osaka, August - September, 2025"
+  description="Join the global Ethereum community at EDCON 2025 in Osaka, Japan, from August - September . Explore the latest in Ethereum technology through workshops, keynotes, and networking opportunities. Don’t miss this premier global Ethereum event!"
+  site="edcon.io"
+  img="https://ueth.s3.us-west-2.amazonaws.com/edcon/2025/metadata/index.png"
+%}
+
+{% include content-embed.html
+  url="https://www.parallele.at/"
+  img="https://www.parallele.at/wp-content/uploads/2019/11/dot-burstup.jpg"
+  title="Paralelní Polis Vienna"
+  description="Paralelní Polis in Vienna"
+  site="parallele.at"
+%}
+
 *(Bob: Chasing up, I find that EDCON (Community Ethereum Development Conference) was actually originally scheduled to take place from April 3–7, 2020, not in 2019)*
 
 **[17:34] Bob Summerwill:** Right.
@@ -352,6 +441,14 @@ table_of_contents:
 **[17:38] Michael Parenti:** And I've got all the Ethereum people, you know, here, and then I'll do a side event to announce the launch of [Paralelní Polis](https://en.wikipedia.org/wiki/Parallel_Polis). Right, right. And then it was like, no, Chinese people can't come to Vienna. Right, right. That's. They're like, okay, but we're still do [EDCON](https://www.edcon.io/). Right. And then the full shutdown came, but everybody had their tickets booked to Devcon in Vienna. Right. And so I was like, well, fuck it, I'm going to do. I'm going to do. This is before the total shutdown, like, okay, I'm going to do [NonCon](https://noncon.org/).
 
 *(Bob: So NonCon was actually on 3-5 April 2020)*
+
+{% include content-embed.html
+  url="https://noncon.org/"
+  img="https://noncon.org/img/virtualnoncon-logo-light.jpg"
+  title="NonCon | Virtual Blockchain & Cypherpunk Community Event"
+  description="Join NonCon, the virtual gathering celebrating open-source blockchain projects and cypherpunk values."
+  site="noncon.org"
+%}
 
 **[18:09] Bob Summerwill:** Right.
 

@@ -75,6 +75,8 @@ table_of_contents:
 
 **[01:21] Bob Summerwill:** [MagicalTux](https://x.com/MagicalTux) *(Bob: this is Mark Karpelès' twitter handle)*
 
+![mark](https://www.sciencesetavenir.fr/assets/img/2016/07/15/cover-r4x3w1200-57e175ef5055d-mark-karpeles.jpg)
+
 **[01:23] Michael Parenti:** That was really funny. Yeah. And then [Charlie Shrem](https://en.wikipedia.org/wiki/Charlie_Shrem) getting arrested. Right.
 
 **[01:28] Bob Summerwill:** Two of your directors getting arrested in short order. It's not really fantastic.
@@ -88,6 +90,8 @@ table_of_contents:
 **[01:47] Bob Summerwill:** So young at the start, eh? 17, I think.
 
 **[01:50] Michael Parenti:** Yeah. And then [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) started. Right. Together him and [Mihai](/people/mihai-alisie) started that up. And so [Vitalik](/people/vitalik-buterin) was on my radar just because he was present in the community. You know, there's so few of us at the time. Right. It's like stunning how few people there were at the beginning, you know, and how present a lot of those people still are.
+
+![bitcoin magazine](https://store.bitcoinmagazine.com/cdn/shop/files/Vol-1_Issue_Product_Image-1.png?v=1761681804&width=1080)
 
 **[02:11] Bob Summerwill:** Yeah.
 
@@ -131,7 +135,13 @@ table_of_contents:
 
 **[04:20] Michael Parenti:** Yes, [C E N T](https://www.cent.co/). And I get this message. I get a DM from somebody, hey, you know, if you mint this as a tweet, I'll, you know, I'll buy it, you know, And I was like, how much you want to buy it for? And he's like, you know, I'll give you 200 bucks. And I was like, for the first tweet of Ethereum? Nah. But I guess I'll mint it, right? You know, and so I minted the tweet and ended up. So it's actually the second most expensive tweet behind [Jack Dorsey's tweet](https://v.cent.co/tweet/20).
 
-**[04:50] Bob Summerwill:** I was gonna say that I remembered because Jack did his first, didn't he? Like his very first tweet.
+**[04:50] Bob Summerwill:** I was gonna say that I remembered because [Jack](https://en.wikipedia.org/wiki/Jack_Dorsey) did his first, didn't he? Like his very first tweet.
+
+{% include twitter-embed.html
+  url="https://x.com/jack/status/20"
+%}
+
+*(Bob: So the NFT for Jack's tweet was sold for $2.9 million)*
 
 **[04:57] Michael Parenti:** So those two tweets are the highest, you know, paid for a tweet.
 
@@ -171,7 +181,7 @@ table_of_contents:
 
 <h3 id="room-77-and-early-meetups">Room 77 and early meetups</h3>
 
-**[06:51] Michael Parenti:** So I have like another sort of like, interconnection that the first time I ever spent bitcoin that I earned from the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), I bought whiskey for [Smári McCarthy](https://x.com/smarimc) and [Asta Fish](https://x.com/asta_fish) (alias of Ásta Guðrún Helgadóttir), who were two of the parliamentarians in Iceland from the Pirate Party.
+**[06:51] Michael Parenti:** So I have like another sort of like, interconnection that the first time I ever spent bitcoin that I earned from the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), I bought whiskey for [Smári McCarthy](https://x.com/smarimc) and [Asta Fish](https://x.com/asta_fish) (alias of Ásta Guðrún Helgadóttir), who were two of the parliamentarians in Iceland from the [Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party).
 
 **[07:10] Bob Summerwill:** Oh, yeah, yeah.
 

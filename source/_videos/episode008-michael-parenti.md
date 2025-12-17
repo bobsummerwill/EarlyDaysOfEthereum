@@ -174,7 +174,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[08:26] Bob Summerwill:** Right, right.
 
-**[08:27] Michael Parenti:** Gavin was introduced to [Vitalik](/people/vitalik-buterin) by Amir Taaki, who's also here in the house. And so, like, this house is really, like, interconnected for me with all of these people, this social nexus. Yeah, yeah, Because [Mike Gogulski](https://x.com/mikegogulski), who was my partner in Bitcoiners Without Borders, who was the PHP programmer who wrote the module for all of the membership donations to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), was an original member of this house and he's the one who introduced me to Amir Taaki and also the one who introduced me to [Lyn Ulbricht](https://www.linkedin.com/in/lyn-ulbricht-98429291/).
+**[08:27] Michael Parenti:** Gavin was introduced to [Vitalik](/people/vitalik-buterin) by Amir Taaki, who's also here in the house. And so, like, this house is really, like, interconnected for me with all of these people, this social nexus. Yeah, yeah, Because [Mike Gogulski](https://x.com/mikegogulski), who was my partner in [Bitcoiners Without Borders](https://github.com/bitcoinerswithoutborders), who was the PHP programmer who wrote the module for all of the membership donations to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), was an original member of this house and he's the one who introduced me to Amir Taaki and also the one who introduced me to [Lyn Ulbricht](https://www.linkedin.com/in/lyn-ulbricht-98429291/).
 
 **[09:01] Bob Summerwill:** Oh, yeah.
 
@@ -290,11 +290,11 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[16:40] Bob Summerwill:** Did you ever spend time visiting or within the ETHDEV or Parity offices?
 
-**[16:51] Michael Parenti:** So I never were in either, either of the offices, but I know numerous people. So Kai Gärtler, who's the system administrator for [Giveth](https://x.com/Giveth) and a lot of other things was like in [Eth Cat Herders](https://x.com/EthCatHerders).
+**[16:51] Michael Parenti:** So I never were in either, either of the offices, but I know numerous people. So [Kay Gertler](https://x.com/krassvs), who's the system administrator for [Giveth](https://x.com/Giveth) and a lot of other things was like in [Eth Cat Herders](https://x.com/EthCatHerders).
 
 **[17:08] Bob Summerwill:** Oh yeah, yeah.
 
-**[17:09] Michael Parenti:** And stuff like that. Why did I want to mention Kai. So he and I put together when Covid hit.
+**[17:09] Michael Parenti:** And stuff like that. Why did I want to mention [Kay](https://x.com/krassvs). So he and I put together when Covid hit.
 
 **[17:24] Bob Summerwill:** Right?
 
@@ -314,7 +314,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[18:09] Bob Summerwill:** Right.
 
-**[18:10] Michael Parenti:** And so I booked a venue and then came the full shutdown. And so I did a virtual conference. It was three days with four tracks with I think 80 speakers. And Kai and I wrote a program called [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/). And [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/) was an integrated online convention portal which had integrated Google Calendar and Jitsi video conferencing and integration with Discord and Telegram. Right. So that you had all of that in one portal.
+**[18:10] Michael Parenti:** And so I booked a venue and then came the full shutdown. And so I did a virtual conference. It was three days with four tracks with I think 80 speakers. And [Kay](https://x.com/krassvs) and I wrote a program called [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/). And [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/) was an integrated online convention portal which had integrated Google Calendar and Jitsi video conferencing and integration with Discord and Telegram. Right. So that you had all of that in one portal.
 
 **[18:45] Bob Summerwill:** Right.
 
@@ -324,7 +324,7 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[19:27] Michael Parenti:** For the first time here in May. Came to [Pizza Day](https://2025.pizzaday.cz/). And so he's speaking [here today](https://darkprague.com).
 
-*(Bob:  Here today being 5th October 2025 at the [Dark Prague](https://darkprague.com) conference)*
+*(Bob: Michael later told me that he misspoke.  It was at [MoneroKon](https://www.monerokon.org/) in June 2025 that he first met Gavin Wood.  "Here today" being 5th October 2025 at the [Dark Prague](https://darkprague.com) conference)*
 
 **[19:34] Bob Summerwill:** He is speaking in 40 minutes.
 

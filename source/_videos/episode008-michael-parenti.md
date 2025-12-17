@@ -6,6 +6,23 @@ guests: ["Michael Parenti"]
 hosts: ["Bob Summerwill"]
 description: "Michael Parenti was a Bitcoiner from the very early days, working for the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) and later very involved in Ethereum"
 img: /images/covers-for-conversations/episode008-michael-parenti.png
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction"
+  - link: "#bitcoin-foundation-era"
+    title: "Bitcoin Foundation era"
+  - link: "#first-tweet-of-ethereum"
+    title: "First tweet about Ethereum"
+  - link: "#room-77-and-early-meetups"
+    title: "Room 77 and early meetups"
+  - link: "#berlin-status-and-goerli"
+    title: "Berlin: Status, DoD, Goerli"
+  - link: "#noncon-and-interspace"
+    title: "NonCon and Interspace"
+  - link: "#reflections-on-ethereum"
+    title: "Reflections on Ethereum"
+  - link: "#wrap-up"
+    title: "Wrap-up"
 ---
 
 ## Audio
@@ -17,6 +34,10 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 
 ## Transcript
+
+<!-- TABLE_OF_CONTENTS -->
+
+<h3 id="introduction">Introduction</h3>
 
 **[00:03] Bob Summerwill:** So welcome to Early Days of Ethereum. I'm Bob Summerwill here at [Dark Prague](https://darkprague.com/) with my good friend, "Exiled Surfer" Michael Parenti. Hello!
 
@@ -39,6 +60,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[00:26] Michael Parenti:** You were competing with [Griff](/people/griff-green/) for being the best.
 
 **[00:28] Bob Summerwill:** Right? Well, there we go. There we go. Yeah. So I mean, we've worked together in a number of different contexts since, but today, you know, really wanted to talk to you in terms of the early days of the Ethereum project and you know, looking back to the beginnings. So I mean, what were you doing in the couple of years before any Ethereum involvement?
+
+<h3 id="bitcoin-foundation-era">Bitcoin Foundation era</h3>
 
 **[00:56] Michael Parenti:** Before Ethereum involvement, I was at the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), basically.
 
@@ -73,6 +96,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[02:17] Bob Summerwill:** Right. Long form writing, who'd have thought writing.
 
 **[02:20] Michael Parenti:** And so I still had my RSS feeds and [Vitalik](/people/vitalik-buterin) had a blog, so he was in my RSS feeds and one day he posted something about Ethereum. And so I like, okay, cool.
+
+<h3 id="first-tweet-of-ethereum">First tweet about Ethereum</h3>
 
 **[02:31] Bob Summerwill:** You know, was that first thing, was it the white paper or did he post some posts?
 
@@ -143,6 +168,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[06:10] Michael Parenti:** Yeah, exactly. November 2013. Around that. I think that's exactly when it was. And yeah, so, you know, [Vitalik](/people/vitalik-buterin), I saw at various meetups when he, you know, I think there was a Yellow Paper first. Right? First there was a. Yeah, so the.
 
 **[06:26] Bob Summerwill:** Well, so, yeah, so the White Paper that was November, like, like you say, I guess there's some prior blogs before. Right. Here's a fully formed white paper which then he sent out to some random group of people and they passed it on to further people. And that was sort of like how the beginning of that, people getting together to start doing that happened.
+
+<h3 id="room-77-and-early-meetups">Room 77 and early meetups</h3>
 
 **[06:51] Michael Parenti:** So I have like another sort of like, interconnection that the first time I ever spent bitcoin that I earned from the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), I bought whiskey for [Smári McCarthy](https://x.com/smarimc) and [Asta Fish](https://x.com/asta_fish) (alias of Ásta Guðrún Helgadóttir), who were two of the parliamentarians in Iceland from the Pirate Party.
 
@@ -222,6 +249,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[12:20] Bob Summerwill:** But then, sorry, so. So yeah, it was by April they have this Bitcoin Expo in Toronto, but that was also when the Yellow Paper had been done. So [Gavin](/people/gavin-wood) spent those four months basically building the first working client and doing the Yellow Paper spec. Yeah, yeah, But Berlin you were saying.
 
+<h3 id="berlin-status-and-goerli">Berlin: Status, DoD, Goerli</h3>
+
 **[12:38] Michael Parenti:** Yeah, so, so. And you know, so Berlin here in Europe was, you know, the, basically the city. You know, so there's Prague for the crypto anarchists. Right. But Berlin is really was the city for Ethereum. Right. And so I was involved with the [Department of Decentralization](https://x.com/dod_berlin). Right. So also doing what it is I do here as an emcee on stage at, at East Berlin with, with the [DoD](https://x.com/dod_berlin). And then also we did the launch of [Goerli](https://github.com/eth-clients/goerli). Right.
 
 **[13:09] Bob Summerwill:** Yeah, yeah.
@@ -296,6 +325,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 
 **[17:09] Michael Parenti:** And stuff like that. Why did I want to mention [Kay](https://x.com/krassvs). So he and I put together when Covid hit.
 
+<h3 id="noncon-and-interspace">NonCon and Interspace</h3>
+
 **[17:24] Bob Summerwill:** Right?
 
 **[17:24] Michael Parenti:** Okay. [EDCON](https://www.edcon.io/) was supposed to be in Vienna, right. And so that was all that was in 2019. And that was the year that I decided to open a [Paralelní Polis in Vienna](https://www.parallele.at/).
@@ -343,6 +374,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[20:36] Michael Parenti:** The silent, you know, the silent underpinning, the silent foundation of what actually happens in the space.
 
 **[20:42] Bob Summerwill:** Right. Has Ethereum become what you thought it might be? How much of the vision of what could happen there do you think has actually happened?
+
+<h3 id="reflections-on-ethereum">Reflections on Ethereum</h3>
 
 **[20:57] Michael Parenti:** So I had two viewpoints, I think that are common to early bitcoiners. Right. Anything that can be built on another chain can eventually be deployed on Bitcoin, Right?
 
@@ -409,6 +442,8 @@ img: /images/covers-for-conversations/episode008-michael-parenti.png
 **[25:25] Bob Summerwill:** Yeah. Yeah, absolutely.
 
 **[25:27] Michael Parenti:** Most certainly.
+
+<h3 id="wrap-up">Wrap-up</h3>
 
 **[25:28] Bob Summerwill:** Okay, well, thanks so much. Great chatting to you. Great catching up with you as always. And all the very best.
 

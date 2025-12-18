@@ -1,6 +1,6 @@
 ---
 name: Péter Szilágyi
-nickname: kakalabe
+nickname: karalabe
 description: Geth Team Lead
 photo: /images/archive.org/ethdev.com/20151210143340/peter-szilagyi.jpg
 start: Apr 2015

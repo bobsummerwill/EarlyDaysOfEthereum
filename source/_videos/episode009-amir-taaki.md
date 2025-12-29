@@ -4,7 +4,7 @@ date: 2025-12-31
 show: true
 guests: ["Amir Taaki"]
 hosts: ["Bob Summerwill"]
-description: "Amir Taaki was a Bitcoin developer from 2010 onwards and connected Vitalik Buterin and Gavin Wood."
+description: "Bitcoin developer and privacy technologist Amir Taaki recounts finding Bitcoin, early development (Libbitcoin and BIPs), Dark Wallet, meeting Vitalik Buterin, and his perspective on Ethereum’s early days and DarkFi."
 img: /images/covers-for-conversations/episode009-amir-taaki.png
 
 table_of_contents:

@@ -276,10 +276,6 @@ table_of_contents:
   img="https://riat.at/wp-content/uploads/2022/06/Screenshot-2022-06-05-at-08.33.32.png"
 %}
 
-https://metalab.at/
-
-https://riat.at/
-
 **[10:10] Bob Summerwill:** Right, There you go. Yeah. But yeah, you'd mentioned the Yellow Paper, so that the timeline on that is both [Gav](/people/gavin-wood) and Jeff Wilcke started their Ethereum stuff within days of each other, just after Christmas. So, you know, like or just before, actually. So [Gav](/people/gavin-wood)'s first commit was December 23, 2013. And I think Jeff's was it like a couple of days later?
 
 **[10:44] Michael Parenti:** 2013, man.
@@ -294,13 +290,13 @@ https://riat.at/
 
 **[10:56] Bob Summerwill:** You know. That's right. Yeah. So. So [Gav](/people/gavin-wood) said, you know, hey, Johnny gave me the heads up about Ethereum. So that was. I mean. Oh, goodness, I forget his name now. James Harrison. Anyway, he was one of the guys in London. So with, with Amir. So you know, [Gav](/people/gavin-wood) had met Johnny through Amir and Johnny had told him about Ethereum and then he contacted [Vitalik](/people/vitalik-buterin). Yeah, but then, yeah, they got going there.
 
-![johnny](https://private-user-images.githubusercontent.com/3788156/497769204-29eef3e1-13d5-4633-9100-0030a7028511.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYwMDM0MzIsIm5iZiI6MTc2NjAwMzEzMiwicGF0aCI6Ii8zNzg4MTU2LzQ5Nzc2OTIwNC0yOWVlZjNlMS0xM2Q1LTQ2MzMtOTEwMC0wMDMwYTcwMjg1MTEuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIxNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMTdUMjAyNTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OWFiZDY3NjczMDExMzdlYjRkOTU5MmRhYWQ4ZWRjODE0ODFlMDE3YzFlYmIwMDcwOTBkMWFlMzIzY2NlYjBjMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.mOEzNTq1mGtEccbdap-OwZWbwY52tmQ4XFL12opVcSA)
+![Johnny](https://alchetron.com/cdn/amir-taaki-11ab0fdd-3193-4dba-9dda-36db361a2ec-resize-750.jpeg)
 
 *(Bob: "Johnny Bitcoin", whose name I could not remember is Jonathan James Harrison)*
 
 **[11:33] Michael Parenti:** Then there was a Cody Wilson was it was there as well.
 
-**[11:36] Bob Summerwill:** Right, right, yep. [Cody](/people/cody-wilson), [Cody](/people/cody-wilson) in there.
+**[11:36] Bob Summerwill:** Right, right, yep. [Cody](/people/cody-wilsonhttps://alchetron.com/cdn/amir-taaki-11ab0fdd-3193-4dba-9dda-36db361a2ec-resize-750.jpeg), [Cody](/people/cody-wilson) in there.
 
 {% include video-embed.html
   name="Crypto Hackathon – Bitcoin Expo 2014!"

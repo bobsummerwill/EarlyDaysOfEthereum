@@ -542,7 +542,7 @@ table_of_contents:
 
 [[22:29]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1349s) **Michael Parenti:** So another thing that I think is really interesting is seeing the is seeing what's going on now with actually Enterprise Ethereum.  And you were at the [EEA](/articles/enterprise-ethereum-alliance) at the beginning, which was super logical for me. But it was too early because there wasn't really any clients. You were just doing educational work.
 
-![eea](https://mms.businesswire.com/media/20240319924726/en/600704/5/eea-logo.jpg?download=1)
+![eea](https://entethalliance.github.io/client-spec/images/eea_logo.svg)
 
 [[22:47]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1367s) **Bob Summerwill:** Pilots.
 

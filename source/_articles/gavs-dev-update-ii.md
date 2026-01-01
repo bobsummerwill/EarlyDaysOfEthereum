@@ -16,7 +16,12 @@ After doing some recruitment on behalf of DEV in Bucharest with the help of Miha
 
 ## DEVHUB Berlin
 
-In Berlin, Sarah has been super-busy with the builders getting the hub ready. Here's a [couple](http://opensecrecy.com/berlin1.jpeg) [pictures](http://opensecrecy.com/berlin2.jpeg) of the work in progress that is the Berlin hub. It might not look like much yet, but we're on target to be moved in by mid-November. I'm particularly happy with Sarah's efforts to find a genuine 70's barrista espresso machine (-:
+In Berlin, Sarah has been super-busy with the builders getting the hub ready. Here's a [couple](https://web.archive.org/web/20150328060234/http://opensecrecy.com/berlin1.jpeg) [pictures](https://web.archive.org/web/20150328060234/http://opensecrecy.com/berlin2.jpeg) of the work in progress that is the Berlin hub. It might not look like much yet, but we're on target to be moved in by mid-November. I'm particularly happy with Sarah's efforts to find a genuine 70's barrista espresso machine (-:
+
+![berlin1](https://web.archive.org/web/20150328060241if_/http://opensecrecy.com/berlin1.jpeg)
+
+![berlin2](https://web.archive.org/web/20150328060234/http://opensecrecy.com/berlin2.jpeg)
+
 
 I'm excited to announce that Christian Vömel is joining the team in Berlin to be the Office Manager of ÐΞVHUB Berlin. Christian has many years experience including having worked in an international environment and has even taught office management! He'll be taking some of the load from our frankly much-overworked company secretary Aeron Buchanan.
 

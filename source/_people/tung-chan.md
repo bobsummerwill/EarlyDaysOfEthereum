@@ -10,7 +10,6 @@ social:
   
 {% include content-embed.html
   url="https://businesslawtoday.org/podcast/ttet-law-blockchain-episode-6/"
-  img="https://businesslawtoday.org/wp-content/uploads/sites/3/2022/10/ttet-law-blockchain-episode-6.jpg"
   title="TTET Law & Blockchain Podcast: Episode 6"
   site="Business Law Today"
   author="Tung Chan"

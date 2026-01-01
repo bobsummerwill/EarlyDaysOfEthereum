@@ -78,7 +78,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
 %}
 
 {% include video-embed.html
-  name="In Crypto We Trust Hackathon"
+  name="In Crypto We Trust Hackathon Pitches - Bitcoin Expo 2014"
 %}
 
 {% include video-embed.html

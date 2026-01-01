@@ -63,8 +63,11 @@ social:
   src="https://www.youtube.com/embed/4oZs6RpLuak"
   url="https://www.youtube.com/watch?v=4oZs6RpLuak"
   title="Vitalik Buterin Interview - Bitcoin And The World At Large"
+  description="Vitalik Buterin is the lead writer and co-founder of Bitcoin Magazine, and has been actively involved in Bitcoin-related projects. His interests include math, computer science, online education, economics and linguistics."
   author="BoxxyBrassin"
   date="2013-08-31"
+  site="YouTube"
+  img="https://i.ytimg.com/vi/4oZs6RpLuak/maxresdefault.jpg"
 %}
 
 {% include content-embed.html

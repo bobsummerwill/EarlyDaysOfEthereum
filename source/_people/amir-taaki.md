@@ -72,15 +72,23 @@ social:
 %}
 
 {% include content-embed.html
-  src="https://www.youtube.com/embed/w5zmLVBxSGs"
-  url="https://www.youtube.com/watch?v=w5zmLVBxSGs"
-  title="Amir Taaki Video"
+  src="https://www.youtube.com/embed/Ouo7Q6Cf_yc"
+  url="https://www.youtube.com/watch?v=Ouo7Q6Cf_yc"
+  title="Dark Wallet"
+  description="Trick or Treat, Western Civilization."
+  author="Defence Distributed"
+  date="2013-10-31"
+  site="YouTube"
 %}
 
 {% include content-embed.html
-  src="https://www.youtube.com/embed/Ouo7Q6Cf_yc"
-  url="https://www.youtube.com/watch?v=Ouo7Q6Cf_yc"
-  title="Amir Taaki Video"
+  src="https://www.youtube.com/embed/w5zmLVBxSGs"
+  url="https://www.youtube.com/watch?v=w5zmLVBxSGs"
+  title="The Coming of Darkwallet"
+  description="Join us on an adventure at the crossroads of two historical narratives. Your life, mine and others stand before an epochal decision. The choice, is up to us."
+  author="BoxxyBrassin"
+  date="2014-10-02"
+  site="YouTube"
 %}
 
 ## Links

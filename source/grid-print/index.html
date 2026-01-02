@@ -1,0 +1,514 @@
+---
+layout: default
+title: "Ethereum People Grid"
+description: "A visual grid of all the people who contributed to the early days of Ethereum"
+image: "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png"
+---
+
+
+<div class="people-grid-header">
+    <p>A visual grid of the people who contributed to the early days of Ethereum, from co-founders to developers, advisors, and community builders.</p>
+</div>
+
+{% comment %}
+Use the same sorting logic as /people page: group by start date, sort chronologically, then alphabetically within each date
+Include ALL non-hidden people, whether they have photos or not
+{% endcomment %}
+{% assign people_with_dates = "" | split: "" %}
+{% assign people_without_dates = "" | split: "" %}
+
+{% for person in site.people %}
+    {% if person.hidden != true and person.hidden != 'true' %}
+        {% if person.start and person.start != '' and person.start != '???' %}
+            {% assign people_with_dates = people_with_dates | push: person %}
+        {% else %}
+            {% assign people_without_dates = people_without_dates | push: person %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+{% comment %}
+Create a hash of start dates to group people and sort chronologically
+{% endcomment %}
+{% assign date_groups = "" | split: "" %}
+{% assign processed_dates = "" | split: "" %}
+
+{% for person in people_with_dates %}
+    {% unless processed_dates contains person.start %}
+        {% assign processed_dates = processed_dates | push: person.start %}
+        {% assign date_groups = date_groups | push: person.start %}
+    {% endunless %}
+{% endfor %}
+
+{% comment %}
+Sort date groups chronologically by extracting years and months
+{% endcomment %}
+{% assign sorted_dates = "" | split: "" %}
+{% assign years_2013 = "" | split: "" %}
+{% assign years_2014 = "" | split: "" %}
+{% assign years_2015 = "" | split: "" %}
+{% assign years_2016 = "" | split: "" %}
+{% assign years_2017 = "" | split: "" %}
+{% assign years_2018 = "" | split: "" %}
+{% assign years_other = "" | split: "" %}
+
+{% for date_str in date_groups %}
+    {% if date_str contains "2013" %}
+        {% assign years_2013 = years_2013 | push: date_str %}
+    {% elsif date_str contains "2014" %}
+        {% assign years_2014 = years_2014 | push: date_str %}
+    {% elsif date_str contains "2015" %}
+        {% assign years_2015 = years_2015 | push: date_str %}
+    {% elsif date_str contains "2016" %}
+        {% assign years_2016 = years_2016 | push: date_str %}
+    {% elsif date_str contains "2017" %}
+        {% assign years_2017 = years_2017 | push: date_str %}
+    {% elsif date_str contains "2018" %}
+        {% assign years_2018 = years_2018 | push: date_str %}
+    {% else %}
+        {% assign years_other = years_other | push: date_str %}
+    {% endif %}
+{% endfor %}
+
+{% comment %}
+Sort each year's dates by month order
+{% endcomment %}
+{% assign month_order = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
+
+{% comment %}
+Sort 2013 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2013 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2014 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2014 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2015 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2015 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2016 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2016 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2017 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2017 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Sort 2018 dates by month
+{% endcomment %}
+{% for month in month_order %}
+    {% for date_str in years_2018 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Add other dates (alphabetically sorted as fallback)
+{% endcomment %}
+{% assign years_other_sorted = years_other | sort %}
+{% for year_group in years_other_sorted %}
+    {% assign sorted_dates = sorted_dates | push: year_group %}
+{% endfor %}
+
+{% comment %}
+Build final sorted list of all people (with and without photos)
+{% endcomment %}
+{% assign final_people_list = "" | split: "" %}
+{% for start_date in sorted_dates %}
+    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
+    {% for person in people_in_date %}
+        {% assign final_people_list = final_people_list | push: person %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Add people without dates at the end, sorted alphabetically
+{% endcomment %}
+{% if people_without_dates.size > 0 %}
+    {% assign sorted_other_people = people_without_dates | sort: "name" %}
+    {% for person in sorted_other_people %}
+        {% assign final_people_list = final_people_list | push: person %}
+    {% endfor %}
+{% endif %}
+
+<div class="stats">
+    {{ final_people_list.size }} people
+</div>
+
+{% comment %}
+Group people by epoch
+{% endcomment %}
+{% assign epoch1_people = "" | split: "" %}
+{% assign epoch2_people = "" | split: "" %}
+{% assign epoch3_people = "" | split: "" %}
+{% assign epoch4_people = "" | split: "" %}
+{% assign epoch5_people = "" | split: "" %}
+{% assign epoch6_people = "" | split: "" %}
+{% assign other_people = people_without_dates | sort: "name" %}
+
+{% for start_date in sorted_dates %}
+    {% assign people_in_date = people_with_dates | where: "start", start_date | sort: "name" %}
+    
+    {% comment %}
+    Determine epoch based on date
+    {% endcomment %}
+    {% assign is_epoch1 = false %}
+    {% assign is_epoch2 = false %}
+    {% assign is_epoch3 = false %}
+    {% assign is_epoch4 = false %}
+    {% assign is_epoch5 = false %}
+    {% assign is_epoch6 = false %}
+    
+    {% if start_date contains "2013" %}
+        {% assign is_epoch1 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2014" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" or start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_epoch1 = true %}
+        {% else %}
+            {% assign is_epoch2 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2015" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_epoch2 = true %}
+        {% elsif start_date contains "Mar" or start_date contains "Apr" or start_date contains "May" or start_date contains "Jun" %}
+            {% assign is_epoch3 = true %}
+        {% else %}
+            {% assign is_epoch4 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2016" or start_date contains "2017" %}
+        {% assign is_epoch4 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2018" %}
+        {% if start_date contains "Jan" %}
+            {% assign is_epoch4 = true %}
+        {% else %}
+            {% assign is_epoch5 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" %}
+        {% assign is_epoch5 = true %}
+    {% endif %}
+    
+    {% if start_date contains "2025" %}
+        {% if start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_epoch5 = true %}
+        {% else %}
+            {% assign is_epoch6 = true %}
+        {% endif %}
+    {% endif %}
+    
+    {% for person in people_in_date %}
+        {% if is_epoch1 %}
+            {% assign epoch1_people = epoch1_people | push: person %}
+        {% elsif is_epoch2 %}
+            {% assign epoch2_people = epoch2_people | push: person %}
+        {% elsif is_epoch3 %}
+            {% assign epoch3_people = epoch3_people | push: person %}
+        {% elsif is_epoch4 %}
+            {% assign epoch4_people = epoch4_people | push: person %}
+        {% elsif is_epoch5 %}
+            {% assign epoch5_people = epoch5_people | push: person %}
+        {% elsif is_epoch6 %}
+            {% assign epoch6_people = epoch6_people | push: person %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}
+Display each epoch section
+{% endcomment %}
+
+{% if epoch1_people.size > 0 %}
+<h2 class="grid-section-heading">Whitepaper to "Red Wedding"</h2>
+<p class="grid-section-subheading">November 2013 to June 2014</p>
+<div class="people-grid-section">
+    {% for person in epoch1_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch2_people.size > 0 %}
+<h2 class="grid-section-heading">Stiftung Ethereum and ETHDEV</h2>
+<p class="grid-section-subheading">July 2014 to February 2015</p>
+<div class="people-grid-section">
+    {% for person in epoch2_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch3_people.size > 0 %}
+<h2 class="grid-section-heading">The Interregnum</h2>
+<p class="grid-section-subheading">March 2015 to June 2015</p>
+<div class="people-grid-section">
+    {% for person in epoch3_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch4_people.size > 0 %}
+<h2 class="grid-section-heading">The Ming Dynasty</h2>
+<p class="grid-section-subheading">July 2015 to January 2018</p>
+<div class="people-grid-section">
+    {% for person in epoch4_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch5_people.size > 0 %}
+<h2 class="grid-section-heading">The Infinite Garden</h2>
+<p class="grid-section-subheading">February 2018 to February 2025</p>
+<div class="people-grid-section">
+    {% for person in epoch5_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if epoch6_people.size > 0 %}
+<h2 class="grid-section-heading">Wartime CEO?</h2>
+<p class="grid-section-subheading">March 2025 onwards</p>
+<div class="people-grid-section">
+    {% for person in epoch6_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if other_people.size > 0 %}
+<h2 class="grid-section-heading">Other</h2>
+<p class="grid-section-subheading">Undated</p>
+<div class="people-grid-section">
+    {% for person in other_people %}
+        <a href="{{ person.url }}" class="grid-item">
+            <div class="photo-container">
+                {% if person.photo %}
+                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                {% else %}
+                    <div class="no-photo">?</div>
+                {% endif %}
+                <div class="name-overlay">{{ person.name }}</div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endif %}
+
+<style>
+.grid-section-heading {
+    width: 100%;
+    text-align: center;
+    margin: 40px 0 5px 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #333;
+}
+
+.grid-section-heading:first-of-type {
+    margin-top: 20px;
+}
+
+.grid-section-subheading {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 20px 0;
+    font-size: 0.95em;
+    color: #666;
+    font-style: italic;
+}
+
+.people-grid-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.people-grid-section .grid-item {
+    width: 120px;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.photo-container {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.8);
+}
+
+.photo-container img {
+    width: 105%;
+    height: 105%;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.no-photo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e0e0e0;
+    color: #888;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.name-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 70%, transparent 100%);
+    color: white;
+    padding: 8px 6px 6px 6px;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.2;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+    word-wrap: break-word;
+    hyphens: auto;
+    opacity: 1 !important;
+}
+
+/* Simple hover effect */
+.grid-item {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid-item:hover {
+    transform: translateY(-2px);
+}
+
+.grid-item:hover .photo-container {
+    box-shadow: 0 0 0 2px rgba(0,0,0,1);
+}
+
+/* Ensure proper spacing */
+.people-grid-section {
+    padding: 0 20px;
+}
+</style>
+
+<div class="grid-intro-section">
+    <p><strong>About this collection:</strong> These photos represent the diverse group of individuals who contributed to Ethereum's early development, from 2013 through 2018. Each person played a unique role in bringing the vision of a decentralized world computer to life.</p>
+    <p><a href="/people/" class="grid-back-link">← Back to People Index</a></p>
+</div>

@@ -113,7 +113,7 @@ echo "Using browser: ${BROWSER_BIN_RESOLVED}"
   --disable-gpu \
   --no-sandbox \
   --user-data-dir="${TMP_PROFILE}" \
-  --window-size=1600,10000 \
+  --window-size=7200,14400 \
   --screenshot="${DEST}" \
   "${URL}"
 echo "Saved screenshot to ${DEST}"

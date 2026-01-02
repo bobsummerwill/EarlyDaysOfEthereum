@@ -1,8 +1,11 @@
 ---
 name: Nicholas Lin
 start: Jul 2017
-end: Dec 2019
+end: Jan 2020
+photo: https://cdn.slidesharecdn.com/profile-photo-NicholasLin15-96x96.jpg?cb=1571458033
 social:
-  linkedin: https://www.linkedin.com/in/nicholas-lin-50267ba3/
+  medium: https://medium.com/@twedusuck/
+  github: https://github.com/NIC619
+  website: https://niclin.me/
 ---
 

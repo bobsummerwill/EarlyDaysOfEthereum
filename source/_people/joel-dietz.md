@@ -2,10 +2,10 @@
 name: Joel Dietz
 description: Meetup organizer, EtherCasts with Joris Bontje, his own Swarm project (not ethswarm)
 devcon0: '1801'
+photo: https://hackernoon.imgix.net/images/ZUe5l1n4sIYKBn1LvI1rfv58CLf2-l693qap.jpeg
 social:
   linkedin: https://www.linkedin.com/in/joeldietz/
   twitter: https://x.com/fractastical
-  github: https://github.com/joeldietz
   medium: https://metametajoel.medium.com/
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: Toya Budunguud
+photo: https://miro.medium.com/v2/resize:fit:720/format:webp/1*GLFzRK94w6dyCfPnDeiWRA.jpeg
 ---
 
 

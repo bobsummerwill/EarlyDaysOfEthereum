@@ -1,8 +1,8 @@
 ---
 name: Johann Gevers
 description: 'Co-Founder, Monetas and founder of "Crypto Valley"'
+photo: https://media.licdn.com/dms/image/v2/C4D03AQFgjm4WQAaV-A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645040375033?e=1769040000&v=beta&t=MWDSMWAEnjkj-Z_jidqTm-6jNXVgZireq9M2PBK3HiI
 social:
-  github: https://github.com/FellowTraveler
   linkedin: https://www.linkedin.com/in/johanngevers/
 ---
 

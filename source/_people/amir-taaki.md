@@ -1,7 +1,9 @@
 ---
 name: Amir Taaki
 description: '''Anarchist Amir'' to Amir Chetrit''s ''Capitalist Amir'', Gav met Johnny through Amir Taaki.'
+photo: https://data.prgblockweek.com/23/assets/events/ethprague/photos/speakers/amir-taaki.webp
 social:
+  github: https://github.com/genjix
   twitter: https://twitter.com/Narodism
   website: https://agorism.dev/
   wikipedia: https://en.wikipedia.org/wiki/Amir_Taaki

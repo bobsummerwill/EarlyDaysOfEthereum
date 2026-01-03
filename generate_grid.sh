@@ -108,6 +108,8 @@ fi
 
 echo "Capturing ${URL} to ${DEST}..."
 echo "Using browser: ${BROWSER_BIN_RESOLVED}"
+echo "Waiting 10 seconds for images to load..."
+sleep 10
 "${BROWSER_BIN_RESOLVED}" \
   --headless \
   --disable-gpu \

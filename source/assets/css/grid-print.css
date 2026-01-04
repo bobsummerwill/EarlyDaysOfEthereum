@@ -2,9 +2,11 @@
 html body {
     transform: scale(2.5) !important;
     transform-origin: top left !important;
-    width: 2750px !important;
-    padding: 30px !important;
+    width: 2880px !important;
+    padding: 20px !important;
     box-sizing: border-box !important;
+    overflow: hidden !important;
+    margin: 0 !important;
 }
 
 header, footer, .grid-intro-section, .people-grid-header, .stats {
@@ -15,7 +17,7 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
     display: flex !important;
     flex-wrap: wrap !important;
     gap: 10px !important;
-    width: 2700px !important;
+    width: 2840px !important;
     justify-content: center !important;
     margin: 0 auto 25px auto !important;
     padding: 0 !important;
@@ -38,7 +40,7 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
 
 .grid-section-heading,
 .grid-section-subheading {
-    width: 2700px !important;
+    width: 2840px !important;
     margin-left: auto !important;
     margin-right: auto !important;
     font-size: 3em !important;
@@ -50,7 +52,7 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
     justify-content: center !important;
     gap: 200px !important;
     margin: 30px 0 !important;
-    width: 2700px !important;
+    width: 2840px !important;
 }
 
 .side-section {
@@ -73,7 +75,7 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
     display: flex !important;
     justify-content: space-between !important;
     align-items: center !important;
-    width: 2700px !important;
+    width: 2840px !important;
     padding: 20px 0 !important;
     margin: 0 auto !important;
 }

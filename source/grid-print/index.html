@@ -267,7 +267,7 @@ Display each epoch section
 {% endcomment %}
 
 {% if epoch1_people.size > 0 %}
-<h2 class="grid-section-heading">Whitepaper to "Red Wedding" (November 2013 to June 2014)</h2>
+<h2 class="grid-section-heading">whitepaper to "red wedding" (nov 2013 to jun 2014)</h2>
 <div class="people-grid-section">
     {% for person in epoch1_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -285,7 +285,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch2_people.size > 0 %}
-<h2 class="grid-section-heading">Stiftung Ethereum and ETHDEV (July 2014 to February 2015)</h2>
+<h2 class="grid-section-heading">stiftung ethereum and ethdev (jul 2014 to feb 2015)</h2>
 <div class="people-grid-section">
     {% for person in epoch2_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -303,7 +303,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch3_people.size > 0 %}
-<h2 class="grid-section-heading">The Interregnum (March 2015 to June 2015)</h2>
+<h2 class="grid-section-heading">the interregnum (mar 2015 to jun 2015)</h2>
 <div class="people-grid-section">
     {% for person in epoch3_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -321,7 +321,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch4_people.size > 0 %}
-<h2 class="grid-section-heading">The Ming Dynasty (July 2015 to January 2018)</h2>
+<h2 class="grid-section-heading">the ming dynasty (jul 2015 to jan 2018)</h2>
 <div class="people-grid-section">
     {% for person in epoch4_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -342,7 +342,7 @@ Display each epoch section
 <div class="side-by-side-sections">
     {% if epoch5_people.size > 0 %}
     <div class="side-section">
-        <h2 class="grid-section-heading">The Infinite Garden (February 2018 to February 2025)</h2>
+        <h2 class="grid-section-heading">the infinite garden (feb 2018 to feb 2025)</h2>
         <div class="people-grid-section">
             {% for person in epoch5_people %}
                 <a href="{{ person.url }}" class="grid-item">
@@ -362,7 +362,7 @@ Display each epoch section
 
     {% if epoch6_people.size > 0 %}
     <div class="side-section">
-        <h2 class="grid-section-heading">Wartime CEO? (March 2025 onwards)</h2>
+        <h2 class="grid-section-heading">wartime ceo? (mar 2025 onwards)</h2>
         <div class="people-grid-section">
             {% for person in epoch6_people %}
                 <a href="{{ person.url }}" class="grid-item">
@@ -383,7 +383,7 @@ Display each epoch section
 {% endif %}
 
 {% if other_people.size > 0 %}
-<h2 class="grid-section-heading">Other (Undated)</h2>
+<h2 class="grid-section-heading">other (undated)</h2>
 <div class="people-grid-section">
     {% for person in other_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -399,6 +399,21 @@ Display each epoch section
     {% endfor %}
 </div>
 {% endif %}
+
+<div class="footer-section">
+    <div class="qr-code qr-left">
+        <img src="/images/qr-earlydaysofeth.png" alt="QR Code for earlydaysofeth.org">
+        <span>earlydaysofeth.org</span>
+    </div>
+    <div class="footer-center">
+        <p class="footer-title">early days of ethereum is supported by strato</p>
+        <p class="footer-url">https://github.com/bobsummerwill/EarlyDaysOfEthereum</p>
+    </div>
+    <div class="qr-code qr-right">
+        <img src="/images/qr-strato-nexus.png" alt="QR Code for strato.nexus">
+        <span>strato.nexus</span>
+    </div>
+</div>
 
 <style>
 .grid-section-heading {
@@ -517,6 +532,51 @@ Display each epoch section
 /* Ensure proper spacing */
 .people-grid-section {
     padding: 0 20px;
+}
+
+/* Footer section with QR codes */
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1780px;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+
+.qr-code {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qr-code img {
+    width: 180px;
+    height: 180px;
+}
+
+.qr-code span {
+    font-size: 2.4em;
+    margin-top: 8px;
+    color: #333;
+}
+
+.footer-center {
+    text-align: center;
+    flex: 1;
+}
+
+.footer-title {
+    font-size: 3em;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 10px 0;
+}
+
+.footer-url {
+    font-size: 2em;
+    color: #333;
+    margin: 0;
 }
 </style>
 

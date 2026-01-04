@@ -1,8 +1,10 @@
 /* Print layout overrides for grid-print page */
-body {
-    transform: scale(4.0) !important;
+html body {
+    transform: scale(2.5) !important;
     transform-origin: top left !important;
-    width: 1800px !important;
+    width: 2750px !important;
+    padding: 30px !important;
+    box-sizing: border-box !important;
 }
 
 header, footer, .grid-intro-section, .people-grid-header, .stats {
@@ -13,19 +15,19 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
     display: flex !important;
     flex-wrap: wrap !important;
     gap: 10px !important;
-    width: 1780px !important;
+    width: 2700px !important;
     justify-content: center !important;
-    margin: 0 auto 30px auto !important;
+    margin: 0 auto 25px auto !important;
     padding: 0 !important;
 }
 
 .people-grid-section .grid-item {
-    width: 168px !important;
+    width: 220px !important;
 }
 
 .photo-container {
-    width: 168px !important;
-    height: 168px !important;
+    width: 220px !important;
+    height: 220px !important;
 }
 
 .photo-container img {
@@ -36,7 +38,77 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
 
 .grid-section-heading,
 .grid-section-subheading {
-    width: 1780px !important;
+    width: 2700px !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    font-size: 3em !important;
+}
+
+/* Side-by-side sections for Infinite Garden and Wartime CEO */
+.side-by-side-sections {
+    display: flex !important;
+    justify-content: center !important;
+    gap: 200px !important;
+    margin: 30px 0 !important;
+    width: 2700px !important;
+}
+
+.side-section {
+    flex: 0 0 auto !important;
+}
+
+.side-section .grid-section-heading {
+    margin-top: 0 !important;
+    width: auto !important;
+    white-space: nowrap !important;
+}
+
+.side-section .people-grid-section {
+    width: 470px !important;
+    justify-content: center !important;
+}
+
+/* Footer section with QR codes */
+.footer-section {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 2700px !important;
+    padding: 20px 0 !important;
+    margin: 0 auto !important;
+}
+
+.qr-code {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.qr-code img {
+    width: 180px !important;
+    height: 180px !important;
+}
+
+.qr-code span {
+    font-size: 2.4em !important;
+    margin-top: 8px !important;
+    color: #333 !important;
+}
+
+.footer-center {
+    text-align: center !important;
+    flex: 1 !important;
+}
+
+.footer-title {
+    font-size: 3em !important;
+    font-weight: 600 !important;
+    color: #333 !important;
+    margin: 0 0 10px 0 !important;
+}
+
+.footer-url {
+    font-size: 2em !important;
+    color: #333 !important;
+    margin: 0 !important;
 }

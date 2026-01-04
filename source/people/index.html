@@ -285,11 +285,13 @@ Display people grouped by start date with epoch headings
         {% for person in people_in_date %}
         <div class="person-card">
             <div class="person-header">
-                {% if person.photo %}
-                    <div class="person-photo">
+                <div class="person-photo">
+                    {% if person.photo %}
                         <img src="{{ person.photo }}" alt="{{ person.name }}" />
-                    </div>
-                {% endif %}                
+                    {% else %}
+                        <div class="no-photo" aria-hidden="true">?</div>
+                    {% endif %}
+                </div>
                 <div class="person-info">
                     <h3><a href="{{ person.url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
                     
@@ -299,7 +301,8 @@ Display people grouped by start date with epoch headings
                     
                     {% if person.description %}
                     <p class="person-description">
-                        {% include auto_link.html content=person.description %}
+                        {% assign description_html = person.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+                        {% include auto_link.html content=description_html %}
                     </p>
                     {% endif %}
                     
@@ -411,11 +414,13 @@ Display people without start dates in "Other" section
         {% for person in sorted_other_people %}
         <div class="person-card">
             <div class="person-header">
-                {% if person.photo %}
-                    <div class="person-photo">
+                <div class="person-photo">
+                    {% if person.photo %}
                         <img src="{{ person.photo }}" alt="{{ person.name }}" />
-                    </div>
-                {% endif %}
+                    {% else %}
+                        <div class="no-photo" aria-hidden="true">?</div>
+                    {% endif %}
+                </div>
                 
                 <div class="person-info">
                     <h3><a href="{{ person.url }}">{{ person.name }}{% if person.nickname and person.nickname != '' %} ("{{ person.nickname }}"){% endif %}</a></h3>
@@ -426,7 +431,8 @@ Display people without start dates in "Other" section
                     
                     {% if person.description %}
                     <p class="person-description">
-                        {% include auto_link.html content=person.description %}
+                        {% assign description_html = person.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+                        {% include auto_link.html content=description_html %}
                     </p>
                     {% endif %}
                 </div>

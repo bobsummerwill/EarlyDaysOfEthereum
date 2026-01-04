@@ -31,16 +31,19 @@ embed-content-width: 50%
 
 <div class="person-card person-card-size">
   <div class="person-header">
-    {% if page.photo %}
-      <div class="person-photo">
+    <div class="person-photo">
+      {% if page.photo %}
         <img src="{{ page.photo }}" alt="{{ page.name }}" />
-      </div>
-    {% endif %}
+      {% else %}
+        <div class="no-photo" aria-hidden="true">?</div>
+      {% endif %}
+    </div>
     <div class="person-info">
       <h3><a href="{{ page.url }}">{{ page.name }}{% if page.nickname and page.nickname != '' %} ("{{ page.nickname }}"){% endif %}</a></h3>
       {% if page.description %}
         <p class="person-description">
-          {% include auto_link.html content=page.description %}
+          {% assign description_html = page.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+          {% include auto_link.html content=description_html %}
         </p>
       {% endif %}
       {% if page.start and page.start != "" %}

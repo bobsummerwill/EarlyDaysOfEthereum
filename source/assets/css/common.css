@@ -788,6 +788,32 @@ img {
     display: block !important;
 }
 
+/**
+ * No-photo Placeholder - Consistent "?" placeholder used across people views
+ *
+ * Matches the visual style used on the /grid/ people view so that
+ * cards without photos keep consistent spacing and alignment.
+ */
+.no-photo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e0e0e0;
+    color: #888;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+/* When used inside a .person-photo container, ensure the placeholder fills the frame */
+.person-photo .no-photo {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+}
+
 .person-photo img {
     position: absolute !important;
     left: 50% !important;

@@ -38,6 +38,12 @@ WINDOW_HEIGHT=14400
 
 mkdir -p "${SITE_DIR}/images"
 
+# Generate QR codes for the footer
+echo "Generating QR codes..."
+curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://earlydaysofeth.org" -o "${SITE_DIR}/images/qr-earlydaysofeth.png"
+curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://strato.nexus" -o "${SITE_DIR}/images/qr-strato-nexus.png"
+echo "QR codes generated."
+
 # Prefer Chromium/Chrome for headless capture; allow override via BROWSER_BIN.
 browser_candidates=(
   "${BROWSER_BIN:-}"

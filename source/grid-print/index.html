@@ -267,8 +267,7 @@ Display each epoch section
 {% endcomment %}
 
 {% if epoch1_people.size > 0 %}
-<h2 class="grid-section-heading">Whitepaper to "Red Wedding"</h2>
-<p class="grid-section-subheading">November 2013 to June 2014</p>
+<h2 class="grid-section-heading">Whitepaper to "Red Wedding" (November 2013 to June 2014)</h2>
 <div class="people-grid-section">
     {% for person in epoch1_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -286,8 +285,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch2_people.size > 0 %}
-<h2 class="grid-section-heading">Stiftung Ethereum and ETHDEV</h2>
-<p class="grid-section-subheading">July 2014 to February 2015</p>
+<h2 class="grid-section-heading">Stiftung Ethereum and ETHDEV (July 2014 to February 2015)</h2>
 <div class="people-grid-section">
     {% for person in epoch2_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -305,8 +303,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch3_people.size > 0 %}
-<h2 class="grid-section-heading">The Interregnum</h2>
-<p class="grid-section-subheading">March 2015 to June 2015</p>
+<h2 class="grid-section-heading">The Interregnum (March 2015 to June 2015)</h2>
 <div class="people-grid-section">
     {% for person in epoch3_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -324,8 +321,7 @@ Display each epoch section
 {% endif %}
 
 {% if epoch4_people.size > 0 %}
-<h2 class="grid-section-heading">The Ming Dynasty</h2>
-<p class="grid-section-subheading">July 2015 to January 2018</p>
+<h2 class="grid-section-heading">The Ming Dynasty (July 2015 to January 2018)</h2>
 <div class="people-grid-section">
     {% for person in epoch4_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -342,47 +338,52 @@ Display each epoch section
 </div>
 {% endif %}
 
-{% if epoch5_people.size > 0 %}
-<h2 class="grid-section-heading">The Infinite Garden</h2>
-<p class="grid-section-subheading">February 2018 to February 2025</p>
-<div class="people-grid-section">
-    {% for person in epoch5_people %}
-        <a href="{{ person.url }}" class="grid-item">
-            <div class="photo-container">
-                {% if person.photo %}
-                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
-                {% else %}
-                    <div class="no-photo">?</div>
-                {% endif %}
-                <div class="name-overlay">{{ person.name }}</div>
-            </div>
-        </a>
-    {% endfor %}
-</div>
-{% endif %}
+{% if epoch5_people.size > 0 or epoch6_people.size > 0 %}
+<div class="side-by-side-sections">
+    {% if epoch5_people.size > 0 %}
+    <div class="side-section">
+        <h2 class="grid-section-heading">The Infinite Garden (February 2018 to February 2025)</h2>
+        <div class="people-grid-section">
+            {% for person in epoch5_people %}
+                <a href="{{ person.url }}" class="grid-item">
+                    <div class="photo-container">
+                        {% if person.photo %}
+                            <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                        {% else %}
+                            <div class="no-photo">?</div>
+                        {% endif %}
+                        <div class="name-overlay">{{ person.name }}</div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
 
-{% if epoch6_people.size > 0 %}
-<h2 class="grid-section-heading">Wartime CEO?</h2>
-<p class="grid-section-subheading">March 2025 onwards</p>
-<div class="people-grid-section">
-    {% for person in epoch6_people %}
-        <a href="{{ person.url }}" class="grid-item">
-            <div class="photo-container">
-                {% if person.photo %}
-                    <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
-                {% else %}
-                    <div class="no-photo">?</div>
-                {% endif %}
-                <div class="name-overlay">{{ person.name }}</div>
-            </div>
-        </a>
-    {% endfor %}
+    {% if epoch6_people.size > 0 %}
+    <div class="side-section">
+        <h2 class="grid-section-heading">Wartime CEO? (March 2025 onwards)</h2>
+        <div class="people-grid-section">
+            {% for person in epoch6_people %}
+                <a href="{{ person.url }}" class="grid-item">
+                    <div class="photo-container">
+                        {% if person.photo %}
+                            <img src="{{ person.photo }}" alt="{{ person.description }}" loading="lazy">
+                        {% else %}
+                            <div class="no-photo">?</div>
+                        {% endif %}
+                        <div class="name-overlay">{{ person.name }}</div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
 </div>
 {% endif %}
 
 {% if other_people.size > 0 %}
-<h2 class="grid-section-heading">Other</h2>
-<p class="grid-section-subheading">Undated</p>
+<h2 class="grid-section-heading">Other (Undated)</h2>
 <div class="people-grid-section">
     {% for person in other_people %}
         <a href="{{ person.url }}" class="grid-item">
@@ -403,7 +404,7 @@ Display each epoch section
 .grid-section-heading {
     width: 100%;
     text-align: center;
-    margin: 40px 0 5px 0;
+    margin: 40px 0 20px 0;
     font-size: 1.5em;
     font-weight: 600;
     color: #333;
@@ -413,13 +414,23 @@ Display each epoch section
     margin-top: 20px;
 }
 
-.grid-section-subheading {
-    width: 100%;
-    text-align: center;
-    margin: 0 0 20px 0;
-    font-size: 0.95em;
-    color: #666;
-    font-style: italic;
+.side-by-side-sections {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 40px 0;
+}
+
+.side-section {
+    flex: 0 1 auto;
+}
+
+.side-section .grid-section-heading {
+    margin-top: 0;
+}
+
+.side-section .people-grid-section {
+    justify-content: flex-start;
 }
 
 .people-grid-section {

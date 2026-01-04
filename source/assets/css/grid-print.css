@@ -1,36 +1,31 @@
 /* Print layout overrides for grid-print page */
 body {
-    transform: scale(4.5) !important;
+    transform: scale(4.0) !important;
     transform-origin: top left !important;
-    width: 1600px !important;
+    width: 1800px !important;
 }
 
-footer, .grid-intro-section {
+header, footer, .grid-intro-section, .people-grid-header, .stats {
     display: none !important;
-}
-
-header, .page-header, nav, .stats {
-    width: 1567px !important;
-    margin: 0 auto !important;
 }
 
 .people-grid-section {
     display: flex !important;
     flex-wrap: wrap !important;
-    gap: 13px !important;
-    width: 1567px !important;
+    gap: 10px !important;
+    width: 1780px !important;
     justify-content: center !important;
-    margin: 0 auto 40px auto !important;
+    margin: 0 auto 30px auto !important;
     padding: 0 !important;
 }
 
 .people-grid-section .grid-item {
-    width: 145px !important;
+    width: 168px !important;
 }
 
 .photo-container {
-    width: 145px !important;
-    height: 145px !important;
+    width: 168px !important;
+    height: 168px !important;
 }
 
 .photo-container img {
@@ -41,7 +36,7 @@ header, .page-header, nav, .stats {
 
 .grid-section-heading,
 .grid-section-subheading {
-    width: 1567px !important;
+    width: 1780px !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }

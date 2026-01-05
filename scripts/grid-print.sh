@@ -38,12 +38,6 @@ WINDOW_HEIGHT=14400
 
 mkdir -p "${SITE_DIR}/images"
 
-# Generate QR codes for the footer
-echo "Generating QR codes..."
-curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://earlydaysofeth.org" -o "${SITE_DIR}/images/qr-earlydaysofeth.png"
-curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://strato.nexus" -o "${SITE_DIR}/images/qr-strato-nexus.png"
-echo "QR codes generated."
-
 # Prefer Chromium/Chrome for headless capture; allow override via BROWSER_BIN.
 browser_candidates=(
   "${BROWSER_BIN:-}"
@@ -128,6 +122,13 @@ if ! curl -fsS "${URL}" >/dev/null 2>&1; then
 fi
 
 echo "Server ready at ${URL}"
+
+# Generate QR codes for the footer (after Jekyll builds _site)
+echo "Generating QR codes..."
+curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://earlydaysofeth.org" -o "${SITE_DIR}/images/qr-earlydaysofeth.png"
+curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://strato.nexus" -o "${SITE_DIR}/images/qr-strato-nexus.png"
+echo "QR codes generated."
+
 echo "Waiting 10 seconds for images to load..."
 sleep 10
 

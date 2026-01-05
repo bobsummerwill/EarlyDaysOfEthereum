@@ -103,14 +103,14 @@ header, footer, .grid-intro-section, .people-grid-header, .stats {
 }
 
 .footer-title {
-    font-size: 3em !important;
+    font-size: 4em !important;
     font-weight: 600 !important;
     color: #333 !important;
-    margin: 0 0 10px 0 !important;
+    margin: 0 !important;
 }
 
-.footer-url {
-    font-size: 2em !important;
-    color: #333 !important;
-    margin: 0 !important;
+/* Larger name labels for print */
+.name-overlay {
+    font-size: 20px !important;
+    padding: 10px 4px 6px 4px !important;
 }

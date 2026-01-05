@@ -123,14 +123,15 @@ fi
 
 echo "Server ready at ${URL}"
 
-# Generate QR codes for the footer (after Jekyll builds _site)
-echo "Generating QR codes..."
-curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://earlydaysofeth.org" -o "${SITE_DIR}/images/qr-earlydaysofeth.png"
-curl -s "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://strato.nexus" -o "${SITE_DIR}/images/qr-strato-nexus.png"
-echo "QR codes generated."
-
 echo "Waiting 10 seconds for images to load..."
 sleep 10
+
+# Generate QR codes for the footer (after sleep so Jekyll doesn't overwrite them)
+echo "Generating QR codes..."
+curl -sS -f 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://earlydaysofeth.org' -o "${SITE_DIR}/images/qr-earlydaysofeth.png" || echo "ERROR: Failed to generate earlydaysofeth QR code"
+curl -sS -f 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://strato.nexus' -o "${SITE_DIR}/images/qr-strato-nexus.png" || echo "ERROR: Failed to generate strato QR code"
+ls -la "${SITE_DIR}/images/qr-"*.png
+echo "QR codes generated."
 
 echo "Capturing screenshot..."
 echo "  Browser: ${BROWSER_BIN_RESOLVED}"

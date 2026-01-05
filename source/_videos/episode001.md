@@ -84,7 +84,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 {% include content-embed.html
   url="https://twit.tv/shows/security-now/episodes/287"
-  img="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security%20Now/hero/SN_SocialBanner_4K.jpeg?h=7ae34b4a"
+  img="/images/elroy.twit.tv/2026.01.05/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security_Now/hero/SN_SocialBanner_4K.jpeg"
   title="Security Now 287 - BitCoin CryptoCurrency"
   description='Firefox adds "Do Not Track", Verizon alters web content, McAfee on Mobile Malware, BitCoin, and more.'
   site="twit.tv"
@@ -93,7 +93,7 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 {% include content-embed.html
   url="https://twit.tv/shows/security-now/episodes/288"
-  img="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security%20Now/hero/SN_SocialBanner_4K.jpeg?h=7ae34b4a"
+  img="/images/elroy.twit.tv/2026.01.05/sites/default/files/styles/twit_slideshow_1600x400/public/images/shows/Security_Now/hero/SN_SocialBanner_4K.jpeg"
   title="Security Now 288 - Your Questions, Steve's Answers #111"
   description='A critical Microsoft vulnerability, The differences between open and closed source software, A number of questions around BitCoin, and more.'
   site="twit.tv"

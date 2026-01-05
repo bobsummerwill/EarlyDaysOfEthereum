@@ -85,7 +85,7 @@ I stuck that epic rant into blog form a few days later:
 
 {% include content-embed.html
   url="https://bobsummerwill.com/2018/03/01/a-call-for-an-end-to-tribalism-in-ethereum/"
-  img="https://bobsummerwill.com/wp-content/uploads/2018/03/tribalism.jpg"
+  img="/images/bobsummerwill.com/2026.01.05/wp-content/uploads/2018/03/tribalism.jpg"
   title="A call for an end to tribalism in Ethereum"
   site="https://bobsummerwill.com"
   author="Bob Summerwill"
@@ -96,7 +96,7 @@ And that turned into my opening keynote at the very first [ETHCC](https://ethcc.
 
 {% include content-embed.html
   url="https://bobsummerwill.com/2018/03/08/ethereum-community-conference-2018/"
-  img="https://bobsummerwill.com/wp-content/uploads/2018/03/mvimg_20180308_0926082152047230452517189.jpg"
+  img="/images/bobsummerwill.com/2026.01.05/wp-content/uploads/2018/03/mvimg_20180308_0926082152047230452517189.jpg"
   title="Ethereum Community Conference 2018"
   site="https://bobsummerwill.com"
   author="Bob Summerwill"

@@ -5,7 +5,7 @@ author: Gavin Wood
 description: "Gavin Wood's second development update covering Whisper prototype, ÐΞVHUB Berlin progress, new team hires, and the first JIT-compiled LLVM-based EVM with 30x speedup"
 embed:
   url: https://blog.ethereum.org/2014/11/01/gavs-ethereum-dev-update-ii
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

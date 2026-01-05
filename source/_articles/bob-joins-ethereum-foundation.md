@@ -5,7 +5,7 @@ author: Bob Summerwill
 description: "Bob Summerwill announces he will be starting as a part-time contractor for the Ethereum Foundation, working on the Ethereum C++ client after months of obsessive work via doublethink.co"
 embed:
   url: https://bobsummerwill.com/2016/02/10/dream-job-working-for-ethereum-foundation/
-  img: https://bobsummerwill.com/wp-content/uploads/2016/02/ethereum_040414.jpg
+  img: /images/bobsummerwill.com/2026.01.05/wp-content/uploads/2016/02/ethereum_040414.jpg
   site: Bob's Blog
 ---
 

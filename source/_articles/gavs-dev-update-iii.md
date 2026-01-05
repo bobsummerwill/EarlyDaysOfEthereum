@@ -5,7 +5,7 @@ author: Gavin Wood
 description: "Gavin Wood's third development update announcing new hires (Sven Ehlert, Jutta Steiner, Yann Levreau, Arkadiy Paronyan), Berlin hub progress with Sarah O'Neill, and ÐΞVcon-0 preparations"
 embed:
   url: https://blog.ethereum.org/2014/11/18/gavs-dev-update-iii
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

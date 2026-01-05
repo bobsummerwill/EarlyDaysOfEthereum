@@ -4,7 +4,7 @@ date: 2015-06-15
 author: Gavin Wood
 embed:
   url: https://blog.ethereum.org/2015/06/15/another-ethereum-dev-update
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Fposts%2Fyouth.jpg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/blog_images/youth.jpg
   site: Ethereum Foundation Blog
 ---
 

@@ -4,7 +4,7 @@ nickname: luclu
 description: Mist team member
 start: Apr 2016
 end: Jul 2016
-photo: https://github.com/luclu.png
+photo: /images/github.com/2026.01.05/luclu.png
 social:
   github: https://github.com/luclu
 ---

@@ -1,6 +1,6 @@
 ---
 name: Aaron Wright
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_sQ2iB6JyhayQDVULkCM2YbxKWJyJnxIRA&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   github: https://github.com/awrigh01
   twitter: https://x.com/awrigh01

@@ -4,7 +4,7 @@ date: 2015-11-08
 description: "The first public Ethereum developer conference held in London, UK"
 embed:
   url: https://web.archive.org/web/20160107084411/https://devcon.ethereum.org/
-  img: https://web.archive.org/web/20160107084411/https://devcon.ethereum.org/img/slide1.png
+  img: /images/web.archive.org/2026.01.05/web/20160107084411/https-//devcon.ethereum.org/img/slide1.png
   site: devcon.ethereum.org
 ---
 

@@ -3,7 +3,7 @@ title: "Ethereum Timeline"
 date: 2013-12-19
 author: "Bob Summerwill"
 description: "An attempt at building up some canonical history of the Ethereum Project and the Ethereum Foundation, documenting key events, videos, and milestones from 2013-2017."
-img: https://duncan.co/wp-content/uploads/2014/04/Duncan-Rawlinson-Photo-89446-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8831-1024x576.jpg
+img: /images/duncan.co/2026.01.05/wp-content/uploads/2014/04/Duncan-Rawlinson-Photo-89446-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8831-1024x576.jpg
 ---
 
 This is an attempt by [Bob Summerwill](https://bobsummerwill.com/about) (along with [Ethereum Foundation People](https://bobsummerwill.com/ethereum-foundation-people/)) at building up some canonical history of the Ethereum Project and the Ethereum Foundation.
@@ -33,7 +33,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   site="https://epicenter.tv"
   date="Oct 31st, 2018"
   url="https://epicenter.tv/episodes/259/"
-  img="https://image.simplecastcdn.com/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
+  img="/images/image.simplecastcdn.com/2026.01.05/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 
 {% include video-embed.html
@@ -57,7 +57,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   title="Can Ethereum Kill Bitcoin With Self-Executing Contracts?"
   date="February 12, 2014"
   site="SiliconAngle"
-  img="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
+  img="/images/d15shllkswkct0.cloudfront.net/2026.01.05/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
 %}
 
 {% include video-embed.html

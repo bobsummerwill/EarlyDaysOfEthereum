@@ -4,7 +4,7 @@ date: 2013-10-30
 description: In July 2013, Johann Gevers relocated his cryptofinance startup, Monetas (a Bitcoin payment system), to Zug, envisioning it as a "global hub for crypto technologies" modeled after Silicon Valley.
 embed:
   url: https://cryptovalley.swiss/about-us/
-  img: https://b2161880.smushcdn.com/2161880/wp-content/uploads/2017/11/Crypto-Valley-logo.jpg?lossy=1&strip=1&webp=1
+  img: /images/b2161880.smushcdn.com/2026.01.05/2161880/wp-content/uploads/2017/11/Crypto-Valley-logo.jpg
   site: Crypto Valley Association website
 ---
 

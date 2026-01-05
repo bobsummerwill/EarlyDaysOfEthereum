@@ -54,7 +54,7 @@ table_of_contents:
   title="Dark Prague"
   description="Dark Prague is a premier conference and community hub for blockchain, cryptography, and decentralized technologies in Prague."
   site="darkprague.com"
-  img="https://darkprague.com/wp-content/uploads/2025/07/Untitled-6.png"
+  img="/images/darkprague.com/2026.01.05/wp-content/uploads/2025/07/Untitled-6.png"
 %}
 
 [[00:54]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=54s) **Amir Taaki:** Just curious.  How come you're doing this project?
@@ -267,7 +267,7 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 [[22:46]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=1366s) **Amir Taaki:** Well, the thing is, there's this book from the 90s, which is [The Sovereign Individual](https://en.wikipedia.org/wiki/The_Sovereign_Individual), right. I'm not saying I agree with all the book, but it does make interesting analysis. It's definitely worth studying. And it says that, it's from 1997, and it's talking about cryptocurrency, and it's saying how the invention of cryptography will enable the proliferation of markets, like cyber markets in cyberspace, right. And the capital will become hyper liquid and will be able to flow from any place to any other place. And the governments would lose their power to tax this capital or control this capital. And therefore, it would inherently change the logic of violence. And this is also a very big idea originally in crypto as well. Early days of Bitcoin, people would always bring up this book. And yet, it hasn't come to fruition. So, you know, just in case, it hasn't come to fruition. And so we have to ask ourselves why. Like, I don't think the thesis is wrong. I just, I think the thing that they missed was surveillance because the surveillance apparatus obviously can monitor all the flows or the activity of people. And if you can do that, then now you have law enforcement. Right. So, yeah.
 
-![sovereign](https://m.media-amazon.com/images/I/51wvIwu63vL._SL240_CATL,225,225_RO112,1,0,0,0,0,0,0,8_.jpg)
+![sovereign](/images/m.media-amazon.com/2026.01.05/images/I/51wvIwu63vL._SL240_.jpg)
 
 [[24:43]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=1483s) **Bob Summerwill:** And, you know, you...
 
@@ -281,7 +281,7 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 [[26:36]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=1596s) **Bob Summerwill:** So when did your focus switch to [Dark Wallet](https://github.com/darkwallet/darkwallet)?
 
-![amir and cody](https://m.media-amazon.com/images/M/MV5BNDNhZmMxNmEtMDUxNy00MTU1LTliNTEtNmU1MTI5ODJlNzUzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg)
+![amir and cody](/images/m.media-amazon.com/2026.01.05/images/M/MV5BNDNhZmMxNmEtMDUxNy00MTU1LTliNTEtNmU1MTI5ODJlNzUzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg)
 
 [[26:42]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=1602s) **Amir Taaki:** So actually, I made the first [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) and [Stealth implementations](https://github.com/darkwallet/stealth.js) in Bitcoin, which are the very first privacy techniques. And so I was working on Bitcoin implementations, nodes, but I was also focused on the privacy. So I already did those projects before.
 
@@ -618,7 +618,7 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 [[46:32]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2792s) **Amir Taaki:** So [Libbitcoin](https://libbitcoin.info/) had serious technical innovation in there. It has the fastest blockchain database of any Bitcoin node. And this guy, [Eric Voskuil](https://x.com/evoskuil), who's a really skilled developer, he came and he took on that mission and he's still continuing it. Yeah, he's just really into it. I've tried a few times to poach him to [DarkFi](https://dark.fi), ZK, other stuff. He's a really good developer, but he's just like, no, I just like Bitcoin. Yeah, I just work on [Libbitcoin](https://libbitcoin.info/). So, yeah, he's laser focused on that.
 
-![eric](https://bitcoinsaigon.org/assets/images/voskuil.jpg)
+![eric](/images/bitcoinsaigon.org/2026.01.05/assets/images/voskuil.jpg)
 
 [[47:03]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2823s) **Bob Summerwill:** Yes, I've got to meet him in person for the first time last year, I think, after lots of, you know.
 

@@ -5,7 +5,7 @@ author: George Hallam
 description: "A comprehensive recap of the first Ethereum developer conference held in Berlin from November 24-28, 2014, covering mission, processes, languages, ÐApps, architecture, security, and future blockchain theory"
 embed:
   url: https://blog.ethereum.org/2014/12/05/devcon-0-recap
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Fposts%2FDEV-CON-POSTERSblog.jpg&w=3840&q=75
+  img: /images/blog.ethereum.org/2026.01.05/blog_images/DEV-CON-POSTERSblog.jpg
   site: Ethereum Foundation Blog
 ---
 

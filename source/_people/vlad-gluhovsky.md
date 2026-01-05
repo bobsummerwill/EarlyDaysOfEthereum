@@ -1,6 +1,6 @@
 ---
 name: Vlad Gluhovsky
-photo: https://github.com/gluk256.png
+photo: /images/github.com/2026.01.05/gluk256.png
 social:
   github: https://github.com/gluk256
 ---

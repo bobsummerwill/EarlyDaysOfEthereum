@@ -2,7 +2,7 @@
 name: Marc Garreau
 description: Mist, Grid, Python, Protocol support
 start: Sep 2017
-photo: https://github.com/wolovim.png
+photo: /images/github.com/2026.01.05/wolovim.png
 social:
   twitter: https://x.com/wolovim
   github: https://github.com/wolovim

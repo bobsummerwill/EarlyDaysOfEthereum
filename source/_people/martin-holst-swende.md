@@ -3,7 +3,7 @@ name: Martin Holst Swende
 description: Geth maintainer and security guy
 start: Sep 2016
 end: Apr 2025
-photo: https://dyno-security.se/martin2.jpg
+photo: /images/dyno-security.se/2026.01.05/martin2.jpg
 social:
   linkedin: https://www.linkedin.com/in/martin-holst-swende-a6664/
   twitter: https://x.com/mhswende

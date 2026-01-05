@@ -4,7 +4,7 @@ date: 2015-07-30
 author: Stephan Tual
 embed:
   url: https://blog.ethereum.org/2015/07/30/ethereum-launches
-  img: https://pbs.twimg.com/media/GxFepdEXEAAbsbt.jpg
+  img: /images/pbs.twimg.com/2026.01.05/media/GxFepdEXEAAbsbt.jpg
   site: Ethereum Foundation Blog
 ---
 

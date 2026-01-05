@@ -1,7 +1,7 @@
 ---
 name: Camila Russo
 description: Author of The Infinite Machine
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5YWts0lFm2CvkJHM765T9fgon9nnPzs4_Q&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   twitter: https://x.com/CamiRusso
   website: https://www.camirusso.com/

@@ -3,7 +3,7 @@ name: Lilit Penrod
 description: Volunteer at DEVCON2 and DEVCON3
 start: Jul 2016
 end: Sep 2016
-photo: https://www.spoopyghosties.com/wp-content/uploads/2020/09/Laura-2-4-767x1024.jpg
+photo: /images/spoopyghosties.com/2026.01.05/wp-content/uploads/2020/09/Laura-2-4-767x1024.jpg
 social:
   twitter: https://twitter.com/Cheerio_Buffet
 ---

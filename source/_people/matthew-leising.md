@@ -1,7 +1,7 @@
 ---
 name: Matthew Leising
 description: Author of Out of The Ether
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhypx6fHlXCs5dfczo8x-Ws0xjG4iORcxP-A&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   twitter: https://x.com/mattleising
   linkedin: https://www.linkedin.com/in/matthew-leising-5278b85/

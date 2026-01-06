@@ -3,7 +3,7 @@ name: Everton Fraga
 description: Mist team member
 start: Apr 2016
 end: Nov 2020
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGy40t9SCONPLeVCBf3j2BecQc6Ilc6S9mw&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   github: https://github.com/evertonfraga
   linkedin: https://www.linkedin.com/in/evertonfraga/

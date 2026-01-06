@@ -82,7 +82,7 @@ Yes. And it happened, I think, the second day I was there. And that was the same
 
 {% include content-embed.html
   url="https://blog.ethereum.org/2015/08/20/security-alert-consensus-issue"
-  img="https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75"
+  img="/images/blog.ethereum.org/2026.01.05/_next/image.jpg"
   title="Security alert [consensus issue]"
   author="Jutta Steiner"
   date="2015-08-20"

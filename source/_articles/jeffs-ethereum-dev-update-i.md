@@ -5,7 +5,7 @@ author: Jeff Wilcke
 description: "Jeff Wilcke's first development update covering the Amsterdam hub setup, team introductions, and progress on Mist browser and ethereum.js"
 embed:
   url: https://blog.ethereum.org/2014/11/02/jeffs-ethereum-dev-update
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

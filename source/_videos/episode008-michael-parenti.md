@@ -48,7 +48,7 @@ table_of_contents:
   title="Dark Prague"
   description="Dark Prague is a premier conference and community hub for blockchain, cryptography, and decentralized technologies in Prague."
   site="darkprague.com"
-  img="https://darkprague.com/wp-content/uploads/2025/07/Untitled-6.png"
+  img="/images/darkprague.com/2026.01.05/wp-content/uploads/2025/07/Untitled-6.png"
 %}
 
 [[00:13]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=13s) **Michael Parenti:** Hey, good to see you again, Bob.
@@ -207,7 +207,7 @@ table_of_contents:
   description="The first brick-and-mortar business to accept Bitcoin was Room 77, a bar and restaurant in the Kreuzberg district of Berlin, Germany."
   site="Bitcoin History"
   author="Bitcoin History"
-  img="https://bitcoinhistory.blob.core.windows.net/bitcoinhistory/725b2d84-79c4-43f0-a277-c184307b892f"
+  img="/images/bitcoinhistory.blob.core.windows.net/2026.01.05/bitcoinhistory/725b2d84-79c4-43f0-a277-c184307b892f.jpg"
 %}
 
 {% include content-embed.html
@@ -217,7 +217,7 @@ table_of_contents:
   site="CoinDesk"
   author="Colin Harper"
   date="October 19, 2020"
-  img="https://cdn.sanity.io/images/s3y3vcno/production/9648b49a2885fcb78fbf50b1efdbf5b63a574ff5-1420x918.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+  img="/images/cdn.sanity.io/2026.01.05/images/s3y3vcno/production/9648b49a2885fcb78fbf50b1efdbf5b63a574ff5-1420x918.png"
 %}
 
 [[07:28]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=448s) **Bob Summerwill:** Okay, okay.
@@ -265,7 +265,7 @@ table_of_contents:
   title="Metalab"
   description="Metalab is Vienna's hackerspace, founded in 2006. It is one of Europe's oldest hackerspaces and a hub for creative technology and maker culture."
   site="metalab.at"
-  img="https://metalab.at/images/hackspace.webp"
+  img="/images/metalab.at/2026.01.05/images/hackspace.webp"
 %}
 
 {% include content-embed.html
@@ -322,7 +322,7 @@ table_of_contents:
   site="CoinDesk"
   author="Bruce Fenton"
   date="April 18, 2017"
-  img="https://cdn.sanity.io/images/s3y3vcno/production/bc4d7ca7e8790b8b12c87d843cb78e3ea988c32e-1500x844.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+  img="/images/cdn.sanity.io/2026.01.05/images/s3y3vcno/production/bc4d7ca7e8790b8b12c87d843cb78e3ea988c32e-1500x844.jpg"
 %}
 
 *(Bob: Here is [the schedule](https://www.scribd.com/document/201301458/BTC-Miami-Program-Final-Preview-5) for the conference.  Some other speakers there included Wendell Davis and Chris Odom)*
@@ -344,7 +344,7 @@ table_of_contents:
   title="Department of Decentralization"
   description="The website for the Department of Decentralization"
   site="dod.ngo"
-  img="https://dod.ngo/static/images/twitter-card-dod.png"
+  img="/images/dod.ngo/2026.01.05/static/images/twitter-card-dod.png"
 %}
 
 [[13:09]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=789s) **Bob Summerwill:** Yeah, yeah.
@@ -366,7 +366,7 @@ table_of_contents:
   title="Ethereum Classic Cooperative"
   description="Accelerating the growth of Ethereum Classic."
   site="etccooperative.org"
-  img="https://etccooperative.org/etc-coop-social.png"
+  img="/images/etccooperative.org/2026.01.05/etc-coop-social.png"
 %}
 
 [[13:35]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=815s) **Michael Parenti:** Funding for [Goerli](https://github.com/eth-clients/goerli) came from the [ETC Cooperative](https://etccooperative.org/).
@@ -443,7 +443,7 @@ table_of_contents:
 
 {% include content-embed.html
   url="https://www.edcon.io/"
-  img="https://en.cryptonomist.ch/wp-content/uploads/2020/01/Edcon.jpg"
+  img="/images/en.cryptonomist.ch/2026.01.05/wp-content/uploads/2020/01/Edcon.jpg"
   title="EDCON 2025 - Community Ethereum Development Conference | Osaka, August - September, 2025"
   description="Join the global Ethereum community at EDCON 2025 in Osaka, Japan, from August - September . Explore the latest in Ethereum technology through workshops, keynotes, and networking opportunities. Don’t miss this premier global Ethereum event!"
   site="edcon.io"
@@ -542,7 +542,7 @@ table_of_contents:
 
 [[22:29]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1349s) **Michael Parenti:** So another thing that I think is really interesting is seeing the is seeing what's going on now with actually Enterprise Ethereum.  And you were at the [EEA](/articles/enterprise-ethereum-alliance) at the beginning, which was super logical for me. But it was too early because there wasn't really any clients. You were just doing educational work.
 
-![eea](https://entethalliance.github.io/client-spec/images/eea_logo.svg)
+![eea](/images/entethalliance.github.io/2026.01.05/client-spec/images/eea_logo.svg)
 
 [[22:47]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1367s) **Bob Summerwill:** Pilots.
 
@@ -556,7 +556,7 @@ table_of_contents:
 
 [[23:18]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1398s) **Michael Parenti:** Was [Jon Matonis](https://www.linkedin.com/in/jonmatonis/), who was the director of the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), went to. Came to Vienna to talk to bankers and diplomats.
 
-![jon](https://static01.nyt.com/images/2014/10/31/business/dbpix-matonis/dbpix-matonis-blog480.jpg)
+![jon](/images/static01.nyt.com/2026.01.05/images/2014/10/31/business/dbpix-matonis/dbpix-matonis-blog480.jpg)
 
 [[23:28]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=1408s) **Bob Summerwill:** Right, right.
 

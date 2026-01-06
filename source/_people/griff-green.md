@@ -1,6 +1,6 @@
 ---
 name: Griff Green
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgCRg150BRZccCFORFpGPOVDfRPmfKmGUbPg&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   twitter: https://x.com/griffgreen
   github: https://github.com/GriffGreen

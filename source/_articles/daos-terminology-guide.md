@@ -4,7 +4,7 @@ date: 2014-05-06
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

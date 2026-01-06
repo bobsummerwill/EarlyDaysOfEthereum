@@ -3,7 +3,7 @@ name: Ulrich Petri
 description: Python developer
 start: Aug 2015
 end: Nov 2016 (but never in the EF)
-photo: https://github.com/ulope.png
+photo: /images/github.com/2026.01.05/ulope.png
 social:
   github: https://github.com/ulope
   twitter: https://x.com/ulope

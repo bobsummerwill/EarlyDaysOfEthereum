@@ -1,6 +1,6 @@
 ---
 name: Julian Zawistowski
-photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqrAUlBrqR7caU0H0CKtZjftcMsOpqnQ_QrA&s
+photo: /images/encrypted-tbn0.gstatic.com/2026.01.05/images.jpg
 social:
   github: https://github.com/jzaw
   twitter: https://x.com/julianzawist

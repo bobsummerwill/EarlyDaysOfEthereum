@@ -2,7 +2,7 @@
 name: Michael Parenti
 start: Dec 2013
 end: present
-photo: https://powsummit.com/img/speakers/michaelp.jpg
+photo: /images/powsummit.com/2026.01.05/img/speakers/michaelp.jpg
 interview: /videos/episode008-michael-parenti/
 social:
   github: https://github.com/exiledsurfer

@@ -1,7 +1,7 @@
 ---
 name: Gavin Andresen
 description: Chief Scientist, [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation)
-photo: https://github.com/gavinandresen.png
+photo: /images/github.com/2026.01.05/gavinandresen.png
 social:
   github: https://github.com/gavinandresen
   wikipedia: https://en.wikipedia.org/wiki/Gavin_Andresen

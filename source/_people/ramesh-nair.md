@@ -3,7 +3,7 @@ name: Ramesh Nair
 description: Mist
 start: May 2016
 end: Oct 2016
-photo: https://github.com/hiddentao.png
+photo: /images/github.com/2026.01.05/hiddentao.png
 social:
   twitter: https://x.com/hiddentao
   github: https://github.com/hiddentao

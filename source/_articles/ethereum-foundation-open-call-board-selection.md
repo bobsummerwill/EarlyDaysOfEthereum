@@ -4,7 +4,7 @@ date: 2015-04-10
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2015/04/10/ethereum-foundation-open-call-re-board-selection
-  img: https://blog.ethereum.org/_next/image?url=%2Fimages%2Feth-org.jpeg&w=1080&q=75
+  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

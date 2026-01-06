@@ -1,5 +1,5 @@
 ---
 name: Aron Fisher
 description: Swarm
-photo: https://i.ytimg.com/vi/xXsR7rXNBJM/maxresdefault.jpg
+photo: /images/i.ytimg.com/2026.01.05/vi/xXsR7rXNBJM/maxresdefault.jpg
 ---

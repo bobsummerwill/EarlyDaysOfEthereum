@@ -2,7 +2,7 @@
 name: Jon Choi
 start: Sep 2017
 end: Aug 2018
-photo: https://i.ytimg.com/vi/7p-iP-OWCUs/maxresdefault.jpg
+photo: /images/i.ytimg.com/2026.01.05/vi/7p-iP-OWCUs/maxresdefault.jpg
 social:
   github: https://github.com/jonchoi
   twitter: https://x.com/jon_choi_

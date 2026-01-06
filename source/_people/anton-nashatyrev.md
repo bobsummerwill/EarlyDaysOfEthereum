@@ -1,6 +1,6 @@
 ---
 name: Anton Nashatyrev
-photo: https://github.com/Nashatyrev.png
+photo: /images/github.com/2026.01.05/Nashatyrev.png
 social:
   github: https://github.com/Nashatyrev
 ---

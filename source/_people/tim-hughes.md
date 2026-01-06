@@ -3,7 +3,7 @@ name: Tim Hughes
 description: Ethash
 start: Jan 2014
 end: Mar 2014
-photo: https://avatars.githubusercontent.com/u/3240067
+photo: /images/avatars.githubusercontent.com/2026.01.05/u/3240067.jpg
 social:
   github: https://github.com/TiimJiim
 ---

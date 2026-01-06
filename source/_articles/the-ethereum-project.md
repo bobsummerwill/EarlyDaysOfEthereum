@@ -4,7 +4,7 @@ date: 2014-07-14
 author: Mihai Alisie
 embed:
   url: https://blog.ethereum.org/2014/07/14/the-ethereum-project
-  img: https://web.archive.org/web/20140814124235im_/https://blog.ethereum.org/wp-content/uploads/2014/07/soulsearching.jpg
+  img: /images/web.archive.org/2026.01.05/web/20140814124235im_/https-//blog.ethereum.org/wp-content/uploads/2014/07/soulsearching.jpg
   site: Ethereum Foundation Blog
 ---
 

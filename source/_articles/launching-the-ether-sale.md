@@ -4,7 +4,7 @@ date: 2014-07-22
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2014/07/22/launching-the-ether-sale
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

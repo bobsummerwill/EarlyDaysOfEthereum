@@ -5,7 +5,7 @@ author: Gavin Wood
 description: "Gavin Wood's fourth development update following ÐΞVcon-0, announcing new hires (Arkadiy Paronyan, Gustav Simonsson, Dimitry Khokhlov, Jason Colby), ethdev.com launch, Whisper milestone, and stress-testing infrastructure"
 embed:
   url: https://blog.ethereum.org/2014/12/15/gavs-ethereum-dev-update-iv
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

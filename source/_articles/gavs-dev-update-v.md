@@ -5,7 +5,7 @@ author: Gavin Wood
 description: "Gavin Wood's fifth development update covering foundation restructuring, PoC-9 development sprint, proof-of-work algorithm improvements, and preparations for release"
 embed:
   url: https://blog.ethereum.org/2015/03/02/gavs-ethereum-dev-update-v
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

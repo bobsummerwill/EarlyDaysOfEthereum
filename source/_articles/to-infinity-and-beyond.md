@@ -4,7 +4,7 @@ date: 2018-01-31
 author: Ming Chan
 embed:
   url: https://blog.ethereum.org/2018/01/31/to-infinity-and-beyond
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

@@ -4,7 +4,7 @@ date: 2015-04-08
 author: Anthony Di Iorio
 embed:
   url: https://blog.ethereum.org/2015/04/08/ethereum-foundation-is-hiring-an-executive-director
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

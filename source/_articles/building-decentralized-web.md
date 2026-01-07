@@ -4,7 +4,7 @@ date: 2014-08-18
 author: Taylor Gerring
 embed:
   url: https://blog.ethereum.org/2014/08/18/building-decentralized-web
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

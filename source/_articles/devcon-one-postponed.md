@@ -4,7 +4,7 @@ date: 2015-09-02
 author: George Hallam
 embed:
   url: https://blog.ethereum.org/2015/09/02/devcon-one-postponed-until-further-notice
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

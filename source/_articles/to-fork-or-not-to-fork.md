@@ -4,7 +4,7 @@ date: 2016-07-15
 author: Jeffrey Wilcke
 embed:
   url: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

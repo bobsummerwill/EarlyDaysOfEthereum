@@ -4,7 +4,7 @@ date: 2015-09-28
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

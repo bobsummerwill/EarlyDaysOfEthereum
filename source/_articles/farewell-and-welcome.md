@@ -4,7 +4,7 @@ date: 2018-01-31
 author: Ethereum Team
 embed:
   url: https://blog.ethereum.org/2018/01/31/farewell-and-welcome
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

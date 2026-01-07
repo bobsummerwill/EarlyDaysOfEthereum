@@ -4,7 +4,7 @@ date: 2015-10-22
 author: George Hallam
 embed:
   url: https://blog.ethereum.org/2015/10/22/nick-szabo-confirmed-as-keynote-speaker-of-ethereums-devcon1
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

@@ -4,7 +4,7 @@ date: 2016-03-05
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2016/03/05/serenity-poc2
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

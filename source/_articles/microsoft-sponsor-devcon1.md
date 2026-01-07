@@ -4,7 +4,7 @@ date: 2015-10-28
 author: George Hallam
 embed:
   url: https://blog.ethereum.org/2015/10/28/microsoft-to-sponsor-ethereums-devcon1-2
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

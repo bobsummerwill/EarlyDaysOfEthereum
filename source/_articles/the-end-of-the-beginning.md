@@ -5,7 +5,7 @@ author: Gavin Wood
 description: "Gavin Wood announces the Olympic testnet phase with incentivized testing before the Frontier release, offering prizes for mining, gas usage, and finding bugs"
 embed:
   url: https://blog.ethereum.org/2015/05/02/the-end-of-the-beginning
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

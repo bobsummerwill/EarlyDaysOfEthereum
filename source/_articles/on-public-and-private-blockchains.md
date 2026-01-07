@@ -4,7 +4,7 @@ date: 2015-08-07
 author: Vitalik Buterin
 embed:
   url: https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

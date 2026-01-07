@@ -4,7 +4,7 @@ date: 2015-01-06
 author: Jeffrey Wilcke
 embed:
   url: https://blog.ethereum.org/2015/01/06/jeffs-ethereum-dev-update-2
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

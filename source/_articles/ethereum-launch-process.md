@@ -4,7 +4,7 @@ date: 2015-03-03
 author: Vinay Gupta
 embed:
   url: https://blog.ethereum.org/2015/03/03/ethereum-launch-process
-  img: /images/blog.ethereum.org/2026.01.05/_next/image.jpg
+  img: /images/blog.ethereum.org/2026.01.05/next/image.jpg
   site: Ethereum Foundation Blog
 ---
 

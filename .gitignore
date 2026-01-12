@@ -1,5 +1,6 @@
 # Jekyll build output
 _site/
+_site_baseline/
 
 # Jekyll cache
 .jekyll-cache/

@@ -80,10 +80,10 @@ Give it a few more minutes for some more folks to pile in. Yeah, spiritually fal
 By the way, for spaces resiliency, ChatGPT is recommending two co-hosts up front. Now, do we already have the two, or can you add another one?
 
 [[4:06]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=246s) **Jaime:**
-Yeah, you and [Bob](/people/bob-summerwill] are co-hosts.
+Yeah, you and [Bob](/people/bob-summerwill/) are co-hosts.
 
 [[4:10]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=250s) **Kieren:**
-Okay, it just appears as speaker to me. Maybe it appears as co-host to [Bob](/people/bob-summerwill] on [Bob](/people/bob-summerwill]'s side. [Bob](/people/bob-summerwill], are you a co-host successfully?
+Okay, it just appears as speaker to me. Maybe it appears as co-host to [Bob](/people/bob-summerwill/) on [Bob](/people/bob-summerwill/)'s side. [Bob](/people/bob-summerwill/), are you a co-host successfully?
 
 [[4:18]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=258s) **Bob:**
 It appears so.
@@ -119,7 +119,7 @@ Welcome.
 What's up?
 
 [[5:23]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=323s) **Jaime:**
-GM. Yeah, great to kick this off. I'll hand the mic over to [Bob](/people/bob-summerwill], but I just want to pay my compliments to your PFP, [Texture](/people/anthony-d-onofrio/).  It's quite a good one.
+GM. Yeah, great to kick this off. I'll hand the mic over to [Bob](/people/bob-summerwill/), but I just want to pay my compliments to your PFP, [Texture](/people/anthony-d-onofrio/).  It's quite a good one.
 
 [[5:37]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=337s) **Texture:**
 Thanks. Do you own a [Texture Punk](https://x.com/texturepunx)?
@@ -768,7 +768,7 @@ And I guess that Kieren, you saw more of that sort of New York legal side of thi
 [[54:35]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=3275s) **Kieren:**
 Yeah. So, uh, okay. This is a good, good tie in point.
 
-So, uh, and, and [Bob](/people/bob-summerwill], uh, at your request, of course, I was digging through the emails trying to piece together some pieces of the timeline, you know, yesterday, day before.
+So, uh, and, and [Bob](/people/bob-summerwill/), uh, at your request, of course, I was digging through the emails trying to piece together some pieces of the timeline, you know, yesterday, day before.
 
 So I had, um, I think by March I was, um, talking with [Vitalik](/people/vitalik-buterin/) and, um, you know, I was in academia at that time. And he kind of found it useful to bounce like protocol, economic modeling stuff off, you know, like I was like good at reading the white papers and understand what they were doing.
 
@@ -815,7 +815,7 @@ My, my memory is also that [Anthony](/people/anthony-di-iorio/) was the main for
 [[59:48]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=3588s) **Kieren:**
 [Di Iorio](/people/anthony-di-iorio/).  And it was like, not quite the original amount, but it was still some, but we were all like working on different things at that time. We ended up returning it, I think, but yeah, it was a strange, like the, the strange delay that happened, I guess, like right after the pre-sale. So before people are working, you know, uncompensated or largely uncompensated.
 
-And then right after there was, I suppose like a big cash grab going on. So like, but maybe, [Bob](/people/bob-summerwill], you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
+And then right after there was, I suppose like a big cash grab going on. So like, but maybe, [Bob](/people/bob-summerwill/), you know, better than us. So there were a bunch of legal entities getting set up, like there was like the Berlin dev company.  And then there was another one, like in each, everyone tried to like pull out as much of the pie as they could, but like, I don't know. Yeah.
 
 [[1:00:42]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=3642s) **Bob:**
 Yeah, so, so Anthony Di Iorio, (not you), incorporated Ethereum Canada in February, actually, but it was about, it was just a few days before everyone went to Zug. So his thought, I guess, was everything was going to happen out of Toronto, but that didn't happen. You had EthSuisse got formed in Switzerland somewhere in April, I think.
@@ -1032,7 +1032,7 @@ Like, you know, for me, you know, I've talked about it before, but, you know, th
 
 And I just messaged her and said, hey, man, we need to update this website. I'll do it for free. And she said, oh, yeah, I think we have a team working on that.
 
-Let me get back to you. So I like kept in contact with her. Took her six months, six months to figure out who was working on the website, [Bob](/people/bob-summerwill].
+Let me get back to you. So I like kept in contact with her. Took her six months, six months to figure out who was working on the website, [Bob](/people/bob-summerwill/).
 
 I mean, like, are you fucking kidding me? Like, what are you doing? Are you sitting in at the beach, like sipping Mai Tais?
 
@@ -1130,7 +1130,7 @@ Yeah, don't.
 So I wish you all the very best and enjoy your life.
 
 [[1:32:29]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=5549s) **Texture:**
-Yeah. Well, [Bob](/people/bob-summerwill], thanks for having me on. If you want to have me on again, I'm more than happy to always give you my time.
+Yeah. Well, [Bob](/people/bob-summerwill/), thanks for having me on. If you want to have me on again, I'm more than happy to always give you my time.
 
 Good to talk to you, Kieran.
 

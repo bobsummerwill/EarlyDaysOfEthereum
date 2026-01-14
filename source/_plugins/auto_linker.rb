@@ -71,7 +71,8 @@ module EarlyDays
         p_tokens = @priority_tokens[PRIORITY_PERSON].sort_by { |t| -t.length }
         @person_patterns = p_tokens.each_slice(BATCH_SIZE).map { |batch| Regexp.union(batch) }
 
-        @link_pattern = %r{<a\s[^>]*>(?:[^<]*(?:<(?!/a>)[^<]*)*)</a>}i
+        # Simpler, faster link pattern
+        @link_pattern = /<a[^>]*>.*?<\/a>/im
       end
 
       def person_exists?(slug) = @people_slugs[slug]
@@ -85,8 +86,8 @@ module EarlyDays
 
         content = html.dup
 
-        # Step 1: Convert markdown links
-        content.gsub!(/\[([^\]]+)\]\(([a-zA-Z\/#\.][^\s)<>'"]*)\)/) { %(<a href="#{$2}">#{$1}</a>) }
+        # Step 1: Convert markdown links (simplified pattern)
+        content.gsub!(/\[([^\]]+)\]\(([^\s)]+)\)/) { %(<a href="#{$2}">#{$1}</a>) }
 
         # Step 2: Remove invalid people links
         content.gsub!(%r{<a href="(/people/[^"]+)"[^>]*>([^<]*)</a>}) do |m|
@@ -121,7 +122,8 @@ module EarlyDays
           counter += 1
         end
 
-        content.gsub!(/(alt|title|aria-label|aria-describedby|data-[a-z-]*|src|href)=("[^"]*"|'[^']*')/i) do |m|
+        # Simplified attribute protection - just protect quoted values
+        content.gsub!(/\b(?:alt|title|aria-\w+|data-[\w-]+|src|href)=("[^"]*"|'[^']*')/i) do |m|
           p = "___PA#{counter}___"; protected << [p, m]; counter += 1; p
         end
 

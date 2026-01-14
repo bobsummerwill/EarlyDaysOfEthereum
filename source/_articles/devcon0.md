@@ -7,8 +7,7 @@ img: /images/x.com/2025.10.30/avsa/status/1143250365166567430/photo/devcon0-grou
 
 The first Ethereum developer conference was held at the brand new Berlin ETHDEV offices in November 2014.
 
-George Hallam [posted about DEVCON0 on Reddit](https://www.reddit.com/r/ethereum/comments/2nle7m/community_update_whats_going_on_devcon0/
-) while it was in progress, and wrote a recap post after it had finished:
+George Hallam [posted about DEVCON0 on Reddit](https://www.reddit.com/r/ethereum/comments/2nle7m/community_update_whats_going_on_devcon0/) while it was in progress, and wrote a recap post after it had finished:
 
 {% include article-embed.html
   name="ÐΞVcon-0 Recap"

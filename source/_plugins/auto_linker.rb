@@ -71,8 +71,8 @@ module EarlyDays
         p_tokens = @priority_tokens[PRIORITY_PERSON].sort_by { |t| -t.length }
         @person_patterns = p_tokens.each_slice(BATCH_SIZE).map { |batch| Regexp.union(batch) }
 
-        # Word boundary makes this 7x faster
-        @link_pattern = /<a\b[^>]*>.*?<\/a>/i
+        # Word boundary makes this 7x faster, no i flag needed (no uppercase tags)
+        @link_pattern = /<a\b[^>]*>.*?<\/a>/
       end
 
       def person_exists?(slug) = @people_slugs[slug]
@@ -102,29 +102,36 @@ module EarlyDays
           p = "___PS#{counter}___"; protected << [p, m]; counter += 1; p
         end
 
-        while (idx = content.index('<div class="blog-embed-card'))
-          depth, i, end_idx = 0, idx, nil
-          while i < content.length
-            if content[i, 4] == '<div'
-              depth += 1; i += 4
-            elsif content[i, 6] == '</div>'
-              depth -= 1
-              (end_idx = i + 6; break) if depth == 0
-              i += 6
+        # Much faster: use scan with regex to find div positions, then parse depth
+        offset = 0
+        while (match = content.match(/<div class="blog-embed-card/, offset))
+          idx = match.begin(0)
+          depth, i = 0, idx
+          # Scan forward counting divs using index() for speed
+          loop do
+            open_pos = content.index('<div', i)
+            close_pos = content.index('</div>', i)
+            break unless close_pos
+
+            if open_pos && open_pos < close_pos
+              depth += 1
+              i = open_pos + 4
             else
-              i += 1
+              depth -= 1
+              i = close_pos + 6
+              break if depth == 0
             end
           end
-          break unless end_idx
+
           p = "___PE#{counter}___"
-          protected << [p, content[idx...end_idx]]
-          content = content[0...idx] + p + content[end_idx..]
+          protected << [p, content[idx...i]]
+          content = content[0...idx] + p + content[i..]
+          offset = idx + p.length
           counter += 1
         end
 
-        # Simplified attribute protection - just protect quoted values
-        content.gsub!(/\b(?:alt|title|aria-\w+|data-[\w-]+|src|href)=("[^"]*"|'[^']*')/i) do |m|
-          p = "___PA#{counter}___"; protected << [p, m]; counter += 1; p
+        content.gsub!(/<(?:img|meta|span class="hidden-autolink")[^>]*>/) do |m|
+          p = "___PT#{counter}___"; protected << [p, m]; counter += 1; p
         end
 
         # Step 4: Process hidden
@@ -157,8 +164,11 @@ module EarlyDays
           end
         end
 
-        # Step 7: Restore links
-        link_placeholders.reverse_each { |p, o| content.gsub!(p, o) }
+        # Step 7: Restore links (single pass with hash lookup)
+        if link_placeholders.any?
+          pl_hash = link_placeholders.to_h
+          content.gsub!(/___PL\d+___/) { |m| pl_hash[m] }
+        end
 
         # Step 8: Protect all links again
         link_placeholders2 = []
@@ -175,9 +185,11 @@ module EarlyDays
           end
         end
 
-        # Step 10: Restore all
-        link_placeholders2.reverse_each { |p, o| content.gsub!(p, o) }
-        protected.reverse_each { |p, o| content.gsub!(p, o) }
+        # Step 10: Restore all (single pass with hash lookup)
+        if link_placeholders2.any? || protected.any?
+          restore_hash = (link_placeholders2 + protected).to_h
+          content.gsub!(/___P[LSE]T?\d+___/) { |m| restore_hash[m] }
+        end
 
         content
       end

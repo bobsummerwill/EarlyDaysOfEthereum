@@ -185,10 +185,11 @@ module EarlyDays
           end
         end
 
-        # Step 10: Restore all (single pass with hash lookup)
-        if link_placeholders2.any? || protected.any?
-          restore_hash = (link_placeholders2 + protected).to_h
-          content.gsub!(/___P(?:S|E|T|L2?)?\d+___/) { |m| restore_hash[m] || m }
+# Step 10: Restore all (loop until no more placeholders - handles nested protection)
+        restore_hash = (link_placeholders2 + protected + link_placeholders).to_h
+        placeholder_pattern = /___P(?:L2?|S|E|T)\d+___/
+        while content.match?(placeholder_pattern)
+          content.gsub!(placeholder_pattern) { |m| restore_hash[m] || m }
         end
 
         content

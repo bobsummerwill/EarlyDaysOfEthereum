@@ -188,7 +188,7 @@ module EarlyDays
         # Step 10: Restore all (single pass with hash lookup)
         if link_placeholders2.any? || protected.any?
           restore_hash = (link_placeholders2 + protected).to_h
-          content.gsub!(/___P[LSE]T?\d+___/) { |m| restore_hash[m] }
+          content.gsub!(/___P[LSET]\d*\d+___/) { |m| restore_hash[m] }
         end
 
         content

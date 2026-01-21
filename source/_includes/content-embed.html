@@ -44,60 +44,36 @@
           </div>
         {% endif %}
         {% if include.author or include.date %}
-          <div class="content-embed-metadata">
-            {% if include.author %}by {% include auto_link.html content=include.author %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
-          </div>
+          <div class="content-embed-metadata">{% if include.author %}by {{ include.author }}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}</div>
         {% endif %}
       </div>
     </a>
   {% else %}
     <!-- BLOG MODE -->
-    {% if include.img or include.title %}
-      <a href="{{ include.url }}" target="_blank" rel="noopener" class="blog-embed-link-wrapper">
-        {% if include.img %}
-          <div class="blog-embed-image-container">
-            <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" class="blog-embed-image" loading="lazy" />
-          </div>
-        {% endif %}
+    <a href="{{ include.url }}" target="_blank" rel="noopener" class="blog-embed-link-wrapper">
+      {% if include.img %}
+        <div class="blog-embed-image-container">
+          <img src="{{ include.img }}" alt="{{ include.alt | default: include.url }}" class="blog-embed-image" loading="lazy" />
+        </div>
+      {% endif %}
+      <div class="blog-embed-meta">
         {% if include.title %}
-          <div class="blog-embed-title-with-padding">
+          <div class="blog-embed-title content-embed-title">
             {{ include.title }}
           </div>
         {% endif %}
-      </a>
-    {% endif %}
-    <div class="blog-embed-meta">
-      {% if include.description %}
-        <div class="blog-embed-description content-embed-description">
-          {{ include.description }}
-        </div>
-      {% endif %}
-      {% if include.site %}
-        <div class="blog-embed-site-line content-embed-metadata-mb">
-          {% if include.site contains "http" %}
-            <a href="{{ include.site }}" target="_blank" rel="noopener" class="content-embed-site-link">{{ include.site }}</a>
-          {% else %}
-            {{ include.site }}
-          {% endif %}
-        </div>
-        {% if include.author or include.date %}
-        <div class="content-embed-metadata-mb">
-          {% if include.author %}
-            by {% include auto_link.html content=include.author %}
-            {% if include.date %} , <span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
-          {% elsif include.date %}
-            <span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>
-          {% endif %}
-        </div>
+        {% if include.description %}
+          <div class="blog-embed-description content-embed-description">
+            {{ include.description }}
+          </div>
         {% endif %}
-      {% elsif include.author or include.date %}
-        <div class="content-embed-metadata-mb">
-          {% if include.author %}by {% include auto_link.html content=include.author %}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}
-        </div>
-      {% endif %}
-      {% unless include.img %}
-        <span class="blog-embed blog-embed-link content-embed-url-text">{{ include.url }}</span>
-      {% endunless %}
-    </div>
+        {% if include.site %}
+          <div class="blog-embed-site-line content-embed-metadata-mb">{{ include.site }}</div>
+        {% endif %}
+        {% if include.author or include.date %}
+          <div class="content-embed-metadata-mb">{% if include.author %}by {{ include.author }}{% endif %}{% if include.date %}{% if include.author %}, {% endif %}<span class="blog-embed-date">{{ include.date | date: "%B %d, %Y" }}</span>{% endif %}</div>
+        {% endif %}
+      </div>
+    </a>
   {% endif %}
 </div>

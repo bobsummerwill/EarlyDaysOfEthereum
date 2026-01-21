@@ -1,6 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 10 - Viktor Trón"
-date: 2026-01-20
+date: 2026-01-21
 show: true
 guests: ["Viktor Trón"]
 hosts: ["Bob Summerwill"]

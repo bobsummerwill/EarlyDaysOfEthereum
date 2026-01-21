@@ -166,7 +166,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
 %}
 
 {% include video-embed.html
-  name="Ethereum ÐΞVcon-0 – Gavin: Welcome! Our mission: ÐApps"
+  name="Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps"
 %}
 
 {% include article-embed.html
@@ -174,7 +174,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
 %}
 
 {% include video-embed.html
-  name="Allegality – Systems Which Cannot Care"
+  name="CoinScrum and Proof of Work: Tools for the Future"
 %}
 
 {% include article-embed.html

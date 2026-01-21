@@ -188,7 +188,7 @@ module EarlyDays
         # Step 10: Restore all (single pass with hash lookup)
         if link_placeholders2.any? || protected.any?
           restore_hash = (link_placeholders2 + protected).to_h
-          content.gsub!(/___P[LSET]\d*\d+___/) { |m| restore_hash[m] }
+          content.gsub!(/___P(?:S|E|T|L2?)?\d+___/) { |m| restore_hash[m] || m }
         end
 
         content
@@ -286,9 +286,18 @@ Jekyll::Hooks.register :site, :post_render do |site|
   Jekyll.logger.info 'AutoLinker:', 'Building backlinks...'
   EarlyDays::AutoLinker.build_backlinks(site)
   (site.pages + site.collections.values.flat_map(&:docs)).each do |doc|
-    next unless doc.output&.include?('{% include back-links.html %}')
-    h = EarlyDays::AutoLinker.render_backlinks(doc.url)
-    doc.output = doc.output.sub('{% include back-links.html %}', h) unless h.empty?
+    if doc.output&.include?('{% include back-links.html %}')
+      h = EarlyDays::AutoLinker.render_backlinks(doc.url)
+      doc.output = doc.output.sub('{% include back-links.html %}', h) unless h.empty?
+    end
+
+    # Final cleanup: remove any remaining placeholder markers
+    if doc.output
+      before = doc.output.scan(/___P[STEL]2?\d+___/).size
+      doc.output.gsub!(/___P[STEL]2?\d+___/, '')
+      after = doc.output.scan(/___P[STEL]2?\d+___/).size
+      Jekyll.logger.info "AutoLinker:", "Cleaned #{before - after} placeholders from #{doc.url}" if before > after
+    end
   end
   Jekyll.logger.info 'AutoLinker:', 'Backlinks injected.'
 end

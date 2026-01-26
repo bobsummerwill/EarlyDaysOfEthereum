@@ -135,7 +135,7 @@ And so when [Gavin](/people/gavin-wood/) presented the Ethereum I was, next day 
 
 [[10:31]](https://www.youtube.com/watch?v=470q6U-TEMI&t=631s) **Bob Summerwill:** Sorry, [Mihai Alisie](/people/mihai-alisie/). Was that right?
 
-[[10:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=634s) **Viktor Trón:** Yes, yes. And I think who I talked to quite a lot was [Jack de Rose](/people/jack-de-rose/), who then.
+[[10:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=634s) **Viktor Trón:** Yes, yes. And I think who I talked to quite a lot was [Jack du Rose](/people/jack-du-rose/), who then.
 
 [[10:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=640s) **Bob Summerwill:** Yeah, of Colony.
 

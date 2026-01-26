@@ -1,6 +1,6 @@
 ---
 name: Yanislav Malahov
-photo: https://media.licdn.com/dms/image/v2/C5603AQGLikg6UjSGkQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517793654968?e=1769040000&v=beta&t=-PwDM6sy_FpHZaJiPGo9_hr79iivly-oNoxJbsJlYr4
+photo: /images/media.licdn.com/2026.01.25/yanislav-malahov/profile.jpg
 social:
   github: https://github.com/ymalahov
   linkedin: https://www.linkedin.com/in/yanislav-malahov-5025b712/

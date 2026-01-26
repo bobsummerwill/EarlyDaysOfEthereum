@@ -1,5 +1,6 @@
 ---
 name: Sean O'Connor
+photo: /images/media.licdn.com/2026.01.25/sean-oconnor/profile.jpg
 description: Ethereum Foundation
 ---
 

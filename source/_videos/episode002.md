@@ -606,7 +606,7 @@ Well, the funny thing that I sort of remember is like, and maybe you're about to
 And then at the end of the day, I kind of was like, what were all those meetings you had? And Victor essentially is like, oh yeah, we just formed the EA.
 
 [[51:09]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3069s) **Victor:**
-Well, I, yeah, it was funny. I think really it was Jeremy Miller, who I think later went on to become chief of staff for consensus really kind of drove that, like there'd been a previous attempt. I think by Matt spoke to create some sort of group of enterprises to work together on standards and that never kind of went anywhere, but then I have no memory of this.
+Well, I, yeah, it was funny. I think really it was [Jeremy Millar](/people/jeremy-millar/), who I think later went on to become chief of staff for consensus really kind of drove that, like there'd been a previous attempt. I think by Matt spoke to create some sort of group of enterprises to work together on standards and that never kind of went anywhere, but then I have no memory of this.
 
 [[51:36]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3096s) **Kieren:**
 So could you, you know, Matt was at Deloitte.
@@ -616,7 +616,7 @@ Matt was at Deloitte at the time and Deloitte was early in the blockchain. Like,
 
 So like they're really focused on it. And so they were quite early and quite knowledgeable. And so they were trying to kind of, at some point they had started this effectively a consortium of companies who want to use Ethereum, right?
 
-And then there was us where we were working with Microsoft that was hopping sort of organically. And, but we realized that there was the need for companies to kind of collaborate, to work together on this kind of stuff. And Jeremy Miller just thought like, this is in working, like what's happening now isn't working.
+And then there was us where we were working with Microsoft that was hopping sort of organically. And, but we realized that there was the need for companies to kind of collaborate, to work together on this kind of stuff. And [Jeremy Millar](/people/jeremy-millar/) just thought like, this is in working, like what's happening now isn't working.
 
 We got to get some, you know, proper structure because I think it was just an announcement on the Ethereum foundation site, but no one was really driving it. So during that day, we like kind of aggregated a bunch of people in that coffee shop. Like it was like literally all happening beside you.
 

@@ -1028,21 +1028,21 @@ table_of_contents:
 
 **Christoph Jentzsch:**
 
-[[01:12:00]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4320s) I mean, that's one thing I think I have to say here, because you talked about Devcon 1 and we skipped a little bit Devcon 2. You said in Devcon 1, Stefan Tual was very concerned how people perceived him and they were very gentle, forgiving, and nice to him. So he was well-received and then he built the DAO community.
+[[01:12:00]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4320s) I mean, that's one thing I think I have to say here, because you talked about Devcon 1 and we skipped a little bit DEVCON2. You said in Devcon 1, Stefan Tual was very concerned how people perceived him and they were very gentle, forgiving, and nice to him. So he was well-received and then he built the DAO community.
 
-[[01:12:18]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4338s) I was super worried to go to Devcon 2 because this was after the DAO hack. I was like seriously thinking someone might beat me up there. I went to the corner and I almost destroyed Ethereum with the spark and so much attention to it and all the money lost for some people or the time of growth gone—it depends on how you view it.
+[[01:12:18]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4338s) I was super worried to go to DEVCON2 because this was after the DAO hack. I was like seriously thinking someone might beat me up there. I went to the corner and I almost destroyed Ethereum with the spark and so much attention to it and all the money lost for some people or the time of growth gone—it depends on how you view it.
 
-[[01:12:46]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4366s) So, but when I went to Devcon 2, people were so nice, forgiving, basically hugging me when I was giving the talk there. And the only thing I didn't like was the foundation telling me I was not allowed to speak about the DAO, which was like, I am speaking here to the Ethereum community—well, how can I not speak about the DAO?
+[[01:12:46]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4366s) So, but when I went to DEVCON2, people were so nice, forgiving, basically hugging me when I was giving the talk there. And the only thing I didn't like was the foundation telling me I was not allowed to speak about the DAO, which was like, I am speaking here to the Ethereum community—well, how can I not speak about the DAO?
 
-[[01:13:08]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4388s) And so I talked about a pretty boring talk about security. And I think every second talk was about security at Devcon 2. It was just about how we get those smart contracts secure. So I gave a rather boring talk. But in the end, I just said, well, thank you for your understanding. And it was a hard time and so on. And there was like—someone had a standing ovation, I remember becoming emotional, because this was—I did not expect this. I really expected, like, "Guy, you messed up Ethereum, like, we almost lost it all."
+[[01:13:08]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4388s) And so I talked about a pretty boring talk about security. And I think every second talk was about security at DEVCON2. It was just about how we get those smart contracts secure. So I gave a rather boring talk. But in the end, I just said, well, thank you for your understanding. And it was a hard time and so on. And there was like—someone had a standing ovation, I remember becoming emotional, because this was—I did not expect this. I really expected, like, "Guy, you messed up Ethereum, like, we almost lost it all."
 
-[[01:13:39]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4419s) So, I think, this just speaks to the Ethereum community: how they treated Stefan, how they treated me, even though mistakes were made—honest mistakes, at least from what I can tell. So, this is such a great community of really nice people who really want to change the world, capable and also now financially capable of really doing things.
+[[01:13:39]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4419s) So, I think, this just speaks to the Ethereum community: how they treated [Stephan](/people/stephan-tual/), how they treated me, even though mistakes were made—honest mistakes, at least from what I can tell. So, this is such a great community of really nice people who really want to change the world, capable and also now financially capable of really doing things.
 
 **Bob Summerwill:**
 
 [[01:13:59]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4439s) I was watching that video quite recently, actually. And, yeah, it was quite—cut off a little bit in the end.
 
-[[01:14:06]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4446s) You know, it was quite a long ovation there. And, yeah, you could certainly see that emotion in you. And that's when we first met, actually, was in Shanghai for Devcon 2, I remember. Was on the sidelines there in that main conference hall. And yeah, it was lovely to see that. That's for sure. Okay.
+[[01:14:06]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=4446s) You know, it was quite a long ovation there. And, yeah, you could certainly see that emotion in you. And that's when we first met, actually, was in Shanghai for DEVCON2, I remember. Was on the sidelines there in that main conference hall. And yeah, it was lovely to see that. That's for sure. Okay.
 
 **Kieren James-Lubin:**
 

@@ -261,7 +261,7 @@ Because it was a full day, or three full days, of just sitting there and people 
   date="November 12, 2015"
 %}
 
-I think Fabian Vogelsteller and Alex Van de Sande and some other people presented the ERC-20 token standard or the early version of it, which, yeah, OK, this is such a big part of Ethereum now.
+I think Fabian Vogelsteller and Alex van de Sande and some other people presented the ERC-20 token standard or the early version of it, which, yeah, OK, this is such a big part of Ethereum now.
 
 *(Bob - so the panelists were actually Christian Lundkvist, Vitalik Buterin, Fabian Vogelsteller, Nikolai Mushegian and Gavin Wood, with Simon de la Rouviere moderating.  Simon himself gave a separate talk on tokenization)*
 

@@ -203,6 +203,8 @@ I just remember just a few times that the specification had to be changed. There
 
 [[22:27]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1347s) **Viktor Trón:** Correct. Just about. Or maybe actually the first officially, I'm not sure. The first paid one, I'm not sure but I mean we came roughly at the same time with [Alex](/people/alex-leverington/) and with, I think with [Felix Lange](/people/felix-lange/), definitely.
 
+*(Bob: Per [Jeff's Ethereum ÐΞV Update I](/articles/jeffs-ethereum-dev-update-i/) from November 2014, the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team joining order was: 1) [Alex van de Sande](/people/alex-van-de-sande/), 2) Viktor, 3) [Felix Lange](/people/felix-lange/), 4) [Daniel Nagy](/people/daniel-nagy/), 5) [Maran Hidskes](/people/maran-hidskes/) returning.)*
+
 [[22:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1360s) **Bob Summerwill:** Right, yeah. In terms of employment. Yeah but I meant when you were working earlier, you know, when you started there, I mean, were there other people working on that go-ethereum ahead of your joining in with him?
 
 [[22:56]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1376s) **Viktor Trón:** Not really. Not really. So he was, that was pretty much among ones that contributed the code as far as I remember. And I mean there was quite a vibrant ecosystem of, yeah, like ecosystem, community of people there. Like you know, the guy who later became Slock.it, there was like [Nick Savers](/people/nick-savers/) around like super tall dude and we were going together to the Bitcoin conference, I think it was in April.

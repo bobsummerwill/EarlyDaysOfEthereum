@@ -25,3 +25,7 @@ The vision was also accompanied by the famous Web3 diagram showing how applicati
 This was also when the distinctive protocol names emerged, using Icelandic letters - the "thorn" character (Þ) appearing in various protocol names, and the "BZZ" and "SSH" naming conventions that [Vitalik Buterin](/people/vitalik-buterin/) introduced.
 
 While Ethereum itself launched successfully in 2015, the full realization of this vision has taken much longer. Swarm continued development within the Ethereum Foundation before spinning out as an independent project in 2019-2021. Whisper was eventually deprecated in favor of other messaging solutions. The dream of truly unstoppable, fully decentralized applications remains a work in progress, with many current dapps still relying on centralized RPC providers and hosting services.
+
+{% include twitter-embed.html
+  url="https://x.com/VitalikButerin/status/2011325527567544393"
+%}

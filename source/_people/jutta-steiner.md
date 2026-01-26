@@ -6,6 +6,7 @@ end: Oct 2015
 devcon0: '1644'
 social:
   linkedin: https://www.linkedin.com/in/jutta-steiner/
+  twitter: https://x.com/jutta_steiner
 ---
 
 

@@ -17,7 +17,7 @@ Yesterday was the first proper day of ÐΞVhub Berlin being open, following the 
 
 ![IMG_7452](/images/blog.ethereum.org/2026.01.05/images/posts/2014/12/IMG_7452.jpg)
 
-[Aeron](/aeron-buchanan) and [Brian](/people/brian-fabian-crain) in discussion
+[Aeron](/people/aeron-buchanan) and [Brian](/people/brian-fabian-crain) in discussion
 
 ![IMG_7454](/images/blog.ethereum.org/2026.01.05/images/posts/2014/12/IMG_7454.jpg)
 

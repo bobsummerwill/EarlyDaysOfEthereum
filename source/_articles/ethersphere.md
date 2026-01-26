@@ -20,7 +20,7 @@ The organization became the working home for the Budapest-based team developing 
 
 The core Ethersphere team consisted of:
 
-- **[Viktor Trón](/people/viktor-tron/)** - First Ethereum Foundation employee, hired by [Jeff Wilcke](/people/jeff-wilcke/) in February 2015
+- **[Viktor Trón](/people/viktor-tron/)** - Second to join [Jeff Wilcke](/people/jeff-wilcke/)'s Amsterdam team (after [Alex van de Sande](/people/alex-van-de-sande/)), hired in late 2014
 - **[Daniel Nagy](/people/daniel-nagy/)** - Contractor for [ETHDEV](/articles/eth-dev-cic/) from October 2014, brought the original Swarm concepts
 - **[Zsolt Felföldi](/people/zsolt-felfoldi/)** - Joined in 2015 to work on the light client
 

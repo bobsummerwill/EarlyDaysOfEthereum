@@ -19,7 +19,7 @@ Alex started work as a volunteer on cpp-ethereum in January 2014, with his [firs
 
 Alex was the very first hire for ETHDEV in Berlin, around August 2014 or September 2014.
 
-*(For a long time, Bob was under the false impression that Alex Leverington was the first employee for the Ethereum Foundation as a whole, but Viktor Trón was hired earlier, in February 2014, by Jeff Wilcke (probably through EthSuisse).  Many other people were working on Ethereum for months before Alex was hired, of course, but not as paid employees or contractors)*
+*(Alex Leverington was the first hire for ETHDEV Berlin, around August/September 2014. Viktor Trón started contributing in February 2014 but was hired later - he was the second to join Jeff Wilcke's separate Amsterdam team in late 2014, after [Alex van de Sande](/people/alex-van-de-sande/). See [Jeff's Ethereum ÐΞV Update I](/articles/jeffs-ethereum-dev-update-i/) for the Amsterdam team order.)*
 
 {% include video-embed.html
   name="Ethereum ÐΞVcon-0: Multi Protocol Peer Network Framework: Vision and Roadmap"

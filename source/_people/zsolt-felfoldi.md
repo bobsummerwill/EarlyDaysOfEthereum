@@ -11,7 +11,7 @@ social:
 
 Zsolt has known Daniel Nagy since they met at high school in 1994.
 
-Viktor Tron was the first hire at the Ethereum Foundation, in February 2014.  Daniel started learning about Ethereum in April 2014 and then Daniel and Viktor
+Viktor Trón started contributing to Ethereum in February 2014 and was hired by [Jeff Wilcke](/people/jeff-wilcke/) in late 2014 as the second member of the Amsterdam team (after [Alex van de Sande](/people/alex-van-de-sande/)). Daniel started learning about Ethereum in April 2014 and then Daniel and Viktor
 
 Daniel and Viktor started working on Swarm during the course of 2014 and Daniel presented the concept at DEVCON0.
 

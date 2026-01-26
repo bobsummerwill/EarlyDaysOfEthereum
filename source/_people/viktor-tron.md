@@ -24,7 +24,7 @@ Viktor's early work included the devp2p networking layer (later rewritten by [Fe
 
 Ethersphere was created by Viktor as a GitHub organization, one of the first Ethereum-related "brands" alongside [Eris Industries](https://erisindustries.com/). It became the home for Swarm development work with [Daniel Nagy](/people/daniel-nagy) and later [Zsolt Felföldi](/people/zsolt-felfoldi).
 
-The Web3 vision (Ethereum + Swarm + Whisper as the "holy trinity") emerged in May 2014 at talks in Whitechapel, London. Viktor was deeply committed to this vision of a fully decentralized web stack.
+The Web3 vision (Ethereum + Swarm + Whisper as the "[Holy Trinity](/articles/holy-trinity/)") emerged in May 2014 at talks in Whitechapel, London. Viktor was deeply committed to this vision of a fully decentralized web stack.
 
 Despite Swarm being officially defunded during the 2015 austerity period, [Jeff](/people/jeff-wilcke) allowed the team to continue working on it. The first Swarm release was included in Geth 1.5 in December 2016. Viktor recruited [Nick Johnson](/people/nick-johnson) to the Swarm team, where [Nick](/people/nick-johnson) developed ENS before spinning it out.
 

@@ -18,5 +18,8 @@ social:
 {% include content-embed.html
   src="https://www.youtube.com/embed/d-yUjTQeywE"
   url="https://www.youtube.com/watch?v=d-yUjTQeywE"
-  title="Yanislav Malahov Video"
+  title="Tonight's Bitcoin: Discrimination of Coloured Coins"
+  author="BoxxyBrassin"
+  date="Sep 10, 2013"
+  site="YouTube"
 %}

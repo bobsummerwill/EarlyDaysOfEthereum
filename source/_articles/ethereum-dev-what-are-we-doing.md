@@ -23,7 +23,7 @@ It is robust because:
 *   it is unambiguously formally defined, allowing a highly tractable analysis, saturation tests and formal auditing of implementations;
 *   it has an extensive, and ultimately complete, set of tests for providing an exceptionally high degree of likelihood a particular implementation is conformant;
 *   modern software development practices are observed including a CI system, internal unit tests, strict peer-reviewing, a strict no-warnings policy and automated code analysers;
-*   its mesh/p2p backend (aka libp2p) is built on well-tested secure foundations (technology stemming from the Kademlia project);
+*   its mesh/p2p backend (aka [libp2p](https://libp2p.io/)) is built on well-tested secure foundations (technology stemming from the Kademlia project);
 *   official implementations undergo a full industry-standard security audit;
 *   a large-scale stress test network will be instituted for profiling and testing against likely adverse conditions and attacks prior to final release.
 

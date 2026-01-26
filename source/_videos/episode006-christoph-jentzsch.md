@@ -719,7 +719,7 @@ table_of_contents:
 [[47:24]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=2844s)    So, saying about sort of documentation or whatever, there was a wiki, right? It was an Ethereum wiki and a number of things were documented only on the wiki. And I think these kind of wire protocol pieces were part of that.
 
 
-[[47:38]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=2858s)    But yeah, Alex Leverington was the first hire into that Berlin office. And he primarily—I mean, he worked on a few different C++ things, but the main thing he's known for is devp2p, which was that common underlying peer protocol. Though you already had libp2p, which is the transport for IPFS, that already existed at the time, so there was a bit of not-invented-here going on.
+[[47:38]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=2858s)    But yeah, Alex Leverington was the first hire into that Berlin office. And he primarily—I mean, he worked on a few different C++ things, but the main thing he's known for is devp2p, which was that common underlying peer protocol. Though you already had [libp2p](https://libp2p.io/), which is the transport for IPFS, that already existed at the time, so there was a bit of not-invented-here going on.
 
 
 [[48:03]](https://www.youtube.com/watch?v=wTXc_gpx5iA&t=2883s)    But yeah, he was there for Devcon Zero as well.

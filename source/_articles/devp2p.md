@@ -36,19 +36,19 @@ devp2p has several limitations that have caused challenges:
 
 - **No browser support** - Cannot run in web browsers, limiting light client possibilities
 - **Maintenance burden** - Custom protocol requires ongoing development
-- **TCP only** - Unlike libp2p, doesn't support multiple transport protocols
+- **TCP only** - Unlike [libp2p](https://libp2p.io/), doesn't support multiple transport protocols
 
-There were discussions in 2016-2018 about bridging devp2p and libp2p, potentially allowing relay nodes between the two protocols, but this never materialized.
+There were discussions in 2016-2018 about bridging devp2p and [libp2p](https://libp2p.io/), potentially allowing relay nodes between the two protocols, but this never materialized.
 
 ## Evolution
 
 The protocol became embedded in execution clients (Geth, etc.) and remains in use today for the execution layer. However:
 
 - **Consensus clients** (post-Merge) use [libp2p](https://libp2p.io/) instead
-- **[Swarm](/articles/swarm/)** switched to libp2p with the Bee client in 2021
+- **[Swarm](/articles/swarm/)** switched to [libp2p](https://libp2p.io/) with the Bee client in 2021
 - Modern clients no longer use RLP for new features
 
-Viktor noted: "It was only after we, after Swarm left the foundation is when we kind of switched to the libp2p as well, started the Bee client development."
+Viktor noted: "It was only after we, after Swarm left the foundation is when we kind of switched to the [libp2p](https://libp2p.io/) as well, started the Bee client development."
 
 ## Resources
 

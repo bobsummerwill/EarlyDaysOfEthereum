@@ -28,6 +28,6 @@ The Web3 vision (Ethereum + Swarm + Whisper as the "holy trinity") emerged in Ma
 
 Despite Swarm being officially defunded during the 2015 austerity period, [Jeff](/people/jeff-wilcke) allowed the team to continue working on it. The first Swarm release was included in Geth 1.5 in December 2016. Viktor recruited [Nick Johnson](/people/nick-johnson) to the Swarm team, where [Nick](/people/nick-johnson) developed ENS before spinning it out.
 
-Viktor continued working within the Ethereum Foundation until 2018-2019, when the Swarm codebase was separated from Geth. The Swarm Association was founded in Switzerland, and the Swarm token was launched in 2021. The new Bee client was developed using libp2p instead of devp2p.
+Viktor continued working within the Ethereum Foundation until 2018-2019, when the Swarm codebase was separated from Geth. The Swarm Association was founded in Switzerland, and the Swarm token was launched in 2021. The new Bee client was developed using [libp2p](https://libp2p.io/) instead of [devp2p](/articles/devp2p/).
 
 Swarm work continues to the present day with Viktor leading the project.

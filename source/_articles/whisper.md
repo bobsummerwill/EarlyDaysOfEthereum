@@ -61,7 +61,7 @@ Whisper was included in Geth but was eventually deprecated and removed. The Ethe
 Whisper's spiritual successor is [Waku](https://waku.org/), developed by [Status](https://status.im/). Waku builds on Whisper's design principles while addressing its limitations:
 
 - **Waku v1** - Direct fork of Whisper with minor improvements
-- **Waku v2** - Major redesign using libp2p, with better scalability and modularity
+- **Waku v2** - Major redesign using [libp2p](https://libp2p.io/), with better scalability and modularity
 
 Waku maintains Whisper's focus on privacy and censorship resistance while offering improved performance and a more sustainable architecture. It's now part of the broader [Logos](https://logos.co/) technology stack.
 

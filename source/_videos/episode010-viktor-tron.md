@@ -4,7 +4,7 @@ date: 2026-01-21
 show: true
 guests: ["Viktor Trón"]
 hosts: ["Bob Summerwill"]
-description: "Viktor Trón was among the first employees of the Ethereum Foundation in 2014, working on the Geth client before founding the Swarm project. He discusses early London meetups, the Web3 vision, decentralized storage architecture, and Swarm's journey to independence."
+description: "Ethereum Foundation early employee Viktor Trón shares his journey from BBC News Labs and the London Bitcoin scene to becoming one of the first Geth developers and founding the Swarm project. He discusses discovering Ethereum through Gavin Wood's February 2014 presentation, the Web3 vision's Holy Trinity (Ethereum, Swarm, Whisper), decentralized storage architecture, and Swarm's path to independence."
 img: /images/covers-for-conversations/episode010-viktor-tron.png
 embed:
   url: https://www.youtube.com/embed/470q6U-TEMI
@@ -275,7 +275,7 @@ These founders really realized how decentralization can basically also be extend
 
 [[31:35]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1895s) **Viktor Trón:** And that's why I was very dedicated to this whole Ethereum at the time. I really kind of understood what it means to have the entire kind of Turing complete computation being secured on its own with the blockchain. And they kind of really envisioned quite a bit, quite a change in how the Internet works if you have Swarm and Whisper and all these things. So I quite like the idea.
 
-And then later I kind of learned that, you know, not only did we socialize on [BitTorrent](https://www.bittorrent.com/) at the time and kind of wanted to improve, but actually some of us like [Dani](/people/daniel-nagy) operating a DC++ node had some legal troubles maybe, maybe even also kind of talk about this with him at some point. So that's kind of brought us, brought him quite directly in the kind of realm of implementing Swarm. This idea of a decentralized storage and incentivization, etc. And name resolution one, let me see, you connected.
+And then later I kind of learned that, you know, not only did we socialize on [BitTorrent](https://www.bittorrent.com/) at the time and kind of wanted to improve, but actually some of us like [Dani](/people/daniel-nagy) operating a [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) node had some legal troubles maybe, maybe even also kind of talk about this with him at some point. So that's kind of brought us, brought him quite directly in the kind of realm of implementing Swarm. This idea of a decentralized storage and incentivization, etc. And name resolution one, let me see, you connected.
 
 <h3 id="swarm-technical-architecture">Swarm technical architecture (DPA, Kademlia, SWAP)</h3>
 

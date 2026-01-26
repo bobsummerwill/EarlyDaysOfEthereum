@@ -55,11 +55,13 @@ EarlyDaysOfEthereum/
 # Install dependencies
 bundle install
 
-# Run development server
-bundle exec jekyll serve --source source
+# Run development server (from project root)
+bundle exec jekyll serve
 
 # Access at http://localhost:4000
 ```
+
+**Note:** Do NOT use `--source source` flag. The `_config.yml` at the project root already specifies `source: source`. Running with the flag causes Jekyll to miss the config file, resulting in build errors like "Cannot sort a null object" because collections aren't loaded.
 
 ### Collections
 

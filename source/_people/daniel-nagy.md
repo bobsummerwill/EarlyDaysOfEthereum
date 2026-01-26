@@ -17,7 +17,7 @@ Daniel had a background in cryptography and security, and had operated [DC++](ht
 
 > "Actually some of us like Dani operating a DC++ node had some legal troubles maybe... So that's kind of brought us, brought him quite directly in the kind of realm of implementing Swarm. This idea of a decentralized storage and incentivization, etc."
 
-Daniel saw the qualities of BitTorrent but also its drawbacks - slow startup times, lack of proper incentives, chunks not being directly addressable, reliance on centralized trackers, and poor privacy properties. His vision for Swarm addressed all of these issues.
+Daniel saw the qualities of [BitTorrent](https://www.bittorrent.com/) but also its drawbacks - slow startup times, lack of proper incentives, chunks not being directly addressable, reliance on centralized trackers, and poor privacy properties. His vision for Swarm addressed all of these issues.
 
 ## Joining Ethereum
 
@@ -46,7 +46,7 @@ The technical architecture Daniel designed included:
 
 ## Ethersphere
 
-Daniel worked with Viktor through [Ethersphere](/articles/ethersphere/), the GitHub organization Viktor created in March 2014 that became the home for Swarm development. [Zsolt Felföldi](/people/zsolt-felfoldi/) joined them in 2015, initially to work on the light client.
+Daniel worked with [Viktor](/people/viktor-tron/) through [Ethersphere](/articles/ethersphere/), the GitHub organization [Viktor](/people/viktor-tron/) created in March 2014 that became the home for Swarm development. [Zsolt Felföldi](/people/zsolt-felfoldi/) joined them in 2015, initially to work on the light client.
 
 ## Later Work
 

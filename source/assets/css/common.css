@@ -586,7 +586,8 @@ img {
  * Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
  */
 .article-content blockquote,
-.video-content blockquote {
+.video-content blockquote,
+.person-content blockquote {
     border-left: var(--spacing-sm) solid var(--primary-blue);
     padding-left: var(--spacing-3xl);
     margin: var(--spacing-3xl) 0;

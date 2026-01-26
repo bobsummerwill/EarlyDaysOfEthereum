@@ -137,9 +137,9 @@ And so when [Gavin](/people/gavin-wood/) presented the Ethereum I was, next day 
 
 [[10:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=634s) **Viktor Trón:** Yes, yes. And I think who I talked to quite a lot was [Jack du Rose](/people/jack-du-rose/), who then.
 
-[[10:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=640s) **Bob Summerwill:** Yeah, of Colony.
+[[10:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=640s) **Bob Summerwill:** Yeah, of [Colony](https://colony.io/).
 
-[[10:42]](https://www.youtube.com/watch?v=470q6U-TEMI&t=642s) **Viktor Trón:** Colony fame. Exactly. So and then, and then there is when I met [Jeff](/people/jeff-wilcke/) first. So [Jeff](/people/jeff-wilcke/) became my boss later.
+[[10:42]](https://www.youtube.com/watch?v=470q6U-TEMI&t=642s) **Viktor Trón:** [Colony](https://colony.io/) fame. Exactly. So and then, and then there is when I met [Jeff](/people/jeff-wilcke/) first. So [Jeff](/people/jeff-wilcke/) became my boss later.
 
 [[10:51]](https://www.youtube.com/watch?v=470q6U-TEMI&t=651s) **Bob Summerwill:** He came to London for that meetup.
 

@@ -1,11 +1,13 @@
 ---
-name: Vlad Gluhovsky
-description: Whisper
-photo: /images/youtube.com/2026.01.25/vlad-gluhov-koZizelOUeI.png
-start: Apr 2015
+name: Guillaume Ballet
+description: Core developer
+start: Oct 2017
 end: present
+photo: /images/s3.tradingview.com/2026.01.25/guillaume-ballet.jpg
 social:
-  github: https://github.com/gluk256
+  github: https://github.com/gballet
+  twitter: https://x.com/gballet
+  linkedin: https://www.linkedin.com/in/gballet/
 ---
 
 DEVCON3 talk:

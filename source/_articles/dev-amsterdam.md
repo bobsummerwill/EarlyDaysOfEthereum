@@ -12,7 +12,7 @@ description: "The Amsterdam hub of Ethereum ÐΞV, led by Jeff Wilcke, focused o
 
 > "Over the past months I've been been looking for a suitable office space to host the Amsterdam Hub... The lawyers have finally, after 2 months, gotten around to set up the company here in Amsterdam."
 
-The Amsterdam hub operated separately from the [Berlin hub](/articles/eth-dev-berlin/), which focused on C++ development under [Gavin Wood](/people/gavin-wood/).
+The Amsterdam hub operated separately from the [Berlin hub](/articles/ethereum-dev-gmbh/), which focused on C++ development under [Gavin Wood](/people/gavin-wood/).
 
 ## Team
 
@@ -46,7 +46,7 @@ The Amsterdam team worked on:
 ÐΞV had multiple development hubs:
 
 - **Amsterdam** (Jeff Wilcke) - Go client, Mist browser
-- **[Berlin](/articles/eth-dev-berlin/)** (Gavin Wood) - C++ client, Solidity, Mix IDE
+- **[Berlin](/articles/ethereum-dev-gmbh/)** (Gavin Wood) - C++ client, Solidity, Mix IDE
 - **Warsaw** (IMAPP) - JIT-compiled LLVM EVM implementation
 
 The teams collaborated on shared specifications and testing, with [Christoph Jentzsch](/people/christoph-jentzsch/) in Berlin developing the comprehensive test suite used across all implementations.

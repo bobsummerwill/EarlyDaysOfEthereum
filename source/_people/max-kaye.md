@@ -1,6 +1,6 @@
 ---
 name: Max Kaye
-description: Developer
+description: Early Ethereum developer and Cryptonet creator
 photo: /images/x.com/2025.09.17/xertrov/photo/max-kaye.jpeg
 start: Dec 2013
 social:
@@ -9,14 +9,17 @@ social:
   github: https://github.com/xertrov
 ---
 
+Max Kaye was an Australia-based developer who contributed to Ethereum during its earliest days. He was focused on decentralized applications and created Cryptonet, a library to build arbitrary blockchain-based structures.
 
-Max was mentioned in the [original BitcoinTalk](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) post in January 2014, although his role there was later [written out of history](https://bitcointalk.org/index.php?topic=428589.0), along with many others:
+## BitcoinTalk Announcement
 
-*"Max Kaye - Developer"*
+Max was mentioned in the [original BitcoinTalk announcement](https://web.archive.org/web/20140208053651/https://bitcointalk.org/index.php?topic=428589.0) in January 2014, although his role—like many early contributors—was later [written out of history](https://bitcointalk.org/index.php?topic=428589.0) when the post was edited:
 
-**Epicenter Bitcoin episode 16**
+> "Max Kaye - Developer"
 
-We had two excellent guests on. Stephan Tual is the Chief Communications Officer for the Ethereum project, founder of the London Ethereum meetup and has played a crucial role in building out the Ethereum community. Max Kaye is a Australia-based developer focused on decentralized applications and the developer of Cryptonet, a library to build arbitrary blockchain-based structures ...
+## Epicenter Bitcoin Interview
+
+In April 2014, Max appeared alongside [Stephan Tual](/people/stephan-tual/) on Epicenter Bitcoin episode 16 to discuss Ethereum and decentralized applications:
 
 {% include content-embed.html
   title="Max Kaye & Stephan Tual: Ethereum and Decentralized Applications"

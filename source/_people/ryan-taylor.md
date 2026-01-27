@@ -20,17 +20,6 @@ Ryan's current focus is the [Zero-knowledge Audiovisual Club](https://x.com/ZkAv
 
 {% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963986588872110163" %}
 
-{% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963355821754257518" %}
-
-{% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963356299045065099" %}
-
-{% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963356772401606740" %}
-
-{% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963357732976890025" %}
-
-{% include twitter-embed.html url="https://x.com/BobSummerwill/status/1963358456683065579" %}
-
-
 Here are direct links to the [ethereum.org](https://ethereum.org) snapshots on those dates, so you can explore the site as it was on those particular days in early 2014.  The preservation is not perfect, but some of the snapshots are still surprisingly useable.  Ryan is searching his WordPress backups to see whether these sites can be resurrected in full.
 
 - [6th January 2014](https://web.archive.org/web/20140106005830/http://www.ethereum.org/)

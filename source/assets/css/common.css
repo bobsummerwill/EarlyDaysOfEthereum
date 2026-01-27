@@ -558,7 +558,8 @@ img {
 }
 
 .article-content img,
-.video-content img {
+.video-content img,
+.person-content img {
     width: 50%;
     height: auto;
 }
@@ -2659,9 +2660,10 @@ main {
         width: 100%;
     }
     
-    /* Make images full width on mobile in article and video pages */
+    /* Make images full width on mobile in article, video, and people pages */
     .article-content img,
-    .video-content img {
+    .video-content img,
+    .person-content img {
         width: 100% !important;
     }
 }

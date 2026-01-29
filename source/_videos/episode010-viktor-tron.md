@@ -341,7 +341,7 @@ And of course these are much more difficult to do if these things are, the conte
 
 [[47:26]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2846s) **Viktor Trón:** I mean, you know how Ethereum kind of suffered like this kind of, what's the word for this?
 
-[[47:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2854s) **Bob Summerwill:** Not invented here syndrome.
+[[47:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2854s) **Bob Summerwill:** [Not invented here](https://en.wikipedia.org/wiki/Not_invented_here) syndrome.
 
 [[47:38]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2858s) **Viktor Trón:** Thank you. And like, you know, the [RLP](https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp/), [RLPx](https://github.com/ethereum/devp2p/blob/master/rlpx.md) stuff.
 
@@ -357,7 +357,7 @@ And of course these are much more difficult to do if these things are, the conte
 
 And I mean I remember having discussions with various people on this in sort of 2016 of saying, well, could you have both protocols, you know, people looking at sort of could you do a bridge protocol so that some of the stuff could run over [libp2p](https://libp2p.io/) and you could have like relay nodes really with the thought that with [libp2p](https://libp2p.io/) you could run in a browser. Right, you know, devp2p you could never run in a browser.
 
-And so like Kumar Arest was working with somebody from the Parity team, maybe Robert, around or maybe a little later, 2017, 2018 of trying to see, well, can we get a light client in browser, you know, talking to all of these things but never quite happened. Some of these decisions just last forever.
+And so like [Kumavis](/people/aaron-davis/) was working with somebody from the [Parity](/companies/parity-technologies/) team, maybe [Robert](/people/robert-habermeier/), around or maybe a little later, 2017, 2018 of trying to see, well, can we get a light client in browser, you know, talking to all of these things but never quite happened. Some of these decisions just last forever.
 
 [[49:45]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2985s) **Viktor Trón:** It was only after we, after Swarm left the foundation is when we kind of switched to the [libp2p](https://libp2p.io/) as well, started the Bee client development.
 

@@ -14,7 +14,9 @@ Charles Hoskinson is one of the eight Ethereum co-founders who served as Ethereu
 
 ## Miami Conference
 
-Charles was present at the Miami Bitcoin Conference on January 26, 2014, when [Vitalik Buterin](/people/vitalik-buterin/) first publicly announced Ethereum. He stayed at the house [Anthony Di Iorio](/people/anthony-di-iorio/) rented, appearing in the iconic team photo alongside Dino Mark, Yanislav Malahov, [Anthony D'Onofrio](/people/anthony-d-onofrio/), Steve Dakh, [Wendell Davis](/people/wendell-davis/), [Jonathan Mohan](/people/jonathan-mohan/), [Joe Lubin](/people/joe-lubin/), and Louis Parker.
+Charles was present at the Miami Bitcoin Conference on January 26, 2014, when [Vitalik Buterin](/people/vitalik-buterin/) first publicly announced Ethereum. He stayed at the house [Anthony Di Iorio](/people/anthony-di-iorio/) rented, appearing in the iconic team photo alongside Vitalik Buterin, Joe Lubin, Gavin Wood, Anthony Di Iorio and Taylor Gerring.
+
+![The Ethereum team at the Miami house](/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg)
 
 ## Switzerland Period
 

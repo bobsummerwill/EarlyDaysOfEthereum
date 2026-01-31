@@ -211,6 +211,16 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 *(This was the [EPCA Payment Conference](https://www.pymnts.com/news/2010/epca-payment-conference-2011-amsterdam/) in Amsterdam, 4th-6th April 2011).  EPCA is [European Payments Consulting Association](https://europeanpaymentadvisors.com/).  Amir told me that he was invited there by Sirius ([Marti Malmi](https://x.com/marttimalmi)).*
 
+{% include content-embed.html
+  src="https://www.youtube.com/embed/v0m2UN3nT0c"
+  url="https://www.youtube.com/watch?v=v0m2UN3nT0c"
+  title="Amir Taaki at EPCA Conference 2011 - witcoin.com developed by Jason Khanlar, enthusiastically presented by Amir Taaki"
+  description="Amir Taaki at EPCA Conference 2011 - witcoin.com developed by Jason Khanlar, enthusiastically presented by Amir Taaki"
+  author="Jason Khanlar"
+  date="2011-04-11"
+  site="YouTube"
+%}
+
 [[17:18]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=1038s) **Amir Taaki:** But anyway, so... You know, one of the first things that Gavin Andresen did was to try and get my name off of that list. He got his name added. But anyway, so he was like that. And, you know...
 
 <h3 id="early-bitcoin-development">Early Bitcoin development, Libbitcoin, and BIPs</h3>

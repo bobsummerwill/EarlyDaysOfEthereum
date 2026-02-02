@@ -4,6 +4,7 @@ description: Built the earliest websites
 photo: /images/archive.org/ethereum.org/20140701165441/taylor-ryan.jpg
 start: Dec 2013
 end: Aug 2014?
+interview: /videos/episode011-ryan-taylor/
 social:
   github: https://github.com/copernicus-mogley
   twitter: https://twitter.com/AdjyLeak

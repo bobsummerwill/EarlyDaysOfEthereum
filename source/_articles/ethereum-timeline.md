@@ -36,10 +36,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   img="/images/image.simplecastcdn.com/2026.01.05/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 
-{% include video-embed.html
-  name="Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014"
-%}
-
 {% include content-embed.html
   url="https://ohiobitcoin.com/vitalik-buterin-ethereum-a-star-is-born-north-american-bitcoin-conference-in-miami-jan-2014-2/"
   title="Vitalik Buterin (Ethereum), a star is born"
@@ -48,24 +44,12 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   img="/images/ohiobitcoin.com/2025.09.28/yRD6Sr-500x372.jpg"
 %}
 
-{% include video-embed.html
-  name="Introducing Ethereum"
-%}
-
 {% include content-embed.html
   url="http://siliconangle.com/blog/2014/02/12/can-ethereum-kill-bitcoin-with-self-executing-contracts/"
   title="Can Ethereum Kill Bitcoin With Self-Executing Contracts?"
   date="February 12, 2014"
   site="SiliconAngle"
   img="/images/d15shllkswkct0.cloudfront.net/2026.01.05/wp-content/blogs.dir/1/files/2025/05/Image-from-iOS-59.jpg"
-%}
-
-{% include video-embed.html
-  name="The upcoming crypto-singularity - Coinscrum"
-%}
-
-{% include video-embed.html
-  name="Ethereum – Your Turn"
 %}
 
 {% include content-embed.html
@@ -77,14 +61,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   img="/images/duncan.co/2025.09.28/Duncan-Rawlinson-Photo-89477-Ethereum-Meetup-Toronto-Ontario-Canada-20140409-IMGL8862-1024x576.jpg"
 %}
 
-{% include video-embed.html
-  name="In Crypto We Trust Hackathon Pitches - Bitcoin Expo 2014"
-%}
-
-{% include video-embed.html
-  name="Crypto Hackathon – Bitcoin Expo 2014!"
-%}
-
 {% include content-embed.html
   url="https://web.archive.org/web/20171124124825/http://bitcoinexpo.ca/"
   title="Bitcoin Expo 2014 Toronto"
@@ -94,111 +70,11 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   img="/images/archive.org/bitcoinexpo.ca/20171124124825/Screenshot.png"
 %}
 
-{% include video-embed.html
-  name="Ethereum Booth at the Bitcoin Expo 2014"
-%}
-
-{% include video-embed.html
-  name="Rare 2014 presentation by Ethereum Co-Founder, Vitalik Buterin"
-%}
-
-{% include video-embed.html
-  name="Why I Joined Ethereum"
-%}
-
-{% include video-embed.html
-  name="Ethereum Video Background loop for Meetup groups and presentations"
-%}
-
-{% include video-embed.html
-  name="What is Ethereum?"
-%}
-
-{% include video-embed.html
-  name="BitVote: time based voting ÐApp on Ethereum"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/07/05/on-abstraction/"
-  title="On Abstraction"
-  author="Vitalik Buterin"
-  date="July 5, 2014"
-  site="Ethereum Blog"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/"
-  title="Towards a 12 second Block Time"
-  author="Vitalik Buterin"
-  date="July 11, 2014"
-  site="Ethereum Blog"
-%}
-
-{% include video-embed.html
-  name="Interview with Ethereum"
-%}
-
 {% include content-embed.html
   url="https://cointelegraph.com/news/cutting-edge-an-interview-with-ethereum-creators-vitalik-buterin-and-gavin-wood"
   title="Cutting edge: An interview with Ethereum creators Vitalik Buterin and Gavin Wood"
   site="Cointelegraph"
   date="July 24, 2014"
-%}
-
-{% include video-embed.html
-  name="Vitalik Buterin explains Ethereum"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2014/08/27/state-ethereum-august-edition/"
-  title="State of Ethereum: August Edition"
-  author="Vitalik Buterin"
-  date="August 27, 2014"
-  site="Ethereum Blog"
-%}
-
-{% include article-embed.html
-  name="Gav's ÐΞV Update I: Where Ethereum's at"
-%}
-
-{% include article-embed.html
-  name="Jeff's Ethereum ÐΞV Update I"
-%}
-
-{% include video-embed.html
-  name="Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps"
-%}
-
-{% include article-embed.html
-  name="ÐΞVcon-0 Recap"
-%}
-
-{% include video-embed.html
-  name="CoinScrum and Proof of Work: Tools for the Future"
-%}
-
-{% include article-embed.html
-  name="Gav's Ethereum ÐΞV Update V"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/03/03/ethereum-launch-process/"
-  title="The Ethereum Launch Process"
-  author="Vinay Gupta"
-  date="March 3, 2015"
-  site="Ethereum Blog"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/04/10/ethereum-foundation-open-call-re-board-selection/"
-  title="Ethereum Foundation Open Call re: Board Selection"
-  author="Vitalik Buterin"
-  date="April 10, 2015"
-  site="Ethereum Blog"
-%}
-
-{% include article-embed.html
-  name="The end of the beginning…"
 %}
 
 {% include content-embed.html
@@ -209,30 +85,11 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   site="Medium"
 %}
 
-{% include article-embed.html
-  name="Another Ethereum ÐΞV Update"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/07/30/announcing-new-foundation-board-executive-director/"
-  title="Announcing the New Foundation Board and Executive Director"
-  date="July 30, 2015"
-  site="Ethereum Blog"
-%}
-
 {% include content-embed.html
   url="http://www.swissapp.mobi/2015/08/02/new-ethereum-structure-executive-director-and-board-members-signal-a-reboot-for-ethereum/"
   title="New Ethereum Structure Executive Director and Board Members Signal a Reboot for Ethereum"
   date="August 2, 2015"
   site="Bitcoin Publication"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2015/09/03/a-message-from-stephan-tual/"
-  title="A Message from Stephan Tual"
-  author="Stephan Tual"
-  date="September 3, 2015"
-  site="Ethereum Blog"
 %}
 
 {% include content-embed.html
@@ -243,28 +100,12 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   site="Medium"
 %}
 
-{% include article-embed.html
-  name="The Last Post"
-%}
-
-{% include content-embed.html
-  url="https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/"
-  title="Cut and Try: building a dream"
-  author="Taylor Gerring"
-  date="February 9, 2016"
-  site="Ethereum Blog"
-%}
-
 {% include content-embed.html
   url="https://web.archive.org/web/20160304212822/https://www.ethereum.org/foundation"
   title="Ethereum Foundation page"
   description="Internet Archive snapshot"
   date="March 4, 2016"
   site="Internet Archive"
-%}
-
-{% include video-embed.html
-  name="Can Ethereum Restore Online Freedom & Transform the Internet?"
 %}
 
 {% include content-embed.html
@@ -296,15 +137,7 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
   site="Hacking Distributed"
 %}
 
-{% include video-embed.html
-  name="Gavin Wood presentation hack of the DAO smart contract and options Ethereum community"
-%}
-
-{% include video-embed.html
-  name="Gavin Wood on how $60M hack of DAO happened and what to do next"
-%}
-
-"Was that because you wanted to make a lot of money?" ([Timestamp](https://youtu.be/JzCGRtGyxvY?t=13m58s))
+Was that because you wanted to make a lot of money? ([Timestamp](https://youtu.be/JzCGRtGyxvY?t=13m58s))
 
 {% include content-embed.html
   url="https://www.coindesk.com/understanding-dao-hack-journalists/"
@@ -384,19 +217,9 @@ document.addEventListener('DOMContentLoaded', function() {
 %}
 
 {% include content-embed.html
-  url="https://www.reddit.com/r/ethtrader/comments/7grmiq/i_remember_cardano_now_red_flags_everywhere/?st=jap372rr&sh=87fee4a0"
-  title="I remember Cardano now… Red flags everywhere."
-  date="November 30, 2017"
-  site="Reddit"
-%}
-
-{% include content-embed.html
   url="https://tokeneconomy.co/visions-of-ether-590858bf848e"
   title="Visions of Ether"
   date="November 16, 2018"
   site="Token Economy"
 %}
 
-{% include article-embed.html
-  name="The Cryptopians"
-%}

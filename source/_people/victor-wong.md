@@ -43,6 +43,14 @@ When the Java client team pulled back from the partnership, BlockApps stepped up
 
 > "We got to get on stage and be able to write a dapp in like 30 seconds."
 
+{% include video-embed.html
+  name="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
+%}
+
+{% include video-embed.html
+  name="DEVCON1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
+%}
+
 The Microsoft announcement at [DEVCON1](/articles/devcon1/) in London marked a turning point for enterprise blockchain adoption. Victor observed the immediate impact:
 
 > "The day after the Microsoft announcement, there was a spike in the price... I think we just did that."

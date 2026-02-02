@@ -84,20 +84,12 @@ Early ConsenSys contributors like Tim (who founded Truffle) and Aaron (who built
 
 The BlockApps team announced STRATO at [DEVCON1](/articles/devcon1/) in London, alongside Microsoft's announcement of Blockchain as a Service on Azure. The Haskell client was the software powering Microsoft's offering.
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/x8jIUg5jXjg"
-  title="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
-  site="https://www.youtube.com/@EthereumProtocol"
-  author="Ethereum"
-  date="November 10, 2015"
+{% include video-embed.html
+  name="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
 %}
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/ExsTb0iglcs"
-  title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
-  site="https://www.youtube.com/@EthereumProtocol"
-  author="Ethereum"
-  date="November 10, 2015"
+{% include video-embed.html
+  name="DEVCON1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
 %}
 
 ## Enterprise Ethereum Alliance

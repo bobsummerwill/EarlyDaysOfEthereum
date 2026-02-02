@@ -74,12 +74,12 @@ Jim was part of the team that announced BlockApps STRATO at [DEVCON1](/articles/
 
 > "Microsoft guys were pretty mad at that time... They had like pre-announced something or something and then the Java guys sort of disappeared."
 
-{% include content-embed.html
-  src="https://www.youtube.com/embed/ExsTb0iglcs"
-  title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
-  site="https://www.youtube.com/@EthereumProtocol"
-  author="Ethereum"
-  date="November 10, 2015"
+{% include video-embed.html
+  name="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
+%}
+
+{% include video-embed.html
+  name="DEVCON1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
 %}
 
 ## Devcon 2 and Technical Challenges

@@ -109,12 +109,6 @@ In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonatha
 %}
 
 {% include content-embed.html
-  url="https://github.com/ethereumbook/ethereumbook/blob/develop/contrib/forks-history.asciidoc"
-  title="Extensive timeline for the DAO fork"
-  site="GitHub"
-%}
-
-{% include content-embed.html
   url="https://medium.com/@gavofyork/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447"
   title="Why I've Resigned as a Curator of the DAO"
   author="Gavin Wood"

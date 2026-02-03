@@ -6,6 +6,7 @@ photo: /images/x.com/2025.11.25/chfast/pawel-bylica.jpg
 start: Nov 2014
 end: Jun 2025
 devcon0: '1555'
+devcon0_thumbnail: pawel-bylica.jpg
 social:
   linkedin: https://www.linkedin.com/in/pawelbylica/
   twitter: https://twitter.com/chfast

@@ -130,10 +130,14 @@ embed-content-width: 50%
   {% if page.devcon0 %}
   <div class="devcon0-section">
     <h4 class="devcon0-header">DEVCON0 self-introduction</h4>
-    {% assign name_parts = page.name | split: ' ' %}
-    {% assign firstname = name_parts[0] | downcase %}
-    {% assign lastname = name_parts[-1] | downcase %}
-    {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+    {% if page.devcon0_thumbnail %}
+        {% assign thumbnail_filename = page.devcon0_thumbnail %}
+    {% else %}
+        {% assign name_parts = page.name | split: ' ' %}
+        {% assign firstname = name_parts[0] | downcase %}
+        {% assign lastname = name_parts[-1] | downcase %}
+        {% assign thumbnail_filename = firstname | append: '-' | append: lastname | append: '.jpg' %}
+    {% endif %}
     {% assign thumbnail_path = '/images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
     {% assign thumbnail_file_path = 'images/youtube.com/BvvUlKDqp0/thumbnails/' | append: thumbnail_filename %}
     

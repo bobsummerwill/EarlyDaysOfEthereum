@@ -5,6 +5,7 @@ photo: /images/archive.org/ethdev.com/20150315012946/viktor-tron.jpg
 start: Feb 2014
 end: present
 devcon0: '1421'
+devcon0_thumbnail: viktor-tron.jpg
 interview: /videos/episode010-viktor-tron/
 social:
   github: https://github.com/zelig

@@ -35,6 +35,14 @@ table_of_contents:
     title: "Wrap-up"
 ---
 
+## Audio
+
+<audio controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/audio/episode011-ryan-taylor.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ## Transcript
 
 <!-- TABLE_OF_CONTENTS -->
@@ -57,7 +65,7 @@ table_of_contents:
 
 [[00:21]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=21s) **Bob Summerwill:** Right. So you need a new tag.
 
-[[00:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=24s) **Ryan Taylor:** Yeah. Now that my ghostliness has been revealed. It's true. I feel like I'm a Scooby-Doo episode. A bad Scooby-Doo episode. It was Ryan Taylor all along. So we're actually here to talk. First, we'll talk about your project. And we're here at Dark Prague just to kind of give an atmosphere to what's happening. This is quite a fascinating story, and this is a real meta happening here because we're in the ZK AV Club recording station, an experiment that I've created. The ZK AV Club is a community that really helps communities to document ourselves by deploying things like this recording station. It's inspired by Hackers Congress at Paralelní Polis, and something that I did similar in 2017 and 2018 with Matt in this very building. In this very building.
+[[00:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=24s) **Ryan Taylor:** Yeah. Now that my ghostliness has been revealed. It's true. I feel like I'm a Scooby-Doo episode. A bad Scooby-Doo episode. It was Ryan Taylor all along. So we're actually here to talk. First, we'll talk about your project. And we're here at Dark Prague just to kind of give an atmosphere to what's happening. This is quite a fascinating story, and this is a real meta happening here because we're in the ZK AV Club recording station, an experiment that I've created. The ZK AV Club is a community that really helps communities to document ourselves by deploying things like this recording station. It's inspired by Hackers Congress at [Paralelní Polis](https://www.paralelnipolis.cz/), and something that I did similar in 2017 and 2018 with Matt in this very building. In this very building.
 
 [[01:17]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=77s) **Bob Summerwill:** In this very room.
 
@@ -65,21 +73,21 @@ table_of_contents:
 
 <h3 id="origins-of-early-days-of-ethereum">Origins of Early Days of Ethereum</h3>
 
-[[02:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=121s) **Bob Summerwill:** Yeah, so my own initial involvement with Ethereum started in early 2014. Met a guy in a pub who said, hey, have you ever heard of Bitcoin? And off we went down the rabbit hole. Going to meetups and things in Vancouver. In June of that year, Vitalik was actually in town, spending a day with my friend, and he brought him out for an evening dinner thing. So I got to meet Vitalik. So that was prior to the Ethereum Foundation. Even just before. And long story short, I ended up working at the Ethereum Foundation in 2016, at ConsenSys, Enterprise Ethereum Alliance, through 2016, 2017. In 2017, late 2017, Laura Shin contacted me and said, I hear Ming Chan has been fired as the executive director of the Ethereum Foundation. Do you know anything about it? And I said, no, but it wouldn't surprise me. And anyway, shortly afterwards, I spoke to Vitalik and offered my help with the transition, whatever was going to be next. And he asked me, he just said, well, maybe you can go and talk to everyone, talk to people in the community and try and work out what they would like the Ethereum Foundation to be. So at that point there wasn't really any canonical history.
+[[02:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=121s) **Bob Summerwill:** Yeah, so my own initial involvement with Ethereum started in early 2014. Met a guy in a pub who said, hey, have you ever heard of Bitcoin? And off we went down the rabbit hole. Going to meetups and things in Vancouver. In June of that year, [Vitalik](/people/vitalik-buterin/) was actually in town, spending a day with my friend, and he brought him out for an evening dinner thing. So I got to meet [Vitalik](/people/vitalik-buterin/). So that was prior to the Ethereum Foundation. Even just before. And long story short, I ended up working at the Ethereum Foundation in 2016, at ConsenSys, Enterprise Ethereum Alliance, through 2016, 2017. In 2017, late 2017, Laura Shin contacted me and said, I hear Ming Chan has been fired as the executive director of the Ethereum Foundation. Do you know anything about it? And I said, no, but it wouldn't surprise me. And anyway, shortly afterwards, I spoke to [Vitalik](/people/vitalik-buterin/) and offered my help with the transition, whatever was going to be next. And he asked me, he just said, well, maybe you can go and talk to everyone, talk to people in the community and try and work out what they would like the Ethereum Foundation to be. So at that point there wasn't really any canonical history.
 
 [[03:31]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=211s) **Ryan Taylor:** Right.
 
-[[03:33]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=213s) **Bob Summerwill:** Like some of it was sort of, I guess an intentional cloud or they'd just been like the drama with their founders. And I just didn't know. It was like, okay, so how did she get hired? Like, what was happening beforehand? That came about. And so I just started talking to everyone, both in terms of what they thought things should be, but also, well, when did you get started, what were you doing? And so on. So talking to people primarily within that Ethereum Foundation context, but also in the broader community. So I actually spent, I don't know, three or four months, something like that, gathering this bunch of background information as part of these interviews and conversations and really trying to synthesize all of that, help advise Vitalik. So I then put together these two blog posts. They were just WordPress things on my website, which was Ethereum Foundation People and Ethereum Foundation Timeline. And they were really kind of secondary things out of this primary function, which was trying to advise Vitalik. And then the advice, what everyone wanted was transparency, a voice for community, professional execution, various other things. Anyway, so none of that happened. So I kind of put this stuff to the side. It's like, okay, right, I've got some historical pages, but whatever, I'm off doing other things.
+[[03:33]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=213s) **Bob Summerwill:** Like some of it was sort of, I guess an intentional cloud or they'd just been like the drama with their founders. And I just didn't know. It was like, okay, so how did she get hired? Like, what was happening beforehand? That came about. And so I just started talking to everyone, both in terms of what they thought things should be, but also, well, when did you get started, what were you doing? And so on. So talking to people primarily within that Ethereum Foundation context, but also in the broader community. So I actually spent, I don't know, three or four months, something like that, gathering this bunch of background information as part of these interviews and conversations and really trying to synthesize all of that, help advise [Vitalik](/people/vitalik-buterin/). So I then put together these two blog posts. They were just WordPress things on my website, which was Ethereum Foundation People and Ethereum Foundation Timeline. And they were really kind of secondary things out of this primary function, which was trying to advise [Vitalik](/people/vitalik-buterin/). And then the advice, what everyone wanted was transparency, a voice for community, professional execution, various other things. Anyway, so none of that happened. So I kind of put this stuff to the side. It's like, okay, right, I've got some historical pages, but whatever, I'm off doing other things.
 
 [[05:15]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=315s) **Ryan Taylor:** And what year was this?
 
-[[05:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=316s) **Bob Summerwill:** This was late 2017, early 2018. So those pages actually got published, I think in kind of about March 2018 or a little later. But I'd been working, that's when I first announced them. I think I'd actually been working on them in the prior months. Anyway, in 2023, the co-founders of BlockApps who did the Haskell client, they'd been working together for eight years at that point and they decided they should just have a little session where they all just talked about their memories of the early days, because they'd been involved very, very early. So Kieren James-Lubin, the CEO, Joe Lubin's son, worked out with him just recently. It was actually March 2014 when he first got involved. He was actually in Zug for the Red Wedding. So anyway, they did two like one hour, one and a half hour videos together, the three co-founders talking about all their early memories. And I've known Victor and Kieren for nearly that long and I just love the videos. It's like, oh, this is right up my street. I just love the Ethereum history. And because of that role I've had, I do know lots of early people and I know a lot about this stuff. An unholy amount, I know. So I just love these videos. And I made some real copious notes and I started gathering together photos and links to videos. And some of the things they said, I could make some slight corrections, I knew some of those details a bit better, or some of the things they were saying, I didn't know, I hadn't seen those particular parts. Anyway, through my geekiness there, they actually invited me on as a guest for the third one, which again, it was 2023.
+[[05:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=316s) **Bob Summerwill:** This was late 2017, early 2018. So those pages actually got published, I think in kind of about March 2018 or a little later. But I'd been working, that's when I first announced them. I think I'd actually been working on them in the prior months. Anyway, in 2023, the co-founders of BlockApps who did the Haskell client, they'd been working together for eight years at that point and they decided they should just have a little session where they all just talked about their memories of the early days, because they'd been involved very, very early. So Kieren James-Lubin, the CEO, Joe Lubin's son, worked out with him just recently. It was actually March 2014 when he first got involved. He was actually in Zug for the Red Wedding. So anyway, they did two like one hour, one and a half hour videos together, the three co-founders talking about all their early memories. And I've known Victor and [Kieren](/people/kieren-james-lubin/) for nearly that long and I just love the videos. It's like, oh, this is right up my street. I just love the Ethereum history. And because of that role I've had, I do know lots of early people and I know a lot about this stuff. An unholy amount, I know. So I just love these videos. And I made some real copious notes and I started gathering together photos and links to videos. And some of the things they said, I could make some slight corrections, I knew some of those details a bit better, or some of the things they were saying, I didn't know, I hadn't seen those particular parts. Anyway, through my geekiness there, they actually invited me on as a guest for the third one, which again, it was 2023.
 
 <h3 id="building-the-website-with-ai">Building the website with AI</h3>
 
 [[07:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=443s) **Ryan Taylor:** So at this point you're becoming sort of the Ethereum historian, kind of.
 
-[[07:26]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=446s) **Bob Summerwill:** Yeah. And so their two that they recorded were October 2023. The third one we did together was in November 2023. And then coming into 2025 it ended up that I started working with them. So we're colleagues now and we were doing a fairly regular Twitter Spaces. But just with the timing of the product that we're working on, it's like a pending release, but we're not really ready to talk about the product yet because it's not quite ready. And we were just, what are we going to talk about this week? And it's like, maybe we could do another of those, because we'd only talked up to about 2017. There's loads still to go. But I thought, well, maybe we get a guest. So I spoke to Taylor Gerring, and Taylor was involved from December 2013. He was one of the first directors of the Ethereum Foundation. He wasn't an Ethereum co-founder, he wasn't in the glorious eight, but he was a co-founder of the Ethereum Foundation. So we did an hour chat with him and that was great. And so afterwards I was like, oh, I guess I need to make the notes for this one as well. And then I'm like, am I going to put those on my website as well? Am I going to do the same? And then it was like, yeah, no I shouldn't really. And I'd always said with those initial ones, at some point I'll pull them out of WordPress and I'll make a GitHub project so that other people can help and contribute. But I'd never done it. So it's like, okay, actually, I should move that stuff into GitHub. And then I made another markdown file with notes for this. But then it's like, that looks a bit lame. And I'm like, coding, AI coding tools are great. So I'm like, hey AI, can you make me a website from this? And it looked pretty good. And so this was August of this year that I basically went from nothing to okay, well if I combine my earlier people and timeline things with these newer interviews, that fits together into a cohesive kind of whole. And Early Days of Ethereum was the name that the other guys chose for their little videos. And then it's like, yeah, okay, that's a good name for the whole thing. And then I just started iterating and using Claude in Visual Studio Code, all of a sudden you can do web development stuff so easy now. It's honestly like a 50x or 100x faster. It's just like, yep. And I've been able to just iterate so fast. And then we had a second interview with Texture, Anthony D'Onofrio, who was the first Ethereum community guy. So that happened. And then I'm making copious notes on that. And then the run up to the interview, I'm just dropping stuff in Twitter as I'm finding things. I'm kind of preparing a profile for him ahead of the interview. And it's just got a life of its own. And then in terms of you, so I had first seen your name back in 2017 or maybe 2018. Because one of the things I was looking at there is looking at the Internet Archive snapshots of the websites through those early months. And you were there, but I think it just said, Ryan Taylor, dev, web dev, or something like that.
+[[07:26]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=446s) **Bob Summerwill:** Yeah. And so their two that they recorded were October 2023. The third one we did together was in November 2023. And then coming into 2025 it ended up that I started working with them. So we're colleagues now and we were doing a fairly regular Twitter Spaces. But just with the timing of the product that we're working on, it's like a pending release, but we're not really ready to talk about the product yet because it's not quite ready. And we were just, what are we going to talk about this week? And it's like, maybe we could do another of those, because we'd only talked up to about 2017. There's loads still to go. But I thought, well, maybe we get a guest. So I spoke to Taylor Gerring, and [Taylor](/people/taylor-gerring/) was involved from December 2013. He was one of the first directors of the Ethereum Foundation. He wasn't an Ethereum co-founder, he wasn't in the glorious eight, but he was a co-founder of the Ethereum Foundation. So we did an hour chat with him and that was great. And so afterwards I was like, oh, I guess I need to make the notes for this one as well. And then I'm like, am I going to put those on my website as well? Am I going to do the same? And then it was like, yeah, no I shouldn't really. And I'd always said with those initial ones, at some point I'll pull them out of WordPress and I'll make a GitHub project so that other people can help and contribute. But I'd never done it. So it's like, okay, actually, I should move that stuff into GitHub. And then I made another markdown file with notes for this. But then it's like, that looks a bit lame. And I'm like, coding, AI coding tools are great. So I'm like, hey AI, can you make me a website from this? And it looked pretty good. And so this was August of this year that I basically went from nothing to okay, well if I combine my earlier people and timeline things with these newer interviews, that fits together into a cohesive kind of whole. And Early Days of Ethereum was the name that the other guys chose for their little videos. And then it's like, yeah, okay, that's a good name for the whole thing. And then I just started iterating and using Claude in Visual Studio Code, all of a sudden you can do web development stuff so easy now. It's honestly like a 50x or 100x faster. It's just like, yep. And I've been able to just iterate so fast. And then we had a second interview with Texture, Anthony D'Onofrio, who was the first Ethereum community guy. So that happened. And then I'm making copious notes on that. And then the run up to the interview, I'm just dropping stuff in Twitter as I'm finding things. I'm kind of preparing a profile for him ahead of the interview. And it's just got a life of its own. And then in terms of you, so I had first seen your name back in 2017 or maybe 2018. Because one of the things I was looking at there is looking at the [Internet Archive](https://archive.org/) snapshots of the websites through those early months. And you were there, but I think it just said, Ryan Taylor, dev, web dev, or something like that.
 
 [[11:20]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=680s) **Ryan Taylor:** Something along those lines.
 
@@ -113,9 +121,9 @@ table_of_contents:
 
 [[14:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=893s) **Ryan Taylor:** Yeah, yeah, yeah. And then like there used to be cross-browser testing and all of this. And that's all taken into account.
 
-[[14:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=898s) **Bob Summerwill:** Yeah, just, hey, crap it all out, please. Right, please do this. And write copious notes on how it all works. And for these, oh, can you move the styling, I don't want the blue there. Please remove the spaces here. But, oh, here's an image. Can you just like, here's a snapshot of another site, like for my own site. Right, cloning yours. So the visual look of it right now is cloned from the website that you built in March 2014. And it's like, right, hey, point a URL to the Internet Archive snapshot of that. Yeah, please use all the same fonts, the same style colors and it just does it.
+[[14:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=898s) **Bob Summerwill:** Yeah, just, hey, crap it all out, please. Right, please do this. And write copious notes on how it all works. And for these, oh, can you move the styling, I don't want the blue there. Please remove the spaces here. But, oh, here's an image. Can you just like, here's a snapshot of another site, like for my own site. Right, cloning yours. So the visual look of it right now is cloned from the website that you built in March 2014. And it's like, right, hey, point a URL to the [Internet Archive](https://archive.org/) snapshot of that. Yeah, please use all the same fonts, the same style colors and it just does it.
 
-[[15:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=943s) **Ryan Taylor:** I had no idea when I was writing that code. It never would have occurred to me that a machine would be copying it for anyone else in such a simple way. And now if you go to the ZK AV Club website, it's funny because it's actually just a markdown file. Because I'm a retired web dev, I did not want to make a new website. And so I'm doing the opposite of, you went from a website to GitHub using the AI and then from GitHub of markdown into back into a website. So we're starting with the GitHub with just markdown. And then I have an idea of how anyone can vibe code the site into something different and we can have the design actually change on a really weekly, monthly basis or something like that. The way you're talking about it, it's crazy easy. I didn't know you could just point it to Internet Archive.
+[[15:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=943s) **Ryan Taylor:** I had no idea when I was writing that code. It never would have occurred to me that a machine would be copying it for anyone else in such a simple way. And now if you go to the ZK AV Club website, it's funny because it's actually just a markdown file. Because I'm a retired web dev, I did not want to make a new website. And so I'm doing the opposite of, you went from a website to GitHub using the AI and then from GitHub of markdown into back into a website. So we're starting with the GitHub with just markdown. And then I have an idea of how anyone can vibe code the site into something different and we can have the design actually change on a really weekly, monthly basis or something like that. The way you're talking about it, it's crazy easy. I didn't know you could just point it to [Internet Archive](https://archive.org/).
 
 [[16:31]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=991s) **Bob Summerwill:** Totally. Just like, hey, make me a new Jekyll static HTML project. Please define GitHub Actions to automatically deploy it to GitHub Pages. Add this, add the other. Just commit it. And it's just pushing, right? It's pushing live. There you go. I didn't know any of that.
 
@@ -171,7 +179,7 @@ table_of_contents:
 
 [[23:36]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1416s) **Ryan Taylor:** Yeah, just fact checking to do.
 
-[[23:39]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1419s) **Bob Summerwill:** Right. Thanks for the great links. Now I'll go and follow them. And I mean, it's obviously not perfect. Like, one of the things is I found a guy who'd interviewed Vitalik really early in 2014 and then found out, oh, he actually wrote the forward to Proof of Stake, which is Vitalik's most recent book. So it's like a collection of articles and blog posts and things from Vitalik. It's kind of an academic kind of guy curating that. So it's the writings of Vitalik with commentary and context.
+[[23:39]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1419s) **Bob Summerwill:** Right. Thanks for the great links. Now I'll go and follow them. And I mean, it's obviously not perfect. Like, one of the things is I found a guy who'd interviewed [Vitalik](/people/vitalik-buterin/) really early in 2014 and then found out, oh, he actually wrote the forward to Proof of Stake, which is [Vitalik](/people/vitalik-buterin/)'s most recent book. So it's like a collection of articles and blog posts and things from [Vitalik](/people/vitalik-buterin/). It's kind of an academic kind of guy curating that. So it's the writings of [Vitalik](/people/vitalik-buterin/) with commentary and context.
 
 [[24:17]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1457s) **Ryan Taylor:** Very cool.
 
@@ -183,29 +191,29 @@ table_of_contents:
 
 [[25:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1516s) **Ryan Taylor:** And a lot of them might have common names. Not the case with me. So if you ask an AI about Ryan Taylor, then it's going to have a difficult time just determining, distinguishing the differences.
 
-[[25:27]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1527s) **Bob Summerwill:** But yeah, I mean, so I guess so. I did a talk here at Dark Prague yesterday which was titled A Social History. And the framing, beyond just presenting the website and finding some old good videos to share, was the framing of that was great man theory, which is a very common form of history, started in the 19th century as this proposition. That history is formed by these heroes, these great men who are, through power of character and superior intellect and skills and talents, shape the world with their actions. And that's the sort of stuff humans like, you want your heroes and your leaders, your main characters that you're cheering for and everything. And that obviously happens within Ethereum. So it's like, right, your great man theory is, oh, Vitalik, the boy genius, invented and created everything and he was only 19. And other main characters, like Satoshi, amazing Satoshi and Vitalik and then Charles and Gav and everyone. But it's not actually really true, right? It's a simple way of presenting narratives and stories. But another way of looking at things is called social history, also known as history from below, which is really telling the story of the normal people, and really pointing out that something like Ethereum, it's the work of many hands. It wasn't just like Vitalik just did it on his own. That's true. And sure enough, when I've gathered this information from the very earliest days, there were lots and lots of people doing things. And so Vitalik did the white paper in November 2013, and maybe a few people he was talking to, and then he released that. Then through December, a bunch of people came in and got involved, in January, tons more people. And within a very short period of time, you've got 30 or 40 people actively doing stuff, up to the crowd sale. So people who contributed to work on Ethereum, prior to the crowd sale, there was an allocation, right? You'd got 9.9% was reserved for the Ethereum Foundation, 9.9% for early contributors. And that was done in a very kind of equitable way. If you've done, if you were working full time, that's a full allocation, right? It doesn't matter who you were, what you're doing or anything. But if you were there and you spent your time there, you get that funding. And I think there were 80 or 100 people within that group over that period.
+[[25:27]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1527s) **Bob Summerwill:** But yeah, I mean, so I guess so. I did a talk here at Dark Prague yesterday which was titled A Social History. And the framing, beyond just presenting the website and finding some old good videos to share, was the framing of that was great man theory, which is a very common form of history, started in the 19th century as this proposition. That history is formed by these heroes, these great men who are, through power of character and superior intellect and skills and talents, shape the world with their actions. And that's the sort of stuff humans like, you want your heroes and your leaders, your main characters that you're cheering for and everything. And that obviously happens within Ethereum. So it's like, right, your great man theory is, oh, [Vitalik](/people/vitalik-buterin/), the boy genius, invented and created everything and he was only 19. And other main characters, like Satoshi, amazing Satoshi and [Vitalik](/people/vitalik-buterin/) and then [Charles](/people/charles-hoskinson/) and [Gav](/people/gavin-wood/) and everyone. But it's not actually really true, right? It's a simple way of presenting narratives and stories. But another way of looking at things is called social history, also known as history from below, which is really telling the story of the normal people, and really pointing out that something like Ethereum, it's the work of many hands. It wasn't just like [Vitalik](/people/vitalik-buterin/) just did it on his own. That's true. And sure enough, when I've gathered this information from the very earliest days, there were lots and lots of people doing things. And so [Vitalik](/people/vitalik-buterin/) did the white paper in November 2013, and maybe a few people he was talking to, and then he released that. Then through December, a bunch of people came in and got involved, in January, tons more people. And within a very short period of time, you've got 30 or 40 people actively doing stuff, up to the crowd sale. So people who contributed to work on Ethereum, prior to the crowd sale, there was an allocation, right? You'd got 9.9% was reserved for the Ethereum Foundation, 9.9% for early contributors. And that was done in a very kind of equitable way. If you've done, if you were working full time, that's a full allocation, right? It doesn't matter who you were, what you're doing or anything. But if you were there and you spent your time there, you get that funding. And I think there were 80 or 100 people within that group over that period.
 
-[[28:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1733s) **Ryan Taylor:** Yeah, making quite a bit of sacrifice because there was no guarantee of pay, there was no guarantee that it would work. Vitalik had the benefit of writing for Bitcoin Magazine. He was writing I think like 80% of the stuff that was coming out, especially in the print magazine. So when he started to approach people about Ethereum, people listened and that's got that credibility. There was this big wave right at the beginning and then the anticipation of the website with the countdown and this sort of sunrise image coming up and people were excited because Bitcoin was starting to move. I mean Bitcoin was right around the hundred dollar mark I think.
+[[28:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1733s) **Ryan Taylor:** Yeah, making quite a bit of sacrifice because there was no guarantee of pay, there was no guarantee that it would work. [Vitalik](/people/vitalik-buterin/) had the benefit of writing for [Bitcoin Magazine](https://bitcoinmagazine.com/). He was writing I think like 80% of the stuff that was coming out, especially in the print magazine. So when he started to approach people about Ethereum, people listened and that's got that credibility. There was this big wave right at the beginning and then the anticipation of the website with the countdown and this sort of sunrise image coming up and people were excited because Bitcoin was starting to move. I mean Bitcoin was right around the hundred dollar mark I think.
 
 [[29:33]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1773s) **Bob Summerwill:** But yeah, so the reality is that Ethereum, as many other projects, is the work of many hands and many of those people are forgotten. Maybe their roles were not very public facing, like yourself. Thousands, tens of thousands of people saw the websites that you built. No idea who you were. I didn't either. Despite my closeness in the ecosystem for all these years, I don't know who Ryan Taylor is.
 
-[[30:12]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1812s) **Ryan Taylor:** Yeah, yeah. And this goes for anyone who makes websites, right. A lot of times it's looked at as something that some agency was farmed out to do it or who knows, people put such a halo on Vitalik that they may have thought that he did the website. And the website that you've made, Early Days of Ethereum, this is so great that it's bringing all of this forward to show like hey, all of these other people were involved. Where are they now? What did they put into the project? And that's how I ended up finding you, was because of the website. So I think you followed me on X. And then after years of looking for me, I went and I was like oh, Early Days of Ethereum. And I click on it and there's a picture of the website that I built, and some dates, no picture, just Ryan Taylor I think at this time. And then it said 2014 to question mark. Yeah, and I just reached out to give you a little bit of extra info and now here we are.
+[[30:12]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1812s) **Ryan Taylor:** Yeah, yeah. And this goes for anyone who makes websites, right. A lot of times it's looked at as something that some agency was farmed out to do it or who knows, people put such a halo on [Vitalik](/people/vitalik-buterin/) that they may have thought that he did the website. And the website that you've made, Early Days of Ethereum, this is so great that it's bringing all of this forward to show like hey, all of these other people were involved. Where are they now? What did they put into the project? And that's how I ended up finding you, was because of the website. So I think you followed me on X. And then after years of looking for me, I went and I was like oh, Early Days of Ethereum. And I click on it and there's a picture of the website that I built, and some dates, no picture, just Ryan Taylor I think at this time. And then it said 2014 to question mark. Yeah, and I just reached out to give you a little bit of extra info and now here we are.
 
 <h3 id="forgotten-pioneers-and-erasure">Forgotten pioneers and erasure</h3>
 
-[[31:09]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1869s) **Bob Summerwill:** Right, absolutely. And yeah, so in my talk yesterday there are a couple of other people that I mentioned on that thread. So there was a guy called Kyle Kurbegovich who had a thing called CoinTalk. So CoinTalk was one of the first blockchain shows. So he was based out of Toronto. He worked out of Bitcoin Decentral, Anthony Di Iorio's co-working space where Vitalik also worked. So he was basically like the media dude, he was the guy with the video camera and was doing these shows. So they were recorded, videoed, released, both as audio streams and videos, and kind of like blog posts. But the blogs were basically just like wrapping the video content with a little description. They weren't long. But he basically did that between December 2013, March 2014, very actively. Like, I think he did like one post in the May and one later in the year. But basically had just this little period where he was doing stuff and then CoinTalk stopped and the website lapsed. His Vimeo channel went away. The YouTube one ended and completely forgotten. But what I found was as I was digging into a lot of these early videos, there's a number of videos that were done in January, February. So probably the best known of those is Vitalik presenting at Bitcoin Miami. Like, hey, here's the first Ethereum talk that he was giving. And then he's out of the room and there's people swarming around him. It's like, wow, this new project. But then there was one called Introducing Ethereum that was done in early February. And then there was this fantastic one called Ethereum Your Turn, that was in March with a Charles Hoskinson voiceover. And then there was like Bitcoin Expo in April of 2014. Some of these videos I'd seen, they were still around. I didn't know that they were from him. When I went back in and looked at all of this stuff, it's like, oh, these things got released on his channel first. If you look at the early websites, he was listed as media, CoinTalk, partner or whatever. Right. Because he was part of Bitcoin Decentral. And Anthony Di Iorio just, bring in Kyle. Right, yeah, he's here. Well, yeah, report on this Ethereum stuff. And yeah, looking at some of those videos. So Ian Meikle and Richard Stott, who were like the graphic designers who did a lot of the very famous kind of background screen, like the geographical stuff, like, I think, the geometric pattern that you had on that.
+[[31:09]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=1869s) **Bob Summerwill:** Right, absolutely. And yeah, so in my talk yesterday there are a couple of other people that I mentioned on that thread. So there was a guy called Kyle Kurbegovich who had a thing called CoinTalk. So CoinTalk was one of the first blockchain shows. So he was based out of Toronto. He worked out of [Bitcoin Decentral](https://en.wikipedia.org/wiki/Decentral), Anthony Di Iorio's co-working space where [Vitalik](/people/vitalik-buterin/) also worked. So he was basically like the media dude, he was the guy with the video camera and was doing these shows. So they were recorded, videoed, released, both as audio streams and videos, and kind of like blog posts. But the blogs were basically just like wrapping the video content with a little description. They weren't long. But he basically did that between December 2013, March 2014, very actively. Like, I think he did like one post in the May and one later in the year. But basically had just this little period where he was doing stuff and then CoinTalk stopped and the website lapsed. His Vimeo channel went away. The YouTube one ended and completely forgotten. But what I found was as I was digging into a lot of these early videos, there's a number of videos that were done in January, February. So probably the best known of those is [Vitalik](/people/vitalik-buterin/) presenting at Bitcoin Miami. Like, hey, here's the first Ethereum talk that he was giving. And then he's out of the room and there's people swarming around him. It's like, wow, this new project. But then there was one called Introducing Ethereum that was done in early February. And then there was this fantastic one called Ethereum Your Turn, that was in March with a Charles Hoskinson voiceover. And then there was like Bitcoin Expo in April of 2014. Some of these videos I'd seen, they were still around. I didn't know that they were from him. When I went back in and looked at all of this stuff, it's like, oh, these things got released on his channel first. If you look at the early websites, he was listed as media, CoinTalk, partner or whatever. Right. Because he was part of [Bitcoin Decentral](https://en.wikipedia.org/wiki/Decentral). And Anthony Di Iorio just, bring in [Kyle](/people/kyle-kurbegovich/). Right, yeah, he's here. Well, yeah, report on this Ethereum stuff. And yeah, looking at some of those videos. So Ian Meikle and Richard Stott, who were like the graphic designers who did a lot of the very famous kind of background screen, like the geographical stuff, like, I think, the geometric pattern that you had on that.
 
 [[34:45]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2085s) **Ryan Taylor:** Right, yeah.
 
-[[34:46]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2086s) **Bob Summerwill:** With the diamond kind of crystalline. Yeah. So that was them. And I kind of assumed all of these early videos were from them as well. But you look at them, they're too early. They were actually before those guys were around. And I don't know. But I think Kyle did these.
+[[34:46]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2086s) **Bob Summerwill:** With the diamond kind of crystalline. Yeah. So that was them. And I kind of assumed all of these early videos were from them as well. But you look at them, they're too early. They were actually before those guys were around. And I don't know. But I think [Kyle](/people/kyle-kurbegovich/) did these.
 
 [[35:04]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2104s) **Ryan Taylor:** Quite likely. Yeah.
 
-[[35:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2106s) **Bob Summerwill:** But again, Kyle's a ghost, all that. I think he sort of did that and then he's like, I'm out of here. Sell my crypto, go and do whatever he's doing. I think there is an IMDb entry for him doing some. But he's another guy, I really want to get in contact with him. And there's so many of these things where people had these active roles, did stuff and then they're forgotten. Either just forgotten or there was actually some erasure as well. The initial Bitcoin Talk article was January 23rd, 2014. But they changed it about 8 or 9 months later. It got dirty edited and a whole bunch of people got written out.
+[[35:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2106s) **Bob Summerwill:** But again, [Kyle](/people/kyle-kurbegovich/)'s a ghost, all that. I think he sort of did that and then he's like, I'm out of here. Sell my crypto, go and do whatever he's doing. I think there is an IMDb entry for him doing some. But he's another guy, I really want to get in contact with him. And there's so many of these things where people had these active roles, did stuff and then they're forgotten. Either just forgotten or there was actually some erasure as well. The initial Bitcoin Talk article was January 23rd, 2014. But they changed it about 8 or 9 months later. It got dirty edited and a whole bunch of people got written out.
 
 [[36:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2160s) **Ryan Taylor:** Wow.
 
-[[36:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2160s) **Bob Summerwill:** And I think that was basically after the Red Wedding. And it's like, right, Charles and Amir aren't here, we're going to change the primary people. And it also on the earlier one said, here's our fiduciary team. And it's probably, oh, we probably shouldn't be saying fiduciary team. But the other thing is all the rest of the team just got wiped.
+[[36:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2160s) **Bob Summerwill:** And I think that was basically after the Red Wedding. And it's like, right, [Charles](/people/charles-hoskinson/) and [Amir](/people/amir-chetrit/) aren't here, we're going to change the primary people. And it also on the earlier one said, here's our fiduciary team. And it's probably, oh, we probably shouldn't be saying fiduciary team. But the other thing is all the rest of the team just got wiped.
 
 [[36:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2183s) **Ryan Taylor:** Wow. So like, there's...
 
@@ -219,13 +227,13 @@ table_of_contents:
 
 [[36:39]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2199s) **Bob Summerwill:** That's right.
 
-[[36:40]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2200s) **Ryan Taylor:** And Kyle was working with Di Iorio and brought a lot of people in. Yeah, that was early 2014. You can see the names start to pile in. And a lot of that was coming from Anthony Di Iorio.
+[[36:40]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2200s) **Ryan Taylor:** And [Kyle](/people/kyle-kurbegovich/) was working with [Di Iorio](/people/anthony-di-iorio/) and brought a lot of people in. Yeah, that was early 2014. You can see the names start to pile in. And a lot of that was coming from Anthony Di Iorio.
 
-[[36:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2210s) **Bob Summerwill:** Yeah, absolutely. Well, because the other thing as well, there's a video there which is the opening night of Decentral, of Bitcoin Decentral. So that was January 1, 2014, on a snowy day. You can see it was all snowy outside in Toronto. And that was like, hey, opening this co-working space. And these teams are based here. Which was like CryptoKit, CoinTalk, Ethereum with a weird text. It's like there was no logo or whatever. It's just very strange plain font. But also Bitcoin Alliance of Canada and saying, oh, and we're also hosting Bitcoin Expo coming up in April of that year. But the thought there was, Ethereum is going to be built out of Toronto.
+[[36:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2210s) **Bob Summerwill:** Yeah, absolutely. Well, because the other thing as well, there's a video there which is the opening night of Decentral, of [Bitcoin Decentral](https://en.wikipedia.org/wiki/Decentral). So that was January 1, 2014, on a snowy day. You can see it was all snowy outside in Toronto. And that was like, hey, opening this co-working space. And these teams are based here. Which was like CryptoKit, CoinTalk, Ethereum with a weird text. It's like there was no logo or whatever. It's just very strange plain font. But also Bitcoin Alliance of Canada and saying, oh, and we're also hosting Bitcoin Expo coming up in April of that year. But the thought there was, Ethereum is going to be built out of Toronto.
 
 [[37:48]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2268s) **Ryan Taylor:** Right? Yeah, I can see how people could come to that conclusion because it was...
 
-[[37:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2271s) **Bob Summerwill:** Like he started it and Ethereum. Well, so Vitalik was there also on that video. It's really, really short. But that's when Joe Lubin first, that day is when Joe Lubin first met Vitalik. And Anthony, and I saw Vitalik's obviously in that video at some point. They're talking through and all, there's Vitalik in the corner. But I was looking and there's a frame where you can see Joe Lubin as well. And that was Joe's first day.
+[[37:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2271s) **Bob Summerwill:** Like he started it and Ethereum. Well, so [Vitalik](/people/vitalik-buterin/) was there also on that video. It's really, really short. But that's when Joe Lubin first, that day is when Joe Lubin first met [Vitalik](/people/vitalik-buterin/). And Anthony, and I saw [Vitalik](/people/vitalik-buterin/)'s obviously in that video at some point. They're talking through and all, there's [Vitalik](/people/vitalik-buterin/) in the corner. But I was looking and there's a frame where you can see Joe Lubin as well. And that was Joe's first day.
 
 [[38:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2304s) **Ryan Taylor:** Wow. So this was all early 2014, January 1st and now you've mentioned this time frame several times and it's a time frame that resonates with me. December 2013 until like late spring, early summer of 2014.
 
@@ -245,11 +253,11 @@ table_of_contents:
 
 [[39:07]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2347s) **Bob Summerwill:** Well, how did you end up doing the website for Ethereum? What preceded that?
 
-[[39:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2353s) **Ryan Taylor:** Right, so Bitcoin Magazine preceded that. I was the webmaster of Bitcoin Magazine, doing everything from web development to, it was a WordPress website. So I was handling all of the contributors. We had like 30 to 50 contributors at some point. Everyone who's writing was required to come up with their own images and things. And I was the one who was telling them like, sorry, that this is the case. We'll see about getting you some stock images or something. So I was working with all of the contributors. My introduction to Mihai and Vitalik was in late 2011. And I got an email from a guy in Romania called Mihai Alisie saying, hey, I saw your articles on dailyanarchist.com. I had written some articles about full disk encryption and DEFCON. And I get this email from Mihai saying, hey, I'm starting this new thing called Bitcoin Magazine. I would like for you to write for us. I think I responded with a, ha ha, really funny, because I thought I was being trolled by my friends. It just seemed so out of the blue. And Mihai's like, he and I became really good friends through the course of the next two years from 2012 until 2014. So we were in Skype calls all the time. I was in the Skype channels for Bitcoin Magazine including like Amir Taaki and Trace Mayer and Vitalik. I spent one Christmas on Skype call with Vitalik and Mihai trying to launch the new Bitcoin Magazine website.
+[[39:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2353s) **Ryan Taylor:** Right, so [Bitcoin Magazine](https://bitcoinmagazine.com/) preceded that. I was the webmaster of [Bitcoin Magazine](https://bitcoinmagazine.com/), doing everything from web development to, it was a WordPress website. So I was handling all of the contributors. We had like 30 to 50 contributors at some point. Everyone who's writing was required to come up with their own images and things. And I was the one who was telling them like, sorry, that this is the case. We'll see about getting you some stock images or something. So I was working with all of the contributors. My introduction to [Mihai](/people/mihai-alisie/) and [Vitalik](/people/vitalik-buterin/) was in late 2011. And I got an email from a guy in Romania called Mihai Alisie saying, hey, I saw your articles on dailyanarchist.com. I had written some articles about full disk encryption and DEFCON. And I get this email from [Mihai](/people/mihai-alisie/) saying, hey, I'm starting this new thing called [Bitcoin Magazine](https://bitcoinmagazine.com/). I would like for you to write for us. I think I responded with a, ha ha, really funny, because I thought I was being trolled by my friends. It just seemed so out of the blue. And [Mihai](/people/mihai-alisie/)'s like, he and I became really good friends through the course of the next two years from 2012 until 2014. So we were in Skype calls all the time. I was in the Skype channels for [Bitcoin Magazine](https://bitcoinmagazine.com/) including like Amir Taaki and Trace Mayer and [Vitalik](/people/vitalik-buterin/). I spent one Christmas on Skype call with [Vitalik](/people/vitalik-buterin/) and [Mihai](/people/mihai-alisie/) trying to launch the new [Bitcoin Magazine](https://bitcoinmagazine.com/) website.
 
 [[40:42]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2442s) **Bob Summerwill:** Right.
 
-[[40:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2443s) **Ryan Taylor:** Yeah. So it was a very close. Bitcoin Magazine was a very small team and we all were working very closely together. So when the idea for Ethereum came around they came to me to ask, hey, can you spin up a website for this new thing that Vitalik is working on? It's going to be the next Bitcoin. It's going to be bigger than Bitcoin. Vitalik's the next Satoshi. This was kind of the messaging. Yeah, yeah, yeah. So I signed on because I wanted to help my friends. Like there was no guarantee of pay, there was no guarantee the thing would actually ever launch.
+[[40:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2443s) **Ryan Taylor:** Yeah. So it was a very close. [Bitcoin Magazine](https://bitcoinmagazine.com/) was a very small team and we all were working very closely together. So when the idea for Ethereum came around they came to me to ask, hey, can you spin up a website for this new thing that [Vitalik](/people/vitalik-buterin/) is working on? It's going to be the next Bitcoin. It's going to be bigger than Bitcoin. [Vitalik](/people/vitalik-buterin/)'s the next Satoshi. This was kind of the messaging. Yeah, yeah, yeah. So I signed on because I wanted to help my friends. Like there was no guarantee of pay, there was no guarantee the thing would actually ever launch.
 
 <h3 id="building-the-ethereum-website">Building the Ethereum website</h3>
 
@@ -259,7 +267,7 @@ table_of_contents:
 
 [[41:27]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2487s) **Bob Summerwill:** First of February.
 
-[[41:28]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2488s) **Ryan Taylor:** Yeah. And there was no concept of how it was going to actually work. So on the 1st of February I get a call at 3 o'clock in the morning in California and I'm sick as a dog. And I'm thinking Mihai never called me. Like he would usually send me messages or we would talk on Skype. But my phone is ringing, I'm getting alerts from all directions and I wake up and I'm like what the hell is going on? And he's like get rid of the countdown. Just get rid of it. So yeah, so that was the very first website that had this countdown with the purple sunrise. And then we started announcing what Ethereum actually was looking like at that point. Di Iorio started bringing a lot of people, more people into the team.
+[[41:28]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2488s) **Ryan Taylor:** Yeah. And there was no concept of how it was going to actually work. So on the 1st of February I get a call at 3 o'clock in the morning in California and I'm sick as a dog. And I'm thinking [Mihai](/people/mihai-alisie/) never called me. Like he would usually send me messages or we would talk on Skype. But my phone is ringing, I'm getting alerts from all directions and I wake up and I'm like what the hell is going on? And he's like get rid of the countdown. Just get rid of it. So yeah, so that was the very first website that had this countdown with the purple sunrise. And then we started announcing what Ethereum actually was looking like at that point. [Di Iorio](/people/anthony-di-iorio/) started bringing a lot of people, more people into the team.
 
 [[42:11]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2531s) **Bob Summerwill:** Right.
 
@@ -267,11 +275,11 @@ table_of_contents:
 
 [[42:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2536s) **Bob Summerwill:** Yep.
 
-[[42:18]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2538s) **Ryan Taylor:** And we came up with the different websites that you can now look at on Internet Archive, including...
+[[42:18]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2538s) **Ryan Taylor:** And we came up with the different websites that you can now look at on [Internet Archive](https://archive.org/), including...
 
 [[42:22]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2542s) **Bob Summerwill:** And with Texture as well, I guess.
 
-[[42:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2544s) **Ryan Taylor:** Yes, Texture was very involved in the designs. I think at the beginning I was working very closely with Mihai more just as friends moving forward and then Texture and Taylor Gerring, and we had moved it to a GitHub site. I originally told you that it was a WordPress site because Bitcoin Magazine was all WordPress. But then when we were looking at the code recently, I started having flashbacks and I can totally see my fingerprints all over as a hard-coded site. I had been a web developer at...
+[[42:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2544s) **Ryan Taylor:** Yes, Texture was very involved in the designs. I think at the beginning I was working very closely with [Mihai](/people/mihai-alisie/) more just as friends moving forward and then Texture and Taylor Gerring, and we had moved it to a GitHub site. I originally told you that it was a WordPress site because [Bitcoin Magazine](https://bitcoinmagazine.com/) was all WordPress. But then when we were looking at the code recently, I started having flashbacks and I can totally see my fingerprints all over as a hard-coded site. I had been a web developer at...
 
 [[42:56]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2576s) **Bob Summerwill:** That point for straight HTML.
 
@@ -279,11 +287,11 @@ table_of_contents:
 
 [[42:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2578s) **Bob Summerwill:** Handwritten HTML.
 
-[[43:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2580s) **Ryan Taylor:** I prided myself on my CSS skills. And I remember a conversation with Vitalik about wanting to get one of the, one of the opening screens needed to take up the entire height of the display that the person was looking at it on.
+[[43:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2580s) **Ryan Taylor:** I prided myself on my CSS skills. And I remember a conversation with [Vitalik](/people/vitalik-buterin/) about wanting to get one of the, one of the opening screens needed to take up the entire height of the display that the person was looking at it on.
 
 [[43:14]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2594s) **Bob Summerwill:** Right.
 
-[[43:15]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2595s) **Ryan Taylor:** And CSS3 wasn't there yet. So I remember telling Vitalik like, you can't do it. And he's like, what do you mean you can't do it? I'm like, this isn't C, man.
+[[43:15]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2595s) **Ryan Taylor:** And CSS3 wasn't there yet. So I remember telling [Vitalik](/people/vitalik-buterin/) like, you can't do it. And he's like, what do you mean you can't do it? I'm like, this isn't C, man.
 
 [[43:24]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2604s) **Bob Summerwill:** Yeah.
 
@@ -303,7 +311,7 @@ table_of_contents:
 
 [[45:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2701s) **Bob Summerwill:** Yeah.
 
-[[45:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2701s) **Ryan Taylor:** And Mihai had actually offered, I think before that they wanted to fly me out to Zug.
+[[45:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2701s) **Ryan Taylor:** And [Mihai](/people/mihai-alisie/) had actually offered, I think before that they wanted to fly me out to Zug.
 
 [[45:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2706s) **Bob Summerwill:** Right.
 
@@ -325,7 +333,7 @@ table_of_contents:
 
 [[45:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2755s) **Bob Summerwill:** Right.
 
-[[45:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2755s) **Ryan Taylor:** And that was, I was trying to push that on Bitcoin Magazine. I was like, the future is live streaming. Go to the conferences. Bitcoin Magazine can produce the live streams of these first conferences. And no one had any interest in it.
+[[45:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2755s) **Ryan Taylor:** And that was, I was trying to push that on [Bitcoin Magazine](https://bitcoinmagazine.com/). I was like, the future is live streaming. Go to the conferences. [Bitcoin Magazine](https://bitcoinmagazine.com/) can produce the live streams of these first conferences. And no one had any interest in it.
 
 [[46:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2766s) **Bob Summerwill:** Right.
 
@@ -341,9 +349,9 @@ table_of_contents:
 
 [[46:34]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2794s) **Bob Summerwill:** Right.
 
-[[46:35]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2795s) **Ryan Taylor:** Where we had the media being stored first on BitTorrent. And then we found out about IPFS. Met with Juan Benet very early on while he was still at Y Combinator and we integrated IPFS into it.
+[[46:35]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2795s) **Ryan Taylor:** Where we had the media being stored first on [BitTorrent](https://www.bittorrent.com/). And then we found out about [IPFS](https://ipfs.io/). Met with Juan Benet very early on while he was still at [Y Combinator](https://www.ycombinator.com/) and we integrated [IPFS](https://ipfs.io/) into it.
 
-[[46:47]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2807s) **Bob Summerwill:** I mean IPFS was made a long time ago now. That was probably 2013.
+[[46:47]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2807s) **Bob Summerwill:** I mean [IPFS](https://ipfs.io/) was made a long time ago now. That was probably 2013.
 
 [[46:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2811s) **Ryan Taylor:** This was the end of 2013.
 
@@ -353,15 +361,15 @@ table_of_contents:
 
 [[47:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2821s) **Bob Summerwill:** Yeah.
 
-[[47:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2821s) **Ryan Taylor:** And then it may have, actually, I think it was in 2014 when I met Juan.
+[[47:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2821s) **Ryan Taylor:** And then it may have, actually, I think it was in 2014 when I met [Juan](/people/juan-benet/).
 
 [[47:05]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2825s) **Bob Summerwill:** Yeah.
 
-[[47:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2826s) **Ryan Taylor:** And IPFS seemed to tick all the boxes. So we made this decentralized media platform where we were writing clear text data to a blockchain that allowed for transaction comments. It had a memo field. It's called Florincoin. It was already launched. There was no pre-mine. The whole thing was totally above the board and open source. So we took advantage of this clear text comment field that you could put into any transaction and we put searchable data in there. So author's or creator's name, title of the video, description, all the stuff you search YouTube for.
+[[47:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2826s) **Ryan Taylor:** And [IPFS](https://ipfs.io/) seemed to tick all the boxes. So we made this decentralized media platform where we were writing clear text data to a blockchain that allowed for transaction comments. It had a memo field. It's called [Florincoin](https://en.wikipedia.org/wiki/Florincoin). It was already launched. There was no pre-mine. The whole thing was totally above the board and open source. So we took advantage of this clear text comment field that you could put into any transaction and we put searchable data in there. So author's or creator's name, title of the video, description, all the stuff you search YouTube for.
 
 [[47:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2857s) **Bob Summerwill:** Yeah, yeah.
 
-[[47:38]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2858s) **Ryan Taylor:** And then a link to either the BitTorrent magnet or the IPFS content ID.
+[[47:38]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2858s) **Ryan Taylor:** And then a link to either the [BitTorrent](https://www.bittorrent.com/) magnet or the [IPFS](https://ipfs.io/) content ID.
 
 [[47:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2863s) **Bob Summerwill:** Right.
 
@@ -377,7 +385,7 @@ table_of_contents:
 
 [[48:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2880s) **Bob Summerwill:** Yeah.
 
-[[48:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2880s) **Ryan Taylor:** And then people started asking us about Filecoin in the same sense. And we're like, it's the same thing. We're using what's working, we're using what's open source and already exists. We had LBRY sprung up at the same time. Shortly after, inspired by our project. They had a massive pre-mine.
+[[48:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2880s) **Ryan Taylor:** And then people started asking us about [Filecoin](https://filecoin.io/) in the same sense. And we're like, it's the same thing. We're using what's working, we're using what's open source and already exists. We had [LBRY](https://lbry.com/) sprung up at the same time. Shortly after, inspired by our project. They had a massive pre-mine.
 
 <h3 id="decentralized-storage">Decentralized storage: LBRY, Filecoin, MaidSafe, Swarm</h3>
 
@@ -403,11 +411,11 @@ table_of_contents:
 
 [[49:00]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2940s) **Bob Summerwill:** Right.
 
-[[49:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2941s) **Ryan Taylor:** And they said it's to help to get users on board. They actually at one point, it was a few years later, I got a message because my live streaming channel, Agileak, I was going around and I was live streaming decentralized tech meetups. Anything I could find. Everything from like Redecentralize, we were here at HCPP, the blockchain meetup in Berlin, all these different things. And so someone at LBRY who didn't know about my history with LBRY sent me a message and said, hey, can we, it would be really cool to scrape your channel and put it onto LBRY and we'll give you all these tokens and everything. And I would not touch their money.
+[[49:01]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2941s) **Ryan Taylor:** And they said it's to help to get users on board. They actually at one point, it was a few years later, I got a message because my live streaming channel, Agileak, I was going around and I was live streaming decentralized tech meetups. Anything I could find. Everything from like Redecentralize, we were here at HCPP, the blockchain meetup in Berlin, all these different things. And so someone at [LBRY](https://lbry.com/) who didn't know about my history with [LBRY](https://lbry.com/) sent me a message and said, hey, can we, it would be really cool to scrape your channel and put it onto [LBRY](https://lbry.com/) and we'll give you all these tokens and everything. And I would not touch their money.
 
 [[49:40]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2980s) **Bob Summerwill:** Yeah.
 
-[[49:41]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2981s) **Ryan Taylor:** I was thinking like, you understand like 90% of all of the LBRY token that will ever exist is in your founder's hands.
+[[49:41]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2981s) **Ryan Taylor:** I was thinking like, you understand like 90% of all of the [LBRY](https://lbry.com/) token that will ever exist is in your founder's hands.
 
 [[49:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2989s) **Bob Summerwill:** Right?
 
@@ -417,7 +425,7 @@ table_of_contents:
 
 [[49:52]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2992s) **Ryan Taylor:** And you have to be so careful working in this space.
 
-[[49:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2995s) **Bob Summerwill:** Yeah, yeah, yeah. Mentioning Filecoin. So the first white paper for Filecoin was 2014.
+[[49:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=2995s) **Bob Summerwill:** Yeah, yeah, yeah. Mentioning [Filecoin](https://filecoin.io/). So the first white paper for [Filecoin](https://filecoin.io/) was 2014.
 
 [[50:04]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3004s) **Ryan Taylor:** Yeah.
 
@@ -425,23 +433,23 @@ table_of_contents:
 
 [[50:07]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3007s) **Ryan Taylor:** Right.
 
-[[50:07]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3007s) **Bob Summerwill:** And second white paper. And so these things take a while. The other one I saw, which is funny, is you remember MaidSafe.
+[[50:07]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3007s) **Bob Summerwill:** And second white paper. And so these things take a while. The other one I saw, which is funny, is you remember [MaidSafe](https://maidsafe.net/).
 
 [[50:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3016s) **Ryan Taylor:** Yeah, yeah, yeah. Big fan.
 
-[[50:19]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3019s) **Bob Summerwill:** So MaidSafe, again one of these earliest sort of decentralized storage things. It's like Massive Array of something. Massive Array Internet Disks, Internet Disk, something like that. Anyway, that project started in 2006.
+[[50:19]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3019s) **Bob Summerwill:** So [MaidSafe](https://maidsafe.net/), again one of these earliest sort of decentralized storage things. It's like Massive Array of something. Massive Array Internet Disks, Internet Disk, something like that. Anyway, that project started in 2006.
 
 [[50:36]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3036s) **Ryan Taylor:** Yeah.
 
-[[50:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3037s) **Bob Summerwill:** David Irvine in Scotland somewhere. And then they did one of the first ICOs. So MaidSafeCoin.
+[[50:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3037s) **Bob Summerwill:** David Irvine in Scotland somewhere. And then they did one of the first ICOs. So [MaidSafeCoin](https://maidsafe.net/).
 
-[[50:48]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3048s) **Ryan Taylor:** Mastercoin.
+[[50:48]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3048s) **Ryan Taylor:** [Mastercoin](https://www.omnilayer.org/).
 
-[[50:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3049s) **Bob Summerwill:** So I think Mastercoin was maybe the first and then they were the second.
+[[50:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3049s) **Bob Summerwill:** So I think [Mastercoin](https://www.omnilayer.org/) was maybe the first and then they were the second.
 
-[[50:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3053s) **Ryan Taylor:** Yeah. Again, they did it on Mastercoin.
+[[50:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3053s) **Ryan Taylor:** Yeah. Again, they did it on [Mastercoin](https://www.omnilayer.org/).
 
-[[50:56]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3056s) **Bob Summerwill:** It was on Mastercoin and Bitcoin. I think it was on both. Which is what Ethereum were talking about doing both, but only did Bitcoin in the end. Anyway, they just launched.
+[[50:56]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3056s) **Bob Summerwill:** It was on [Mastercoin](https://www.omnilayer.org/) and Bitcoin. I think it was on both. Which is what Ethereum were talking about doing both, but only did Bitcoin in the end. Anyway, they just launched.
 
 [[51:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3076s) **Ryan Taylor:** They did.
 
@@ -463,7 +471,7 @@ table_of_contents:
 
 [[51:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3111s) **Bob Summerwill:** It's like you've got all that history and everyone knows your name.
 
-[[51:54]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3114s) **Ryan Taylor:** But anyway, yeah, MaidSafe was something I was paying really close attention to at the time.
+[[51:54]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3114s) **Ryan Taylor:** But anyway, yeah, [MaidSafe](https://maidsafe.net/) was something I was paying really close attention to at the time.
 
 [[51:59]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3119s) **Bob Summerwill:** Me too, me too.
 
@@ -475,19 +483,19 @@ table_of_contents:
 
 [[52:11]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3131s) **Bob Summerwill:** Yeah, they did add that later, didn't they? Both of them? Initially, it was just literally storage and whatever proof of content or whatever sort of thing.
 
-[[52:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3143s) **Ryan Taylor:** Yeah, what Filecoin calls, what they have, their proof of time-space.
+[[52:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3143s) **Ryan Taylor:** Yeah, what [Filecoin](https://filecoin.io/) calls, what they have, their proof of time-space.
 
 [[52:28]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3148s) **Bob Summerwill:** Right?
 
-[[52:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3149s) **Ryan Taylor:** Yeah. So Filecoin, this was the thing that with Alexandria, we were trying to address the issue of incentives, well, of impermanence of data. Because we had BitTorrent. And BitTorrent's an amazing technology, but anyone who's ever used it to download anything knows the pain of getting it to 99%. And then there's no seeds and everyone else is sitting there staring at this damn progress bar.
+[[52:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3149s) **Ryan Taylor:** Yeah. So [Filecoin](https://filecoin.io/), this was the thing that with Alexandria, we were trying to address the issue of incentives, well, of impermanence of data. Because we had [BitTorrent](https://www.bittorrent.com/). And [BitTorrent](https://www.bittorrent.com/)'s an amazing technology, but anyone who's ever used it to download anything knows the pain of getting it to 99%. And then there's no seeds and everyone else is sitting there staring at this damn progress bar.
 
 [[52:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3178s) **Bob Summerwill:** No, I mean, if you're looking to pirate the latest Hollywood movie, you're probably going to be okay. If you want to store your holiday photos, that ain't going to happen.
 
-[[53:10]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3190s) **Ryan Taylor:** Yeah. So we were trying to figure out the persistency issue that BitTorrent had, and IPFS has it too. So there's ways that this can be solved. LBRY came up with a new role in the network. You can basically pay someone to pin the file. Filecoin does this as well, and they have services that will do this and host the files for you. And it's pretty cheap. Storj, they're also doing the same thing.
+[[53:10]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3190s) **Ryan Taylor:** Yeah. So we were trying to figure out the persistency issue that [BitTorrent](https://www.bittorrent.com/) had, and [IPFS](https://ipfs.io/) has it too. So there's ways that this can be solved. [LBRY](https://lbry.com/) came up with a new role in the network. You can basically pay someone to pin the file. [Filecoin](https://filecoin.io/) does this as well, and they have services that will do this and host the files for you. And it's pretty cheap. [Storj](https://www.storj.io/), they're also doing the same thing.
 
 [[53:38]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3218s) **Bob Summerwill:** Shawn Wilkinson.
 
-[[53:39]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3219s) **Ryan Taylor:** Yeah, but Filecoin was just not there yet.
+[[53:39]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3219s) **Ryan Taylor:** Yeah, but [Filecoin](https://filecoin.io/) was just not there yet.
 
 [[53:43]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3223s) **Bob Summerwill:** No, it's just theorized.
 
@@ -505,7 +513,7 @@ table_of_contents:
 
 [[54:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3277s) **Ryan Taylor:** Yeah, it's really where the decentralized storage is a really important thing that we need to get to. This is how we get away from using AWS.
 
-[[54:45]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3285s) **Bob Summerwill:** Well, and the web front ends, right. You've got immutable smart contracts perhaps for your functionality like Tornado Cash. But then someone's running a website and a single person owns the website and that's where you're going to get whacked. Same with the fiat on-ramps on the crypto side is if you've got these centralized servers that one person is running, well that's what's going to get taken down.
+[[54:45]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3285s) **Bob Summerwill:** Well, and the web front ends, right. You've got immutable smart contracts perhaps for your functionality like [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash). But then someone's running a website and a single person owns the website and that's where you're going to get whacked. Same with the fiat on-ramps on the crypto side is if you've got these centralized servers that one person is running, well that's what's going to get taken down.
 
 [[55:15]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3315s) **Ryan Taylor:** Yeah. Or the person maintaining it is just going to stop.
 
@@ -515,15 +523,15 @@ table_of_contents:
 
 [[55:32]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3332s) **Bob Summerwill:** Yeah. But yeah, we still haven't quite got to that full stack everything decentralized kind of vision.
 
-[[55:41]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3341s) **Ryan Taylor:** Yeah, yeah. Unfortunately that is the case. Internet Archive is working on a decentralized, I think 10% or something along those lines.
+[[55:41]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3341s) **Ryan Taylor:** Yeah, yeah. Unfortunately that is the case. [Internet Archive](https://archive.org/) is working on a decentralized, I think 10% or something along those lines.
 
 [[55:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3349s) **Bob Summerwill:** Right.
 
-[[55:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3350s) **Ryan Taylor:** They're using Filecoin to back up all of their stuff and decentralize it. I will have an interview with the lead of decentralization at Internet Archive coming up here in the next month or so.
+[[55:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3350s) **Ryan Taylor:** They're using [Filecoin](https://filecoin.io/) to back up all of their stuff and decentralize it. I will have an interview with the lead of decentralization at [Internet Archive](https://archive.org/) coming up here in the next month or so.
 
 [[56:03]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3363s) **Bob Summerwill:** Right.
 
-[[56:04]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3364s) **Ryan Taylor:** I do a lot of work with Internet Archive now.
+[[56:04]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3364s) **Ryan Taylor:** I do a lot of work with [Internet Archive](https://archive.org/) now.
 
 [[56:05]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3365s) **Bob Summerwill:** Right.
 
@@ -531,11 +539,11 @@ table_of_contents:
 
 [[56:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3368s) **Bob Summerwill:** I mean, yeah, the snapshots they've had of a lot of this Ethereum stuff is where a lot of what I'm doing has come from. Shit that went down and died but some proportion of it did get archived and you can get back to that. Yeah.
 
-[[56:27]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3387s) **Ryan Taylor:** I actually use Internet Archive as like my resume.
+[[56:27]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3387s) **Ryan Taylor:** I actually use [Internet Archive](https://archive.org/) as like my resume.
 
 [[56:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3389s) **Bob Summerwill:** Right.
 
-[[56:30]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3390s) **Ryan Taylor:** Actually I have a couple of pages. The Bitcoin Magazine about page and the Ethereum page.
+[[56:30]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3390s) **Ryan Taylor:** Actually I have a couple of pages. The [Bitcoin Magazine](https://bitcoinmagazine.com/) about page and the Ethereum page.
 
 [[56:35]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3395s) **Bob Summerwill:** There you go.
 
@@ -547,11 +555,11 @@ table_of_contents:
 
 [[56:40]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3400s) **Bob Summerwill:** Right. And it's not like hey, point to bitcoinmagazine.com and then it's like, it's a completely different thing now. And you like, yeah, I worked on the old one. Yeah.
 
-[[56:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3409s) **Ryan Taylor:** I was the last person from the old team. I was the last person to be involved in Bitcoin Magazine before the sale to BTC Media.
+[[56:49]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3409s) **Ryan Taylor:** I was the last person from the old team. I was the last person to be involved in [Bitcoin Magazine](https://bitcoinmagazine.com/) before the sale to BTC Media.
 
 [[56:57]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3417s) **Bob Summerwill:** Right.
 
-[[56:57]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3417s) **Ryan Taylor:** I sent them off, the keys to the kingdom, so to speak. And I still remember I was working on Alexandria when that was happening. Vitalik and Mihai had already moved on. They moved on and pretty much walked away from Bitcoin Magazine a few months before the end of 2014. Because Ethereum, they were in 2013.
+[[56:57]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3417s) **Ryan Taylor:** I sent them off, the keys to the kingdom, so to speak. And I still remember I was working on Alexandria when that was happening. [Vitalik](/people/vitalik-buterin/) and [Mihai](/people/mihai-alisie/) had already moved on. They moved on and pretty much walked away from [Bitcoin Magazine](https://bitcoinmagazine.com/) a few months before the end of 2014. Because Ethereum, they were in 2013.
 
 [[57:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3436s) **Bob Summerwill:** Yeah, yeah, yeah, yeah.
 
@@ -565,19 +573,19 @@ table_of_contents:
 
 [[57:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3443s) **Bob Summerwill:** Do you have any backups?
 
-[[57:26]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3446s) **Ryan Taylor:** I hope so. I became a nomad right around the same time. And so storage is a big problem. Upload bandwidth is a big problem. This is why a lot of my old live streams, they're only available in low resolution, standard definition on YouTube. I've downloaded them. Someone else ripped them off to Internet Archive, which is great. Thank you, random individual. And I never had any of the raw data. Which, I went to school for this. And they're like, and anyone will tell you if you're in video production, keep all your source stuff.
+[[57:26]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3446s) **Ryan Taylor:** I hope so. I became a nomad right around the same time. And so storage is a big problem. Upload bandwidth is a big problem. This is why a lot of my old live streams, they're only available in low resolution, standard definition on YouTube. I've downloaded them. Someone else ripped them off to [Internet Archive](https://archive.org/), which is great. Thank you, random individual. And I never had any of the raw data. Which, I went to school for this. And they're like, and anyone will tell you if you're in video production, keep all your source stuff.
 
 [[57:57]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3477s) **Bob Summerwill:** Yeah.
 
-[[57:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3478s) **Ryan Taylor:** And I applied that to my web development as well. Yeah, there are cases where I would go back and delete. I also did all the websites for Zcash.
+[[57:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3478s) **Ryan Taylor:** And I applied that to my web development as well. Yeah, there are cases where I would go back and delete. I also did all the websites for [Zcash](https://z.cash/).
 
 [[58:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3486s) **Bob Summerwill:** Right.
 
-[[58:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3486s) **Ryan Taylor:** So starting in 2016, 2017, I started working for the Zcash Electric Coin Company at the time.
+[[58:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3486s) **Ryan Taylor:** So starting in 2016, 2017, I started working for the [Zcash](https://z.cash/) Electric Coin Company at the time.
 
 [[58:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3493s) **Bob Summerwill:** Right.
 
-[[58:14]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3494s) **Ryan Taylor:** And I built all of those. So my resume was a web developer at Bitcoin Magazine, Ethereum, Zcash, it's not so bad. But that content should be in an encrypted folder somewhere on a hard drive that I have. Because websites are a lot smaller, easier.
+[[58:14]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3494s) **Ryan Taylor:** And I built all of those. So my resume was a web developer at [Bitcoin Magazine](https://bitcoinmagazine.com/), Ethereum, [Zcash](https://z.cash/), it's not so bad. But that content should be in an encrypted folder somewhere on a hard drive that I have. Because websites are a lot smaller, easier.
 
 [[58:33]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3513s) **Bob Summerwill:** Especially if it's a single page HTML.
 
@@ -589,23 +597,23 @@ table_of_contents:
 
 [[59:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3553s) **Bob Summerwill:** Right.
 
-[[59:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3553s) **Ryan Taylor:** So I never really saw the problem with it. The code is all on the server. So with Bitcoin Magazine, Vitalik was able to log in and I'll never forget, it was that Christmas actually that he asked me, so where's the database?
+[[59:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3553s) **Ryan Taylor:** So I never really saw the problem with it. The code is all on the server. So with [Bitcoin Magazine](https://bitcoinmagazine.com/), [Vitalik](/people/vitalik-buterin/) was able to log in and I'll never forget, it was that Christmas actually that he asked me, so where's the database?
 
 [[59:28]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3568s) **Bob Summerwill:** Right?
 
-[[59:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3569s) **Ryan Taylor:** And I was like, what are you talking about? And it's the Bitcoin Magazine database because I work with the files, I work with the HTML and the CSS and everything.
+[[59:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3569s) **Ryan Taylor:** And I was like, what are you talking about? And it's the [Bitcoin Magazine](https://bitcoinmagazine.com/) database because I work with the files, I work with the HTML and the CSS and everything.
 
 [[59:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3577s) **Bob Summerwill:** Yeah.
 
-[[59:38]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3578s) **Ryan Taylor:** And yeah, I'll never forget when Vitalik asked about the database and I'm like, I honestly don't know what you're speaking about. And we worked it out, we worked through it. But the Ethereum websites were all static.
+[[59:38]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3578s) **Ryan Taylor:** And yeah, I'll never forget when [Vitalik](/people/vitalik-buterin/) asked about the database and I'm like, I honestly don't know what you're speaking about. And we worked it out, we worked through it. But the Ethereum websites were all static.
 
 [[59:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3590s) **Bob Summerwill:** Yeah.
 
-[[59:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3591s) **Ryan Taylor:** And I was managing them so it was just on the server. I don't know if anyone even had access to that server besides me and Mihai.
+[[59:51]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3591s) **Ryan Taylor:** And I was managing them so it was just on the server. I don't know if anyone even had access to that server besides me and [Mihai](/people/mihai-alisie/).
 
 [[59:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3598s) **Bob Summerwill:** Right.
 
-[[59:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3598s) **Ryan Taylor:** And after the countdown goes to zero, website needs to be updated, then I believe it was Taylor who spearheaded the move to GitHub. And I had to learn GitHub at this point. And I'm asking again, I'm asking these amazing computer scientists how to use GitHub and I'm getting complaints that I'm not cloning properly and doing all of this or I'm committing to the master branch.
+[[59:58]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3598s) **Ryan Taylor:** And after the countdown goes to zero, website needs to be updated, then I believe it was [Taylor](/people/taylor-gerring/) who spearheaded the move to GitHub. And I had to learn GitHub at this point. And I'm asking again, I'm asking these amazing computer scientists how to use GitHub and I'm getting complaints that I'm not cloning properly and doing all of this or I'm committing to the master branch.
 
 [[1:00:22]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3622s) **Bob Summerwill:** And all things you're using, you're merging wrong. You need to rebase.
 
@@ -615,7 +623,7 @@ table_of_contents:
 
 [[1:01:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3668s) **Ryan Taylor:** Yeah.
 
-[[1:01:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3668s) **Bob Summerwill:** It's not like the Internet Archive version of it is kind of oh, it's a bit broken. Not quite right. From what I can see, they're perfect replicas.
+[[1:01:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3668s) **Bob Summerwill:** It's not like the [Internet Archive](https://archive.org/) version of it is kind of oh, it's a bit broken. Not quite right. From what I can see, they're perfect replicas.
 
 [[1:01:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3676s) **Ryan Taylor:** Yeah.
 
@@ -643,7 +651,7 @@ table_of_contents:
 
 [[1:02:28]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3748s) **Ryan Taylor:** Because you mentioned that if on GitHub now if you look at ethereum.org it only goes back to...
 
-[[1:02:36]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3756s) **Bob Summerwill:** Well, it was a different site. So in 2015, I was going to say AVSA, Alex van de Sande, but it was actually, I think Marianne as well. And Marianne maybe earlier, they did a new one. And that was for Frontier. So in the run up to Frontier, it was like, okay, we need to do a new website. Which was basically like, hey, Frontier's coming. Here's the tools, here's how to write, Solidity exists now. So it was like, right, okay, we're basically going to do a new one. Wow.
+[[1:02:36]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3756s) **Bob Summerwill:** Well, it was a different site. So in 2015, I was going to say [AVSA](/people/alex-van-de-sande/), Alex van de Sande, but it was actually, I think Marianne as well. And Marianne maybe earlier, they did a new one. And that was for Frontier. So in the run up to Frontier, it was like, okay, we need to do a new website. Which was basically like, hey, Frontier's coming. Here's the tools, here's how to write, Solidity exists now. So it was like, right, okay, we're basically going to do a new one. Wow.
 
 [[1:03:13]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3793s) **Ryan Taylor:** Delete the repo. Like they deleted this.
 
@@ -651,7 +659,7 @@ table_of_contents:
 
 [[1:03:18]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3798s) **Ryan Taylor:** So bizarre.
 
-[[1:03:19]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3799s) **Bob Summerwill:** And I know, I should talk to AVSA, maybe AVSA knows. So you think you're pretty confident it was within the ethereum.org? It wasn't under your own thing or somewhere else?
+[[1:03:19]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3799s) **Bob Summerwill:** And I know, I should talk to [AVSA](/people/alex-van-de-sande/), maybe [AVSA](/people/alex-van-de-sande/) knows. So you think you're pretty confident it was within the ethereum.org? It wasn't under your own thing or somewhere else?
 
 [[1:03:34]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3814s) **Ryan Taylor:** It was in the ethereum.org and it might be archived there. Maybe if we can figure out who has access to archived repos.
 
@@ -659,7 +667,7 @@ table_of_contents:
 
 [[1:04:29]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3869s) **Ryan Taylor:** Yeah, but that history is just gone pre-2015 maybe. Okay, I will dig through my hard drives.
 
-[[1:04:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3877s) **Bob Summerwill:** So yeah, I mean that's the other thing I guess with Git, right. This is another funny decentralization story is Git is a fantastically decentralized technology that was built specifically by Linus Torvalds for Linux kernel development and wanting to have a tool for doing distributed development. It's funny, he said he did it because he didn't want to talk to people. It's like, to minimize human contact. But yeah, with Git, everybody has a full copy of all of the history, right. So when you're cloning you're literally copying the full database of everything. Like a blockchain, it's a fully replicated state machine kind of deal. So that initial kernel development piece was like, well, Linus's copy of Linux is kind of like the de facto version but it's a very peer-to-peer thing. Hey, I can make a clone of Linus's and I can just use my version.
+[[1:04:37]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3877s) **Bob Summerwill:** So yeah, I mean that's the other thing I guess with Git, right. This is another funny decentralization story is Git is a fantastically decentralized technology that was built specifically by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) for Linux kernel development and wanting to have a tool for doing distributed development. It's funny, he said he did it because he didn't want to talk to people. It's like, to minimize human contact. But yeah, with Git, everybody has a full copy of all of the history, right. So when you're cloning you're literally copying the full database of everything. Like a blockchain, it's a fully replicated state machine kind of deal. So that initial kernel development piece was like, well, Linus's copy of Linux is kind of like the de facto version but it's a very peer-to-peer thing. Hey, I can make a clone of Linus's and I can just use my version.
 
 [[1:05:50]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=3950s) **Ryan Taylor:** Yeah.
 
@@ -673,7 +681,7 @@ table_of_contents:
 
 [[1:06:55]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4015s) **Bob Summerwill:** But they have got that vendor lock-in for all the other shit around it. So it's like, right, your issues, they're not in the repository, they're in some other thing that they have. So if you were to move to a different provider, oh shit, all of your issues have got lost. All of your automation is left behind.
 
-[[1:07:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4036s) **Ryan Taylor:** Yeah. I'm wondering if like, because there were other people that were working on the site. I know that Taylor and Texture.
+[[1:07:16]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4036s) **Ryan Taylor:** Yeah. I'm wondering if like, because there were other people that were working on the site. I know that [Taylor](/people/taylor-gerring/) and Texture.
 
 [[1:07:21]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4041s) **Bob Summerwill:** So yeah. Anyone who had cloned to their machine and was doing local development, they would have a copy of all of that history.
 
@@ -709,11 +717,11 @@ table_of_contents:
 
 [[1:08:23]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4103s) **Bob Summerwill:** Apparently takes a month or two but because I was on like F Water Cooler which was like a text, just started that and it was basically like the off-topic channel but everyone was in it. So I remember that room. There's going to be some really interesting stuff in there, I think. So yeah, everybody listening at home. If you used Skype for things in the past, grab your data now because it's going to get nuked.
 
-[[1:08:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4133s) **Ryan Taylor:** Yeah. Keep backups. I guess that's really the moral of this story. No matter what it is you're doing, keep backups. If you're making websites, add them to Internet Archive. Go on to Internet Archive and you can add...
+[[1:08:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4133s) **Ryan Taylor:** Yeah. Keep backups. I guess that's really the moral of this story. No matter what it is you're doing, keep backups. If you're making websites, add them to [Internet Archive](https://archive.org/). Go on to [Internet Archive](https://archive.org/) and you can add...
 
 [[1:09:06]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4146s) **Bob Summerwill:** Oh you can, you can register.
 
-[[1:09:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4148s) **Ryan Taylor:** Hey, please track me. That Wayback Machine actually works. I didn't know this.
+[[1:09:08]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4148s) **Ryan Taylor:** Hey, please track me. That [Wayback Machine](https://web.archive.org/) actually works. I didn't know this.
 
 [[1:09:14]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4154s) **Bob Summerwill:** So somebody else is asking and you just think it's happening by magic?
 
@@ -721,9 +729,9 @@ table_of_contents:
 
 [[1:09:20]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4160s) **Bob Summerwill:** I did too. It's like, oh, the sites that are getting the most traffic are going to auto-register or something.
 
-[[1:09:25]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4165s) **Ryan Taylor:** Something like that. I'm just lucky that I was working on Bitcoin Magazine and ethereum.org because someone else, and it could have been Brewster Kahle himself, was making sure that these were going in. Jason Scott does a whole bunch of archiving on Internet Archive. Probably one of the top archivists on there. And so it could have been any one of them.
+[[1:09:25]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4165s) **Ryan Taylor:** Something like that. I'm just lucky that I was working on [Bitcoin Magazine](https://bitcoinmagazine.com/) and ethereum.org because someone else, and it could have been [Brewster Kahle](https://en.wikipedia.org/wiki/Brewster_Kahle) himself, was making sure that these were going in. [Jason Scott](https://en.wikipedia.org/wiki/Jason_Scott) does a whole bunch of archiving on [Internet Archive](https://archive.org/). Probably one of the top archivists on there. And so it could have been any one of them.
 
-[[1:09:45]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4185s) **Bob Summerwill:** I wonder about the frequency, because that's another thing you see with the Internet Archive, right. Some of them just every couple of months there's a data point and...
+[[1:09:45]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4185s) **Bob Summerwill:** I wonder about the frequency, because that's another thing you see with the [Internet Archive](https://archive.org/), right. Some of them just every couple of months there's a data point and...
 
 [[1:09:52]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4192s) **Ryan Taylor:** Going in and adding it. And so if everyone here at Dark Prague went to ethereum.org right now and said, add this website to it, then there would be that many snapshots.
 
@@ -745,11 +753,11 @@ table_of_contents:
 
 [[1:10:32]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4232s) **Bob Summerwill:** There was some screw up and...
 
-[[1:10:34]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4234s) **Ryan Taylor:** There was vandalism on it and it was really gnarly. And of course it brings up this call to action of we need to decentralize the internet. And of course, Brewster Kahle, some 10 years ago, he announced the call for the decentralized web, which is where the DWeb community comes from.
+[[1:10:34]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4234s) **Ryan Taylor:** There was vandalism on it and it was really gnarly. And of course it brings up this call to action of we need to decentralize the internet. And of course, [Brewster Kahle](https://en.wikipedia.org/wiki/Brewster_Kahle), some 10 years ago, he announced the call for the decentralized web, which is where the DWeb community comes from.
 
 [[1:10:53]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4253s) **Bob Summerwill:** Yeah.
 
-[[1:10:54]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4254s) **Ryan Taylor:** But the DWeb community has a lot of growth to do. It has a lot of outreach to do. A lot of people, letting people know, what is the state of the decentralized web? We can't have this problem of single points of failure on content anymore. Especially in the case of the Early Days of Ethereum. If Internet Archive didn't have backups of all of this stuff, then this project wouldn't be happening.
+[[1:10:54]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4254s) **Ryan Taylor:** But the DWeb community has a lot of growth to do. It has a lot of outreach to do. A lot of people, letting people know, what is the state of the decentralized web? We can't have this problem of single points of failure on content anymore. Especially in the case of the Early Days of Ethereum. If [Internet Archive](https://archive.org/) didn't have backups of all of this stuff, then this project wouldn't be happening.
 
 [[1:11:19]](https://www.youtube.com/watch?v=IkNq7Q2J2s4&t=4279s) **Bob Summerwill:** No, no.
 

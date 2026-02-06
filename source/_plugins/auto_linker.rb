@@ -174,7 +174,7 @@ module EarlyDays
         link_placeholders2 = []
         lc2 = 0
         content.gsub!(@link_pattern) do |m|
-          p = "___PL2#{lc2}___"; link_placeholders2 << [p, m]; lc2 += 1; p
+          p = "___PX#{lc2}___"; link_placeholders2 << [p, m]; lc2 += 1; p
         end
 
         # Step 9: Replace person tokens using batched patterns
@@ -187,7 +187,7 @@ module EarlyDays
 
 # Step 10: Restore all (loop until no more placeholders - handles nested protection)
         restore_hash = (link_placeholders2 + protected + link_placeholders).to_h
-        placeholder_pattern = /___P(?:L2?|S|E|T)\d+___/
+        placeholder_pattern = /___P[LXSET]\d+___/
         while content.match?(placeholder_pattern)
           content.gsub!(placeholder_pattern) { |m| restore_hash[m] || m }
         end
@@ -294,9 +294,9 @@ Jekyll::Hooks.register :site, :post_render do |site|
 
     # Final cleanup: remove any remaining placeholder markers
     if doc.output
-      before = doc.output.scan(/___P[STEL]2?\d+___/).size
-      doc.output.gsub!(/___P[STEL]2?\d+___/, '')
-      after = doc.output.scan(/___P[STEL]2?\d+___/).size
+      before = doc.output.scan(/___P[STELX]\d+___/).size
+      doc.output.gsub!(/___P[STELX]\d+___/, '')
+      after = doc.output.scan(/___P[STELX]\d+___/).size
       Jekyll.logger.info "AutoLinker:", "Cleaned #{before - after} placeholders from #{doc.url}" if before > after
     end
   end

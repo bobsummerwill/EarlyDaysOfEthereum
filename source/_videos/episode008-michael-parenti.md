@@ -129,7 +129,7 @@ table_of_contents:
   url="https://x.com/exiledsurfer/status/406749547155570688"
 %}
 
-[[03:39]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=219s) **Bob Summerwill:** Well, that's fantastic. We're gonna have to dig out that tweet, aren't we, and then find the exact date on that. And then maybe the Internet Archive can find the blog post.
+[[03:39]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=219s) **Bob Summerwill:** Well, that's fantastic. We're gonna have to dig out that tweet, aren't we, and then find the exact date on that. And then maybe the [Internet Archive](https://archive.org/) can find the blog post.
 
 [[03:52]](https://www.youtube.com/watch?v=iZyEL8XhLII&t=232s) **Michael Parenti:** It's on the original. It's still on. It's on. It's on Twitter. I've.
 

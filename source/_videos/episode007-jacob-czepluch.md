@@ -232,7 +232,7 @@ Yeah, probably already. Or that was coming. Yeah, so that's why it ended up bein
 But yeah, like sitting as the only person working on the [Python client](/articles/pyethereum) in that office in my small corner, I had a lot of fun kind of following how people came and went and went into [Gavin](/people/gavin-wood)'s office and had a chat there with him and [Jutta](/people/jutta-steiner) or whatever. And I didn't really know in the beginning what was going on until I was also asked if I wanted to come in and talk. And it was basically like presenting ideas of what would happen next with the C++ team and if we wanted to consider joining there or whatever.
 
 [[09:00]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=540s) **Bob Summerwill:**
-So that was sort of the pre-formation of what became Ethcore, later Parity Technologies.
+So that was sort of the pre-formation of what became [Ethcore](https://en.wikipedia.org/wiki/Parity_Technologies), later [Parity Technologies](https://en.wikipedia.org/wiki/Parity_Technologies).
 
 [[09:06]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=546s) **Jacob Czepluch:**
 Yeah, I think so. I was witnessing that without knowing what was going on. I had no insight into the finances of the [Foundation](/articles/stiftung-ethereum) or anything like that. I only found out about most of those things later. But it was quite interesting to see.
@@ -242,7 +242,7 @@ Yeah, I think so. I was witnessing that without knowing what was going on. I had
 [[09:22]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=562s) **Bob Summerwill:**
 Yeah, so maybe let's talk about DEVCON1. So the first DEVCON was DEVCON0, which happened in November 2014 before your time, which was the closed event, mainly Ethereum Foundation-y people, but some broader ecosystem people.
 
-But then DEVCON1 happened in November 2015 in London. It had got announced earlier in the year and got cancelled because of this funding squeeze but then ConsenSys basically stepped up and filled that funding gap and did some organizing so that was in November of that year.
+But then DEVCON1 happened in November 2015 in London. It had got announced earlier in the year and got cancelled because of this funding squeeze but then [ConsenSys](https://consensys.io/) basically stepped up and filled that funding gap and did some organizing so that was in November of that year.
 
 I was not present myself. I couldn't afford to go or whatever at the time but I watched a lot of the livestream. But you know that was a really very seminal conference. So how was that?
 
@@ -251,7 +251,7 @@ It was amazing. I've never been good at sitting still on a chair for a long peri
 
 But I was just sitting there and sucking up all of these ideas and visions. And it was really... I think before that I had an idea that I thought it would be interesting to continue working with Ethereum or in the Ethereum space. But after DEVCON1, I was like, I have to do this. There's no other way for me. I'm not going back to the university. I'm not going to do anything else. This is what I'm going to do.
 
-Because it was a full day, or three full days, of just sitting there and people presenting their ideas. I remember clearly Maker was presented. I was like, OK, we can do stablecoins. Amazing.
+Because it was a full day, or three full days, of just sitting there and people presenting their ideas. I remember clearly [Maker](https://en.wikipedia.org/wiki/MakerDAO) was presented. I was like, OK, we can do stablecoins. Amazing.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/tu0Q9ZDrJT4"
@@ -261,7 +261,7 @@ Because it was a full day, or three full days, of just sitting there and people 
   date="November 12, 2015"
 %}
 
-I think Fabian Vogelsteller and Alex van de Sande and some other people presented the ERC-20 token standard or the early version of it, which, yeah, OK, this is such a big part of Ethereum now.
+I think Fabian Vogelsteller and Alex van de Sande and some other people presented the [ERC-20](https://en.wikipedia.org/wiki/ERC-20) token standard or the early version of it, which, yeah, OK, this is such a big part of Ethereum now.
 
 *(Bob - so the panelists were actually Christian Lundkvist, Vitalik Buterin, Fabian Vogelsteller, Nikolai Mushegian and Gavin Wood, with Simon de la Rouviere moderating.  Simon himself gave a separate talk on tokenization)*
 
@@ -281,7 +281,7 @@ I think Fabian Vogelsteller and Alex van de Sande and some other people presente
   date="November 12, 2015"
 %}
 
-I think maybe Gnosis, I'm not sure actually.
+I think maybe [Gnosis](https://en.wikipedia.org/wiki/Gnosis_(blockchain)), I'm not sure actually.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/v19KtrFqAjo"
@@ -291,7 +291,7 @@ I think maybe Gnosis, I'm not sure actually.
   date="November 12, 2015"
 %}
 
-And of course the project I was working on, the people there, we were presenting the Raiden network, which got a lot of very good feedback as well. So it was so interesting.
+And of course the project I was working on, the people there, we were presenting the [Raiden network](https://raiden.network/), which got a lot of very good feedback as well. So it was so interesting.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/h791zjvf3uQ"
@@ -326,7 +326,7 @@ But back to DEVCON1, I was just thinking about it after our conversation last ni
 What was the name of the Haskell project?
 
 [[12:39]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=759s) **Bob Summerwill:**
-BlockApps STRATO.
+[BlockApps STRATO](https://blockapps.net/).
 
 [[12:26]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=746s) **Jacob Czepluch:**
 Yeah, I remember they had like a small booth I think.
@@ -355,7 +355,7 @@ I think there was like one a little bit weird product, hype talk with a guy who 
 
 <h3 id="evolution-devcons">Evolution of DEVCONs</h3>
 
-But yeah, I was thinking about that and then I was comparing with, let's say, DEVCON2. I think at DEVCON2 there was maybe like a couple of parties. I think ConsenSys had like a bar somewhere where we would usually go. It was still not that big. There was still only one stage, I think, at DEVCON2.
+But yeah, I was thinking about that and then I was comparing with, let's say, DEVCON2. I think at DEVCON2 there was maybe like a couple of parties. I think [ConsenSys](https://consensys.io/) had like a bar somewhere where we would usually go. It was still not that big. There was still only one stage, I think, at DEVCON2.
 
 [[14:06]](https://www.youtube.com/watch?v=mCbtI8LaXkA&t=846s) **Bob Summerwill:**
 There was just one main stage.

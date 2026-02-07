@@ -549,7 +549,7 @@ And yes, I mean for some of these earlier ambitions of proper apps being on Swar
 
 [[1:27:39]](https://www.youtube.com/watch?v=470q6U-TEMI&t=5259s) **Bob Summerwill:** We.
 
-[[1:27:39]](https://www.youtube.com/watch?v=470q6U-TEMI&t=5259s) **Viktor Trón:** Talk through RPC and then which is kind of centralized and then we talk NFTs and all this kind of stuff. But I mean, as Moxie Marlinspike's blog put it, like he actually showed when on OpenSea the NFT that he created turns into a, turns into a turd image. And so, you know, it's kind of, I mean, of course it's fun, it's okay to poke fun. I mean, you're part of this.
+[[1:27:39]](https://www.youtube.com/watch?v=470q6U-TEMI&t=5259s) **Viktor Trón:** Talk through RPC and then which is kind of centralized and then we talk NFTs and all this kind of stuff. But I mean, as Moxie Marlinspike's blog put it, like he actually showed when on [OpenSea](https://opensea.io/) the NFT that he created turns into a, turns into a turd image. And so, you know, it's kind of, I mean, of course it's fun, it's okay to poke fun. I mean, you're part of this.
 
 And of course, of course, you know, some of these things might be a promise of maybe Swarm, of something that we might have missed and therefore kind of lagging behind with some of these overall ecosystem promises. But I don't know. But yeah, instead of lamenting on this, I'm kind of, I just keep on. I try to share some of the positive energies into this constructive action and stuff.
 

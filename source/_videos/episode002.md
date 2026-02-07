@@ -89,7 +89,7 @@ Yeah. Well, they kind of walled it off. And so it just was like, I don't know, I
 And then one day, all of a sudden the wall was gone and there was a beautiful park there.
 
 [[2:53]](https://www.youtube.com/watch?v=FsCilArdlMg&t=173s) **Victor:**
-So at that event, which was, I think, two months, two to three months before the actual launch of I will say, the concepts were really interesting. People were coming up and it was mostly, I think, interns that were interning at ConsenSys over that summer. And ConsenSys at this point was only like maybe 20 people at max.
+So at that event, which was, I think, two months, two to three months before the actual launch of I will say, the concepts were really interesting. People were coming up and it was mostly, I think, interns that were interning at [ConsenSys](https://consensys.io/) over that summer. And [ConsenSys](https://consensys.io/) at this point was only like maybe 20 people at max.
 
 [[3:17]](https://www.youtube.com/watch?v=FsCilArdlMg&t=197s) **Kieren:**
 20 or 30, yeah, that seems right.
@@ -99,7 +99,7 @@ Yeah. It was really, really small. And some great concepts came up, but even wit
 
 It was just impossible. Very basic stuff, like reading a variable off the blockchain was kind of impossible. You couldn't read the state off the blockchain and all of this kind of stuff.
 
-So that kind of led into, yeah, everything building in those days were incredibly hard. And that led into, so we decided at that event, we were going to, at the launch of Ethereum, we were going to do a bigger hackathon. And that became the second ConsenSys Dappathon, which kind of coincided with the launch of Ethereum.
+So that kind of led into, yeah, everything building in those days were incredibly hard. And that led into, so we decided at that event, we were going to, at the launch of Ethereum, we were going to do a bigger hackathon. And that became the second [ConsenSys](https://consensys.io/) Dappathon, which kind of coincided with the launch of Ethereum.
 
 And it was us, the Java client, which I think was called Ethercap at that time, and other tools that were kind of combined together. But what was really interesting about that one was, it was bigger. I think the first one we had six participants, the other one we had, I think, close to 30.
 
@@ -116,7 +116,7 @@ Yeah. So, okay. So you're talking about the second one.
 I'm talking about the second one, yeah.
 
 [[5:04]](https://www.youtube.com/watch?v=FsCilArdlMg&t=304s) **Kieren:**
-The second one, also the offices had shifted. So we had ConsenSys, which we were kind of working as a part of at that time, had moved to a much larger office in Bushwick, which is, I believe they still have a presence there, though they've gone mostly remote. I remember there was like a horse lineage app.
+The second one, also the offices had shifted. So we had [ConsenSys](https://consensys.io/), which we were kind of working as a part of at that time, had moved to a much larger office in Bushwick, which is, I believe they still have a presence there, though they've gone mostly remote. I remember there was like a horse lineage app.
 
 Yeah. Which was pretty interesting. And we ended up actually hiring a couple of people who participated in the hackathon, but that one was open to externals, right?
 
@@ -127,7 +127,7 @@ And I think that one was like 24 hours or it was two days. I can't remember.
 [[5:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=359s) **Victor:**
 I think it was two days. And yeah, like the air conditioning thing. So we moved into that space to have the hackathon.
 
-ConsenSys was because they had outgrown that co-working space already. And so we moved into that space, which was a reasonably sized room. Like you could probably get 80 to 100 people in that room, right?
+[ConsenSys](https://consensys.io/) was because they had outgrown that co-working space already. And so we moved into that space, which was a reasonably sized room. Like you could probably get 80 to 100 people in that room, right?
 
 But yes, the air conditioning was terrible. And we had to frantically, we only realized this after we got into the room. So we had to like frantically buy some and set them up.
 
@@ -208,19 +208,19 @@ Like you had to be ready right for the launch because it was a land grab and thi
 
 So the first ICO, whatever you want to call it, that was on Ethereum, obviously Ethereum did its own crowd sale. But it was like, you know, they took in Bitcoin and there was, it was something like 2000 Ether to one Bitcoin at the time, which I believe at the time was like 20 or 30 cents. And then it had gone up to a dollar on launch, which is already a pretty good return, you know, but that is what it is.
 
-The first ICO apparently was Augur. And I knew the Augur guys a little bit. I was digging through the crypto economic con videos.
+The first ICO apparently was [Augur](https://en.wikipedia.org/wiki/Augur_(software)). And I knew the [Augur](https://en.wikipedia.org/wiki/Augur_(software)) guys a little bit. I was digging through the crypto economic con videos.
 
-I believe one or two of them presented or run panels at crypto economic con. For folks who are listening to this, crypto economic con was a conference that we had in January, 2015, that involved a lot of the people who then, including Vitalik and some of the other Ethereum folks, then subsequently created really big and interesting, mostly layer one projects in the Ethereum space, but others as well. So the videos are actually up.
+I believe one or two of them presented or run panels at crypto economic con. For folks who are listening to this, crypto economic con was a conference that we had in January, 2015, that involved a lot of the people who then, including [Vitalik](/people/vitalik-buterin/) and some of the other Ethereum folks, then subsequently created really big and interesting, mostly layer one projects in the Ethereum space, but others as well. So the videos are actually up.
 
 I tweeted a couple of them, but there was a, apparently, I think I created a YouTube channel like in 2015 and uploaded all those. I definitely remember getting them recorded. So check those out if that's of interest.
 
-So Augur was the first, I guess, of the prediction markets platforms. There since have been a couple of new ones that have popped up that seem to be popular. There was also this sort of competing project called Truthcoin.
+So [Augur](https://en.wikipedia.org/wiki/Augur_(software)) was the first, I guess, of the prediction markets platforms. There since have been a couple of new ones that have popped up that seem to be popular. There was also this sort of competing project called Truthcoin.
 
 And I was kind of confused about how the two related to each other. I think there was no formal relation though. I remember meeting up, there's a guy named Matt Liston I met, who I checked his LinkedIn.
 
-He's been in a couple of different places. So I think Augur, maybe we should look up who actually founded Augur. So Jeremy Gardner, I've known over the years.
+He's been in a couple of different places. So I think [Augur](https://en.wikipedia.org/wiki/Augur_(software)), maybe we should look up who actually founded [Augur](https://en.wikipedia.org/wiki/Augur_(software)). So Jeremy Gardner, I've known over the years.
 
-And I met him in San Francisco with Vitalik, because Vitalik was staying at what was termed at the time, Crypto Castle. And it's kind of what you would imagine, sort of like a co-working, co-living crypto space. And not everyone there was working on Augur, they were all working on different things.
+And I met him in San Francisco with [Vitalik](/people/vitalik-buterin/), because [Vitalik](/people/vitalik-buterin/) was staying at what was termed at the time, Crypto Castle. And it's kind of what you would imagine, sort of like a co-working, co-living crypto space. And not everyone there was working on [Augur](https://en.wikipedia.org/wiki/Augur_(software)), they were all working on different things.
 
 It's kind of a common thing to do.
 
@@ -230,17 +230,17 @@ Well, I think if you hear the term Crypto Castle now, people would imagine an ac
 [[13:09]](https://www.youtube.com/watch?v=FsCilArdlMg&t=789s) **Kieren:**
 Yes, it was more like a dorm. I mean, it was a nice little house. I can't remember, it might've been like adjacent to the mission in San Francisco.
 
-So Vitalik would stay there sometimes. Joey Krug, I've probably met two or three times over the years. I'm not even sure if I ever met Jack Peterson.
+So [Vitalik](/people/vitalik-buterin/) would stay there sometimes. Joey Krug, I've probably met two or three times over the years. I'm not even sure if I ever met Jack Peterson.
 
-So those are the three founders of Augur. So I guess they were good friends with Vitalik, or just sort of had realized early on that it would be easier to develop on Ethereum than it would be to try to do something with Bitcoin, which was kind of the predominant suggestion at the time. But they did the first on Ethereum crowdfund, I guess right after launch, Wikipedia is saying August, 2015, which is really, really early.
+So those are the three founders of [Augur](https://en.wikipedia.org/wiki/Augur_(software)). So I guess they were good friends with [Vitalik](/people/vitalik-buterin/), or just sort of had realized early on that it would be easier to develop on Ethereum than it would be to try to do something with Bitcoin, which was kind of the predominant suggestion at the time. But they did the first on Ethereum crowdfund, I guess right after launch, Wikipedia is saying August, 2015, which is really, really early.
 
 I don't know if I believe this Wikipedia page. It says, soon after the platform launched, users had created the death pools or assassination markets on famous people. So back in 2015, every discussion about blockchain eventually led both to prediction markets, and then this sort of uncensored ability, you can't shut it down, would lead then to assassination markets.
 
-Assassination markets being, you predict, you bet on the day someone dies, and then someone takes the other side of that bet, kills them and collects on it. So apparently there actually were assassination markets created on Augur. According to this Wikipedia page, I don't know.
+Assassination markets being, you predict, you bet on the day someone dies, and then someone takes the other side of that bet, kills them and collects on it. So apparently there actually were assassination markets created on [Augur](https://en.wikipedia.org/wiki/Augur_(software)). According to this Wikipedia page, I don't know.
 
-I have to look into that. I'm a little bit dubious. But in any case, I guess Augur then blazed the trail, sort of after Ethereum did with its successful crowd sale, for the wave of ICOs that came later.
+I have to look into that. I'm a little bit dubious. But in any case, I guess [Augur](https://en.wikipedia.org/wiki/Augur_(software)) then blazed the trail, sort of after Ethereum did with its successful crowd sale, for the wave of ICOs that came later.
 
-But yeah, so Truthcoin was also this competing project. I just remember meeting up with Matt at like a Berkeley coffee shop and talking about both Augur and Truthcoin had some sort of machine learning, slightly like computer science graph theoretic way of determining what the truth was. So you take a bunch of votes from a bunch of people, but then determine the principal components of how the voting is, then extract the truth from there.
+But yeah, so Truthcoin was also this competing project. I just remember meeting up with Matt at like a Berkeley coffee shop and talking about both [Augur](https://en.wikipedia.org/wiki/Augur_(software)) and Truthcoin had some sort of machine learning, slightly like computer science graph theoretic way of determining what the truth was. So you take a bunch of votes from a bunch of people, but then determine the principal components of how the voting is, then extract the truth from there.
 
 It sounded very high end math, mechanistic, which it was very common of the space. Crypto has a lot of these, and I was in the math department at Berkeley, a lot of these mathematician types who kind of came in and wanted to create really complicated schemes and mechanisms and all that sort of stuff that had provable theoretical properties for something interesting about the space. But yeah, so they must have launched it right away.
 
@@ -254,11 +254,11 @@ I remember I was talking to them at some point and they were developing that. Th
 [[16:14]](https://www.youtube.com/watch?v=FsCilArdlMg&t=974s) **Kieren:**
 Platform went live 2018, the Wikipedia page says, but they did the crowd sale basically right away. So should we go on to DevCon 1, which I guess I can talk about. So kind of concurrently while all this is happening, we started to work a bunch.
 
-ConsenSys had a business development team, a little bit of a mix of marketing, BD, actual sales, et cetera, that was starting to generate interest from big companies in the technology. So for us ourselves, we definitely worked with companies far more than sort of the crypto public for most of the history of the company. Still don't really work with the crypto public today.
+[ConsenSys](https://consensys.io/) had a business development team, a little bit of a mix of marketing, BD, actual sales, et cetera, that was starting to generate interest from big companies in the technology. So for us ourselves, we definitely worked with companies far more than sort of the crypto public for most of the history of the company. Still don't really work with the crypto public today.
 
-But ConsenSys was kind of conflicted on this front. So while they had sort of pure blockchain native projects and eventually in big numbers, they also had an enterprise arm, which is really more consulting oriented, although they kind of ended up sort of backfilling what they saw demand for with products at times. But in any case, the BD folks were reaching out to everybody and they actually got a fair bit of interest from Microsoft.
+But [ConsenSys](https://consensys.io/) was kind of conflicted on this front. So while they had sort of pure blockchain native projects and eventually in big numbers, they also had an enterprise arm, which is really more consulting oriented, although they kind of ended up sort of backfilling what they saw demand for with products at times. But in any case, the BD folks were reaching out to everybody and they actually got a fair bit of interest from Microsoft.
 
-And I think Microsoft had already been kind of watching the Ethereum revolution and seeing it as something interesting, the new front of the cloud war perhaps. And so we got to working with them and actually maybe for the technical part of this, I could kind of transition. But basically, so ConsenSys had a couple of preferred projects, which had the low level, like low level, I mean like the blockchain client itself, infrastructure that could be deployed on cloud platforms.
+And I think Microsoft had already been kind of watching the Ethereum revolution and seeing it as something interesting, the new front of the cloud war perhaps. And so we got to working with them and actually maybe for the technical part of this, I could kind of transition. But basically, so [ConsenSys](https://consensys.io/) had a couple of preferred projects, which had the low level, like low level, I mean like the blockchain client itself, infrastructure that could be deployed on cloud platforms.
 
 And maybe, so that ended up being basically us and the Java folks. Vic, do you want to take any, I think you were saying before?
 
@@ -267,7 +267,7 @@ Yeah, sure. So they were interested in kind of being able to deploy one of the c
 
 Wait, I should take a step back here. Just mentioning that DevCon1 almost didn't happen if you recall, right? Because it was in this low period and the Ethereum Foundation was kind of running out of money because this is why the launch had to happen when it happened.
 
-And in that low period, they were still trying to preserve a lot of cash. And so it almost didn't happen. And I remember a lot of people inside ConsenSys were like, no, we have to bring this to kind of bring this up and make an event out of this.
+And in that low period, they were still trying to preserve a lot of cash. And so it almost didn't happen. And I remember a lot of people inside [ConsenSys](https://consensys.io/) were like, no, we have to bring this to kind of bring this up and make an event out of this.
 
 I think Andrew Keyes was leading the charge in that, really saying like, we got to do this. And then this Microsoft thing kind of bundled into that, right? So it was us and the Java client.
 
@@ -288,18 +288,18 @@ There weren't really that many exchanges or anything to go on. So that's kind of
 And then the launch itself in London, when we got up with Microsoft, I think people were shocked that Microsoft was into it.
 
 [[21:33]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1293s) **Kieren:**
-You know, so I just looked that up and didn't have in our little outline, but I had forgotten about this. So I think Coinbase listed Ether like mid-2016, right? I'm seeing May 24th, 2016.
+You know, so I just looked that up and didn't have in our little outline, but I had forgotten about this. So I think [Coinbase](https://www.coinbase.com/) listed Ether like mid-2016, right? I'm seeing May 24th, 2016.
 
 So, and I guess like Kraken was the popular exchange at the time.
 
 [[21:52]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1312s) **Victor:**
-I think it was Poloniex.
+I think it was [Poloniex](https://en.wikipedia.org/wiki/Poloniex).
 
 [[21:54]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1314s) **Kieren:**
-I'm sorry, you're right. Poloniex still exists.
+I'm sorry, you're right. [Poloniex](https://en.wikipedia.org/wiki/Poloniex) still exists.
 
 [[21:59]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1319s) **Victor:**
-And I just remember there was like the chat function on Poloniex. Like, man, like that was like crazy. Like that was Discord before there was Discord.
+And I just remember there was like the chat function on [Poloniex](https://en.wikipedia.org/wiki/Poloniex). Like, man, like that was like crazy. Like that was Discord before there was Discord.
 
 [[22:08]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1328s) **Kieren:**
 Oh wait, hold on. Circle bought it maybe? And then it seems to have shut it down.
@@ -460,7 +460,7 @@ But they end up holding by May 21st, 2016, over $150 million in Ether from over 
 Okay.
 
 [[32:27]](https://www.youtube.com/watch?v=FsCilArdlMg&t=1947s) **Kieren:**
-So it was really fast, right? It took everybody's surprise. I remember, I think I had a meeting that the enterprise folks at ConsenSys had set up with, I'm going to say the people at BVVA, I'm forgetting last names, but I think it was like Scarlett and Carlos.
+So it was really fast, right? It took everybody's surprise. I remember, I think I had a meeting that the enterprise folks at [ConsenSys](https://consensys.io/) had set up with, I'm going to say the people at BVVA, I'm forgetting last names, but I think it was like Scarlett and Carlos.
 
 I don't think you went to this one, Vic, I think you were in Edtown. But they were just like, it just caught everyone's attention. It was crazy.
 
@@ -495,15 +495,15 @@ And, you know, even in the early days of Bitcoin, I was not really around for th
 <h3 id="consensus-conference">First Consensus conference and Hyperledger</h3>
 
 [[41:02]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2462s) **Victor:**
-Yeah, I found it from CoinDesk. Let me see if I can still find them. But so what I remember of it is that it was, I think it was one of the first CoinDesk consensus events, which, you know, subsequently became huge.
+Yeah, I found it from [CoinDesk](https://www.coindesk.com/). Let me see if I can still find them. But so what I remember of it is that it was, I think it was one of the first [CoinDesk](https://www.coindesk.com/) consensus events, which, you know, subsequently became huge.
 
 And then, so they kind of had two events around it. One was a hackathon, which we were part of. And then, and we were running, we were like one of the main platforms that was participating in it.
 
 And then there was the event itself, which was, I think at the Ritz, like both events were in Times Square. Like the hackathon came first at Microsoft and Times Square. And then the event was kind of, you know, a couple blocks away in the hotel.
 
-And I remember that like during the hackathon itself, we were in, all in these like different conference rooms that, and there was, you know, like early Hyperledger and some other, I can't remember who the other clients were, but there were like competing clients that were not Ethereum based. And there was a pretty good turnout. I think like over a hundred people showed up, like a lot of people kind of showed up.
+And I remember that like during the hackathon itself, we were in, all in these like different conference rooms that, and there was, you know, like early [Hyperledger](https://www.hyperledger.org/) and some other, I can't remember who the other clients were, but there were like competing clients that were not Ethereum based. And there was a pretty good turnout. I think like over a hundred people showed up, like a lot of people kind of showed up.
 
-And our room got so crowded, we had to like go up to another boardroom in order to kind of like build. So like, I think we got like a significant majority of the developers building stuff on our platform, which was super exciting. And I remember kind of walking by the rooms that like Hyperledger had had, or I'm trying to remember what the other client had had.
+And our room got so crowded, we had to like go up to another boardroom in order to kind of like build. So like, I think we got like a significant majority of the developers building stuff on our platform, which was super exciting. And I remember kind of walking by the rooms that like [Hyperledger](https://www.hyperledger.org/) had had, or I'm trying to remember what the other client had had.
 
 And like, you know, there weren't very many people in there. It seemed like the people that were in there were like people who were working for them. So that was really, really exciting.
 
@@ -519,37 +519,37 @@ That's at least how I felt at the time, whether or not that's completely true. I
 And the rest of the conference.
 
 [[43:44]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2624s) **Victor:**
-Oh, and then the rest of the conference. So that I think was like the first shiny big blockchain conference, right? Like, you know, you had, I remember Vitalik speaking, they launched, I think the first Hyperledger app there and a bunch of, you know, there was a bunch of activity.
+Oh, and then the rest of the conference. So that I think was like the first shiny big blockchain conference, right? Like, you know, you had, I remember [Vitalik](/people/vitalik-buterin/) speaking, they launched, I think the first [Hyperledger](https://www.hyperledger.org/) app there and a bunch of, you know, there was a bunch of activity.
 
-Like it was a really interesting combination because most of the other conferences like DevCon are really developer focused, but this, you could really see a lot of businesses becoming interested. And the thing I most remember about that conference is that we were like pulled into a room at one point. And that room was basically, in the room was the head of Hyperledger, John Wilpert, and Vitalik were in that room.
+Like it was a really interesting combination because most of the other conferences like DevCon are really developer focused, but this, you could really see a lot of businesses becoming interested. And the thing I most remember about that conference is that we were like pulled into a room at one point. And that room was basically, in the room was the head of [Hyperledger](https://www.hyperledger.org/), John Wilpert, and [Vitalik](/people/vitalik-buterin/) were in that room.
 
 And they were like, hey, we heard that you guys have an enterprise ready version of Ethereum that, you know, switch between the public net and like private blockchains. Right. And, and like, I remember Wilpert at the time was like, my engineers claim that this is completely impossible.
 
-And Jim, I think you like pulled out your laptop and you're like, here it is, like, I'm going to show you like this is, this is how it works. And you know, like you can start building on it and everything. And there was this conversation going back and forth between Wilpert and Vitalik about, I think Hyperledger supporting Ethereum.
+And Jim, I think you like pulled out your laptop and you're like, here it is, like, I'm going to show you like this is, this is how it works. And you know, like you can start building on it and everything. And there was this conversation going back and forth between Wilpert and [Vitalik](/people/vitalik-buterin/) about, I think [Hyperledger](https://www.hyperledger.org/) supporting Ethereum.
 
-And it kind of ended, what I remember of it was it ended with, I think Vitalik was, you know, he always wears an Ethereum t-shirt. Right. And Wilpert is about three size larger than Vitalik.
+And it kind of ended, what I remember of it was it ended with, I think [Vitalik](/people/vitalik-buterin/) was, you know, he always wears an Ethereum t-shirt. Right. And Wilpert is about three size larger than [Vitalik](/people/vitalik-buterin/).
 
 But... Interesting.
 
 [[45:32]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2732s) **Kieren:**
-I think Vitalik is very tall.
+I think [Vitalik](/people/vitalik-buterin/) is very tall.
 
 [[45:34]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2734s) **Victor:**
 Yeah.
 
 [[45:35]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2735s) **Kieren:**
-And John is stockier, if they're at a bench press competition, I expect there would be a pretty big differentiation, you know, in what John could bench and what Vitalik could bench.
+And John is stockier, if they're at a bench press competition, I expect there would be a pretty big differentiation, you know, in what John could bench and what [Vitalik](/people/vitalik-buterin/) could bench.
 
 [[45:49]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2749s) **Victor:**
 Yeah. I think you're right. Like, it's not, we're not talking that John is unfit.
 
-He's just like much larger than Vitalik is what, you know, still quite skinny. Right. So like John was like three sizes before.
+He's just like much larger than [Vitalik](/people/vitalik-buterin/) is what, you know, still quite skinny. Right. So like John was like three sizes before.
 
-And I think it was Andrew Keyes that like pointed to the t-shirt and like, Vitalik, take that shirt off and give it to John, because he was about to walk on stage. And like, it was like a muscle shirt on him. It was like so tight.
+And I think it was Andrew Keyes that like pointed to the t-shirt and like, [Vitalik](/people/vitalik-buterin/), take that shirt off and give it to John, because he was about to walk on stage. And like, it was like a muscle shirt on him. It was like so tight.
 
-You know, it was like a compression shirt. And he went on stage and that was like, you know, people were kind of shocked that like, hey, what's going on? Like this is the head of Hyperledger and now he's wearing an Ethereum t-shirt.
+You know, it was like a compression shirt. And he went on stage and that was like, you know, people were kind of shocked that like, hey, what's going on? Like this is the head of [Hyperledger](https://www.hyperledger.org/) and now he's wearing an Ethereum t-shirt.
 
-And it's interesting because what eventually that led to Hyperledger actually supporting Ethereum type clients like Bera.
+And it's interesting because what eventually that led to [Hyperledger](https://www.hyperledger.org/) actually supporting Ethereum type clients like Bera.
 
 [[46:38]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2798s) **Kieren:**
 Yeah. I would add in talking to, obviously we spoke to John occasionally over the years and he actually went on to join consensus later. I don't really know what he's up to today.
@@ -565,7 +565,7 @@ And I think this was, you know, like perhaps the best illustration of that confl
 I think they've shifted resources and all that sort of thing.
 
 [[47:57]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2877s) **Victor:**
-By the way, I did find the picture from that first hackathon. So, you know, this is off the CoinDesk, but here's the picture, you know, at the, and this was one of the rooms and there was, we had to call up another room. Like this was very early in the process.
+By the way, I did find the picture from that first hackathon. So, you know, this is off the [CoinDesk](https://www.coindesk.com/), but here's the picture, you know, at the, and this was one of the rooms and there was, we had to call up another room. Like this was very early in the process.
 
 [[48:15]](https://www.youtube.com/watch?v=FsCilArdlMg&t=2895s) **Kieren:**
 Yeah, yeah. I remember this one.
@@ -661,7 +661,7 @@ You know, this is before they started their own digital currency and really kind
 But as you said, this all happened really fast.
 
 [[56:29]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3389s) **Kieren:**
-Yeah. I'd also mention, so we announced a project we were working on and it was getting close to completion with BHP Billiton. So the big time project and kind of the first of our supply chain work our kind of champion at BHP is a guy named Tyler Smith, very smart guy, geophysicist, blockchain enthusiast.
+Yeah. I'd also mention, so we announced a project we were working on and it was getting close to completion with BHP Billiton. So the big time project and kind of the first of our supply chain work our kind of champion at BHP is a guy named [Tyler Smith](/people/r-tyler-smith/), very smart guy, geophysicist, blockchain enthusiast.
 
 And so the announcement was great. It definitely got everyone excited about the technology, helped us close the financing at that time, et cetera. So we're all on stage.
 
@@ -738,14 +738,14 @@ Yeah. I'd also add, okay, so JP Morgan, when did they announce Quora? That's a g
 I don't, I think it was- Probably before the EA launch, but I'm not sure.
 
 [[1:04:21]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3861s) **Victor:**
-Yeah, I know they had a blockchain team that ironically also were working in Haskell. So they were, and you know, eventually we wound up doing work on Quorum too. So there was like, we had been talking to them a while.
+Yeah, I know they had a blockchain team that ironically also were working in Haskell. So they were, and you know, eventually we wound up doing work on [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_ledger_technology)) too. So there was like, we had been talking to them a while.
 
-And, but I can't remember when the official launch of Quorum was.
+And, but I can't remember when the official launch of [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_ledger_technology)) was.
 
 [[1:04:40]](https://www.youtube.com/watch?v=FsCilArdlMg&t=3880s) **Kieren:**
 I have some memory that they demoed something at, and consensus might have helped, like, the front end of the demo. I can't quite recall, but I believe that they demoed something at the launch, which was what, like, it was either February or March 2017, something like that. So I think they must have announced it by then.
 
-So Quorum is, was a flavor of, Ethereum, or a flavor of enterprise Ethereum, where they'd taken the Go Ethereum client and done things like add privacy and, so that it was easier to obscure data. And there was like a messaging layer it had, you know, et cetera. And similar things we developed over the years, just as we, in response to the, you know, privacy preferences and needs of big, big enterprises, basically.
+So [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_ledger_technology)) is, was a flavor of, Ethereum, or a flavor of enterprise Ethereum, where they'd taken the Go Ethereum client and done things like add privacy and, so that it was easier to obscure data. And there was like a messaging layer it had, you know, et cetera. And similar things we developed over the years, just as we, in response to the, you know, privacy preferences and needs of big, big enterprises, basically.
 
 So they all wanted to use the technology, didn't want a native token. They didn't want too much detail leaking to, you know, potentially competitors, or even trading counterparties, et cetera. So they, you know, a lot of people at the same time developed kind of similar features to service, you know, the enterprise need.
 

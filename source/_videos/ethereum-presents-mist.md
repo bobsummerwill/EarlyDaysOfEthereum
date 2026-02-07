@@ -1,7 +1,6 @@
 ---
 title: "Ethereum presents Mist"
 date: 2014-11-12
-author: "Alex van de Sande"
 description: "An introduction to Mist, the Ethereum browser that allows users to interact with decentralized applications, wallets, and smart contracts. This video walks through the Mist interface including the sidebar, app catalog, crowdfunder functionality, and integration with traditional web applications."
 img: /images/img.youtube.com/2026.01.05/vi/IgNjs_WaFSc/maxresdefault.jpg
 embed:
@@ -20,7 +19,7 @@ This video provides an introduction to Mist, the Ethereum browser. Mist was desi
 
 ## Transcript
 
-**[00:10] SPEAKER_00:** This presentation is about 30 minutes long and we're going to be explaining what is it that we're building, and I hope you like it. Before we start, I'd like to emphasize that everything I'm about to show you is just a vision, not a roadmap. Jeff wants everyone to be completely clear that this isn't what they're promising to deliver on the Genesis launch, as many of those concepts might be some years ahead, but it's definitely the direction we are heading. The Mist browser to be launched at Genesis will be a step in this direction, albeit a small one. But we are not committing or promising any particular feature. We are just showing your vision for the project.
+**[00:10] Alex van de Sande:** This presentation is about 30 minutes long and we're going to be explaining what is it that we're building, and I hope you like it. Before we start, I'd like to emphasize that everything I'm about to show you is just a vision, not a roadmap. Jeff wants everyone to be completely clear that this isn't what they're promising to deliver on the Genesis launch, as many of those concepts might be some years ahead, but it's definitely the direction we are heading. The Mist browser to be launched at Genesis will be a step in this direction, albeit a small one. But we are not committing or promising any particular feature. We are just showing your vision for the project.
 
 A lot will change as we go the path together and as we gather your feedback on what is your vision of Ethereum. Because after all, you need to know where you're going in order to go. But we also believe that software should fit deadlines, not the opposite. So we will be building the best we can until winter, and we'll continuously evolve from there. And the community feedback on which of those things you want will certainly influence our prioritization. So please, please, please, feedback is welcome. Reddit is there, Twitter is there, and the forum on ethereum.org. I'm on all of them as AVSA.
 

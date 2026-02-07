@@ -9,7 +9,7 @@ embed:
 
 ## Transcript
 
-**[00:14] SPEAKER_00:** So I first heard about Bitcoin in March 2011. So first time I heard about it actually my dad told me. He just found out about it. He told me, hey look, it's this decentralized currency thing. And I actually discarded it for the first time because something that has no intrinsic value, why would it ever become valuable? But then I heard about it again after a few weeks and so I thought this might be something actually serious and worth getting into. So I went online on the Bitcointalk forums and I tried to figure out what are some ways I can actually earn some bitcoins. So I started writing articles for this website called Bitcoin Weekly. They were paying me 5 bitcoins an article which was actually $4 back then. So my first ever job paid about $1 an hour, earned 20 bitcoins, spent eight and a half of them on a T-shirt.
+**[00:14] Vitalik Buterin:** So I first heard about Bitcoin in March 2011. So first time I heard about it actually my dad told me. He just found out about it. He told me, hey look, it's this decentralized currency thing. And I actually discarded it for the first time because something that has no intrinsic value, why would it ever become valuable? But then I heard about it again after a few weeks and so I thought this might be something actually serious and worth getting into. So I went online on the Bitcointalk forums and I tried to figure out what are some ways I can actually earn some bitcoins. So I started writing articles for this website called Bitcoin Weekly. They were paying me 5 bitcoins an article which was actually $4 back then. So my first ever job paid about $1 an hour, earned 20 bitcoins, spent eight and a half of them on a T-shirt.
 
 And then it just kept on going from there. So Mihai Alisie contacted me in about September 2011. He said, oh hey, I'm founding a magazine, do you want to become a writer for us? And so I became a co-founder for Bitcoin Magazine. Then it kept on going. In 2013 I left university to travel around and work on Bitcoin projects full time. So I went to the U.S., to Europe, Spain, Italy, Israel. And then eventually I got into this more interesting area of Bitcoin that people are calling cryptocurrency 2.0 which is basically to use, to look at the cryptocurrency, the blockchain technology and to use it for more than just Bitcoin the currency and more than just money.
 
@@ -27,19 +27,19 @@ I mean at this point it seems to be moving a lot toward these sort of cryptocurr
 
 I would have preferred the thing to have a permanent linear model actually. I mean it is kind of unfortunate that by the time anyone has really heard of Bitcoin, 25% of all the bitcoins were already gone. It creates this sort of strange inverse effect where you know the people. Everything that happened in 2009 is suddenly a thousand times more important than everything that's happening in 2011 or 2012. So that probably is one of the parts of Bitcoin, the rapid deflationary curve that I don't like so much.
 
-**[06:01] SPEAKER_01:** Right now I'm working with the Ethereum project which is a... You know what Ethereum project is?
+**[06:01] Gavin Wood:** Right now I'm working with the Ethereum project which is a... You know what Ethereum project is?
 
-**[06:07] SPEAKER_00:** No.
+**[06:07] Vitalik Buterin:** No.
 
-**[06:08] SPEAKER_01:** So it's a way of decentralizing transaction-based processing. So it's a bit like Bitcoin but with not just for financial applications, but rather for all applications that need some form of agreement between two parties.
+**[06:08] Gavin Wood:** So it's a way of decentralizing transaction-based processing. So it's a bit like Bitcoin but with not just for financial applications, but rather for all applications that need some form of agreement between two parties.
 
 The idea of different proofs in order to solidify the blockchain. So proof of stake being obvious, one proof of excellence as well are really interesting ways of reducing this problem of lost power and lost energy that we have with bog standard proof of work. So as far as the altcoins concerned, I'm really interested in the experiments that they provide in this direct.
 
 I think the change is going to be largely socioeconomic in its nature as more and more people come around to the idea of not having to trust in authorities in order to provide certain basic rules and laws of society, such as the ability to have common currency, that's going to affect how...
 
-**[07:22] SPEAKER_00:** People.
+**[07:22] Vitalik Buterin:** People.
 
-**[07:24] SPEAKER_01:** Look into their general interactions and how they build agreements with each other.
+**[07:24] Gavin Wood:** Look into their general interactions and how they build agreements with each other.
 
 Web 3.0 might also be termed the Post-Snowden Web. So it's this idea that authorities are not always trustworthy. They don't always act in the same way as how they say that they act. Precisely. And so Web3 seeks to rebuild what is commonly understood as the web, but with a set of technologies in order to decentralize even the notion of having to trust such third parties and authorities.
 

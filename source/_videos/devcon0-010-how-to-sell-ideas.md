@@ -1,7 +1,6 @@
 ---
 title: "Ethereum ÐΞVcon-0: How to Sell Ideas"
 date: 2014-11-24
-author: Vinay Gupta
 embed:
   url: https://www.youtube.com/embed/T6_30eKQeN8
 ---
@@ -10,7 +9,7 @@ Discussion on communication strategies, messaging, and marketing approaches for 
 
 ## Transcript
 
-**[00:14] SPEAKER_00:** Right. So how to sell ideas is fundamentally about why to sell ideas. Right. It's very easy to talk about the how, but if you don't know why you're doing it, there are a whole bunch of different ways of selling ideas, some of which are completely evil, like lying to people and telling them it's going to be great. And some of which are extremely ethical, like the scientific method, which is almost entirely about selling discoveries. Right? Getting other people invested enough in your experiment to repeat it is the hard problem in science. Right? Doing the experiment, that's a hard problem. But once you've done it, getting people to replicate, getting people to accept it, getting people to publish, very difficult.
+**[00:14] Vinay Gupta:** Right. So how to sell ideas is fundamentally about why to sell ideas. Right. It's very easy to talk about the how, but if you don't know why you're doing it, there are a whole bunch of different ways of selling ideas, some of which are completely evil, like lying to people and telling them it's going to be great. And some of which are extremely ethical, like the scientific method, which is almost entirely about selling discoveries. Right? Getting other people invested enough in your experiment to repeat it is the hard problem in science. Right? Doing the experiment, that's a hard problem. But once you've done it, getting people to replicate, getting people to accept it, getting people to publish, very difficult.
 
 So the why totally changes the available how. The more ethical the how is, the more you could take a kind of high route path. And for something like Ethereum, any lie that is communicated to people will turn into huge distortions of the specification because the desire for the users to have certain features they've been led to believe will exist will completely clash with technical possibility. The closer you are to truth in marketing, the more deliverable the product becomes.
 

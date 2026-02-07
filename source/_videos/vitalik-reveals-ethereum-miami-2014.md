@@ -1,7 +1,6 @@
 ---
 title: "Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014"
 date: 2014-01-26
-author: "Ethereum Project"
 description: "Vitalik Buterin's historic announcement of Ethereum at the North American Bitcoin Conference in Miami, January 26, 2014"
 embed:
   url: https://www.youtube.com/embed/l9dpjN3Mwps
@@ -9,7 +8,7 @@ embed:
 
 ## Transcript
 
-**[00:13] SPEAKER_00:** Okay, so back when Bitcoin was originally created in 2009, Satoshi was really testing two things at once. So the first part is there's this idea of Bitcoin, the decentralized currency. It's a form of money that exists purely online and you can transfer it from anyone to anyone around the world instantly with pretty much no fees. You can transfer money from Kyrgyzstan to Guatemala just as easily, just as quickly and just as cheaply as you can to your own neighbor. And as we have seen, there are a lot of people interested in that innovation. Bitcoin in the form of money has attracted a pool of $10 billion of wealth over the past five years. It is being accepted by over 50 thousand merchants worldwide. And we have companies like BitPay and Coinbase that are trying very hard and I would say succeeding at getting Bitcoin adopted by increasingly large segments of the population. And as Ryan said, I think we're only getting started.
+**[00:13] Vitalik Buterin:** Okay, so back when Bitcoin was originally created in 2009, Satoshi was really testing two things at once. So the first part is there's this idea of Bitcoin, the decentralized currency. It's a form of money that exists purely online and you can transfer it from anyone to anyone around the world instantly with pretty much no fees. You can transfer money from Kyrgyzstan to Guatemala just as easily, just as quickly and just as cheaply as you can to your own neighbor. And as we have seen, there are a lot of people interested in that innovation. Bitcoin in the form of money has attracted a pool of $10 billion of wealth over the past five years. It is being accepted by over 50 thousand merchants worldwide. And we have companies like BitPay and Coinbase that are trying very hard and I would say succeeding at getting Bitcoin adopted by increasingly large segments of the population. And as Ryan said, I think we're only getting started.
 
 But at the same time there's also the other side of Bitcoin, which is Bitcoin, the blockchain. So Bitcoin, the technology is this global, trust free, decentralized database. It's this database that anyone can add things to, but you can't remove anything from. Now it just so happens that currency is the first app. Now these two technologies by necessity have to be married together because in order to have the decentralized database, you need to have security. In order to have security, you need to have incentives and you need to have a currency. So really Satoshi had to take these two concepts, which are really quite different, and test them both at the same time.
 
@@ -89,13 +88,13 @@ So this is the other nice thing about Ethereum. Contracts can use contracts. So 
 
 And so just one more. Here are some other interesting applications. Savings wallets. So we talked about multi signature escrow. Here are some, Ethereum potentially offers massively expanded versions of multisig escrow. You could do withdrawal limits. Crop insurance. What is crop insurance? You could have a hedging contract, you could have a financial contract off of the weather. Peer to peer gambling. You could do peer to peer Satoshi Dice on the blockchain. Decentralized exchange. Data storage. Decentralized Dropbox. You could have a decentralized Dropbox implementation that lets anyone participate. You will be able to earn money by renting out your hard drive. Mesh networking. Reputation systems. You could expand this idea of Namecoin and turn it into an entire reputation system, into a decentralized social network and perhaps maybe even Skynet.
 
-**[25:02] SPEAKER_01:** Yes, very, very exciting project. I just had a couple questions about the funding model that I was reading. So one question is where will the Bitcoin be allocated to and how will that be managed?
+**[25:02] Audience question:** Yes, very, very exciting project. I just had a couple questions about the funding model that I was reading. So one question is where will the Bitcoin be allocated to and how will that be managed?
 
-**[25:17] SPEAKER_00:** Okay, sorry, I'll repeat it.
+**[25:17] Vitalik Buterin:** Okay, sorry, I'll repeat it.
 
-**[25:24] SPEAKER_01:** The second question is if a founder, let's say leaves the project, what will happen to their vesting of Ethereum?
+**[25:24] Audience question:** The second question is if a founder, let's say leaves the project, what will happen to their vesting of Ethereum?
 
-**[25:32] SPEAKER_00:** Okay, so I'll talk a bit about the funding model. So we will have a fundraiser for two months starting February 1st. It will be available at funds.ethereum.org. So the idea is that part of the initial issuance will be 1000 ether for one bitcoin or up to 2000 ether for one bitcoin if you get in early to compensate for the increased risk.
+**[25:32] Vitalik Buterin:** Okay, so I'll talk a bit about the funding model. So we will have a fundraiser for two months starting February 1st. It will be available at funds.ethereum.org. So the idea is that part of the initial issuance will be 1000 ether for one bitcoin or up to 2000 ether for one bitcoin if you get in early to compensate for the increased risk.
 
 So the issuance model is that we will fundraise. Suppose that we hand out x ether through the fundraiser. Then there will be about 0.5x will be pre mined and then 0.4x after that will be mined per year forever. So it's this hybrid of the Mastercoin and Ripple model and the pure Bitcoin mining model and even to a slight extent the inflationary model.
 
@@ -103,6 +102,6 @@ So the answer is in terms of the portion of the pre mine that has already been a
 
 And then did you have, what was the second part?
 
-**[26:58] SPEAKER_01:** Where is the Bitcoin going to be?
+**[26:58] Audience question:** Where is the Bitcoin going to be?
 
-**[27:00] SPEAKER_00:** Right, so at the start the Bitcoin is going to be centrally managed. We will have a transparent accounting system. So the Bitcoin will go towards development, it will go toward heavy security research, it will go toward developing applications, toward working with projects like Bitmessage, and toward developing things like incubators. So we will have models, and we will release very detailed documents on how we're going to do that over the next few days. And eventually we hope to turn the Ethereum organization itself into a DAO. Okay, sure. Okay. Hold on. Yeah. I will be just standing over there outside, so if anyone wants to ask questions, feel free.
+**[27:00] Vitalik Buterin:** Right, so at the start the Bitcoin is going to be centrally managed. We will have a transparent accounting system. So the Bitcoin will go towards development, it will go toward heavy security research, it will go toward developing applications, toward working with projects like Bitmessage, and toward developing things like incubators. So we will have models, and we will release very detailed documents on how we're going to do that over the next few days. And eventually we hope to turn the Ethereum organization itself into a DAO. Okay, sure. Okay. Hold on. Yeah. I will be just standing over there outside, so if anyone wants to ask questions, feel free.

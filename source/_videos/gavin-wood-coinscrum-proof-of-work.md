@@ -9,7 +9,9 @@ embed:
 
 ## Transcript
 
-**[00:12] SPEAKER_00:** Gavin Wood. This is an impromptu talk on a legality. A legality. Who knows what I mean when I say. Hold on, who's got a beer? First of all. Right, yeah, this is a talk where you might want to have a beer.
+**Facilitator:** Gavin Wood.
+
+**[00:12] Gavin Wood:** This is an impromptu talk on a legality. A legality. Who knows what I mean when I say. Hold on, who's got a beer? First of all. Right, yeah, this is a talk where you might want to have a beer.
 
 It's a word. It's a relatively new word. It was coined in 2003. I didn't coin it. I thought I did, but it turned out I didn't. It was coined by an NGO who were talking about what the NSA are doing. But I think my meaning is better than theirs, so I'm going to stick with it.
 

@@ -10,7 +10,7 @@ A presentation on Ethereum 2.0 and the future vision for the Ethereum platform, 
 
 ## Transcript
 
-**[00:00] SPEAKER_00:** This is the last presentation for the day, for the week. In Python that's index negative one. Unfortunately C I don't think supports that particular feature. One of the many reasons why it's inferior.
+**[00:00] Vitalik Buterin:** This is the last presentation for the day, for the week. In Python that's index negative one. Unfortunately C I don't think supports that particular feature. One of the many reasons why it's inferior.
 
 So basically here I'm going to give in part some of my own technical, economic, philosophical overview of what I, of where I see the future of always in part Ethereum, in part other blockchain related and decentralized computing related technologies going in the next two years, five years, 20 years.
 

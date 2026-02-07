@@ -9,7 +9,7 @@ embed:
 
 ## Transcript
 
-**[00:00] SPEAKER_00:** Instead of having a contract that's backed by a legal system, you would put money into a magic box and then that magic box would just automatically move the funds over to me if I do what I need to do and refund the funds back to you. Otherwise, in this sort of natural state of affairs, the individual incentives and the collective incentives are absolutely disaligned. So in theory the smart contract is not going to be necessarily controlled by anyone. It's not going to be controlled by me if I do. Ultimately it would just sort of sit there and the whole thing would just process automatically.
+**[00:00] Vitalik Buterin:** Instead of having a contract that's backed by a legal system, you would put money into a magic box and then that magic box would just automatically move the funds over to me if I do what I need to do and refund the funds back to you. Otherwise, in this sort of natural state of affairs, the individual incentives and the collective incentives are absolutely disaligned. So in theory the smart contract is not going to be necessarily controlled by anyone. It's not going to be controlled by me if I do. Ultimately it would just sort of sit there and the whole thing would just process automatically.
 
 Spend an hour talking about really the economic concepts behind cryptocurrency and digital consensus in general. We're going to talk about some of the really interesting underlying economic primitives behind some of these ideas that we're putting forward. We often like to think about Bitcoin as a sort of revolution in economic paradigms. We like to think about this idea of this grand history of money where initially we had commodity money, then something like gold, then we moved on to gold certificates, then finally we moved on to fiat currency. And maybe, just maybe, Bitcoin might be the next revolution in this monetary evolution where we'll have this currency that's not only not backed by anything, but it's really not tied to any kind of entity whatsoever. It's money that sort of just is without any, almost without any real justification. Like what is a bitcoin worth anyway? It's just a bunch of bytes floating around the Internet with no intrinsic value and yet it's got a value of $420.
 
@@ -221,109 +221,109 @@ So the question is, how much of all this is utopian craziness? How much of this 
 
 **[1:12:29] SPEAKER_01:** Would it be possible to write a self replicating Ethereum smart contract?
 
-**[1:12:32] SPEAKER_00:** It would have to figure out where to pay the fees from. It would have to find some way of getting money to keep on replicating itself. That's actually one of the interesting ideas that people have been having. This idea of a sort of decentralized autonomous company, sort of like a robot that provides services, gains resources and keeps on multiplying itself. It's theoretically possible, but you need to figure out a business model.
+**[1:12:32] Vitalik Buterin:** It would have to figure out where to pay the fees from. It would have to find some way of getting money to keep on replicating itself. That's actually one of the interesting ideas that people have been having. This idea of a sort of decentralized autonomous company, sort of like a robot that provides services, gains resources and keeps on multiplying itself. It's theoretically possible, but you need to figure out a business model.
 
 **[1:12:56] SPEAKER_01:** I was thinking more in terms of a DDoS attack or a virus or something.
 
-**[1:13:00] SPEAKER_00:** Well no, because if it's just a virus and it benefits nobody, then it's impossible because you would have to keep on getting fees to get the. You would have to keep on paying computation fees and eventually just run out of money.
+**[1:13:00] Vitalik Buterin:** Well no, because if it's just a virus and it benefits nobody, then it's impossible because you would have to keep on getting fees to get the. You would have to keep on paying computation fees and eventually just run out of money.
 
 **[1:13:12] SPEAKER_01:** And in the current implementation of Serpent, could you write an encrypted contract whose purpose isn't really clear?
 
-**[1:13:19] SPEAKER_00:** Code obfuscation in general is a very, very hard problem. But you notice the researchers just recently came out with a way, really the first practical way of doing that, six months ago. It's still impractical. It's got a billion factor slowdown. So it's a technology that will become possible eventually, but it'll take time.
+**[1:13:19] Vitalik Buterin:** Code obfuscation in general is a very, very hard problem. But you notice the researchers just recently came out with a way, really the first practical way of doing that, six months ago. It's still impractical. It's got a billion factor slowdown. So it's a technology that will become possible eventually, but it'll take time.
 
 **[1:13:42] SPEAKER_01:** Do you see that as becoming a problem potentially in the future?
 
-**[1:13:46] SPEAKER_00:** It's an interesting technology. I'm sure it'll have its applications. I really don't know.
+**[1:13:46] Vitalik Buterin:** It's an interesting technology. I'm sure it'll have its applications. I really don't know.
 
 **[1:13:50] SPEAKER_01:** Can you give me a bit of color on your rationale behind the 29.4% premine?
 
-**[1:13:57] SPEAKER_00:** 29, yeah.
+**[1:13:57] Vitalik Buterin:** 29, yeah.
 
 **[1:13:58] SPEAKER_01:** So I downloaded the white paper and reread it on the plane right here. And notice that the reserve, which is essentially a premine that you'll distribute yourselves is 29 point...
 
-**[1:14:12] SPEAKER_00:** Okay, so in terms of those statistics basically. So it's not really correct to say that we're distributing it to ourselves. The rules did change a bit and the slice is actually going, is decreasing substantially. But the idea is in terms of the issuance model, there's some slice of Ether that's going to people who buy it, there's a slice that's ever growing that goes to miners and there's some slice that's going to be distributed centrally by the organization. That slice is going to be distributed at some, some of it's already been distributed, some of it will be distributed soon, some of it will be later. So the precise mathematical, the precise statistics on that will clarify over the next week or so.
+**[1:14:12] Vitalik Buterin:** Okay, so in terms of those statistics basically. So it's not really correct to say that we're distributing it to ourselves. The rules did change a bit and the slice is actually going, is decreasing substantially. But the idea is in terms of the issuance model, there's some slice of Ether that's going to people who buy it, there's a slice that's ever growing that goes to miners and there's some slice that's going to be distributed centrally by the organization. That slice is going to be distributed at some, some of it's already been distributed, some of it will be distributed soon, some of it will be later. So the precise mathematical, the precise statistics on that will clarify over the next week or so.
 
 **[1:14:51] SPEAKER_01:** Do you guys have any concerns about, I mean, if that's high and the current value on the white paper is obviously quite high, it's much higher than other coins where there was premine and that was considered a Ponzi scheme. And then that undermined the value of the coin. Like for example, Ripple, which dropped considerably.
 
-**[1:15:12] SPEAKER_00:** Ripple is a very different case because Ripple, they issued 100% of the currency units to themselves and then they are maintaining full control over how they're going to distribute them. That's really the big problem here. Like for us, our level of control over the Ether, over the Ethereum ecosystem is going to be extremely limited.
+**[1:15:12] Vitalik Buterin:** Ripple is a very different case because Ripple, they issued 100% of the currency units to themselves and then they are maintaining full control over how they're going to distribute them. That's really the big problem here. Like for us, our level of control over the Ether, over the Ethereum ecosystem is going to be extremely limited.
 
 **[1:15:32] SPEAKER_01:** Sure. But I mean, if the group is interested in making a lot of money on it, then wouldn't it make sense to follow the rule that you put up there about not being able to get a coin without proof of work? And then if somebody wants to get rich in it, then they should start mining right away as soon as it comes out. And actually that contributes to the system, would it not?
 
-**[1:15:56] SPEAKER_00:** Well, so more in line with...
+**[1:15:56] Vitalik Buterin:** Well, so more in line with...
 
 **[1:16:00] SPEAKER_01:** I guess the ethic of cryptocurrency.
 
-**[1:16:03] SPEAKER_00:** So mining contributes to the system, but it's only mining. It contributes to the system up to a certain point. Right. It's only one of the many kinds of work that are needed to make Ethereum or any crypto system really work. The other big thing that you need is development. And I think a big problem that we recognize in Bitcoin is the fact that nobody's really paying for development. It's also something you've seen with OpenSSL, the Heartbleed bug. It's a volunteer project. The guys were getting like $2,000 of donations a year. So we feel that it's important to have an issuing system that benefits all kinds of work. And that means not just miners, but also initial contributors, early and late purchasers, all sorts of different groups.
+**[1:16:03] Vitalik Buterin:** So mining contributes to the system, but it's only mining. It contributes to the system up to a certain point. Right. It's only one of the many kinds of work that are needed to make Ethereum or any crypto system really work. The other big thing that you need is development. And I think a big problem that we recognize in Bitcoin is the fact that nobody's really paying for development. It's also something you've seen with OpenSSL, the Heartbleed bug. It's a volunteer project. The guys were getting like $2,000 of donations a year. So we feel that it's important to have an issuing system that benefits all kinds of work. And that means not just miners, but also initial contributors, early and late purchasers, all sorts of different groups.
 
 **[1:16:44] SPEAKER_01:** Sure. But then, wouldn't the crowdfund go towards that development cost?
 
-**[1:16:51] SPEAKER_00:** Right.
+**[1:16:51] Vitalik Buterin:** Right.
 
 **[1:16:52] SPEAKER_01:** I thought that was the idea behind the crowdfund. Yes, then it's the crowdfund plus the premine.
 
-**[1:16:58] SPEAKER_00:** So something. A lot of people want to be paid in Ether before the currency launches. So we feel that we have to have some mechanism of meeting that desire.
+**[1:16:58] Vitalik Buterin:** So something. A lot of people want to be paid in Ether before the currency launches. So we feel that we have to have some mechanism of meeting that desire.
 
 **[1:17:10] SPEAKER_01:** Sure. But is there a conversation going around in your group about the potential to undermine the value of Ethereum if that premine is just too high?
 
-**[1:17:21] SPEAKER_00:** It's really not high at all. Like it's basically equivalent.
+**[1:17:21] Vitalik Buterin:** It's really not high at all. Like it's basically equivalent.
 
 **[1:17:25] SPEAKER_01:** 29.4% is not high.
 
-**[1:17:27] SPEAKER_00:** So 29.4% is a bit inaccurate because our currency supply is pretty much infinitely growing as well. So the size of this slice is just going to decrease over time. And we've also even got a time lock, so we can only spend a limited amount per month.
+**[1:17:27] Vitalik Buterin:** So 29.4% is a bit inaccurate because our currency supply is pretty much infinitely growing as well. So the size of this slice is just going to decrease over time. And we've also even got a time lock, so we can only spend a limited amount per month.
 
 **[1:17:44] SPEAKER_01:** Well, I mean, I hope it's a debate that the community continues to develop. I think I speak for a lot of people in saying that we're all tremendously excited and it's a wonderful innovation and obviously congratulations to your group on that. But then at the same time, especially in the early going, you don't want to undermine the integrity of the currency. We'll fight short trying to compensate a small group too quickly and then you attract the ire of miners, which could create a 51% attack or attract the ire of the community. At the end of the day, the cryptocurrency community has had success because of its egalitarian ethics.
 
-**[1:18:32] SPEAKER_00:** The thing that you have to understand about that particular ideology is that in general, I think in the whole Bitcoin space there is definitely a lot of this sort of libertarian open source sentiment where the desire is to have sort of systems that are technically fair in a sense that there's no privileged parties that are getting some amount. But the other thing you have to understand is that even if a system is technically fair, that doesn't mean that it's actually fair. So in the context of Bitcoin, almost nobody here had a chance to be part of Bitcoin before 2011. And yet at the start of 2011 a quarter of the bitcoins that will ever exist are already gone.
+**[1:18:32] Vitalik Buterin:** The thing that you have to understand about that particular ideology is that in general, I think in the whole Bitcoin space there is definitely a lot of this sort of libertarian open source sentiment where the desire is to have sort of systems that are technically fair in a sense that there's no privileged parties that are getting some amount. But the other thing you have to understand is that even if a system is technically fair, that doesn't mean that it's actually fair. So in the context of Bitcoin, almost nobody here had a chance to be part of Bitcoin before 2011. And yet at the start of 2011 a quarter of the bitcoins that will ever exist are already gone.
 
 So the thing is that if you say, if you create a currency where the only way to obtain it is to mine it, all you're doing is you're just privileging. Privileging only the people that. We'll list the questions. In the time we got some people lined up there.
 
 **[1:19:27] SPEAKER_01:** I just got some quick questions about the technical detail. I'm developing myself, software engineering background. So I'm really interested in the types of configuration because I'm really familiar with like saying Hadoop, doing some big data processing. And I'm also kind of curious about Serpent. If you could address those two things, I think that'd be great.
 
-**[1:19:46] SPEAKER_00:** Address what exactly?
+**[1:19:46] Vitalik Buterin:** Address what exactly?
 
 **[1:19:47] SPEAKER_01:** Well, first of all, Serpent, you mentioned that before. Is that your own domain specific language?
 
-**[1:19:52] SPEAKER_00:** Yes.
+**[1:19:52] Vitalik Buterin:** Yes.
 
 **[1:19:53] SPEAKER_01:** And if so, what types of, like you mentioned computation and everything. What does that facilitate between the Ethereum...
 
-**[1:20:01] SPEAKER_00:** Serpent allows you to write pretty much arbitrary Ethereum contracts that do anything. So they can manipulate the internal storage, they can send transactions, they can create other contracts.
+**[1:20:01] Vitalik Buterin:** Serpent allows you to write pretty much arbitrary Ethereum contracts that do anything. So they can manipulate the internal storage, they can send transactions, they can create other contracts.
 
 **[1:20:13] SPEAKER_01:** Right. Okay. And are you going to be like releasing a complete SDK that's still in development?
 
-**[1:20:19] SPEAKER_00:** Yes, that's still in development, coming soon.
+**[1:20:19] Vitalik Buterin:** Yes, that's still in development, coming soon.
 
 **[1:20:22] SPEAKER_01:** So in order to develop for the system you have to learn like a new programming paradigm completely or is it very much like Python?
 
-**[1:20:29] SPEAKER_00:** It's very similar to Python, yes. That's why we call it...
+**[1:20:29] Vitalik Buterin:** It's very similar to Python, yes. That's why we call it...
 
 **[1:20:34] SPEAKER_01:** A lot of people might be familiar with scientific computing, NumPy and Python.
 
-**[1:20:38] SPEAKER_00:** What we're trying to do is make the whole thing as friendly as possible to people who aren't familiar with anything. It's literally if the storage at the same index is this, then do that.
+**[1:20:38] Vitalik Buterin:** What we're trying to do is make the whole thing as friendly as possible to people who aren't familiar with anything. It's literally if the storage at the same index is this, then do that.
 
 **[1:20:49] SPEAKER_01:** I see. Yeah, it'd be great if you put a lot of examples up and demos. I'd love it.
 
-**[1:20:55] SPEAKER_00:** Yeah, just blog.ethereum.org. We got a tutorial on how to do all this sort of stuff.
+**[1:20:55] Vitalik Buterin:** Yeah, just blog.ethereum.org. We got a tutorial on how to do all this sort of stuff.
 
 **[1:21:02] SPEAKER_01:** Hi there. Once mining begins, what's going to be the ideal platform to mine with and how long until it evolves into GPUs and ASICs?
 
-**[1:21:12] SPEAKER_00:** Well, we are trying very hard to create a mining algorithm that will basically stay ASIC resistant forever. So we have some ideas around how to do that. We're basically thinking of proofs of work that involve processing arbitrary contracts. So the benefit of that obviously is that if the proof of work requires arbitrary computation, you by definition can't make a specialized computer for it because it's a general purpose processing. So that's. So we're thinking, we're trying to basically make ASICs not worth it in general. I think we'll probably see a CPU and GPU balance of some kind.
+**[1:21:12] Vitalik Buterin:** Well, we are trying very hard to create a mining algorithm that will basically stay ASIC resistant forever. So we have some ideas around how to do that. We're basically thinking of proofs of work that involve processing arbitrary contracts. So the benefit of that obviously is that if the proof of work requires arbitrary computation, you by definition can't make a specialized computer for it because it's a general purpose processing. So that's. So we're thinking, we're trying to basically make ASICs not worth it in general. I think we'll probably see a CPU and GPU balance of some kind.
 
 **[1:21:51] SPEAKER_02:** I have two questions. The one's kind of a follow up of the other guy's question about the Serpent contract language. I guess if it's very similar to Python. I'm assuming you submit this contract, which is Serpent script, to Ethereum somehow.
 
-**[1:22:11] SPEAKER_00:** So not like you compile a script into a VM code and then you submit the VM code to the...
+**[1:22:11] Vitalik Buterin:** So not like you compile a script into a VM code and then you submit the VM code to the...
 
 **[1:22:17] SPEAKER_02:** Okay, so I can write a Python script that will run for like weeks doing some really useful mathematical analysis of some scientific thing I'm researching and say I just put that into a Serpent script and submit it to Ethereum and do some small transaction that just kind of triggers it to fire up. What kind of censors those kind of abuses of the system. For someone trying to just take your network and use it for some other useful computational power that they might want to.
 
-**[1:22:58] SPEAKER_00:** Okay, so every computational step in the Ethereum system requires a transaction fee. So if you try and make a script that runs for weeks, it's going to go bankrupt pretty much immediately.
+**[1:22:58] Vitalik Buterin:** Okay, so every computational step in the Ethereum system requires a transaction fee. So if you try and make a script that runs for weeks, it's going to go bankrupt pretty much immediately.
 
 **[1:23:10] SPEAKER_02:** Okay. Second question, which is completely unrelated. You discussed how Bitcoin has its proof of work and state transition function, which is basically the currency. And I guess with Bitcoin the transaction fee is basically derived from that state function itself, pretty much. But with Ethereum, which has an unlimited number of contracts, how do you choose what type of contract the transaction fee is returned to the miners as.
 
-**[1:23:46] SPEAKER_00:** So the rule is that the transaction fee is attached to the transaction, the transaction fee entitles the transaction to take some number of computational steps. So the part where the fee is paid to the miner is sort of outside of the contract system. That very much happens before.
+**[1:23:46] Vitalik Buterin:** So the rule is that the transaction fee is attached to the transaction, the transaction fee entitles the transaction to take some number of computational steps. So the part where the fee is paid to the miner is sort of outside of the contract system. That very much happens before.
 
 **[1:24:02] SPEAKER_02:** Okay.
 
-**[1:24:08] SPEAKER_00:** What's your opinion regarding the proof of stake? So it just seems like since you guys have miners, the Ether supply would be constantly diluted. Would there be any advantages to just having the people using their contracts? Well, whatever contract is being run requires Ether, correct?
+**[1:24:08] Vitalik Buterin:** What's your opinion regarding the proof of stake? So it just seems like since you guys have miners, the Ether supply would be constantly diluted. Would there be any advantages to just having the people using their contracts? Well, whatever contract is being run requires Ether, correct?
 
 Yes.
 

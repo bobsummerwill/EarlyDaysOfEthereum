@@ -1,7 +1,6 @@
 ---
 title: "Ethereum ÐΞVcon-0: Solidity, Vision and Roadmap"
 date: 2014-11-25
-author: Christian Reitwießner
 embed:
   url: https://www.youtube.com/embed/DIqGDNPO5YM
 ---
@@ -10,7 +9,7 @@ Presentation on Solidity, Ethereum's smart contract programming language, coveri
 
 ## Transcript
 
-**[00:13] SPEAKER_01:** Hello again everybody. Welcome to day two of DevCon Zero. I'm going to start by talking a little bit about Solidity, the new contract language. And then Christian, where is Christian? Christian is going to continue with the implementation and a lot more sort of details and roadmap of the future of it. So I'm just going to basically go into what drove the original sort of need for a new language.
+**[00:13] Gavin Wood:** Hello again everybody. Welcome to day two of DevCon Zero. I'm going to start by talking a little bit about Solidity, the new contract language. And then Christian, where is Christian? Christian is going to continue with the implementation and a lot more sort of details and roadmap of the future of it. So I'm just going to basically go into what drove the original sort of need for a new language.
 
 So our main issue is that we need people, lots of people to write contracts. And as often it is brought up, these contracts need to be correct because once they're on the blockchain you can't change them unless you've got some sort of update mechanism in place. But that brings along a whole slew of other questions like how do you trust that the updates are going to be legitimate? So these are the two main things that we're concerned with. Lots of people are able to write contracts and that these contracts are correct.
 
@@ -36,13 +35,13 @@ And so we build the documentation system actually into the language. Now this is
 
 So contracts as first class citizens. Here's an example. Can I stand in any one place that will allow everybody to see? Probably not. This gets most people I guess. So you've got the idea, you know people who code a bit in C will probably, this will, oh dear, void is wrong. That should read function. So it looks a little bit like a class as you might expect. You've got set and get, you pass a parameter into one. This should read function get returns uint but the other slides are correct. And then you would use it by saying right, well we've got an instance of this contract. We'll ignore how we actually get that instance for now we can set it.
 
-**[10:00] SPEAKER_00:** Just call.
+**[10:00] Christian Reitwießner:** Just call.
 
-**[10:03] SPEAKER_01:** So super easy OO style interfacing.
+**[10:03] Gavin Wood:** So super easy OO style interfacing.
 
-**[10:14] SPEAKER_00:** Because in this case it's quite counterintuitive like store number should just be a function or like why is it redefined as a contract itself?
+**[10:14] :** Because in this case it's quite counterintuitive like store number should just be a function or like why is it redefined as a contract itself?
 
-**[10:24] SPEAKER_01:** I'll answer that later. So if we move on to the storage facilities. Again it should be relatively easy to see that we have this notion of a state which is also known as the field, the members of a class in this case, it's a uint and then we can define our set as just setting it and our get as returning. So this to a C programmer will be super simple but to a JavaScript programmer as well this portion of it will also be reasonably familiar. The returns bit is a bit different but and the fact it's typed but can't really get around this.
+**[10:24] Gavin Wood:** I'll answer that later. So if we move on to the storage facilities. Again it should be relatively easy to see that we have this notion of a state which is also known as the field, the members of a class in this case, it's a uint and then we can define our set as just setting it and our get as returning. So this to a C programmer will be super simple but to a JavaScript programmer as well this portion of it will also be reasonably familiar. The returns bit is a bit different but and the fact it's typed but can't really get around this.
 
 Now the storage facilities extend so what we also are able to do is map and this is a fundamental construct in this language. We can provide mapping from an original domain range, range from an original range in this case the range of addresses. So this is the type of address which is a 160 bit integer into some arbitrary domain, in this case endpoints and we specified an endpoint as being IPv4 and port. This is a bit C. The syntax is still up for alteration if anybody here has some ideas to make it slightly more JavaScripty without making it too difficult to parse.
 
@@ -66,11 +65,11 @@ And then you've got the construction. Creator of the contract is endowed with a 
 
 So those are the basic driving factors and rough solutions to them. Christian is now going to go into a little more detail. Then we'll do a question and answer session at the end and you can bring any points down. Okay.
 
-**[18:53] SPEAKER_00:** So yeah, now let's see how this is all implemented. First, what were the requirements for Solidity? Gavin already told us about that. So it's a contract oriented language which means that classes are contracts. It is statically typed from the syntax, close to JavaScript. And when you are typed to JavaScript you get something which is close to C or C++. The built in language documentation and some language subset that allows formal proofs of correctness. Yeah, so coincidentally this is exactly the contract Gavin also showed. So you already know that.
+**[18:53] :** So yeah, now let's see how this is all implemented. First, what were the requirements for Solidity? Gavin already told us about that. So it's a contract oriented language which means that classes are contracts. It is statically typed from the syntax, close to JavaScript. And when you are typed to JavaScript you get something which is close to C or C++. The built in language documentation and some language subset that allows formal proofs of correctness. Yeah, so coincidentally this is exactly the contract Gavin also showed. So you already know that.
 
-**[19:50] SPEAKER_01:** Yeah.
+**[19:50] Gavin Wood:** Yeah.
 
-**[19:52] SPEAKER_00:** Then the ubiquitous coin contract. There we see something we've not seen in Gavin's talk. The language is statically typed but still it's not necessary to always specify the types. You have this keyword var, which can be used for local variables. And it's similar to C++11's auto keyword, which means the type is just taken from the type of the first assignment to this variable. So I think that's quite convenient.
+**[19:52] Christian Reitwießner:** Then the ubiquitous coin contract. There we see something we've not seen in Gavin's talk. The language is statically typed but still it's not necessary to always specify the types. You have this keyword var, which can be used for local variables. And it's similar to C++11's auto keyword, which means the type is just taken from the type of the first assignment to this variable. So I think that's quite convenient.
 
 Okay, then, we see something. Users can define their own types, so they can define structs. And then mappings can map basic types to any type. So we can have a struct as the value type. We can also have mappings again as value types. We can also have contracts as value types. And vote is the struct type here. So you can retrieve from the storage from this mapping here, the value which is stored at the sender's address and then assign values to this local variable. But this doesn't really. So this actually assigns it directly to storage. Because vote is not a local variable that is stored on the stack. It's just a reference to the storage. So you can directly access storage here.
 
@@ -80,9 +79,9 @@ And after that step it's possible to infer and check the types so that assignmen
 
 Some details about the type system.
 
-**[23:10] SPEAKER_01:** Um.
+**[23:10] Gavin Wood:** Um.
 
-**[23:12] SPEAKER_00:** Statically typed means that all expressions in this language have a fixed type that is known at compile time and an operation. So it's not possible for an operation to involve two different types. So you cannot add a string to a number. But it is possible to do manual type conversions. So if you manually explicitly convert the integer to a string, then you can add them. And at some points automatic type conversions are done if it makes sense and if no information is lost. So we will see that later.
+**[23:12] Christian Reitwießner:** Statically typed means that all expressions in this language have a fixed type that is known at compile time and an operation. So it's not possible for an operation to involve two different types. So you cannot add a string to a number. But it is possible to do manual type conversions. So if you manually explicitly convert the integer to a string, then you can add them. And at some points automatic type conversions are done if it makes sense and if no information is lost. So we will see that later.
 
 The types that are currently implemented are unsigned integer, signed integers and hashes of various sizes. So this X is always the size in bits, from eight bits to 256 bits in eight bit steps. And the difference between integers and hashes is that arithmetic operations are not allowed for hashes because it doesn't make sense. And a special case of a 160 bit hash is address where and for an address, not even bit operations are allowed, but instead you can send ether to that address or query the balance at that address. Then we have a boolean type, mapping, structs and contracts. Later we will also have strings, but that's not implemented yet.
 
@@ -92,23 +91,23 @@ And if I enter something in the function we will see the types that are inferred
 
 So it gets interesting when we use larger values. So 7000 is a 16 bit unsigned integer and we add an 8 bit unsigned integer to a 16 bit unsigned integer. This 8 bit integer is implicitly converted to a 16 bit integer. And what if you add like 200.
 
-**[26:35] SPEAKER_01:** To 200.
+**[26:35] Gavin Wood:** To 200.
 
-**[26:38] SPEAKER_00:** Where this sum the type system ignores overflow. So it's just about. Yeah, so one, we always know that the type of the result of a binary operation is one of the types of the operands. So only one of the operands is converted. So we can now assign that to a variable and we will see that x will have type 16 bit unsigned integer. Okay, what happens if we, if we want X to be an 8 bit integer? We get the error that the 16 bit integer that is on the right hand side is not convertible to the 8 bit integer on the left hand side.
+**[26:38] Christian Reitwießner:** Where this sum the type system ignores overflow. So it's just about. Yeah, so one, we always know that the type of the result of a binary operation is one of the types of the operands. So only one of the operands is converted. So we can now assign that to a variable and we will see that x will have type 16 bit unsigned integer. Okay, what happens if we, if we want X to be an 8 bit integer? We get the error that the 16 bit integer that is on the right hand side is not convertible to the 8 bit integer on the left hand side.
 
 Okay, something that is perhaps also interesting is what happens if we add a negative number to a positive number. So the compiler complains that it cannot find a common type. And so the type of minus 1 is signed bit integer 8 bits and 8 is an unsigned integer of 8 bits and so you cannot convert one into the other. So there's no common type. Of course we know that both of them can be converted to a signed integer of 16 bits without losing any information. But because of this restriction I told this is not done automatically, but we can of course force that manually and convert this minus 1 to a 16 bit signed integer and then it works. And X is also signed integer of 16 bits.
 
-**[28:46] SPEAKER_01:** Okay, you check it also on the variables like tables.
+**[28:46] Gavin Wood:** Okay, you check it also on the variables like tables.
 
-**[28:50] SPEAKER_00:** What do you mean?
+**[28:50] Christian Reitwießner:** What do you mean?
 
-**[28:51] SPEAKER_01:** If you have a variable plus variable, you check the questions for afterwards instead.
+**[28:51] Gavin Wood:** If you have a variable plus variable, you check the questions for afterwards instead.
 
-**[28:56] SPEAKER_00:** Of.
+**[28:56] Christian Reitwießner:** Of.
 
-**[28:59] SPEAKER_01:** Can we do the questions?
+**[28:59] Gavin Wood:** Can we do the questions?
 
-**[29:01] SPEAKER_00:** It works on arbitrary expressions. Okay. The optimizer. So Solidity does not compile to LLL, but compiles directly to EVM assembly and it uses LLL's assembly class, which also includes the optimizer. So if we improve the optimizer, then Solidity, Serpent and LLL will benefit from these improvements.
+**[29:01] Christian Reitwießner:** It works on arbitrary expressions. Okay. The optimizer. So Solidity does not compile to LLL, but compiles directly to EVM assembly and it uses LLL's assembly class, which also includes the optimizer. So if we improve the optimizer, then Solidity, Serpent and LLL will benefit from these improvements.
 
 I already did some improvements. So the LLL optimizer is. So most of the steps in the LLL optimizer is just a pattern of opcodes is mapped to another set of opcodes. And if the number of opcodes decreases, then this is applied. One of these patterns is constant folding. So if you write 7 + 8, then the optimizer will not do this addition at runtime, but it will do it at compile time and just directly push 15. And I added some other operands for this constant folding because they were more widely used in Solidity.
 
@@ -118,17 +117,17 @@ Okay, let's see an example. First without optimizer. Okay, so we have to look at
 
 And if we activate the optimizer so it pushes 0 and then it pushes F which is 15, swaps it, stores it and removes the old value. So this is not yet optimal because we know it's not necessary to initialize X to 0 when we change its value afterwards. But yeah, the optimizer is not finished yet. I would say to see POP optimization we have to remove this X.
 
-**[32:10] SPEAKER_01:** Let's see.
+**[32:10] Gavin Wood:** Let's see.
 
-**[32:15] SPEAKER_00:** No, you also have to remove the local variable. So, yeah, what happens here now is. Okay, yeah, tag zero, that's the function body, and nothing happens.
+**[32:15] Christian Reitwießner:** No, you also have to remove the local variable. So, yeah, what happens here now is. Okay, yeah, tag zero, that's the function body, and nothing happens.
 
 Okay. How does Solidity use memory and storage? We've already seen everything is zero initialized. We can trust on that. And local variables are currently used only on the stack. So it doesn't, it doesn't actually use memory. It uses memory only for opcodes for operations where it's really necessary. This might change later because the EVM can only look at the stack at the 16 topmost position in the stack. So if we have many local variables or very complex expressions and we want to store something in the first local variable, we might have to look too deep into the stack. So we have to copy it to memory first and then unwind the stack and save later again.
 
 The storage is allocated in a contiguous way. So if you have one struct and another struct, then they will sit directly next to each other in storage, where mappings are an exception because mappings don't have a size. So to compute the offset of a mapping, you take the. Or to compute the offset of a value in the mapping, you take the offset of the mapping, concatenate the key, compute SHA3 of that, and that's the offset.
 
-**[34:08] SPEAKER_01:** Of the value.
+**[34:08] Gavin Wood:** Of the value.
 
-**[34:09] SPEAKER_00:** I think that's more or less exactly how it's done in Serpent with the introduction. So in Serpent 2.0. So, yeah, the obvious way I would say.
+**[34:09] Christian Reitwießner:** I think that's more or less exactly how it's done in Serpent with the introduction. So in Serpent 2.0. So, yeah, the obvious way I would say.
 
 Okay, reference to other contracts. Gavin already gave an example for that. A bit more detailed, we can include other contract files, contract source files, and yeah, use contracts also as values for mappings or directly in storage. And we can. So namereg.addr is an address. We can. So if you write it like that, namereg is a contract type. This is just usual type conversion. So address can be converted to a contract type and then we store it in storage. From this point on we can use NameReg and call functions on that. And for that we don't need the full definition of the namereg contract. We only need to know its interface. So this NameReg.sol file can be a simple file which has all functions but not the function bodies.
 

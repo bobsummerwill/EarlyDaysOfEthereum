@@ -1,6 +1,5 @@
 ---
 title: "Ethereum ÐΞVcon-0 - How will Scrum work for us?"
-author: Sven Ehlert
 date: 2014-11-24
 img: /images/youtube.com/tOwhUkp38bI/maxresdefault.jpg
 embed:
@@ -11,7 +10,7 @@ Dr Sven Ehlert presents on Scrum - the incremental agile software development fr
 
 ## Transcript
 
-**[00:13] SPEAKER_00:** Hi everybody, I'm Sven. As I said, I joined the team three weeks ago and this is a talk I'm giving about some methods. It's not about Ethereum at all, just some way to organize ways how we can interact together. A thing that you can use and I've used it in my previous company very successfully and I just want to introduce you to a little bit to it. I think a lot of you have already heard about Scrum and all these buzzwords that come around with this Kanban, extreme programming, test driven development, all this stuff that is all the way. We talk about one principle which is called Agile software development. It all boils down to the term Agile and that's why.
+**[00:13] Sven Ehlert:** Hi everybody, I'm Sven. As I said, I joined the team three weeks ago and this is a talk I'm giving about some methods. It's not about Ethereum at all, just some way to organize ways how we can interact together. A thing that you can use and I've used it in my previous company very successfully and I just want to introduce you to a little bit to it. I think a lot of you have already heard about Scrum and all these buzzwords that come around with this Kanban, extreme programming, test driven development, all this stuff that is all the way. We talk about one principle which is called Agile software development. It all boils down to the term Agile and that's why.
 
 So I want to talk first a little bit about what Agile is. If you know in old days, in very old days, how projects were made in software development. I think you heard about the Waterfall model, how to develop software. It's like, so you specify something, you implement it, you integrate it, you test it later, you maintain it. Water falling down. And this is the way projects are being built. But this has a lot of problems. So in an area already 13 years ago, some very cool guys came together and said, came together in Utah, 17 programmers and said the Waterfall model has some problems to develop software and we want to think about ways how to improve the process of doing software. And this is known as the Agile Manifesto, which is already 13 years old.
 

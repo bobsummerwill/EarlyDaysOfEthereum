@@ -1,7 +1,6 @@
 ---
 title: "Why I Joined Ethereum"
 date: 2014-04-12
-author: "Charles Hoskinson"
 description: "Charles Hoskinson explains why he joined Ethereum, April 12, 2014"
 embed:
   url: https://player.vimeo.com/video/92563841
@@ -9,7 +8,7 @@ embed:
 
 ## Transcript
 
-**[00:21] SPEAKER_00:** So what I thought would be most productive is to kind of answer a question that I've never answered. Basically, why am I part of Ethereum? What's my goal? What drives me? What's my motivating force? What do I care about? And so this really stems from a friend of mine who's really my hero. He goes by the name of Priscus. He's from Africa. He's getting a little old, but he's really an amazing person. In fact, I think he's probably one of the most amazing people I've ever met in my entire life.
+**[00:21] Charles Hoskinson:** So what I thought would be most productive is to kind of answer a question that I've never answered. Basically, why am I part of Ethereum? What's my goal? What drives me? What's my motivating force? What do I care about? And so this really stems from a friend of mine who's really my hero. He goes by the name of Priscus. He's from Africa. He's getting a little old, but he's really an amazing person. In fact, I think he's probably one of the most amazing people I've ever met in my entire life.
 
 So he came from a large family, a small tribe. He was the second brother in the family. His older brother was 17. He was 15. And he worshiped his brother. His brother was his hero. Everything they would do together. And every day they walked to a well that was about five miles away from their village. They had shoes. They lived off a dollar a day. Very poor family.
 
@@ -45,7 +44,7 @@ But then we also have people who are in their 50s like Herbert. Searching and Jo
 
 **[08:16] SPEAKER_03:** Paul Reben. Maybe you can just give us the elevator pitch on Ethereum. Just give us an idea of the overarching philosophy behind what you guys are building.
 
-**[08:24] SPEAKER_00:** Okay. Yeah. So basically Ethereum at its core level is a unification play. So Bitcoin proved that decentralized technology can work, obtain market value, that you didn't really need a central bank to move money around. And then what we've done is abstracted the technology for all other aspects of the Internet and society in general. So any server client model can be broken down into a peer to peer model. You can price the start where you buy tokens and then frankly you can also do anything else like decentralized law, prediction market structure, finance, micro finance, micro insurance. You could go on with the list.
+**[08:24] Charles Hoskinson:** Okay. Yeah. So basically Ethereum at its core level is a unification play. So Bitcoin proved that decentralized technology can work, obtain market value, that you didn't really need a central bank to move money around. And then what we've done is abstracted the technology for all other aspects of the Internet and society in general. So any server client model can be broken down into a peer to peer model. You can price the start where you buy tokens and then frankly you can also do anything else like decentralized law, prediction market structure, finance, micro finance, micro insurance. You could go on with the list.
 
 So in terms of the Ethereum company, our first obligation is to deliver the protocol and deliver the reference client in a way that works for everyone. And what I mean by everyone, it works on feature phones, works on smartphones, works on the desktop environment. That's the first stage. And also to make sure there's enough resources so that you can build your own applications as easily as you can build an Android application or iOS application.
 
@@ -53,31 +52,31 @@ The next stage is we have an obligation to build an application ecosystem. So we
 
 **[09:56] SPEAKER_04:** Hi. Yeah, I find it really hard to explain Turing completeness to people. Could you maybe give, I don't want to say dumbed down, but the layman's version of why that's so important.
 
-**[10:04] SPEAKER_00:** Yeah, so not to get into things like the NP shy domains problem or things like that. Right. A nice mathematical explanation. So yes people, have you ever used JavaScript or Python or C? And they say yes. And you say, well then you use a Turing complete language. Basically anything that can be programmed can be programmed by a Turing complete language. When you do Turing incomplete, that's when you've restricted what can be done. So usually what you say is Bitcoin was Turing incomplete because they were concerned about the security implications. But in terms of the language, just say it's just like Python, it's just like JavaScript. And so the analogy is saying the Ether platform is like the web browser and its contract language is like JavaScript. In that respect, that's probably the easiest analogy about having to get deep into technical detail.
+**[10:04] Charles Hoskinson:** Yeah, so not to get into things like the NP shy domains problem or things like that. Right. A nice mathematical explanation. So yes people, have you ever used JavaScript or Python or C? And they say yes. And you say, well then you use a Turing complete language. Basically anything that can be programmed can be programmed by a Turing complete language. When you do Turing incomplete, that's when you've restricted what can be done. So usually what you say is Bitcoin was Turing incomplete because they were concerned about the security implications. But in terms of the language, just say it's just like Python, it's just like JavaScript. And so the analogy is saying the Ether platform is like the web browser and its contract language is like JavaScript. In that respect, that's probably the easiest analogy about having to get deep into technical detail.
 
 **[10:51] SPEAKER_01:** If I could just add to that.
 
-**[10:52] SPEAKER_00:** Sure.
+**[10:52] Charles Hoskinson:** Sure.
 
 **[10:53] SPEAKER_01:** Any Turing complete language can implement any other Turing complete language, of course. So imagine interchangeability. So if you write in a Turing complete language, you can do anything that can be done anywhere else in that language.
 
 **[11:09] SPEAKER_04:** Hey, Howard Levin. Lag. How do you see Ethereum interacting with all of the other exciting distributed web services that are coming up? Like I'm thinking MaidSafe for example. So I want to build an app. I need some storage. Sounds great. I need some processing, some contract working your actions. You need to bring them all together. Do you have a vision of how that all comes together?
 
-**[11:31] SPEAKER_00:** Yeah. Basically the idea is you have off-chain and on-chain services. Some are like BitTorrent is a great example. Or you have something like BitCloud, MaidSafe. There's a lot of these services. So at the very least what we can provide is a token of value to incentivize people to use these services. At the very most we can augment the trust layers, the logic layers. So if you need a third party to do things, this can be done on a blockchain.
+**[11:31] Charles Hoskinson:** Yeah. Basically the idea is you have off-chain and on-chain services. Some are like BitTorrent is a great example. Or you have something like BitCloud, MaidSafe. There's a lot of these services. So at the very least what we can provide is a token of value to incentivize people to use these services. At the very most we can augment the trust layers, the logic layers. So if you need a third party to do things, this can be done on a blockchain.
 
 **[11:58] SPEAKER_04:** So you have your token. But MaidSafe is going to have its own token as well.
 
-**[12:00] SPEAKER_00:** Yeah, perhaps. And there'll be an exchange between it too. So in some cases they may be a soft competitor, in some cases they may be a friend. We may do things they don't do. It completely depends on their technology. We have talked to them. We actually have a Skype room specifically for MaidSafe, and we'll probably have some form of partnership with them at some point.
+**[12:00] Charles Hoskinson:** Yeah, perhaps. And there'll be an exchange between it too. So in some cases they may be a soft competitor, in some cases they may be a friend. We may do things they don't do. It completely depends on their technology. We have talked to them. We actually have a Skype room specifically for MaidSafe, and we'll probably have some form of partnership with them at some point.
 
 **[12:19] SPEAKER_04:** But as a system designer, where the third set of services with both your technologies. Now I'm going to have to deal with both your...
 
-**[12:29] SPEAKER_00:** No, no. Interoperability is our primary goal. So we want to make sure if you live in one ecosystem, it's very seamless to move to the other ecosystem. It's about basically where the people live and the user experience of the people. So we could perhaps at the very least be a front end. Maybe we're a back end. It completely depends on the application. Thanks.
+**[12:29] Charles Hoskinson:** No, no. Interoperability is our primary goal. So we want to make sure if you live in one ecosystem, it's very seamless to move to the other ecosystem. It's about basically where the people live and the user experience of the people. So we could perhaps at the very least be a front end. Maybe we're a back end. It completely depends on the application. Thanks.
 
 Okay. From what I gather, Ethereum, part of Ethereum is currency Ether. And I'm just wondering, as we've seen with other nascent cryptocurrencies, including Bitcoin, quite volatile, does that have an effect in terms of, you know, executing Ether contracts? Ethereum contracts, yeah, it depends on the transaction fee model, but yes, it wouldn't have an effect. The goal is, of course, to structure it in a way that the economic scale of volatility. But that's the most succinct answer one can give about getting into the models. Right. Thanks.
 
 **[13:30] SPEAKER_05:** Hi. I really love that term re-engineering society, but I think our issues that we have in society are fairly large. And I'm having a little difficulty connecting the technology of Ethereum with some of our world problems. For example, let's just take GMO food. That to me is a massive jump. I just don't see the connection of how technology can affect something like our social injustices that we have. Can you comment on that?
 
-**[14:04] SPEAKER_00:** Sure. So at the first level, one has to have rule of law. That's absolutely necessary. You need to have transparency. You need to have systems to properly authenticate people. You look at most of Latin America, if you look at most of Africa, a lot of them are dark. There's no authentication, there's no KYC, there's no web of reputation. So let's say I want to hire somebody from Kenya. How do I do that? What's their credibility? So at the very core we have a web of trust followed by web of credentials and web of reputation. Once this is developed, when people start doing bad things in an ecosystem, you can now label them in a way that allows it to be globally known.
+**[14:04] Charles Hoskinson:** Sure. So at the first level, one has to have rule of law. That's absolutely necessary. You need to have transparency. You need to have systems to properly authenticate people. You look at most of Latin America, if you look at most of Africa, a lot of them are dark. There's no authentication, there's no KYC, there's no web of reputation. So let's say I want to hire somebody from Kenya. How do I do that? What's their credibility? So at the very core we have a web of trust followed by web of credentials and web of reputation. Once this is developed, when people start doing bad things in an ecosystem, you can now label them in a way that allows it to be globally known.
 
 Switzerland actually has this system they've been using for 750 years. So they have a nice reputation system by a credit ledger. If you screw somebody, everybody in the country kind of knows about it. So it keeps people pretty honest. But we can do this now on a global scale with our technology. So at the very least you need authentication so we can start identifying who the good actors and the bad actors are in society. The good entities versus the bad entities.
 
@@ -91,17 +90,17 @@ Kind of the highest level is the decentralized autonomous organization. This con
 
 **[16:48] SPEAKER_01:** No.
 
-**[16:49] SPEAKER_00:** But it moves us forward and it makes the world better. JR hey, how you doing, buddy?
+**[16:49] Charles Hoskinson:** But it moves us forward and it makes the world better. JR hey, how you doing, buddy?
 
 **[16:57] SPEAKER_01:** Doing good. I have to give a quick disclaimer that anything I say has to be taken with a grain of salt because I run a project that does some of these things on top of Bitcoin. So I just want to give that disclaimer because it's kind of a... I want to hear your response to a criticism that I don't think I've heard you guys respond to.
 
-**[17:12] SPEAKER_00:** Sure.
+**[17:12] Charles Hoskinson:** Sure.
 
 **[17:13] SPEAKER_02:** So when people ask me about Ethereum, I typically point out the same thing that you guys point out, which is the JavaScript money. And that's... We can think of that as a good thing, or we can think of that as perhaps a large hurdle or challenge to overcome. When I think of JavaScript, I think of the very large attack surface that it presents to hackers. And most of your web browser exploits target JavaScript because it's Turing complete and not say HTML, although actually there are some. So we've seen with Bitcoin, when you have large amounts of money that you can steal over the Internet, people are going to try to steal it. And Ethereum strikes me as providing a, what you call a mammoth attack where the number of different ways that you can steal from Ethereum users or contracts would be huge. And I'm just curious how you guys plan to approach that problem.
 
 **[18:16] SPEAKER_03:** Right.
 
-**[18:16] SPEAKER_00:** And so when I signed up for this, the first thing I told Vitalik is that I didn't want to sign up to create the world's largest malware. I think Microsoft doesn't need competition. So anyway, you build with some layers and you build it very carefully and very systematically. So first and foremost, the contract layer doesn't have IO access to your disk and it can be sandboxed in many different ways on a virtual machine. So that's not really going to be a huge concern.
+**[18:16] Charles Hoskinson:** And so when I signed up for this, the first thing I told Vitalik is that I didn't want to sign up to create the world's largest malware. I think Microsoft doesn't need competition. So anyway, you build with some layers and you build it very carefully and very systematically. So first and foremost, the contract layer doesn't have IO access to your disk and it can be sandboxed in many different ways on a virtual machine. So that's not really going to be a huge concern.
 
 The big concern from a security perspective is actually the application ecosystem, because those actually write to your hard disk. And so what we're going to probably do, which we've already done, is we've partnered with AVG and we're partnering with many other organizations to help sculpt that security strategy. But we're going to build it later, we're going to have a beta, highly incentivize people to try to destroy the system via bounties and other such things, and basically build security into the DNA on day number one.
 
@@ -109,7 +108,7 @@ You're absolutely right. It's a tremendously complex problem, but it has been si
 
 **[20:04] SPEAKER_01:** Hi, I've got a question that just as a bit of a preamble and a segue from that, I wanted to mention that what one hopes projects like Ethereum will evolve to, and if not Ethereum, then something else, is an environment where the solution to that problem is actually the system itself. Once you couple the money to the decisions, and those decisions can include what code to run and what code not to run, then Adam Smith's Invisible Hand of Capitalism starts to make some of these decisions for you automatically. And yes, that means some people or some entities within a system like that lose their money. And that entity doesn't have to be the organization that is using Ethereum, but just the code that has the money at the time. But the bugs can be rapidly fixed in a system. You know, in the real world where we live, it might take a couple years for a bad restaurant to run out of money before the landlord kicks them out and puts in a better restaurant. But in a world where there are 100,000 cycles per second in an evolutionary power like that, then the premium rises at a lot quicker. So my question to you is, to what extent are you looking at putting that type of economic discipline at a granular level in code selection?
 
-**[21:42] SPEAKER_00:** Thank you. Okay. So we are a large holder of Ether. We would love to make sure that Ether is valuable and we'd love to make sure the ecosystem is robust and lots of people are in it. So obviously internally all of our decisions will be to secure the ecosystem and make sure the ecosystem is vibrant and growing.
+**[21:42] Charles Hoskinson:** Thank you. Okay. So we are a large holder of Ether. We would love to make sure that Ether is valuable and we'd love to make sure the ecosystem is robust and lots of people are in it. So obviously internally all of our decisions will be to secure the ecosystem and make sure the ecosystem is vibrant and growing.
 
 Part of having an open source movement. If one looks at Android for example, it's not just Google's problem if Android is secure or not. It's actually Samsung's problem more so than Google and HTC's problem and many other people. So your greatest insulation to security problems is to broaden the amount of people whose problem it is. So if you have 500 businesses, 1,000 businesses, 2,000 businesses that have all built infrastructure, every single one of them relies on that common base. So they're going to work with you to actually go ahead and make sure it's secure.
 
@@ -117,11 +116,11 @@ So part of our challenge is to make sure that we can productively work with peop
 
 **[23:24] SPEAKER_02:** Maybe we can have one more question.
 
-**[23:25] SPEAKER_00:** I ran out of time. Okay.
+**[23:25] Charles Hoskinson:** I ran out of time. Okay.
 
 **[23:26] SPEAKER_03:** Actually, you're kind of limited by your imagination what can be built on this platform. So what are the top three applications you would love to see built?
 
-**[23:35] SPEAKER_00:** Well, first I'd love to see proper authentication. So cryptography, we worry about four things. Confidentiality, integrity, non-repudiation and authentication. PGP solved three of the four quite accurately. But the authentication component has not been handled. You know, you got PKI and you got web of trust, but for the most part we still have passwords. How many people here have passwords? So we actually had proper public key cryptography. You don't need that anymore. So I at the very least would like to see a really solid authentication metric and revocation built into the ecosystem.
+**[23:35] Charles Hoskinson:** Well, first I'd love to see proper authentication. So cryptography, we worry about four things. Confidentiality, integrity, non-repudiation and authentication. PGP solved three of the four quite accurately. But the authentication component has not been handled. You know, you got PKI and you got web of trust, but for the most part we still have passwords. How many people here have passwords? So we actually had proper public key cryptography. You don't need that anymore. So I at the very least would like to see a really solid authentication metric and revocation built into the ecosystem.
 
 Then from that I would love to see people build their reputations and their credentials around that identity that they have living on a blockchain that actually changes education. By the way, has anybody taken a class on Coursera or Udacity or edX, any of these platforms or the MOOCs massive open online courses? Wouldn't it be so cool is after you take that class incrementally that the website is assigned to your ID living on a blockchain and then the whole world knows about that and they know the quality of your work. And wouldn't it be so cool if you make a commit to GitHub? There's a way of qualifying and quantifying that and actually having that signed to a digital ID living on blockchain. So that's the first application I'd really love to see is a proper development of authentication and then a web of reputation credentials formula.
 
@@ -135,4 +134,4 @@ All right, well, it looks like I'm out of time. Thanks, everybody. Ladies and ge
 
 **[26:54] SPEAKER_01:** Thank you very much.
 
-**[26:55] SPEAKER_00:** We'll have a couple minutes before it.
+**[26:55] Charles Hoskinson:** We'll have a couple minutes before it.

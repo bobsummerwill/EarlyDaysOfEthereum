@@ -1,7 +1,6 @@
 ---
 title: "Ethereum ÐΞVcon-0: Golem"
 date: 2014-11-25
-author: Piotrek Janiuk
 embed:
   url: https://www.youtube.com/embed/JA-UkjnapAU
 ---

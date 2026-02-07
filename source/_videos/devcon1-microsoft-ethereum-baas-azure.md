@@ -1,7 +1,6 @@
 ---
 title: "DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
 date: 2015-11-10
-author: "Ethereum"
 description: "Microsoft announces Ethereum Blockchain as a Service on Azure Cloud at DEVCON1 in London"
 embed:
   url: https://www.youtube.com/embed/ExsTb0iglcs
@@ -11,7 +10,7 @@ Microsoft's Marley Gray introduces Ethereum Blockchain as a Service (EBAAS) on A
 
 ## Transcript
 
-**[00:21] SPEAKER_00:** Good morning. I'm excited to be here this morning, and to guide you through what I see as an exciting development. So I'm here to introduce you, or better yet, let Cortana introduce you to the Galaxy's largest playground for blockchain developers.
+**[00:21] Marley Gray:** Good morning. I'm excited to be here this morning, and to guide you through what I see as an exciting development. So I'm here to introduce you, or better yet, let Cortana introduce you to the Galaxy's largest playground for blockchain developers.
 
 So Microsoft Azure is a hyperscale, global cloud platform that has the fundamentals to provide you for infrastructure services like virtual machines and storage and networking, but so much more. Microsoft, when we began the cloud journey we actually overshot the marketplace and developed and focused our attention on platform as a service, essentially building a fabric of APIs that don't have any dependence on particular VMs and instances. Rather you just declaratively program what it is your intentions. So we have a huge portfolio of these platform services that you see here.
 

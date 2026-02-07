@@ -1,7 +1,6 @@
 ---
 title: "Ethereum ÐΞVcon-0: Multi Protocol Peer Network Framework: Vision and Roadmap"
 date: 2014-11-27
-author: Alex Leverington
 embed:
   url: https://www.youtube.com/embed/FqWOeJJmNQc
 ---
@@ -10,7 +9,7 @@ Technical presentation on Ethereum's multi-protocol peer-to-peer networking fram
 
 ## Transcript
 
-**[00:15] SPEAKER_00:** So, subtitle here is Vision and Roadmap. However the slides will be more somewhat technical and maybe philosophical, but the vision is simple. It's to create a protocol that multiple applications can run over that is encrypted and provides certain guarantees. And this has become more apparent over this week that this is an interest and it's in demand from many people. So people who are building dapps, we saw a few on Monday and Ethereum itself. So in Turing complete fashion, we are doing a similar thing with the network protocol in that it can be used for more than just Ethereum.
+**[00:15] Alex Leverington:** So, subtitle here is Vision and Roadmap. However the slides will be more somewhat technical and maybe philosophical, but the vision is simple. It's to create a protocol that multiple applications can run over that is encrypted and provides certain guarantees. And this has become more apparent over this week that this is an interest and it's in demand from many people. So people who are building dapps, we saw a few on Monday and Ethereum itself. So in Turing complete fashion, we are doing a similar thing with the network protocol in that it can be used for more than just Ethereum.
 
 So, a little bit about me. I was born and raised in Texas. So the YAGNI thing that Sven pointed out, we would say "y'all ain't gonna need that." Which is important in networking because we don't want to put things on a network that we don't need. It adds complexity and that's not good.
 
@@ -28,11 +27,11 @@ So to give an example of this, here's a diagram of just a network diagram from a
 
 **[09:31] SPEAKER_01:** So can I ask a very silly question?
 
-**[09:34] SPEAKER_00:** Yes.
+**[09:34] Alex Leverington:** Yes.
 
 **[09:35] SPEAKER_01:** Like for a software developer, why do I care?
 
-**[09:39] SPEAKER_00:** I'm gonna get to that. Okay, so do we have solutions? So considering privacy as well as scalability of the Internet, there's a lot of people working on this. IPv6 is, there's a part of IPv6 that tries to help with privacy. Now one interesting thing about IPv6 is they are 128 bit addresses. So they're not quite large enough for us to use on a peer to peer network that depends on cryptographic properties for shaping the network or for peers connecting. And we'll get to that later.
+**[09:39] Alex Leverington:** I'm gonna get to that. Okay, so do we have solutions? So considering privacy as well as scalability of the Internet, there's a lot of people working on this. IPv6 is, there's a part of IPv6 that tries to help with privacy. Now one interesting thing about IPv6 is they are 128 bit addresses. So they're not quite large enough for us to use on a peer to peer network that depends on cryptographic properties for shaping the network or for peers connecting. And we'll get to that later.
 
 So, recent issue, this is a blog post from an engineer at MIT. And IPv6 has this really interesting thing where everybody who actually gets an address doesn't get a full address and they can generate their own private addresses just ad hoc, out of nowhere. And so it's kind of like an ephemeral address. But the problem is that routing equipment relies on addresses that don't change, because it can do so quickly. So if every computer in the world changed its address every five minutes, it would be really, really difficult to scale that so that every message can go from its source to its destination. The amount of memory and processing power for core network equipment would have to change or algorithms have to change. So yes.
 
@@ -40,7 +39,7 @@ So if you're interested in IPv6 and how, there is a project that's trying to bui
 
 **[12:36] SPEAKER_01:** TCP encrypted.
 
-**[12:40] SPEAKER_00:** Yeah, so TLS is a protocol that runs on TCP/IP. So it's similar to HTTP or IMAP or POP or any application protocol except TLS is to say well use TLS. So start your connection with TLS and then it will be encrypted and then just start sending messages once you know that it's encrypted.
+**[12:40] Alex Leverington:** Yeah, so TLS is a protocol that runs on TCP/IP. So it's similar to HTTP or IMAP or POP or any application protocol except TLS is to say well use TLS. So start your connection with TLS and then it will be encrypted and then just start sending messages once you know that it's encrypted.
 
 So a few of the things with TLS is that TLS itself is pretty good, it's well researched. The attacks against TLS are often edge cases and rely on attacks on other cryptographic algorithms or at the end of the day the issue is the implementation. So TLS used by everyone, today everybody uses root certificate authorities, and this is centralized, that works for certain use cases. But Ethereum is decentralized.
 
@@ -60,13 +59,13 @@ So Ethereum and Swarm are both kind of hybrid. So that's a typo. The relaying of
 
 **[19:57] SPEAKER_01:** Yeah, if you understand 10 empty blocks and 10.
 
-**[20:01] SPEAKER_00:** So if you sampled 10,000 blocks this is true. Okay. Because the blocks contain the transactions. So blocks are actually groups of transactions. So it could be argued that some of these messages need a higher priority than others. And what does higher priority mean on a network? That means that there's lower latency, the message gets there faster than the others.
+**[20:01] Alex Leverington:** So if you sampled 10,000 blocks this is true. Okay. Because the blocks contain the transactions. So blocks are actually groups of transactions. So it could be argued that some of these messages need a higher priority than others. And what does higher priority mean on a network? That means that there's lower latency, the message gets there faster than the others.
 
 So onto answering the question earlier about everything with routing and privacy, we won't be solving those problems with this protocol. This protocol is for a stable, robust network protocol that's encrypted and multiple applications are running over the protocol. So there won't be anything to do with routing priorities. Multicast or broadcast. Right now multicast and broadcast is written in code so send to every peer and so it's really, it's unicast, or the direction of the flow. So some protocols similar to what will be proposed provide a mechanism such that you can connect to something and say don't send me data, I'm just going to send you data. Or they can say the same thing.
 
 **[21:47] SPEAKER_01:** By the way, are you okay with me asking questions on them?
 
-**[21:50] SPEAKER_00:** No. Wait till the end. Yeah.
+**[21:50] Alex Leverington:** No. Wait till the end. Yeah.
 
 So some good reading material for all of this. If you're interested or you're working on similar systems, is the SPDY drafts from Google, this blog post which is really recent and does a great, great job of describing network buffering and what do you do when you have to send out 100 megabytes of messages and you can only send out 1 megabyte, and more in the context of scalability, not necessarily a single application. BitTorrent is excellent. The idea of BitTorrent, it takes a file and breaks it into a whole bunch of pieces, creates a Merkle root hash of it, and then uses that as being able to hand out pieces. And the way that's done is applicable.
 
@@ -94,7 +93,7 @@ And then this nonce, the details of this nonce is in the proposal. And it could 
 
 **[32:14] SPEAKER_01:** So what does that nonce do?
 
-**[32:16] SPEAKER_00:** It's used for changing, for updating the session. So after every successful connection, you update the session. And so when that is combined with using ephemeral public keys, then if somebody steals your laptop or they steal your server and they have your private keys, they could have packet logged everything coming out of your server and they won't be able to decrypt it. So that's a part of that.
+**[32:16] Alex Leverington:** It's used for changing, for updating the session. So after every successful connection, you update the session. And so when that is combined with using ephemeral public keys, then if somebody steals your laptop or they steal your server and they have your private keys, they could have packet logged everything coming out of your server and they won't be able to decrypt it. So that's a part of that.
 
 Yeah, yeah. So can you just say again what the nonce is? Tickets are derived from inside. They are used as, this one, yeah, the ticket. So the ticket is a value that you have stored from a previous session from a previous connection. And the nonce is because there is no value. And so this establishes a new value.
 
@@ -104,23 +103,23 @@ So multiplexing is really simple because we already have it. Right now the way t
 
 **[35:34] SPEAKER_01:** It was awesome. Why are you canceling?
 
-**[35:37] SPEAKER_00:** Well, so the question marks. So it's been proposed that we go to a system where we have a protocol type and a packet type and it's just two values instead of stacking them. So whether we do that or not, we have to get together, we have to decide maybe tomorrow. And so. But it's an implementation thing.
+**[35:37] Alex Leverington:** Well, so the question marks. So it's been proposed that we go to a system where we have a protocol type and a packet type and it's just two values instead of stacking them. So whether we do that or not, we have to get together, we have to decide maybe tomorrow. And so. But it's an implementation thing.
 
 **[36:12] SPEAKER_01:** So I think the idea behind the adaptive message ID was to make it harder for filters to filter us.
 
-**[36:20] SPEAKER_00:** So.
+**[36:20] Alex Leverington:** So.
 
 **[36:23] SPEAKER_01:** It doesn't give serious. Yeah, it's one of them. But I kind of like it. It was smart.
 
-**[36:30] SPEAKER_00:** Yeah, I mean I like it too.
+**[36:30] Alex Leverington:** Yeah, I mean I like it too.
 
 **[36:34] SPEAKER_01:** Who's that in?
 
-**[36:36] SPEAKER_00:** Well, there are people that don't like it. I don't think that they hate it. I'm 50-50. I like both. But the adaptive message ID I think is sort of a little artistic. It's very much like RLP, maybe a style thing.
+**[36:36] Alex Leverington:** Well, there are people that don't like it. I don't think that they hate it. I'm 50-50. I like both. But the adaptive message ID I think is sort of a little artistic. It's very much like RLP, maybe a style thing.
 
 **[36:59] SPEAKER_01:** It's like to say, hey, we are smart.
 
-**[37:06] SPEAKER_00:** So, flow control. So we're not actually going to do this, but I think it's funny, that messages on the Internet are obviously information on a journey through space and time. So what's interesting is these vehicles can operate differently when mixed together in the same environment. And with running multiple protocols over a single line, we have a very similar thing.
+**[37:06] Alex Leverington:** So, flow control. So we're not actually going to do this, but I think it's funny, that messages on the Internet are obviously information on a journey through space and time. So what's interesting is these vehicles can operate differently when mixed together in the same environment. And with running multiple protocols over a single line, we have a very similar thing.
 
 In Berlin there's a lot of cyclists, which is really interesting because I can ride my bicycle to this office faster than I can drive a car here. Usually five minutes faster and it takes ten minutes to cycle here. So, also applicable, buses, planes, mass transportation are carrying a lot of people from point A to point B. And in most cases it's economical to maximize how the vehicles are built and how they travel. Flying around an empty plane across the ocean is not a good idea.
 

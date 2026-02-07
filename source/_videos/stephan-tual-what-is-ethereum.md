@@ -1,7 +1,6 @@
 ---
 title: "What is Ethereum?"
 date: 2014-06-04
-author: "Stephan Tual"
 description: "Stephan Tual (CCO) explains What is Ethereum, June 4, 2014"
 embed:
   url: https://player.vimeo.com/video/97374143
@@ -9,7 +8,7 @@ embed:
 
 ## Transcript
 
-**[00:00] SPEAKER_00:** My name is Stephan Tual. I'm the CCO for Ethereum. My background is in IT startups and development. My role at Ethereum is to bring together entrepreneurs, developers and investors to build decentralized applications on our platform.
+**[00:00] Stephan Tual:** My name is Stephan Tual. I'm the CCO for Ethereum. My background is in IT startups and development. My role at Ethereum is to bring together entrepreneurs, developers and investors to build decentralized applications on our platform.
 
 Ethereum is an open source platform to build distributed next generation decentralized applications. That is applications that have no middleman, where users interact with social systems, financial systems, gaming interfaces, all in a peer-to-peer fashion. Because the Ethereum network will be distributed on hundreds of thousands of computers around the globe, this all takes place on a censorship-proof foundation. We make it easy for developers to build those applications leveraging tools that they are already familiar with. Things like HTML and JavaScript to build the interfaces, or Go, Python, or Lisp to build business logic. In short, our mission is to open up the floodgates of decentralized application development. We're currently well into a development process and we're planning to launch a live version of our network towards the end of this year.
 

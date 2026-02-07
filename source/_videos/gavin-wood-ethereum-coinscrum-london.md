@@ -10,7 +10,9 @@ embed:
 
 ## Transcript
 
-**[00:00] SPEAKER_00:** Gavin Wood for you. Thanks. Hello. Thank you. Wow. I thought it was going to be about five or ten people around a table at a pub like the Ethereum meetup, but yeah, I was a bit wrong there, wasn't I?
+**Facilitator:** Gavin Wood for you.
+
+**[00:00] Gavin Wood:** Thanks. Hello. Thank you. Wow. I thought it was going to be about five or ten people around a table at a pub like the Ethereum meetup, but yeah, I was a bit wrong there, wasn't I?
 
 So I'm going to tell you a little bit about Ethereum. I'm going to go off on one a little bit. I'm not going to go for Vitalik's talk where he went about how it's going to revolutionize altcoin creation. I'm going to move more for the kind of what it will mean maybe for society. I've had a bit of a think about this over the past week or two, a few sort of revelations if you like. So I'd like to share them with you.
 
@@ -54,53 +56,53 @@ I try to keep that short in order to maximize question time. I don't know if I m
 
 **[13:40] SPEAKER_01:** Given that Bitcoin is now bigger brand, is there a reason that you couldn't do what you're doing now on Bitcoin?
 
-**[13:53] SPEAKER_00:** So the question was given that Bitcoin is a bigger brand, is there a reason that we cannot use Bitcoin, the Bitcoin technology. So I presume by this you mean can we not use the Bitcoin blockchain. Yes. So.
+**[13:53] Gavin Wood:** So the question was given that Bitcoin is a bigger brand, is there a reason that we cannot use Bitcoin, the Bitcoin technology. So I presume by this you mean can we not use the Bitcoin blockchain. Yes. So.
 
 **[14:23] SPEAKER_02:** The issue is that if you just.
 
 **[14:25] SPEAKER_01:** Put a little bit more effort in, you can maintain Bitcoin in some way and have a layer.
 
-**[14:31] SPEAKER_00:** So the basis behind this technology is that it does require a new blockchain and so we will not co-opt the Bitcoin blockchain. People are already doing that and they're meeting with. Well, you can judge whether it's success or failure.
+**[14:31] Gavin Wood:** So the basis behind this technology is that it does require a new blockchain and so we will not co-opt the Bitcoin blockchain. People are already doing that and they're meeting with. Well, you can judge whether it's success or failure.
 
 **[14:48] SPEAKER_01:** But the reason for that was just too difficult.
 
-**[14:52] SPEAKER_00:** The reason for that is that Bitcoin is simply not designed for a Turing complete language to run on it. It's that simple. In terms of, you know, utilizing the Bitcoin name, I mean I don't want to piggyback on that more than we already are. So you know, I think you know we'll go at it. Well, not alone but you know, we will be in the community.
+**[14:52] Gavin Wood:** The reason for that is that Bitcoin is simply not designed for a Turing complete language to run on it. It's that simple. In terms of, you know, utilizing the Bitcoin name, I mean I don't want to piggyback on that more than we already are. So you know, I think you know we'll go at it. Well, not alone but you know, we will be in the community.
 
 To be honest in terms of the cooperation with Bitcoin, we view Bitcoin not in any way as unnecessary or separate. As far as we're kind of seeing this. Bitcoin is the goal. Bitcoin is great for value storage and we wouldn't have it any other way. We will use Bitcoin as part, you know, within Ethereum. No, absolutely not. Absolutely not. Ethereum we consider to be. If we take Bitcoin as gold. Ethereum we consider oil. Yeah, just.
 
 **[15:50] SPEAKER_03:** To be clear, Ethereum is like an open source.
 
-**[15:54] SPEAKER_00:** Ethereum is open source. Yeah. You absolutely can. Yeah.
+**[15:54] Gavin Wood:** Ethereum is open source. Yeah. You absolutely can. Yeah.
 
 **[16:01] SPEAKER_03:** I was wondering of facing their implementation of Ethereum but their worry was that I, I don't know much about this but actually about concerns about the pre-mining and the pre-allocation.
 
-**[16:17] SPEAKER_00:** Ah, there are there. Okay, so you're asking about the forks and pre-mining etc. All I can say really is that we'll take that risk. Sorry. If they want to. Yes.
+**[16:17] Gavin Wood:** Ah, there are there. Okay, so you're asking about the forks and pre-mining etc. All I can say really is that we'll take that risk. Sorry. If they want to. Yes.
 
 **[16:42] SPEAKER_02:** If you consider Bitcoin to be the first app of blockchain, the emphasis here seems to be much more on trust and social contracts. Do you think that might open up the door to seeing the blockchain, the blockchain technologies being something more than just the financial, you know, can I buy pictures of it? And more a case of anti-twat coins. When you look at Satoshi's paper, for example, it talks about hashcash and when I looked at that I didn't think, oh great, here's a way to make a load of money. I thought oh great, here's a good way to stop dickheads from sending me an email. And people who I like love sending me email easily. And I kind of hope that that's the direction. I wonder if this gets a new spin on it and takes it out of the financial world.
 
-**[17:40] SPEAKER_00:** Okay, so the question being basically will Ethereum take blockchain technology out of the financial world?
+**[17:40] Gavin Wood:** Okay, so the question being basically will Ethereum take blockchain technology out of the financial world?
 
 **[17:45] SPEAKER_02:** Kind of, yeah. Maybe more an emphasis on other things.
 
-**[17:49] SPEAKER_00:** I certainly hope so. Yeah. Absolutely. I think until now a lot of the emphasis has been on Ethereum replacing altcoins and the notion of even an altcoin.
+**[17:49] Gavin Wood:** I certainly hope so. Yeah. Absolutely. I think until now a lot of the emphasis has been on Ethereum replacing altcoins and the notion of even an altcoin.
 
 **[18:05] SPEAKER_02:** Where's hashcash and will this do it instead?
 
-**[18:10] SPEAKER_00:** Sadly I'm not that familiar with hashcash, but I think basically yes, you know, as much as I'm qualified to say, yeah, I think it will take the notion of financial, you know, blockchain at the moment, as you say, blockchain technology is largely co-opted for financial applications. I think it will take it out of that. Yeah, ultimately maybe five years.
+**[18:10] Gavin Wood:** Sadly I'm not that familiar with hashcash, but I think basically yes, you know, as much as I'm qualified to say, yeah, I think it will take the notion of financial, you know, blockchain at the moment, as you say, blockchain technology is largely co-opted for financial applications. I think it will take it out of that. Yeah, ultimately maybe five years.
 
 **[18:38] SPEAKER_04:** But yeah, Bitcoin is secured by its massive network of thousands of computers running. If you're not using the same blockchain, does Ethereum require another network with its own mining system, its own ASICs?
 
-**[18:54] SPEAKER_00:** Yeah, and we're going to do it right this time. No ASICs, yo. Oh, sorry. He was saying, will it require a whole new network of miners, etc, ASICs, all of that. And yeah, the answer was yes it will. And we will engineer it so that ASICs are less of an issue. If you want to call them an issue. We do.
+**[18:54] Gavin Wood:** Yeah, and we're going to do it right this time. No ASICs, yo. Oh, sorry. He was saying, will it require a whole new network of miners, etc, ASICs, all of that. And yeah, the answer was yes it will. And we will engineer it so that ASICs are less of an issue. If you want to call them an issue. We do.
 
 **[19:24] SPEAKER_01:** How do you expect to use contracts to reference Bitcoin? So I can buy an Ethereum contract?
 
-**[19:29] SPEAKER_00:** Oh, that's a good question. There are a few ways we're going to. Sorry, sorry, sorry, sorry. Right, the question was, how are we going to integrate Bitcoin into Ethereum? Basically, in order that we can, well, in order that we can send Bitcoins to contracts. I mean that's kind of the same thing.
+**[19:29] Gavin Wood:** Oh, that's a good question. There are a few ways we're going to. Sorry, sorry, sorry, sorry. Right, the question was, how are we going to integrate Bitcoin into Ethereum? Basically, in order that we can, well, in order that we can send Bitcoins to contracts. I mean that's kind of the same thing.
 
 It's an interesting question. We're not entirely sure. One option is to run a Bitcoin client actually within Ethereum, within the blockchain. So the blockchain itself connects to the Bitcoin network. Another one is to have a basket of trusted third parties that operate effectively as gateways within Bitcoin. Within Ethereum. Yo.
 
 **[20:17] SPEAKER_01:** Yeah, I was just wondering, how could Ethereum enforce its contracts? So, for instance, if I was to enter a contract with IR&I, and I ignored my contract, they can come and repossess my house. So, I mean, if it was a case of Ethereum, how do you enforce?
 
-**[20:35] SPEAKER_00:** Okay, so the question is, how can Ethereum enforce contracts that have arbitrary externalities, such as, if I don't pay the mortgage to my house, the bank in the real world would come and repossess my house. How can that be enforced in Ethereum?
+**[20:35] Gavin Wood:** Okay, so the question is, how can Ethereum enforce contracts that have arbitrary externalities, such as, if I don't pay the mortgage to my house, the bank in the real world would come and repossess my house. How can that be enforced in Ethereum?
 
 It's an interesting question. Externalities are always an interesting question in Ethereum. And to be honest, it's not clear, but the idea is that Ethereum can allow this to be enforced. So maybe there are bailiffs who exist on Ethereum as sort of private contractors, and part of the money that you pay into the mortgage will go into an account that would then be paid to the private contractor bailiffs in order to kick you out of your house if you don't carry on the repayments, for example. I don't know, like drones a little bit. Yeah, you're not painting a really good future here. Go.
 
@@ -114,11 +116,11 @@ What makes it Turing complete? A Turing complete language is a language where yo
 
 **[23:29] SPEAKER_01:** Does it give you more problems than it solves problems?
 
-**[23:33] SPEAKER_00:** No, we don't think so. I think this is massively overrated as an issue. It's fine. It's fine. It'll all be fine. We know about Turing complete. You know, it's been 60 years. We've worked stuff out. We're not children anymore. Okay? It's fine. Amir?
+**[23:33] Gavin Wood:** No, we don't think so. I think this is massively overrated as an issue. It's fine. It's fine. It'll all be fine. We know about Turing complete. You know, it's been 60 years. We've worked stuff out. We're not children anymore. Okay? It's fine. Amir?
 
 **[23:50] SPEAKER_05:** Yeah, Ethereum's a great project. I think it's really technically sound. And now you're attracting all the developers from all the other protocol layer projects, like BitShares. You have Charles, you have the Mastercoin guys. I think it's safe to say it's like the one. Like, how long before we start to see this stuff applied? Like, proper, decentralized organizations?
 
-**[24:12] SPEAKER_00:** Oh, man, like, five years. Did everyone catch the question? No. So question was, how long until we get a lot of the stuff that Ethereum promises to deliver? How long until it. Sorry, how long until it takes society to change with it?
+**[24:12] Gavin Wood:** Oh, man, like, five years. Did everyone catch the question? No. So question was, how long until we get a lot of the stuff that Ethereum promises to deliver? How long until it. Sorry, how long until it takes society to change with it?
 
 I mean, really, you got to ask a sociologist or a social historian. I don't really know. But let's say this. The Internet, originally, what was it like, 91, 92, when it first started getting public? All right, well, I mean, you know, it seems, I would say, five or six years before. So it took the Internet five or six years to catch on properly. Right? 96, 97. The Internet was sort of catching on. And it was introduced originally 91, 92. I think we've got a head start here, to be honest. So maybe half that. Two or three years, and I think we'll see some changes starting to happen, and then.
 

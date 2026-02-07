@@ -1,7 +1,6 @@
 ---
 title: "Vitalik Buterin explains Ethereum"
 date: 2014-07-29
-author: "Vitalik Buterin"
 description: "Vitalik Buterin explains Ethereum, July 29, 2014"
 embed:
   url: https://player.vimeo.com/video/102024647
@@ -9,7 +8,7 @@ embed:
 
 ## Transcript
 
-**[00:13] SPEAKER_00:** Thanks to the power of modern communication, we have the ability to create technologies that are decentralized, removing middlemen and allowing users to interact with each other directly through a global network. Decentralized applications have been becoming more and more important in the past 10 years and have the benefits of massively reducing costs and barriers to entry, removing single points of failure, preventing censorship, and ensuring transparency and trust between all the parties involved in an interaction.
+**[00:13] Vitalik Buterin:** Thanks to the power of modern communication, we have the ability to create technologies that are decentralized, removing middlemen and allowing users to interact with each other directly through a global network. Decentralized applications have been becoming more and more important in the past 10 years and have the benefits of massively reducing costs and barriers to entry, removing single points of failure, preventing censorship, and ensuring transparency and trust between all the parties involved in an interaction.
 
 BitTorrent, a file sharing network developed in the early 2000s, is arguably the first decentralized application to have been created. BitTorrent allows anyone to share any kind of file with anyone else in the world, allowing people to distribute content quickly and easily, even if they do not have the resources to pay for their own website or server.
 

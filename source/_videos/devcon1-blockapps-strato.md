@@ -1,7 +1,6 @@
 ---
 title: "DEVCON1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
 date: 2015-11-10
-author: "Ethereum"
 description: "Victor Wong, Kieren James-Lubin, and Jim Hormuzdiar present BlockApps STRATO at DEVCON1 in London"
 embed:
   url: https://www.youtube.com/embed/x8jIUg5jXjg
@@ -11,7 +10,7 @@ Victor Wong, Kieren James-Lubin, Jim Hormuzdiar, and Ryan Reich present BlockApp
 
 ## Transcript
 
-**[00:19] SPEAKER_00:** So I'm Victor Wong, one of the founders of BlockApps, and I'm here to introduce to the world BlockApps Strato on Microsoft Azure, the easiest way to build blockchain applications. You've seen this comparison made countless times. Bitcoin as a blockchain we know is limited in functionality. And thanks to Vitalik and the work of the Ethereum Foundation and Eth Dev, we now have a completely new global computing platform. But because of that, the success or failure of almost any computing platform is actually based on the number of applications that are being delivered on it.
+**[00:19] Victor Wong:** So I'm Victor Wong, one of the founders of BlockApps, and I'm here to introduce to the world BlockApps Strato on Microsoft Azure, the easiest way to build blockchain applications. You've seen this comparison made countless times. Bitcoin as a blockchain we know is limited in functionality. And thanks to Vitalik and the work of the Ethereum Foundation and Eth Dev, we now have a completely new global computing platform. But because of that, the success or failure of almost any computing platform is actually based on the number of applications that are being delivered on it.
 
 So BlockApps has a simple mission. We want to be the easiest way to build and deploy blockchain applications and businesses on the Ethereum platform. We're the team behind the Ethereum Haskell implementation and we want to be able to provide the facility to easily deploy private blockchains, but also have these blockchains be able to communicate with the public blockchain. Lastly, we want to make sure that applications built on our platform can communicate with existing systems and devices. In a sense, what we want to provide is a bridge to the existing world with Ethereum.
 
@@ -19,23 +18,23 @@ But here's the challenge. Now, many of you know all these terms, you know what t
 
 And that's where BlockApps Strato comes in. Basically what BlockApps Strato is a full Ethereum blockchain as a service framework that gives you everything you need to start building blockchain applications today. That goes all the way from spinning up your own blockchain, a middleware, API connector, wallets, faucets, everything you need to build and deploy applications. And we're going to show you a live coding demo by one of my co-founders, Kieren James-Lubin, our chief data scientist. Kieren.
 
-**[03:02] SPEAKER_01:** Thanks, Victor. Okay, there we go. Let me maximize this. So the first thing I'm going to do is actually launch a live instance of Strato. It takes a minute to spin up and we've got network latency. Then I'm going to go into one of our demos. Actually, we have to pick exactly what I'm going to code. I've got about five minutes to do it.
+**[03:02] Kieren James-Lubin:** Thanks, Victor. Okay, there we go. Let me maximize this. So the first thing I'm going to do is actually launch a live instance of Strato. It takes a minute to spin up and we've got network latency. Then I'm going to go into one of our demos. Actually, we have to pick exactly what I'm going to code. I've got about five minutes to do it.
 
-**[03:37] SPEAKER_00:** Can I make a suggestion?
+**[03:37] Victor Wong:** Can I make a suggestion?
 
-**[03:38] SPEAKER_01:** Sure.
+**[03:38] Kieren James-Lubin:** Sure.
 
-**[03:39] SPEAKER_00:** So, Kieren, since we're partners with Microsoft now, I'd like you to change our revenue sharing agreement. So add Microsoft into our company and let them share part of the revenue. And I'd also like to make sure you have five minutes. Right?
+**[03:39] Victor Wong:** So, Kieren, since we're partners with Microsoft now, I'd like you to change our revenue sharing agreement. So add Microsoft into our company and let them share part of the revenue. And I'd also like to make sure you have five minutes. Right?
 
-**[03:53] SPEAKER_01:** Yeah.
+**[03:53] Kieren James-Lubin:** Yeah.
 
-**[03:54] SPEAKER_00:** Make sure everything you write can run on any Internet connected device, including a mobile phone and any browser.
+**[03:54] Victor Wong:** Make sure everything you write can run on any Internet connected device, including a mobile phone and any browser.
 
-**[04:01] SPEAKER_01:** Okay, got it. Let me fire up the instance.
+**[04:01] Kieren James-Lubin:** Okay, got it. Let me fire up the instance.
 
-**[04:03] SPEAKER_00:** No problem.
+**[04:03] Victor Wong:** No problem.
 
-**[04:05] SPEAKER_01:** All right, starting the deploy here. So this will all get listed on the Marketplace soon, but this is the BlockApps login for the moment. Let's call this Strato dev. We're firing up. All right, looks good. Let me go into the contract.
+**[04:05] Kieren James-Lubin:** All right, starting the deploy here. So this will all get listed on the Marketplace soon, but this is the BlockApps login for the moment. Let's call this Strato dev. We're firing up. All right, looks good. Let me go into the contract.
 
 So I'm about to show you a command line tool called Block. These are the commands it supports. And what I've set up here is a scaffolded blockchain application. Kind of looks like a web app. You can see we've got HTML, JavaScript, CSS, an app.js to run a web server. We've got a contracts folder, and in the contracts folder, we've got some standard Solidity contracts to get you up and running quickly.
 
@@ -49,33 +48,33 @@ Okay, looks like we're good to go. I've set the URL up already. So what we're go
 
 So, what Block has done here is scaffolded a user interface for this contract. It's automatically generated. And we can see that. Hey, we've compiled the contract, but I don't have a wallet yet. And I still need to upload the contract. Make it bigger.
 
-**[08:08] SPEAKER_02:** Yes.
+**[08:08] Ryan Reich:** Yes.
 
-**[08:10] SPEAKER_01:** So Block is here to guide you through the process of creating an application. It will remind you about things like deploying contracts or when you need to upload a new version of your contract after it's been updated. Excuse me. Okay, so I'm going to go ahead and generate a key. Got a network. There we go. Now I'm going to go upload this contract.
+**[08:10] Kieren James-Lubin:** So Block is here to guide you through the process of creating an application. It will remind you about things like deploying contracts or when you need to upload a new version of your contract after it's been updated. Excuse me. Okay, so I'm going to go ahead and generate a key. Got a network. There we go. Now I'm going to go upload this contract.
 
-**[08:50] SPEAKER_02:** Ah. All right.
+**[08:50] Ryan Reich:** Ah. All right.
 
-**[08:52] SPEAKER_01:** And I'm going to refresh this page. You see, it has an address. Now type in the password in. We've got some data in storage. You can see these addresses have not been filled in because we haven't called the setup function just yet. I have about 1000 ether in the bank. The contract has zero ether. So I'm going to send the contract some ether and do the setup.
+**[08:52] Kieren James-Lubin:** And I'm going to refresh this page. You see, it has an address. Now type in the password in. We've got some data in storage. You can see these addresses have not been filled in because we haven't called the setup function just yet. I have about 1000 ether in the bank. The contract has zero ether. So I'm going to send the contract some ether and do the setup.
 
 Okay, you can see that Marley now has an address, as does Victor and Jim. And the contract is 10 ether. So here's Marley's address. There's nothing at it. This is actually what we want. And I'm about to carry out the dividend. There we go.
 
 All right, so if I check this, Marley should have a balance now. And there it is. It's in wei. You can see he got 70%. We should label those units a little bit better, but that. There we go. We didn't need any lawyers. We set up the revenue split. They're at the back.
 
-**[10:10] SPEAKER_00:** They're at the back.
+**[10:10] Victor Wong:** They're at the back.
 
-**[10:11] SPEAKER_01:** They're at the back. Ah, well, we let them in for this conference, not the next one. Anyway, so that's how you can get up and running in five minutes and build your first app with Block on BlockApps. Ryan later will, thank you.
+**[10:11] Kieren James-Lubin:** They're at the back. Ah, well, we let them in for this conference, not the next one. Anyway, so that's how you can get up and running in five minutes and build your first app with Block on BlockApps. Ryan later will, thank you.
 
 So Block is a wrap around BlockApps JS, which is our every purpose JavaScript API. So Block takes care of the scaffolding and the onboarding, but BlockApps JS, you can drop into any project that you already have. So maybe when you do something more complicated, you want to use BlockApps JS. Thanks, Victor.
 
-**[10:59] SPEAKER_02:** Thank you.
+**[10:59] Ryan Reich:** Thank you.
 
-**[11:06] SPEAKER_00:** So, as you can see, BlockApps Strato is designed for very, very rapid deployment and development. Some of the key features are that it's designed for building customizable private Ethereum compatible networks. You do rapid deployment on existing infrastructure like Azure. As Marley mentioned, coming soon in the Marketplace will be one click deployment. It has a RESTful API which is designed for integration with existing services and devices.
+**[11:06] Victor Wong:** So, as you can see, BlockApps Strato is designed for very, very rapid deployment and development. Some of the key features are that it's designed for building customizable private Ethereum compatible networks. You do rapid deployment on existing infrastructure like Azure. As Marley mentioned, coming soon in the Marketplace will be one click deployment. It has a RESTful API which is designed for integration with existing services and devices.
 
 And one thing is it scales easily from small private sandbox deployments into multiple consortium deployments and even elements of the public Ethereum blockchain. It's write once used on any network that you want. And all of this is built on the technology we developed for the Ethereum Haskell implementation. And to talk about that I'm going to introduce my other co-founder James Hermazdior, Ph.D. and creator of SSL VPN. Thanks James.
 
-**[12:16] SPEAKER_02:** Thank you Victor.
+**[12:16] Ryan Reich:** Thank you Victor.
 
-**[12:19] SPEAKER_03:** So about a year ago Kieren actually contacted me and I learned a little bit about Ethereum and I became fascinated right away with Ethereum and I went out and started reading everything about it and I immediately wanted to dig in and understand how it worked. And for me the natural choice of a language to use to work with Ethereum was Haskell.
+**[12:19] James Hormuzdiar:** So about a year ago Kieren actually contacted me and I learned a little bit about Ethereum and I became fascinated right away with Ethereum and I went out and started reading everything about it and I immediately wanted to dig in and understand how it worked. And for me the natural choice of a language to use to work with Ethereum was Haskell.
 
 I've been using Haskell for about five years now and it's over that time become my favorite language. It's got a lot of features that are extremely nice. First of all, as you heard yesterday, Haskell is a functional programming language. And the thing about a functional programming language is that the specification is the executable. The code that you write with Haskell looks a lot like the description of the code that you are writing.
 
@@ -87,7 +86,7 @@ Let me talk just a moment about the architecture of Strato. So Strato, as you ca
 
 But the important thing here was we put SQL in the middle and we chose that deliberately because we wanted Strato to be an architecture that would plug right into existing enterprise environments today. Thank you very much.
 
-**[15:20] SPEAKER_00:** So one thing about Strato and the Ethereum architecture that we've chosen that Jim has created is because of its modular nature, it's actually completely compatible with many of the existing Ethereum tools. You can spin up a private network and also connect it to a Geth node or a C++ node. You can use front end tools that are being developed all over by the community such as EtherCamp, Truffle and Embark. So really what, when you use Strato you're not restricted to only our tool set.
+**[15:20] Victor Wong:** So one thing about Strato and the Ethereum architecture that we've chosen that Jim has created is because of its modular nature, it's actually completely compatible with many of the existing Ethereum tools. You can spin up a private network and also connect it to a Geth node or a C++ node. You can use front end tools that are being developed all over by the community such as EtherCamp, Truffle and Embark. So really what, when you use Strato you're not restricted to only our tool set.
 
 Now the one thing is in order to really get Ethereum applications created, simply having the technology is not enough. Education is a big piece of the puzzle. And in order to accomplish that we've been holding a bunch of workshops, we call them Zero to Blockchain App where you come in for a couple hours, you start playing around with the tools and you walk out having built your first blockchain app.
 
@@ -97,7 +96,7 @@ So what we're trying to do is essentially provide a complete solution. With Micr
 
 This is our team. Come look for this T-shirt. We are very friendly and open. We'd love to talk to you about how to use our tools and how to make our tools interoperate with whatever you're doing. So the key message of all of this is this isn't about the future, this is about today. What can we start building right now? Thank you very much. And a limited amount.
 
-**[18:28] SPEAKER_02:** Go away. So my Google Calendar wants me to know that I have a talk to do, right? Yes. Thank you Google.
+**[18:28] Ryan Reich:** Go away. So my Google Calendar wants me to know that I have a talk to do, right? Yes. Thank you Google.
 
 Okay, so I'm Ryan Reich, I'm the author of the BlockApps JS JavaScript library. BlockApps JS connects Ethereum to the web. BlockApps itself, as Jim just told you, exposes Ethereum as a database. Using our RESTful API, you can query any number of aspects of Ethereum, both by native metadata and by metadata that you can only extract by having run those transactions. You can query blocks, transactions, accounts or account storage and you can query those transactions by such features as what accounts have changed in them and other such things that might be of interest as analytics.
 
@@ -107,17 +106,17 @@ Since any network communication necessarily is asynchronous, BlockApps JS uses a
 
 So let us now take a look at something that you might write with BlockApps JS. So this is a little bit too expanded here. We are still large enough to see, hopefully the color scheme isn't too dark. Is it too dark? All right, well I'm going to just attempt to power through this anyway because.
 
-**[21:06] SPEAKER_01:** Select all.
+**[21:06] Kieren James-Lubin:** Select all.
 
-**[21:08] SPEAKER_02:** Select what?
+**[21:08] Ryan Reich:** Select what?
 
-**[21:09] SPEAKER_00:** Select all.
+**[21:09] Victor Wong:** Select all.
 
-**[21:13] SPEAKER_02:** Very good. Okay, so this is the HTML portion of a dapp that you might write with BlockApps JS. It's very simple and it just produces a little interface that looks like that. Just a box with a couple fields you can fill in. You'll notice that it's fetching its JavaScript from the Strato dev address. This is an Azure instance that we started up for ourselves, where Strato is always running and this library is available. All that happens when you open this is that it runs a function and waits for you to push the button.
+**[21:13] Ryan Reich:** Very good. Okay, so this is the HTML portion of a dapp that you might write with BlockApps JS. It's very simple and it just produces a little interface that looks like that. Just a box with a couple fields you can fill in. You'll notice that it's fetching its JavaScript from the Strato dev address. This is an Azure instance that we started up for ourselves, where Strato is always running and this library is available. All that happens when you open this is that it runs a function and waits for you to push the button.
 
-**[22:01] SPEAKER_00:** So.
+**[22:01] Victor Wong:** So.
 
-**[22:06] SPEAKER_02:** The code, the Solidity contract that is behind this application is a simple crowdsourcing thing basically. People can submit their names, a little bit of ether and they get contributed to the contract and after a certain point you can just decide to pay it out. So this is not intended to be clever, it's just intended to be instructive.
+**[22:06] Ryan Reich:** The code, the Solidity contract that is behind this application is a simple crowdsourcing thing basically. People can submit their names, a little bit of ether and they get contributed to the contract and after a certain point you can just decide to pay it out. So this is not intended to be clever, it's just intended to be instructive.
 
 You'll notice that a little way down I have this set profile option. This is one of the features of BlockApps JS that makes it easy to use different blockchains or different Strato nodes. We have at the very least a Strato Live node in addition to a Strato dev node and that is running rather than a sandbox blockchain, a live Ethereum blockchain. And by simply changing the word, let me just, dev to live, I could make it run on the live network.
 
@@ -165,9 +164,9 @@ And so let's close off this little round of crowdsourcing and pay the guy, whoev
 
 And what actually happened when I did that is I had a final method in the contract. Let me just sort of scroll back up to the source code so I can point that out to you. Because it was very small. Payout suicides the contract, it closes it out and pays all the money to the recipient. And way down here the payout button just invokes the payout function, calls it from the private key. And that function invocation returns a value, but in this case it doesn't return anything. So in contract language I just replace the return value with what I want to see, which is the balance of the contract, and then I format a line that displays it.
 
-**[34:13] SPEAKER_00:** So.
+**[34:13] Victor Wong:** So.
 
-**[34:18] SPEAKER_02:** As you can see, this is the same basic operation that you witnessed with Kieren's example in Strato, but more customized. Strato has your scaffolded page already for you. With BlockApps JS, you'll want to write your HTML yourself. Or if you start with your Strato, if you start with your Strato page you can tweak it a little bit. And knowing how BlockApps JS works, you can add more functionality than simply showing the storage contents of the address you're working with.
+**[34:18] Ryan Reich:** As you can see, this is the same basic operation that you witnessed with Kieren's example in Strato, but more customized. Strato has your scaffolded page already for you. With BlockApps JS, you'll want to write your HTML yourself. Or if you start with your Strato, if you start with your Strato page you can tweak it a little bit. And knowing how BlockApps JS works, you can add more functionality than simply showing the storage contents of the address you're working with.
 
 BlockApps JS is the power user's inroads to connecting Ethereum to the web. Anything you can do with Solidity, you can benefit from in your application by running this library. So let's go back to this slide and press spacebar again.
 

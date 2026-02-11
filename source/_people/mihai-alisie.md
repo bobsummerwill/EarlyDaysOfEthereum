@@ -66,6 +66,25 @@ Mihai assisted with recruitment efforts for the Ethereum development team. [Gavi
 
 Mihai resigned from the Ethereum Foundation board on August 4, 2015, along with Taylor Gerring. He was replaced by professional board members Lars Klawitter, Vadim Levitin, and Wayne Hennessy-Barrett. He resigned from EthSuisse on October 14, 2015.
 
+## Ethereum.Builders DAO
+
+In March 2015, Mihai proposed an experiment called "Ethereum.Builders" — a self-organizing knowledge-sharing network for the Ethereum community. Announced in his Ethereum Foundation Blog post "[Ethereum Builders: A Proposed Experiment](https://blog.ethereum.org/2015/03/20/ethereum-builders-experiment)," the project aimed to create a proto-DAO interface to help developers and meetups around the world collaborate on Ethereum projects together.
+
+The Ethereum.Builders platform was integrated with GitHub through Gitter (a Slack-like interface) and represented one of the earliest attempts to apply Ethereum's decentralization philosophy to community coordination. Mihai described it as returning to the community-building work he had wanted to focus on since the project's beginning:
+
+> "In the early days of the project I concentrated my attention on the community side and worked on the holons idea for a distributed physical infrastructure."
+
+The experiment was presented at various Ethereum meetups, including a livestreamed session with [DCTRL](/articles/dctrl-vancouver/) in Vancouver in April 2015.
+
+{% include content-embed.html
+  url="https://blog.ethereum.org/2015/03/20/ethereum-builders-experiment"
+  title="Ethereum Builders: A Proposed Experiment"
+  description="Mihai Alisie proposes a self-organizing knowledge sharing network for the Ethereum community"
+  site="blog.ethereum.org"
+  author="Mihai Alisie"
+  date="March 20, 2015"
+%}
+
 ## Primary Sources
 
 This profile draws from multiple Early Days of Ethereum sources:

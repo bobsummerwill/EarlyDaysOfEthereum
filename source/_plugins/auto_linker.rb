@@ -215,8 +215,7 @@ module EarlyDays
         nickname = doc.data['nickname']&.tr('"\'', '')
         ids[url] = { url_ns: url.chomp('/'), title: doc.data['title']&.tr('"\'', ''),
                      name: doc.data['name']&.tr('"\'', ''), aka: doc.data['alias']&.tr('"\'', ''),
-                     nickname: nickname,
-                     col: doc.collection.label }
+                     nickname: nickname, col: doc.collection.label }
       end
 
       all_docs.each do |doc|

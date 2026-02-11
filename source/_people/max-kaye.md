@@ -7,6 +7,7 @@ social:
   linkedin: https://www.linkedin.com/in/maxkaye/
   twitter: https://x.com/XertroV
   github: https://github.com/xertrov
+  website: https://xk.io
 ---
 
 Max Kaye was an Australia-based developer who contributed to Ethereum during its earliest days. He was focused on decentralized applications and created Cryptonet, a library to build arbitrary blockchain-based structures.

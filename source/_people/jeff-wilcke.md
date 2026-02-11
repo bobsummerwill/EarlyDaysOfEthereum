@@ -9,6 +9,9 @@ social:
   github: https://github.com/obscuren
   linkedin: https://www.linkedin.com/in/jeffreywilcke
   medium: https://medium.com/@jeffehh
+links:
+  - title: "Old GitHub account (stygeo, pre-Ethereum)"
+    url: https://github.com/stygeo
 ---
 
 Jeff Wilcke is an Ethereum co-founder who created [Go-Ethereum (Geth)](/articles/geth/), the client that became Ethereum's dominant implementation. He led the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team and was one of three directors of Ethereum ÐΞV alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Gavin Wood](/people/gavin-wood/).

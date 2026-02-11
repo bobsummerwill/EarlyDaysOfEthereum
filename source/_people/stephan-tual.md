@@ -76,6 +76,22 @@ In April 2014, Stephan appeared alongside [Max Kaye](/people/max-kaye/) on Epice
   img="/images/image.simplecastcdn.com/2026.01.05/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
 %}
 
+## Explaining The DAO
+
+In August 2022, Stephan published an open letter on Reddit titled "Explaining the DAO one last time," setting the record straight from his perspective as a co-founder of [Slock.it](/articles/slock-it/). He emphasized that Slock.it had created and open-sourced a DAO framework based on [Vitalik Buterin](/people/vitalik-buterin/)'s whitepaper concept, and that "The DAO" was launched and operated by a community of volunteers — not by Slock.it:
+
+> "Slock.it was a traditional software consulting company that, in an effort to give back to the community, took it upon itself to write and make available a free, libre open source framework based on Vitalik's whitepaper for anyone to modify, launch and operate DAOs as they saw fit."
+
+He pushed back against media characterizations of him as "CEO of the DAO," noting that "DAO cannot possibly have CEOs, by design," and clarified that the re-entrancy attack that exploited The DAO was a flaw in the Ethereum programming language that "still plagues Ethereum-based projects, including DeFi, to this day."
+
+{% include content-embed.html
+  url="https://www.reddit.com/user/Ursium/comments/wp561e/explaining_the_dao_one_last_time_an_open_letter/"
+  title="Explaining the DAO one last time — An open letter"
+  author="Stephan Tual"
+  date="August 15, 2022"
+  site="Reddit"
+%}
+
 ## Primary Sources
 
 This profile draws from multiple Early Days of Ethereum sources:

@@ -6,9 +6,10 @@ start: Apr 2015
 end: present
 social:
   github: https://github.com/gluk256
+  linkedin: https://www.linkedin.com/in/vlad-gluhovsky-68a7104/
 ---
 
-Vlad Gluhovsky was the primary developer of [Whisper](/articles/whisper/), the decentralized messaging protocol that formed part of the original [Holy Trinity](/articles/holy-trinity/) of Web3 alongside [Ethereum](/articles/stiftung-ethereum/) (computation) and [Swarm](/articles/swarm/) (storage).
+Vlad Gluhovsky was listed as "Developer, Whisper Project" on the [ÐΞV team page](https://web.archive.org/web/20151210143340/http://ethdev.com/#team) and was the primary developer of [Whisper](/articles/whisper/), the decentralized messaging protocol that formed part of the original [Holy Trinity](/articles/holy-trinity/) of Web3 alongside [Ethereum](/articles/stiftung-ethereum/) (computation) and [Swarm](/articles/swarm/) (storage).
 
 Working on Whisper from 2015, Vlad developed the protocol through several major versions:
 
@@ -30,3 +31,14 @@ Vlad presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 20
 %}
 
 Whisper was eventually deprecated and removed from Geth. Its spiritual successor is [Waku](https://waku.org/), developed by [Status](https://status.im/), which builds on Whisper's design principles while addressing its scalability limitations.
+
+## Family
+
+Vlad's brother Alex Gluchowski went on to found [Matter Labs](https://matter-labs.io/), the company behind [zkSync](https://zksync.io/), one of the leading zero-knowledge rollup Layer 2 scaling solutions for Ethereum.
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20151210143340/http://ethdev.com/#team"
+  title="ÐΞV Team Page"
+  site="ethdev.com (archived)"
+  date="December 10, 2015"
+%}

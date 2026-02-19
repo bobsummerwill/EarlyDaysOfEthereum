@@ -102,10 +102,9 @@
         <p class="site-description site-description-center">{{ site.description }}</p>
         <nav class="site-nav-flex">
             <ul class="site-nav site-nav-list">
-                <li style="padding: 0 10px;"><a href="/people/">People</a> (<a href="/grid/">Grid</a>)</li>
-                <li style="padding: 0 10px;"><a href="/articles/">Articles</a></li>
-                <li style="padding: 0 10px;"><a href="/videos/">Videos</a></li>
-                <li style="padding: 0 10px;"><a href="/conversations/">Conversations</a></li>
+                <li><a href="/people/">People</a> (<a href="/grid/">Grid</a>)</li>
+                <li><a href="/timeline/">Timeline</a></li>
+                <li><a href="/conversations/">Conversations</a></li>
             </ul>
         </nav>
         <style>
@@ -113,25 +112,45 @@
             nav ul.site-nav {
                 flex-wrap: nowrap !important;
             }
-            
+
             /* Always show underline on navigation links */
             nav ul.site-nav a {
                 text-decoration: underline !important;
             }
-            
+
             /* Keep navigation horizontal on mobile */
             @media (max-width: 768px) {
                 nav ul.site-nav {
                     flex-direction: row !important;
                     flex-wrap: nowrap !important;
-                    gap: 8px !important;
                 }
                 nav ul.site-nav li {
                     white-space: nowrap !important;
                     flex-shrink: 0 !important;
                 }
             }
+
+            /* Fallback spacing for browsers without flex gap (Safari < 14.1) */
+            .no-flex-gap .site-nav-list li {
+                padding: 0 10px;
+            }
         </style>
+        <script>
+            // Detect flex gap support - older Safari supports grid gap but not flex gap
+            (function() {
+                var el = document.createElement('div');
+                el.style.display = 'flex';
+                el.style.flexDirection = 'column';
+                el.style.rowGap = '1px';
+                el.appendChild(document.createElement('div'));
+                el.appendChild(document.createElement('div'));
+                document.body.appendChild(el);
+                if (el.scrollHeight < 1) {
+                    document.documentElement.classList.add('no-flex-gap');
+                }
+                el.parentNode.removeChild(el);
+            })();
+        </script>
     </header>
     
     <!--

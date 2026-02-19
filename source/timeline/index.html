@@ -1,0 +1,201 @@
+---
+layout: default
+title: Timeline
+---
+<!--
+  Timeline Index Page
+  =========================
+  Combined timeline of articles and videos from the Early Days of Ethereum site.
+  - Jekyll Collections: https://jekyllrb.com/docs/collections/
+  - Liquid Templating: https://shopify.github.io/liquid/
+-->
+
+
+<h1>Timeline</h1>
+
+<p>
+  A combined chronological view of all articles and videos documenting the early days of Ethereum.
+</p>
+
+{% assign items_with_dates = "" | split: "" %}
+{% assign items_without_dates = "" | split: "" %}
+
+{% for article in site.articles %}
+    {% if article.hidden != true and article.hidden != 'true' %}
+        {% if article.date %}
+            {% assign items_with_dates = items_with_dates | push: article %}
+        {% else %}
+            {% assign items_without_dates = items_without_dates | push: article %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+{% for video in site.videos %}
+    {% if video.date %}
+        {% assign items_with_dates = items_with_dates | push: video %}
+    {% else %}
+        {% assign items_without_dates = items_without_dates | push: video %}
+    {% endif %}
+{% endfor %}
+
+{% assign sorted_items = items_with_dates | sort: 'date' %}
+{% assign sorted_undated_items = items_without_dates | sort_natural: 'title' %}
+
+<div class="stats">
+    {{ sorted_items.size | plus: sorted_undated_items.size }} items ({{ site.articles.size }} articles, {{ site.videos.size }} videos)
+</div>
+
+<h2 class="grid-section-heading">Timeline</h2>
+
+<div class="articles-list">
+    {% for item in sorted_items %}
+    {% assign is_video = false %}
+    {% if item.url contains '/videos/' %}
+        {% assign is_video = true %}
+    {% endif %}
+    <div class="article-card">
+        {% if item.img %}
+            <div class="article-thumbnail">
+                <a href="{{ item.url }}">
+                    <img src="{{ item.img }}" alt="{{ item.title }}" />
+                    {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                </a>
+            </div>
+        {% elsif item.embed.img %}
+            <div class="article-thumbnail">
+                <a href="{{ item.url }}">
+                    <img src="{{ item.embed.img }}" alt="{{ item.title }}" />
+                    {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                </a>
+            </div>
+        {% elsif item.embed.url %}
+            {% assign embed_url = item.embed.url %}
+            {% if embed_url contains 'youtube.com/embed/' %}
+                {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}
+                <div class="article-thumbnail">
+                    <a href="{{ item.url }}">
+                        <img src="https://img.youtube.com/vi/{{ video_id }}/hqdefault.jpg" alt="{{ item.title }}" />
+                        {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                    </a>
+                </div>
+            {% elsif embed_url contains 'vimeo.com/video/' %}
+                {% assign vimeo_id = embed_url | split: '/video/' | last | split: '?' | first %}
+                <div class="article-thumbnail">
+                    <a href="{{ item.url }}">
+                        <img src="https://vumbnail.com/{{ vimeo_id }}.jpg" alt="{{ item.title }}" />
+                        {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                    </a>
+                </div>
+            {% else %}
+                <div class="article-thumbnail-placeholder"></div>
+            {% endif %}
+        {% else %}
+            <div class="article-thumbnail-placeholder"></div>
+        {% endif %}
+
+        <div class="article-info">
+            <h3><a href="{{ item.url }}">{% if is_video %}&#9654; {% endif %}{{ item.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}{% if item.alias %} ("{{ item.alias }}"){% endif %}</a></h3>
+
+            <div class="article-meta">
+                {% if item.date %}
+                    <span class="release-date">{{ item.date | date: "%B %d, %Y" }}{% if item.author %} by {% endif %}</span>
+                {% endif %}
+                {% if item.author %}
+                    {% include auto_link.html content=item.author %}
+                {% endif %}
+            </div>
+
+            {% if item.description %}
+            <p class="article-description">
+                {% include auto_link.html content=item.description %}
+            </p>
+            {% else %}
+            <p class="article-excerpt">
+                {% assign excerpt = item.content | strip_html | truncatewords: 50 %}
+                {% assign excerpt_parts = excerpt | split: '##' %}
+                {% assign clean_excerpt = excerpt_parts[0] | strip %}
+                {% include auto_link.html content=clean_excerpt %}
+            </p>
+            {% endif %}
+
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% if sorted_undated_items.size > 0 %}
+<h2 class="grid-section-heading">Undated</h2>
+
+<div class="articles-list">
+    {% for item in sorted_undated_items %}
+    {% assign is_video = false %}
+    {% if item.url contains '/videos/' %}
+        {% assign is_video = true %}
+    {% endif %}
+    <div class="article-card">
+        {% if item.img %}
+            <div class="article-thumbnail">
+                <a href="{{ item.url }}">
+                    <img src="{{ item.img }}" alt="{{ item.title }}" />
+                    {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                </a>
+            </div>
+        {% elsif item.embed.img %}
+            <div class="article-thumbnail">
+                <a href="{{ item.url }}">
+                    <img src="{{ item.embed.img }}" alt="{{ item.title }}" />
+                    {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                </a>
+            </div>
+        {% elsif item.embed.url %}
+            {% assign embed_url = item.embed.url %}
+            {% if embed_url contains 'youtube.com/embed/' %}
+                {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}
+                <div class="article-thumbnail">
+                    <a href="{{ item.url }}">
+                        <img src="https://img.youtube.com/vi/{{ video_id }}/hqdefault.jpg" alt="{{ item.title }}" />
+                        {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                    </a>
+                </div>
+            {% elsif embed_url contains 'vimeo.com/video/' %}
+                {% assign vimeo_id = embed_url | split: '/video/' | last | split: '?' | first %}
+                <div class="article-thumbnail">
+                    <a href="{{ item.url }}">
+                        <img src="https://vumbnail.com/{{ vimeo_id }}.jpg" alt="{{ item.title }}" />
+                        {% if is_video %}<div class="play-button">▶</div>{% endif %}
+                    </a>
+                </div>
+            {% else %}
+                <div class="article-thumbnail-placeholder"></div>
+            {% endif %}
+        {% else %}
+            <div class="article-thumbnail-placeholder"></div>
+        {% endif %}
+
+        <div class="article-info">
+            <h3><a href="{{ item.url }}">{% if is_video %}&#9654; {% endif %}{{ item.title | replace: "Ð", "D" | replace: "Ξ", "E" | downcase }}{% if item.alias %} ("{{ item.alias }}"){% endif %}</a></h3>
+
+            <div class="article-meta">
+                {% if item.author %}
+                    {% include auto_link.html content=item.author %}
+                {% endif %}
+            </div>
+
+            {% if item.description %}
+            <p class="article-description">
+                {% include auto_link.html content=item.description %}
+            </p>
+            {% else %}
+            <p class="article-excerpt">
+                {% assign excerpt = item.content | strip_html | truncatewords: 50 %}
+                {% assign excerpt_parts = excerpt | split: '##' %}
+                {% assign clean_excerpt = excerpt_parts[0] | strip %}
+                {% include auto_link.html content=clean_excerpt %}
+            </p>
+            {% endif %}
+
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}

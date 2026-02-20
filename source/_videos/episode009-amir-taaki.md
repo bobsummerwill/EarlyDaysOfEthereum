@@ -594,7 +594,7 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 [[44:27]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2667s) **Amir Taaki:** I think all the money started to come in and they all started to go, and then I was in Europe, and then [I went to Syria](https://www.bbc.com/news/uk-39417937).
 
-![syria](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3D81/production/_95354751_amir_taaki_outside.jpg.webp)
+![syria](/images/ichef.bbci.co.uk/2026.02.19/amir_taaki_outside.jpg)
 
 [[44:34]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2674s) **Bob Summerwill:** Yes, yes. But yeah, I mean, the timeline of that was Ethereum White Paper November, kind of team starting to gather about December, BTC Miami. Were you at BTC Miami in January? Did you go to that one? No.
 

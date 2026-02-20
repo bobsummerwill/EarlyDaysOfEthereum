@@ -1,7 +1,7 @@
 ---
 name: Amir Taaki
 description: '"Anarchist Amir" - Bitcoin pioneer, Dark Wallet creator, and Ethereum influence'
-photo: /images/data.prgblockweek.com/2026.01.05/23/assets/events/ethprague/photos/speakers/amir-taaki.webp
+photo: /images/data.prgblockweek.com/2026.01.05/23/assets/events/ethprague/photos/speakers/amir-taaki.jpg
 interview: /videos/episode009-amir-taaki/
 social:
   github: https://github.com/genjix

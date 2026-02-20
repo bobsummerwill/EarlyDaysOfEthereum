@@ -2,7 +2,7 @@
 name: Wendell Davis
 description: Hive Wallet, DEVgrants program
 start: Jan 2014
-photo: /images/medium.com/2025.11.25/electrifyasia/mentorship-value-and-success-8dca7a901b2d/wendell-davis.webp
+photo: /images/medium.com/2025.11.25/electrifyasia/mentorship-value-and-success-8dca7a901b2d/wendell-davis.jpg
 social:
   youtube: https://www.youtube.com/watch?v=4jGqmlA4KEY
 ---

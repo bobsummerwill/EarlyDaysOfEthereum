@@ -19,7 +19,7 @@ Mist was discontinued in 2019 for a mixture of usability and more important secu
   description="Announcement that Mist would no longer be supported"
   date="March 22, 2019"
   author="Alex van de Sande"
-  img="/images/medium.com/2025.12.01/avsa/sunsetting-mist-da21c8e943d2/mist-logos.webp"
+  img="/images/medium.com/2025.12.01/avsa/sunsetting-mist-da21c8e943d2/mist-logos.jpg"
 %}
 
 The core Mist development team was:

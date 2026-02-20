@@ -265,7 +265,7 @@ table_of_contents:
   title="Metalab"
   description="Metalab is Vienna's hackerspace, founded in 2006. It is one of Europe's oldest hackerspaces and a hub for creative technology and maker culture."
   site="metalab.at"
-  img="/images/metalab.at/2026.01.05/images/hackspace.webp"
+  img="/images/metalab.at/2026.01.05/images/hackspace.jpg"
 %}
 
 {% include content-embed.html

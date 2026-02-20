@@ -24,31 +24,25 @@
 {% assign seo_url = page.url | absolute_url %}
 
 {% comment %} Smart image selection {% endcomment %}
-{% assign seo_image = page.image | default: page.photo | default: page.img %}
+{% assign seo_image = page.image | default: page.photo | default: page.img | default: page.embed.img %}
 {% unless seo_image %}
-  {% if page.collection == 'people' %}
-    {% assign seo_image = "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png" %}
-  {% elsif page.collection == 'videos' %}
-    {% comment %} For videos, use the exact same logic as videos index page {% endcomment %}
-    {% if page.img %}
-      {% assign seo_image = page.img %}
-    {% elsif page.embed.url %}
-      {% assign embed_url = page.embed.url %}
-      {% if embed_url contains 'youtube.com/embed/' %}
-        {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}
-        {% assign seo_image = "https://img.youtube.com/vi/" | append: video_id | append: "/maxresdefault.jpg" %}
-      {% elsif embed_url contains 'vimeo.com/video/' %}
-        {% assign video_id = embed_url | split: '/video/' | last | split: '?' | first %}
-        {% assign seo_image = "https://vumbnail.com/" | append: video_id | append: ".jpg" %}
-      {% endif %}
+  {% if page.embed.url %}
+    {% assign embed_url = page.embed.url %}
+    {% if embed_url contains 'youtube.com/embed/' %}
+      {% assign video_id = embed_url | split: '/embed/' | last | split: '?' | first %}
+      {% assign seo_image = "https://img.youtube.com/vi/" | append: video_id | append: "/hqdefault.jpg" %}
+    {% elsif embed_url contains 'vimeo.com/video/' %}
+      {% assign video_id = embed_url | split: '/video/' | last | split: '?' | first %}
+      {% assign seo_image = "https://vumbnail.com/" | append: video_id | append: ".jpg" %}
     {% endif %}
-    {% comment %} Only use default image if no video-specific image found {% endcomment %}
-    {% unless seo_image %}
-      {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
-    {% endunless %}
-  {% else %}
-    {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
   {% endif %}
+  {% unless seo_image %}
+    {% if page.collection == 'people' %}
+      {% assign seo_image = "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png" %}
+    {% else %}
+      {% assign seo_image = "/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png" %}
+    {% endif %}
+  {% endunless %}
 {% endunless %}
 
 {% comment %} Skip social metadata for hidden profiles and articles to prevent privacy leaks {% endcomment %}
@@ -288,7 +282,7 @@
 {% endcomment %}
 
 {% comment %} Preload critical resources {% endcomment %}
-<link rel="preload" href="/assets/css/common.css" as="style">
+<link rel="preload" href="/assets/css/common.css?v={{ site.time | date: '%s' }}" as="style">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://www.google-analytics.com">
 

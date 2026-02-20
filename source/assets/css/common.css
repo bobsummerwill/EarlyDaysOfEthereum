@@ -799,13 +799,15 @@ img {
 .person-photo {
     position: relative !important;
     width: 100% !important;
-    aspect-ratio: 1/1 !important;
+    padding-bottom: 100% !important; /* 1:1 aspect ratio fallback for Safari <15 */
     overflow: hidden !important;
     border-radius: var(--radius-lg) !important;
     background: none !important;
     border: none !important;
     margin: 0 !important;
-    padding: 0 !important;
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
     display: block !important;
 }
 
@@ -831,7 +833,10 @@ img {
 /* When used inside a .person-photo container, ensure the placeholder fills the frame */
 .person-photo .no-photo {
     position: absolute;
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     border-radius: inherit;
 }
 

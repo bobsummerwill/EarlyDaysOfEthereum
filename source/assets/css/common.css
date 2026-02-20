@@ -799,6 +799,7 @@ img {
 .person-photo {
     position: relative !important;
     width: 100% !important;
+    height: 0 !important;
     padding-bottom: 100% !important; /* 1:1 aspect ratio fallback for Safari <15 */
     overflow: hidden !important;
     border-radius: var(--radius-lg) !important;
@@ -809,6 +810,8 @@ img {
     padding-left: 0 !important;
     padding-right: 0 !important;
     display: block !important;
+    -webkit-flex-shrink: 0 !important;
+    flex-shrink: 0 !important;
 }
 
 /**

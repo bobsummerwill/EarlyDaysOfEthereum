@@ -1,6 +1,7 @@
 ---
 name: Jeremy Millar
 description: ConsenSys Chief of Staff and Enterprise Ethereum Alliance co-founder
+photo: /images/linkedin.com/2026.02.20/jeremy-millar.jpg
 social:
   twitter: https://x.com/OldDawgNewTrix
   linkedin: https://www.linkedin.com/in/jemillar/

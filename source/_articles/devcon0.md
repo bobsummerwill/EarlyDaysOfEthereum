@@ -50,7 +50,7 @@ Others were contributors from outside of ETHDEV and the Ethereum Foundation enti
 
 - Alistair Stewart
 - Henning Diedrich (IBM)
-- Joseph Chow
+- Joseph C
 - Ksenya S
 - Konrad Feldmeier
 - Roman Mandeleil

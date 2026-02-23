@@ -83,7 +83,7 @@ The morning commenced with Vinay Gupta leading a workshop which had everyone pre
 
 **(This video does not match the description in the blog post, but is certainly a presentation which Vinay Gupta gave at DEVCON!)**
 
-Following Vinay's workshop, Martin Becze brought everyone up to speed with node-ethereum - a Node.js project he has been working on with Joseph Chow in Palo Alto. The talk started by outlining the ethereumjs-lib and node-etheruem's architecture, then focused on areas where the client differs in structure from the other C++, Go and Python client implementations. Jeff Wilcke also gave a brief update on Ethereum Go client on the whiteboard before the panel discussion.
+Following Vinay's workshop, Martin Becze brought everyone up to speed with node-ethereum - a Node.js project he has been working on with Joseph C in Palo Alto. The talk started by outlining the ethereumjs-lib and node-etheruem's architecture, then focused on areas where the client differs in structure from the other C++, Go and Python client implementations. Jeff Wilcke also gave a brief update on Ethereum Go client on the whiteboard before the panel discussion.
 
 **--> MISSING VIDEO <--**
 

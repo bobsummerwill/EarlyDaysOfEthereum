@@ -2263,11 +2263,14 @@ main {
 .site-nav-list {
     display: flex;
     flex-wrap: nowrap;
-    gap: 20px;
     justify-content: center;
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+.site-nav-list li {
+    margin: 0 10px;
 }
 
 .footer-gradient {

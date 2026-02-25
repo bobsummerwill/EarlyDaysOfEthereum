@@ -6,6 +6,8 @@ guests: ["Fabian Vogelsteller"]
 hosts: ["Bob Summerwill"]
 description: "Fabian Vogelsteller joined the Ethereum Foundation in January 2015 and built the Mist browser, Ethereum Wallet, and authored the [ERC-20](https://eips.ethereum.org/EIPS/eip-20) token standard that enabled the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) boom. He discusses the early Berlin office culture, DEVCON1 and token standardization, maintaining [web3.js](https://github.com/ethereum/web3.js), and his eventual departure to build [LUKSO](https://lukso.network) and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) for mainstream adoption."
 img: /images/covers-for-conversations/episode012-fabian-vogelsteller.png
+embed:
+  url: https://www.youtube.com/embed/QUs-USqEpac
 table_of_contents:
   - link: "#introduction"
     title: "Introduction"

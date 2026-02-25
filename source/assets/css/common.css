@@ -2660,6 +2660,14 @@ main {
     margin-bottom: 6px;
 }
 
+.content-embed-description p {
+    margin: 0;
+}
+
+.content-embed-description p + p {
+    margin-top: 0.5em;
+}
+
 .content-embed-author-link {
     color: #007acc;
     text-decoration: underline;

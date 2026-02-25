@@ -107,7 +107,8 @@ title: Timeline
 
             {% if item.description %}
             <p class="article-description">
-                {% include auto_link.html content=item.description %}
+                {% assign description_html = item.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+                {% include auto_link.html content=description_html %}
             </p>
             {% else %}
             <p class="article-excerpt">
@@ -183,7 +184,8 @@ title: Timeline
 
             {% if item.description %}
             <p class="article-description">
-                {% include auto_link.html content=item.description %}
+                {% assign description_html = item.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+                {% include auto_link.html content=description_html %}
             </p>
             {% else %}
             <p class="article-excerpt">

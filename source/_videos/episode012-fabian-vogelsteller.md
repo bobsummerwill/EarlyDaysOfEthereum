@@ -59,6 +59,12 @@ table_of_contents:
 
 ## Audio
 
+<audio controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/audio/episode012-fabian-vogelsteller.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ## Transcript
 
 <!-- TABLE_OF_CONTENTS -->
@@ -75,7 +81,9 @@ table_of_contents:
 
 **[00:50] Bob Summerwill:** What were you doing prior to wandering into blockchain world?
 
-**[01:02] Fabian Vogelsteller:** So okay, let's start from the beginning. Okay, so what I was doing before blockchain, I was actually a web developer. So I started out as, I mean I build websites since I was 14. My Feindura, the name that I have on Twitter is actually the name of the content management system that I built I think in 2005. And it just happened to be, you know, turning into my second identity. So I have two identities on the Internet. Frozeman and Feindura. It's all just connected to two things in GitHub. I'm Frozeman and that's also my GitHub history with Ethereum at [github.com/frozeman](https://github.com/frozeman) and so on. And Feindura is then my online one.
+**[01:02] Fabian Vogelsteller:** So okay, let's start from the beginning. Okay, so what I was doing before blockchain, I was actually a web developer. So I started out as, I mean I build websites since I was 14. My [Feindura](https://web.archive.org/web/20141217063119/http://feindura.org/), the name that I have on Twitter is actually the name of the content management system that I built I think in 2005. And it just happened to be, you know, turning into my second identity. So I have two identities on the Internet. Frozeman and Feindura. It's all just connected to two things in GitHub. I'm Frozeman and that's also my GitHub history with Ethereum at [github.com/frozeman](https://github.com/frozeman) and so on. And Feindura is then my online one.
+
+![Feindura CMS](/images/archive.org/feindura.org/slide1.png)
 
 Yeah, I mean I basically, you know, was always interested in the cutting edge of like the cool Internet stuff in the 90s, you know, building in the first 2000s my first websites or 1990, whatever, eight, nine, you know, following the whole evolution of the Internet with HTML, CSS, HTML1 and 2 and CSS1, 2 and JavaScript coming in and blah blah blah. So mainly did web development but I studied media design so I didn't study anything with coding. All the coding is autodidactically learned, so I haven't. Yeah, there's nothing that came from, from honestly even when I joined Ethereum I had no clue about bytes and how to manipulate bytes and stuff. Still don't have, actually I still don't know.
 
@@ -87,7 +95,7 @@ Yeah, I mean I basically, you know, was always interested in the cutting edge of
 
 **[02:55] Bob Summerwill:** That's all you need. Things changed and you wrote a book.
 
-**[03:04] Fabian Vogelsteller:** I wrote a book about [Meteor.js](https://www.meteor.com). So I, yeah, I got really obviously into web development. I did a lot of websites and built a lot of things. I built my own content management system in PHP and I built a flat file based content management system. So that means that this doesn't need a database. The whole idea was, okay, I just want to have one of these FTP PHP ready servers and if I want to move my. It was literally all about the independence of hosting providers. Right? If I want to move from this hosting provider to the other. I mean back in the day migrating databases was a nightmare and probably still is a nightmare. Oh yeah, it was. Oh, if I build a flat file based thing, you just copy the whole folder structure over to the other server and it works. And it did. So that was what Feindura.org CMS does and did. I mean obviously who uses PHP today but Facebook does? No, but, but I mean, yeah, now I have a bunch of haters in the PHP community, but yeah, I mean so yeah, I built that thing and that was really like helping me like to kind of like do a full project front to end.
+**[03:04] Fabian Vogelsteller:** I wrote a book about [Meteor.js](https://www.meteor.com). So I, yeah, I got really obviously into web development. I did a lot of websites and built a lot of things. I built my own content management system in PHP and I built a flat file based content management system. So that means that this doesn't need a database. The whole idea was, okay, I just want to have one of these FTP PHP ready servers and if I want to move my. It was literally all about the independence of hosting providers. Right? If I want to move from this hosting provider to the other. I mean back in the day migrating databases was a nightmare and probably still is a nightmare. Oh yeah, it was. Oh, if I build a flat file based thing, you just copy the whole folder structure over to the other server and it works. And it did. So that was what [Feindura.org](https://web.archive.org/web/20141217063119/http://feindura.org/) CMS does and did. I mean obviously who uses PHP today but Facebook does? No, but, but I mean, yeah, now I have a bunch of haters in the PHP community, but yeah, I mean so yeah, I built that thing and that was really like helping me like to kind of like do a full project front to end.
 
 And then I got more into JavaScript and I got really excited by [Meteor.js](https://www.meteor.com), which was one of the first reactive JavaScript frameworks that was before [Angular](https://angular.io), before [React](https://react.dev) and it was the first time where you just could write like this JavaScript code and this HTML stuff and when you update stuff in the JavaScript or in your local state, like the HTML got rerendered natively. Super magic. So I got really into this and I wrote a book about it. I have it here. If you ever want to. I would never, I would never read a tutorial book to be honest. But I wrote one thing.
 
@@ -407,7 +415,7 @@ Yeah, obviously. I mean I have no Ether anymore since many, many years. I mean I
 
 **[58:47] Bob Summerwill:** So I mean, going back to DEVCON1, I was looking at some of the videos recently and it's like pretty much any idea you can ever imagine seemed to be presented there. I mean did you see most of the presentations?
 
-**[59:01] Fabian Vogelsteller:** I mean this is the thing most people don't understand like this that people talk about right now is not being made up now. That stuff has been made up before, tried before. For example, Base like launches launched the defeated and now cut off again. Right. Like where you have a post and then you people bet on this. I mean Steemit did that four years ago and at least they did it smart because it wasn't a Reddit style feature.
+**[59:01] Fabian Vogelsteller:** I mean this is the thing most people don't understand like this that people talk about right now is not being made up now. That stuff has been made up before, tried before. For example, Base like launches launched the defeated and now cut off again. Right. Like where you have a post and then you people bet on this. I mean [Steemit](https://en.wikipedia.org/wiki/Steemit) did that four years ago and at least they did it smart because it wasn't a Reddit style feature.
 
 **[59:25] Bob Summerwill:** Yeah.
 
@@ -441,7 +449,7 @@ We worked a lot on the interface on the end like the Ethereum Wallet or people c
 
 **[1:05:12] Fabian Vogelsteller:** It would have been so easy to instead of talking to the localhost node to talk to remote node. I mean I could have added a feature. No time. The reason because we didn't do this, because it really just went against the whole idea of really doing it decentralized. The only problem is that then after six, seven, eight months, syncing the Mist browser, if you didn't have it open for a week, took sometimes half an hour.
 
-And plus what happened is MetaMask, Kumavis came up with the idea, okay, I build a browser extension, connect into a remote node, and I do a light version of MetaMask and just inject it into an existing browser. And that idea won. So MetaMask kind of in a way outcompeted the Mist browser. And then on top of this, you know, the difficulties of keeping it secure is on the end what made us shut it down, but that we had a lot more ideas. I mean, look at the video. Like we haven't even started. We hadn't even really started playing out the idea of the Mist browser fully. But at the time it was just not, it was not the right time. But it really showed a lot of people how things can be done, why to do it this way, how to build the apps, how to, you know. Yeah, it set the stage, basically.
+And plus what happened is [MetaMask](https://metamask.io/), [Kumavis](/people/aaron-davis) came up with the idea, okay, I build a browser extension, connect into a remote node, and I do a light version of MetaMask and just inject it into an existing browser. And that idea won. So MetaMask kind of in a way outcompeted the Mist browser. And then on top of this, you know, the difficulties of keeping it secure is on the end what made us shut it down, but that we had a lot more ideas. I mean, look at the video. Like we haven't even started. We hadn't even really started playing out the idea of the Mist browser fully. But at the time it was just not, it was not the right time. But it really showed a lot of people how things can be done, why to do it this way, how to build the apps, how to, you know. Yeah, it set the stage, basically.
 
 **[1:06:35] Bob Summerwill:** Yeah, I mean, in terms of that, you know, local node, full decentralization. I mean, I remember as well thinking, yeah, of course that's going to happen, right? Of course you're going to like, everyone's going to have an Ethereum node running like on every device, you know, be like, yeah, you'll have one running in the background on your phone. They'll be in like every router, media station, like every computer.
 
@@ -449,7 +457,7 @@ And plus what happened is MetaMask, Kumavis came up with the idea, okay, I build
 
 **[1:07:27] Bob Summerwill:** Like this, we'll just build on the full node, build down the full node for now, and then that light client will come in.
 
-**[1:07:36] Fabian Vogelsteller:** And I think we actually came that far. I think there was versions of the Mist browser that had Geth built in with light client support that synced very fast. But at the time, by this time, people already really moved on to MetaMask. And again, security and other reasons on the end made us kind of give up. But I already moved on to [Web3.js](https://github.com/ethereum/web3.js) at the time, mainly with my focus, because that was indeed a tool. Everybody was using it. 70 million, 140 million downloads, or God knows what it has nowadays. It still used download a lot, even though now Viem and others took over.
+**[1:07:36] Fabian Vogelsteller:** And I think we actually came that far. I think there was versions of the Mist browser that had Geth built in with light client support that synced very fast. But at the time, by this time, people already really moved on to [MetaMask](https://metamask.io/). And again, security and other reasons on the end made us kind of give up. But I already moved on to [Web3.js](https://github.com/ethereum/web3.js) at the time, mainly with my focus, because that was indeed a tool. Everybody was using it. 70 million, 140 million downloads, or God knows what it has nowadays. It still used download a lot, even though now Viem and others took over.
 
 And then at some point it was only mainly like then. Yeah, when I left, then at some point, [Alex](/people/alex-van-de-sande) shut it down for the reasons also because. Yeah, I mean it had, it had its purpose, you know.
 
@@ -471,7 +479,7 @@ But what's interesting is we go to conferences, you know, we go to any place you
 
 <h3 id="jimmy-song-bet">The Jimmy Song Bet</h3>
 
-**[1:11:37] Bob Summerwill:** I remember in 2018, I went to the Consensus conference, like the Consensus, not Consensus conference in New York. So New York Blockchain Week. And there was a panel there that was sort of almost like a Bitcoin versus Ethereum thing. And you have Jimmy Song, you know, the with his cowboy hat. And you had [Joe Lubin](/people/joe-lubin). And Jimmy was basically saying, you know, like, dapps are useless. Smart contracts are useless. Like, nobody's going to be like, using these in five years. And like him and Joe having a bet, you know, for a pretty significant amount of Bitcoin. I can't remember what it ended up being in the end and I don't know what, you know, but then they were like talking about the terms. It was this Crypto Twitter, ongoing discussion of. Is this.
+**[1:11:37] Bob Summerwill:** I remember in 2018, I went to the Consensus conference, like the Consensus, not Consensus conference in New York. So New York Blockchain Week. And there was a panel there that was sort of almost like a Bitcoin versus Ethereum thing. And you have Jimmy Song, you know, the with his cowboy hat. And you had Joe Lubin. And Jimmy was basically saying, you know, like, dapps are useless. Smart contracts are useless. Like, nobody's going to be like, using these in five years. And like him and [Joe](/people/joe-lubin) having a bet, you know, for a pretty significant amount of Bitcoin. I can't remember what it ended up being in the end and I don't know what, you know, but then they were like talking about the terms. It was this Crypto Twitter, ongoing discussion of. Is this.
 
 **[1:12:35] Fabian Vogelsteller:** You know, luckily he didn't like propose to cut off his penis.
 
@@ -531,7 +539,7 @@ If you have a lot of people that want to have opinions and you want to be backwa
 
 And it will show once we open up our control apps to work on all these chains, then it becomes clear. But right now what's funny actually because we are in the time of AI OpenClaw, like sorry, Claw.top OpenClaw, the AI tool that was just an open source harness for AI to run. I mean I know you are playing around with one. I have my own Emmett as well.
 
-If you want to have an AI interacting onchain, you better need a smart contract. Because if you just give it a private key, like Owocki from Gitcoin just did the other day, right? He gave it a private key, there was all his money on it. And then somebody figured out how to trigger the AI to return the private key and stole the money, whatever was on there.
+If you want to have an AI interacting onchain, you better need a smart contract. Because if you just give it a private key, like Owocki from [Gitcoin](https://www.gitcoin.co/) just did the other day, right? He gave it a private key, there was all his money on it. And then somebody figured out how to trigger the AI to return the private key and stole the money, whatever was on there.
 
 <h3 id="ai-agents-universal-profiles">AI Agents and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction)</h3>
 
@@ -551,7 +559,7 @@ The main problem why no one is using apps on any conference or wherever. And the
 
 **[1:30:52] Bob Summerwill:** Well like how, how you, how you get there and how this one, this.
 
-**[1:30:57] Fabian Vogelsteller:** One is by now kind of solved. So if you, if you have done some research, you use Zerion Wallet, Family Wallet. Okay, they stop. But MetaMask is horrible. But use Zerion Wallet, they have an inner browser. So you know, creating a wallet takes seconds in a browser allows you to go there and connect without WalletConnect. Which is annoying, right? Yeah but it's still something missing and it's you, the gas, the network.
+**[1:30:57] Fabian Vogelsteller:** One is by now kind of solved. So if you, if you have done some research, you use Zerion Wallet, Family Wallet. Okay, they stop. But [MetaMask](https://metamask.io/) is horrible. But use Zerion Wallet, they have an inner browser. So you know, creating a wallet takes seconds in a browser allows you to go there and connect without WalletConnect. Which is annoying, right? Yeah but it's still something missing and it's you, the gas, the network.
 
 **[1:31:22] Bob Summerwill:** Yeah, just that onboarding like that bootstrapping step of how you, how you get in. I mean the other thing like that with gas is. Yeah that you're needing some amounts of that native token on all of the chains that you touch along the way. You can get so easily that you're like oh, I'm stuck, I've got the tokens, I haven't got the gas.
 
@@ -583,7 +591,7 @@ And now you have the ease in. Now we have the seamless experience that requires 
 
 <h3 id="hard-problems-developer-mindsets">Hard Problems and Developer Mindsets</h3>
 
-**[1:38:19] Bob Summerwill:** No, I mean I think it's source of a recurring story is that some of these problems, they're really hard, you know, and they've taken a lot of years, you know, so like say proof of stake transition, you know, like the perception was oh, that will be solved in about six months, right? Start with proof of work. But you know, probably end of 2015, you know, be ready for a transition. No, no, no, it took eight years. Or like Swarm, you know, still ongoing, still working towards that. Or like Filecoin, like Filecoin white paper 2014, you know, still, still kind of, you know, still brewing up. Or then like you say with Whisper or its successor, you know, Waku, you know, these are hard problems.
+**[1:38:19] Bob Summerwill:** No, I mean I think it's source of a recurring story is that some of these problems, they're really hard, you know, and they've taken a lot of years, you know, so like say proof of stake transition, you know, like the perception was oh, that will be solved in about six months, right? Start with proof of work. But you know, probably end of 2015, you know, be ready for a transition. No, no, no, it took eight years. Or like Swarm, you know, still ongoing, still working towards that. Or like [Filecoin](https://filecoin.io/), like Filecoin white paper 2014, you know, still, still kind of, you know, still brewing up. Or then like you say with Whisper or its successor, you know, [Waku](https://waku.org/), you know, these are hard problems.
 
 **[1:39:09] Fabian Vogelsteller:** But sometimes also if you give a bunch of devs a problem to solve, they're going to find ways to solve and improve it for 100 years, whether it makes sense for people or as a single user or not. So sometimes it's important to have the mindset of how it is. Even a normal person that comes from scratch looks at this, what's their problem?
 
@@ -593,7 +601,7 @@ And what I want to get to is it should be extremely easy to use Web3 apps. You k
 
 And also the Ethereum Foundation would have never subsidized, you know, if I would have went to [Vitalik](/people/vitalik-buterin), hey, can you give me like $10 million in Ether? I have this great smart contract account idea and I would like to subsidize early users. Like, what are the chances that that would have went through? You know, so no, I mean.
 
-**[1:41:01] Bob Summerwill:** I remember, I remember talking with Igor Barinov in around 2018, where we were looking at how are we going to have a block explorer for Ethereum Classic and getting BlockScout up and so on. And he was talking to the EF at the time. They weren't running an archival node, they weren't running a block explorer, no public infrastructure or anything. So you're not even running one instance of an archival Geth node?
+**[1:41:01] Bob Summerwill:** I remember, I remember talking with Igor Barinov in around 2018, where we were looking at how are we going to have a block explorer for [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) and getting [BlockScout](https://www.blockscout.com/) up and so on. And he was talking to the EF at the time. They weren't running an archival node, they weren't running a block explorer, no public infrastructure or anything. So you're not even running one instance of an archival Geth node?
 
 **[1:41:33] Fabian Vogelsteller:** Are you kidding me? I mean, honestly? I mean, for example, in [LUKSO](https://lukso.network), we're not running a single validator node. We never have. I mean, it's literally run by people and it always has. They were started by people. We just told them, here's a smart contract, you can generate the initial validators from that because it's not a proof of stake, we agree on a date in the config file or when it starts. And then we just, fingers crossed, hope that the thing starts.
 
@@ -663,7 +671,7 @@ But in this case, you know, Emmett doesn't has. He has his own machine. You know
 
 **[1:54:32] Bob Summerwill:** Yeah, like you were saying with a lot of the newer people, you know, they just got no clue. It's like, oh, you know, [Vitalik](/people/vitalik-buterin), the boy genius invented it and like that's it.
 
-**[1:54:42] Fabian Vogelsteller:** And it got like this up and they don't know about Ethereum Classic to split the DAO, none of that stuff. And they don't know how that actually decentralized, that it actually grew. I mean, like, you know, people have no idea right there. It's so, it's, you do God's work here, you know, so it's important. So thank you for that.
+**[1:54:42] Fabian Vogelsteller:** And it got like this up and they don't know about [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) to split the DAO, none of that stuff. And they don't know how that actually decentralized, that it actually grew. I mean, like, you know, people have no idea right there. It's so, it's, you do God's work here, you know, so it's important. So thank you for that.
 
 **[1:55:01] Bob Summerwill:** Well, thank you. And I'm feeding the LLMs as well. I find when I do search for things, it's coming back here for source material.
 

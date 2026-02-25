@@ -48,6 +48,12 @@ Bob Summerwill noted the Geth team's focus:
 
 > "And then on Geth, on Jeff's side - but just doing Geth, right? It wasn't a broader thing. And that Geth team were working closer with Mist, with Fabian on Mist, for a good while." — Bob Summerwill
 
+Fabian Vogelsteller, hired by Jeff's team but sitting in the Berlin C++ office, described Jeff's approach to evaluating new hires. Jeff was skeptical of hiring a JavaScript developer and set what he expected to be an impossibly difficult first task:
+
+> "Jeffrey obviously really wanted to prove me, so he thought, okay, let me just throw a really complicated task at him and then he'll fail anyway and we can get over with this whole thing. So he said, okay, build a chat app for the Whisper protocol." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
+When Fabian built a working encrypted group chat app in time for the team's first in-person meeting in Amsterdam, Jeff was impressed and gave him the confidence to take on the [Mist](/articles/mist/) browser.
+
 ## The Red Wedding
 
 Jeff was one of the co-founders who remained after the June 2014 leadership restructuring known as the "[Red Wedding](/articles/red-wedding/)." He flew from Amsterdam to Zug for the pivotal meeting where Vitalik made decisions about the project's direction. Jeff was among those asked to continue—alongside Mihai, Gavin, Joe, and Anthony—while Charles Hoskinson and [Amir Chetrit](/people/amir-chetrit/) were removed.
@@ -88,6 +94,12 @@ When the first consensus bug occurred weeks after the July 2015 mainnet launch, 
 ## Legacy
 
 Jeff remained with the Ethereum Foundation through February 2017. The Go-Ethereum client he created became Ethereum's dominant implementation, powering the majority of the network. His pragmatic "just give me the spec, I'll code it" approach helped establish Ethereum's multi-client development culture.
+
+Fabian Vogelsteller recalled one of Jeff's early insights that proved prescient:
+
+> "Jeffrey told me, you guys should not expose the public key, the EOA to the user. You should use a smart contract account. And that stuck with me. And he was right." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
+This early advocacy for smart contract accounts anticipated what would later become account abstraction and influenced Fabian's work on [ERC-725](https://eips.ethereum.org/EIPS/eip-725) and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction).
 
 ## Primary Sources
 

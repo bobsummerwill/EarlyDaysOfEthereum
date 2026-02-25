@@ -53,6 +53,12 @@ Gavin documented Ethereum's unique development process in March 2015:
 
 > "There was always a fight between Geth and the C++ team about who's the best. And Gavin was having a big ego. And Jeff was more like, just give me the new spec, I just code it." — Christoph Jentzsch
 
+Fabian Vogelsteller, hired by Jeff's Amsterdam team but sitting in Gavin's Berlin C++ office, experienced the team dynamics firsthand:
+
+> "I also realized that Jeffrey's team and Gavin's team was a little disconnected... Gavin really wanted to kind of keep everybody under a bucket and he didn't want that we talked to this team. But I kind of found back ways and back channels to make them sync up." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
+Building the [Mist](/articles/mist/) browser required working across both client stacks, and Fabian found that getting the RPC API cleaned up before mainnet was "quite already like a little bit of an uphill battle."
+
 ## DEVCON0
 
 Gavin organized [DEVCON0](/articles/devcon0/), the first Ethereum developer symposium, held in Berlin in November 2014. His opening statement set the tone:
@@ -83,3 +89,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [DEVCON0 Recap](/articles/devcon-0-recap/)
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
+- [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller

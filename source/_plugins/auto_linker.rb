@@ -292,9 +292,9 @@ Jekyll::Hooks.register :site, :post_render do |site|
   Jekyll.logger.info 'AutoLinker:', 'Building backlinks...'
   EarlyDays::AutoLinker.build_backlinks(site)
   (site.pages + site.collections.values.flat_map(&:docs)).each do |doc|
-    if doc.output&.include?('{% include back-links.html %}')
+    if doc.output&.include?('<!-- BACKLINKS_PLACEHOLDER -->')
       h = EarlyDays::AutoLinker.render_backlinks(doc.url)
-      doc.output = doc.output.sub('{% include back-links.html %}', h) unless h.empty?
+      doc.output = doc.output.sub('<!-- BACKLINKS_PLACEHOLDER -->', h) unless h.empty?
     end
 
     # Final cleanup: remove any remaining placeholder markers

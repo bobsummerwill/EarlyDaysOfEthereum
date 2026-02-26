@@ -80,6 +80,12 @@ Bob created this project to preserve and document Ethereum's founding history—
 
 > "There is no canonical history of any of this. Like, how did Ethereum start? I mean, it's in people's heads - all secondhand stories that you hear from people that were around. But it's like, what's true, what isn't?"
 
-## Primary Source
+Fabian Vogelsteller called Bob "the archivist of Ethereum" and emphasized the importance of the work:
 
-This profile draws from [Bob Summerwill's Early Days of Ethereum interview](/videos/episode003-bob-summerwill/), where he discussed his journey into Ethereum, the C++ client development, The DAO hack, and the emergence of Ethereum Classic.
+> "You are the archivist of Ethereum and you really, with that, hold up the true story and the participants and the contributions and make that visible and transparent to people... Honestly, like the Ethereum Foundation should give you a little grant for that, for doing that work. Because honestly, like no one does it and it's such an important work for people later to understand." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
+## Primary Sources
+
+This profile draws from:
+- [Bob Summerwill's Early Days of Ethereum interview](/videos/episode003-bob-summerwill/), where he discussed his journey into Ethereum, the C++ client development, The DAO hack, and the emergence of Ethereum Classic
+- [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller

@@ -72,7 +72,7 @@ After leaving the Foundation, Bob became a bridge builder across the fragmented 
 
 On the relationship between Ethereum and Ethereum Classic:
 
-> "I think that was a real failing. Because it was a legitimate, irreconcilable difference. But it was made even worse by this '100 ETH' purity pledge combined again with all the money's gone... That disenfranchised a good chunk of people who had invested in the pre-sale, who'd been part of that community, who'd genuinely been actively involved for those first two years."
+> "I think that was a real failing. Because it was a legitimate, irreconcilable difference. But it was made even worse by this '100% ETH' purity pledge combined again with all the money's gone... That disenfranchised a good chunk of people who had invested in the pre-sale, who'd been part of that community, who'd genuinely been actively involved for those first two years."
 
 ## The Early Days of Ethereum Project
 

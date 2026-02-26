@@ -341,9 +341,9 @@ So yeah, you just got this sort of grassroots thing forming. You got volunteers 
 
 But it got quite bitter in the end, right? You've got a lot of people that were like, "You foundation, you guys just ruined the project." And you had people on the other side seeing ETC as really illegitimate. Saying, "Well look, it's just a money grab. You just want your free money. Why are these Bitcoiners kind of coming over? They weren't interested in Ethereum before and now they are. That's not good." And you did obviously have a bunch of speculators in there as well. So that's all a bit nasty too.
 
-But I think the thing that split those communities finally was this "100 ETH" meme. Which came about because somebody tweeted, "Hey [Vitalik](/people/vitalik-buterin/), I hear that you're working on Ethereum Classic, is there any truth to this?" And he said no, I'm only working on Ethereum. And the person then said, "Well what if ETC had more market cap than Ethereum?" And he said, "No, I still wouldn't work on it. 100 ETH."
+But I think the thing that split those communities finally was this "100% ETH" meme. Which came about because somebody tweeted, "Hey [Vitalik](/people/vitalik-buterin/), I hear that you're working on Ethereum Classic, is there any truth to this?" And he said no, I'm only working on Ethereum. And the person then said, "Well what if ETC had more market cap than Ethereum?" And he said, "No, I still wouldn't work on it. 100 ETH."
 
-Like he wasn't saying it in a purity pledge way - he was just, in the way he does, being just making a factual statement. But then I remember [Joe](/people/joe-lubin/) replied "I'm 100 ETH" and then it's like everyone's doing it, right? It's this purity pledge. Everyone is expected to pledge allegiance to ETH.
+Like he wasn't saying it in a purity pledge way - he was just, in the way he does, being just making a factual statement. But then I remember [Joe](/people/joe-lubin/) replied "I'm 100% ETH" and then it's like everyone's doing it, right? It's this purity pledge. Everyone is expected to pledge allegiance to ETH.
 
 So it became a "oh shit, is this an either-or?" Like you can't be in both. If you're interested in ETC then you're a dirty person. So I think that really wedged it, wedged it permanently apart at that point.
 
@@ -401,7 +401,7 @@ And there was something a little tiny bit like that with [Virgil](/people/virgil
 
 And Anthony invited me to Ethereum Classic Summit, which was in September 2018. So myself and [Virgil](/people/virgil-griffith/) went and spoke at that event. And around that time [Virgil](/people/virgil-griffith/) - they somehow found some ETC that the foundation still had. Generally they did a market dump at that time. But there was some stuff that they found - it's like 50 grand or something like that. And so we got that donated to the co-op, which was great. That was a really nice kind of thing.
 
-But it was kind of like, here's a little gesture. But really, I think that was a real failing. Because it was a legitimate, irreconcilable difference. But it was made even worse by this "100 ETH" purity pledge combined again with all the money's gone.
+But it was kind of like, here's a little gesture. But really, I think that was a real failing. Because it was a legitimate, irreconcilable difference. But it was made even worse by this "100% ETH" purity pledge combined again with all the money's gone.
 
 So you end up with a very small community of mainly people who are very ideologically outraged by it. If you've got speculative token holders, obviously they're going to stick with Ethereum. "What's this other thing? There's a new thing and there's nothing."
 

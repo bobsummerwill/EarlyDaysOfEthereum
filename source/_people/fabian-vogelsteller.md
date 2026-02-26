@@ -19,7 +19,7 @@ Before Ethereum, Fabian was a web developer based in Berlin. He built websites f
 
 > "What is this writing single page apps with Meteor. And what is a dapp? It's a single page app."
 
-He also built [Meteor Build Client](https://github.com/nichenqin/meteor-build-client), a tool that stripped out the server part of Meteor apps so they could run as local client-side applications—a precursor to how dapps work.
+He also built [Meteor Build Client](https://github.com/frozeman/meteor-build-client), a tool that stripped out the server part of Meteor apps so they could run as local client-side applications—a precursor to how dapps work.
 
 ## Discovering Bitcoin and Ethereum
 

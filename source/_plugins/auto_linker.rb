@@ -156,6 +156,11 @@ module EarlyDays
           p = "___PL#{lc}___"; link_placeholders << [p, m]; lc += 1; p
         end
 
+        # Step 5.5: Protect all remaining HTML tags so we don't replace inside attributes
+        content.gsub!(/<[^>]+>/) do |m|
+          p = "___PT#{counter}___"; protected << [p, m]; counter += 1; p
+        end
+
         # Step 6: Replace video+article tokens using batched patterns
         @va_patterns.each do |pattern|
           content.gsub!(pattern) do |m|

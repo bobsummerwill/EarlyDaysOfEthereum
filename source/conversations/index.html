@@ -70,7 +70,8 @@ title: Conversations
             
             {% if video.description %}
             <p class="video-description">
-                {% include auto_link.html content=video.description %}
+                {% assign description_html = video.description | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+                {% include auto_link.html content=description_html %}
             </p>
             {% else %}
             <p class="video-excerpt">

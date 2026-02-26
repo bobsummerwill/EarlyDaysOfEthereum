@@ -214,6 +214,7 @@ module EarlyDays
                       (doc.data['hosts'] || []).join(' '), (doc.data['guests'] || []).join(' ')].compact.join(' ').tr('"\'', '')
         ids[url] = { url_ns: url.chomp('/'), title: doc.data['title']&.tr('"\'', ''),
                      name: doc.data['name']&.tr('"\'', ''), aka: doc.data['alias']&.tr('"\'', ''),
+                     nickname: doc.data['nickname']&.tr('"\'', ''),
                      col: doc.collection.label }
       end
 
@@ -227,7 +228,8 @@ module EarlyDays
           ot = texts[other.url]
           next unless ot
           if ot.include?(my[:url_ns]) || (my[:title]&.length.to_i > 0 && ot.include?(my[:title])) ||
-             (my[:name]&.length.to_i > 0 && ot.include?(my[:name])) || (my[:aka]&.length.to_i > 0 && ot.include?(my[:aka]))
+             (my[:name]&.length.to_i > 0 && ot.include?(my[:name])) || (my[:aka]&.length.to_i > 0 && ot.include?(my[:aka])) ||
+             (my[:nickname]&.length.to_i > 0 && ot.include?(my[:nickname]))
             tgt = other.collection.label == 'people' ? :people : :content
             @backlinks[doc.url][tgt] << other unless @backlinks[doc.url][tgt].any? { |d| d.url == other.url }
           end
@@ -240,7 +242,8 @@ module EarlyDays
           oi = ids[other.url]
           next unless oi
           if (oi[:title]&.length.to_i > 0 && mt.include?(oi[:title])) ||
-             (oi[:name]&.length.to_i > 0 && mt.include?(oi[:name])) || (oi[:aka]&.length.to_i > 0 && mt.include?(oi[:aka]))
+             (oi[:name]&.length.to_i > 0 && mt.include?(oi[:name])) || (oi[:aka]&.length.to_i > 0 && mt.include?(oi[:aka])) ||
+             (oi[:nickname]&.length.to_i > 0 && mt.include?(oi[:nickname]))
             tgt = oi[:col] == 'people' ? :people : :content
             @backlinks[doc.url][tgt] << other unless @backlinks[doc.url][tgt].any? { |d| d.url == other.url }
           end

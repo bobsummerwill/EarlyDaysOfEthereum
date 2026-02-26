@@ -1,8 +1,9 @@
 ---
-name: Joseph C
+name: Joseph Chow
 photo: /images/archive.org/ethereum.org/20140701165441/chow-joseph.jpg
 start: Feb 2014
 devcon0: '1211'
+hidden: true
 social:
   github: https://github.com/ethers
 ---

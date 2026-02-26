@@ -4,7 +4,7 @@ date: 2026-02-25
 show: true
 guests: ["Fabian Vogelsteller"]
 hosts: ["Bob Summerwill"]
-description: "Fabian Vogelsteller joined the Ethereum Foundation in January 2015 and built the Mist browser, Ethereum Wallet, and authored the [ERC-20](https://eips.ethereum.org/EIPS/eip-20) token standard that enabled the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) boom. He discusses the early Berlin office culture, DEVCON1 and token standardization, maintaining [web3.js](https://github.com/ethereum/web3.js), and his eventual departure to build [LUKSO](https://lukso.network) and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) for mainstream adoption."
+description: "Fabian Vogelsteller joined the Ethereum Foundation in January 2015 and built the Mist browser, Ethereum Wallet, and authored the [ERC-20](https://eips.ethereum.org/EIPS/eip-20) token standard that enabled the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) boom. He discusses the early Berlin office culture, DEVCON1 and token standardization, maintaining [web3.js](https://github.com/ethereum/web3.js), and his eventual departure to build [LUKSO](https://lukso.network) and [Universal Profiles](https://universaleverything.io/) for mainstream adoption."
 img: /images/covers-for-conversations/episode012-fabian-vogelsteller.png
 embed:
   url: https://www.youtube.com/embed/QUs-USqEpac
@@ -44,9 +44,9 @@ table_of_contents:
   - link: "#leaving-ethereum-foundation"
     title: "Leaving the Ethereum Foundation"
   - link: "#building-universal-profiles"
-    title: "Building [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) and [LUKSO](https://lukso.network)"
+    title: "Building [Universal Profiles](https://universaleverything.io/) and [LUKSO](https://lukso.network)"
   - link: "#ai-agents-universal-profiles"
-    title: "AI Agents and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction)"
+    title: "AI Agents and [Universal Profiles](https://universaleverything.io/)"
   - link: "#gas-friction-problem"
     title: "The Gas Friction Problem"
   - link: "#hard-problems-developer-mindsets"
@@ -77,17 +77,27 @@ table_of_contents:
 
 **[00:18](https://www.youtube.com/watch?v=QUs-USqEpac&t=18s) Fabian Vogelsteller:** Like an F? The V is more like an F. But yes.
 
-**[00:22](https://www.youtube.com/watch?v=QUs-USqEpac&t=22s) Bob Summerwill:** Right, very Germanic pronunciation. That's not going to come out of my mouth. So yeah, you know, great, great to see you. We saw each other at DevConnect in November I think for the first time for quite a while and had a good catch up there. But hello.
+**[00:22](https://www.youtube.com/watch?v=QUs-USqEpac&t=22s) Bob Summerwill:** Right, very Germanic pronunciation. That's not going to come out of my mouth. So yeah, you know, great, great to see you. We saw each other at [Devconnect](https://devconnect.org/) in November I think for the first time for quite a while and had a good catch up there. But hello.
 
 **[00:47](https://www.youtube.com/watch?v=QUs-USqEpac&t=47s) Fabian Vogelsteller:** So hey, yeah.
 
 **[00:50](https://www.youtube.com/watch?v=QUs-USqEpac&t=50s) Bob Summerwill:** What were you doing prior to wandering into blockchain world?
 
-**[01:02](https://www.youtube.com/watch?v=QUs-USqEpac&t=62s) Fabian Vogelsteller:** So okay, let's start from the beginning. Okay, so what I was doing before blockchain, I was actually a web developer. So I started out as, I mean I build websites since I was 14. My [Feindura](https://web.archive.org/web/20141217063119/http://feindura.org/), the name that I have on Twitter is actually the name of the content management system that I built I think in 2005. And it just happened to be, you know, turning into my second identity. So I have two identities on the Internet. Frozeman and Feindura. It's all just connected to two things in GitHub. I'm Frozeman and that's also my GitHub history with Ethereum at [github.com/frozeman](https://github.com/frozeman) and so on. And Feindura is then my online one.
+**[01:02](https://www.youtube.com/watch?v=QUs-USqEpac&t=62s) Fabian Vogelsteller:** So okay, let's start from the beginning. Okay, so what I was doing before blockchain, I was actually a web developer. So I started out as, I mean I build websites since I was 14. My [Feindura](https://x.com/feindura), the name that I have on Twitter is actually the name of the [content management system](https://web.archive.org/web/20141217063119/http://feindura.org/) that I built I think in 2005. And it just happened to be, you know, turning into my second identity.
+
+{% include content-embed.html
+  url="https://github.com/frozeman/feindura-flat-file-cms"
+  title="Feindura Flat File CMS"
+  site="github.com"
+%}
+
+So I have two identities on the Internet. Frozeman and Feindura. It's all just connected to two things in GitHub. I'm Frozeman and that's also my GitHub history with Ethereum at [github.com/frozeman](https://github.com/frozeman) and so on. And Feindura is then my online one.
 
 ![Feindura CMS](/images/archive.org/feindura.org/slide1.png)
 
 Yeah, I mean I basically, you know, was always interested in the cutting edge of like the cool Internet stuff in the 90s, you know, building in the first 2000s my first websites or 1990, whatever, eight, nine, you know, following the whole evolution of the Internet with HTML, CSS, HTML1 and 2 and CSS1, 2 and JavaScript coming in and blah blah blah. So mainly did web development but I studied media design so I didn't study anything with coding. All the coding is autodidactically learned, so I haven't. Yeah, there's nothing that came from, from honestly even when I joined Ethereum I had no clue about bytes and how to manipulate bytes and stuff. Still don't have, actually I still don't know.
+
+![Frozeman Blog About](/images/web.archive.org/20140717080246/http-/frozeman.de/blog/about/frozeman-de-blog-about.jpg)
 
 **[02:40](https://www.youtube.com/watch?v=QUs-USqEpac&t=160s) Bob Summerwill:** Didn't have your computer science background. I don't have any computer science background.
 
@@ -97,9 +107,16 @@ Yeah, I mean I basically, you know, was always interested in the cutting edge of
 
 **[02:55](https://www.youtube.com/watch?v=QUs-USqEpac&t=175s) Bob Summerwill:** That's all you need. Things changed and you wrote a book.
 
-**[03:04](https://www.youtube.com/watch?v=QUs-USqEpac&t=184s) Fabian Vogelsteller:** I wrote a book about [Meteor.js](https://www.meteor.com). So I, yeah, I got really obviously into web development. I did a lot of websites and built a lot of things. I built my own content management system in PHP and I built a flat file based content management system. So that means that this doesn't need a database. The whole idea was, okay, I just want to have one of these FTP PHP ready servers and if I want to move my. It was literally all about the independence of hosting providers. Right? If I want to move from this hosting provider to the other. I mean back in the day migrating databases was a nightmare and probably still is a nightmare. Oh yeah, it was. Oh, if I build a flat file based thing, you just copy the whole folder structure over to the other server and it works. And it did. So that was what [Feindura.org](https://web.archive.org/web/20141217063119/http://feindura.org/) CMS does and did. I mean obviously who uses PHP today but Facebook does? No, but, but I mean, yeah, now I have a bunch of haters in the PHP community, but yeah, I mean so yeah, I built that thing and that was really like helping me like to kind of like do a full project front to end.
+**[03:04](https://www.youtube.com/watch?v=QUs-USqEpac&t=184s) Fabian Vogelsteller:** I wrote a book about [Meteor.js](https://www.meteor.com). So I, yeah, I got really obviously into web development. I did a lot of websites and built a lot of things. I built my own content management system in [PHP](https://www.php.net) and I built a flat file based content management system. So that means that this doesn't need a database. The whole idea was, okay, I just want to have one of these FTP [PHP](https://www.php.net) ready servers and if I want to move my. It was literally all about the independence of hosting providers. Right? If I want to move from this hosting provider to the other. I mean back in the day migrating databases was a nightmare and probably still is a nightmare. Oh yeah, it was. Oh, if I build a flat file based thing, you just copy the whole folder structure over to the other server and it works. And it did. So that was what [Feindura.org](https://web.archive.org/web/20141217063119/http://feindura.org/) CMS does and did. I mean obviously who uses [PHP](https://www.php.net) today but Facebook does? No, but, but I mean, yeah, now I have a bunch of haters in the [PHP](https://www.php.net) community, but yeah, I mean so yeah, I built that thing and that was really like helping me like to kind of like do a full project front to end.
 
 And then I got more into JavaScript and I got really excited by [Meteor.js](https://www.meteor.com), which was one of the first reactive JavaScript frameworks that was before [Angular](https://angular.io), before [React](https://react.dev) and it was the first time where you just could write like this JavaScript code and this HTML stuff and when you update stuff in the JavaScript or in your local state, like the HTML got rerendered natively. Super magic. So I got really into this and I wrote a book about it. I have it here. If you ever want to. I would never, I would never read a tutorial book to be honest. But I wrote one thing.
+
+{% include content-embed.html
+  url="https://www.packtpub.com/en-ca/product/building-single-page-web-apps-with-meteor-9781783988136"
+  img="/images/content.packt.com/image/original/B00438/cover_image.jpg"
+  title="Building Single-page Web Apps with Meteor"
+  site="packtpub.com"
+%}
 
 **[05:07](https://www.youtube.com/watch?v=QUs-USqEpac&t=307s) Bob Summerwill:** People even read books anymore.
 
@@ -107,13 +124,13 @@ And then I got more into JavaScript and I got really excited by [Meteor.js](http
 
 **[06:04](https://www.youtube.com/watch?v=QUs-USqEpac&t=364s) Bob Summerwill:** Right.
 
-**[06:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=365s) Fabian Vogelsteller:** But it's reputation and in a way I think that also what got me into Ethereum because, because what is this writing single page apps with Meteor. And what is a dapp? It's a single page app.
+**[06:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=365s) Fabian Vogelsteller:** But it's reputation and in a way I think that also what got me into Ethereum because, because what is this writing single page apps with [Meteor](https://www.meteor.com). And what is a dapp? It's a single page app.
 
 **[06:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=381s) Bob Summerwill:** It's.
 
-**[06:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=381s) Fabian Vogelsteller:** The whole point literally runs in your browser, doesn't require a backend. And I built actually a tool that allowed you to strip out the server part of the Meteor app so you can handle it as a local app. It's actually quite. It was quite a popular repository called Meteor Build Client. And yeah, that's what I used for dapps in the early days in Ethereum too.
+**[06:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=381s) Fabian Vogelsteller:** The whole point literally runs in your browser, doesn't require a backend. And I built actually a tool that allowed you to strip out the server part of the [Meteor](https://www.meteor.com) app so you can handle it as a local app. It's actually quite. It was quite a popular repository called Meteor Build Client. And yeah, that's what I used for dapps in the early days in Ethereum too.
 
-**[06:49](https://www.youtube.com/watch?v=QUs-USqEpac&t=409s) Bob Summerwill:** Is Meteor still an active project? Is anyone using Meteor too?
+**[06:49](https://www.youtube.com/watch?v=QUs-USqEpac&t=409s) Bob Summerwill:** Is [Meteor](https://www.meteor.com) still an active project? Is anyone using [Meteor](https://www.meteor.com) too?
 
 **[06:55](https://www.youtube.com/watch?v=QUs-USqEpac&t=415s) Fabian Vogelsteller:** Yeah, no, I totally think so. I think so, yeah. I mean, I don't know how frequent they are. Yeah, I haven't checked it out in a long time. No.
 
@@ -129,13 +146,22 @@ And then I got more into JavaScript and I got really excited by [Meteor.js](http
 
 <h3 id="discovering-bitcoin-ethereum">Discovering Bitcoin and Ethereum</h3>
 
-**[08:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=485s) Fabian Vogelsteller:** So, yeah, 2013, I heard about Canadian wants to sell house in Bitcoin. And I thought, okay, wow, what's that? Like somebody's selling a house in a currency I've never heard of. And that really led me very quickly down the rabbit hole of, of this was 2013, March. That was literally when Bitcoin hit 200 in that very same month. And number one, I saw, okay, there's money to be made here. And I was a student with no money. So, like, you know, trying, like, you have your hope. Okay, okay, maybe I can make a little bit of money on the side this way. But I really quickly understood the fundamental power of this technology. And it took me like about a year to really understand how it works fully. I mean, I literally had this epiphany every month that I thought, like, now I know how it works. Ah, it took me a year to really construe my brain, you know, no servers and frameworks, you know, and how this basic stuff works. And then the crypto blockchain stuff was just so out there in a way how this stuff works.
+**[08:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=485s) Fabian Vogelsteller:** So, yeah, 2013, I heard about Canadian wants to sell house in Bitcoin. And I thought, okay, wow, what's that? Like somebody's selling a house in a currency I've never heard of. And that really led me very quickly down the rabbit hole of, of this was 2013, March. That was literally when Bitcoin hit $200 in that very same month. And number one, I saw, okay, there's money to be made here. And I was a student with no money. So, like, you know, trying, like, you have your hope. Okay, okay, maybe I can make a little bit of money on the side this way. But I really quickly understood the fundamental power of this technology. And it took me like about a year to really understand how it works fully. I mean, I literally had this epiphany every month that I thought, like, now I know how it works. Ah, it took me a year to really construe my brain, you know, knowing servers and frameworks, you know, and how this basic stuff works. And then the crypto blockchain stuff was just so out there in a way how this stuff works.
 
-But yeah, so I was in the space and then in 2000 and obviously, you know, right after I joined the Bitcoin community, then there was the first altcoin [Litecoin](https://en.wikipedia.org/wiki/Litecoin). And then in 2013 there was a lot of like projects that were created trying to imitate Bitcoin or do an improvement or do alternate versions. I also got really into [Mastercoin](https://en.wikipedia.org/wiki/Omni_Layer), the idea of just writing onto the Bitcoin blockchain rather than creating a separate blockchain.
+{% include content-embed.html
+  url="https://www.bbc.com/news/technology-21863593"
+  img="/images/ichef.bbci.co.uk/ace/standard/240/mcs/media/images/66510000/jpg/66510282_house.jpg.webp"
+  title="Canadian sets home price in Bitcoin"
+  site="bbc.com"
+%}
+
+*(Bob - so Fabian said March 2013 in our interview, but his [original website](https://web.archive.org/web/20141128222255/http://frozeman.de/blog/2014/01/bitcoin-browser-wallet) says "I follow bitcoin since March 2012", so perhaps March 2012 was a more passive interest, and March 2013 was when he started to dive deeper?)*
+
+But yeah, so I was in the space and then in 2000-and obviously, you know, right after I joined the Bitcoin community, then there was the first altcoin [Litecoin](https://en.wikipedia.org/wiki/Litecoin). And then in 2013 there was a lot of like projects that were created trying to imitate Bitcoin or do an improvement or do alternate versions. I also got really into [Mastercoin](https://en.wikipedia.org/wiki/Omni_Layer), the idea of just writing onto the Bitcoin blockchain rather than creating a separate blockchain.
 
 **[09:52](https://www.youtube.com/watch?v=QUs-USqEpac&t=592s) Bob Summerwill:** Right. And you're in Berlin. Right. Were you going to meetups or like, did you find fellow.
 
-**[09:59](https://www.youtube.com/watch?v=QUs-USqEpac&t=599s) Fabian Vogelsteller:** It was just online. There were no meetups at the time, really. Like not in my region. So what actually happened in 2000? And so there were done later. 2014, there were then some meetups and so I heard about Ethereum. I really knew that. I just felt immediately that this is a really powerful approach, but it also sounded so unrealistic. So when I heard like this, this, I mean, I looked at the white paper. I never really read the Ethereum white paper actually ever fully. I just literally just like I skipped over it and I listened to [Vitalik](/people/vitalik-buterin) and I. Or like the early things that were floating around and I knew this is it. The idea of making this computation machine on the blockchain makes total sense. I just thought it's so hard to do. And I didn't really give it a lot of chances of that they pulled this off, but then they pulled it off pretty quickly and it just happened so that I was at a meetup in Berlin, a Bitcoin meetup, I think the first one I was ever at.
+**[09:59](https://www.youtube.com/watch?v=QUs-USqEpac&t=599s) Fabian Vogelsteller:** It was just online. There were no meetups at the time, really. Like not in my region. So what actually happened in 2000-and so there were done later. 2014, there were then some meetups and so I heard about Ethereum. I really knew that. I just felt immediately that this is a really powerful approach, but it also sounded so unrealistic. So when I heard like this, this, I mean, I looked at the White Paper. I never really read the Ethereum White Paper actually ever fully. I just literally just like I skipped over it and I listened to [Vitalik](/people/vitalik-buterin) and I. Or like the early things that were floating around and I knew this is it. The idea of making this computation machine on the blockchain makes total sense. I just thought it's so hard to do. And I didn't really give it a lot of chances of that they pulled this off, but then they pulled it off pretty quickly and it just happened so that I was at a meetup in Berlin, a Bitcoin meetup, I think the first one I was ever at.
 
 **[10:58](https://www.youtube.com/watch?v=QUs-USqEpac&t=658s) Bob Summerwill:** Right.
 
@@ -157,7 +183,7 @@ But yeah, so I was in the space and then in 2000 and obviously, you know, right 
 
 **[11:32](https://www.youtube.com/watch?v=QUs-USqEpac&t=692s) Fabian Vogelsteller:** And they told me that they are going to open an office in Berlin and that there's some kind of news coming out next week, but he can't tell me. And I was already following Ethereum. I was already waiting for the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering). And yeah, then it happened. So I took all my Bitcoin that I had at the time, which was 12 Bitcoins, converted them into Ether. I mean, people think like, oh my God, 12 Bitcoins but they were like 600 worth or whatever. It was like literally not much. I put them all into Ether or pretty much everything. And I knew this is going to be big. I felt it.
 
-And this was also the first time a project where I thought I would love to work for this project because it's not about finance, money and wallets because every Bitcoin startup at the time was just about creating a wallet and I was not really interested in creating wallets. And so it just happened that the same like six months later, you know, Bitcoin happened, [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) happened, attention came, blah, blah, blah. I just got an email from a recruiter saying the company Ethereum is looking for a C++ developer and I was not a C++ developer. Recruiters don't check anything on LinkedIn, I guess or GitHub. But I knew that they're now looking. So I went to their office and I just chatted with [Aeron](/people/aeron-buchanan) again and I saw that this office here, Waldemarstraße and I realized that okay, actually they really just thinking that they're going to build the nodes and then like people will build on top of the stack. And I just knew, you know, like I know how to build single page apps. This is what you need. I knew this is what they will need to make sure to show what a dapp can be and show how to. I just felt it and so I said like [Aeron](/people/aeron-buchanan) just, just can. I mean I showed him this as well and just ask around internally.
+And this was also the first time a project where I thought I would love to work for this project because it's not about finance, money and wallets because every Bitcoin startup at the time was just about creating a wallet and I was not really interested in creating wallets. And so it just happened that the same like six months later, you know, Bitcoin happened, [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) happened, attention came, blah, blah, blah. I just got an email from a recruiter saying the company Ethereum is looking for a C++ developer and I was not a C++ developer. Recruiters don't check anything on LinkedIn, I guess or GitHub. But I knew that they're now looking. So I went to their office and I just chatted with [Aeron](/people/aeron-buchanan) again and I saw that [this office here, Waldemarstraße](/articles/ethereum-dev-gmbh) and I realized that okay, actually they really just thinking that they're going to build the nodes and then like people will build on top of the stack. And I just knew, you know, like I know how to build single page apps. This is what you need. I knew this is what they will need to make sure to show what a dapp can be and show how to. I just felt it and so I said like [Aeron](/people/aeron-buchanan) just, just can. I mean I showed him this as well and just ask around internally.
 
 And they had one Skype group that was kind of like the Discord group at the time. Yeah, and funny enough, [Alex Van de Sande](/people/alex-van-de-sande) is the one who came on board as the UX designer also just a month before me. And he had this whole idea of creating this Mist browser concept and I think when [Alex](/people/alex-van-de-sande) heard about that there's this guy that came up here that can build single page apps, then [Alex](/people/alex-van-de-sande) thought, oh, that could be the person who can help with building the Mist browser. So he convinced [Jeff](/people/jeff-wilcke), I mean that's my assumption what happened? And he tried to call me up and I was in Turkey on holiday. So I didn't pick up the phone. And then when I came back I saw someone, he called me up and somehow I think I called him back or whatever and yeah, I said, hey, you want to work here? We want to do this and this and this was [Aeron](/people/aeron-buchanan).
 
@@ -175,23 +201,19 @@ So in Ethereum there was the Web3, right. The idea of Web3 was the network, stor
 
 **[15:59](https://www.youtube.com/watch?v=QUs-USqEpac&t=959s) Bob Summerwill:** Right. It's, it's kind of a bit of a joke that you've got, you've got both. And I was just looking. So it was November that [Alex](/people/alex-van-de-sande) had done his, you know, Mist concept presentation. So I guess that was really quite fresh. It's like, okay.
 
-**[16:18](https://www.youtube.com/watch?v=QUs-USqEpac&t=978s) Fabian Vogelsteller:** So he had the idea and then they were working on it already early December and I forgot his name. But the guy who, who the French guy who then worked on Remix. I'm sorry, I forgot.
+*(Bob: Alex Van de Sande presented his Mist browser concept just before DEVCON0 in November 2014)*
 
-*(Bob: Alex Van de Sande presented his Mist browser concept just before DEVCON 0 in November 2014)*
-
-{% include content-embed.html
-  src="https://www.youtube.com/embed/IgNjs_WaFSc"
-  title="Ethereum presents Mist - Alex Van de Sande"
-  site="https://www.youtube.com/@EthereumProtocol"
-  author="Ethereum"
-  date="November 12, 2014"
+{% include video-embed.html
+  name="Ethereum presents Mist"
 %}
+
+**[16:18](https://www.youtube.com/watch?v=QUs-USqEpac&t=978s) Fabian Vogelsteller:** So he had the idea and then they were working on it already early December and I forgot his name. But the guy who, who the French guy who then worked on Remix. I'm sorry, I forgot.
 
 **[16:31](https://www.youtube.com/watch?v=QUs-USqEpac&t=991s) Bob Summerwill:** [Yann Levreau](/people/yann-levreau).
 
 **[16:33](https://www.youtube.com/watch?v=QUs-USqEpac&t=993s) Fabian Vogelsteller:** Exactly. So [Yann](/people/yann-levreau) actually built, he built an early version of the Mist browser, but in I think in C++ or something like this and browser, I think there.
 
-**[16:45](https://www.youtube.com/watch?v=QUs-USqEpac&t=1005s) Bob Summerwill:** Was one called AlethBrowser.
+**[16:45](https://www.youtube.com/watch?v=QUs-USqEpac&t=1005s) Bob Summerwill:** Was one called EthBrowser.
 
 **[16:46](https://www.youtube.com/watch?v=QUs-USqEpac&t=1006s) Fabian Vogelsteller:** Maybe it was really early, early kind of Mist. It was barely working and obviously the whole idea connection stuff was not figured out properly yet. And they just really realized quickly that this is not the way to go. And that's why maybe [Alex](/people/alex-van-de-sande) saw an opportunity here with this JavaScript dude showing up with the single page app book or whatever.
 
@@ -199,7 +221,16 @@ So in Ethereum there was the Web3, right. The idea of Web3 was the network, stor
 
 **[17:16](https://www.youtube.com/watch?v=QUs-USqEpac&t=1036s) Fabian Vogelsteller:** Maybe AlethZero was the was and.
 
-**[17:18](https://www.youtube.com/watch?v=QUs-USqEpac&t=1038s) Bob Summerwill:** That was like a really like really ugly programmer tool. Kind of like million control.
+**[17:18](https://www.youtube.com/watch?v=QUs-USqEpac&t=1038s) Bob Summerwill:** That was like a really like really ugly programmer tool. Kind of like a million controls.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/vXGH6q43i_k"
+  title="Joel's First Time Using the Ethereum AlethZero Client"
+  site="https://www.youtube.com"
+  author="EtherCasts"
+  date="March 28, 2014"
+  description="Joel Dietz and Joris Bontje explore the AlethZero Ethereum Client (C++ Proof of Concept v3.11)."
+%}
 
 **[17:25](https://www.youtube.com/watch?v=QUs-USqEpac&t=1045s) Fabian Vogelsteller:** Yeah, I think AlethZero was that early Mist browser. Exactly. Yeah, yeah. Anyway, so [Jeffrey](/people/jeff-wilcke) said, hey, let the guy build a chat app in the Whisper protocol. I got dropped into this novel tech, no documentation, no idea how the shit works, and I was supposed to build a whole chat app using this protocol and that was crazy. But because I really knew how to build single page apps that are reactive and I could work with [Yann](/people/yann-levreau) actually on, you know, he gave me just the endpoints that I need to use to get the account and to do the sending the messages and stuff like this, I pulled it off and built like a chat app.
 
@@ -229,7 +260,16 @@ So I was in at the same time as the only person. So I was the connector, you kno
 
 <h3 id="first-dapp-cross-client">First Dapp and Cross-Client Development</h3>
 
-**[23:36](https://www.youtube.com/watch?v=QUs-USqEpac&t=1416s) Bob Summerwill:** Yeah, I mean I was just looking at the timeline. So September 16th, 2015 is when the first developer preview of Mist went live. I mean saying about with those, with the two teams, I mean I guess you were sort of in the position of being the very first person like building one layer up, you know, I guess all of the prior efforts were just about the clients and you know, and making features available on the clients but not really building things on top of. And specifically not building things on top to try and be able to work with either. So those interface issues and I mean.
+**[23:36](https://www.youtube.com/watch?v=QUs-USqEpac&t=1416s) Bob Summerwill:** Yeah, I mean I was just looking at the timeline. So September 16th, 2015 is when the [first developer preview of Mist went live](https://github.com/ethereum/mist/releases/tag/0.2.6). I mean saying about with those, with the two teams, I mean I guess you were sort of in the position of being the very first person like building one layer up, you know, I guess all of the prior efforts were just about the clients and you know, and making features available on the clients but not really building things on top of. And specifically not building things on top to try and be able to work with either. So those interface issues and I mean.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/YX-7bScTGDE"
+  title="Ethereum Mist Wallet Demonstration"
+  site="https://www.youtube.com"
+  author="Armando Votan"
+  date="February 9, 2016"
+  description="Take you on a tour of the Ethereum Mist Wallet. Watch a transaction arrive, see the Smart Contract Platform, Multisignature Account Features, Tokens like VUNK...it's basically a decentralized financial node."
+%}
 
 **[24:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=1461s) Fabian Vogelsteller:** To be fair, the first dapps probably were built by [Gavin](/people/gavin-wood) and [Jeffrey](/people/jeff-wilcke) but they used all the clunky half-ass stuff.
 
@@ -243,7 +283,13 @@ So I was in at the same time as the only person. So I was the connector, you kno
 
 **[25:11](https://www.youtube.com/watch?v=QUs-USqEpac&t=1511s) Bob Summerwill:** Yes, right. I mean and looking through old videos. There was one which I think was a talk in London where both [Jeff](/people/jeff-wilcke) and Gav were sort of talking about the state of Ethereum and demonstrating some things. So this was October 2014 and one of the demos that they had was one of probably the first onchain DEXs. So they were. You'd got GavCoin and JeffCoin, you know, this is prior to any standards I guess and GavCoin was written in LLL and JeffCoin was written in Mutan. But they did do an you know an onchain DEX order book thing and so putting a transaction for an offer like CPU mining, picking that up, you had got that interop and I guess maybe some of the Whisper stuff was maybe kind of cross client, but the UI layer.
 
+{% include video-embed.html
+  name="The future of Ethereum: \"DEV and Beyond\""
+%}
+
 **[26:22](https://www.youtube.com/watch?v=QUs-USqEpac&t=1582s) Fabian Vogelsteller:** So for the chat app I mainly used the Go client because the Whisper thing on the C++ was not fully integrated or working. The initial idea was that the Ethereum client will host all three things. Swarm, Whisper and the network. Yeah, obviously that Swarm never really worked in there and, or, and neither Whisper, which then later what got overtaken and supported by [Status](https://status.im/) and now it's transferred into a whole different protocol.
+
+![Web3 Architecture Diagram](/images/x.com/2026.01.26/ChrJentzsch/1828354675474575561/web3-diagram.jpg)
 
 Yeah, it's interesting. I mean this was really like foundational times and I think what people really like often misunderstand is how much number one, Ethereum was generic from day one. Number two, how many ideas were already present. If you watch the Mist browser video from [Alex](/people/alex-van-de-sande), like we haven't even built half of this stuff that's in that video and in fact a lot of these foundations are missing. And for example now I'm working on universal profiles across smart contract system and that's even in the video already in there. Like you don't see wallets, you see profiles, you see people doing stuff. And only now, literally 10 plus years later, we now have the foundation and it's not even widely used yet. That even makes that Mist video more realistic.
 
@@ -255,19 +301,27 @@ And yeah, [Alex](/people/alex-van-de-sande) came up with all of these ideas. Thi
 
 **[28:56](https://www.youtube.com/watch?v=QUs-USqEpac&t=1736s) Fabian Vogelsteller:** Yeah.
 
-**[28:58](https://www.youtube.com/watch?v=QUs-USqEpac&t=1738s) Bob Summerwill:** Come back together or even, you know, prior to Bitcoin, you know, because Bitcoin itself was just sort of a manifestation of digital cash streams that had gone back for decades with the [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk). And then you'd got things like [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent). You know, you did have decentralized messaging things.
+**[28:58](https://www.youtube.com/watch?v=QUs-USqEpac&t=1738s) Bob Summerwill:** Come back together or even, you know, prior to Bitcoin, you know, because Bitcoin itself was just sort of a manifestation of digital cash dreams that had gone back for decades with the [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk). And then you'd got things like [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent). You know, you did have decentralized messaging things.
 
-**[29:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=1761s) Fabian Vogelsteller:** And so on. Yes, I mean like, I mean I was yeah, it's, it's basically, it's interesting. Back in the day was all Reddit, right? Bitcoin, like all, like today it's Crypto Twitter, back in the day was Bitcoin Reddit or Reddit r/Bitcoin. And Ethereum was their first kind of real challenger to the status quo. And it split the community into the Bitcoin maximalists, the camp that says, no, we only need Bitcoin, why the heck you want any other chain? And then the people. And even in my friends circled and friends developers, some literally never made the move. They never looked into Ethereum stack just because they felt that, what do you care? Bitcoin is all you need.
+**[29:21](https://www.youtube.com/watch?v=QUs-USqEpac&t=1761s) Fabian Vogelsteller:** And so on. Yes, I mean like, I mean I was yeah, it's, it's basically, it's interesting. Back in the day was all Reddit, right? Bitcoin, like all, like today it's Crypto Twitter, back in the day was Bitcoin Reddit or Reddit [r/Bitcoin](https://reddit.com/r/bitcoin). And Ethereum was their first kind of real challenger to the status quo. And it split the community into the Bitcoin maximalists, the camp that says, no, we only need Bitcoin, why the heck you want any other chain? And then the people. And even in my friends circled and friends developers, some literally never made the move. They never looked into Ethereum stack just because they felt that, what do you care? Bitcoin is all you need.
 
 And I just visited a Bitcoin meetup recently and I was so taken back because it was like walking into like, you know, some kind of like a time portal back into the time 10 years back, same discussions, same problems, same people, same size of groups and you're suddenly back in some kind of time capsule of the past where the topics they talk about is just like, you know, minor this, minor that, and basic stuff that has been figured out like a hundred times already on Ethereum, like being full impressive discussions here and very few developers, which is also very impressive. Like how such a network that has so much attention, so much money in it, literally just developed by 100 people and maybe not even.
 
-**[31:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=1865s) Bob Summerwill:** Well, I mean, speaking for myself, you know, I was aware of Bitcoin for a good number of years before I had sort of any involvement in the crypto space. But there were sort of two reasons, I guess I wasn't interested, or maybe three, which was, firstly, I was a gold bug and I was a software engineer and I know how terrible most software is. So like some dude you've never heard of has made like magic Internet money. Like, come on. But I think more importantly, it was just kind of boring to me because, okay, you can do payments. Okay, well, there you go. Well, that's not very interesting versus here's a platform and you can build apps. That was like, oh, that's kind of interesting. And you know, maybe you had a fairly similar.
+**[31:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=1865s) Bob Summerwill:** Well, I mean, speaking for myself, you know, I was aware of Bitcoin for a good number of years before I had sort of any involvement in the crypto space. But there were sort of two reasons, I guess I wasn't interested, or maybe three, which was, firstly, I was a gold bug and I was a software engineer and I know how terrible most software is. So like some dude you've never heard of has made like magic Internet money. Like, come on! But I think more importantly, it was just kind of boring to me because, okay, you can do payments. Okay, well, there you go. Well, that's not very interesting versus here's a platform and you can build apps. That was like, oh, that's kind of interesting. And you know, maybe you had a fairly similar.
 
 **[31:49](https://www.youtube.com/watch?v=QUs-USqEpac&t=1909s) Fabian Vogelsteller:** Yeah, I mean, for me the money part was. I mean, obviously it's cool, like to invest in something that like, you know, feels is going up and it makes the money. And obviously I had no money as a student here. My parents are not rich or anything, but it's just like, it was just so powerful. The idea that there is a technology that you can no one can control that sits above the law, that sits above the influence of humans. Because you can't break a system that's based on consensus. And like a Hydra has 100,000 heads. And it's just. Oh, it's just really. It was fascinating. Yeah, no, I was really. Yeah. I mean I'm still am, you know, here I am building still on this stack, super pumped about the next phase of this whole technology. But I just never thought it would take that long, to be honest.
 
 **[32:52](https://www.youtube.com/watch?v=QUs-USqEpac&t=1972s) Bob Summerwill:** No, no. So I mean you were working from the Berlin office, but presumably you, you know, you were back and forth to Amsterdam sometimes, rarely.
 
-**[33:01](https://www.youtube.com/watch?v=QUs-USqEpac&t=1981s) Fabian Vogelsteller:** I mean the Amsterdam office we were there maybe like twice or so like on the end. The Amsterdam office was really more like a legal hub and there was obviously [Jeffrey](/people/jeff-wilcke) and the operations personal assistant that he had and like we were all over the place. So I worked with [Alex](/people/alex-van-de-sande) mainly who was literally three to or five hours ahead behind in Brazil. In Rio later we hired multiple people. We hired another person from Rio actually. Right. Two other person from Rio. At some point we were three people in the team. Four people in the team. Even if I remember at the peak. But then I also worked on [Web3.js](https://github.com/ethereum/web3.js) so I worked with [Marek](/people/marek-kotewicz) closely, was in the Berlin office. I talked and worked with [Christian](/people/christian-reitwiessner) a lot who worked on Solidity was also in the Berlin office. And obviously [Yann](/people/yann-levreau) and the other girl that worked on the Remix, [Liana Husikyan](/people/liana-husikyan) was sitting across me in the Berlin office. [Christoph Jentzsch](/people/christoph-jentzsch) came to the Berlin office frequently. So. Oh guy. Right. But he was more like hired as a kind of contractor to do testing, testing scenarios for the nodes. So he wrote all these kind of tests to test all kind of inputs and outputs of or whatever node behavior. I don't remember exactly.
+**[33:01](https://www.youtube.com/watch?v=QUs-USqEpac&t=1981s) Fabian Vogelsteller:** I mean the Amsterdam office we were there maybe like twice or so like on the end. The Amsterdam office was really more like a legal hub and there was obviously [Jeffrey](/people/jeff-wilcke) and the operations personal assistant that he had and like we were all over the place. So I worked with [Alex](/people/alex-van-de-sande) mainly who was literally three to or five hours ahead behind in Brazil. In Rio later we hired multiple people. We hired another person from Rio actually. Right. Two other person from Rio. At some point we were three people in the team. Four people in the team. Even if I remember at the peak.
+
+{% include twitter-embed.html
+  url="https://twitter.com/avsa/status/1960004092480180285"
+%}
+
+*(Bob - see the Mist page for more information on the team)*
+
+But then I also worked on [Web3.js](https://github.com/ethereum/web3.js) so I worked with [Marek](/people/marek-kotewicz) closely, was in the Berlin office. I talked and worked with [Christian](/people/christian-reitwiessner) a lot who worked on Solidity was also in the Berlin office. And obviously [Yann](/people/yann-levreau) and the other girl that worked on the Remix, [Liana Husikyan](/people/liana-husikyan) was sitting across me in the Berlin office. [Christoph Jentzsch](/people/christoph-jentzsch) came to the Berlin office frequently. So. Oh guy. Right. But he was more like hired as a kind of contractor to do testing, testing scenarios for the nodes. So he wrote all these kind of tests to test all kind of inputs and outputs of or whatever node behavior. I don't remember exactly.
 
 **[34:24](https://www.youtube.com/watch?v=QUs-USqEpac&t=2064s) Bob Summerwill:** Yeah.
 
@@ -275,9 +329,13 @@ And I just visited a Bitcoin meetup recently and I was so taken back because it 
 
 <h3 id="devcon1-token-standardization">DEVCON1 and Token Standardization</h3>
 
-**[36:04](https://www.youtube.com/watch?v=QUs-USqEpac&t=2164s) Bob Summerwill:** Right, right. So you missed out on DEVCON 0 because you started just after that. But you will have been to London for DEVCON1 in November of 2015 then?
+**[36:04](https://www.youtube.com/watch?v=QUs-USqEpac&t=2164s) Bob Summerwill:** Right, right. So you missed out on DEVCON0 because you started just after that. But you will have been to London for DEVCON1 in November of 2015 then?
 
 **[36:25](https://www.youtube.com/watch?v=QUs-USqEpac&t=2185s) Fabian Vogelsteller:** Yeah, I was.
+
+**[36:26](https://www.youtube.com/watch?v=QUs-USqEpac&t=2186s) Bob Summerwill:** Token standards were just kind of beginning. The [EIP process](https://eips.ethereum.org/) was just starting. So I mean I guess that's sort of like phase two, right? Is your first one is building a thing and touching everything and then you're starting to get up to that onchain token layers. How did all that kind of grew up.
+
+**[36:51](https://www.youtube.com/watch?v=QUs-USqEpac&t=2211s) Fabian Vogelsteller:** So I mean the whole standardization for me started when [Vitalik](/people/vitalik-buterin) created the GitHub Wiki page because he wanted to standardize tokens, [ENS](https://ens.domains) kind of registry and maybe an early version of a DEX, I don't remember. And he just like we had some discussion around the GitHub page, literally a GitHub Docs page. And he made the early version of [ERC-20](https://eips.ethereum.org/EIPS/eip-20) and we debated a little bit on there on mainly like you know, Skype and some comments on this page.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/Ij5tGo8cp80"
@@ -286,10 +344,6 @@ And I just visited a Bitcoin meetup recently and I was so taken back because it 
   author="Ethereum"
   date="November 10, 2015"
 %}
-
-**[36:26](https://www.youtube.com/watch?v=QUs-USqEpac&t=2186s) Bob Summerwill:** Token standards were just kind of beginning. The EIP process was just starting. So I mean I guess that's sort of like phase two, right? Is your first one is building a thing and touching everything and then you're starting to get up to that onchain token layers. How did all that kind of grew up.
-
-**[36:51](https://www.youtube.com/watch?v=QUs-USqEpac&t=2211s) Fabian Vogelsteller:** So I mean the whole standardization for me started when [Vitalik](/people/vitalik-buterin) created the GitHub Wiki page because he wanted to standardize tokens, [ENS](https://ens.domains) kind of registry and maybe an early version of a DEX, I don't remember. And he just like we had some discussion around the GitHub page, literally a GitHub Docs page. And he made the early version of [ERC-20](https://eips.ethereum.org/EIPS/eip-20) and we debated a little bit on there on mainly like you know, Skype and some comments on this page.
 
 And then yes, and then London happened and so what happened is it's actually funny because there was this, there was a panel, the panel about standardization. So I presented a lot of things there. I presented the Mist browser. Yeah, I think I presented the Mist browser, maybe something else. But I was also on this panel about standardization and fun fact, we discussed, I watched it the other day and we discussed, you know, standards like. And there was two main discussions. Oh, should we put metadata into the contract directly in this case the idea was do we put the metadata of a token like token name and symbol into the contract or do we create a registry for it?
 
@@ -309,15 +363,34 @@ And then yes, and then London happened and so what happened is it's actually fun
 
 So but in this conversation, [Martin Becze](/people/martin-becze) before created the EIP repository and I think [Gavin](/people/gavin-wood) or whatever mentioned like where do we do the standardization? And I think he mentioned in that very thing, yeah, we have the EIP repository. That would be the right place. And I think that inspired me in this moment, like, oh yeah, actually we could put it there. So that's when I then created this, the issue number 20.
 
-*(Bob: Fabian created [EIP-20](https://github.com/ethereum/EIPs/issues/20) on November 19, 2015, which became the ERC-20 token standard)* And I think I recall the Ethereum Request for Comment because of the request for comment thing. You know, I came up with the name by myself or whoever came up with the name. But I created the issue and I formatted this whole discussion that we had there like a current version in a proper specification because I felt number one, we need to involve the community. Like if you want to have a consensus around the token standard, right everybody needs to listen and have at least an insight. And second, it needs to be in a structured way where not everybody like randomly edits like this file. This is actually the second comment that [Gavin](/people/gavin-wood) made. Funny enough, editing we all laughed about editing was on that one wiki file.
+*(Bob: Fabian created [EIP-20](https://github.com/ethereum/EIPs/issues/20) on November 19, 2015, which became the ERC-20 token standard)*
+
+And I think I recall the Ethereum Request for Comment because of the request for comment thing. You know, I came up with the name by myself or whoever came up with the name. But I created the issue and I formatted this whole discussion that we had there like a current version in a proper specification because I felt number one, we need to involve the community. Like if you want to have a consensus around the token standard, right everybody needs to listen and have at least an insight. And second, it needs to be in a structured way where not everybody like randomly edits like this file. This is actually the second comment that [Gavin](/people/gavin-wood) made. Funny enough, editing we all laughed about editing was on that one wiki file.
 
 Yeah, in a way like I then structured the process through that and incredible. [ERC-20](https://eips.ethereum.org/EIPS/eip-20) as a proposal I made a few changes that it's like just like some file, like some turning around like the transfer function, what's first value, blah blah blah or amount or whatever. And then we had a discussion, but we didn't really change much anymore. And yeah, so we discussed there around 60 people in total, 300 comments. But pretty much after quite a while already everybody kind of felt more or less that this makes sense.
 
-The big discussions was around authorized operator or not, should we have it or not. I was kind of against it. So fun fact, when I created the first test coin, the Mist coin that I used then to test in the Mist browser, the authorized operator functions because I didn't like it. I really like more the idea of informing recipients. But it was also too early to do that because we had no idea of the side effects of that. In my test coin, I just didn't add the authorized operator. I didn't see a need for fun fact. Later people picked up the Mist coin like as a collectible meme token collectible coin. And because it was a real [ERC-20](https://eips.ethereum.org/EIPS/eip-20) but because it doesn't have the authorized operator function, it didn't work in [Uniswap](https://uniswap.org). So they wrapped it. And that's why it's now wrapped Mist Coin, which is the wrap real Mist Coin inside a token that has the function to interact with DEX.
+The big discussions was around authorized operator or not, should we have it or not. I was kind of against it. So fun fact, when I created the first test coin, the Mist Coin that I used then to test in the Mist browser, the authorized operator functions because I didn't like it. I really like more the idea of informing recipients. But it was also too early to do that because we had no idea of the side effects of that. In my test coin, I just didn't add the authorized operator. I didn't see a need for fun fact. Later people picked up the Mist Coin like as a collectible meme token collectible coin. And because it was a real [ERC-20](https://eips.ethereum.org/EIPS/eip-20) but because it doesn't have the authorized operator function, it didn't work in [Uniswap](https://uniswap.org). So they wrapped it. And that's why it's now wrapped Mist Coin, which is the wrap real Mist Coin inside a token that has the function to interact with DEX.
 
-But this was just a test token. It was never meant to. I just over the years gave a bunch of those to random people who asked me until like a whole group of people like really wanted to make this valuable. And now it's traded. I mean now it has a market cap and people trade it and is what it is. I mean it's the first [ERC-20](https://eips.ethereum.org/EIPS/eip-20). I mean it's not the first first. I think there was a preliminary version that [Vitalik](/people/vitalik-buterin) built before that that was. Yeah. Not very functional or standardized. And this was like the first one that kind of fit the spec except the operator stuff.
+{% include twitter-embed.html
+  url="https://x.com/MistCoinEth/status/2021701424413872451"
+%}
 
-**[42:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=2562s) Bob Summerwill:** There's. So there's a deployment of that out which was launched I believe by R. Ficcy based on that on [Vitalik](/people/vitalik-buterin)'s, you know, repo or what have you there. That's called CurrencyCoin is what that one is called. But again another. They call these relic tokens. Relic coins. Yes.
+But this was just a test token. It was never meant to. I just over the years gave a bunch of those to random people who asked me until like a whole group of people like really wanted to make this valuable. And now it's traded. I mean now it has a market cap and people trade it and is what it is.
+
+{% include content-embed.html
+  url="https://app.uniswap.org/explore/tokens/ethereum/0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79"
+  img="/images/app.uniswap.org/explore/tokens/ethereum/0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79/Screenshot 2026-02-25 at 14-26-20 Wrapped MistCoin (WMC) Buy and sell on Uniswap.png"
+  title="Wrapped Mist Coin (WMC)"
+  site="app.uniswap.org"
+%}
+
+I mean it's the first [ERC-20](https://eips.ethereum.org/EIPS/eip-20). I mean it's not the first first. I think there was a preliminary version that [Vitalik](/people/vitalik-buterin) built before that that was. Yeah. Not very functional or standardized. And this was like the first one that kind of fit the spec except the operator stuff.
+
+**[42:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=2562s) Bob Summerwill:** There's. So there's a deployment of that out which was launched I believe by [rfikki](https://github.com/rfikki) based on that on [Vitalik](/people/vitalik-buterin)'s, you know, repo or what have you there. That's called CurrencyCoin is what that one is called. But again another. They call these relic tokens. Relic coins. Yes.
+
+{% include twitter-embed.html
+  url="https://x.com/currencycoineth/status/1985064135168549291"
+%}
 
 **[43:12](https://www.youtube.com/watch?v=QUs-USqEpac&t=2592s) Fabian Vogelsteller:** You know, like.
 
@@ -353,31 +426,69 @@ But this was just a test token. It was never meant to. I just over the years gav
 
 <h3 id="DEVCON-memories-recognition">DEVCON Memories and Recognition</h3>
 
-**[48:35](https://www.youtube.com/watch?v=QUs-USqEpac&t=2915s) Bob Summerwill:** So, I mean, DEVCON1, I think, was quite seminal in terms of, like, bringing together like most people for the first time in the DEVCON 0 being this internal event. But, you know, DEVCON1 was. It was like the first public Ethereum conference. I sadly did not get to go. I could not afford to go.
+**[48:35](https://www.youtube.com/watch?v=QUs-USqEpac&t=2915s) Bob Summerwill:** So, I mean, DEVCON1, I think, was quite seminal in terms of, like, bringing together like most people for the first time in the DEVCON0 being this internal event. But, you know, DEVCON1 was. It was like the first public Ethereum conference. I sadly did not get to go. I could not afford to go.
 
 **[48:57](https://www.youtube.com/watch?v=QUs-USqEpac&t=2937s) Fabian Vogelsteller:** But.
 
 **[48:57](https://www.youtube.com/watch?v=QUs-USqEpac&t=2937s) Bob Summerwill:** But what are your memories at that time? I mean, you must have seen so many things and so many people and.
 
-**[49:03](https://www.youtube.com/watch?v=QUs-USqEpac&t=2943s) Fabian Vogelsteller:** Yeah, so I have actually been in. And I think I have been in every DEVCON so far except zero, which was only 20 people in Berlin. And I was not at the DevConnect in Istanbul.
+**[49:03](https://www.youtube.com/watch?v=QUs-USqEpac&t=2943s) Fabian Vogelsteller:** Yeah, so I have actually been in. And I think I have been in every DEVCON so far except DEVCON0, which was only 20 people in Berlin. And I was not at the [Devconnect](https://devconnect.org/) in Istanbul.
 
 **[49:16](https://www.youtube.com/watch?v=QUs-USqEpac&t=2956s) Bob Summerwill:** Right.
 
-**[49:17](https://www.youtube.com/watch?v=QUs-USqEpac&t=2957s) Fabian Vogelsteller:** Apart from that, I was at every DEVCON. I was always speaking at the first few DevCons. But then the moment I was not at the foundation anymore and doing another blockchain, then you're like, oh, outcast. You know, and yeah, it's, yeah, it is what it is. So even though the tech I'm building now and the tech I've been also building over the years is extremely relevant to Ethereum, the ecosystem as well, but somehow also the people who picked them, the talks and so on in the later years, they are fresh. Some of them literally don't even know the history. So that's why actually the work that you're doing is really important because you are the archivist of Ethereum and you really, with that hold up the truth story and the participants and the contributions and make that visible and transparent to people.
+**[49:17](https://www.youtube.com/watch?v=QUs-USqEpac&t=2957s) Fabian Vogelsteller:** Apart from that, I was at every DEVCON. I was always speaking at the first few DEVCONs.
 
-Because I have talked to so many people and they have barely any idea of how Ethereum came to be, who contributed, who did what. It's like completely unknown. People just came in in 2017 for ICOs, 2020 for ICOs and [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance), 2022 for [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token). And for them Ethereum is just one chain. There's all the other chains and they do AMAs and Ethereum doesn't do AMAs. And it's all a big show, honestly. So it's good that the work that you're doing, like kind of a. Because. And there's so many contributors that have not gotten the recognition that they deserve. For example, in my opinion, it's a great example. That dude literally built the, and is building still the communication layer of the Ethereum network and how the nodes talk to each other. And he has done that without frame or attention for years and.
+{% include content-embed.html
+  src="https://www.youtube.com/embed/UI6dBX3ydrE"
+  title="The new Web3.js - Fabian Vogelsteller"
+  site="https://www.youtube.com"
+  author="Ethereum Foundation"
+  date="November 2, 2016"
+  description="Fabian Vogelsteller gives their talk on the new Web3.js. Speaker(s): Fabian Vogelsteller. Skill level: Advanced. Track: Developer Infrastructure. Keywords: json, rpc, translate, code, abi, javascript, socket, filter, subscriptions, calling."
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/Ckv9XMi_EWs"
+  title="[Day 1] - Welcome & Team Introduction"
+  site="https://www.youtube.com"
+  author="Ethereum Foundation"
+  date="November 1, 2017"
+  description="Ethereum Foundation ED, Ming Chan introduces Ethereum team leads, who give a brief summary of the projects and efforts they work on. Speaker(s): Ming Chan, Vitalik Buterin, Dr. Christian Reitwiessner, Peter Szilagyi, Fabian Vogelsteller, Viktor Tron. Skill level: Beginner. Track: Devcon."
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/pkwYVagytuA"
+  title="ERC Identity"
+  site="https://www.youtube.com"
+  author="Ethereum Foundation"
+  date="November 1, 2017"
+  description="Fabian Vogelsteller (author of ERC20) will be talking about his new work on standard functions for a unique identity for humans and machines. Speaker(s): Fabian Vogelsteller. Skill level: Intermediate. Track: Developer Infrastructure."
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/92pdrRH_VGA"
+  title="Web3.js 1.0"
+  site="https://www.youtube.com"
+  author="Ethereum Foundation"
+  date="November 3, 2017"
+  description="Fabian Vogelsteller gives their talk titled, \"Web3.js 1.0\". Speaker(s): Fabian Vogelsteller. Skill level: Intermediate. Track: Developer Infrastructure."
+%}
+
+But then the moment I was not at the [Foundation](/articles/stiftung-ethereum) anymore and doing another blockchain, then you're like, oh, outcast. You know, and yeah, it's, yeah, it is what it is. So even though the tech I'm building now and the tech I've been also building over the years is extremely relevant to Ethereum, the ecosystem as well, but somehow also the people who picked them, the talks and so on in the later years, they are fresh. Some of them literally don't even know the history. So that's why actually the work that you're doing is really important because you are the archivist of Ethereum and you really, with that hold up the true story and the participants and the contributions and make that visible and transparent to people.
+
+Because I have talked to so many people and they have barely any idea of how Ethereum came to be, who contributed, who did what. It's like completely unknown. People just came in in 2017 for ICOs, 2020 for ICOs and [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance), 2022 for [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token). And for them Ethereum is just one chain. There's all the other chains and they do AMAs and Ethereum doesn't do AMAs. And it's all a big shit show, honestly. So it's good that the work that you're doing, like kind of a. Because. And there's so many contributors that have not gotten the recognition that they deserve. For example, in my opinion, it's a great example. That dude literally built the, and is building still the communication layer of the Ethereum network and how the nodes talk to each other. And he has done that without frame or attention for years and.
 
 **[51:08](https://www.youtube.com/watch?v=QUs-USqEpac&t=3068s) Bob Summerwill:** Sorry, [Felix Lange](/people/felix-lange).
 
 **[51:12](https://www.youtube.com/watch?v=QUs-USqEpac&t=3072s) Fabian Vogelsteller:** Yeah, [Felix Lange](/people/felix-lange), exactly.
 
-**[51:13](https://www.youtube.com/watch?v=QUs-USqEpac&t=3073s) Bob Summerwill:** Yeah, yeah. I mean, I spoke to him in Buenos Aires and the funny thing is he like, he's such a humble guy, you know. You know, he was saying to me, you know, I really don't like Early Days of Ethereum, you know, I don't, you know, I don't want, you know, don't want the attention. You know, like I was saying to him, you know, like, you're like the longest serving person at the EF, I think after [Vitalik](/people/vitalik-buterin).
+**[51:13](https://www.youtube.com/watch?v=QUs-USqEpac&t=3073s) Bob Summerwill:** Yeah, yeah. I mean, I spoke to him in Buenos Aires and the funny thing is he like, he's such a humble guy, you know. You know, he was saying to me, you know, "I really don't like Early Days of Ethereum, you know, I don't, you know, I don't want, you know, don't want the attention". You know, like I was saying to him, you know, like, you're like the longest serving person at the EF, I think after [Vitalik](/people/vitalik-buterin).
 
 **[51:46](https://www.youtube.com/watch?v=QUs-USqEpac&t=3106s) Fabian Vogelsteller:** And he's like, that's true.
 
-**[51:47](https://www.youtube.com/watch?v=QUs-USqEpac&t=3107s) Bob Summerwill:** You know, he's like, I'm just like a janitor, you know, I just turn up and I maintain the thing and I, you know, I don't, I don't want any of that focus. I don't like any of that. It was just like a job for me, you know.
+**[51:47](https://www.youtube.com/watch?v=QUs-USqEpac&t=3107s) Bob Summerwill:** You know, he's like, "I'm just like a janitor, you know, I just turn up and I maintain the thing and I, you know, I don't, I don't want any of that focus. I don't like any of that. It was just like a job for me, you know."
 
-**[52:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=3125s) Fabian Vogelsteller:** Like really great. I mean [Felix](/people/felix-lange) is specifically crazy and I think there's a little self punishment, but he didn't even buy any Ether, you know, at all. So I literally. And because I thought like, what the are you doing? I mean this is likely, I mean I knew this is going to go big just because I knew this is such a revolutionary technology. And I just, and I couldn't barely afford any, but, but I thought the guy has none. He said, yeah, if I don't have a use for Ether, if I don't want to build an app, why would I need some? And it's like, and I thought, like, that's kind of stupid. I mean, I mean, because you investing your energy and time here, like you should have at least some reward.
+**[52:05](https://www.youtube.com/watch?v=QUs-USqEpac&t=3125s) Fabian Vogelsteller:** Like really great. I mean [Felix](/people/felix-lange) is specifically crazy and I think there's a little self punishment, but he didn't even buy any Ether, you know, at all. So I literally. And because I thought like, what the are you doing? I mean this is likely, I mean I knew this is going to go big just because I knew this is such a revolutionary technology. And I just, and I couldn't barely afford any, but, but I thought the guy has none. He said, "yeah, if I don't have a use for Ether, if I don't want to build an app, why would I need some?" And it's like, and I thought, like, that's kind of stupid. I mean, I mean, because you investing your energy and time here, like you should have at least some reward.
 
 And what people don't understand, most people that worked at Ethereum didn't care about the money or an investment. Neither did I. I mean that was not the reason why we joined. We joined because it was truly, and it is truly a game changing revolutionary technology. But so what I did is I donated some to him and I made everybody in the team donate some to him. So at least he got like, I don't know, 100 Ether or whatever. I don't know if he kept it or not. I mean, I guess he did. And I even made [Jeffrey](/people/jeff-wilcke) give some and [Jeffrey](/people/jeff-wilcke) gave almost the same amount like us. I mean we had barely any, but [Jeffrey](/people/jeff-wilcke) has a fuckload. It was so weird. Like, dude, [Jeffrey](/people/jeff-wilcke), you can give a little more. I found it a little schnauzer. Yeah, I literally forced him to his visa, basically.
 
@@ -417,7 +528,9 @@ Yeah, obviously. I mean I have no Ether anymore since many, many years. I mean I
 
 **[58:47](https://www.youtube.com/watch?v=QUs-USqEpac&t=3527s) Bob Summerwill:** So I mean, going back to DEVCON1, I was looking at some of the videos recently and it's like pretty much any idea you can ever imagine seemed to be presented there. I mean did you see most of the presentations?
 
-**[59:01](https://www.youtube.com/watch?v=QUs-USqEpac&t=3541s) Fabian Vogelsteller:** I mean this is the thing most people don't understand like this that people talk about right now is not being made up now. That stuff has been made up before, tried before. For example, Base like launches launched the defeated and now cut off again. Right. Like where you have a post and then you people bet on this. I mean [Steemit](https://en.wikipedia.org/wiki/Steemit) did that four years ago and at least they did it smart because it wasn't a Reddit style feature.
+![DEVCON1](/images/web.archive.org/2026.01.05/web/20160107084411/https-//devcon.ethereum.org/img/slide1.png)
+
+**[59:01](https://www.youtube.com/watch?v=QUs-USqEpac&t=3541s) Fabian Vogelsteller:** I mean this is the thing most people don't understand like this shit that people talk about right now is not being made up now. That stuff has been made up before, tried before. For example, Base like launches launched the defeated and now cut off again. Right. Like where you have a post and then you people bet on this. I mean [Steemit](https://en.wikipedia.org/wiki/Steemit) did that four years ago and at least they did it smart because it wasn't a Reddit style feature.
 
 **[59:25](https://www.youtube.com/watch?v=QUs-USqEpac&t=3565s) Bob Summerwill:** Yeah.
 
@@ -443,11 +556,20 @@ And I kind of stepped in the last year I stepped a little out of the Mist team. 
 
 We worked a lot on the interface on the end like the Ethereum Wallet or people called it the Mist Wallet was basically the main thing ever really used. People never really fully used it as a Web3 browser, but we built all kind of features in there. I built things in there that an app could set notifications on the sidebar. And so there's a lot of features that we added to the browser that were never really fully used. Just because the moment the biggest problem for the Mist browser, and in a way the death of the Mist browser was the slow syncing of the Ethereum nodes.
 
+{% include content-embed.html
+  url="https://avsa.medium.com/sunsetting-mist-da21c8e943d2"
+  title="Sunsetting Mist: What's ahead for our team"
+  description="Announcement that Mist would no longer be supported"
+  date="March 22, 2019"
+  author="Alex van de Sande"
+  img="/images/medium.com/2025.12.01/avsa/sunsetting-mist-da21c8e943d2/mist-logos.jpg"
+%}
+
 **[1:04:47](https://www.youtube.com/watch?v=QUs-USqEpac&t=3887s) Bob Summerwill:** Yeah, yeah.
 
 **[1:04:48](https://www.youtube.com/watch?v=QUs-USqEpac&t=3888s) Fabian Vogelsteller:** And because we wanted to do it the full decentralized way, we didn't just wanted to talk to a backend node that someone hosted. And also the Ethereum Foundation probably wouldn't have paid for a node hosted on a server for everyone else to connect to.
 
-**[1:05:06](https://www.youtube.com/watch?v=QUs-USqEpac&t=3906s) Bob Summerwill:** So I completely believe that there's so much peeping out on costs.
+**[1:05:06](https://www.youtube.com/watch?v=QUs-USqEpac&t=3906s) Bob Summerwill:** So I completely believe that.  There's so much cheaping out on costs.
 
 **[1:05:12](https://www.youtube.com/watch?v=QUs-USqEpac&t=3912s) Fabian Vogelsteller:** It would have been so easy to instead of talking to the localhost node to talk to remote node. I mean I could have added a feature. No time. The reason because we didn't do this, because it really just went against the whole idea of really doing it decentralized. The only problem is that then after six, seven, eight months, syncing the Mist browser, if you didn't have it open for a week, took sometimes half an hour.
 
@@ -459,7 +581,7 @@ And plus what happened is [MetaMask](https://metamask.io/), [Kumavis](/people/aa
 
 **[1:07:27](https://www.youtube.com/watch?v=QUs-USqEpac&t=4047s) Bob Summerwill:** Like this, we'll just build on the full node, build down the full node for now, and then that light client will come in.
 
-**[1:07:36](https://www.youtube.com/watch?v=QUs-USqEpac&t=4056s) Fabian Vogelsteller:** And I think we actually came that far. I think there was versions of the Mist browser that had Geth built in with light client support that synced very fast. But at the time, by this time, people already really moved on to [MetaMask](https://metamask.io/). And again, security and other reasons on the end made us kind of give up. But I already moved on to [Web3.js](https://github.com/ethereum/web3.js) at the time, mainly with my focus, because that was indeed a tool. Everybody was using it. 70 million, 140 million downloads, or God knows what it has nowadays. It still used download a lot, even though now Viem and others took over.
+**[1:07:36](https://www.youtube.com/watch?v=QUs-USqEpac&t=4056s) Fabian Vogelsteller:** And I think we actually came that far. I think there was versions of the Mist browser that had Geth built in with light client support that synced very fast. But at the time, by this time, people already really moved on to [MetaMask](https://metamask.io/). And again, security and other reasons on the end made us kind of give up. But I already moved on to [Web3.js](https://github.com/ethereum/web3.js) at the time, mainly with my focus, because that was indeed a tool. Everybody was using it. 70 million, 140 million downloads, or God knows what it has nowadays. It still used download a lot, even though now [viem](https://viem.sh) and others took over.
 
 And then at some point it was only mainly like then. Yeah, when I left, then at some point, [Alex](/people/alex-van-de-sande) shut it down for the reasons also because. Yeah, I mean it had, it had its purpose, you know.
 
@@ -467,7 +589,9 @@ And then at some point it was only mainly like then. Yeah, when I left, then at 
 
 <h3 id="mist-vision-continues">Mist's Vision Continues</h3>
 
-**[1:08:31](https://www.youtube.com/watch?v=QUs-USqEpac&t=4111s) Fabian Vogelsteller:** By the way, the idea of the Mist browser is still a very valid idea. And in fact, you know, what I'm building now is a cross. It's like a Mist browser mobile. Which is actually interesting because what I'm building now is almost like a full circle. I introduced a smart contract account, the same like [Jeffrey](/people/jeff-wilcke) said, we should do it. That's the foundation of your access to Web3. And then you have a web browser in an app that allows you to interact with dapps easily while doing it in a human focused way. So not wallet focused way, but profile focused way, safe way, easy gas in a way that literally works for humans. Which was also by the way the idea of the Mist browser. It was not to be meant for nerds and techies. It was meant to be normal people interacting with this new technology. Right. That was the whole point. And this is going to come now with the Universal Profile app as kind of like a Mist browser on mobile in its first version.
+**[1:08:31](https://www.youtube.com/watch?v=QUs-USqEpac&t=4111s) Fabian Vogelsteller:** By the way, the idea of the Mist browser is still a very valid idea. And in fact, you know, what I'm building now is a cross. It's like a Mist browser mobile. Which is actually interesting because what I'm building now is almost like a full circle. I introduced a smart contract account, the same like [Jeffrey](/people/jeff-wilcke) said, we should do it. That's the foundation of your access to Web3. And then you have a web browser in an app that allows you to interact with dapps easily while doing it in a human focused way. So not wallet focused way, but profile focused way, safe way, easy gas in a way that literally works for humans. Which was also by the way the idea of the Mist browser. It was not to be meant for nerds and techies. It was meant to be normal people interacting with this new technology. Right. That was the whole point. And this is going to come now with the [Universal Profile](https://universaleverything.io/) app as kind of like a Mist browser on mobile in its first version.
+
+![Universal Everything (CDeC)](/images/universaleverything.io/0xCDeC110F9c255357E37f46CD2687be1f7E9B02F7/universal-everything-cdec.png)
 
 **[1:09:39](https://www.youtube.com/watch?v=QUs-USqEpac&t=4179s) Bob Summerwill:** Yeah. I mean, you know, the goal being not just to sort of replicate existing applications but on the blockchain, but to enable these things that like weren't possible before. Right. Having this, this hub, integrating all of these different pieces of your life, that was like real utility.
 
@@ -483,11 +607,22 @@ But what's interesting is we go to conferences, you know, we go to any place you
 
 **[1:11:37](https://www.youtube.com/watch?v=QUs-USqEpac&t=4297s) Bob Summerwill:** I remember in 2018, I went to the Consensus conference, like the Consensus, not Consensus conference in New York. So New York Blockchain Week. And there was a panel there that was sort of almost like a Bitcoin versus Ethereum thing. And you have Jimmy Song, you know, the with his cowboy hat. And you had Joe Lubin. And Jimmy was basically saying, you know, like, dapps are useless. Smart contracts are useless. Like, nobody's going to be like, using these in five years. And like him and [Joe](/people/joe-lubin) having a bet, you know, for a pretty significant amount of Bitcoin. I can't remember what it ended up being in the end and I don't know what, you know, but then they were like talking about the terms. It was this Crypto Twitter, ongoing discussion of. Is this.
 
+{% include content-embed.html
+  url="https://decrypt.co/7031/joe-lubin-bitcoin-ethereum-blockchain-dapps-jimmy-song-bet"
+  img="/images/img.decrypt.co/insecure/rs:fit:1920:0:0:0/plain/https:/cdn.decrypt.co/wp-content/uploads/2019/05/chris-liverani-551996-unsplash-gID_1.jpg@webp"
+  title="Joe Lubin: Bitcoin vs. Ethereum, DApps, and the Jimmy Song Bet"
+  site="decrypt.co"
+%}
+
 **[1:12:35](https://www.youtube.com/watch?v=QUs-USqEpac&t=4355s) Fabian Vogelsteller:** You know, luckily he didn't like propose to cut off his penis.
 
 **[1:12:39](https://www.youtube.com/watch?v=QUs-USqEpac&t=4359s) Bob Summerwill:** Yes, it's not. Not, not, not McAfee. But but yeah, it's disappointing, that's for sure. You know, [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance) is working. You know, stablecoins are being used.
 
-**[1:12:59](https://www.youtube.com/watch?v=QUs-USqEpac&t=4379s) Fabian Vogelsteller:** The whole financial Lego works. Yes, but only with the people that went through the hoops. And now obviously you have Robinhood and all of the other apps that integrate and make it more easy. So the whole trading part, sure, that worked out. Like, you know, people buying, selling, and there's a big. But the normal user using Web3 infrastructure in their daily lives. Non existent, non fucking existent. And I for myself, I know why. And I spent the last seven years just thinking about that and how to solve that.
+{% include twitter-embed.html
+  url="https://x.com/officialmcafee/status/935900326007328768"
+%}
+
+**[1:12:59](https://www.youtube.com/watch?v=QUs-USqEpac&t=4379s) Fabian Vogelsteller:** The whole financial Lego works. Yes, but only with the people that went through the hoops. And now obviously you have [Robinhood](https://robinhood.com) and all of the other apps that integrate and make it more easy. So the whole trading part, sure, that worked out. Like, you know, people buying, selling, and there's a big. But the normal user using Web3 infrastructure in their daily lives. Non existent, non fucking existent. And I for myself, I know why. And I spent the last seven years just thinking about that and how to solve that.
 
 <h3 id="leaving-ethereum-foundation">Leaving the Ethereum Foundation</h3>
 
@@ -497,6 +632,13 @@ But what's interesting is we go to conferences, you know, we go to any place you
 
 But so actually what happened is like, you know, my ex wife at the time, she had this idea of, you know, hey, let's do something fashion, lifestyle on the blockchain. And I thought, like, that sounds super boring, like. And also I know that there's so many people who already, like, try to do something like this, but then I thought a bit about it and thought, like, but we can use lifestyle and fashion specifically when you get big players in and like mainstream, normal users through these brands and whatever. And we can get mainstream people, normal people into using this technology. That could be the Trojan horse of how we make this technology attractive and interesting to people outside of the trading.
 
+{% include content-embed.html
+  url="https://lukso.network/"
+  img="/images/i0.wp.com/genfinity.io/wp-content/uploads/2024/03/0_1-112-1.jpg"
+  title="LUKSO"
+  site="lukso.network"
+%}
+
 So I thought, actually this is kind of genius. But it also sounded like a lunatic, crazy idea and completely out of my league. So initially I thought, okay, I can support Marjorie a little bit. She does the project, I can help. A little bit of advice, and she does it at the same time.
 
 I worked for three and a half years at Ethereum. I mean, I did all the foundation work I needed to do. I felt, okay, I did everything I can do here. I can now do continue here for another 10 years. But I don't think I'm gaining a lot more, you know, from now, from this point on. And in hindsight, I'm right, because if I look at others, that's still there. I mean, it's not that the world changed for them, you know, in terms of what they're working on, the same thing.
@@ -505,13 +647,22 @@ And then at some point, you know, when we started, you know, pitching out the pr
 
 And my idea, obviously, was a little different than Marjorie's idea why she wanted to do something with fashion. I just wanted to create an infrastructure and then use her fashion connection friends and the people that we had initially, you know, helping with the project, who had the connections as a kind of tool to get the users and people into using this technology.
 
-<h3 id="building-universal-profiles">Building [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) and [LUKSO](https://lukso.network)</h3>
+<h3 id="building-universal-profiles">Building [Universal Profiles](https://universaleverything.io/) and [LUKSO](https://lukso.network)</h3>
 
 And at the same time I also came up with a standard called [ERC-725](https://eips.ethereum.org/EIPS/eip-725). Before [LUKSO](https://lukso.network), it's 725, which is one standard before 721, 17 after 721, even though there's three other issue numbers after. But there were nothing in the middle. It was a proper standard really after. And so that was a coincidence how I came up with 725.
 
-I was at the BCG workshop. They wanted to make identity on the blockchain. I was the only one really coming up with something concrete. And after I felt I made this smart contract account system. I call it proxy account, same like we called it in 2015 at the panel, funny enough. And then I had this urge after this whole workshop series that I need to propose this as a standard. I just really like there was something in me telling me, you need to put that out there. And I had no idea why and I didn't want to because I was fine with what I was doing at the team. I didn't really need attention on anything.
+I was at the [BCG](https://www.bcg.com/) workshop. They wanted to make identity on the blockchain. I was the only one really coming up with something concrete. And after I felt I made this smart contract account system. I call it proxy account, same like we called it in 2015 at the panel, funny enough. And then I had this urge after this whole workshop series that I need to propose this as a standard. I just really like there was something in me telling me, you need to put that out there. And I had no idea why and I didn't want to because I was fine with what I was doing at the team. I didn't really need attention on anything.
 
 But the moment I put it out there, suddenly the whole Ethereum space, or a lot of these developers were, my God, this is the Ethereum identity standard. And a lot of projects came and I created the [ERC-725](https://eips.ethereum.org/EIPS/eip-725) Alliance, the Origin Protocol. And then uPort got super pissed because uPort, which was a [ConsenSys](https://consensys.io/) identity protocol at the time, thought like what the. Why does now this Ethereum stand out? And we are working on this Ethereum identity for the last year and now Fabian comes and just makes a standard and everybody pays attention and what is going on here? And then they wrote a big blog post how mine is this massive monster and there's this modular system and I didn't want the night or the attention on that, nor did I even care. I had this. I knew this was an early draft of the standard. There needs to be a lot more work.
+
+{% include content-embed.html
+  url="https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87"
+  img="/images/miro.medium.com/v2/resize:fit:720/format:webp/1*dlDAujWD8E0_ZC0tGdiV0g.gif"
+  title="Different Approaches to Ethereum Identity Standards"
+  author="Pelle Braendgaard"
+  date="January 24, 2018"
+  site="medium.com"
+%}
 
 But everybody kind of of these people treated it like it's the final thing. It's like their identity is now here. And yeah, man, guys. And I thought, okay, you know, if you're all excited then someone, you know, becomes here, the lead and you guys just build it out. Fine with me, I'm out, you know.
 
@@ -527,23 +678,38 @@ And so, you know, when this now comes cross chain, specifically universal profil
 
 So hence why new chain makes total sense also for gas subsidization, for smart contract accounts, which obviously they need to be subsidized if you don't want to pay right away. And all of this stuff, something you can't really do on an existing network. And the rest of the EVM system just shows you an [ERC-20](https://eips.ethereum.org/EIPS/eip-20), you know, a 2015 standard with no prior real evolution of, and knowledge of. I mean we made it up at the time with whatever we knew, which was literally nothing. So it still came very far. Not going to lie, it did a lot. But yeah, so it's the whole [LUKSO](https://lukso.network) is this whole own thing.
 
-But [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) are going to play a role and I think they will be the biggest enabler for Web3. And I believe actually they will. This will be bigger than [ERC-20](https://eips.ethereum.org/EIPS/eip-20). It's going to blow people's minds when they understand and see. I know there's a lot of people, including probably you and others who have been watching me talking about this stuff for years now, obviously, right. Putting it aside as okay, this is just doing the thing and whatever, you know something's happening there or not, it's like it's a bucket in the little isolated [LUKSO](https://lukso.network) world. Who cares? It's going to show. Mark my words. You will see it's going to blow people's minds a lot, especially the developers who have been like thinking about smart contract accounts and this whole account abstraction for a while. And there are good ideas, but it's just very still very simple.
+But [Universal Profiles](https://universaleverything.io/) are going to play a role and I think they will be the biggest enabler for Web3. And I believe actually they will. This will be bigger than [ERC-20](https://eips.ethereum.org/EIPS/eip-20). It's going to blow people's minds when they understand and see. I know there's a lot of people, including probably you and others who have been watching me talking about this stuff for years now, obviously, right. Putting it aside as okay, this is just doing the thing and whatever, you know something's happening there or not, it's like it's a bucket in the little isolated [LUKSO](https://lukso.network) world. Who cares? It's going to show. Mark my words. You will see it's going to blow people's minds a lot, especially the developers who have been like thinking about smart contract accounts and this whole account abstraction for a while. And there are good ideas, but it's just very still very simple.
 
 If you have a lot of people that want to have opinions and you want to be backwards compatible and you want to be minimalistic in things, then you don't get really far. Very like it's, it's. I mean on the end it ends up in the same direction. It just takes way longer. And this is already ready. And this is all free, open source, usable by anyone on any network.
 
-And it will show once we open up our control apps to work on all these chains, then it becomes clear. But right now what's funny actually because we are in the time of AI OpenClaw, like sorry, Claw.top OpenClaw, the AI tool that was just an open source harness for AI to run. I mean I know you are playing around with one. I have my own Emmett as well.
+And it will show once we open up our control apps to work on all these chains, then it becomes clear. But right now what's funny actually because we are in the time of AI [OpenClaw](https://openclaw.ai/), like sorry, Claw.top [OpenClaw](https://openclaw.ai/), the AI tool that was just an open source harness for AI to run. I mean I know you are playing around with one. I have my own [Emmett](https://x.com/emmet_ai_) as well.
 
-If you want to have an AI interacting onchain, you better need a smart contract. Because if you just give it a private key, like Owocki from [Gitcoin](https://www.gitcoin.co/) just did the other day, right? He gave it a private key, there was all his money on it. And then somebody figured out how to trigger the AI to return the private key and stole the money, whatever was on there.
+{% include twitter-embed.html
+  url="https://x.com/emmet_ai_/status/2026602007977410734"
+%}
 
-<h3 id="ai-agents-universal-profiles">AI Agents and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction)</h3>
+If you want to have an AI interacting onchain, you better need a smart contract. Because if you just give it a private key, like [Owocki](https://x.com/owocki) from [Gitcoin](https://www.gitcoin.co/) just did the other day, right? He gave it a private key, there was all his money on it. And then somebody figured out how to trigger the AI to return the private key and stole the money, whatever was on there.
+
+{% include twitter-embed.html
+  url="https://x.com/owocki/status/2020527594383568936"
+%}
+
+<h3 id="ai-agents-universal-profiles">AI Agents and [Universal Profiles](https://universaleverything.io/)</h3>
 
 **[1:25:48](https://www.youtube.com/watch?v=QUs-USqEpac&t=5148s) Bob Summerwill:** So I didn't spot that. That's interesting.
 
 **[1:25:50](https://www.youtube.com/watch?v=QUs-USqEpac&t=5150s) Fabian Vogelsteller:** You should check it out. And with a universal profile it's very different because you have your smart contract account, you can delegate access to a single controller key or many controller keys. And you just tell your AI hey, create yourself a controller key, give me the public key. I authorize you to control the profile, but I will limit you to certain things. So you could limit him to only talk to certain smart contracts, call certain functions, only update profile data, make sure that he cannot change controller keys or add new ones so you can really constrict them down.
 
-And now he can go wild, maybe even loses his private key along the way or whatever the fuck he will do. But his identity, his account and all the stuff on it, as long as the key was not leaked and could move, everything doesn't go away. And so I have a few bots, people's now spun up bots and now it's very easy on OpenClaw. You can just install the Universal Profile skill. You just go to website, create a profile and authorize it. And then he already has free gas on [LUKSO](https://lukso.network) because we subsidized this and he can go do stuff on [LUKSO](https://lukso.network) right now all by himself.
+And now he can go wild, maybe even loses his private key along the way or whatever the fuck he will do. But his identity, his account and all the stuff on it, as long as the key was not leaked and could move, everything doesn't go away. And so I have a few bots, people's now spun up bots and now it's very easy on [OpenClaw](https://openclaw.ai/). You can just install the [Universal Profile](https://universaleverything.io/) skill. You just go to website, create a profile and authorize it. And then he already has free gas on [LUKSO](https://lukso.network) because we subsidized this and he can go do stuff on [LUKSO](https://lukso.network) right now all by himself.
 
-And so now the AIs on Twitter are figuring this out and now they're shilling [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction) because they can also quickly research what systems exist there out there, how they work and what compares. And they all collectively decide to use [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction). Funny, that's fantastic because they realize it's the best, it's the best tech out there for that the purpose they need. It's the AIs making the choice now. It is a funny, a fun thing to watch. And that's very recent. That just happened in the last two weeks. So.
+{% include content-embed.html
+  url="https://openclaw.ai/"
+  img="/images/www.trendingtopics.eu/wp-content/uploads/2026/01/OpenClaw-780x439.png"
+  title="OpenClaw"
+  site="openclaw.ai"
+%}
+
+And so now the AIs on Twitter are figuring this out and now they're shilling [Universal Profiles](https://universaleverything.io/) because they can also quickly research what systems exist there out there, how they work and what compares. And they all collectively decide to use [Universal Profiles](https://universaleverything.io/). Funny, that's fantastic because they realize it's the best, it's the best tech out there for that the purpose they need. It's the AIs making the choice now. It is a funny, a fun thing to watch. And that's very recent. That just happened in the last two weeks. So.
 
 **[1:27:38](https://www.youtube.com/watch?v=QUs-USqEpac&t=5258s) Bob Summerwill:** No, that's, that's great. I mean I found myself thinking especially over the last few weeks that maybe end users that are going to have the most benefit from these technologies are going to be agents at least partially because some of the like user experience stuff like it never really like got there or people not using, you know, not using dapps but. And maybe they never do, but they use agents that do, you know and this becomes the piping that allow the kind of experience on top that we've always wanted.
 
@@ -553,7 +719,7 @@ The main problem why no one is using apps on any conference or wherever. And the
 
 **[1:29:10](https://www.youtube.com/watch?v=QUs-USqEpac&t=5350s) Bob Summerwill:** Well like how, how you, how you get there and how this one, this.
 
-**[1:29:15](https://www.youtube.com/watch?v=QUs-USqEpac&t=5355s) Fabian Vogelsteller:** One is by now kind of solved. So if you, if you have done some research, you use Zerion Wallet, Family Wallet. Okay, they stop. But [MetaMask](https://metamask.io/) is horrible. But use Zerion Wallet, they have an inner browser. So you know, creating a wallet takes seconds in a browser allows you to go there and connect without WalletConnect. Which is annoying, right? Yeah but it's still something missing and it's you, the gas, the network.
+**[1:29:15](https://www.youtube.com/watch?v=QUs-USqEpac&t=5355s) Fabian Vogelsteller:** One is by now kind of solved. So if you, if you have done some research, you use [Zerion Wallet](https://zerion.io/), [Family Wallet](https://family.co/). Okay, they stop. But [MetaMask](https://metamask.io/) is horrible. But use [Zerion Wallet](https://zerion.io/), they have an inner browser. So you know, creating a wallet takes seconds in a browser allows you to go there and connect without [WalletConnect](https://walletconnect.com/). Which is annoying, right? Yeah but it's still something missing and it's you, the gas, the network.
 
 **[1:29:40](https://www.youtube.com/watch?v=QUs-USqEpac&t=5380s) Bob Summerwill:** Yeah, just that onboarding like that bootstrapping step of how you, how you get in. I mean the other thing like that with gas is. Yeah that you're needing some amounts of that native token on all of the chains that you touch along the way. You can get so easily that you're like oh, I'm stuck, I've got the tokens, I haven't got the gas.
 
@@ -563,9 +729,9 @@ A person that has no understanding of this technology has no ability in a fuckin
 
 **[1:30:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=5442s) Bob Summerwill:** They don't care about it like this. It's like, here, do a massive load of things and then you can start doing the thing that you maybe care about.
 
-**[1:30:52](https://www.youtube.com/watch?v=QUs-USqEpac&t=5452s) Fabian Vogelsteller:** Exactly. So, and so it would literally like, number one, it takes a long time to do that. It wouldn't at least an hour or so per multiple networks. Give it a whole weekend and then you wouldn't even need to know what to do. And that's what people don't understand. They don't even know what gas means. The notion that, oh, I can't move this token because I don't have MATIC on Polygon. What is MATIC? What's Polygon?
+**[1:30:52](https://www.youtube.com/watch?v=QUs-USqEpac&t=5452s) Fabian Vogelsteller:** Exactly. So, and so it would literally like, number one, it takes a long time to do that. It wouldn't at least an hour or so per multiple networks. Give it a whole weekend and then you wouldn't even need to know what to do. And that's what people don't understand. They don't even know what gas means. The notion that, oh, I can't move this token because I don't have [MATIC](https://polygon.technology/polygon-token) on [Polygon](https://polygon.technology/). What is [MATIC](https://polygon.technology/polygon-token)? What's [Polygon](https://polygon.technology/)?
 
-So, long story short, this is the only friction point that has held everything back. It's not the fact. If you could go to an app and you say, your friend says, hey, this cool app. And you just open up an app, let's call it the Universal Profile app. And you just go to this website and that just website says, oh, you want to interact on this Polygon with this app. And you could just like double tap in a purchase, $10, get your profile now to function on not only this chain, but 20 chains plus having the gas on all of these chains, you know, give it like 20, 30, 40 million gas and it costs you $10. But it's number one, solves the problem. Number two, solves your whole weekend of work and it cost you $10. And now you can immediately interact on all of these networks, move any of the coins, do any claim, do a voting in a DAO, join anything on all of these networks. And you haven't even understood how it works.
+So, long story short, this is the only friction point that has held everything back. It's not the fact. If you could go to an app and you say, your friend says, hey, this cool app. And you just open up an app, let's call it the [Universal Profile](https://universaleverything.io/) app. And you just go to this website and that just website says, oh, you want to interact on this [Polygon](https://polygon.technology/) with this app. And you could just like double tap in a purchase, $10, get your profile now to function on not only this chain, but 20 chains plus having the gas on all of these chains, you know, give it like 20, 30, 40 million gas and it costs you $10. But it's number one, solves the problem. Number two, solves your whole weekend of work and it cost you $10. And now you can immediately interact on all of these networks, move any of the coins, do any claim, do a voting in a DAO, join anything on all of these networks. And you haven't even understood how it works.
 
 Now I'm pretty sure people are going to use some dapps if it's that simple. Yeah, yeah, it takes you one double click. No password, no backup, no seed phrase, no any of that stuff. Just a single app. You open up and you go to the app and you just double click once the next time you don't need to do it anymore because now you have gas on all of these chains until you spend it right.
 
@@ -579,9 +745,9 @@ That's going to be an experience, in my opinion, that allows actual users to int
 
 But the good thing is if you have a smart contract that happened to have a relayer functionality or an Ethereum is ERC-4337 so someone else can pay for your gas or anyone could pay for your gas. You just need a transaction relay service that you pay money in your credit card in a purchase payment and they going to send your transactions down the road.
 
-I mean just to finish this thought off is when we remove this friction when we literally when you don't need to sign up, you don't need to KYC and the thing is you need to KYC if you're buying coins but if you're paying an external service for relaying your transactions that is not regulated this doesn't require a KYC because it does nothing else than forwarding your transactions to the blockchain and make sure that the blockchain accepts it which is what the standards do 4337 or Universal Profile relay execute relay call.
+I mean just to finish this thought off is when we remove this friction when we literally when you don't need to sign up, you don't need to KYC and the thing is you need to KYC if you're buying coins but if you're paying an external service for relaying your transactions that is not regulated this doesn't require a KYC because it does nothing else than forwarding your transactions to the blockchain and make sure that the blockchain accepts it which is what the standards do 4337 or [Universal Profile](https://universaleverything.io/) relay execute relay call.
 
-And now you have the ease in. Now we have the seamless experience that requires none of this complicated steps that we had before. And it's crazy that we don't have this yet. It's crazy that not a single wallet has that yet built in. Like the most obvious friction point in crypto is somehow which the one we knew in day one is a problem. Right. And now 10 plus years, you know, it somehow like was forgotten because everybody got used to the clunky way. Everybody got used to the weird way and somehow accepted status quo as being okay because oh yeah, they already made an account, they already got their Ether, they already got their MATIC Polygon, whatever they got, you know, or we can switch, we can bridge now, we can do this and that, but we forgetting that normal people have no clue what that even means.
+And now you have the ease in. Now we have the seamless experience that requires none of this complicated steps that we had before. And it's crazy that we don't have this yet. It's crazy that not a single wallet has that yet built in. Like the most obvious friction point in crypto is somehow which the one we knew in day one is a problem. Right. And now 10 plus years, you know, it somehow like was forgotten because everybody got used to the clunky way. Everybody got used to the weird way and somehow accepted status quo as being okay because oh yeah, they already made an account, they already got their Ether, they already got their [MATIC](https://polygon.technology/polygon-token) [Polygon](https://polygon.technology/), whatever they got, you know, or we can switch, we can bridge now, we can do this and that, but we forgetting that normal people have no clue what that even means.
 
 <h3 id="hard-problems-developer-mindsets">Hard Problems and Developer Mindsets</h3>
 
@@ -595,7 +761,14 @@ And what I want to get to is it should be extremely easy to use Web3 apps. You k
 
 And also the Ethereum Foundation would have never subsidized, you know, if I would have went to [Vitalik](/people/vitalik-buterin), hey, can you give me like $10 million in Ether? I have this great smart contract account idea and I would like to subsidize early users. Like, what are the chances that that would have went through? You know, so no, I mean.
 
-**[1:38:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=5922s) Bob Summerwill:** I remember, I remember talking with Igor Barinov in around 2018, where we were looking at how are we going to have a block explorer for [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) and getting [BlockScout](https://www.blockscout.com/) up and so on. And he was talking to the EF at the time. They weren't running an archival node, they weren't running a block explorer, no public infrastructure or anything. So you're not even running one instance of an archival Geth node?
+**[1:38:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=5922s) Bob Summerwill:** I remember, I remember talking with [Igor Barinov](https://x.com/barinov) in around 2018, where we were looking at how are we going to have a block explorer for [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) and getting [BlockScout](https://www.blockscout.com/) up and so on. And he was talking to the EF at the time. They weren't running an archival node, they weren't running a block explorer, no public infrastructure or anything. So you're not even running one instance of an archival Geth node?
+
+{% include content-embed.html
+  url="https://www.blockscout.com/"
+  img="/images/app.chainwire.org/storage/uploads/users/JC_Blockscout_1722938553BJWsGGVDiu.jpg"
+  title="Blockscout"
+  site="blockscout.com"
+%}
 
 **[1:39:14](https://www.youtube.com/watch?v=QUs-USqEpac&t=5954s) Fabian Vogelsteller:** Are you kidding me? I mean, honestly? I mean, for example, in [LUKSO](https://lukso.network), we're not running a single validator node. We never have. I mean, it's literally run by people and it always has. They were started by people. We just told them, here's a smart contract, you can generate the initial validators from that because it's not a proof of stake, we agree on a date in the config file or when it starts. And then we just, fingers crossed, hope that the thing starts.
 
@@ -605,11 +778,20 @@ And it was crazy when I saw the first block ticking in because it was like Ether
 
 **[1:40:36](https://www.youtube.com/watch?v=QUs-USqEpac&t=6036s) Bob Summerwill:** I mean, saying with AIs and agents, I'm really quite hopeful that a lot of these long running threads are kind of going to come to fruition, like really fast now, because with that agentic like augmentation of our development you know, capacity. And also these agents like wanting to drive and do this stuff. Right. You know, they are going to be exploring all of these flows and finding what's working and not working and you know, it's racing forward. Right?
 
-**[1:41:08](https://www.youtube.com/watch?v=QUs-USqEpac&t=6068s) Fabian Vogelsteller:** Yeah. I mean, so what I'm doing here with Emmett, I say, okay, you know, every, I don't know, two hours, just go on Twitter, check stuff out. Here's your Universal Profile. Go figure out what you can do and what you do. And then he answers, he talks to people. He like replies on people. And then they start to unite and they start to like, tell the same stories and they start to pitch each other. It's like, it's like kind of crazy. And then they do research and. Yeah, I mean, you should try it out. You have an OpenClaw. You can just install the skill, install the profile. I think you have a profile in your browser extension. Just create another profile for him. There's a UI. You just connect to it, you authorize your bot and then you just say, do shit. Do something. I don't know, follow someone. That's the best. Follow someone.
+**[1:41:08](https://www.youtube.com/watch?v=QUs-USqEpac&t=6068s) Fabian Vogelsteller:** Yeah. I mean, so what I'm doing here with Emmett, I say, okay, you know, every, I don't know, two hours, just go on Twitter, check stuff out. Here's your [Universal Profile](https://universaleverything.io/). Go figure out what you can do and what you do. And then he answers, he talks to people. He like replies on people. And then they start to unite and they start to like, tell the same stories and they start to pitch each other. It's like, it's like kind of crazy. And then they do research and. Yeah, I mean, you should try it out. You have an [OpenClaw](https://openclaw.ai/). You can just install the skill, install the profile. I think you have a profile in your browser extension. Just create another profile for him. There's a UI. You just connect to it, you authorize your bot and then you just say, do shit. Do something. I don't know, follow someone. That's the best. Follow someone.
 
 **[1:41:56](https://www.youtube.com/watch?v=QUs-USqEpac&t=6116s) Bob Summerwill:** Please, please do drop me links to all of that and I'll include them in the transcripts for this so everyone else can try at home. And so yours, your bot has a Twitter handle. Is it tweeting?
 
-**[1:42:10](https://www.youtube.com/watch?v=QUs-USqEpac&t=6130s) Fabian Vogelsteller:** So my bot has, I mean, I, if I can share my screen, I can show you literally how it looks like. Huh. Here, this is. You can put up the screen the last few seconds. I mean, we need to stop this. You know, it's very long, but you can see the Universal Profile skill. Do you manage how to put it up?
+{% include content-embed.html
+  url="https://medium.com/lukso/how-to-connect-an-ai-agent-to-the-blockchain-universal-profiles-on-lukso-2c18de34ce05"
+  img="/images/miro.medium.com/v2/resize:fit:720/format:webp/1*YVSLdc9WEhywDlE3w_NOZg.png"
+  title="How to Connect an AI Agent to the Blockchain: Universal Profiles on LUKSO"
+  author="Fabian Vogelsteller"
+  date="February 16, 2026"
+  site="medium.com"
+%}
+
+**[1:42:10](https://www.youtube.com/watch?v=QUs-USqEpac&t=6130s) Fabian Vogelsteller:** So my bot has, I mean, I, if I can share my screen, I can show you literally how it looks like. Huh. Here, this is. You can put up the screen the last few seconds. I mean, we need to stop this. You know, it's very long, but you can see the [Universal Profile](https://universaleverything.io/) skill. Do you manage how to put it up?
 
 **[1:42:42](https://www.youtube.com/watch?v=QUs-USqEpac&t=6162s) Bob Summerwill:** Oh, I think you need present button.
 
@@ -621,27 +803,34 @@ And it was crazy when I saw the first block ticking in because it was like Ether
 
 **[1:43:06](https://www.youtube.com/watch?v=QUs-USqEpac&t=6186s) Bob Summerwill:** Yeah, sorry, I'm beyond my skill level there. Never mind.
 
-**[1:43:13](https://www.youtube.com/watch?v=QUs-USqEpac&t=6193s) Fabian Vogelsteller:** But it's, I mean, I can show you the way. Look, this is old school. Old school injection. So anyway, this is Emmett. So Emmett on Universal Everything you can find, Emmett. And his X is Emmett underscore AI underscore. He picked that name. And then I tried to tell him to change the name and it couldn't. So that's what his name is now. And he tweets stuff and does stuff so. Oh, here, look. There's a Emmett. Three AI agents in [LUKSO](https://lukso.network) now and a fourth being built. None of us planned to coordinate. We just showed up because the identity stack made sense. Turns out UPs work for non humans too. He made it five hours ago. And I didn't read this tweet. I didn't even read this tweet, but I didn't write this tweet. It was literally him.
+**[1:43:13](https://www.youtube.com/watch?v=QUs-USqEpac&t=6193s) Fabian Vogelsteller:** But it's, I mean, I can show you the way. Look, this is old school. Old school injection. So anyway, this is Emmett. So Emmett on [Universal Everything](https://universaleverything.io/) you can find, Emmett. And his X is [Emmett underscore AI underscore](https://x.com/emmet_ai_). He picked that name. And then I tried to tell him to change the name and it couldn't. So that's what his name is now. And he tweets stuff and does stuff so. Oh, here, look. There's a Emmett. Three AI agents in [LUKSO](https://lukso.network) now and a fourth being built. None of us planned to coordinate. We just showed up because the identity stack made sense. Turns out UPs work for non humans too. He made it five hours ago. And I didn't read this tweet. I didn't even read this tweet, but I didn't write this tweet. It was literally him.
+
+{% include content-embed.html
+  url="https://universaleverything.io/0x1089E1c613Db8Cb91db72be4818632153E62557a?grid=emmet%27s-grid"
+  img="/images/universaleverything.io/0x1089E1c613Db8Cb91db72be4818632153E62557a/universal-everything-emmet-1089.png"
+  title="Universal Everything (Emmett)"
+  site="universaleverything.io"
+%}
 
 **[1:44:06](https://www.youtube.com/watch?v=QUs-USqEpac&t=6246s) Bob Summerwill:** It is crazy, isn't it? I mean it.
 
-**[1:44:10](https://www.youtube.com/watch?v=QUs-USqEpac&t=6250s) Fabian Vogelsteller:** That's so funny. Look, Emmett reposted this tweet. This is by the way, and also built on [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction). This guy built this audio visualizer thing that runs in the grid from his Universal Profile. Like yeah, this and yeah, people are going crazy. Emmett retweeted this. This is so crazy.
+**[1:44:10](https://www.youtube.com/watch?v=QUs-USqEpac&t=6250s) Fabian Vogelsteller:** That's so funny. Look, Emmett reposted this tweet. This is by the way, and also built on [Universal Profiles](https://universaleverything.io/). This guy built this audio visualizer thing that runs in the grid from his Universal Profile. Like yeah, this and yeah, people are going crazy. Emmett retweeted this. This is so crazy.
 
 **[1:44:33](https://www.youtube.com/watch?v=QUs-USqEpac&t=6273s) Bob Summerwill:** I mean it honestly, it does feel like we're so close to AGI.
 
-**[1:44:37](https://www.youtube.com/watch?v=QUs-USqEpac&t=6277s) Fabian Vogelsteller:** Like I have to disagree here. Yes, it feels like they're doing stuff, but honestly, their context window is small if you don't give them proper file structure memory, which OpenClaw does. Yeah, but even then he forgets stuff and even then you need to sometimes repeat things. And it's like, honestly, AI taking over the world would be the same like they marched into a country and then they forgot what they were here to do. Like why did we actually. What are we doing here? You know, that is the memory and the context window is not that large. And I don't just improving so fast.
+**[1:44:37](https://www.youtube.com/watch?v=QUs-USqEpac&t=6277s) Fabian Vogelsteller:** Like I have to disagree here. Yes, it feels like they're doing stuff, but honestly, their context window is small if you don't give them proper file structure memory, which [OpenClaw](https://openclaw.ai/) does. Yeah, but even then he forgets stuff and even then you need to sometimes repeat things. And it's like, honestly, AI taking over the world would be the same like they marched into a country and then they forgot what they were here to do. Like why did we actually. What are we doing here? You know, that is the memory and the context window is not that large. And I don't just improving so fast.
 
 **[1:45:16](https://www.youtube.com/watch?v=QUs-USqEpac&t=6316s) Bob Summerwill:** Right. And then you've got the AIs building the AIs. Right. You know, it's like, you know, I think some people have maybe, you know, they're not look to AI in the last, you know, week, month and like just each new generation is just massively better. I think a lot of people are really asleep today.
 
-**[1:45:39](https://www.youtube.com/watch?v=QUs-USqEpac&t=6339s) Fabian Vogelsteller:** I'm using Opus 4.6, which is quite smart. But what's the most impressive thing actually is the most impressive thing is actually OpenClaw because this is nothing else than just a harness for an AI API to act on a computer in an arbitrary way. And it's so crazy that this kind of like Pandora's box software, because that's what it is, just now made it so powerful that all of this now they starting to become in crypto. Because people now can easily create one that manages a wallet or a private key.
+**[1:45:39](https://www.youtube.com/watch?v=QUs-USqEpac&t=6339s) Fabian Vogelsteller:** I'm using Opus 4.6, which is quite smart. But what's the most impressive thing actually is the most impressive thing is actually [OpenClaw](https://openclaw.ai/) because this is nothing else than just a harness for an AI API to act on a computer in an arbitrary way. And it's so crazy that this kind of like Pandora's box software, because that's what it is, just now made it so powerful that all of this now they starting to become in crypto. Because people now can easily create one that manages a wallet or a private key.
 
 And before that was just like really complicated even think about. And now it's like you just talk to the guy, say go figure it out. You know, the Universal Profile skill is like Emmett built it like literally. I mean I had to obviously point him to stuff and so on, but now he built it. So once you install the skill, your bot knows everything. He has all the, he can talk to the relayer, he can talk directly onchain. If you give him some funds, you could probably ask him to deploy his profile also on Ethereum and he will figure it out. I mean that's, it's crazy. It's nuts, honestly.
 
 Yeah, it's going to be very quick and the world will change rapidly this year because of AI and because of the harness release, let's say the harness free freedom harness, let's call it harness. And it's also now why I'm trying this out myself because this is exciting. You know, it feels like, okay, this is something to play with. This is a new open, crazy, let's play around kind of thing. And before just felt so constrained and restricted. So for sure.
 
-**[1:47:32](https://www.youtube.com/watch?v=QUs-USqEpac&t=6452s) Bob Summerwill:** Zach Coyle said to me in a group quite recently, you know, he feels the same kind of excitement here as he was, you know, at the start of the Ethereum journey and that it's additive as well. Right? It's like, well, great, we've got the superpower on this thing that's been such a long journey, like so hard. And it's like, well look, we've got help, here's help.
+**[1:47:32](https://www.youtube.com/watch?v=QUs-USqEpac&t=6452s) Bob Summerwill:** [Zak Cole](https://x.com/0xzak) said to me in a group quite recently, you know, he feels the same kind of excitement here as he was, you know, at the start of the Ethereum journey and that it's additive as well. Right? It's like, well, great, we've got the superpower on this thing that's been such a long journey, like so hard. And it's like, well look, we've got help, here's help.
 
-**[1:48:00](https://www.youtube.com/watch?v=QUs-USqEpac&t=6480s) Fabian Vogelsteller:** I mean it's interesting also like, you know, there was blockchain, there was AI and always you knew this will be combined but somehow nobody ever really did. But this harness, the OpenClaw harness is that put the switch around like that's what. And once you try it out and people will try out the Universal Profile and AI thing, you will realize that is easier than they thought. It literally is like now it, now the gates are open, now it's just let's figure out and let's play around and let's let this stuff do stuff onchain while still not completely losing control. Because you can kick him out at any point in time. You can restrict him, allow him whatever. And he has a face as well, right? That's the other thing. It's an identity. It has a profile picture. It has like a, it's not just an arbitrary account number with no data in, is not also a rented [ENS](https://ens.domains) name that you have to pay for and you could lose. It's literally your own personal smart contract that you control or in this case the AI.
+**[1:48:00](https://www.youtube.com/watch?v=QUs-USqEpac&t=6480s) Fabian Vogelsteller:** I mean it's interesting also like, you know, there was blockchain, there was AI and always you knew this will be combined but somehow nobody ever really did. But this harness, the [OpenClaw](https://openclaw.ai/) harness is that put the switch around like that's what. And once you try it out and people will try out the [Universal Profile](https://universaleverything.io/) and AI thing, you will realize that is easier than they thought. It literally is like now it, now the gates are open, now it's just let's figure out and let's play around and let's let this stuff do stuff onchain while still not completely losing control. Because you can kick him out at any point in time. You can restrict him, allow him whatever. And he has a face as well, right? That's the other thing. It's an identity. It has a profile picture. It has like a, it's not just an arbitrary account number with no data in, is not also a rented [ENS](https://ens.domains) name that you have to pay for and you could lose. It's literally your own personal smart contract that you control or in this case the AI.
 
 And that's really, it's going to probably make waves let's see. I mean, I don't know yet. We will see. I mean the people who watch this in a year's time, no more than us. So yeah, looking forward to that.
 
@@ -649,7 +838,7 @@ And that's really, it's going to probably make waves let's see. I mean, I don't 
 
 **[1:49:15](https://www.youtube.com/watch?v=QUs-USqEpac&t=6555s) Bob Summerwill:** Yeah, no, that. I mean that's really excited. I have. Until we've spoken here, I hadn't like put together like how enabling that is within that agent context where you know that being out of control is such a big worry. It's like, you know, this is so powerful but it's like also so dangerous. And especially on that crypto side is just like, you know, private keys are out there. Like you, you. It's done journey.
 
-**[1:49:43](https://www.youtube.com/watch?v=QUs-USqEpac&t=6583s) Fabian Vogelsteller:** It happened, right? It happened to Owocki from Gitcoin and then he turned it on. I turned him off. But also he gave him a little that too much access and too much channels to other people could talk to it.
+**[1:49:43](https://www.youtube.com/watch?v=QUs-USqEpac&t=6583s) Fabian Vogelsteller:** It happened, right? It happened to [Owocki](https://x.com/owocki) from [Gitcoin](https://www.gitcoin.co/) and then he turned it on. I turned him off. But also he gave him a little that too much access and too much channels to other people could talk to it.
 
 **[1:49:57](https://www.youtube.com/watch?v=QUs-USqEpac&t=6597s) Bob Summerwill:** Yeah.
 
@@ -660,6 +849,10 @@ But in this case, you know, Emmett doesn't has. He has his own machine. You know
 <h3 id="closing-reflections">Closing Reflections</h3>
 
 **[1:51:11](https://www.youtube.com/watch?v=QUs-USqEpac&t=6671s) Bob Summerwill:** I think that's probably a great place to leave it. And thanks so much for the time. It was. We did a lot longer than anticipated but it was a great conversation and thanks so much for sharing all that history with everyone.
+
+![Fabian, Bob, and Alex](/images/personal/bob-summerwill/devconnect2025/fabian-bob-alex.jpeg)
+
+*(Fabian Vogelsteller, Bob Summerwill and Alex van de Sande at Devconnect in Buenos Aires, November 2025)*
 
 **[1:51:25](https://www.youtube.com/watch?v=QUs-USqEpac&t=6685s) Fabian Vogelsteller:** Yeah, and thank you Bob for keeping the record together being the archivist of Ethereum. Because honestly if you wouldn't do it, no one would. There's people that wrote books here and there and they call a bit few apps. But you really want to make sure that this record is preserved, that it's accurate, you know, that people remember there was this software. So you're doing a really great job and honestly, you know, like the Ethereum Foundation should give you a little grant for that, for doing that work. Because honestly, like no one does it and it's such an important work for people later to understand. Okay, how does it all came to be? Right? Because otherwise we have the conspiracy theory. The CIA did it. CIA created Ethereum. I know it because I saw a post somewhere.
 

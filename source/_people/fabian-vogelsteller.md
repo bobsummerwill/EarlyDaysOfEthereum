@@ -15,7 +15,7 @@ Fabian Vogelsteller is the author of the [ERC-20](https://eips.ethereum.org/EIPS
 
 ## Background
 
-Before Ethereum, Fabian was a web developer based in Berlin. He built websites from age 14, created a flat-file PHP content management system called [Feindura](https://feindura.org) (which became his online identity), and later became deeply involved with [Meteor.js](https://www.meteor.com), one of the first reactive JavaScript frameworks. He wrote [a book about building single-page apps with Meteor](https://www.packtpub.com/product/building-single-page-web-apps-with-meteor/9781783988129)—experience that proved directly relevant to building dapps:
+Before Ethereum, Fabian was a web developer based in Berlin. He built websites from age 14, created a flat-file PHP content management system called [Feindura](https://web.archive.org/web/20141217063119/http://feindura.org/) (which became his online identity), and later became deeply involved with [Meteor.js](https://www.meteor.com), one of the first reactive JavaScript frameworks. He wrote [a book about building single-page apps with Meteor](https://www.packtpub.com/product/building-single-page-web-apps-with-meteor/9781783988129)—experience that proved directly relevant to building dapps:
 
 > "What is this writing single page apps with Meteor. And what is a dapp? It's a single page app."
 

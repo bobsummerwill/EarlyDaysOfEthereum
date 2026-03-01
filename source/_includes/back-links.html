@@ -270,7 +270,16 @@ Find videos that the current page would auto-link to
 Merge auto-link back-links with content back-links and sort chronologically
 {% endcomment %}
 {% assign all_content_backlinks = content_backlinks | concat: autolink_backlinks %}
-{% assign sorted_content = all_content_backlinks | sort: "date" %}
+{% assign dated_content = "" | split: "" %}
+{% assign undated_content = "" | split: "" %}
+{% for item in all_content_backlinks %}
+  {% if item.date %}
+    {% assign dated_content = dated_content | push: item %}
+  {% else %}
+    {% assign undated_content = undated_content | push: item %}
+  {% endif %}
+{% endfor %}
+{% assign sorted_content = dated_content | sort: "date" | concat: undated_content %}
 
 {% comment %}
 Display back-links section if any were found

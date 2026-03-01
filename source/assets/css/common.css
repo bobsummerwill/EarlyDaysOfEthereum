@@ -1510,7 +1510,7 @@ img {
 /* Blog embed content areas */
 .blog-embed-meta {
   padding: 18px 18px 16px 18px;
-  background: white;
+  background: var(--bg-card);
 }
 
 .blog-embed-title {
@@ -1526,7 +1526,7 @@ img {
   margin-bottom: 6px;
   color: #222;
   padding: 12px 18px 0 18px;
-  background: white;
+  background: var(--bg-card);
 }
 
 .blog-embed-description {
@@ -2635,7 +2635,7 @@ main {
 
 .content-embed-meta {
     padding: 12px;
-    background: white;
+    background: var(--bg-card);
 }
 
 .content-embed-title {

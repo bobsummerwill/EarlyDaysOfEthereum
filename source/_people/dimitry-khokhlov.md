@@ -7,6 +7,7 @@ end: Jun 2025
 social:
   github: https://github.com/winsvega
   linkedin: https://www.linkedin.com/in/dmitry-kh-a001185b/
+  twitter: https://x.com/WinsV
 ---
 
 

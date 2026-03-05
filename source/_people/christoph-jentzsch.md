@@ -34,6 +34,10 @@ His test infrastructure became the authoritative source for protocol correctness
 
 > "They were saying, okay, now if Christoph doesn't find any failing tests for like three weeks or four weeks or something, we are ready."
 
+Fabian Vogelsteller, who shared the Berlin office, recalled Christoph's role and frequent presence:
+
+> "Christoph Jentzsch came to the Berlin office frequently. He was more like hired as a kind of contractor to do testing, testing scenarios for the nodes. So he wrote all these kind of tests to test all kind of inputs and outputs of node behavior... cross-client, make sure this all functions correctly." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
 ## DEVCON0
 
 Christoph was present at [DEVCON0](/articles/devcon0/) in Berlin, which he described as an internal company retreat rather than a public conference:
@@ -128,6 +132,8 @@ He has attended every Devcon since DEVCON0:
 
 > "It's like only once in a lifetime, or two times in a lifetime, you have this moment where everything comes together: the right time, the right place, the right people. This certainly—those one and a half years I worked for Ethereum—are definitely the prime of my career in terms of who I worked with, what we accomplished, the impact we had on the world, and the sweet cypherpunk spirit there."
 
-## Primary Source
+## Primary Sources
 
-This profile draws from [Christoph Jentzsch's Early Days of Ethereum interview](/videos/episode006-christoph-jentzsch/), which provides first-hand accounts of Ethereum's testing infrastructure, the Frontier launch, and the full arc from Slock.it through The DAO.
+This profile draws from:
+- [Christoph Jentzsch's Early Days of Ethereum interview](/videos/episode006-christoph-jentzsch/), which provides first-hand accounts of Ethereum's testing infrastructure, the Frontier launch, and the full arc from Slock.it through The DAO
+- [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller on the Berlin office team

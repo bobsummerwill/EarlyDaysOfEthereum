@@ -31,7 +31,7 @@ Gavin introduced himself in his [first development update](/articles/gavs-dev-up
 
 > "I'm Gav - together with Jeffrey Wilcke and Vitalik Buterin, I'm one third of the ultimate leadership of Ethereum ÐΞV."
 
-He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including [Aeron Buchanan](/people/aeron-buchanan/), [Sarah O'Neill](/people/sarah-o-neill/), and [Jutta Steiner](/people/jutta-steiner/).
+He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including [Aeron Buchanan](/people/aeron-buchanan/), [Sarah O'Neill](/people/sarah-oneill/), and [Jutta Steiner](/people/jutta-steiner/).
 
 ## Technical Contributions
 
@@ -52,6 +52,12 @@ Gavin documented Ethereum's unique development process in March 2015:
 [Christoph Jentzsch](/people/christoph-jentzsch/) observed the contrast between development styles:
 
 > "There was always a fight between Geth and the C++ team about who's the best. And Gavin was having a big ego. And Jeff was more like, just give me the new spec, I just code it." — Christoph Jentzsch
+
+Fabian Vogelsteller, hired by Jeff's Amsterdam team but sitting in Gavin's Berlin C++ office, experienced the team dynamics firsthand:
+
+> "I also realized that Jeffrey's team and Gavin's team was a little disconnected... Gavin really wanted to kind of keep everybody under a bucket and he didn't want that we talked to this team. But I kind of found back ways and back channels to make them sync up." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
+
+Building the [Mist](/articles/mist/) browser required working across both client stacks, and Fabian found that getting the RPC API cleaned up before mainnet was "quite already like a little bit of an uphill battle."
 
 ## DEVCON0
 
@@ -83,3 +89,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [DEVCON0 Recap](/articles/devcon-0-recap/)
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
+- [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller

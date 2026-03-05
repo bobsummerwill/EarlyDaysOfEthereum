@@ -594,7 +594,7 @@ Yeah. But, you know, many, many people that were involved early, you know, they'
 
 [[44:27]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2667s) **Amir Taaki:** I think all the money started to come in and they all started to go, and then I was in Europe, and then [I went to Syria](https://www.bbc.com/news/uk-39417937).
 
-![syria](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3D81/production/_95354751_amir_taaki_outside.jpg.webp)
+![syria](/images/ichef.bbci.co.uk/2026.02.19/amir_taaki_outside.jpg)
 
 [[44:34]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=2674s) **Bob Summerwill:** Yes, yes. But yeah, I mean, the timeline of that was Ethereum White Paper November, kind of team starting to gather about December, BTC Miami. Were you at BTC Miami in January? Did you go to that one? No.
 
@@ -664,7 +664,7 @@ So, I mean, [Early Days of Ethereum](https://earlydaysofeth.org). What are your 
 
 [[50:45]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=3045s) **Bob Summerwill:** No, I mean, it's been a criticism I've had for a number of years is you'll see [Vitalik](/people/vitalik-buterin), you know, plop out this big roadmap diagram thing. And I remember first looking at it and there were three little boxes in the top corner that were "transition to proof of stake". Three boxes that took eight years. And you've got 50 odd things on this diagram. And it's like there's decades and decades of work to do all of this. And also, you know, the plan's going to change every year anyway. You're never going to get to the end of that. And it's like, yeah, what's "feature complete"? What are you aiming for? When's good enough?
 
-![roadmap](/images/reddit.com/2026.01.03/r/ethereum/comments/18uowrb/vitalik_updated_roadmap_diagram/roadmap.webp)
+![roadmap](/images/reddit.com/2026.01.03/r/ethereum/comments/18uowrb/vitalik_updated_roadmap_diagram/roadmap.jpg)
 
 [[51:30]](https://www.youtube.com/watch?v=c5VcpUIU_6w&t=3090s) **Amir Taaki:** I also think Ethereum needs to be more product-focused. I don't mean product-focused by paying lots of useless focus groups or UI designers that used to work at Facebook or something like that. I mean actually going, what is it we want to do and how do we develop the tech to fulfill that objective and aggressively pursue one or two use cases, deliver them and expand that. Like, not like, Ethereum is like, it was made in a time when you can launch absolutely anything and it would succeed. And, you know, they did really well. But the thing is, people see what Ethereum did and they think that's gospel for how to start a new project in crypto, right, playbook. And I think that's maybe that's hampering a lot of people. And the, actually, you know, the, when you, the Ethereum early on was like, we're like apolitical, we're a neutral technology, you know, blah blah, application platform. Yeah. And I think it just didn't... They need to be more strategic. When you make a project, you have an end goal that you want to get to, you have a strategy, and you have a roadmap, and you have milestones in the roadmap. And I think it's really important that underlying technologies are developed in parallel to applications and the people using them. So when you develop applications and you field them, then you see how the technology needs to evolve. Otherwise, you know, when you give technology to the hands of technologists, and this is what Ethereum has also suffered from.
 

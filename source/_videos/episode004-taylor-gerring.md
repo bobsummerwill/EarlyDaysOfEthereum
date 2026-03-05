@@ -345,7 +345,7 @@ Switzerland was treating us really, really well up until that point and they off
 
 So, yeah, maybe just one last piece then is, later there in 2015, you had [DEVCON1](https://archive.devcon.org/watch/?event=devcon-1&sort=eventId&order=desc), which was the very first public conference there in London, which nearly didn't happen because of that running out of money.  And my understanding is really that [Joe](/people/joe-lubin/) and Andrew of [ConsenSys](https://consensys.io/) really funded that. So what are your memories of that first conference?  How was it to have a big public conference and people interested and some big companies represented as well?
 
-![DEVCON1](https://d.ibtimes.co.uk/en/full/1465178/devcon-1.webp?w=736&f=ed81cfaae45c4d164c0121f363bb4726)
+![DEVCON1](/images/d.ibtimes.co.uk/2026.02.19/devcon-1.jpg)
 
 [[1:06:37]](https://www.youtube.com/watch?v=PSA1hWb7y9A&t=3997s) **Taylor:** Yeah.  Your recollection is the same as mine in the sense that [ConsenSys](https://consensys.io/) definitely carried the weight of that conference in terms of financial and organizational. From my standpoint I remember being so thrilled to have an event that was like all our own we had been crashing you know quote unquote crashing Bitcoin sort of parties which we were feeling less and less welcome to.  Bitcoin Expo 2014 it was like we had a booth there but there was a lot of not concern, not criticism, but like just people were not entirely sure of what we had going on.
 

@@ -1,7 +1,7 @@
 ---
 name: Robert Habermeier
 description: Parity Technologies, Thiel Fellow 2018
-photo: /images/people/robert-habermeier.webp
+photo: /images/people/robert-habermeier.jpg
 start: Mar 2016
 social:
   website: https://www.rob.tech/

@@ -430,7 +430,14 @@ nav ul {
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--spacing-3xl);
+}
+
+nav ul li {
+    margin-right: var(--spacing-3xl);
+}
+
+nav ul li:last-child {
+    margin-right: 0;
 }
 
 /**
@@ -533,7 +540,13 @@ img {
     }
     nav ul {
         flex-direction: column;
-        gap: var(--spacing-lg);
+    }
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: var(--spacing-lg);
+    }
+    nav ul li:last-child {
+        margin-bottom: 0;
     }
 }
 
@@ -753,19 +766,25 @@ img {
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-md);
     height: 100%;
+}
+
+.person-card > * + * {
+    margin-top: var(--spacing-md);
 }
 
 .person-card .person-header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: var(--spacing-lg);
 }
 
-.person-card .person-header:not(:has(.person-photo)) {
-    gap: var(--spacing-sm);
+.person-card .person-header > * + * {
+    margin-top: var(--spacing-lg);
+}
+
+.person-card .person-header:not(:has(.person-photo)) > * + * {
+    margin-top: var(--spacing-sm);
 }
 
 /**
@@ -780,7 +799,6 @@ img {
 .person-photo {
     position: relative !important;
     width: 100% !important;
-    aspect-ratio: 1/1 !important;
     overflow: hidden !important;
     border-radius: var(--radius-lg) !important;
     background: none !important;
@@ -788,6 +806,14 @@ img {
     margin: 0 !important;
     padding: 0 !important;
     display: block !important;
+}
+
+/* Use ::before for 1:1 aspect ratio - avoids Safari <15 bug where
+   percentage padding-bottom on flex items resolves to 0 */
+.person-photo::before {
+    content: '';
+    display: block;
+    padding-bottom: 100%;
 }
 
 /**
@@ -812,7 +838,10 @@ img {
 /* When used inside a .person-photo container, ensure the placeholder fills the frame */
 .person-photo .no-photo {
     position: absolute;
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     border-radius: inherit;
 }
 
@@ -937,7 +966,10 @@ img {
     text-align: center;
     display: flex;
     justify-content: center;
-    gap: var(--spacing-md);
+}
+
+.person-action-buttons > * + * {
+    margin-left: var(--spacing-md);
 }
 
 .person-action-buttons.dual-buttons {
@@ -947,7 +979,6 @@ img {
 .action-button {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
     background: #007acc;
     color: #fff !important;
     padding: var(--spacing-sm) var(--spacing-xl);
@@ -982,6 +1013,7 @@ img {
 .action-svg {
     vertical-align: middle;
     flex-shrink: 0;
+    margin-right: 6px;
 }
 
 /**
@@ -998,7 +1030,6 @@ img {
 .interview-link {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
     background: #007acc;
     color: #fff !important;
     padding: var(--spacing-sm) var(--spacing-xl);
@@ -1046,7 +1077,10 @@ img {
     .content-list li {
         flex-direction: column;
         align-items: flex-start;
-        gap: 5px;
+    }
+    .content-list li > * + * {
+        margin-left: 0;
+        margin-top: 5px;
     }
     
     .date, .role {
@@ -1189,7 +1223,10 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: var(--spacing-2xl);
+}
+
+.content-list li > * + * {
+    margin-left: var(--spacing-2xl);
 }
 
 .content-list a {
@@ -1263,7 +1300,6 @@ img {
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
-    gap: var(--spacing-2xl);
     transition: box-shadow 0.2s ease;
 }
 
@@ -1312,6 +1348,7 @@ img {
 .video-info {
     flex: 1;
     min-width: 0;
+    padding-left: 15px;
 }
 
 .video-info h3 {
@@ -1473,7 +1510,7 @@ img {
 /* Blog embed content areas */
 .blog-embed-meta {
   padding: 18px 18px 16px 18px;
-  background: white;
+  background: var(--bg-card);
 }
 
 .blog-embed-title {
@@ -1489,7 +1526,7 @@ img {
   margin-bottom: 6px;
   color: #222;
   padding: 12px 18px 0 18px;
-  background: white;
+  background: var(--bg-card);
 }
 
 .blog-embed-description {
@@ -1674,6 +1711,10 @@ img {
         max-width: 400px;
         align-self: center;
     }
+    .video-info {
+        padding-left: 0;
+        padding-top: 15px;
+    }
     .video-meta .release-date {
         margin-left: 0;
         display: block;
@@ -1726,7 +1767,6 @@ img {
 .person-social-links {
     margin: var(--spacing-2xl) 0;
     display: flex;
-    gap: var(--spacing-xl);
     align-items: center;
 }
 
@@ -1741,6 +1781,11 @@ img {
     color: var(--text-light);
     text-decoration: none;
     transition: var(--transition-fast);
+    margin-right: var(--spacing-xl);
+}
+
+.person-social-links a:last-child {
+    margin-right: 0;
 }
 
 .person-social-links a:hover {
@@ -1845,7 +1890,6 @@ img {
     border-radius: var(--radius-lg);
     border-left: var(--spacing-sm) solid var(--primary-blue);
     display: flex;
-    gap: var(--spacing-2xl);
     transition: box-shadow 0.2s ease;
 }
 
@@ -1880,6 +1924,7 @@ img {
 .article-info {
     flex: 1;
     min-width: 0;
+    padding-left: 15px;
 }
 
 .article-info h3 {
@@ -1932,6 +1977,10 @@ img {
         width: 100%;
         max-width: 400px;
         align-self: center;
+    }
+    .article-info {
+        padding-left: 0;
+        padding-top: 15px;
     }
     .article-meta .release-date {
         margin-left: 0;
@@ -2129,7 +2178,10 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: var(--spacing-2xl);
+}
+
+.ethereum-logo-container > * + * {
+    margin-top: var(--spacing-2xl);
 }
 
 .ethereum-diamond {
@@ -2211,11 +2263,14 @@ main {
 .site-nav-list {
     display: flex;
     flex-wrap: nowrap;
-    gap: 20px;
     justify-content: center;
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+.site-nav-list li {
+    margin: 0 10px;
 }
 
 .footer-gradient {
@@ -2232,8 +2287,11 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 18px;
     margin: 0;
+}
+
+.footer-desktop > * + * {
+    margin-top: 18px;
 }
 
 .footer-mobile {
@@ -2241,8 +2299,11 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 18px;
     margin: 0;
+}
+
+.footer-mobile > * + * {
+    margin-top: 18px;
 }
 
 .footer-brand-container {
@@ -2574,7 +2635,7 @@ main {
 
 .content-embed-meta {
     padding: 12px;
-    background: white;
+    background: var(--bg-card);
 }
 
 .content-embed-title {
@@ -2597,6 +2658,14 @@ main {
     font-size: 0.98em;
     color: #444;
     margin-bottom: 6px;
+}
+
+.content-embed-description p {
+    margin: 0;
+}
+
+.content-embed-description p + p {
+    margin-top: 0.5em;
 }
 
 .content-embed-author-link {

@@ -149,7 +149,8 @@ layout: default
                 <h2>Contents</h2>
                 <ul style="margin-left: 2em;">
                     {% for item in page.table_of_contents %}
-                    <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+                    {% assign toc_title = item.title | markdownify | strip_html | strip %}
+                    <li><a href="{{ item.link }}">{{ toc_title }}</a></li>
                     {% endfor %}
                 </ul>
             </div>

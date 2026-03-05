@@ -7,15 +7,15 @@ social:
   github: https://github.com/wanderer
 ---
 
-Martin Becze was an early Ethereum core developer who joined the project in May 2014. He worked extensively on the JavaScript implementation of Ethereum and was a key contributor to the ethereumjs project.
+Martin Becze was an early Ethereum core developer who built the Node.js Ethereum client and created the [EIP (Ethereum Improvement Proposals)](https://github.com/ethereum/EIPs) repository, the framework through which Ethereum standards like [ERC-20](https://eips.ethereum.org/EIPS/eip-20) would be proposed and formalized.
 
-## EIPs
+At [DEVCON0](/articles/devcon0/) in November 2014, Martin participated in the client panel discussion alongside Gavin Wood (C++), Jeff Wilcke (Go), and Heiko Hees (Python), representing the Node-Ethereum implementation.
 
-Martin played a foundational role in the Ethereum Improvement Proposals (EIPs) process. He was one of the initial editors and maintainers of the [EIPs repository](https://github.com/ethereum/EIPs) on GitHub, with numerous commits from late 2015 through mid-2016 establishing the structure and workflow for how protocol changes would be proposed and documented.
+Fabian Vogelsteller credited the EIP repository as the catalyst for formalizing the ERC-20 token standard:
 
-## ewasm
+> "Martin Becze before created the EIP repository and I think Gavin or whatever mentioned like, where do we do the standardization? And I think he mentioned, yeah, we have the EIP repository. That would be the right place." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
 
-Martin was also a contributor to the ewasm (Ethereum WebAssembly) initiative, which explored replacing the EVM with a WebAssembly-based execution engine.
+Martin also contributed to the ewasm (Ethereum WebAssembly) initiative, which explored replacing the EVM with a WebAssembly-based execution engine.
 
 ## Writing
 

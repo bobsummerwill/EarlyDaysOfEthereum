@@ -7,3 +7,4 @@ social:
   linkedin: https://www.linkedin.com/in/thomas-greco-eth
 ---
 
+Thomas Greco served as an advisor to the Ethereum project from March 2016.

@@ -17,7 +17,7 @@
   {% assign seo_title = seo_title | append: " - " | append: site.title %}
 {% endif %}
 
-{% assign seo_description = page.description | default: page.excerpt | strip_html | truncate: 160 | default: site.description %}
+{% assign seo_description = page.description | default: page.excerpt | markdownify | strip_html | strip_newlines | strip | truncate: 160 | default: site.description %}
 
 {% assign seo_author = page.author | default: site.author %}
 

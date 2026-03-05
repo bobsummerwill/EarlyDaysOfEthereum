@@ -31,7 +31,7 @@ Gavin introduced himself in his [first development update](/articles/gavs-dev-up
 
 > "I'm Gav - together with Jeffrey Wilcke and Vitalik Buterin, I'm one third of the ultimate leadership of Ethereum ÐΞV."
 
-He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including [Aeron Buchanan](/people/aeron-buchanan/), [Sarah O'Neill](/people/sarah-o-neill/), and [Jutta Steiner](/people/jutta-steiner/).
+He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including [Aeron Buchanan](/people/aeron-buchanan/), [Sarah O'Neill](/people/sarah-oneill/), and [Jutta Steiner](/people/jutta-steiner/).
 
 ## Technical Contributions
 

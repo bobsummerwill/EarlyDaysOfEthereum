@@ -3,9 +3,9 @@ name: Joseph Chow
 photo: /images/archive.org/ethereum.org/20140701165441/chow-joseph.jpg
 start: Feb 2014
 devcon0: '1211'
+hidden: true
 social:
   github: https://github.com/ethers
-  linkedin: https://www.linkedin.com/in/josephmchow/
 ---
 
 Joseph's first commit on **node-ethereum** was on 3rd February 2014, under the name **mansay** with **Joe Zhou** in the copyright notice.

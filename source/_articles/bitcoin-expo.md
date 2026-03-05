@@ -8,7 +8,7 @@ embed:
   site: bitcoinexpo.ca
 ---
 
-Bitcoin Expo 2014 was the first Bitcoin Expo in Canada, held April 11-13, 2014 in Toronto. Organized by Anthony Di Iorio through the Bitcoin Alliance of Canada and hosted at Bitcoin Decentral, it was a pivotal early event for Ethereum.
+Bitcoin Expo 2014 was the first Bitcoin Expo in Canada, held April 11-13, 2014 in Toronto. Organized by Anthony Di Iorio through the Bitcoin Alliance of Canada and hosted at Metro Toronto Convention Centre, it was a pivotal early event for Ethereum.
 
 ## Ethereum as Sponsor
 
@@ -68,15 +68,16 @@ Notable attendees included:
 - Gavin Wood
 - Anthony Di Iorio
 - Taylor Gerring
-- Amir Taaki
 - Richard Stott
-- Roxana Sureanu
-- Chris Odom (speaker)
+- Amir Taaki
+- Chris Odom
 - Adam B. Levine
-
-![Roxana making smoothies before Bitcoin Expo](/images/x.com/2025.09.07/TaylorGerring/status/1511860696333660162/1511860696333660162_1.jpg)
-
-*"Who likes smoothies? Roxana made these beautiful mango treats before we would take off for Bitcoin Expo 2014 in Toronto" – Taylor Gerring*
+- Charlie Lee
+- Cody Wilson
+- David Bailey
+- David Johnston
+- Andreas Antonopoulos
+- Amber Scott
 
 ![Amir Taaki and Adam B. Levine at Bitcoin Expo 2014](/images/x.com/2025.09.07/TaylorGerring/status/1515057938649468930/1515057938649468930_1.jpg)
 

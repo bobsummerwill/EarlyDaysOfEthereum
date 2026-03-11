@@ -17,7 +17,7 @@ title: Conversations
   Video conversations documenting the early days of Ethereum, featuring key participants and historical insights.
 </p>
 
-{% assign sorted_videos = site.videos | sort: 'date' %}
+{% assign sorted_videos = site.videos | sort: 'date' | reverse %}
 {% assign conversation_videos = sorted_videos | where: 'show', true %}
 
 <div class="stats">

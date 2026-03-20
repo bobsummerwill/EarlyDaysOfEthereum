@@ -14,6 +14,10 @@ Peter Todd is a Canadian software developer and applied cryptography consultant 
 
 Todd became involved in the cypherpunk community as a teenager, communicating with figures like Adam Back and Hal Finney. He became a Bitcoin Core contributor and was known for his work on transaction fee policies, replace-by-fee (RBF), and his advocacy for keeping Bitcoin's block size small during the scalability debates of 2015-2017.
 
+## Toronto Bitcoin Scene
+
+Episode 16 adds a small but useful detail to Todd's Canadian Bitcoin history. Anthony Di Iorio says Peter Todd was present at the very first Toronto Bitcoin meetup in November 2012, placing him inside the tiny early community from which Vitalik Buterin, Di Iorio, and other future Ethereum figures were already starting to intersect.
+
 ## OpenTimestamps
 
 Todd created OpenTimestamps, an open-source project for creating provable timestamps using the Bitcoin blockchain. The system allows anyone to create a cryptographic proof that a piece of data existed at a certain point in time.

@@ -24,6 +24,12 @@ Before Ethereum, Mihai co-founded Bitcoin Magazine with Vitalik Buterin, establi
 
 [Viktor Trón](/people/viktor-tron/) also met Mihai at an early London Ethereum meetup organized by [Stephan Tual](/people/stephan-tual/) in 2014.
 
+Anthony Di Iorio's interview adds that he viewed Mihai as part of the initial five-person founder group and thought of him primarily then as Vitalik's Bitcoin Magazine partner working remotely from Romania.
+
+## Remote Constraints
+
+Episode 16 also adds a practical detail about Mihai's early involvement: visa issues limited his travel. Di Iorio says Mihai could not attend the Miami conference and also could not make it to the Bitcoin Expo event in Canada, meaning that some of Ethereum's earliest in-person gatherings happened without one of its core co-founders physically present.
+
 ## Founding the Legal Entities
 
 Mihai was instrumental in establishing Ethereum's Swiss legal structure:
@@ -94,3 +100,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Crypto Valley](/articles/crypto-valley/)
 - [Episode 4](/videos/episode004-taylor-gerring/) with Taylor Gerring
 - [Episode 10](/videos/episode010-viktor-tron/) with Viktor Trón
+- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)

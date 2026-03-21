@@ -9,6 +9,23 @@ social:
 
 Dino Mark was an early participant in the Ethereum community, involved from January 2014 during the project's pre-launch phase.
 
+## Toronto Bitcoin Scene
+
+Episode 16 pushes Dino's connection to the broader story back even earlier. Anthony Di Iorio says Dino Mark was present at his very first Toronto Bitcoin meetup in November 2012, alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Peter Todd](/people/peter-todd/).
+
+That makes Dino part of the tiny initial Toronto Bitcoin circle out of which much of Ethereum's Canadian prehistory later emerged.
+
+## Miami House
+
+Dino also appears in the well-known Miami house photo from January 2014, placing him among the wider group physically present around Ethereum's first public announcement period.
+
+![The Ethereum team at the Miami house](/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg)
+
 ## The DAO and Ethereum Governance
 
 Dino Mark became notably known for co-authoring a paper in 2016 analyzing vulnerabilities in The DAO's smart contract code. Along with Vlad Zamfir and Emin Gün Sirer, he published "A Call for a Temporary Moratorium on The DAO" which warned of security issues before the June 2016 hack occurred. The paper identified several critical vulnerabilities and recommended that investors hold off from directing The DAO to invest in projects until the problems had been resolved.
+
+## Primary Sources
+
+- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Taylor Gerring's photos from 2014](/articles/taylor-gerring-photos/)

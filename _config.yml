@@ -43,6 +43,21 @@ bing_site_verification: ""  # Bing Webmaster Tools verification (add when availa
 google_analytics: "G-K07HLJER91"  # Google Analytics 4 tracking ID
 
 # ============================================================================
+# Social Identity
+# ============================================================================
+# Centralized social/profile metadata used by SEO tags and structured data.
+
+twitter:
+  username: "bobsummerwill"
+
+social:
+  linkedin_owner: "bobsummerwill"
+  links:
+    - "https://github.com/bobsummerwill/EarlyDaysOfEthereum"
+    - "https://x.com/bobsummerwill"
+    - "https://www.linkedin.com/in/bobsummerwill"
+
+# ============================================================================
 # Jekyll Build Settings
 # ============================================================================
 # These settings control how Jekyll processes and builds your site.

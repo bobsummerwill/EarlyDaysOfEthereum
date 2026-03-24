@@ -5,9 +5,9 @@ author: "Epicenter"
 hosts: ["Brian Fabian Crain", "Meher Roy"]
 guests: ["Gavin Wood"]
 description: "Epicenter interview in which Gavin Wood revisits how he found Ethereum, explains his first-principles design philosophy, recounts the origins of Parity and Polkadot, and makes the case for on-chain governance."
-img: /images/image.simplecastcdn.com/2026.01.05/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg
+img: /images/i.ytimg.com/2026.03.24/vi/eP4mT19S_jg/maxresdefault.jpg
 embed:
-  url: https://www.youtube.com/watch?v=eP4mT19S_jg
+  url: https://www.youtube.com/embed/eP4mT19S_jg
 table_of_contents:
   - link: "#overview"
     title: "Overview"

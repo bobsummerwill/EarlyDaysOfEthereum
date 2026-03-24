@@ -75,7 +75,7 @@ The same interview also captures how central Vitalik had become to Ethereum's pu
   author="BoxxyBrassin"
   date="2013-08-31"
   site="YouTube"
-  img="https://i.ytimg.com/vi/4oZs6RpLuak/maxresdefault.jpg"
+  img="/images/i.ytimg.com/2026.03.24/vi/4oZs6RpLuak/maxresdefault.jpg"
 %}
 
 {% include content-embed.html

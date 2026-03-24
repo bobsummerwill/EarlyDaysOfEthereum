@@ -33,10 +33,15 @@ When Gavin Wood left the Ethereum Foundation, Marek was one of the core develope
 
 After Marek's departure, Fabian Vogelsteller took over maintenance of web3.js.
 
+## Polkadot Genesis
+
+In Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin said the genesis of [Polkadot](https://polkadot.network/) began with an off-chance 2016 conversation with Marek in San Francisco. According to Gavin, Marek asked whether they could build a sharded-Ethereum-like system themselves while they were waiting for Ethereum's next major scaling design to materialize.
+
 ## Primary Sources
 
 This profile draws from:
 - [Gav's ÐΞV Updates](/articles/gavs-dev-update-i/) through [V](/articles/gavs-dev-update-v/)
 - [The Last Blog Post](/articles/gavs-last-post/) (Gavin Wood's farewell)
 - [DEVCON0 Recap](/articles/devcon-0-recap/)
+- [Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance](/videos/gavin-wood-substrate-polkadot-on-chain-governance/)
 - [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller

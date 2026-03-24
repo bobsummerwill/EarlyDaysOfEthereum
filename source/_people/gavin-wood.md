@@ -49,6 +49,8 @@ Beyond the Yellow Paper, Gavin made foundational technical contributions:
 
 ## Development Philosophy
 
+In his 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin described "learning by implementing" as a core habit. He argued that coding forces designers to confront edge cases and exposes where ideas that look elegant in a white paper fail in practice.
+
 Gavin documented Ethereum's unique development process in March 2015:
 
 > "So I'm not sure if this kind of development methodology has ever been applied to such an extreme before so I figured I'd document it. In a nutshell, it's sort of like test-driven triplet-programming development."

@@ -12,6 +12,14 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Vitalik_Buterin
 ---
 
+## Connecting Gavin Wood
+
+In Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin recalled that [Jonathan James Harrison](/people/jonathan-james-harrison/) ("Johnny Bitcoin") had been spending time around Barcelona with Vitalik, received an early Ethereum white paper draft from him, and then passed it to Gavin while making the introduction between the two. That chain of contact was one of the routes by which Gavin entered Ethereum's earliest development.
+
+## Governance Debates
+
+The same interview also captures how central Vitalik had become to Ethereum's public governance debates by 2018. Brian Fabian Crain framed Vitalik and [Vlad Zamfir](/people/vlad-zamfir/) as leading voices for off-chain social consensus, while Gavin responded directly to Vitalik's critique of on-chain governance and referenced Vitalik's ideas around quadratic voting.
+
 {% include content-embed.html
   url="https://omnifoundation.wordpress.com/2014/02/04/should-the-master-protocol-do-scripting/"
   title="Should the Master Protocol do Scripting?"
@@ -76,3 +84,7 @@ social:
   date="January 2015"
   site="Counterparty (archived)"
 %}
+
+## Primary Sources
+
+- [Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance](/videos/gavin-wood-substrate-polkadot-on-chain-governance/)

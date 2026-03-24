@@ -25,14 +25,10 @@ See also the partial public histories in:
   url="https://twitter.com/peter_szilagyi/status/895560354951872512"
 %}
 
-In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonathan-james-harrison/) AKA "Jonny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki](/people/amir-taaki/):
+In Gav's Epicenter interview, he named [Jonathan James Harrison](/people/jonathan-james-harrison/) AKA "Johnny Bitcoin" as the individual who pointed out Ethereum to him. He had met Johnny through [Amir Taaki](/people/amir-taaki/):
 
-{% include content-embed.html
-  title="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
-  site="https://epicenter.tv"
-  date="Oct 31st, 2018"
-  url="https://epicenter.tv/episodes/259/"
-  img="/images/image.simplecastcdn.com/2026.01.05/images/3fd3384e-ef77-4fde-81aa-9b946a76e280/545561a1-d08b-4920-b8e5-d755e125013c/300x300/podcast-cover-free.jpg"
+{% include video-embed.html
+  name="Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
 %}
 
 {% include content-embed.html
@@ -215,4 +211,3 @@ document.addEventListener('DOMContentLoaded', function() {
   date="November 16, 2018"
   site="Token Economy"
 %}
-

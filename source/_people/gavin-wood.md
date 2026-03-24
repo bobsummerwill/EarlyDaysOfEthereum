@@ -15,6 +15,10 @@ social:
 
 Gavin Wood is an Ethereum co-founder who authored the [Yellow Paper](/articles/yellow-paper/) (Ethereum's formal technical specification), created [Solidity](/articles/solidity/), and led the [C++ client](/articles/cpp-ethereum/) development. He was one of three directors of [Ethereum ÐΞV](/articles/eth-dev-cic/) alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Jeff Wilcke](/people/jeff-wilcke/).
 
+## Finding Ethereum
+
+In his 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin explained that his path into Ethereum ran through [Amir Taaki](/people/amir-taaki/) and [Jonathan James Harrison](/people/jonathan-james-harrison/) ("Johnny Bitcoin"). After meeting them in London's Bitcoin/squatter scene, Johnny passed Gavin an early Ethereum white paper and introduced him to [Vitalik Buterin](/people/vitalik-buterin/).
+
 ## Early Development
 
 Gavin started building the C++ implementation of Ethereum just days after Christmas 2013, around the same time Jeff Wilcke began the Go client. Bob Summerwill described the timing:
@@ -87,6 +91,7 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Gav's ÐΞV Update I](/articles/gavs-dev-update-i/) through [V](/articles/gavs-dev-update-v/)
 - [The Last Blog Post](/articles/gavs-last-post/)
 - [DEVCON0 Recap](/articles/devcon-0-recap/)
+- [Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance](/videos/gavin-wood-substrate-polkadot-on-chain-governance/)
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
 - [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller

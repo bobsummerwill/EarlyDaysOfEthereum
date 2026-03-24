@@ -16,6 +16,8 @@ Mihai Alisie is an Ethereum co-founder who played a central role in establishing
 
 Before Ethereum, Mihai co-founded Bitcoin Magazine with Vitalik Buterin, establishing a professional relationship that would carry into Ethereum's founding.
 
+Gavin Wood recalled first meeting Mihai through [Amir Taaki](/people/amir-taaki/)'s London squat, where Amir introduced Mihai simply as "he does Bitcoin Magazine." That encounter predates Gavin's own involvement in Ethereum and places Mihai directly inside the social network from which several early contributors emerged.
+
 ## Connecting the Team
 
 [Taylor Gerring](/people/taylor-gerring/) met Mihai in Milan, Italy in late 2013 while working for [Wendell Davis](/people/wendell-davis/) at Hive Bitcoin wallet:
@@ -92,5 +94,6 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Stiftung Ethereum](/articles/stiftung-ethereum/)
 - [Ethereum Switzerland GmbH](/articles/ethereum-switzerland-gmbh/)
 - [Crypto Valley](/articles/crypto-valley/)
+- [Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance](/videos/gavin-wood-substrate-polkadot-on-chain-governance/)
 - [Episode 4](/videos/episode004-taylor-gerring/) with Taylor Gerring
 - [Episode 10](/videos/episode010-viktor-tron/) with Viktor Trón

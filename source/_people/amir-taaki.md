@@ -64,6 +64,8 @@ The hack lab worked on cryptocurrency tools for the cooperative network, develop
 
 > "I was impressed by it. I was like, whoa, he's got a KDE email."
 
+Gavin described reaching out to Amir after seeing him in Bitcoin news coverage and being struck by him as "a revolutionary, a kind of crypto programmer, cypherpunk kind of revolutionary guy." In Gavin's account, Amir's invitation to the London squat directly led to Gavin meeting both Mihai and Johnny, and from there to Ethereum.
+
 Johnny would later introduce Gavin to Vitalik, leading to Gavin becoming Ethereum's co-founder and CTO.
 
 ## Declining the Ethereum Role
@@ -158,3 +160,5 @@ Amir's current project is [DarkFi](https://dark.fi), an L1 blockchain with anony
 ## Primary Source
 
 This profile draws from [Amir Taaki's Early Days of Ethereum interview](/videos/episode009-amir-taaki/), recorded at Dark Prague in December 2025, which provides first-hand accounts of early Bitcoin development, the hack lab culture, and his connections to Ethereum's founders.
+
+It is supplemented by [Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), where Gavin recounts first contacting Amir and visiting the London squat.

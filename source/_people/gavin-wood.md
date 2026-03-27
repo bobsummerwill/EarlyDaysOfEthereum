@@ -25,6 +25,12 @@ Gavin started building the C++ implementation of Ethereum just days after Christ
 
 > "Various other people sort of joined in on the efforts in December, including Gav and Jeff who started the C++ and Go clients, respectively, at the very end—at the very end of December, kind of Christmas projects for them both." — Bob Summerwill
 
+## Miami
+
+Episode 16 adds Anthony Di Iorio's account of how Gavin got to the January 2014 Miami conference. According to Di Iorio, Vitalik told him there was a promising developer in the UK who could not afford the trip, and Di Iorio paid for Gavin's ticket.
+
+Di Iorio also recalls that Miami was the first time he met Gavin in person and describes him as the workhorse of the house. While others were socializing, Gavin was coding intensely and, in Di Iorio's telling, got the first proof of concept out there.
+
 ## The Yellow Paper
 
 In April 2014, Gavin published the [Yellow Paper](/articles/yellow-paper/)—the formal mathematical specification of the Ethereum protocol. This document provided the rigorous technical foundation that enabled multiple independent implementations to achieve consensus.
@@ -97,3 +103,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
 - [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller
+- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)

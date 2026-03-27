@@ -12,6 +12,12 @@ social:
 
 Charles Hoskinson is one of the eight Ethereum co-founders who served as Ethereum's short-lived CEO during the project's formative months. He was removed from leadership during the "[Red Wedding](/articles/red-wedding/)" in June 2014 and later co-founded [IOHK](https://iohk.io/) (IO Global) and the Cardano blockchain.
 
+## Path to Ethereum
+
+Episode 16 adds Anthony Di Iorio's account of how Hoskinson entered the Ethereum project. Before introducing him to Vitalik, Di Iorio says he already knew Charles through overlapping Bitcoin advocacy work: Di Iorio was organizing in Canada, while Hoskinson was doing Bitcoin education work in the United States.
+
+When Vitalik showed Di Iorio the white paper in late 2013, Di Iorio says much of it went over his head, so he showed it to Hoskinson for validation. In Di Iorio's recollection, Hoskinson immediately recognized the significance of the idea and said, in effect, "this is it." Di Iorio explicitly frames that moment as how Charles got brought into the mix.
+
 ## Miami Conference
 
 Charles was present at the Miami Bitcoin Conference on January 26, 2014, when [Vitalik Buterin](/people/vitalik-buterin/) first publicly announced Ethereum. He stayed at the house [Anthony Di Iorio](/people/anthony-di-iorio/) rented, appearing in the iconic team photo alongside Vitalik Buterin, Joe Lubin, Gavin Wood, Anthony Di Iorio and Taylor Gerring.
@@ -70,4 +76,5 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Taylor Gerring Photos](/articles/taylor-gerring-photos/)
 - [Red Wedding](/articles/red-wedding/)
 - [Episode 4](/videos/episode004-taylor-gerring/) with Taylor Gerring
+- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
 - [The Cryptopians](/articles/the-cryptopians/) by Laura Shin

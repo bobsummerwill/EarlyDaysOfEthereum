@@ -32,7 +32,8 @@ image: "/images/archive.org/ethdev.com/20151210143340/ethdev-team_1200x630.png"
         <li><a href="#interregnum">The Interregnum (March 2015 to June 2015)</a></li>
         <li><a href="#the-ming-dynasty">The Ming Dynasty (July 2015 to January 2018)</a></li>
         <li><a href="#the-infinite-garden">The Infinite Garden (February 2018 to February 2025)</a></li>
-        <li><a href="#wartime-ceo">Wartime CEO? (March 2025 onwards)</a></li>
+        <li><a href="#wartime-ceo">Wartime CEO (March 2025 to January 2026)</a></li>
+        <li><a href="#the-mandate">The Mandate (February 2026 onwards)</a></li>
         <li><a href="#other-people">Other People</a></li>
     </ul>
 </div>
@@ -76,6 +77,18 @@ Sort date groups chronologically by extracting years and months
 {% assign years_2016 = "" | split: "" %}
 {% assign years_2017 = "" | split: "" %}
 {% assign years_2018 = "" | split: "" %}
+{% assign years_2019 = "" | split: "" %}
+{% assign years_2020 = "" | split: "" %}
+{% assign years_2021 = "" | split: "" %}
+{% assign years_2022 = "" | split: "" %}
+{% assign years_2023 = "" | split: "" %}
+{% assign years_2024 = "" | split: "" %}
+{% assign years_2025 = "" | split: "" %}
+{% assign years_2026 = "" | split: "" %}
+{% assign years_2027 = "" | split: "" %}
+{% assign years_2028 = "" | split: "" %}
+{% assign years_2029 = "" | split: "" %}
+{% assign years_2030 = "" | split: "" %}
 {% assign years_other = "" | split: "" %}
 
 {% for date_str in date_groups %}
@@ -91,6 +104,30 @@ Sort date groups chronologically by extracting years and months
         {% assign years_2017 = years_2017 | push: date_str %}
     {% elsif date_str contains "2018" %}
         {% assign years_2018 = years_2018 | push: date_str %}
+    {% elsif date_str contains "2019" %}
+        {% assign years_2019 = years_2019 | push: date_str %}
+    {% elsif date_str contains "2020" %}
+        {% assign years_2020 = years_2020 | push: date_str %}
+    {% elsif date_str contains "2021" %}
+        {% assign years_2021 = years_2021 | push: date_str %}
+    {% elsif date_str contains "2022" %}
+        {% assign years_2022 = years_2022 | push: date_str %}
+    {% elsif date_str contains "2023" %}
+        {% assign years_2023 = years_2023 | push: date_str %}
+    {% elsif date_str contains "2024" %}
+        {% assign years_2024 = years_2024 | push: date_str %}
+    {% elsif date_str contains "2025" %}
+        {% assign years_2025 = years_2025 | push: date_str %}
+    {% elsif date_str contains "2026" %}
+        {% assign years_2026 = years_2026 | push: date_str %}
+    {% elsif date_str contains "2027" %}
+        {% assign years_2027 = years_2027 | push: date_str %}
+    {% elsif date_str contains "2028" %}
+        {% assign years_2028 = years_2028 | push: date_str %}
+    {% elsif date_str contains "2029" %}
+        {% assign years_2029 = years_2029 | push: date_str %}
+    {% elsif date_str contains "2030" %}
+        {% assign years_2030 = years_2030 | push: date_str %}
     {% else %}
         {% assign years_other = years_other | push: date_str %}
     {% endif %}
@@ -157,10 +194,106 @@ Sort 2017 dates by month
 {% endfor %}
 
 {% comment %}
-Sort 2018 dates by month
+Sort 2018-2030 dates by month
 {% endcomment %}
 {% for month in month_order %}
     {% for date_str in years_2018 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2019 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2020 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2021 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2022 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2023 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2024 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2025 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2026 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2027 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2028 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2029 %}
+        {% if date_str contains month %}
+            {% assign sorted_dates = sorted_dates | push: date_str %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% for month in month_order %}
+    {% for date_str in years_2030 %}
         {% if date_str contains month %}
             {% assign sorted_dates = sorted_dates | push: date_str %}
         {% endif %}
@@ -173,6 +306,48 @@ Add other dates (alphabetically sorted as fallback)
 {% assign years_other_sorted = years_other | sort %}
 {% for year_group in years_other_sorted %}
     {% assign sorted_dates = sorted_dates | push: year_group %}
+{% endfor %}
+
+{% comment %}
+Normalize the 2025/2026 boundary so epochs always render in chronological order
+{% endcomment %}
+{% assign pre_wartime_dates = "" | split: "" %}
+{% assign wartime_dates = "" | split: "" %}
+{% assign mandate_dates = "" | split: "" %}
+
+{% for start_date in sorted_dates %}
+    {% assign is_wartime_date = false %}
+    {% assign is_mandate_date = false %}
+
+    {% if start_date contains "2025" %}
+        {% unless start_date contains "Jan" or start_date contains "Feb" %}
+            {% assign is_wartime_date = true %}
+        {% endunless %}
+    {% elsif start_date contains "2026" %}
+        {% if start_date contains "Jan" %}
+            {% assign is_wartime_date = true %}
+        {% else %}
+            {% assign is_mandate_date = true %}
+        {% endif %}
+    {% elsif start_date contains "2027" or start_date contains "2028" or start_date contains "2029" or start_date contains "203" %}
+        {% assign is_mandate_date = true %}
+    {% endif %}
+
+    {% if is_wartime_date %}
+        {% assign wartime_dates = wartime_dates | push: start_date %}
+    {% elsif is_mandate_date %}
+        {% assign mandate_dates = mandate_dates | push: start_date %}
+    {% else %}
+        {% assign pre_wartime_dates = pre_wartime_dates | push: start_date %}
+    {% endif %}
+{% endfor %}
+
+{% assign sorted_dates = pre_wartime_dates %}
+{% for start_date in wartime_dates %}
+    {% assign sorted_dates = sorted_dates | push: start_date %}
+{% endfor %}
+{% for start_date in mandate_dates %}
+    {% assign sorted_dates = sorted_dates | push: start_date %}
 {% endfor %}
 
 {% comment %}
@@ -232,6 +407,7 @@ Display people grouped by start date with epoch headings
     {% endif %}
     
     {% assign is_2025_march_plus = false %}
+    {% assign is_2026_feb_plus = false %}
     {% if start_date contains "2019" or start_date contains "2020" or start_date contains "2021" or start_date contains "2022" or start_date contains "2023" or start_date contains "2024" %}
         {% assign is_2018_plus = true %}
     {% endif %}
@@ -241,6 +417,16 @@ Display people grouped by start date with epoch headings
         {% else %}
             {% assign is_2025_march_plus = true %}
         {% endif %}
+    {% endif %}
+    {% if start_date contains "2026" %}
+        {% if start_date contains "Jan" %}
+            {% assign is_2025_march_plus = true %}
+        {% else %}
+            {% assign is_2026_feb_plus = true %}
+        {% endif %}
+    {% endif %}
+    {% if start_date contains "2027" or start_date contains "2028" or start_date contains "2029" or start_date contains "203" %}
+        {% assign is_2026_feb_plus = true %}
     {% endif %}
     
     {% if is_2013 or is_2014_early %}
@@ -254,7 +440,9 @@ Display people grouped by start date with epoch headings
     {% elsif is_2018_plus %}
         {% assign epoch = "The Infinite Garden (February 2018 to February 2025)" %}
     {% elsif is_2025_march_plus %}
-        {% assign epoch = "Wartime CEO? (March 2025 onwards)" %}
+        {% assign epoch = "Wartime CEO (March 2025 to January 2026)" %}
+    {% elsif is_2026_feb_plus %}
+        {% assign epoch = "The Mandate (February 2026 onwards)" %}
     {% endif %}
     
     {% comment %}
@@ -272,8 +460,10 @@ Display people grouped by start date with epoch headings
             <h1 id="the-ming-dynasty">{{ epoch }}</h1>
         {% elsif epoch == "The Infinite Garden (February 2018 to February 2025)" %}
             <h1 id="the-infinite-garden">{{ epoch }}</h1>
-        {% elsif epoch == "Wartime CEO? (March 2025 onwards)" %}
+        {% elsif epoch == "Wartime CEO (March 2025 to January 2026)" %}
             <h1 id="wartime-ceo">{{ epoch }}</h1>
+        {% elsif epoch == "The Mandate (February 2026 onwards)" %}
+            <h1 id="the-mandate">{{ epoch }}</h1>
         {% else %}
             <h1>{{ epoch }}</h1>
         {% endif %}

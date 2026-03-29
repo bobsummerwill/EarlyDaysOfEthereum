@@ -30,9 +30,13 @@ Stiftung Ethereum (commonly known in the English-speaking world as the Ethereum 
 * 7th Jun 2018: [Ming](/people/ming-chan/) resigns and is replaced by [Aya](/people/aya-miyaguchi/).  This "paperwork" happened months after the actual switch, with [Ming](/people/ming-chan/)'s final day being 31st Jan 2018.
 * 22nd May 2019: [MUTARA Audit AG](https://www.grantthornton.ch/en/) replaced by [Grant Thornton AG](https://www.grantthornton.ch/en/) as auditor
 
-**Wartime CEO? (March 2025 onwards)**
+**Wartime CEO (March 2025 to January 2026)**
 
 * 9th March 2025 - Hsiao-Wei Wang appointed as board member.  Tomasz K. Stańczak and Hsiao-Wei Wang were appointed as co-Executive Directors, but Tomasz is not a board member.
+
+**The Mandate (February 2026 onwards)**
+
+* No changes recorded so far
 
 For many years, [https://ethereum.org/foundation](https://web.archive.org/web/20190222044758/https://ethereum.org/foundation) was the only public information on the Ethereum Foundation.  As you can see from that snapshot in February 2019, as well as being totally inadequate, the information was also chronically outdated, with [Aya](/people/aya-miyaguchi/) nowhere to be seen and with Jeff Wilcke still listed years after his departure.
 

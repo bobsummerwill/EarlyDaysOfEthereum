@@ -16,7 +16,9 @@ A comprehensive historical archive documenting the people, events, articles, and
   - Stiftung Ethereum and ETH ÐΞV (Jul 2014 - Feb 2015)
   - The Interregnum (Mar 2015 - Jun 2015)
   - The Ming Dynasty (Jul 2015 - Jan 2018)
-  - The Infinite Garden (Feb 2018 onwards)
+  - The Infinite Garden (Feb 2018 - Feb 2025)
+  - Wartime CEO (Mar 2025 - Jan 2026)
+  - The Mandate (Feb 2026 onwards)
 
 ### Why This Matters
 

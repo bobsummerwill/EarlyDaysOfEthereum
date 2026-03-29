@@ -1,6 +1,5 @@
 ---
 title: DEVolution GmbH
-date: 2014-01-01
 description: "DEVolution GmbH was a Swiss legal entity associated with early Ethereum development, now in liquidation"
 ---
 

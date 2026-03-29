@@ -1,10 +1,10 @@
 ---
 title: Ethereum Canada Inc.
-date: 2014-02-01
+date: 2014-02-10
 description: "Ethereum Canada Inc. was a Canadian corporation incorporated by Anthony Di Iorio in February 2014, reflecting his vision for Toronto-based Ethereum development"
 ---
 
-Ethereum Canada Inc. (Federal Corporation #8784825) was a Canadian corporation incorporated by [Anthony Di Iorio](/people/anthony-di-iorio/) in February 2014. The incorporation reflected Di Iorio's vision for Ethereum development to be centered in Toronto, where he had established [Bitcoin Decentral](https://decentral.ca/) as a cryptocurrency co-working space.
+Ethereum Canada Inc. ([Federal Corporation #8784825](https://www.canadacompanyregistry.com/companies/ethereum-canada-inc/)) was a Canadian corporation incorporated by [Anthony Di Iorio](/people/anthony-di-iorio/) in February 2014. The incorporation reflected Di Iorio's vision for Ethereum development to be centered in Toronto, where he had established [Bitcoin Decentral](https://decentral.ca/) as a cryptocurrency co-working space.
 
 The company was incorporated just days before the early Ethereum team traveled to Zug, Switzerland, where the project ultimately established its legal home instead. As Bob Summerwill explained:
 

@@ -1,6 +1,5 @@
 ---
 title: "Influences on Ethereum"
-date: 2013-12-01
 description: "Projects, concepts, and people that influenced Ethereum's design and vision, as cited by Vitalik Buterin and others."
 ---
 

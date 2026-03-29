@@ -1,6 +1,5 @@
 ---
 title: "Smart Contracts: Building Blocks for Digital Markets"
-date: 1996-01-01
 description: "Nick Szabo's foundational papers on smart contracts (1994–1996), which directly inspired Ethereum's programmable blockchain."
 embed:
   url: https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html

@@ -1,6 +1,5 @@
 ---
 title: "Client Software Start Dates"
-date: 2013-12-31
 description: "First commits and start dates for the major Ethereum client implementations and development tools."
 ---
 

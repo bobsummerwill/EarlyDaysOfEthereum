@@ -1,7 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 7 - Jacob Czepluch"
 date: 2025-12-03
-show: true
 guests: ["Jacob Czepluch"]
 hosts: ["Bob Summerwill"]
 description: "Jacob was an intern at ETHDEV in late 2015, so was a fly-on-the-wall in the Berlin office as the C++ team was defunded.  He had earlier founded the Copenhagen Ethereum Meetup"

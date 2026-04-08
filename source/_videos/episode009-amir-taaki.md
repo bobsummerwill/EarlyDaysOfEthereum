@@ -1,7 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 9 - Amir Taaki"
 date: 2025-12-31
-show: true
 guests: ["Amir Taaki"]
 hosts: ["Bob Summerwill"]
 description: "Bitcoin developer and privacy technologist Amir Taaki recounts finding Bitcoin, early development (Libbitcoin and BIPs), Dark Wallet, meeting Vitalik Buterin, and his perspective on Ethereum’s early days and DarkFi."

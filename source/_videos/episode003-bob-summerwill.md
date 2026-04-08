@@ -1,7 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 3 - Bob Summerwill"
 date: 2023-11-14
-show: true
 hosts: ["Victor Wong", "Kieren James-Lubin", "James Hormuzdiar"]
 guest: "Bob Summerwill"
 description: "Episode 3 of the Early Days of Ethereum video series features Bob Summerwill discussing his journey in blockchain and Ethereum."

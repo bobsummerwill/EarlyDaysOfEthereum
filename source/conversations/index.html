@@ -5,7 +5,7 @@ title: Conversations
 <!--
   Conversations Index Page
   =========================
-  This page lists video episodes marked as conversations (show: true) in the Early Days of Ethereum site.
+  This page lists video episodes in the Early Days of Ethereum site.
   - Jekyll Collections: https://jekyllrb.com/docs/collections/
   - Liquid Templating: https://shopify.github.io/liquid/
 -->
@@ -18,7 +18,7 @@ title: Conversations
 </p>
 
 {% assign sorted_videos = site.videos | sort: 'date' | reverse %}
-{% assign conversation_videos = sorted_videos | where: 'show', true %}
+{% assign conversation_videos = sorted_videos %}
 
 <div class="stats">
     {{ conversation_videos.size }} conversations

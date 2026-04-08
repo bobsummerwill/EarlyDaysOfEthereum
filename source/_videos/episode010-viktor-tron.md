@@ -1,7 +1,6 @@
 ---
 title: "Early Days of Ethereum - Episode 10 - Viktor Trón"
 date: 2026-01-21
-show: true
 guests: ["Viktor Trón"]
 hosts: ["Bob Summerwill"]
 description: "Ethereum Foundation early employee Viktor Trón shares his journey from BBC News Labs and the London Bitcoin scene to becoming one of the first Geth developers and founding the Swarm project. He discusses discovering Ethereum through Gavin Wood's February 2014 presentation, the Web3 vision's Holy Trinity (Ethereum, Swarm, Whisper), decentralized storage architecture, and Swarm's path to independence."

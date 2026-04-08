@@ -47,3 +47,4 @@ venv311
 _site_baseline/
 _site_claude/
 _site_codex/
+.codex

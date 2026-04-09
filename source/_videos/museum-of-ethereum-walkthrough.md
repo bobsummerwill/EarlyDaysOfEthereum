@@ -2,7 +2,7 @@
 title: "Museum of Ethereum walkthrough"
 date: 2026-03-13
 hosts: ["Bob Summerwill", "Kieren James-Lubin"]
-description: "Bob Summerwill and Kieren James-Lubin walk through the Museum of Ethereum at ETHDenver, covering the many hands behind Ethereum's early history, the Foundation's formative eras, EthSuisse and Miami, and the Ethereum Time Machine demo with Homestead, Geth and Mist. Thanks to Colin de Picker for filming and A/V production."
+description: "Bob Summerwill and Kieren James-Lubin walk through the Museum of Ethereum at ETHDenver, covering the many hands behind Ethereum's early history, the Foundation's formative eras, EthSuisse and Miami, and the Ethereum Time Machine demo with Homestead, Geth and Mist. Thanks to [Colin de Picker](https://x.com/Cryptotarzan19) for filming and A/V production."
 img: /images/covers-for-conversations/museum-of-ethereum-walkthrough.jpeg
 embed:
   url: https://www.youtube.com/embed/AHFY0hEHCDk

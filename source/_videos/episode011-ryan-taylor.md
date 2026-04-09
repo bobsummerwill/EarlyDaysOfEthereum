@@ -3,7 +3,7 @@ title: "Early Days of Ethereum - Episode 11 - Ryan Taylor"
 date: 2026-02-04
 guests: ["Ryan Taylor", "Bob Summerwill"]
 hosts: ["Bob Summerwill", "Ryan Taylor"]
-description: "A dual-interview at Dark Prague's ZK AV Club, where Ryan Taylor and Bob Summerwill take turns interviewing each other. Ryan built the original Ethereum website from his role as Bitcoin Magazine's webmaster alongside Vitalik and Mihai Alisie. Bob shares the origins of the Early Days of Ethereum project. They discuss forgotten early contributors, the deleted Ethereum GitHub repo, decentralized storage, and preserving crypto history."
+description: "A dual-interview at Dark Prague's ZK AV Club, where Ryan Taylor and Bob Summerwill take turns interviewing each other. Ryan built the original Ethereum website from his role as Bitcoin Magazine's webmaster alongside [Vitalik](/people/vitalik-buterin) and Mihai Alisie. Bob shares the origins of the Early Days of Ethereum project. They discuss forgotten early contributors, the deleted Ethereum GitHub repo, decentralized storage, and preserving crypto history."
 img: /images/covers-for-conversations/episode011-ryan-taylor.png
 embed:
   url: https://www.youtube.com/embed/IkNq7Q2J2s4

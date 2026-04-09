@@ -1,11 +1,11 @@
 ---
-title: "Early Days of Ethereum - Episode 12 - Alex van de Sande"
-date: 2026-02-11
+title: "Early Days of Ethereum - Episode 13 - Alex van de Sande"
+date: 2026-04-24
 show: true
 guests: ["Alex van de Sande"]
 hosts: ["Bob Summerwill"]
 description: "Alex van de Sande discusses joining Ethereum in 2014 to design Mist, the original Web3 browser vision built around Ethereum, Swarm, and Whisper. He reflects on why that local-first architecture was compelling but failed on usability, how ENS grew from a 'feature' into a major DAO, and why onchain governance remains one of Ethereum's strongest real-world use cases."
-img: /images/covers-for-conversations/episode012-alex-van-de-sande.png
+img: /images/covers-for-conversations/episode013-alex-van-de-sande.png
 table_of_contents:
   - link: "#introduction"
     title: "Introduction"

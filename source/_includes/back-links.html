@@ -183,9 +183,34 @@ Find people that the current page would auto-link to
 {% endcomment %}
 {% for person in site.people %}
   {% if person.url != current_url and person.hidden != true and person.hidden != 'true' %}
-    {% comment %}Check if current page content contains this person's name (would create auto-link){% endcomment %}
+    {% comment %}Check if current page content contains this person's name or explicit profile URL{% endcomment %}
     {% assign normalized_person_name = person.name | remove: '"' | remove: "'" %}
+    {% assign normalized_person_nickname = person.nickname | remove: '"' | remove: "'" %}
+    {% assign found_match = false %}
     {% if normalized_person_name and normalized_person_name != "" and current_content contains normalized_person_name %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if normalized_person_nickname and normalized_person_nickname != "" and current_content contains normalized_person_nickname %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% if current_content contains person.url %}
+      {% assign found_match = true %}
+    {% endif %}
+    {% unless found_match %}
+      {% comment %}Create alternate URL version by adding/removing only trailing slash{% endcomment %}
+      {% assign person_url_length = person.url | size %}
+      {% assign person_last_char_index = person_url_length | minus: 1 %}
+      {% assign person_last_char = person.url | slice: person_last_char_index %}
+      {% if person_last_char == "/" %}
+        {% assign person_url_alternate = person.url | slice: 0, person_last_char_index %}
+      {% else %}
+        {% assign person_url_alternate = person.url | append: "/" %}
+      {% endif %}
+      {% if current_content contains person_url_alternate %}
+        {% assign found_match = true %}
+      {% endif %}
+    {% endunless %}
+    {% if found_match %}
       {% comment %}Add this person as a reciprocal back-link{% endcomment %}
       {% assign already_exists = false %}
       {% for existing in people_backlinks %}

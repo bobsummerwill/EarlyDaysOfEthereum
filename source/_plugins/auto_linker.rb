@@ -242,7 +242,8 @@ module EarlyDays
           next if other.url == doc.url || other.data['hidden']
           oi = ids[other.url]
           next unless oi
-          if (oi[:title]&.length.to_i > 0 && mt.include?(oi[:title])) ||
+          if (oi[:url_ns]&.length.to_i > 0 && mt.include?(oi[:url_ns])) ||
+             (oi[:title]&.length.to_i > 0 && mt.include?(oi[:title])) ||
              (oi[:name]&.length.to_i > 0 && mt.include?(oi[:name])) || (oi[:aka]&.length.to_i > 0 && mt.include?(oi[:aka])) ||
              (oi[:nickname]&.length.to_i > 0 && mt.include?(oi[:nickname]))
             tgt = oi[:col] == 'people' ? :people : :content

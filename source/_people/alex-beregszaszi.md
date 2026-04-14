@@ -1,5 +1,5 @@
 ---
-name: Alex 'axic' Beregszaszi
+name: Alex Beregszászi
 description: Lead of Ewasm and Co-Lead of Solidity.  Research Lead at Team Ipsilon
 start: Jan 2016
 end: July 2025

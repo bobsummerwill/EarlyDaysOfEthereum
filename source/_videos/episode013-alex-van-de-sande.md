@@ -195,8 +195,10 @@ And I started looking for NGOs. I found some great NGOs using crypto. But my poi
 
 **[29:41] Alex van de Sande:** Oh, there's this famous quote that says that we overestimate the amount of change that happens in a few years, but we underestimate the amount of change that happens in 10 years, in a decade. So I think I am still optimistic and I will probably die an optimistic man.
 
+*(Bob - so it looks like this is a [Bill Gates quote](https://www.brainyquote.com/quotes/bill_gates_404193))*
+
 **[30:04] Bob Summerwill:** Absolutely. Well, thanks so much. We've got to wrap up. You know, great, great talking to you and where can people find you?
 
-**[30:12] Alex van de Sande:** So I'm avsa in most networks. I don't use Twitter anymore, a lot anymore. But you can probably find me also on avsa.eth.xyz on Bluesky and just ping me a message there.
+**[30:12] Alex van de Sande:** So I'm avsa in most networks. I [don't use Twitter anymore](https://x.com/avsa), a lot anymore. But you can probably find me also on [avsa.eth.xyz on Bluesky](https://bsky.app/profile/avsa.eth.xyz) and just ping me a message there.
 
 **[30:27] Bob Summerwill:** Okay, thanks so much. Bye bye.

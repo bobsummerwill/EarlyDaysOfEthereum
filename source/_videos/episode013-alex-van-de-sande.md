@@ -4,29 +4,31 @@ date: 2026-04-24
 show: true
 guests: ["Alex van de Sande"]
 hosts: ["Bob Summerwill"]
-description: "Alex van de Sande discusses joining Ethereum in 2014 to design Mist, the original Web3 browser vision built around Ethereum, Swarm, and Whisper. He reflects on why that local-first architecture was compelling but failed on usability, how ENS grew from a 'feature' into a major DAO, and why onchain governance remains one of Ethereum's strongest real-world use cases."
+description: "Alex van de Sande revisits why Mist still fascinates old Ethereum builders, explains the original Web3 vision of a browser built on Ethereum, Swarm, and Whisper, describes why local-first ideas lost to convenience and slow syncing, recounts how he joined ETHDEV after redesigning AlethZero, reflects on the gap between early dapp optimism and the hard reality of building ENS and other applications, and argues that onchain governance remains one of crypto's most meaningful achievements."
 img: /images/covers-for-conversations/episode013-alex-van-de-sande.png
 table_of_contents:
-  - link: "#introduction"
-    title: "Introduction"
-  - link: "#what-mist-was"
-    title: "What Mist was"
-  - link: "#web3-local-first-and-the-missing-front-end"
-    title: "Web3, local-first, and the missing front end"
-  - link: "#why-mist-failed"
-    title: "Why Mist failed"
-  - link: "#joining-ethereum-and-presenting-mist"
-    title: "Joining Ethereum and presenting Mist"
-  - link: "#ens-and-the-complexity-of-building-dapps"
-    title: "ENS and the complexity of building dapps"
-  - link: "#jeffs-team-gav-and-the-spaceship"
-    title: "Jeff's team, Gav, and the Spaceship"
-  - link: "#the-breadth-of-ethereums-early-vision"
-    title: "The breadth of Ethereum's early vision"
-  - link: "#governance-ens-and-real-crypto-usage"
-    title: "Governance, ENS, and real crypto usage"
-  - link: "#optimism-and-wrap-up"
-    title: "Optimism and wrap-up"
+  - link: "#why-mist-still-comes-up"
+    title: "Why Mist Still Comes Up"
+  - link: "#mist-and-the-web3-trinity"
+    title: "Mist and the Web3 Trinity"
+  - link: "#local-first-computing-in-practice"
+    title: "Local-First Computing in Practice"
+  - link: "#full-nodes-syncing-and-the-convenience-tradeoff"
+    title: "Full Nodes, Syncing, and the Convenience Tradeoff"
+  - link: "#from-alethzero-mockup-to-ethdev"
+    title: "From AlethZero Mockup to ETHDEV"
+  - link: "#the-dapp-store-dream-and-ens-reality"
+    title: "The Dapp Store Dream and ENS Reality"
+  - link: "#ten-lines-of-dns-and-five-minute-daos"
+    title: "Ten Lines of DNS and Five-Minute DAOs"
+  - link: "#jeff-gav-and-life-around-the-spaceship"
+    title: "Jeff, Gav, and Life Around the Spaceship"
+  - link: "#rebuilding-the-web-and-software-eating-everything"
+    title: "Rebuilding the Web and Software Eating Everything"
+  - link: "#governance-argentina-and-real-crypto-usage"
+    title: "Governance, Argentina, and Real Crypto Usage"
+  - link: "#long-timelines-and-final-thoughts"
+    title: "Long Timelines and Final Thoughts"
 ---
 
 ## Audio
@@ -41,7 +43,7 @@ table_of_contents:
 
 <!-- TABLE_OF_CONTENTS -->
 
-<h3 id="introduction">Introduction</h3>
+<h3 id="why-mist-still-comes-up">Why Mist Still Comes Up</h3>
 
 **[00:05] Bob Summerwill:** So, hi, I'm Bob Summerwill here with Early Days of Ethereum and we have as I guess avsa, the world famous avsa of [Mist](/articles/mist/) fame and more. So great to see you.
 
@@ -53,7 +55,7 @@ table_of_contents:
 
 **[01:32] Bob Summerwill:** Yes, go for it.
 
-<h3 id="what-mist-was">What Mist was</h3>
+<h3 id="mist-and-the-web3-trinity">Mist and the Web3 Trinity</h3>
 
 **[01:34] Alex van de Sande:** So I started working on Ethereum in 2014. So that was before networks launched and they hired me to do a browser. And I think what I did and that browser was called [Mist](/articles/mist/).
 
@@ -65,7 +67,7 @@ What we did is we took everything that people were, ideas that were floating aro
 
 **[02:43] Alex van de Sande:** Where you have Ethereum working as the backend. So Ethereum would sort of replace the servers, but you'd still have decentralized storage and decentralized messaging and that holy trinity would make what we call now Web3, what we wanted to call Web3. And I still think that in order to call something Web3, at least at minimum you need to have a peer-to-peer browser or decentralized storage of some sort.
 
-<h3 id="web3-local-first-and-the-missing-front-end">Web3, local-first, and the missing front end</h3>
+<h3 id="local-first-computing-in-practice">Local-First Computing in Practice</h3>
 
 **[03:17] Bob Summerwill:** Yeah, I mean it's really, I think that front end piece that is commonly missing now. You know, we've sort of fallen back into convenience of having servers. You know, I guess it started probably with [Infura](https://www.infura.io/), right, was okay, actually having a node, local node on your machine. It's taking a long time to sync. Don't like this user experience.
 
@@ -85,7 +87,7 @@ So two other sorts of instances just this week I saw of this were Left Terrace w
 
 And then the second one is, it was just a few days ago where there was a massive [Cloudflare](https://www.cloudflare.com/) outage that basically took down like the whole world. So, yeah, we have these weaknesses for sure.
 
-<h3 id="why-mist-failed">Why Mist failed</h3>
+<h3 id="full-nodes-syncing-and-the-convenience-tradeoff">Full Nodes, Syncing, and the Convenience Tradeoff</h3>
 
 **[07:00] Alex van de Sande:** And I can guarantee to you that I would bet that most of the [Rotkey](https://rotki.com/), I think [Rotkey](https://rotki.com/) is a great example because most of the files you need to run [Rotkey](https://rotki.com/), or if you pack everything in a zip file, it's probably smaller than a cat video, right. And I can send you a cat video right now with AirDrop, but I cannot send you the [Rotkey](https://rotki.com/) app for you to run and for you to take a look.
 
@@ -109,7 +111,7 @@ And then that's not even talking about the rest of the stack where we had [Swarm
 
 But it's still an ongoing process. But I think ZKs are really going to help though, you know, because you're not having to do the full execution if you're just doing proofs. I think that's a great path to, you know, lighter models.
 
-<h3 id="joining-ethereum-and-presenting-mist">Joining Ethereum and presenting Mist</h3>
+<h3 id="from-alethzero-mockup-to-ethdev">From AlethZero Mockup to ETHDEV</h3>
 
 **[11:58] Alex van de Sande:** So you were talking about a presentation I gave in October, right. So to give context, I was hired, I think, in September of 2014 from the Foundation.
 
@@ -119,13 +121,15 @@ But it's still an ongoing process. But I think ZKs are really going to help thou
 
 And [Gav](/people/gavin-wood/) told me, I don't think you're thinking about this enough, right. I think you didn't go far enough. And let me tell you about Web3. And that's when they started telling me about how they wanted to run a browser and I could be the lead developer for that browser. So I flew into Berlin in November, I think, for DevCon Zero and I gave a presentation on what I thought what we could do with this browser called [Mist](/articles/mist/).
 
+<h3 id="the-dapp-store-dream-and-ens-reality">The Dapp Store Dream and ENS Reality</h3>
+
 And one funny thing I find about the presentation is that there is one slide where I'm presenting the dapp store. The idea is that we are going to take everything that you are talking about in theory, and we are going to just release it as dapps. And I was presenting a lot of things because in my mind it would be, look, you're going to download it from Ethereum. And I presented that, I thought, look, of course we are going to launch name registration system. Of course they're going to be, and of course it's going to take like maybe a month of development and then we're done.
 
 And then we have all those cool things that we can probably do every month, we do a new contract and dapp and people can download, can share it. It's going to be cool. You can do a hackathon and then you can do a prediction market. You do another hackathon, then you have a Moody thing and then looking back at that, I can tell you that every single one of those things that I pointed as a quick thing that would take a month, they are today, or at least were at some point a company worth hundreds of millions of dollars developing for the best part of 10 years.
 
 [ENS](https://ens.domains/), for example, I ended up launching [ENS](https://ens.domains/) as a feature. I just thought, like [Nick](/people/nick-johnson/), I met [Nick Johnson](/people/nick-johnson/) at the Foundation, I wanted to do a name registration. He had a few ideas, we got together, we launched it and I was like, yeah, great, I can go back to work on what I care about browser. And he came, kept developing on [ENS](https://ens.domains/). [ENS](https://ens.domains/) now is a whole DAO with 10 teams working on them full time. It handles at least like half a billion dollars in tokens and in assets and treasuries. That was supposed to be just a feature and then that became like a half a billion dollar ecosystem on its own. And I think that tells you about the difficulty of building those things because...
 
-<h3 id="ens-and-the-complexity-of-building-dapps">ENS and the complexity of building dapps</h3>
+<h3 id="ten-lines-of-dns-and-five-minute-daos">Ten Lines of DNS and Five-Minute DAOs</h3>
 
 **[15:25] Bob Summerwill:** I think I remember seeing an example for that is saying, oh, look, you can do DNS in 10 lines. Do you remember that? It's just like, yep, there's this thing and you can set or you could read and it's like, this will be trivial.
 
@@ -137,7 +141,7 @@ And I love the presentation and to be fair, I still, you like the idea that you 
 
 **[16:40] Bob Summerwill:** Yeah, yeah, absolutely. So, yeah, I mean, I remember that. Those code T-shirts, I saw them first at that Toronto Bitcoin Expo, which was in April of 2014. So there's some famous photos of it on [Vitalik](/people/vitalik-buterin/)'s back. And, you know, people looking at it, though, you look at that code, it wasn't Solidity. I don't know if it was Mutan. It might have been even pre-Mutan. Etherscript was what they called it very originally, but yeah. So you weren't working in Berlin or in Amsterdam yourself, were you? You were working remotely. And was it primarily with [Jeff](/people/jeff-wilcke/)'s team that you had those interactions or I guess [Gav](/people/gavin-wood/) more earlier?
 
-<h3 id="jeffs-team-gav-and-the-spaceship">Jeff's team, Gav, and the Spaceship</h3>
+<h3 id="jeff-gav-and-life-around-the-spaceship">Jeff, Gav, and Life Around the Spaceship</h3>
 
 **[17:31] Alex van de Sande:** No, it was primarily with [Jeff](/people/jeff-wilcke/)'s team. I was the third employee when I joined the [Gav](/people/gavin-wood/) team, it was me, [Felix](/people/felix-lange/) and [Victor](/people/viktor-tron/) and I did some work with [Gavin](/people/gavin-wood/) and what we did is we would work mostly remotely and once or twice per year we would go meet everyone together.
 
@@ -153,7 +157,7 @@ And I think that's the same trip was when we were all together in Amsterdam when
 
 And it didn't of course work as we expected. Almost everything that they had to rebuild and some of those parts haven't been rebuilt yet. But I think that was the moment where we realized, yeah, this thing is going to happen and it's going to be a wild ride.
 
-<h3 id="the-breadth-of-ethereums-early-vision">The breadth of Ethereum's early vision</h3>
+<h3 id="rebuilding-the-web-and-software-eating-everything">Rebuilding the Web and Software Eating Everything</h3>
 
 **[20:00] Bob Summerwill:** Yeah, I mean, absolutely. So I was speaking to [Christoph Jentzsch](/people/christoph-jentzsch/) recently and he was saying, you know, it was the breadth of the vision that really inspired him. You know, it wasn't just, okay, here's Bitcoin with smart contracts. It's like we're going to rebuild the web and yeah, you're going to have this trinity, but also, you know, IDEs, we're building an IDE as well with Mix and yeah, you have got [AlethZero](/articles/aleth-zero/), this crazy kind of low level UI, but also Aleth1 GUI miner.
 
@@ -167,7 +171,7 @@ And we, like right now, I think 10 years later, I think crypto has become such a
 
 **[22:40] Bob Summerwill:** Yeah. And I mean just thinking about timelines, so that kind of 2013 era where you were sort of cryptocurrency 2.0, right. You know, you'd had a few years since Bitcoin had started. You know, that was just over 10 years after the dot-com boom and bust. So you know, look at these 10 year cycles. It's like, you know, the web was starting there in 1993, I think, you know, so then you'd had 10 years of like, right, we can actually do things on, you know, on the Internet and you know that you'd have this big crash and burn. But then 10 years later, you know, it was like that was mature. You know, you'd had the iPhone and Facebook and you know, a bunch of other things happening, you know, and people were doing commerce, you know, which 10 years before had been like, what, you're going to pay for something online with your credit card? Like, are you insane? But it had gone through that maturity and perhaps that's sort of where we are now, right, is everything that was trying to happen 10 years ago, it kind of works now.
 
-<h3 id="governance-ens-and-real-crypto-usage">Governance, ENS, and real crypto usage</h3>
+<h3 id="governance-argentina-and-real-crypto-usage">Governance, Argentina, and Real Crypto Usage</h3>
 
 **[23:53] Alex van de Sande:** I like how if you went to a DevCon five years ago, it would be, most would be people with some idea, some random idea that they want to build. And if you walk around every booth someone will have an app that you can download that is ready, that has a sleek user interface and that's useful. I just paid for my breakfast using [Peanut](https://peanut.to/). It's an app that helps you pay when people don't accept crypto.
 
@@ -189,7 +193,7 @@ There's still so much work to do. A few years ago I happened to be, somehow I wa
 
 And I started looking for NGOs. I found some great NGOs using crypto. But my point is that I think we still have like long ways to go in that sense.
 
-<h3 id="optimism-and-wrap-up">Optimism and wrap-up</h3>
+<h3 id="long-timelines-and-final-thoughts">Long Timelines and Final Thoughts</h3>
 
 **[28:49] Bob Summerwill:** My wife says I'm always too optimistic, that my timelines are completely unrealistic. You know, I repeatedly think, you know, in about five years, you know, it'll all be solved and you know, everything will be there and. But yeah, you know, I think it's a long term thing. But you know, we are seeing big progress. I would say. I'm kind of still excited.
 

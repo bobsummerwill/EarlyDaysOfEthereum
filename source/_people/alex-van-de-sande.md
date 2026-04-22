@@ -5,6 +5,7 @@ description: UX designer behind Mist and the original Web3 browser vision
 photo: /images/archive.org/ethdev.com/20150315012946/alex-van-de-sande.jpg
 start: Sep 2014
 end: Jan 2019
+interview: /videos/episode013-alex-van-de-sande/
 devcon0: '1598'
 social:
   github: https://github.com/alexvandesande

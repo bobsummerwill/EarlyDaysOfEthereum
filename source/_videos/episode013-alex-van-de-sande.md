@@ -59,9 +59,15 @@ table_of_contents:
 
 **[01:37] Alex van de Sande:** So I started working on Ethereum in 2014. So that was before networks launched and they hired me to do a browser. And I think what we did, and that browser was called [Mist](/articles/mist/). And what I think when people say, oh, I miss [Mist](/articles/mist/), I think what they are doing is not that they miss the browser that we did, which wasn't very good. It was nice, but I mean not so many failures. But what I think we tried to do, an amalgamate of what was the [Web3](https://www.web3.foundation/) vision of the early days, right. What we did is we took everything that people were, ideas that are floating around on white papers, on forums, and said, hey, we're going to do a browser that you can go and download those things and play with them and you download them from your peers, you connect via encrypted apps directly peer to peer. And it was the realization of the famous three-legged stool of Ethereum, the...
 
+{% include video-embed.html
+  name="Ethereum presents Mist"
+%}
+
 **[02:43] Bob Summerwill:** [Trinity](/articles/holy-trinity), that is sometimes called, exactly.
 
 **[02:46] Alex van de Sande:** Where you have Ethereum working as the backend. So Ethereum would sort of replace the servers, but you'd still have decentralized storage and decentralized messenger. And that [Holy Trinity](/articles/holy-trinity) would make what we call now [Web3](https://www.web3.foundation/), what we wanted to call [Web3](https://www.web3.foundation/). And I still think that in order to call something [Web3](https://www.web3.foundation/), at least at minimum you need to have a peer-to-peer browser or decentralized storage of some sort.
+
+![Web3 Architecture Diagram](/images/x.com/2026.01.26/ChrJentzsch/1828354675474575561/web3-diagram.jpg)
 
 <h3 id="local-first-computing-and-internet-bottlenecks">Local-First Computing and Internet Bottlenecks</h3>
 
@@ -73,11 +79,23 @@ So yeah, [Mist](/articles/mist/) was really that really brave attempt at doing t
 
 **[06:00] Bob Summerwill:** You already have the content, yeah. Your friend who wants you to look at their thing, like they've got it. So two other sorts of instances just this week I saw of this were [Lefteris](/people/lefteris-karapetsas/) was saying, the Internet coverage is terrible in here. I love this event, love the organizers, but nobody can do anything because of the lack of Internet coverage. But he says, but [Rotki](https://rotki.com/) can still run. Come here, I can show you, because it's a local first application and the data was on his machine and he can do the processing. And there's a bunch of things that you can do without that connectivity if you do have that data locally. And then the second one is, it was just a few days ago where there was a massive [Cloudflare](https://www.cloudflare.com/) outage that basically took down the whole world. So yeah, we have these weaknesses for sure.
 
+{% include twitter-embed.html
+  url="https://x.com/LefterisJP/status/1990765568346186069"
+%}
+
 <h3 id="full-nodes-syncing-and-why-mist-lost">Full Nodes, Syncing, and Why Mist Lost</h3>
 
 **[07:03] Alex van de Sande:** And I can guarantee to you that I would bet that most of the [Rotki](https://rotki.com/), I think [Rotki](https://rotki.com/) is a great example because most of the files you need to run [Rotki](https://rotki.com/), if you pack everything in a zip file, it's probably smaller than a cat video, right. And I can send you a cat video right now with Airdrop, but I cannot send you the [Rotki](https://rotki.com/) app for you to run and for you to take a look. And I think that's what we were trying to do back in 2014. We wanted this idea that you're going to have the full [Web3](https://www.web3.foundation/) experience and we wanted you that every one of our users would run a full node of Ethereum, they would run a full node of [Swarm](/articles/swarm/), they would run a full node of [Whisper](/articles/whisper/), right. And that was the dream. And that was also why it failed. Because in the beginning you need to take a few minutes to sync your node whenever you started it. By the next year, it was a few hours. By the end, it was a few days before you could sort it. And so I was telling people, look, you can open this browser and it takes three days to put it up and then you'll be able to run a decentralized front end that nobody has, or you can just download the [MetaMask](https://metamask.io/) extension and it will run instantly on the current Web2 infrastructure, right, which that's why they won.
 
 **[08:37] Bob Summerwill:** Yeah. And I mean in what I was doing as well, I guess I was fairly naive in the same way of thinking, okay, yeah, we're running full nodes now, but there'll be like light client stuff soon and you'll be able to like whatever, like start at a checkpoint, get trusted state off someone, and then so yeah, you start at the end, but maybe it can go back and fill the things in later. You can have a trust minimized starting point that isn't complete trust, but it's probably good enough, right? Okay, we'll start at their block a day ago or something. Something can be attesting to these good points and you can just like jump in quicker. And especially on the light client, just thinking, oh, we'll be able to have a syncing client, like light client in a browser. Maybe you don't even need a native node. It's just you can just sort of drop in and off you go. So yeah, that didn't pan out.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/KoEqh99U5QI"
+  url="https://www.youtube.com/watch?v=KoEqh99U5QI"
+  title="DEVCON1: Progressing toward the Ethereum Light Client"
+  author='<span class="no-auto-link-marker">Zsolt Felföldi</span>'
+  date="2015-12-21"
+%}
 
 **[09:42] Alex van de Sande:** I just got out of a talk where [Vitalik](/people/vitalik-buterin/) was saying that how with the new changes they're doing in Proof of Stake, you'll soon be able to run a full node in a smartphone, in a browser or something like that, which I think it's fantastic. We need that. But it's still like after 10 years, it's still coming soon, right? And I admit, like, Proof of Stake really changed the game because where before you needed a four, now all you need to do is like a tiny depth node, but that is like one tiny computer that is running all the time just for keeping sync with the network. We are still not there yet. Even on the light client on a phone port, you cannot run a validator on a phone yet. Maybe someone has it as an experimental thing, but it's simply not there, right. And then that's not even talking about the rest of the stack where we had [Swarm](/articles/swarm/) or even [IPFS](https://ipfs.tech/). You still cannot trust [IPFS](https://ipfs.tech/), everyone. [Swarm](/articles/swarm/) is 10 years in development and it's still, they say it's working, it's live. Haven't tested it. I have tested [IPFS](https://ipfs.tech/) a lot and every time I test it, it's sort of working, but it's slow and it's simply not a great user experience.
 
@@ -91,6 +109,15 @@ So yeah, [Mist](/articles/mist/) was really that really brave attempt at doing t
 
 **[12:12] Alex van de Sande:** So I started following Ethereum. I probably read the white paper. I was fascinated by it. I couldn't think of anything else. I downloaded the only piece of graphical user interface called [AlethZero](/articles/aleth-zero/) and it was like, it felt like driving a plane, like trying to land a plane. And I made a better version of that, which I thought was a better version, sent it on the [Reddit](https://www.reddit.com/) and then got [Gav](/people/gavin-wood/) and [Jeff](/people/jeff-wilcke/) wanting to talk to me. And [Gav](/people/gavin-wood/) told me, I don't think you're thinking about this enough, right. I think you didn't go far enough. And let me tell you about [Web3](https://www.web3.foundation/). And that's when they started telling me about how they wanted to run a browser and I could be like the lead developer for that browser.
 
+{% include content-embed.html
+  src="https://www.youtube.com/embed/vXGH6q43i_k"
+  title="Joel's First Time Using the Ethereum AlethZero Client"
+  site="https://www.youtube.com"
+  author="EtherCasts"
+  date="March 28, 2014"
+  description="Joel Dietz and Joris Bontje explore the AlethZero Ethereum Client (C++ Proof of Concept v3.11)."
+%}
+
 So I flew into Berlin in November, I think, for [DEVCON0](/articles/devcon0/) and I gave a presentation on what I thought what we could do with this browser called [Mist](/articles/mist/). And one funny thing I find about the presentation is that there is one slide where I'm presenting the dapp store. The idea is that we are going to take everything that you are talking about in theory, and we are going to just release it as dapps. And I was presenting a lot of things because in my mind it would be, look, you're going to download it from Ethereum. And I presented that, I thought, look, we are, of course we are going to launch Name Registration System. Of course they are going to be live. And of course it's going to take like maybe a month of development and then we're done. And then we have all those cool things that we can probably do every month, we do a new contract and dapp and people can download, can share it. It's going to be cool. You can do a hackathon and then you can do a prediction market, you do another hackathon, then you have a multisig.
 
 <h3 id="the-dapp-store-dream-and-ens">The Dapp Store Dream and ENS</h3>
@@ -103,7 +130,13 @@ And then looking back at that, I can tell you that every single one of those thi
 
 **[15:42] Alex van de Sande:** So we used to have shirts and on the back of the shirts, conference shirts, I used to have them. I was using them the other day. On the back of the shirt there will be code saying, look, you can run DNS in 10 lines of code. You can run a democracy in 100 lines of code, you can make your own money in 50 lines of code. And I loved giving that presentation. I would give a presentation in which I would go on mainnet, put five Ether, deploy a live contract, a democracy, a DAO, put five Ether, make a vote somewhere and just spit it all live during five minutes in a presentation. I bet if you look at my history, there are probably a few DAOs forgotten with five Ether on them. Because back then it was like just a couple bucks, right? And I love the presentation and to be fair, I still like the idea that you can just deploy code and it works better than many governments do.
 
-**[16:43] Bob Summerwill:** Yeah, yeah, absolutely. So yeah, I mean, I remember those code T-shirts, I saw them first at that [Toronto Bitcoin Expo](/articles/bitcoin-expo/), which was in April of 2014. So there's some famous photos of it on [Vitalik](/people/vitalik-buterin/)'s back. And people looking at it, though you look at that code, it wasn't Solidity. I don't know if it was [Mutan](/articles/mutan/). It might have been even pre-Mutan. Etherscript was what they called it very originally, but yeah. So you weren't working in Berlin or in Amsterdam yourself, were you? You were working remotely. And was it primarily with [Jeff](/people/jeff-wilcke/)'s team that you had those interactions or I guess [Gav](/people/gavin-wood/) more earlier?
+![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1514072285258387459/1514072285258387459_1.jpg)
+
+*“One of the very first Ethereum shirts” – Taylor Gerring, [Apr 12, 2022](https://twitter.com/TaylorGerring/status/1514072285258387459)*
+
+**[16:43] Bob Summerwill:** Yeah, yeah, absolutely. So yeah, I mean, I remember those code T-shirts, I saw them first at that [Toronto Bitcoin Expo](/articles/bitcoin-expo/), which was in April of 2014. So there's some famous photos of it on [Vitalik](/people/vitalik-buterin/)'s back. And people looking at it, though you look at that code, it wasn't Solidity. I don't know if it was [Mutan](/articles/mutan/). It might have been even pre-Mutan. Etherscript was what they called it very originally, but yeah.  So you weren't working in Berlin or in Amsterdam yourself, were you? You were working remotely. And was it primarily with [Jeff](/people/jeff-wilcke/)'s team that you had those interactions or I guess [Gav](/people/gavin-wood/) more earlier?
+
+*(Bob - on further inspection, the code on this T-shirt was written in [Serpent](https://github.com/ethereum/serpent), which was yet another early smart contract language, in addition to LLL and Mutan.  Serpent was created by [Vitalik](/people/vitalik-buterin))*
 
 <h3 id="remote-teams-gavin-and-the-spaceship">Remote Teams, Gavin, and the Spaceship</h3>
 
@@ -111,11 +144,24 @@ And then looking back at that, I can tell you that every single one of those thi
 
 **[18:35] Bob Summerwill:** So, yes, the Spaceship, a very famous place. So can you remember who was there, what the context was and what you were doing?
 
+![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1499457254524964873/1499457254524964873_1.jpg)
+
+*“Ethereum Spaceship before move-in” – Taylor Gerring, [Mar 3, 2022](https://twitter.com/TaylorGerring/status/1499457254524964873)*
+
 **[18:45] Alex van de Sande:** So I was on the Spaceship with Gavin Wood, [Fabian](/people/fabian-vogelsteller/) and a few other developers. I think [Jeff](/people/jeff-wilcke/) was there briefly also. I don't remember, to be honest, I don't remember the purpose of that. We are developing, we are developing stuff. We were there just trying out things. [Fabian](/people/fabian-vogelsteller/) was already there. That was probably mid-2015. We were testing out how the browser works, how does everything work together? And I think that's the same trip was when we were all together in Amsterdam, when we had a great presentation, a great demo in which we had built a browser and then [Viktor](/people/viktor-tron/) came and had built [Swarm](/articles/swarm/) and we were all playing around with a chat application running on [Swarm](/articles/swarm/) on a browser. And we'd look at that and we were like, it's happening. It's really like it's all going to work, right? It was fantastic. And it didn't, of course, work as we expected. Almost everything that they had to rebuild and some of those ports haven't been rebuilt yet. But I think that was the moment where we realized, yeah, this thing is going to happen and it's going to be a wild ride.
 
 <h3 id="rebuilding-the-web">Rebuilding the Web</h3>
 
 **[20:03] Bob Summerwill:** Yeah, I mean, absolutely. So I was speaking to Christoph Jentzsch recently and he was saying, it was the breadth of the vision that really inspired him. It wasn't just, okay, here's Bitcoin with smart contracts. It's like we're going to rebuild the web and yeah, you're going to have this trinity, but also IDEs, we're building an IDE as well with [Mix](/articles/mix/) and yeah, you have got [AlethZero](/articles/aleth-zero/), this crazy kind of low level UI, but also [AlethOne](/articles/aleth-one/) GUI miner. It's like, yeah, we're just going to build these tools that are going to be very user facing. And it's going to be enabling anyone really to exercise this full set of tools. And yeah, we're going to make a new web.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/YX-7bScTGDE"
+  title="Ethereum Mist Wallet Demonstration"
+  site="https://www.youtube.com"
+  author="Armando Votan"
+  date="February 9, 2016"
+  description="Take you on a tour of the Ethereum Mist Wallet. Watch a transaction arrive, see the Smart Contract Platform, Multisignature Account Features, Tokens like VUNK...it's basically a decentralized financial node."
+%}
 
 **[21:00] Alex van de Sande:** I think you have to put it in context, right. If you were around working on something in 2014, it probably meant that you saw software eating up music and turning it digital. You saw software eating up the desktop industry, you saw software eating up, starting to eat up the hotel industry and the taxi industry. All those were the things that were, that was the software is eating up the world time. And like, why would you expect that it will stop at money? Why do you think it will stop at governance and organization? So of course at some point software is going to eat money, software is going to eat enterprises, software is going to eat the very way that we interact with other people. And blockchain has its limitations. It cannot do a lot of things, but it can do money. And once you can pay people to do something, you can do almost anything, right.
 
@@ -128,6 +174,13 @@ And we like right now, I think 10 years later, I think crypto has become such a 
 <h3 id="governance-and-real-crypto-usage">Governance and Real Crypto Usage</h3>
 
 **[23:56] Alex van de Sande:** I like how if you went to a [DEVCON](https://devcon.org/) five years ago, it would be most would be people with some idea, some random idea that they want to build. And if you walk around every booth, someone will have an app that you can download that is ready, that has a sleek user interface and that's useful. I just paid for my breakfast using [Peanut](https://peanut.to/). It's an app that helps you pay when people don't accept crypto. And I have to admit, a little bit ashamed of myself. I don't remember when was the last time I used crypto to pay for something like normal. And to be honest, I don't think that is the way to define the success of crypto. Do you pay crypto for your coffee, right? I think a much more interesting measure, especially on Ethereum, is of how many organizations run transparently on chain, right. And I think that is, I still think that governance is one of the best use cases for Ethereum. It's one of the best success stories of Ethereum. We have billions of dollars that are currently managed online on chain through a process that doesn't involve banks and that nobody can sort of take the money away.
+
+{% include content-embed.html
+  url="https://peanut.me"
+  img="/images/pbs.twimg.com/2026.04.22/profile_banners/1570429162959081473/1761095206_1080x360.jpg"
+  title="Peanut.me - Global Cash, Local Feel"
+  site="peanut.me"
+%}
 
 And I think an example, because before I give you the microphone, is I'm a founder of [ENS](https://ens.domains/). I can get together with [Nick](/people/nick-johnson/) today and we have a lot of votes and we still cannot move a single dollar out of [ENS](https://ens.domains/) treasury without going through the process of voting in a way that is transparent to anybody, right. There are like hundred million dollars with assets, half a billion dollars in token, in [ENS](https://ens.domains/) tokens. And we cannot still move a single dollar without going through the due process.
 

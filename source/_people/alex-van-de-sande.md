@@ -46,7 +46,7 @@ That judgment proved correct. Fabian Vogelsteller joined in January 2015, specif
 
 ## Building the First Dapp Experience
 
-Alex worked remotely from Rio de Janeiro, usually three to five hours offset from the Berlin office. Organizationally he sat closer to [Jeff](/people/jeff-wilcke/)'s team, and in [Episode 13](/videos/episode013-alex-van-de-sande/) he described the early orbit around that work as essentially "me, [Felix](/people/felix-lange/) and [Victor](/people/viktor-tron/)," with the group mostly working remotely and only meeting in person once or twice a year.
+Alex worked remotely from Rio de Janeiro, usually three to five hours offset from the Berlin office. Organizationally he sat closer to [Jeff](/people/jeff-wilcke/)'s team, and in [Episode 13](/videos/episode013-alex-van-de-sande/) he described the early orbit around that work as essentially "me, [Felix](/people/felix-lange/) and [Viktor](/people/viktor-tron/)," with the group mostly working remotely and only meeting in person once or twice a year.
 
 Together, Alex and Fabian Vogelsteller built the first working version of Mist in roughly three months. The [Mist article](/articles/mist/) notes that the Mist repository was created on June 10, 2015, that the first public milestone was the Ethereum Wallet developer preview on September 16, 2015, and that the first public Mist browser release followed on July 8, 2016. Fabian later described the Ethereum Wallet as the first proper end-user dapp on Ethereum, and credited Alex as the person who had framed the original vision.
 
@@ -76,7 +76,7 @@ The deeper point was not that real systems were easy. It was that Ethereum made 
 
 One of the best scenes in Alex's interview is his recollection of the so-called "Spaceship" period in 2015. He remembered being there with [Gavin](/people/gavin-wood/), Fabian Vogelsteller, Jeff Wilcke, and others while they were trying to make the stack work together. He also described a memorable Amsterdam demo where the browser, [Swarm](/articles/swarm/), and chat were all briefly working together:
 
-> "Victor came and had built Swarm and we were all playing around with a chat application running on Swarm on a browser... we were like, it's happening."
+> "Viktor came and had built Swarm and we were all playing around with a chat application running on Swarm on a browser... we were like, it's happening."
 
 That moment matters historically because it shows the original Web3 concept was not merely theoretical. For a while, the team really believed the pieces were converging. The failure came later, when those pieces proved too immature or too hard to operate at scale.
 

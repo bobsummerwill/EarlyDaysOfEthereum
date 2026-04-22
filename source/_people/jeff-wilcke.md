@@ -37,7 +37,7 @@ The Amsterdam team he assembled included:
 4. Daniel Nagy - DHT and [Swarm](/articles/swarm/) development
 5. Maran Hidskes - Administration
 
-Alex's own [Episode 13](/videos/episode013-alex-van-de-sande/) interview adds color to how that team functioned in practice. He said he worked primarily with Jeff's side of the project and described the early [Geth](/articles/geth/)-team orbit as "me, [Felix](/people/felix-lange/) and [Victor](/people/viktor-tron/)," operating mostly remotely and meeting in person only occasionally. That helps explain why [Mist](/articles/mist/) development constantly crossed city and client boundaries even though it sat organizationally inside Jeff's group.
+Alex's own [Episode 13](/videos/episode013-alex-van-de-sande/) interview adds color to how that team functioned in practice. He said he worked primarily with Jeff's side of the project and described the early [Geth](/articles/geth/)-team orbit as "me, [Felix](/people/felix-lange/) and [Viktor](/people/viktor-tron/)," operating mostly remotely and meeting in person only occasionally. That helps explain why [Mist](/articles/mist/) development constantly crossed city and client boundaries even though it sat organizationally inside Jeff's group.
 
 Viktor Trón recalled meeting Jeff early in the project:
 

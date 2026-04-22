@@ -13,11 +13,11 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Gavin_Wood
 ---
 
-Gavin Wood is an Ethereum co-founder who authored the [Yellow Paper](/articles/yellow-paper/) (Ethereum's formal technical specification), created [Solidity](/articles/solidity/), and led the [C++ client](/articles/cpp-ethereum/) development. He was one of three directors of [Ethereum ÐΞV](/articles/eth-dev-cic/) alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Jeff Wilcke](/people/jeff-wilcke/).
+Gavin Wood is an Ethereum co-founder who authored the [Yellow Paper](/articles/yellow-paper/) (Ethereum's formal technical specification), created [Solidity](/articles/solidity/), and led the [C++ client](/articles/cpp-ethereum/) development. He was one of three directors of [Ethereum ÐΞV](/articles/eth-dev-cic/) alongside Vitalik Buterin and Jeff Wilcke.
 
 ## Finding Ethereum
 
-In his 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin explained that his path into Ethereum ran through [Amir Taaki](/people/amir-taaki/) and [Jonathan James Harrison](/people/jonathan-james-harrison/) ("Johnny Bitcoin"). After meeting them in London's Bitcoin/squatter scene, Johnny passed Gavin an early Ethereum white paper and introduced him to [Vitalik Buterin](/people/vitalik-buterin/).
+In his 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Gavin explained that his path into Ethereum ran through Amir Taaki and Jonathan James Harrison ("Johnny Bitcoin"). After meeting them in London's Bitcoin/squatter scene, Johnny passed Gavin an early Ethereum white paper and introduced him to Vitalik Buterin.
 
 ## Early Development
 
@@ -35,13 +35,19 @@ Gavin introduced himself in his [first development update](/articles/gavs-dev-up
 
 > "I'm Gav - together with Jeffrey Wilcke and Vitalik Buterin, I'm one third of the ultimate leadership of Ethereum ÐΞV."
 
-He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including [Aeron Buchanan](/people/aeron-buchanan/), [Sarah O'Neill](/people/sarah-oneill/), and [Jutta Steiner](/people/jutta-steiner/).
+He was based primarily in Zug, Switzerland (Ethereum HQ) during the early period, and set up the Berlin ETHDEV hub with a team including Aeron Buchanan, Sarah O'Neill, and Jutta Steiner.
+
+Alex van de Sande's [Episode 13](/videos/episode013-alex-van-de-sande/) interview adds another useful detail about Gavin's role in shaping [Mist](/articles/mist/). After [Alex](/people/alex-van-de-sande/) posted a redesign of [AlethZero](/articles/aleth-zero/), Gavin reached out and pushed him to think beyond interface cleanup toward the larger Web3 browser idea:
+
+> "Gav told me, I don't think you're thinking about this enough... Let me tell you about Web3."
+
+[Alex](/people/alex-van-de-sande/) also recalled Gavin making him detour through London for a brief cafe meeting that consisted mostly of direct criticism of his work. It fits Gavin's reputation for intense architectural direction and for pushing collaborators toward a much larger vision than the immediate task in front of them.
 
 ## Technical Contributions
 
 Beyond the Yellow Paper, Gavin made foundational technical contributions:
 
-- **[Solidity](/articles/solidity/)** - Designed the smart contract programming language with [Christian Reitwießner](/people/christian-reitwiesner/)
+- **[Solidity](/articles/solidity/)** - Designed the smart contract programming language with Christian Reitwießner
 - **[Whisper](/articles/whisper/)** - Developed the secure messaging protocol
 - **[Mix IDE](/articles/mix/)** - Created the Ethereum development environment
 - **Light Client Protocol** - Designed the protocol for lightweight Ethereum clients
@@ -55,7 +61,7 @@ Gavin documented Ethereum's unique development process in March 2015:
 
 > "So I'm not sure if this kind of development methodology has ever been applied to such an extreme before so I figured I'd document it. In a nutshell, it's sort of like test-driven triplet-programming development."
 
-[Christoph Jentzsch](/people/christoph-jentzsch/) observed the contrast between development styles:
+Christoph Jentzsch observed the contrast between development styles:
 
 > "There was always a fight between Geth and the C++ team about who's the best. And Gavin was having a big ego. And Jeff was more like, just give me the new spec, I just code it." — Christoph Jentzsch
 
@@ -73,11 +79,11 @@ Gavin organized [DEVCON0](/articles/devcon0/), the first Ethereum developer symp
 
 ## The Red Wedding
 
-Gavin was present at the June 2014 "[Red Wedding](/articles/red-wedding/)" meeting in Zug where Charles Hoskinson and [Amir Chetrit](/people/amir-chetrit/) were removed from leadership. He remained part of the continuing leadership group alongside Vitalik, Jeff, [Joe Lubin](/people/joe-lubin/), and [Anthony Di Iorio](/people/anthony-di-iorio/).
+Gavin was present at the June 2014 "[Red Wedding](/articles/red-wedding/)" meeting in Zug where Charles Hoskinson and Amir Chetrit were removed from leadership. He remained part of the continuing leadership group alongside Vitalik Buterin, Jeff Wilcke, Joe Lubin, and Anthony Di Iorio.
 
 ## Departure and Ethcore
 
-During the Ethereum Foundation's 2015 funding crisis, tensions grew. [Jacob Czepluch](/people/jacob-czepluch/) observed the early formation of what would become Ethcore:
+During the Ethereum Foundation's 2015 funding crisis, tensions grew. Jacob Czepluch observed the early formation of what would become Ethcore:
 
 > "Sitting as the only person working on the Python client in that office in my small corner, I had a lot of fun kind of following how people came and went and went into Gavin's office and had a chat there with him and Jutta or whatever."
 
@@ -85,7 +91,7 @@ In January 2016, Gavin wrote his farewell post to the Ethereum Foundation:
 
 > "Like The Floyd's work, in the time I've been involved with Ethereum, I've sampled the full gamut of emotion... The road ahead is surely bumpy but we know what we have to do and the views, I expect, will be magnificent. Goodbye and thanks for all the fish."
 
-Gavin founded [Ethcore](/articles/ethcore/) (later renamed Parity Technologies) in the UK with [Björn Wagner](/people/bjorn-wagner/) and Jutta Steiner.
+Gavin founded [Ethcore](/articles/ethcore/) (later renamed Parity Technologies) in the UK with Björn Wagner and Jutta Steiner.
 
 ## Primary Sources
 
@@ -97,3 +103,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
 - [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller
+- [Episode 13](/videos/episode013-alex-van-de-sande/) with Alex van de Sande

@@ -85,7 +85,7 @@ So yeah, [Mist](/articles/mist/) was really that really brave attempt at doing t
 
 <h3 id="how-alex-joined-ethdev">How Alex Joined ETHDEV</h3>
 
-**[12:01] Alex van de Sande:** You were talking about a presentation I gave in October. To give context, I was hired, I think, in September of 2014, from the Foundation.
+**[12:01] Alex van de Sande:** You were talking about a presentation I gave in October. To give context, I was hired, I think, in September of 2014, from [the Foundation](/articles/stiftung-ethereum/).
 
 **[12:10] Bob Summerwill:** And how did that happen?
 
@@ -95,7 +95,7 @@ So I flew into Berlin in November, I think, for [DEVCON0](/articles/devcon0/) an
 
 <h3 id="the-dapp-store-dream-and-ens">The Dapp Store Dream and ENS</h3>
 
-And then looking back at that, I can tell you that every single one of those things that I pointed as a quick thing that would take a month, they are today, or at least were at some point, a company worth hundreds of millions of dollars developing for the best part of 10 years. [ENS](https://ens.domains/), for example, I ended up launching [ENS](https://ens.domains/) as a feature. I just thought like [Nick](/people/nick-johnson/). I met Nick Johnson at the Foundation. I wanted to do a name registration. He had a few ideas, we got together, we launched it and I was like, yeah, great, I can go back to work on what I care about, browser. And he came, kept developing on [ENS](https://ens.domains/). [ENS](https://ens.domains/) now is a whole DAO with 10 teams working on them full time. It handles at least like half a billion dollars in tokens and in assets and treasuries. That was supposed to be just a feature and then that became like a half a billion dollar ecosystem on its own. And I think that tells you about the difficulty of building those things because...
+And then looking back at that, I can tell you that every single one of those things that I pointed as a quick thing that would take a month, they are today, or at least were at some point, a company worth hundreds of millions of dollars developing for the best part of 10 years. [ENS](https://ens.domains/), for example, I ended up launching [ENS](https://ens.domains/) as a feature. I just thought like [Nick](/people/nick-johnson/). I met Nick Johnson at [the Foundation](/articles/stiftung-ethereum/). I wanted to do a name registration. He had a few ideas, we got together, we launched it and I was like, yeah, great, I can go back to work on what I care about, browser. And he came, kept developing on [ENS](https://ens.domains/). [ENS](https://ens.domains/) now is a whole DAO with 10 teams working on them full time. It handles at least like half a billion dollars in tokens and in assets and treasuries. That was supposed to be just a feature and then that became like a half a billion dollar ecosystem on its own. And I think that tells you about the difficulty of building those things because...
 
 <h3 id="ten-lines-of-code-and-five-minute-daos">Ten Lines of Code and Five-Minute DAOs</h3>
 

@@ -14,7 +14,7 @@ Nick Johnson is the creator and long-time lead steward of the [Ethereum Name Ser
 
 ## ENS Began as "Just a Feature"
 
-In Alex van de Sande's [Episode 13](/videos/episode013-alex-van-de-sande/) interview, [Alex](/people/alex-van-de-sande/) recalled meeting [Nick](/people/nick-johnson/) at the Foundation while working on [Mist](/articles/mist/)-era product ideas. [Alex](/people/alex-van-de-sande/) wanted a name registration system, [Nick](/people/nick-johnson/) had ideas of his own, and the two shipped an initial version together:
+In Alex van de Sande's [Episode 13](/videos/episode013-alex-van-de-sande/) interview, [Alex](/people/alex-van-de-sande/) recalled meeting [Nick](/people/nick-johnson/) at [the Foundation](/articles/stiftung-ethereum/) while working on [Mist](/articles/mist/)-era product ideas. [Alex](/people/alex-van-de-sande/) wanted a name registration system, [Nick](/people/nick-johnson/) had ideas of his own, and the two shipped an initial version together:
 
 > "I met Nick Johnson at the Foundation. I wanted to do a name registration. He had a few ideas, we got together, we launched it..."
 

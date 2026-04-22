@@ -20,7 +20,7 @@ Alex van de Sande is the UX designer who conceived [Mist](/articles/mist/), the 
 
 In his own [Episode 13](/videos/episode013-alex-van-de-sande/) interview, Alex described encountering Ethereum in 2014 through the white paper and the early [AlethZero](/articles/aleth-zero/) graphical client. He found the underlying idea compelling, but the interface deeply alienating. He compared using it to trying to land a plane.
 
-Instead of just dismissing the project, Alex made a redesigned mockup of the interface and posted it to [Reddit](https://www.reddit.com/). That directly led to conversations with Gavin Wood and Jeff Wilcke. In Alex's retelling, [Gavin](/people/gavin-wood/) response was important: he pushed Alex beyond simply improving a GUI and toward thinking about a full browser for decentralized applications. Alex said he was hired by the Foundation in September 2014.
+Instead of just dismissing the project, Alex made a redesigned mockup of the interface and posted it to [Reddit](https://www.reddit.com/). That directly led to conversations with Gavin Wood and Jeff Wilcke. In Alex's retelling, [Gavin](/people/gavin-wood/) response was important: he pushed Alex beyond simply improving a GUI and toward thinking about a full browser for decentralized applications. Alex said he was hired by [the Foundation](/articles/stiftung-ethereum/) in September 2014.
 
 ## Conceiving Mist
 

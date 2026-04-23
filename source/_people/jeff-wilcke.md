@@ -14,7 +14,7 @@ links:
     url: https://github.com/stygeo
 ---
 
-Jeff Wilcke is an Ethereum co-founder who created [Go-Ethereum (Geth)](/articles/geth/), the client that became Ethereum's dominant implementation. He led the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team and was one of three directors of Ethereum ÐΞV alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Gavin Wood](/people/gavin-wood/).
+Jeff Wilcke is an Ethereum co-founder who created [Go-Ethereum (Geth)](/articles/geth/), the client that became Ethereum's dominant implementation. He led the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team and was one of three directors of Ethereum ÐΞV alongside Vitalik Buterin and Gavin Wood.
 
 ## Early Development
 
@@ -31,11 +31,13 @@ Jeff founded and led [ÐΞV Amsterdam](/articles/dev-amsterdam/), Ethereum's Dut
 > "My name is Jeff, a founder of Ethereum and one of the three directors (alongside Vitalik and Gavin) of Ethereum ÐΞV, the development entity building Ethereum and all the associated tech."
 
 The Amsterdam team he assembled included:
-1. [Alex van de Sande](/people/alex-van-de-sande/) - UX engineer working on Mist browser
-2. [Viktor Trón](/people/viktor-tron/) - Working on DEVP2P networking
-3. [Felix Lange](/people/felix-lange/) - Go developer who rewrote the P2P package
-4. [Daniel Nagy](/people/daniel-nagy/) - DHT and [Swarm](/articles/swarm/) development
-5. [Maran Hidskes](/people/maran-hidskes/) - Administration
+1. Alex van de Sande - UX engineer working on Mist browser
+2. Viktor Trón - Working on DEVP2P networking
+3. Felix Lange - Go developer who rewrote the P2P package
+4. Daniel Nagy - DHT and [Swarm](/articles/swarm/) development
+5. Maran Hidskes - Administration
+
+Alex's own [Episode 13](/videos/episode013-alex-van-de-sande/) interview adds color to how that team functioned in practice. He said he worked primarily with Jeff's side of the project and described the early [Geth](/articles/geth/)-team orbit as "me, [Felix](/people/felix-lange/) and [Viktor](/people/viktor-tron/)," operating mostly remotely and meeting in person only occasionally. That helps explain why [Mist](/articles/mist/) development constantly crossed city and client boundaries even though it sat organizationally inside Jeff's group.
 
 Viktor Trón recalled meeting Jeff early in the project:
 
@@ -43,11 +45,11 @@ Viktor Trón recalled meeting Jeff early in the project:
 
 ## Development Style
 
-[Christoph Jentzsch](/people/christoph-jentzsch/) observed Jeff's pragmatic approach compared to the more combative dynamic between client teams:
+Christoph Jentzsch observed Jeff's pragmatic approach compared to the more combative dynamic between client teams:
 
 > "There was always a fight between Geth and the C++ team about who's the best. And Gavin was having a big ego. And Jeff was more like, just give me the new spec, I just code it." — Christoph Jentzsch
 
-Bob Summerwill noted the Geth team's focus:
+Bob Summerwill noted the [Geth](/articles/geth/) team's focus:
 
 > "And then on Geth, on Jeff's side - but just doing Geth, right? It wasn't a broader thing. And that Geth team were working closer with Mist, with Fabian on Mist, for a good while." — Bob Summerwill
 
@@ -59,11 +61,11 @@ When Fabian built a working encrypted group chat app in time for the team's firs
 
 ## The Red Wedding
 
-Jeff was one of the co-founders who remained after the June 2014 leadership restructuring known as the "[Red Wedding](/articles/red-wedding/)." He flew from Amsterdam to Zug for the pivotal meeting where Vitalik made decisions about the project's direction. Jeff was among those asked to continue—alongside Mihai, Gavin, Joe, and Anthony—while Charles Hoskinson and [Amir Chetrit](/people/amir-chetrit/) were removed.
+Jeff was one of the co-founders who remained after the June 2014 leadership restructuring known as the "[Red Wedding](/articles/red-wedding/)." He flew from Amsterdam to Zug for the pivotal meeting where Vitalik Buterin made decisions about the project's direction. Jeff was among those asked to continue, alongside Mihai Alisie, Gavin Wood, Joe Lubin, and Anthony Di Iorio, while Charles Hoskinson and Amir Chetrit were removed.
 
 ## DEVCON0 and Multi-Client Development
 
-At [DEVCON0](/articles/devcon0/) in Berlin (November 2014), Jeff participated in the client panel discussion alongside Gavin Wood (C++), [Heiko Hees](/people/heiko-hees/) (PyEthereum), and [Martin Becze](/people/martin-becze/) (Node-Ethereum).
+At [DEVCON0](/articles/devcon0/) in Berlin (November 2014), Jeff participated in the client panel discussion alongside Gavin Wood (C++), Heiko Hees (PyEthereum), and Martin Becze (Node-Ethereum).
 
 Christoph Jentzsch described the decision-making process among the core technical leaders:
 
@@ -112,3 +114,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Episode 3](/videos/episode003-bob-summerwill/) with Bob Summerwill
 - [Episode 6](/videos/episode006-christoph-jentzsch/) with Christoph Jentzsch
 - [Episode 10](/videos/episode010-viktor-tron/) with Viktor Trón
+- [Episode 13](/videos/episode013-alex-van-de-sande/) with Alex van de Sande

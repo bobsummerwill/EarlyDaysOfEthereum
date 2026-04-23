@@ -31,29 +31,31 @@ In August 2014, at a Berlin Bitcoin meetup about opening a Bitcoin coworking spa
 
 About six months later, a recruiter contacted Fabian looking for a C++ developer for Ethereum—which he was not. But he visited the Berlin office at Waldemarstraße, showed [Aeron](/people/aeron-buchanan/) his single-page app work, and made his case that Ethereum would need someone who could build the user-facing dapp layer.
 
-Alex van de Sande, who had just joined as UX designer and had presented his [Mist browser concept](https://www.youtube.com/watch?v=IgNjs_WaFSc) in November 2014, saw Fabian as the developer who could help build it. Alex convinced Jeff Wilcke to bring him on, and Fabian started in January 2015.
+Alex van de Sande, who had just joined as UX designer and had presented his [Mist browser concept](https://www.youtube.com/watch?v=IgNjs_WaFSc) in November 2014, saw Fabian as the developer who could help build it. [Alex](/people/alex-van-de-sande/) convinced Jeff Wilcke to bring him on, and Fabian started in January 2015.
 
 ## Building the Whisper Chat App
 
-Jeff, initially skeptical of hiring a JavaScript developer, gave Fabian what was intended as an impossibly difficult first task: build a chat application on the [Whisper](/articles/whisper/) protocol. With no documentation, novel technology, and everything still being figured out, Fabian built a working encrypted chat app with group messaging and topic filtering (similar to Discord threads):
+Jeff Wilcke, initially skeptical of hiring a JavaScript developer, gave Fabian what was intended as an impossibly difficult first task: build a chat application on the [Whisper](/articles/whisper/) protocol. With no documentation, novel technology, and everything still being figured out, Fabian built a working encrypted chat app with group messaging and topic filtering (similar to Discord threads):
 
 > "The first time we met in March or April, all together in Amsterdam, we all used the Whisper chat app to talk to each other. Encrypted chat messaging, including groups, including topics."
 
-The app impressed Jeff and earned Fabian the confidence to take on the Mist browser.
+The app impressed [Jeff](/people/jeff-wilcke/) and earned Fabian the confidence to take on the [Mist](/articles/mist/) browser.
 
 ## Creating the Mist Browser
 
-Fabian and Alex van de Sande built the first working version of the [Mist](/articles/mist/) browser in roughly three months, releasing the Ethereum Wallet with mainnet on July 31, 2015. An earlier attempt at a browser by Yann Levreau (possibly AlethZero) had not worked out, and Fabian's JavaScript expertise filled the gap.
+Fabian and Alex van de Sande built the first working version of the [Mist](/articles/mist/) browser in roughly three months, releasing the Ethereum Wallet with mainnet on July 31, 2015. An earlier attempt at a browser by Yann Levreau (possibly [AlethZero](/articles/aleth-zero/)) had not worked out, and Fabian's JavaScript expertise filled the gap.
 
 Building Mist required touching every part of the stack—the RPC API, [web3.js](https://github.com/ethereum/web3.js), the Go and C++ clients—making Fabian the first person building a cross-client application layer on Ethereum:
 
 > "I built the first dapp browser, like literally generic tool that can run any JavaScript app to connect to the blockchain. And I built with Alex the Ethereum Wallet which was the first ever dapp on Ethereum. Like the proper done, designed, cross-client functional thing."
 
-Being based in the Berlin office (the C++ team's hub) while hired by the Amsterdam team (Geth), Fabian became a crucial connector between Jeff Wilcke's and Gavin Wood's teams, which were somewhat disconnected at the time:
+Being based in the Berlin office (the C++ team's hub) while hired by the Amsterdam team ([Geth](/articles/geth/)), Fabian became a crucial connector between Jeff Wilcke's and Gavin Wood's teams, which were somewhat disconnected at the time:
 
 > "I was in this crazy position of being hired by the Amsterdam team while sitting in the office of the Berlin C++ team. So I was the connector, the translator."
 
 The Berlin office also functioned as an informal Ethereum hub where visitors would drop in—[Dominic Williams](https://en.wikipedia.org/wiki/Dominic_Williams_(entrepreneur)), Gustav Simonssen, Felix Lange, and many others. Fabian, being one of the more social developers, often ended up being the first person visitors talked to.
+
+Alex van de Sande's [Episode 13](/videos/episode013-alex-van-de-sande/) interview adds another glimpse of Fabian's role during this period. [Alex](/people/alex-van-de-sande/) recalled Fabian being on the "Spaceship" in mid-2015 while the team tested how the browser and [Swarm](/articles/swarm/) would work together, including a live chat application running over Swarm in the browser. It corroborates that Fabian was part of the small group trying to make the original full-stack Web3 client real, not just the UI layer in isolation.
 
 Christoph Jentzsch later described the Mist vision as transformative: "The Mist browser—I think there's a video by Alex Van de Sande... this also really made us understand how Ethereum could work for the end user." ([Episode 6](/videos/episode006-christoph-jentzsch/))
 
@@ -63,13 +65,13 @@ Christoph Jentzsch later described the Mist vision as transformative: "The Mist 
 
 ## The ERC-20 Standard
 
-Token standardization began when Vitalik Buterin created a GitHub Wiki page proposing standards for tokens, an [ENS](https://ens.domains/) registry, and possibly a DEX. After discussions on that page and on Skype, and following a standardization panel at DEVCON1 in November 2015 (with Christian Lundkvist, Vitalik Buterin, Fabian, Nikolai Mushegian, and Gavin Wood), Fabian created [EIP-20](https://github.com/ethereum/EIPs/issues/20) on November 19, 2015—the ERC-20 token standard:
+Token standardization began when Vitalik Buterin created a GitHub Wiki page proposing standards for tokens, an [ENS](https://ens.domains/) registry, and possibly a DEX. After discussions on that page and on Skype, and following a standardization panel at [DEVCON1](/articles/devcon1/) in November 2015 (with Christian Lundkvist, Vitalik Buterin, Fabian, Nikolai Mushegian, and Gavin Wood), Fabian created [EIP-20](https://github.com/ethereum/EIPs/issues/20) on November 19, 2015—the ERC-20 token standard:
 
 > "I created the issue and I formatted this whole discussion that we had there like a current version in a proper specification because I felt we need to involve the community."
 
-The "ERC" name—Ethereum Request for Comment—was coined by Fabian, modeled after the RFC tradition. Martin Becze had created the EIP repository, and the DEVCON1 standardization discussion inspired Fabian to formalize the token spec there.
+The "ERC" name—Ethereum Request for Comment—was coined by Fabian, modeled after the RFC tradition. Martin Becze had created the EIP repository, and the [DEVCON1](/articles/devcon1/) standardization discussion inspired Fabian to formalize the token spec there.
 
-Before proposing ERC-20, Fabian deployed a test token (the "Mist Coin") for testing in the Mist browser. He deliberately omitted the authorized operator functions because he didn't see a need for them. Years later, collectors discovered the Mist Coin as a relic token, but since it lacked the approve/transferFrom functions, it didn't work with [Uniswap](https://uniswap.org)—so it was wrapped, becoming "Wrapped Mist Coin."
+Before proposing ERC-20, Fabian deployed a test token (the "Mist Coin") for testing in the [Mist](/articles/mist/) browser. He deliberately omitted the authorized operator functions because he didn't see a need for them. Years later, collectors discovered the Mist Coin as a relic token, but since it lacked the approve/transferFrom functions, it didn't work with [Uniswap](https://uniswap.org)—so it was wrapped, becoming "Wrapped Mist Coin."
 
 Interestingly, at that same DEVCON1 panel, Fabian mentioned his main interest was in "proxy contracts"—smart contract accounts. This early interest would later lead to [ERC-725](https://eips.ethereum.org/EIPS/eip-725) and ultimately [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction).
 
@@ -83,9 +85,9 @@ Interestingly, at that same DEVCON1 panel, Fabian mentioned his main interest wa
 
 ## Web3.js and Later EF Work
 
-When Marek Kotewicz left with Gavin Wood to join Parity/Ethcore, Fabian took over maintenance of [web3.js](https://github.com/ethereum/web3.js), the primary JavaScript library for interacting with Ethereum. He had been a heavy contributor since the Mist days, being "literally the first user of that library." He built the web3.js 2.0 version as his final major project at the EF.
+When Marek Kotewicz left with Gavin Wood to join [Ethcore](/articles/ethcore/), Fabian took over maintenance of [web3.js](https://github.com/ethereum/web3.js), the primary JavaScript library for interacting with Ethereum. He had been a heavy contributor since the [Mist](/articles/mist/) days, being "literally the first user of that library." He built the web3.js 2.0 version as his final major project at the EF.
 
-During his three and a half years, Fabian also worked closely with Marek Kotewicz on web3.js, Christian Reitwiessner on Solidity, Yann Levreau and Liana Husikyan on Remix, and Christoph Jentzsch on cross-client testing—all in the Berlin office.
+During his three and a half years, Fabian also worked closely with Marek Kotewicz on web3.js, Christian Reitwießner on [Solidity](/articles/solidity/), Yann Levreau and Liana Husikyan on Remix, and Christoph Jentzsch on cross-client testing, all in the Berlin office.
 
 ## The DAO and Fabian's Concerns
 
@@ -97,7 +99,7 @@ The Mist browser was ultimately overtaken by [MetaMask](https://metamask.io/), w
 
 > "The biggest problem for the Mist browser, and in a way the death of the Mist browser, was the slow syncing of the Ethereum nodes. We wanted to do it the full decentralized way."
 
-Alex van de Sande eventually [sunset Mist](https://avsa.medium.com/sunsetting-mist-da21c8e943d2) in March 2019 for usability and security reasons. But Fabian notes that the ideas in the original Mist concept video have still not been fully realized—and many are only now becoming possible.
+Alex van de Sande eventually [sunset Mist](https://avsa.medium.com/sunsetting-mist-da21c8e943d2) in March 2019 for usability and security reasons. But Fabian notes that the ideas in the original Mist concept video have still not been fully realized, and many are only now becoming possible.
 
 ## Leaving the Ethereum Foundation
 
@@ -105,7 +107,7 @@ Fabian left the EF in August 2018 after three and a half years. The initial spar
 
 ## LUKSO and Universal Profiles
 
-Before leaving, Fabian had created [ERC-725](https://eips.ethereum.org/EIPS/eip-725) (a smart contract account/identity standard) at a BCG workshop, which generated significant attention as the "Ethereum identity standard." This work, combined with Jeff Wilcke's early advice that users should interact through smart contract accounts rather than raw EOAs, evolved into [LUKSO](https://lukso.network)—a new EVM chain designed from the ground up for mainstream users—and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction), a smart contract-based account system.
+Before leaving, Fabian had created [ERC-725](https://eips.ethereum.org/EIPS/eip-725) (a smart contract account/identity standard) at a BCG workshop, which generated significant attention as the "Ethereum identity standard." This work, combined with Jeff Wilcke's early advice that users should interact through smart contract accounts rather than raw EOAs, evolved into [LUKSO](https://lukso.network), a new EVM chain designed from the ground up for mainstream users, and [Universal Profiles](https://docs.lukso.tech/standards/universal-profile/introduction), a smart contract-based account system.
 
 Fabian created the [LUKSO Standards Proposals](https://docs.lukso.tech/standards/introduction) as a separate standards track where he could evolve token and account standards without the constraints of backwards compatibility on Ethereum. The result is an integrated system where accounts and tokens work together "in a really Lego-like way."
 
@@ -116,6 +118,7 @@ Fabian created the [LUKSO Standards Proposals](https://docs.lukso.tech/standards
 This profile draws primarily from [Fabian Vogelsteller's Early Days of Ethereum interview](/videos/episode012-fabian-vogelsteller/), which provides extensive first-hand accounts of his pre-Ethereum background, joining the foundation, building Mist, creating ERC-20, and his work on LUKSO and Universal Profiles. Additional context from:
 
 - [Christoph Jentzsch's interview](/videos/episode006-christoph-jentzsch/) on the Mist browser's impact
+- [Episode 13](/videos/episode013-alex-van-de-sande/) with Alex van de Sande on the Spaceship period and Swarm browser demos
 - [Bob Summerwill's interview](/videos/episode003-bob-summerwill/) on Fabian's DAO concerns and the Geth/Mist relationship
 - The [Mist](/articles/mist/) article for team composition and timeline
 - The [ÐΞV Amsterdam](/articles/dev-amsterdam/) article for organizational context

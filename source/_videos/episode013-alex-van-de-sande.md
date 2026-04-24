@@ -142,6 +142,10 @@ And then looking back at that, I can tell you that every single one of those thi
 
 **[17:34] Alex van de Sande:** No, it was primarily with [Jeff](/people/jeff-wilcke/)'s team. I was the third employee. When I joined the [Geth](/articles/geth/) team, it was me, [Felix](/people/felix-lange/) and [Viktor](/people/viktor-tron/) and I did some work with [Gavin](/people/gavin-wood/) and what we did is we would work mostly remotely and once or twice per year we would go meet everyone together. And whenever I was, I remember one time I went in Berlin, I went to Amsterdam and then [Gavin](/people/gavin-wood/) knew that and he made me do a detour to London just to spend like two hours with him on a cafe where he mostly told me that you're doing everything wrong, you need to do this, this, this and that. And that was it, right? We used to do that. And sometimes I think after London I went to Zug and I also spent a week in the Spaceship.
 
+![First Geth Team meeting](/images/personal/alex-van-de-sande/2026.04.24/telegram/geth-first-team-meeting.jpg)
+
+*(Alex - First Geth Team meeting: [Jeff](/people/jeff-wilcke/), [Felix](/people/felix-lange/), [Viktor](/people/viktor-tron/) and me. I remember thinking: who are these weirdos?! How did I get here?)*
+
 **[18:35] Bob Summerwill:** So, yes, the Spaceship, a very famous place. So can you remember who was there, what the context was and what you were doing?
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1499457254524964873/1499457254524964873_1.jpg)

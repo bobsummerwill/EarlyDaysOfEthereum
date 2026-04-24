@@ -49,6 +49,10 @@ That judgment proved correct. Fabian Vogelsteller joined in January 2015, specif
 
 Alex worked remotely from Rio de Janeiro, usually three to five hours offset from the Berlin office. Organizationally he sat closer to [Jeff](/people/jeff-wilcke/)'s team, and in [Episode 13](/videos/episode013-alex-van-de-sande/) he described the early orbit around that work as essentially "me, [Felix](/people/felix-lange/) and [Viktor](/people/viktor-tron/)," with the group mostly working remotely and only meeting in person once or twice a year.
 
+![First Geth Team meeting](/images/personal/alex-van-de-sande/2026.04.24/telegram/geth-first-team-meeting.jpg)
+
+*(Alex - First Geth Team meeting: [Jeff](/people/jeff-wilcke/), [Felix](/people/felix-lange/), [Viktor](/people/viktor-tron/) and me. I remember thinking: who are these weirdos?! How did I get here?)*
+
 Together, Alex and Fabian Vogelsteller built the first working version of Mist in roughly three months. The [Mist article](/articles/mist/) notes that the Mist repository was created on June 10, 2015, that the first public milestone was the Ethereum Wallet developer preview on September 16, 2015, and that the first public Mist browser release followed on July 8, 2016. Fabian later described the Ethereum Wallet as the first proper end-user dapp on Ethereum, and credited Alex as the person who had framed the original vision.
 
 ## The Dapp Store Dream

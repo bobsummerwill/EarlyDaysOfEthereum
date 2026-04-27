@@ -11,7 +11,7 @@ Dino Mark was an early participant in the Ethereum community, involved from Janu
 
 ## Toronto Bitcoin Scene
 
-Episode 16 pushes Dino's connection to the broader story back even earlier. Anthony Di Iorio says Dino Mark was present at his very first Toronto Bitcoin meetup in November 2012, alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Peter Todd](/people/peter-todd/).
+Episode 14 pushes Dino's connection to the broader story back even earlier. Anthony Di Iorio says Dino Mark was present at his very first Toronto Bitcoin meetup in November 2012, alongside [Vitalik Buterin](/people/vitalik-buterin/) and [Peter Todd](/people/peter-todd/).
 
 That makes Dino part of the tiny initial Toronto Bitcoin circle out of which much of Ethereum's Canadian prehistory later emerged.
 
@@ -27,5 +27,5 @@ Dino Mark became notably known for co-authoring a paper in 2016 analyzing vulner
 
 ## Primary Sources
 
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
 - [Taylor Gerring's photos from 2014](/articles/taylor-gerring-photos/)

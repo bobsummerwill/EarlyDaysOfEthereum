@@ -15,5 +15,5 @@ That places Goldglass in the earliest operational layer around Ethereum, before 
 
 ## Primary Sources
 
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
 - [Ethereum Canada Inc.](/articles/ethereum-canada-inc/)

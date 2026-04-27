@@ -14,11 +14,11 @@ Amir was part of Ethereum's early business team alongside Charles Hoskinson, [Jo
 
 > "Amir Chetrit, who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. Joe, my dad, and Anthony Di Iorio [were] the other business guys who probably had the most operating experience." — Kieren James-Lubin
 
-Episode 16 adds Di Iorio's view that Amir was not a peripheral figure in the earliest months. Di Iorio describes him as part of the initial five-person founder group with Vitalik, Mihai, Charles, and himself, before Gavin, Jeff, and Joe were added.
+Episode 14 adds Di Iorio's view that Amir was not a peripheral figure in the earliest months. Di Iorio describes him as part of the initial five-person founder group with Vitalik, Mihai, Charles, and himself, before Gavin, Jeff, and Joe were added.
 
 ## Miami and the Presale Delay
 
-The strongest new detail from Episode 16 is Di Iorio's claim that Amir played a decisive role in stopping Ethereum from launching too early after the January 2014 Miami conference.
+The strongest new detail from Episode 14 is Di Iorio's claim that Amir played a decisive role in stopping Ethereum from launching too early after the January 2014 Miami conference.
 
 Di Iorio says the team initially expected to move immediately, but that Amir objected when it became clear the sale could raise far more than expected. In his telling, Amir was the one person in the room with the common sense to say they had to slow down, rethink the structure, and make sure the project was set up properly before taking in money.
 
@@ -71,4 +71,4 @@ This profile draws from multiple Early Days of Ethereum interviews:
 - [Episode 4](/videos/episode004-taylor-gerring/) with Taylor Gerring
 - [Episode 5](/videos/episode005-anthony-d-onofrio/) with Anthony D'Onofrio
 - [Episode 9](/videos/episode009-amir-taaki/) with Amir Taaki
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)

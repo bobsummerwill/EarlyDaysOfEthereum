@@ -13,7 +13,7 @@ William Mougayar was an early Ethereum advisor, writer, and one of the first out
 
 ## Bitcoin Decentral
 
-Episode 16 adds a useful origin point for Mougayar's connection to Ethereum. Bob Summerwill notes there that the January 1, 2014 opening of Bitcoin Decentral was William's very first day around the project: the first day he met [Vitalik Buterin](/people/vitalik-buterin/) and the first day he began getting pulled into Ethereum's orbit.
+Episode 14 adds a useful origin point for Mougayar's connection to Ethereum. Bob Summerwill notes there that the January 1, 2014 opening of Bitcoin Decentral was William's very first day around the project: the first day he met [Vitalik Buterin](/people/vitalik-buterin/) and the first day he began getting pulled into Ethereum's orbit.
 
 [Anthony Di Iorio](/people/anthony-di-iorio/) adds that the opening of William's later book begins with him walking up the steps of Bitcoin Decentral, underscoring how central that Toronto venue was to his first impression of Ethereum.
 
@@ -23,4 +23,4 @@ Mougayar became one of Ethereum's best-known early interpreters and communicator
 
 ## Primary Sources
 
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)

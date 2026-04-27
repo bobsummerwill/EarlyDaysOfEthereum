@@ -4,8 +4,8 @@ date: 2026-05-01
 show: true
 guests: ["Anthony Di Iorio"]
 hosts: ["Bob Summerwill"]
-description: "Anthony Di Iorio traces his path from Austrian economics, Free Talk Live, and Toronto's first Bitcoin meetup to funding Ethereum with proceeds from Satoshi Circle. He discusses the Bitcoin Alliance of Canada, Rush Wallet and CryptoKit, Bitcoin Decentral, bringing together Ethereum's early founders, the delayed presale, and the tensions that shaped the project's legal structure."
-img: /images/covers-for-conversations/episode016-anthony-di-iorio.png
+description: "Anthony Di Iorio traces his path from Austrian economics, Free Talk Live, and Toronto's first Bitcoin meetup to funding Ethereum with proceeds from Satoshi Circle. He discusses the Bitcoin Alliance of Canada, Rush Wallet and KryptoKit, Bitcoin Decentral, bringing together Ethereum's early founders, the delayed presale, and the tensions that shaped the project's legal structure."
+img: /images/covers-for-conversations/episode014-anthony-di-iorio.png
 table_of_contents:
   - link: "#introduction"
     title: "Introduction"
@@ -19,8 +19,8 @@ table_of_contents:
     title: "The Bitcoin Alliance of Canada and getting to know Vitalik"
   - link: "#atms-conferences-and-mining"
     title: "ATMs, early conferences, and why he never mined"
-  - link: "#rush-wallet-cryptokit-and-jaxx"
-    title: "Rush Wallet, CryptoKit, and the road to Jaxx"
+  - link: "#rush-wallet-kryptokit-and-jaxx"
+    title: "Rush Wallet, KryptoKit, and the road to Jaxx"
   - link: "#bitcoin-decentral-and-the-first-atm"
     title: "Bitcoin Decentral and Toronto's Bitcoin ATM"
   - link: "#forming-the-early-ethereum-team"
@@ -127,7 +127,7 @@ So that's how I did things kind of again, to align with removing any type of sit
 
 And it led to this organization that had, I think it was, there were, I don't know if there were seven or eight board members from six different provinces, I believe. And that I then was elected by the board to be the executive director of the organization. And I spent the next number of months kind of traveling the world, representing Canada and kind of continuing now to expand nationally, internationally with my presence of evangelizing Canada's Bitcoin scene and other things. So I started local, expanded national, and then started traveling the world.
 
-And along the way I was seeing Vitalik, who had also dropped out of university. He had dropped out of university. At the time, he was traveling around the world working on this and exploring different various Bitcoin projects and initiatives. So I would run into him at different conferences. Like I ran into him in Mo Levin's event in Amsterdam and in a number of other. He was coming to the meetups and I would. So we kind of just got to know each other and he was starting to work on my wallet company, CryptoKit and Rush Wallet, helping me out with that. So I just kind of got to know this kid over the next number of months. And seeing his progression from the first meetup, he was barely shy enough to say a word. Like he really was very, very timid and reserved and almost like just very, very. And then to see him months later on stage in Amsterdam and he had been writing a lot on Bitcoin Magazine at the time and progressing his writing skills. And I just saw him kind of starting to flourish into the speaker, into the things.
+And along the way I was seeing Vitalik, who had also dropped out of university. He had dropped out of university. At the time, he was traveling around the world working on this and exploring different various Bitcoin projects and initiatives. So I would run into him at different conferences. Like I ran into him in Mo Levin's event in Amsterdam and in a number of other. He was coming to the meetups and I would. So we kind of just got to know each other and he was starting to work on my wallet company, KryptoKit and Rush Wallet, helping me out with that. So I just kind of got to know this kid over the next number of months. And seeing his progression from the first meetup, he was barely shy enough to say a word. Like he really was very, very timid and reserved and almost like just very, very. And then to see him months later on stage in Amsterdam and he had been writing a lot on Bitcoin Magazine at the time and progressing his writing skills. And I just saw him kind of starting to flourish into the speaker, into the things.
 
 And I always felt he was very responsible and he would always be on time for his meetings. And he ended up doing, I think a three part series on me for Bitcoin Magazine. And I remember him interviewing me in Amsterdam and talking about what I was doing with the Bitcoin Alliance in Canada. I just got to know him and respected him and felt he was a very smart kid and getting to be a good writer. And we just kind of built up a relationship over the months. And I think me having the meetup as a place where he could also be coming down and getting together and meeting people like Peter Todd and others that were at the first meetup and subsequent meetups and taking this group from eight people to thousands of members and doing eventually weekly meetups. And yeah, that was kind of what was happening there in 2013.
 
@@ -169,7 +169,7 @@ I remember them following around what's his name. Okay. So mining. When I first 
 
 **[38:15] Bob Summerwill:** That's right.
 
-<h3 id="rush-wallet-cryptokit-and-jaxx">Rush Wallet, CryptoKit, and the road to Jaxx</h3>
+<h3 id="rush-wallet-KryptoKit-and-jaxx">Rush Wallet, KryptoKit, and the road to Jaxx</h3>
 
 **[38:16] Anthony Di Iorio:** Don't want to jump. Yeah, but still 2013. Just sold the company, the gambling site. And then Steve and I realized we've got a wallet here. We've got, people are depositing funds into the game. We give them, we gave them a secret URL. That's how they would get into their account. We don't like passwords, we don't like logins. So our systems always worked with friction free. No account, you would get a secret URL. The URL would be your key to get into the gambling site and get to your account. We would give you a deposit address. You would send funds into a QR code instantly inside of the screen. You can probably pull up, if you look up Satoshi Circle, you'll see some images and you'll see some stuff from it.
 
@@ -177,9 +177,9 @@ And we said, well, hey, we got a wallet here. Why don't we, at the time there wa
 
 So that's where we started building wallets. And wallets, of course is the equivalent for me of the browser for the Internet. Right. It's the interface that allows people to manage and move value. So we realized and understood this was going to be, you're going to have the time where wallets are going to be that interface that people are using and needing in order to navigate Bitcoin. So it kind of was equivalent to the browser, early days of the browsers. And we started building Bitcoin wallets and started, we were the first, I think Chrome extension Bitcoin wallet ever. In fact, Ledger used our app to build their first initial Chrome extension. They forked us.
 
-I remember being in Europe at the Bitcoin conference the next year, I think that they put on in Europe. And I remember going to the Ledger booth before, just when they were starting out the company. And I'm at the booth and they're showing me their wallet. I'm like, hey, that's my software. That's it. So they were using CryptoKit as the interface. I'm like, guys, that's not open source. But that was actually, we were, yeah.
+I remember being in Europe at the Bitcoin conference the next year, I think that they put on in Europe. And I remember going to the Ledger booth before, just when they were starting out the company. And I'm at the booth and they're showing me their wallet. I'm like, hey, that's my software. That's it. So they were using KryptoKit as the interface. I'm like, guys, that's not open source. But that was actually, we were, yeah.
 
-So we did a lot of firsts with CryptoKit. We were the first Litecoin wallet. We were the first Dash wallet. We were the first other wallets that didn't exist. And we were actually the first that got onto the Apple Store. So we actually were, if you recall, back then, Apple didn't, they didn't like wallets, they didn't like anything crypto and they were banning stuff and Chrome didn't do that. And we were on Chrome. And in fact what happened for us is Chrome ended up taking us down because there was a malicious copycat of ours that went on and they mistakenly took down our app. And we thought that Google now was banning just like Apple was banning. And we were so freaked out because people couldn't get access to their Bitcoin because even though they had their keys.
+So we did a lot of firsts with KryptoKit. We were the first Litecoin wallet. We were the first Dash wallet. We were the first other wallets that didn't exist. And we were actually the first that got onto the Apple Store. So we actually were, if you recall, back then, Apple didn't, they didn't like wallets, they didn't like anything crypto and they were banning stuff and Chrome didn't do that. And we were on Chrome. And in fact what happened for us is Chrome ended up taking us down because there was a malicious copycat of ours that went on and they mistakenly took down our app. And we thought that Google now was banning just like Apple was banning. And we were so freaked out because people couldn't get access to their Bitcoin because even though they had their keys.
 
 **[41:57] Bob Summerwill:** Right.
 
@@ -201,7 +201,7 @@ And then Apple eventually came on and we ended up having a good relationship wit
 
 **[44:05] Bob Summerwill:** Of Rush Wallet.
 
-**[44:06] Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later. And then I sold it a few months later and then started working on the wallets and started out with Rush Wallet and that Rush Wallet turned into CryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
+**[44:06] Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later. And then I sold it a few months later and then started working on the wallets and started out with Rush Wallet and that Rush Wallet turned into KryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
 
 **[44:35] Bob Summerwill:** Yeah. Yeah, that's your continuum. And then yeah, you'd mentioned Vitalik interviews with you. So it looks like that was October 2013. The Amsterdam conference had been in September where you mentioned him speaking. So that was.
 
@@ -279,7 +279,7 @@ You got Mihai who was Vitalik's partner at Bitcoin Magazine working out of Roman
 
 **[55:25] Bob Summerwill:** For Mihai, presumably both Mihai and Amir, you'd met through Vitalik, but not in person at that point.
 
-**[55:36] Anthony Di Iorio:** I met Amir specifically, I met at the Inside Bitcoins in Las Vegas in 2013. That's right when we launched. That's right when we launched CryptoKit, I think that was. Right. That was. I had David Bailey beside me. That's where I first met David Bailey. I had him in a booth beside me for. He was, "Why Bitcoin" was his magazine and we met there. That's right when we were launching. I think it was CryptoKit back then in late 2013 is where I met. Was it Inside Bitcoins? It was in Vegas.
+**[55:36] Anthony Di Iorio:** I met Amir specifically, I met at the Inside Bitcoins in Las Vegas in 2013. That's right when we launched. That's right when we launched KryptoKit, I think that was. Right. That was. I had David Bailey beside me. That's where I first met David Bailey. I had him in a booth beside me for. He was, "Why Bitcoin" was his magazine and we met there. That's right when we were launching. I think it was KryptoKit back then in late 2013 is where I met. Was it Inside Bitcoins? It was in Vegas.
 
 **[56:17] Bob Summerwill:** Yeah, at the MGM Grand.
 

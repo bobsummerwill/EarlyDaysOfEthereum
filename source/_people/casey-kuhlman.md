@@ -8,7 +8,7 @@ social:
   linkedin: https://www.linkedin.com/in/caseykuhlman/
 ---
 
-Casey Kuhlman is an American lawyer and developer who co-founded Eris Industries (later renamed Monax) alongside [Preston Byrne](/people/preston-byrne/). Eris was one of the first companies built on Ethereum technology, developing tools for permissioned smart contract systems.
+Casey Kuhlman is an American lawyer and developer who co-founded Eris Industries (later renamed Monax) alongside Preston Byrne. Eris was one of the first companies built on Ethereum technology, developing tools for permissioned smart contract systems.
 
 ## Background
 
@@ -32,7 +32,7 @@ He blogged extensively about "virtual automatic contracts" (his preferred term f
 
 ## Eris Industries / Monax
 
-Casey co-founded Eris Industries with [Preston Byrne](/people/preston-byrne/), building one of the earliest platforms for deploying permissioned blockchain applications using Ethereum-compatible smart contracts. Eris Industries was noted by [Viktor Trón](/people/viktor-tron/) as being one of the first Ethereum-related "brands":
+Casey co-founded Eris Industries with Preston Byrne, building one of the earliest platforms for deploying permissioned blockchain applications using Ethereum-compatible smart contracts. Eris Industries was noted by Viktor Trón as being one of the first Ethereum-related "brands":
 
 > "I mean I think at the time it was only Eris Industries... who later became Monax, this marmot thingy and they did some nice work by the way."
 

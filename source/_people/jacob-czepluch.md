@@ -45,7 +45,7 @@ With the developers scrambling to fix the consensus issue, the scheduled meetup 
 
 ## Witnessing the Foundation Crisis
 
-From his corner of the Berlin office, Jacob watched the political drama unfold as [Ming Chan](/people/ming-chan/) began cutting costs and the C++ team faced defunding:
+From his corner of the Berlin office, Jacob watched the political drama unfold as Ming Chan began cutting costs and the C++ team faced defunding:
 
 > "Sitting as the only person working on the Python client in that office in my small corner, I had a lot of fun kind of following how people came and went and went into Gavin's office and had a chat there with him and Jutta or whatever."
 
@@ -53,7 +53,7 @@ He observed the early formation of what would become Ethcore (later Parity Techn
 
 > "I was witnessing that without knowing what was going on. I had no insight into the finances of the Foundation or anything like that. I only found out about most of those things later."
 
-Jacob also had memorable late-night encounters with [Christoph Jentzsch](/people/christoph-jentzsch/), who would visit the office to work on cross-client testing:
+Jacob also had memorable late-night encounters with Christoph Jentzsch, who would visit the office to work on cross-client testing:
 
 > "I had one night where I think I let him into the office at midnight and we had a little bit of a chat. I got to know him. He told me about all the testing he was doing and how they were testing."
 

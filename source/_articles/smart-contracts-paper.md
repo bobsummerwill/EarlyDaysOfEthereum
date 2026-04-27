@@ -6,7 +6,7 @@ embed:
   site: szabo.best.vwh.net
 ---
 
-[Nick Szabo](/people/nick-szabo/) first proposed the concept of "smart contracts" in 1994, and expanded the idea in a 1996 article titled "Smart Contracts: Building Blocks for Digital Markets" published in *Extropy* magazine. These papers laid the intellectual foundation for what would become Ethereum's core innovation: a blockchain capable of executing arbitrary programmable agreements.
+Nick Szabo first proposed the concept of "smart contracts" in 1994, and expanded the idea in a 1996 article titled "Smart Contracts: Building Blocks for Digital Markets" published in *Extropy* magazine. These papers laid the intellectual foundation for what would become Ethereum's core innovation: a blockchain capable of executing arbitrary programmable agreements.
 
 ## The 1994 Paper
 
@@ -38,6 +38,6 @@ The 1996 expanded version, "Smart Contracts: Building Blocks for Digital Markets
 
 ## Influence on Ethereum
 
-[Vitalik Buterin](/people/vitalik-buterin/) directly cited Szabo's smart contract concept in the [Ethereum white paper](/articles/ethereum-whitepaper/) as the inspiration for building a blockchain with a Turing-complete programming language. While Bitcoin's scripting system could handle simple conditions, Ethereum was designed from the ground up to execute the kind of arbitrary, self-enforcing agreements Szabo had envisioned two decades earlier.
+Vitalik Buterin directly cited Szabo's smart contract concept in the [Ethereum white paper](/articles/ethereum-whitepaper/) as the inspiration for building a blockchain with a Turing-complete programming language. While Bitcoin's scripting system could handle simple conditions, Ethereum was designed from the ground up to execute the kind of arbitrary, self-enforcing agreements Szabo had envisioned two decades earlier.
 
 The term "smart contract" became the standard name for programs deployed on Ethereum, and Szabo's papers remain among the most important intellectual precursors to the entire programmable blockchain movement.

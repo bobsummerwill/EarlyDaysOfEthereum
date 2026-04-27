@@ -207,7 +207,7 @@ In 2022, Taylor Gerring posted a series of photos from the early days of Ethereu
 
 
 ----
-*“Back in the AirBnB since we had no furniture in the Spaceship. [Jeremy Wood](/people/jeremy-wood/) is in the foreground and you can see blankets hanging from over the loft. These would be our final nights in Meierskappel.” – Taylor Gerring, [Mar 4, 2022](https://twitter.com/TaylorGerring/status/1499923987459198977)*
+*“Back in the AirBnB since we had no furniture in the Spaceship. Jeremy Wood is in the foreground and you can see blankets hanging from over the loft. These would be our final nights in Meierskappel.” – Taylor Gerring, [Mar 4, 2022](https://twitter.com/TaylorGerring/status/1499923987459198977)*
 
 ![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1499923987459198977/1499923987459198977_1.jpg)
 

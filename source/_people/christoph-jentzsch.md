@@ -16,7 +16,7 @@ Christoph Jentzsch was the architect of Ethereum's cross-client test infrastruct
 
 ## Background
 
-Christoph was pursuing a PhD in theoretical physics, studying self-organizing systems, when he discovered Bitcoin in 2013. He found [Vitalik Buterin](/people/vitalik-buterin/)'s Ethereum white paper in early 2014, but it was a video of [Gavin Wood](/people/gavin-wood/) presenting at Assembly 2014 in Finland that captured his imagination:
+Christoph was pursuing a PhD in theoretical physics, studying self-organizing systems, when he discovered Bitcoin in 2013. He found Vitalik Buterin's Ethereum white paper in early 2014, but it was a video of Gavin Wood presenting at Assembly 2014 in Finland that captured his imagination:
 
 > "I saw a video of Gavin talking about the technology... I was looking for a job at the time. I was almost done with my PhD. So I just emailed him: 'It looks like an interesting project, I would like to contribute, what can I do?'"
 
@@ -44,7 +44,7 @@ Christoph was present at [DEVCON0](/articles/devcon0/) in Berlin, which he descr
 
 > "Devcon Zero was, like, very internal. There was like 50 people, 50 to 100 people, nobody more. And they were almost all working for the Ethereum Foundation at the time."
 
-He observed the dynamic between the client teams—particularly the competition between Gavin's C++ team and [Jeff Wilcke](/people/jeff-wilcke/)'s Geth team that would later shape Ethereum's development trajectory.
+He observed the dynamic between the client teams—particularly the competition between Gavin's C++ team and Jeff Wilcke's Geth team that would later shape Ethereum's development trajectory.
 
 ## Why Geth Won
 
@@ -88,7 +88,7 @@ He co-founded [Slock.it](https://slock.it) with his brother Simon to connect IoT
 
 ## DEVCON1 and the Smart Lock
 
-At [DEVCON1](/articles/devcon1/) in London, Christoph and [Stephan Tual](/people/stephan-tual/) demonstrated a physical smart lock connected to Ethereum:
+At [DEVCON1](/articles/devcon1/) in London, Christoph and Stephan Tual demonstrated a physical smart lock connected to Ethereum:
 
 > "We just had a Raspberry Pi connected via—I think it was Zigbee or Z-Wave—to the door lock. And on the Raspberry Pi, we had actually an Ethereum client running. And we had a smart contract on-chain where you could send some money to it, and when it received some Ether, it would open up."
 

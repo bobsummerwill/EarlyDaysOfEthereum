@@ -8,7 +8,7 @@ DCTRL (pronounced "decontrol") was a community-run basement space in downtown Va
 
 ## Origins
 
-The space grew out of the Vancouver Bitcoin Co-op, a group closely associated with those who operated the world's first Bitcoin ATM, which launched at a Waves coffee shop in downtown Vancouver on October 29, 2013. The co-op leased a basement space underneath a downtown barbershop as a place to meet, code, and discuss cryptocurrency. The Meetup group "decentral.bangtown" was created around March 2014, organized by [Cameron Gray](/people/cameron-gray/).
+The space grew out of the Vancouver Bitcoin Co-op, a group closely associated with those who operated the world's first Bitcoin ATM, which launched at a Waves coffee shop in downtown Vancouver on October 29, 2013. The co-op leased a basement space underneath a downtown barbershop as a place to meet, code, and discuss cryptocurrency. The Meetup group "decentral.bangtown" was created around March 2014, organized by Cameron Gray.
 
 ## Do-ocracy
 
@@ -18,9 +18,9 @@ As Chelsea Palmer described: "What I like most about our spirit here at DCTRL is
 
 ## Ethereum Connection
 
-DCTRL hosted Ethereum-related events early on. In April 2015, [Mihai Alisie](/people/mihai-alisie/) presented his [Ethereum.Builders](/people/mihai-alisie/) proto-DAO interface via a livestreamed Google Hangout at the space.
+DCTRL hosted Ethereum-related events early on. In April 2015, Mihai Alisie presented his [Ethereum.Builders](/people/mihai-alisie/) proto-DAO interface via a livestreamed Google Hangout at the space.
 
-In mid-December 2015, [Anthony D'Onofrio](/people/anthony-d-onofrio/) and [Vitalik Buterin](/people/vitalik-buterin/) did a live-streamed "Salon Talk" to DCTRL:
+In mid-December 2015, Anthony D'Onofrio and Vitalik Buterin did a live-streamed "Salon Talk" to DCTRL:
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/gqqv_xrnDJ0"

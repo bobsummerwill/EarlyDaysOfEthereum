@@ -12,7 +12,7 @@ social:
 
 Guillaume Ballet is a Geth core developer who joined the Ethereum Foundation in October 2017.
 
-Shortly after joining, Guillaume presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) alongside [Vlad Gluhovsky](/people/vlad-gluhovsky/), who was the primary developer of the [Whisper](/articles/whisper/) protocol. The talk explained Whisper's privacy properties and technical architecture - including its "dark, ephemeral" design goals where messages could not be traced to their origin.
+Shortly after joining, Guillaume presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) alongside Vlad Gluhovsky, who was the primary developer of the [Whisper](/articles/whisper/) protocol. The talk explained Whisper's privacy properties and technical architecture - including its "dark, ephemeral" design goals where messages could not be traced to their origin.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/koZizelOUeI"

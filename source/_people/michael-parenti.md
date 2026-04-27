@@ -12,7 +12,7 @@ social:
   twitter: https://x.com/exiledsurfer
 ---
 
-Michael "Exiled Surfer" Parenti authored the first ever tweet about Ethereum on November 30, 2013, just three days after [Vitalik Buterin](/people/vitalik-buterin/) emailed the white paper to his initial group. A cypherpunk and early Bitcoiner, Michael has been a fixture in the European crypto scene, connecting communities from Berlin to Vienna to Prague.
+Michael "Exiled Surfer" Parenti authored the first ever tweet about Ethereum on November 30, 2013, just three days after Vitalik Buterin emailed the white paper to his initial group. A cypherpunk and early Bitcoiner, Michael has been a fixture in the European crypto scene, connecting communities from Berlin to Vienna to Prague.
 
 {% include twitter-embed.html
   url="https://x.com/exiledsurfer/status/406749547155570688"
@@ -64,7 +64,7 @@ When EDCON was scheduled for Vienna in 2020, Michael planned to use the occasion
 
 With [Kay Gertler](https://x.com/krassvs), he built [Interspace](https://web.archive.org/web/20200810212414/https://noncon.interspace.chat/), an integrated online convention portal combining calendar, video conferencing, and chat—one of the earliest sophisticated virtual conference platforms in the crypto space.
 
-He also worked at [Brainbot](https://x.com/_brainbot) for the [Trustlines Foundation](https://x.com/trustlinesfound) with [Heiko Hees](/people/heiko-hees).
+He also worked at [Brainbot](https://x.com/_brainbot) for the [Trustlines Foundation](https://x.com/trustlinesfound) with Heiko Hees.
 
 ## Reflections on Ethereum
 

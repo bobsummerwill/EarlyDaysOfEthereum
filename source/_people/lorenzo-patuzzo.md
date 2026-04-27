@@ -7,7 +7,7 @@ social:
   twitter: https://x.com/lorenzopatuzzo
 ---
 
-Lorenzo Patuzzo was a friend of [Mihai Alisie](/people/mihai-alisie/) and [Roxana Sureanu](/people/roxana-sureanu/) who joined the early Ethereum team at the Spaceship House in Zug, Switzerland in early 2014. Listed as "carpenter" in the project's records, Lorenzo's contributions spanned both physical and creative work during a formative period.
+Lorenzo Patuzzo was a friend of Mihai Alisie and Roxana Sureanu who joined the early Ethereum team at the Spaceship House in Zug, Switzerland in early 2014. Listed as "carpenter" in the project's records, Lorenzo's contributions spanned both physical and creative work during a formative period.
 
 ## The Spaceship House
 
@@ -15,7 +15,7 @@ When the Zug live-work space (or "holon") got under way, Lorenzo helped make it 
 
 > "Mihai and Roxy's friend Lorenzo Patuzzo, the carpenter, built a wall to create an extra bedroom that, during the day, functioned as a family room where they would watch *Game of Thrones*."
 
-[Taylor Gerring](/people/taylor-gerring/) later recalled Lorenzo's practical contributions:
+Taylor Gerring later recalled Lorenzo's practical contributions:
 
 > "Lorenzo was maligned for being 'non-technical' but did things the rest of us wouldn't. Here, he was building walls to make a 4th room." — [Taylor Gerring, Mar 7, 2022](https://twitter.com/TaylorGerring/status/1500875554026926082)
 
@@ -33,7 +33,7 @@ Lorenzo's involvement in the pre-mine allocation became a notable point of tensi
 
 > "In February, when Lorenzo worked full-time on building the wall in the Spaceship, he got the same allocation of ether as Gavin. To Gavin, the fact that he, one of Ethereum's main coders, was paid the same monthly rate as the carpenter would still rankle years later."
 
-[Gavin Wood](/people/gavin-wood/) later reflected:
+Gavin Wood later reflected:
 
 > "Everyone who was involved with the project – regardless of their capacity, skill set, talent, commitment, or productivity – was treated equally, to a fault. One guy who put up an interior wall in the house in Zug walked away with quite a decent drop of ether. It might be the most ever paid for a wall of its size."
 

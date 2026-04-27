@@ -8,7 +8,7 @@ Swarm (protocol name: BZZ) is the decentralized storage and content distribution
 
 ## Origins
 
-The concepts behind Swarm date back to at least 2011, originating from [Daniel Nagy](/people/daniel-nagy/)'s work on improving [BitTorrent](https://www.bittorrent.com/). Nagy had operated [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) nodes and experienced legal troubles related to decentralized file sharing, which motivated his interest in building a more robust, privacy-preserving, and incentivized storage system.
+The concepts behind Swarm date back to at least 2011, originating from Daniel Nagy's work on improving [BitTorrent](https://www.bittorrent.com/). Nagy had operated [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) nodes and experienced legal troubles related to decentralized file sharing, which motivated his interest in building a more robust, privacy-preserving, and incentivized storage system.
 
 [BitTorrent](https://www.bittorrent.com/) had several limitations that Swarm aimed to address:
 - Slow startup times and throttling
@@ -19,7 +19,7 @@ The concepts behind Swarm date back to at least 2011, originating from [Daniel N
 
 ## Technical Architecture
 
-[Daniel Nagy](/people/daniel-nagy/) presented his vision for Swarm at [DEVCON0](/articles/devcon0/) in Berlin (November 2014), introducing key concepts that would define the project.
+Daniel Nagy presented his vision for Swarm at [DEVCON0](/articles/devcon0/) in Berlin (November 2014), introducing key concepts that would define the project.
 
 The core innovation was the **DPA (Distributed Preimage Archive)** - the idea that instead of storing just the *location* of data in a distributed hash table (DHT), you store the actual data itself at the address determined by its content hash. This approach provides:
 
@@ -32,13 +32,13 @@ The **SWAP protocol** (Swarm Accounting Protocol) handles bandwidth incentives t
 
 ## Development History
 
-[Viktor Trón](/people/viktor-tron/) recalled in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/) that the Swarm team coalesced around [Daniel Nagy](/people/daniel-nagy/) after DEVCON0:
+Viktor Trón recalled in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/) that the Swarm team coalesced around Daniel Nagy after DEVCON0:
 
 > "I kind of gathered around him and continued on churning out some code... slowly, slowly kind of organically became a little bit of a sub team after that."
 
-The core team included Viktor Trón, Daniel Nagy, and [Zsolt Felföldi](/people/zsolt-felfoldi/) (who was originally hired to work on Swarm but was redirected to the light client by [Jeff Wilcke](/people/jeff-wilcke/)). [Nick Johnson](/people/nick-johnson/) also worked on Swarm and developed [ENS](https://ens.domains/) while part of the team.
+The core team included Viktor Trón, Daniel Nagy, and Zsolt Felföldi (who was originally hired to work on Swarm but was redirected to the light client by Jeff Wilcke). Nick Johnson also worked on Swarm and developed [ENS](https://ens.domains/) while part of the team.
 
-During the Ethereum Foundation's austerity period in 2015, [Vitalik Buterin](/people/vitalik-buterin/) suggested potentially using [IPFS](https://ipfs.tech/) instead and focusing on an incentive layer. However, [Jeff Wilcke](/people/jeff-wilcke/) quietly allowed Swarm development to continue.
+During the Ethereum Foundation's austerity period in 2015, Vitalik Buterin suggested potentially using [IPFS](https://ipfs.tech/) instead and focusing on an incentive layer. However, Jeff Wilcke quietly allowed Swarm development to continue.
 
 Key milestones:
 - **December 2016** - First public pilot released as part of Geth 1.5

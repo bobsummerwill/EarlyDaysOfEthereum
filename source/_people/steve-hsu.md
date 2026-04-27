@@ -14,12 +14,12 @@ Stephen Dao Hui Hsu is an American physicist, AI startup founder, and former uni
 
 ## Connection to Ethereum
 
-Steve Hsu played a key connective role in the early Ethereum ecosystem. In mid-2014, [Kieren James-Lubin](/people/kieren-james-lubin/) — who had been a longtime reader of Hsu's blog — reached out to him about Ethereum after becoming involved with the project through his father [Joe Lubin](/people/joe-lubin/).
+Steve Hsu played a key connective role in the early Ethereum ecosystem. In mid-2014, Kieren James-Lubin — who had been a longtime reader of Hsu's blog — reached out to him about Ethereum after becoming involved with the project through his father Joe Lubin.
 
-Kieren forwarded Steve the Ethereum white paper, and Steve in turn connected Kieren with [James Hormuzdiar](/people/james-hormuzdiar/), an old friend who was a physicist and software developer. As Jim recalled in [Episode 1](/videos/episode001/):
+Kieren forwarded Steve the Ethereum white paper, and Steve in turn connected Kieren with James Hormuzdiar, an old friend who was a physicist and software developer. As Jim recalled in [Episode 1](/videos/episode001/):
 
 > "Steve called me up and he's like, this guy Kieren just called me up. And you have to go look at this Ethereum thing."
 
-Jim read the white paper and was immediately drawn in by the idea of incentivization on the internet. He went on to build the [Haskell Ethereum client](https://github.com/jamshidh/ethereum-client-haskell) and co-found [BlockApps](https://blockapps.net) with Kieren and [Victor Wong](/people/victor-wong/).
+Jim read the white paper and was immediately drawn in by the idea of incentivization on the internet. He went on to build the [Haskell Ethereum client](https://github.com/jamshidh/ethereum-client-haskell) and co-found [BlockApps](https://blockapps.net) with Kieren and Victor Wong.
 
-Steve also helped connect the early Ethereum community to the academic and technology worlds. Through Steve, Kieren met [Ben Lorica](https://x.com/bigdata) at O'Reilly Media, which led to the Crypto Economicon conference in January 2015 — a pivotal gathering that brought together many future blockchain leaders including [Vitalik Buterin](/people/vitalik-buterin/), [Gavin Wood](/people/gavin-wood/), and others.
+Steve also helped connect the early Ethereum community to the academic and technology worlds. Through Steve, Kieren met [Ben Lorica](https://x.com/bigdata) at O'Reilly Media, which led to the Crypto Economicon conference in January 2015 — a pivotal gathering that brought together many future blockchain leaders including Vitalik Buterin, Gavin Wood, and others.

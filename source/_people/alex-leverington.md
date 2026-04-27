@@ -21,7 +21,7 @@ Alex started work as a volunteer on [cpp-ethereum](/articles/cpp-ethereum/) in J
 
 ## First Berlin Hire
 
-[Gavin Wood](/people/gavin-wood/) described Alex's hiring in his [first development update](/articles/gavs-dev-update-i/) (October 2014):
+Gavin Wood described Alex's hiring in his [first development update](/articles/gavs-dev-update-i/) (October 2014):
 
 > "Alex Leverington was our first hire and he flew to Berlin all the way from Texas to join the team. Alex has been engaged helping out with the Mac builds and making volunteer contributions since early in the year. Now he has been working on some of the internals of the C++ client (specifically the client multiplexing, allowing multiple Web Three applications to coexist on the same physical machine)."
 
@@ -31,7 +31,7 @@ Alex became the primary architect of [devp2p](/articles/devp2p/), Ethereum's pee
 
 > "Alex has also been working tirelessly on our crypto code and is now beginning work on the p2p layer, the full strategy for which we'll be seeing in his address at ÐΞVcon."
 
-[Viktor Trón](/people/viktor-tron/) recalled working with Alex on the protocol:
+Viktor Trón recalled working with Alex on the protocol:
 
 > "Especially special memory is my meeting with Alex Leverington... the peer to peer fame. Yeah, very interesting. We had lots of discussions. Yeah, very adamant on, very stubborn with his own way of thinking about the protocol. I have to say he was much more knowledgeable than I was at the time. So I was just trying to learn a lot from him. But at the same time was, okay, we're starting to be a bit more pragmatic and trying to, you know, savvy and then like have to simplify. I remember I first basically brought together the kind of specs for the devp2p protocol then..." — Viktor Trón
 

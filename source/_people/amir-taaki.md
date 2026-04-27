@@ -10,7 +10,7 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Amir_Taaki
 ---
 
-Amir Taaki is a Bitcoin pioneer, privacy technologist, and anarchist developer who was known in early Ethereum circles as "Anarchist Amir" (to distinguish from "[Capitalist Amir](/people/amir-chetrit/)"). While he never joined the Ethereum project, he played a significant role in its genesis through his friendship with [Mihai Alisie](/people/mihai-alisie/) and [Vitalik Buterin](/people/vitalik-buterin/), and the ideas developed in his hack labs directly influenced Ethereum's conception.
+Amir Taaki is a Bitcoin pioneer, privacy technologist, and anarchist developer who was known in early Ethereum circles as "Anarchist Amir" (to distinguish from "[Capitalist Amir](/people/amir-chetrit/)"). While he never joined the Ethereum project, he played a significant role in its genesis through his friendship with Mihai Alisie and Vitalik Buterin, and the ideas developed in his hack labs directly influenced Ethereum's conception.
 
 ## Background: Free Software and Poker
 
@@ -42,7 +42,7 @@ Amir was part of a network of anarchist hackers living in squatted buildings acr
 
 > "There's all these squatter's laws, which if a building is like abandoned, you can move into the building... we'd get amazing buildings. So in Amsterdam, we had a huge house. Imagine we're working on free software. We're broke devs. It's a really useful lifeline to have."
 
-In 2012, he reconnected with [Mihai Alisie](/people/mihai-alisie/), his friend from years earlier:
+In 2012, he reconnected with Mihai Alisie, his friend from years earlier:
 
 > "I just saw him randomly on the internet and I was like, bro, I'm making a conference. Come to my conference... He now looked like Jesus. But he had long hair and long beard and stuff."
 
@@ -50,7 +50,7 @@ After a Bitcoin conference, Mihai walked into a building that happened to be the
 
 ## Calafou and the Birth of Ethereum Ideas
 
-The pair then moved to [Calafou](https://calafou.org/), an eco-industrial colony near Barcelona that was part of the CIC (Cooperativa Integral Catalana), a network of anarchist cooperatives in Catalonia. There, [Vitalik Buterin](/people/vitalik-buterin/) came to live with them.
+The pair then moved to [Calafou](https://calafou.org/), an eco-industrial colony near Barcelona that was part of the CIC (Cooperativa Integral Catalana), a network of anarchist cooperatives in Catalonia. There, Vitalik Buterin came to live with them.
 
 > "So then it was, and then there was like two other Spanish hackers, which are old friends of mine. And we were working together on projects... So we were doing a whole bunch of stuff there in the hack lab."
 
@@ -60,7 +60,7 @@ The hack lab worked on cryptocurrency tools for the cooperative network, develop
 
 ## Connection to Gavin Wood
 
-[Gavin Wood](/people/gavin-wood/) also visited the London squat, where he met "Johnny Bitcoin" ([Jonathan James Harrison](/people/jonathan-james-harrison/)). Amir recalled being impressed by Gavin's credentials:
+Gavin Wood also visited the London squat, where he met "Johnny Bitcoin" (Jonathan James Harrison). Amir recalled being impressed by Gavin's credentials:
 
 > "I was impressed by it. I was like, whoa, he's got a KDE email."
 
@@ -84,7 +84,7 @@ Looking back, he acknowledges this was a missed opportunity:
 
 ## Dark Wallet and Dark Market
 
-Amir co-founded [Dark Wallet](https://github.com/darkwallet/darkwallet) with [Cody Wilson](/people/cody-wilson/) (of 3D-printed gun fame) in 2013, focusing on Bitcoin privacy. The first Dark Wallet hackathon was held at Macao, a squatted cultural center in Milan, where many early Ethereum contributors met each other.
+Amir co-founded [Dark Wallet](https://github.com/darkwallet/darkwallet) with Cody Wilson (of 3D-printed gun fame) in 2013, focusing on Bitcoin privacy. The first Dark Wallet hackathon was held at Macao, a squatted cultural center in Milan, where many early Ethereum contributors met each other.
 
 At the Bitcoin Expo Toronto hackathon in April 2014, Amir and his team built [Dark Market](https://github.com/darkwallet/darkmarket), winning the $15,000 prize:
 

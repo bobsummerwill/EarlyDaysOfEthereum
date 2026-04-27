@@ -1,6 +1,6 @@
 ---
-title: "Early Days of Ethereum - Episode 16 - Anthony Di Iorio"
-date: 2026-05-16
+title: "Early Days of Ethereum - Episode 14 - Anthony Di Iorio"
+date: 2026-05-01
 show: true
 guests: ["Anthony Di Iorio"]
 hosts: ["Bob Summerwill"]

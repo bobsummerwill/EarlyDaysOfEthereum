@@ -17,7 +17,7 @@ Todd became involved in the cypherpunk community as a teenager, communicating wi
 
 ## Toronto Bitcoin Scene
 
-Episode 16 adds a small but useful detail to Todd's Canadian Bitcoin history. Anthony Di Iorio says Peter Todd was present at the very first Toronto Bitcoin meetup in November 2012, placing him inside the tiny early community from which Vitalik Buterin, Di Iorio, and other future Ethereum figures were already starting to intersect.
+Episode 14 adds a small but useful detail to Todd's Canadian Bitcoin history. Anthony Di Iorio says Peter Todd was present at the very first Toronto Bitcoin meetup in November 2012, placing him inside the tiny early community from which Vitalik Buterin, Di Iorio, and other future Ethereum figures were already starting to intersect.
 
 ## OpenTimestamps
 

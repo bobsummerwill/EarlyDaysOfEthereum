@@ -13,7 +13,7 @@ Steve Dakh was listed as a developer on the original Ethereum announcement, thro
 
 ## Satoshi Circle
 
-Episode 16 adds substantial detail about Dakh's pre-Ethereum work with [Anthony Di Iorio](/people/anthony-di-iorio/). According to Di Iorio, Dakh posted on Reddit in late 2012 looking for someone with Bitcoin business ideas. Di Iorio replied, flew to New Jersey two days later, and the two quickly partnered on a provably fair gambling product called Satoshi Circle.
+Episode 14 adds substantial detail about Dakh's pre-Ethereum work with [Anthony Di Iorio](/people/anthony-di-iorio/). According to Di Iorio, Dakh posted on Reddit in late 2012 looking for someone with Bitcoin business ideas. Di Iorio replied, flew to New Jersey two days later, and the two quickly partnered on a provably fair gambling product called Satoshi Circle.
 
 Di Iorio later bought Dakh out and sold the business for thousands of bitcoin. He says the proceeds from that sale became the earliest bootstrap funding for Ethereum.
 
@@ -37,6 +37,6 @@ Dakh also appears in the well-known Miami house photo from January 2014, placing
 
 ## Primary Sources
 
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
 - [Taylor Gerring's photos from 2014](/articles/taylor-gerring-photos/)
 - [The Great Deletion](/articles/the-great-deletion/)

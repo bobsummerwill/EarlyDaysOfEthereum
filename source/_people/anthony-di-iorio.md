@@ -4,7 +4,7 @@ description: Ethereum co-founder, Toronto Bitcoin meetup organizer, and Bitcoin 
 photo: /images/archive.org/ethereum.org/20140701165441/di-iorio-anthony.jpg
 start: Dec 2013
 end: Dec 2015
-interview: /videos/episode016-anthony-di-iorio/
+interview: /videos/episode014-anthony-di-iorio/
 social:
   linkedin: https://www.linkedin.com/in/anthonydiiorio1/
   twitter: https://x.com/diiorioanthony
@@ -115,7 +115,7 @@ Bob Summerwill described the arrangement this way:
 
 > "He'd got the space. He was the head of the Bitcoin Association of Canada. The Bitcoin Association were running the conference. Ethereum were the main sponsor for the conference." — Bob Summerwill
 
-Di Iorio himself said in Episode 16 that he considers Bitcoin Expo "the first Ethereum event."
+Di Iorio himself said in Episode 14 that he considers Bitcoin Expo "the first Ethereum event."
 
 ## Zug, the Red Wedding, and the Foundation
 
@@ -135,7 +135,7 @@ Even where later narratives focused more on protocol architects or Swiss legal e
 
 This profile draws from multiple Early Days of Ethereum interviews and related materials:
 
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
 - [Episode 1](/videos/episode001/) with Victor Wong, Kieren James-Lubin, and James Hormuzdiar
 - [Episode 4: Taylor Gerring](/videos/episode004-taylor-gerring/)
 - [Episode 5](/videos/episode005-anthony-d-onofrio/) with Anthony D'Onofrio

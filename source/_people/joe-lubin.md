@@ -1,6 +1,6 @@
 ---
 name: Joe Lubin
-description: Ethereum co-Founder, CEO and Founder, ConsenSys
+description: Ethereum co-founder, early business backer, and founder of ConsenSys
 photo: /images/archive.org/ethereum.org/20140701165441/lubin-joseph.jpg
 start: Jan 2014
 devcon0: '1747'
@@ -10,39 +10,53 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Joseph_Lubin_(entrepreneur)
 ---
 
-Joe Lubin is one of Ethereum's eight co-founders and the later founder of [ConsenSys](/articles/consensys/). In Ethereum's earliest months, he was one of the senior business figures around the project and later became one of the key financial backers of the ecosystem.
+Joe Lubin is one of Ethereum's eight co-founders. In the early months he sat on the business side of the project, entered the story through Toronto's Bitcoin Decentral hub, survived the June 2014 leadership purge, and later founded [ConsenSys](/articles/consensys/), the most influential commercial company in Ethereum's ecosystem.
 
-## Joining Ethereum
+## Joining Through Bitcoin Decentral
 
-Episode 16 adds a concrete origin story for Lubin's entry into Ethereum. According to [Anthony Di Iorio](/people/anthony-di-iorio/), Lubin attended the January 1, 2014 launch event for Bitcoin Decentral while visiting Toronto for the holidays. Vitalik invited him back to the space a few days later, and he soon joined the trip to Miami for Ethereum's first public announcement.
+Episode 14 adds the clearest origin story for Lubin's arrival. According to [Anthony Di Iorio](/people/anthony-di-iorio/), Lubin showed up at the January 1, 2014 launch of Bitcoin Decentral while visiting Toronto over the holidays. Vitalik invited him back to the space, the group got to know him quickly, and he was soon asked to join the Miami trip where Ethereum would be publicly unveiled.
 
-Di Iorio described him as someone who had retired from Wall Street, had been living in Jamaica, and immediately seemed like "a really interesting guy" who connected well with the emerging team.
+Di Iorio describes Lubin at that point as a former Wall Street figure who had been living in Jamaica and who immediately clicked with the emerging team. [Anthony D'Onofrio](/people/anthony-d-onofrio/) remembers something similar from the Miami house: he initially assumed Lubin was just "somebody's dad," then learned that the quiet older guy talking about life in Jamaica was in fact Joe Lubin.
 
-## Miami and the Early Team
+## Miami and the Public Emergence of Ethereum
 
-Lubin stayed at the Miami house Di Iorio rented for the January 2014 Bitcoin conference. Taylor Gerring's photos place him at the center of the scene around Vitalik's first public Ethereum presentation.
+Lubin was part of the Miami house that [Anthony Di Iorio](/people/anthony-di-iorio/) rented for the North American Bitcoin Conference in late January 2014. [Taylor Gerring's](/people/taylor-gerring/) photos place him both in the house and in the crowd around [Vitalik Buterin](/people/vitalik-buterin/) immediately after Vitalik's first public Ethereum presentation.
 
 ![The crowd around Vitalik after his Miami announcement](/images/personal/taylor-gerring/taylor-gerring_2014.01.26.jpeg)
 
 *(Joe Lubin and Anthony Di Iorio can be seen next to Vitalik as the crowd encroaches - 26th January 2014. From [Taylor Gerring's photos](/articles/taylor-gerring-photos/))*
 
-Di Iorio also notes that Ethereum's very earliest bootstrap money came from his sale of Satoshi Circle, "before Joe Lubin put more money," placing Lubin in the next phase of early project funding.
+Those images matter because they capture Lubin at the exact moment Ethereum stopped being a private plan and became a public project.
 
-## Early Leadership
+## Business Side and Early Funding
 
-[Kieren James-Lubin](/people/kieren-james-lubin/) later described the business side of early Ethereum this way:
+[Kieren James-Lubin](/people/kieren-james-lubin/) later described the early internal split as "tech folks and business folks," with Joe, Kieren's father, and Anthony Di Iorio among the business people with the most operating experience. That lines up with how Joe appears in other early sources: not as one of the main protocol developers, but as one of the older organizers and funders around the project.
 
 > "Joe, my dad, and Anthony Di Iorio [were] the other business guys who probably had the most operating experience." — Kieren James-Lubin
 
-During the June 2014 "[Red Wedding](/articles/red-wedding/)," Lubin was one of the founders Vitalik asked to continue in the post-shakeup leadership structure.
+Episode 14 sharpens the funding timeline. Di Iorio says the very first bootstrap money came from his sale of Satoshi Circle, "before Joe Lubin put more money." That places Lubin in the next phase of support: after Di Iorio's initial bootstrapping, but before Ethereum had stable institutional funding.
 
-## Later Work
+Episode 5 also suggests Joe was involved in the arguments over how early Ethereum money should be released. In that account he appears on the more cautious side, favoring milestone-based delivery rather than simply moving all funds into one development structure at once.
 
-Lubin went on to found [ConsenSys](/articles/consensys/), which became the dominant commercial company in the Ethereum ecosystem for years and incubated or funded a large number of Ethereum-adjacent projects.
+## The Red Wedding and Its Aftermath
+
+During the June 2014 [Red Wedding](/articles/red-wedding/), Joe was one of the founders [Vitalik Buterin](/people/vitalik-buterin/) asked to continue. The post-shakeup group that remained was Mihai, Jeff, Gavin, Joe, and Anthony, with Charles Hoskinson and Amir Chetrit removed.
+
+Anthony Di Iorio's later recollection adds an important nuance: Joe survived the restructuring, but in Anthony's telling both men "saw the writing on the wall." The project was becoming more development-led, more Swiss, and less centered on the earlier Toronto-business faction.
+
+> "Joe saw the writing on the wall... I survived the Red Wedding, Joe survived the Red Wedding, but the writing was there that in the future things were going to be changing." — Anthony Di Iorio
+
+## ConsenSys
+
+In October 2014, Lubin founded [ConsenSys](/articles/consensys/). That step turned him from one of several early business figures into the organizer of Ethereum's most important commercial company. For years ConsenSys would finance teams, launch products, incubate startups, and act as the main bridge between Ethereum's protocol world and its business ecosystem.
 
 ## Primary Sources
 
+This profile draws from multiple Early Days of Ethereum sources:
 - [Episode 1](/videos/episode001/) with Victor Wong, Kieren James-Lubin, and James Hormuzdiar
-- [Episode 4](/videos/episode004-taylor-gerring/) with Taylor Gerring
-- [Episode 16: Anthony Di Iorio](/videos/episode016-anthony-di-iorio/)
+- [Episode 4: Taylor Gerring](/videos/episode004-taylor-gerring/)
+- [Episode 5](/videos/episode005-anthony-d-onofrio/) with Anthony D'Onofrio
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
 - [Taylor Gerring's photos from 2014](/articles/taylor-gerring-photos/)
+- [Red Wedding](/articles/red-wedding/)
+- [ConsenSys](/articles/consensys/)

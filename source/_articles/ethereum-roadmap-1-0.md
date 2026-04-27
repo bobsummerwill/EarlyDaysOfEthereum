@@ -17,6 +17,6 @@ The roadmap laid out the release sequence that would guide Ethereum from testnet
 4. **Metropolis** — Enhanced usability and smart contract improvements
 5. **Serenity** — The long-term vision including proof-of-stake
 
-This phased approach was characteristic of the early Ethereum project's planning under the technical leadership of [Vitalik Buterin](/people/vitalik-buterin/), [Gavin Wood](/people/gavin-wood/), and [Jeff Wilcke](/people/jeff-wilcke/).
+This phased approach was characteristic of the early Ethereum project's planning under the technical leadership of Vitalik Buterin, Gavin Wood, and Jeff Wilcke.
 
 The original PDF was hosted at `ethereum.org/pdfs/Ethereum-Roadmap.pdf` and is preserved via the Internet Archive's Wayback Machine.

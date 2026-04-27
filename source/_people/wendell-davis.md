@@ -15,11 +15,11 @@ Wendell was mentioned in the [original BitcoinTalk](https://web.archive.org/web/
 
 *"Wendell Davis - Strategic Partner and Branding (Hive Wallet)"*
 
-[Taylor Gerring](/people/taylor-gerring/) met [Mihai Alisie](/people/mihai-alisie/) in Milan in late 2013 while working for Wendell at Hive Bitcoin wallet. That connection led Taylor to [Vitalik Buterin](/people/vitalik-buterin/) and the rest of the Ethereum team.
+Taylor Gerring met Mihai Alisie in Milan in late 2013 while working for Wendell at Hive Bitcoin wallet. That connection led Taylor to Vitalik Buterin and the rest of the Ethereum team.
 
 ## Miami January 2014
 
-Wendell was at the Miami house in January 2014 where many early Ethereum contributors met for the first time. [Gavin Wood](/people/gavin-wood/) mentioned him specifically in his [farewell post](/articles/gavs-last-post/):
+Wendell was at the Miami house in January 2014 where many early Ethereum contributors met for the first time. Gavin Wood mentioned him specifically in his [farewell post](/articles/gavs-last-post/):
 
 > "From the amazement of meeting so many cool people (not least of whom Jani and Wendell) in Miami, Jan '14..."
 

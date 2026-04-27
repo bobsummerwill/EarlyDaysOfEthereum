@@ -17,7 +17,7 @@ links:
     url: https://blog.ethereum.org/2025/06/04/ef-treasury-policy
 ---
 
-Bastian Aue is a member of the Ethereum Foundation management team who became interim co-Executive Director in February 2026, serving alongside [Hsiao-Wei Wang](/people/hsiao-wei-wang/).
+Bastian Aue is a member of the Ethereum Foundation management team who became interim co-Executive Director in February 2026, serving alongside Hsiao-Wei Wang.
 
 The Ethereum Foundation Board described him as a core part of the executive team before that transition, participating in decision-making with prior focus on grants, enterprise, and operations. In Tomasz K. Stańczak's February 2026 leadership update, Aue was also described as leading policy support and long-term work within the Foundation.
 

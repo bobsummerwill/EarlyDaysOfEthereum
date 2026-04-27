@@ -22,12 +22,6 @@
 {% assign seo_author = page.author | default: site.author %}
 
 {% assign seo_url = page.url | absolute_url %}
-{% assign site_logo = '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | absolute_url %}
-{% assign site_creator_url = '/people/bob-summerwill/' | absolute_url %}
-{% assign page_hidden = false %}
-{% if page.hidden == true or page.hidden == 'true' %}
-  {% assign page_hidden = true %}
-{% endif %}
 
 {% comment %} Smart image selection {% endcomment %}
 {% assign seo_image = page.image | default: page.photo | default: page.img | default: page.embed.img %}
@@ -52,7 +46,13 @@
 {% endunless %}
 
 {% comment %} Skip social metadata for hidden profiles and articles to prevent privacy leaks {% endcomment %}
-{% assign skip_social_meta = page_hidden %}
+{% assign skip_social_meta = false %}
+{% if page.collection == 'people' and (page.hidden == true or page.hidden == 'true') %}
+  {% assign skip_social_meta = true %}
+{% endif %}
+{% if page.collection == 'articles' and (page.hidden == true or page.hidden == 'true') %}
+  {% assign skip_social_meta = true %}
+{% endif %}
 
 {% unless skip_social_meta %}
   {% assign seo_image = seo_image | absolute_url %}
@@ -81,7 +81,7 @@
 <link rel="canonical" href="{{ seo_url }}">
 
 {% comment %} Robots meta tag {% endcomment %}
-{% if page.noindex or page_hidden %}
+{% if page.noindex %}
 <meta name="robots" content="noindex, nofollow">
 {% else %}
 <meta name="robots" content="index, follow">
@@ -143,7 +143,7 @@
   =========================
 {% endcomment %}
 
-<meta property="linkedin:owner" content="{{ site.social.linkedin_owner | default: 'bobsummerwill' }}">
+<meta property="linkedin:owner" content="{{ site.social.linkedin | default: 'bobsummerwill' }}">
 {% endunless %}
 
 {% comment %}
@@ -162,32 +162,30 @@
       "url": "{{ site.url }}",
       "name": "{{ site.title }}",
       "description": "{{ site.description }}",
-      "inLanguage": "{{ site.lang | default: 'en_US' }}",
-      {% if site.keywords %}"keywords": "{{ site.keywords }}",{% endif %}
-      "image": "{{ site_logo }}",
-      "about": {
-        "@type": "Thing",
-        "name": "History of Ethereum"
-      },
-      "creator": {
-        "@id": "{{ site_creator_url }}#person"
-      },
       "publisher": {
         "@id": "{{ site.url }}/#organization"
-      }
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ site.url }}/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ]
     },
     {
       "@type": "Organization",
       "@id": "{{ site.url }}/#organization",
       "name": "{{ site.title }}",
-      "alternateName": "EDoE",
       "url": "{{ site.url }}",
       "description": "{{ site.description }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site_logo }}"
+        "url": "{{ '/images/archive.org/ethereum.org/20140428062102/internetarchive_ethereum.org_20140428062102.png' | absolute_url }}"
       },
-      "image": "{{ site_logo }}",
       "sameAs": [
         {% if site.social.links %}
           {% for link in site.social.links %}
@@ -195,48 +193,40 @@
           {% endfor %}
         {% endif %}
       ]
-    },
-    {
-      "@type": "Person",
-      "@id": "{{ site_creator_url }}#person",
-      "name": "{{ site.author }}",
-      "url": "{{ site_creator_url }}",
-      "description": "Creator and maintainer of the Early Days of Ethereum historical archive."
     }
     {% if page.collection == 'people' and skip_social_meta != true %},
     {
       "@type": "Person",
-      "@id": "{{ seo_url }}#person",
+      "@id": "{{ seo_url }}/#person",
       "name": "{{ page.name }}",
       {% if page.nickname %}"alternateName": "{{ page.nickname }}",{% endif %}
       "url": "{{ seo_url }}",
       "description": "{{ seo_description }}",
       {% if page.photo %}"image": "{{ page.photo | absolute_url }}",{% endif %}
-      "mainEntityOfPage": {
-        "@id": "{{ seo_url }}"
-      },
       {% if page.social %}
-      {% assign person_same_as = "" | split: "" %}
-      {% if page.social.website %}{% assign person_same_as = person_same_as | push: page.social.website %}{% endif %}
-      {% if page.social.github %}{% assign person_same_as = person_same_as | push: page.social.github %}{% endif %}
-      {% if page.social.twitter %}{% assign person_same_as = person_same_as | push: page.social.twitter %}{% endif %}
-      {% if page.social.linkedin %}{% assign person_same_as = person_same_as | push: page.social.linkedin %}{% endif %}
-      {% if page.social.wikipedia %}{% assign person_same_as = person_same_as | push: page.social.wikipedia %}{% endif %}
       "sameAs": [
-        {% for link in person_same_as %}
-        "{{ link }}"{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-      ]{% endif %}
+        {% assign social_links = "" %}
+        {% if page.social.website %}{% assign social_links = social_links | append: '"' | append: page.social.website | append: '",' %}{% endif %}
+        {% if page.social.github %}{% assign social_links = social_links | append: '"' | append: page.social.github | append: '",' %}{% endif %}
+        {% if page.social.twitter %}{% assign social_links = social_links | append: '"' | append: page.social.twitter | append: '",' %}{% endif %}
+        {% if page.social.linkedin %}{% assign social_links = social_links | append: '"' | append: page.social.linkedin | append: '",' %}{% endif %}
+        {% if page.social.wikipedia %}{% assign social_links = social_links | append: '"' | append: page.social.wikipedia | append: '",' %}{% endif %}
+        {{ social_links | remove_last: ',' }}
+      ],
+      {% endif %}
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Ethereum",
+        "description": "Decentralized blockchain platform"
+      }
     }
     {% elsif page.collection == 'articles' %},
     {
       "@type": "Article",
-      "@id": "{{ seo_url }}#article",
+      "@id": "{{ seo_url }}/#article",
       "headline": "{{ page.title }}",
       "description": "{{ seo_description }}",
       "url": "{{ seo_url }}",
-      "inLanguage": "{{ site.lang | default: 'en_US' }}",
-      "isAccessibleForFree": true,
       {% if page.date %}"datePublished": "{{ page.date | date_to_xmlschema }}",{% endif %}
       {% if page.modified_date %}"dateModified": "{{ page.modified_date | date_to_xmlschema }}",{% endif %}
       "author": {
@@ -255,31 +245,24 @@
     {% elsif page.collection == 'videos' %},
     {
       "@type": "VideoObject",
-      "@id": "{{ seo_url }}#video",
+      "@id": "{{ seo_url }}/#video",
       "name": "{{ page.title }}",
       "description": "{{ seo_description }}",
       "url": "{{ seo_url }}",
-      "inLanguage": "{{ site.lang | default: 'en_US' }}",
-      "isAccessibleForFree": true,
       {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
       {% if page.duration %}"duration": "{{ page.duration }}",{% endif %}
       {% if seo_image %}"thumbnailUrl": "{{ seo_image }}",{% endif %}
       "publisher": {
         "@id": "{{ site.url }}/#organization"
-      },
-      "mainEntityOfPage": {
-        "@id": "{{ seo_url }}"
       }
     }
     {% else %},
     {
       "@type": "WebPage",
-      "@id": "{{ seo_url }}#webpage",
+      "@id": "{{ seo_url }}/#webpage",
       "url": "{{ seo_url }}",
       "name": "{{ seo_title }}",
       "description": "{{ seo_description }}",
-      "inLanguage": "{{ site.lang | default: 'en_US' }}",
-      "isAccessibleForFree": true,
       "isPartOf": {
         "@id": "{{ site.url }}/#website"
       },

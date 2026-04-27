@@ -34,17 +34,17 @@ By his estimate, he gave over 100,000 free hugs. This experience in community bu
 
 ## The Vision
 
-Texture had a roommate who tried to get him into Bitcoin at $1, but he dismissed it as "internet nerd money." Years later, while making cannabis edibles in California, he finally listened to the [Let's Talk Bitcoin](https://letstalkbitcoin.com/) podcast with [Adam B. Levine](/people/adam-b-levine/) and Andreas Antonopoulos. What followed was transformative:
+Texture had a roommate who tried to get him into Bitcoin at $1, but he dismissed it as "internet nerd money." Years later, while making cannabis edibles in California, he finally listened to the [Let's Talk Bitcoin](https://letstalkbitcoin.com/) podcast with Adam B. Levine and Andreas Antonopoulos. What followed was transformative:
 
 > "I had what I can only describe as a biblical vision... just this massive data download into my head where I could basically see the future visually. I just saw the whole thing playing out in front of me."
 
-He drove 20 hours to Washington State to meet Adam, spending nine hours in his hot tub discussing the vision. When Texture asked to be connected to anyone working on similar ideas, Adam forwarded him a white paper that [Vitalik Buterin](/people/vitalik-buterin/) had just sent out:
+He drove 20 hours to Washington State to meet Adam, spending nine hours in his hot tub discussing the vision. When Texture asked to be connected to anyone working on similar ideas, Adam forwarded him a white paper that Vitalik Buterin had just sent out:
 
 > "I actually had envisioned everything in the paper before. I was more blown away by the fact that I found it and Vitalik a week after having the vision."
 
 ## Joining Ethereum
 
-Texture was among the very first people to join the original Ethereum Skype group, alongside [Vitalik](/people/vitalik-buterin/), [Charles Hoskinson](/people/charles-hoskinson/), and [Adam B. Levine](/people/adam-b-levine/). He quickly became the person everyone trusted:
+Texture was among the very first people to join the original Ethereum Skype group, alongside [Vitalik](/people/vitalik-buterin/), Charles Hoskinson, and Adam B. Levine. He quickly became the person everyone trusted:
 
 > "I was kind of like the dude that everybody trusted. So like whenever anybody wanted to talk to somebody, they would come talk to me, which is why I got so much information about what was going on all the time."
 

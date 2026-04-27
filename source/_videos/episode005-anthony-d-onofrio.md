@@ -526,7 +526,7 @@ So like I was there day one. I was doing, I was making sure like, you know, firs
 
 So I like spun up a logo, sent it to him. He was like, oh yeah, this is kind of what I was thinking. I was like, thank God.  Please don't put that out. Um, I don't know if I made a website or, and then somebody submitted an image, but the image was like, like, and so just real quick, like what I used to do is I used to be like the dude who um, dev shops would call when they were six months behind on a project. They needed it done in three days.
 
-*(Bob - from what I can determine, it was [Ryan Taylor](/people/ryan-taylor/) who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
+*(Bob - from what I can determine, it was Ryan Taylor who made the first website.  He had previously been the web designer for [Bitcoin Magazine](https://en.wikipedia.org/wiki/Bitcoin_Magazine) from day one.  As well as the evolution of the site, you can also see the evolution if the logo)*
 {% include content-embed.html
   url="https://x.com/BobSummerwill/status/1963986588872110163"
   img="https://pbs.twimg.com/media/G0F6wFOb0AAN2CH?format=png&name=small"
@@ -677,7 +677,7 @@ Yeah. You, you know, I defended you on that because I think you're like a really
 Not to dig too much, but, um, [Charles](/people/charles-hoskinson/) had a like buddy, assistant partner guy. Is his name [Jeremy](/people/jeremy-wood/)?
 
 [[47:24]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=2844s) **Bob:**
-[Jeremy Wood](/people/jeremy-wood/)
+Jeremy Wood
 
 [[47:26]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=2846s) **Kieren:**
 I'm trying, I'm remembering cause I actually thought he was, yeah.  And there was more there, but, um, I, I'm just to Texture's point, you know, um, maybe he was just naive or maybe you guys know more than I do, but that wasn't sort of a strange dichotomy.
@@ -686,7 +686,7 @@ I'm trying, I'm remembering cause I actually thought he was, yeah.  And there wa
 Yeah. Again, I think it was just whoever would follow him around and not question him. Like that's how you got to be his right hand man.  The less questions you ask, the closer, better friend you are, the more you listen to his stupid stories. Didn't call him on it. You know what I mean?  Like I met this, "I was on the front lines of Afghanistan for DARPA and now I'm like", shut the fuck up, [Charles](/people/charles-hoskinson/).
 
 [[48:01]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=2881s) **Bob:**
-With [Jeremy Wood](/people/jeremy-wood/), he notably called him boy. "Come here, boy!"
+With Jeremy Wood, he notably called him boy. "Come here, boy!"
 
 [[48:06]](https://www.youtube.com/watch?v=vITKYMJ30xw&t=2886s) **Texture:**
 Well, I never saw that. I'm telling you, like, I remember some story about him, like playing games with people in the Zug house, like sending somebody's sending somebody off who, who's like a wife was there, a girlfriend and, and telling them that they had to go do this thing for him, uh, out of town. And then when that person had left, he then tried to convince one of the other dudes to like get with the dude's wife.

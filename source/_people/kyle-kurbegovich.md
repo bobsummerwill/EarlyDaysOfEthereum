@@ -8,19 +8,19 @@ social:
   twitter: https://x.com/KKurbegovich/
 ---
 
-Kyle Kurbegovich was one of the earliest media people around Ethereum's Toronto phase. Through CoinTalk, he documented [Bitcoin Decentral](https://en.wikipedia.org/wiki/Decentral), Miami, and several of the first videos that introduced Ethereum to the public.
+Kyle Kurbegovich was one of the earliest media people around Ethereum's Toronto phase. Through CoinTalk, he documented [Bitcoin Decentral](https://decentral.ca/), Miami, and several of the first videos that introduced Ethereum to the public.
 
 ## CoinTalk and Bitcoin Decentral
 
-The launch video for [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) shows Kyle in his original role clearly. He narrated the January 1, 2014 opening of the space, described CoinTalk as one of the projects based there, and captured [Anthony Di Iorio](/people/anthony-di-iorio/) presenting Bitcoin Decentral as the new home for KryptoKit, CoinTalk, the Toronto meetup, and Ethereum.
+The launch video for [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) shows Kyle in his original role clearly. He narrated the January 1, 2014 opening of the space, described CoinTalk as one of the projects based there, and captured Anthony Di Iorio presenting [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) as the new home for KryptoKit, CoinTalk, the Toronto meetup, and Ethereum.
 
 Anthony's own comments in that video say CoinTalk was a joint project between himself and Kyle, with Kyle as host. That makes Kyle part of the small Toronto cluster that gave Ethereum its first ongoing media coverage before the project had a mature communications apparatus.
 
 ## Early Ethereum Media
 
-Episode 11 with [Ryan Taylor](/people/ryan-taylor/) gives the best retrospective summary of Kyle's importance. There Bob Summerwill describes CoinTalk as one of the first blockchain shows, says Kyle worked out of Bitcoin Decentral alongside Vitalik, and explains that CoinTalk was actively producing video, audio, and short writeups from roughly December 2013 through March 2014.
+Episode 11 with Ryan Taylor gives the best retrospective summary of Kyle's importance. There Bob Summerwill describes CoinTalk as one of the first blockchain shows, says Kyle worked out of [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) alongside Vitalik Buterin, and explains that CoinTalk was actively producing video, audio, and short writeups from roughly December 2013 through March 2014.
 
-That same episode credits Kyle with releasing a number of now-historic early Ethereum videos on his channels first, including the preserved Miami presentation, [Introducing Ethereum](/videos/introducing-ethereum/), and [Ethereum Your Turn](/videos/ethereum-your-turn/). Bob also notes that Kyle was listed on the early website as "media, CoinTalk."
+That same episode credits Kyle with releasing a number of now-historic early Ethereum videos on his channels first, including the preserved Miami presentation, [Introducing Ethereum](/videos/introducing-ethereum/), and [Ethereum Your Turn](/videos/ethereum-your-turn/). Bob Summerwill also notes that Kyle was listed on the early website as "media, CoinTalk."
 
 The documentary trail in [The Great Deletion](/articles/the-great-deletion/) matches that description. The original January 23, 2014 BitcoinTalk announcement listed "Kyle Kurbegovich (Media - Cointalk)" before later edits removed him along with many other early contributors.
 

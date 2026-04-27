@@ -12,9 +12,9 @@ social:
 
 David Johnston appears in the Early Days of Ethereum sources as an important counterpart in the broader "cryptocurrency 2.0" scene rather than as an Ethereum insider.
 
-The key source is the [CoinTalk BTCMiami debate](/videos/cointalk-015-btcmiami-debate/), where Johnston introduced himself as executive director of BitAngels and a board director of the Mastercoin Foundation. He shared that stage with [Charles Hoskinson](/people/charles-hoskinson/) and Dan Larimer, making him one of the principal representatives of the other major programmable-blockchain direction Ethereum was being compared against in early 2014.
+The key source is the [CoinTalk BTCMiami debate](/videos/cointalk-015-btcmiami-debate/), where Johnston introduced himself as executive director of BitAngels and a board director of the [Mastercoin Foundation](https://www.omnilayer.org/). He shared that stage with Charles Hoskinson and [Dan Larimer](https://en.wikipedia.org/wiki/Dan_Larimer), making him one of the principal representatives of the other major programmable-blockchain direction Ethereum was being compared against in early 2014.
 
-Episode 14 with [Anthony Di Iorio](/people/anthony-di-iorio/) confirms that this debate was remembered inside the Ethereum camp as one of the marquee side events around Miami. The [Bitcoin Expo 2014](/articles/bitcoin-expo/) page then places Johnston in Toronto a few months later as part of the same conference circuit through which Ethereum was building recognition.
+Episode 14 with Anthony Di Iorio confirms that this debate was remembered inside the Ethereum camp as one of the marquee side events around Miami. The [Bitcoin Expo 2014](/articles/bitcoin-expo/) page then places Johnston in Toronto a few months later as part of the same conference circuit through which Ethereum was building recognition.
 
 So the repo-local picture is straightforward: David Johnston mattered because he represented one of the strongest adjacent alternatives at the moment Ethereum was entering public view.
 

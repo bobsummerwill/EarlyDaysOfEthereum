@@ -8,11 +8,11 @@ social:
   linkedin: https://www.linkedin.com/in/jeremykwood/
 ---
 
-Jeremy Wood served as Executive Assistant to [Charles Hoskinson](/people/charles-hoskinson/) (self-appointed "CEO" of Ethereum) between December 2013 and September 2014. He remained with Ethereum for several months after Charles's departure at the "[Red Wedding](/articles/red-wedding/)" in June 2014.
+Jeremy Wood served as Executive Assistant to Charles Hoskinson (self-appointed "CEO" of Ethereum) between December 2013 and September 2014. He remained with Ethereum for several months after Charles's departure at the "[Red Wedding](/articles/red-wedding/)" in June 2014.
 
 ## Early Days
 
-Jeremy appears in photographs from the Miami house in January 2014. [Taylor Gerring](/people/taylor-gerring/) documented the gathering:
+Jeremy appears in photographs from the Miami house in January 2014. Taylor Gerring documented the gathering:
 
 > "Late into the night, some of our team gathered on the back patio for interviews. In addition to those named in yesterday's photo, appearing below are Charles, Joe, Jeremy, Dino, and one unidentified smoker." — Taylor Gerring, January 27, 2014
 
@@ -22,7 +22,7 @@ He was also present at the Switzerland AirBnB:
 
 ## Relationship with Charles
 
-Jeremy served as Charles's right-hand man during the early Ethereum period. [Anthony D'Onofrio](/people/anthony-d-onofrio/) described the dynamic:
+Jeremy served as Charles's right-hand man during the early Ethereum period. Anthony D'Onofrio described the dynamic:
 
 > "Again, I think it was just whoever would follow him around and not question him. Like that's how you got to be his right hand man. The less questions you ask, the closer, better friend you are, the more you listen to his stupid stories." — Anthony D'Onofrio
 

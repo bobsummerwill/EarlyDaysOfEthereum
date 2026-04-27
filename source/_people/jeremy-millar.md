@@ -11,7 +11,7 @@ Jeremy Millar was instrumental in founding the [Enterprise Ethereum Alliance](/a
 
 ## Enterprise Ethereum Alliance
 
-At [DEVCON2](/articles/devcon2/) in Shanghai (September 2016), Jeremy was one of the key drivers behind forming what would become the Enterprise Ethereum Alliance. [Victor Wong](/people/victor-wong/) recalled his role:
+At [DEVCON2](/articles/devcon2/) in Shanghai (September 2016), Jeremy was one of the key drivers behind forming what would become the Enterprise Ethereum Alliance. Victor Wong recalled his role:
 
 > "It was really Jeremy Millar, who I think later went on to become chief of staff for ConsenSys, really kind of drove that... Jeremy Millar just thought like, this isn't working, like what's happening now isn't working. We got to get some proper structure."
 

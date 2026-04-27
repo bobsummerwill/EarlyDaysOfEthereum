@@ -128,13 +128,13 @@ And so when [Gavin](/people/gavin-wood/) presented the Ethereum I was, next day 
 
 [[10:15]](https://www.youtube.com/watch?v=470q6U-TEMI&t=615s) **Viktor Trón:** Yes, yes, yes, yes.
 
-[[10:16]](https://www.youtube.com/watch?v=470q6U-TEMI&t=616s) **Bob Summerwill:** So this was organized by [Stephan Tual](/people/stephan-tual/).
+[[10:16]](https://www.youtube.com/watch?v=470q6U-TEMI&t=616s) **Bob Summerwill:** So this was organized by Stephan Tual.
 
 [[10:21]](https://www.youtube.com/watch?v=470q6U-TEMI&t=621s) **Viktor Trón:** There was a [Mihai](/people/mihai-alisie/) there who later kind of I think. And then.
 
-[[10:31]](https://www.youtube.com/watch?v=470q6U-TEMI&t=631s) **Bob Summerwill:** Sorry, [Mihai Alisie](/people/mihai-alisie/). Was that right?
+[[10:31]](https://www.youtube.com/watch?v=470q6U-TEMI&t=631s) **Bob Summerwill:** Sorry, Mihai Alisie. Was that right?
 
-[[10:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=634s) **Viktor Trón:** Yes, yes. And I think who I talked to quite a lot was [Jack du Rose](/people/jack-du-rose/), who then.
+[[10:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=634s) **Viktor Trón:** Yes, yes. And I think who I talked to quite a lot was Jack du Rose, who then.
 
 [[10:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=640s) **Bob Summerwill:** Yeah, of [Colony](https://colony.io/).
 
@@ -152,7 +152,7 @@ And so when [Gavin](/people/gavin-wood/) presented the Ethereum I was, next day 
 
 [[11:45]](https://www.youtube.com/watch?v=470q6U-TEMI&t=705s) **Bob Summerwill:** Yeah, so I mean I was looking at the timing on that. So the Ethereum Foundation was founded in July of 2014 and then the crowdsale was going through July, August, September. And then, yeah, the hiring, that first wave of we've actually got some money to hire people was sort of, you know, September, October.
 
-[[12:15]](https://www.youtube.com/watch?v=470q6U-TEMI&t=735s) **Viktor Trón:** In October again, I was negotiating with [Aeron Buchanan](/people/aeron-buchanan/), I remember right, my contact then. And then I don't know when the Amsterdam office in Wustraat was actually founded, but I already visited [Jeff](/people/jeff-wilcke/), I think later in that year there.
+[[12:15]](https://www.youtube.com/watch?v=470q6U-TEMI&t=735s) **Viktor Trón:** In October again, I was negotiating with Aeron Buchanan, I remember right, my contact then. And then I don't know when the Amsterdam office in Wustraat was actually founded, but I already visited [Jeff](/people/jeff-wilcke/), I think later in that year there.
 
 So and then, so when I first kind of joined, I was talking to my, semi with my friends in Hungary. Some of them related to this Facebook group and among them like [Dani](/people/daniel-nagy/), [Felföldi](/people/zsolt-felfoldi/). And there was another person who's like very close to Swarm later but never actually entered the scene officially. Let's let him be unnamed.
 
@@ -196,17 +196,17 @@ I just remember just a few times that the specification had to be changed. There
 
 [[21:26]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1286s) **Bob Summerwill:** And you know, you wonder how many more of these little things there were that happened that sort of forgotten in the mists of time. Yes, but yeah, so I mean through that early 2014 year you were working initially on the C++ and then later on the Go. I mean how many people were working on Go in 2014?
 
-[[22:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1323s) **Viktor Trón:** I mean it was really just a few people around. [Jeff](/people/jeff-wilcke/) I think was mainly designer and designer [Alex Van de Sande](/people/alex-van-de-sande/) from Brazil and. Yeah, and who after him.
+[[22:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1323s) **Viktor Trón:** I mean it was really just a few people around. [Jeff](/people/jeff-wilcke/) I think was mainly designer and designer Alex Van de Sande from Brazil and. Yeah, and who after him.
 
 [[22:23]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1343s) **Bob Summerwill:** But you were the second team member then, is that right?
 
-[[22:27]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1347s) **Viktor Trón:** Correct. Just about. Or maybe actually the first officially, I'm not sure. The first paid one, I'm not sure but I mean we came roughly at the same time with [Alex](/people/alex-leverington/) and with, I think with [Felix Lange](/people/felix-lange/), definitely.
+[[22:27]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1347s) **Viktor Trón:** Correct. Just about. Or maybe actually the first officially, I'm not sure. The first paid one, I'm not sure but I mean we came roughly at the same time with [Alex](/people/alex-leverington/) and with, I think with Felix Lange, definitely.
 
-*(Bob: Per [Jeff's Ethereum ÐΞV Update I](/articles/jeffs-ethereum-dev-update-i/) from November 2014, the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team joining order was: 1) [Alex van de Sande](/people/alex-van-de-sande/), 2) Viktor, 3) [Felix Lange](/people/felix-lange/), 4) [Daniel Nagy](/people/daniel-nagy/), 5) [Maran Hidskes](/people/maran-hidskes/) returning.)*
+*(Bob: Per [Jeff's Ethereum ÐΞV Update I](/articles/jeffs-ethereum-dev-update-i/) from November 2014, the [ÐΞV Amsterdam](/articles/dev-amsterdam/) team joining order was: 1) Alex van de Sande, 2) Viktor, 3) Felix Lange, 4) Daniel Nagy, 5) Maran Hidskes returning.)*
 
 [[22:40]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1360s) **Bob Summerwill:** Right, yeah. In terms of employment. Yeah but I meant when you were working earlier, you know, when you started there, I mean, were there other people working on that go-ethereum ahead of your joining in with him?
 
-[[22:56]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1376s) **Viktor Trón:** Not really. Not really. So he was, that was pretty much among ones that contributed the code as far as I remember. And I mean there was quite a vibrant ecosystem of, yeah, like ecosystem, community of people there. Like you know, the guy who later became Slock.it, there was like [Nick Savers](/people/nick-savers/) around like super tall dude and we were going together to the Bitcoin conference, I think it was in April.
+[[22:56]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1376s) **Viktor Trón:** Not really. Not really. So he was, that was pretty much among ones that contributed the code as far as I remember. And I mean there was quite a vibrant ecosystem of, yeah, like ecosystem, community of people there. Like you know, the guy who later became Slock.it, there was like Nick Savers around like super tall dude and we were going together to the Bitcoin conference, I think it was in April.
 
 [[23:30]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1410s) **Bob Summerwill:** Oh, you went to Toronto?
 
@@ -216,13 +216,13 @@ I just remember just a few times that the specification had to be changed. There
 
 [[23:36]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1416s) **Viktor Trón:** And that's when I had the chance to really talk to [Vitalik](/people/vitalik-buterin/) quite a bit. It was very nice and I got a big surprise as well. So nice, nice time.
 
-[[23:55]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1435s) **Bob Summerwill:** [Nick Savers](/people/nick-savers/) is a name that I've seen a lot of times and I've never really met or spoken to him. I guess he was around a lot early and then maybe kind of disappeared out and maybe he's a little bit of an anon guy that doesn't, you know, show face.
+[[23:55]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1435s) **Bob Summerwill:** Nick Savers is a name that I've seen a lot of times and I've never really met or spoken to him. I guess he was around a lot early and then maybe kind of disappeared out and maybe he's a little bit of an anon guy that doesn't, you know, show face.
 
 [[24:16]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1456s) **Viktor Trón:** Yeah, I mean he never joined. He was never, I don't think he was ever like officially part of it, but he was always like, yeah, around and helping us. I think he was employed by some bank.
 
 [[24:33]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1473s) **Bob Summerwill:** But I saw he and some others did the first continuous integration, you know, they were doing the build system and then he did work on the Java client as well.
 
-[[24:47]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1487s) **Viktor Trón:** That is true. And Java client was mainly led by what was his name? [Roman Mandeleil](/people/roman-mandeleil/), who kind of mysteriously disappeared after. I'm not sure what happened to him.
+[[24:47]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1487s) **Viktor Trón:** That is true. And Java client was mainly led by what was his name? Roman Mandeleil, who kind of mysteriously disappeared after. I'm not sure what happened to him.
 
 [[25:06]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1506s) **Bob Summerwill:** I did see him on Facebook for quite a time. He seems to have either disappeared or something since.
 
@@ -246,7 +246,7 @@ I just remember just a few times that the specification had to be changed. There
 
 [[27:35]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1655s) **Bob Summerwill:** So that was yourself? That was yourself, Daniel Nagy.
 
-[[27:41]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1661s) **Viktor Trón:** Yes. And later [Zsolt Felföldi](/people/zsolt-felfoldi/), like already hired to work on the light client. I think it was in 2015 already. And yeah, because he was not on DEVCON0 but yeah, DEVCON0 was already kind of. I mean it is very, so [Dani](/people/daniel-nagy) and me joining by that time there was quite a bit of, yeah, quite a bit of past around with him I think.
+[[27:41]](https://www.youtube.com/watch?v=470q6U-TEMI&t=1661s) **Viktor Trón:** Yes. And later Zsolt Felföldi, like already hired to work on the light client. I think it was in 2015 already. And yeah, because he was not on DEVCON0 but yeah, DEVCON0 was already kind of. I mean it is very, so [Dani](/people/daniel-nagy) and me joining by that time there was quite a bit of, yeah, quite a bit of past around with him I think.
 
 <h3 id="web3-and-swarm-origins">Web3 vision and Swarm origins</h3>
 
@@ -318,7 +318,7 @@ And of course these are much more difficult to do if these things are, the conte
 
 [[44:09]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2649s) **Bob Summerwill:** And I mean again, that 2016 kind of era was when ENS was coming to life as well. So yeah, I mean that's another thing actually.
 
-[[44:19]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2659s) **Viktor Trón:** [Nick Johnson](/people/nick-johnson/) was first part of the Swarm team, as part of the Swarm team. He developed the ENS and then later took off.
+[[44:19]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2659s) **Viktor Trón:** Nick Johnson was first part of the Swarm team, as part of the Swarm team. He developed the ENS and then later took off.
 
 [[44:34]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2674s) **Bob Summerwill:** I didn't know he worked on Swarm. I knew he was part of the Geth team. But he did some Swarm as well, eh?
 
@@ -328,13 +328,13 @@ And of course these are much more difficult to do if these things are, the conte
 
 [[44:48]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2688s) **Viktor Trón:** No, no, no. I mean he was just part of the community. Valuable contributions to that after.
 
-[[45:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2703s) **Bob Summerwill:** Yeah, let me just check the timeline. But I think he got hired like really pretty soon after me. I started in February 2016 and I think he was, he was maybe June, same kind of time as Hudson. Yeah, let's see. So yeah, I started in February, [Greg Colvin](/people/greg-colvin/) in March, [Everton Fraga](/people/everton-fraga/) in April.
+[[45:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2703s) **Bob Summerwill:** Yeah, let me just check the timeline. But I think he got hired like really pretty soon after me. I started in February 2016 and I think he was, he was maybe June, same kind of time as Hudson. Yeah, let's see. So yeah, I started in February, Greg Colvin in March, Everton Fraga in April.
 
 [[45:35]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2735s) **Viktor Trón:** Yeah.
 
-[[45:37]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2737s) **Bob Summerwill:** And yeah, June. Both [Hudson](/people/hudson-jameson/) and [Jamie Pitts](/people/jamie-pitts/) and [Nick Johnson](/people/nick-johnson/) all June 2016. What was I going to mention? So yeah, you talked about DEVCON0. So that was, that was November 2014 in Berlin. I imagine was that the first time that you will have met quite a number of these people?
+[[45:37]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2737s) **Bob Summerwill:** And yeah, June. Both [Hudson](/people/hudson-jameson/) and Jamie Pitts and Nick Johnson all June 2016. What was I going to mention? So yeah, you talked about DEVCON0. So that was, that was November 2014 in Berlin. I imagine was that the first time that you will have met quite a number of these people?
 
-[[46:13]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2773s) **Viktor Trón:** Especially special memory is my meeting with [Alex Leverington](/people/alex-leverington/). Oh yes, the peer to peer fame. Yeah, very interesting. We had lots of discussions. Yeah, very adamant on, very stubborn with his own way of thinking about the protocol. I have to say he was much more knowledgeable than I was at the time. So I was just trying to learn a lot from him. But at the same time was, okay, we're starting to be a bit more pragmatic and trying to, you know, savvy and then like have to simplify. I remember I first basically brought together the kind of specs for the devp2p protocol then and then, you know, that was not really followed just right.
+[[46:13]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2773s) **Viktor Trón:** Especially special memory is my meeting with Alex Leverington. Oh yes, the peer to peer fame. Yeah, very interesting. We had lots of discussions. Yeah, very adamant on, very stubborn with his own way of thinking about the protocol. I have to say he was much more knowledgeable than I was at the time. So I was just trying to learn a lot from him. But at the same time was, okay, we're starting to be a bit more pragmatic and trying to, you know, savvy and then like have to simplify. I remember I first basically brought together the kind of specs for the devp2p protocol then and then, you know, that was not really followed just right.
 
 [[47:09]](https://www.youtube.com/watch?v=470q6U-TEMI&t=2829s) **Bob Summerwill:** Well, I mean the other piece there is that [libp2p](https://libp2p.io/) as part of the [Protocol Labs](https://protocol.ai/), [IPFS](https://ipfs.tech/) that already existed at that time. So that was kind of interesting, right? This whole devp2p, libp2p.
 
@@ -402,13 +402,13 @@ So I can run a full client on a testnet, make sure it all works. But it's just a
 
 [[55:52]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3352s) **Viktor Trón:** I mean, well, I didn't have a clear idea really because it took me a while to understand full systems. I'm very honest with you. It's like I think it's only [Jeff](/people/jeff-wilcke/) who really, really understood that, what was needed to be built and he was building massive things on his own single-handedly. It's really, really crazy. I remember one of the not so glorious stories, I was assigned the task of building the block pool which was supposed to be like, you know the one that takes the blocks from the other clients, builds up the header chain and kind of validates it, etc. And I was working a lot on that and I remember that at a time he had enough and said okay, I'll just build it and basically in one or two days it was done. Interesting experience.
 
-[[56:57]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3417s) **Bob Summerwill:** And [Christoph Jentzsch](/people/christoph-jentzsch/) was building the cross client tests as well. Did you do work with those tests yourselves?
+[[56:57]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3417s) **Bob Summerwill:** And Christoph Jentzsch was building the cross client tests as well. Did you do work with those tests yourselves?
 
 [[57:09]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3429s) **Viktor Trón:** I mean no, I did myself but yeah I remember it was always, he was always running and he found a lot of things through that work.
 
 <h3 id="devcon1">DEVCON1 (London 2015)</h3>
 
-[[57:27]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3447s) **Bob Summerwill:** So in sort of July 2015 we had the arrival of [Ming Chan](/people/ming-chan/) and shortly afterwards pretty serious budget cuts because within that year or so the foundation had managed to pretty much burn through the vast majority of the money.
+[[57:27]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3447s) **Bob Summerwill:** So in sort of July 2015 we had the arrival of Ming Chan and shortly afterwards pretty serious budget cuts because within that year or so the foundation had managed to pretty much burn through the vast majority of the money.
 
 [[57:52]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3472s) **Viktor Trón:** Austerities I think was the official name of that. Yeah I remember at the time when [Vitalik](/people/vitalik-buterin/) basically said that it's not going to be Swarm. What's going to be is maybe some, maybe we just kind of use [IPFS](https://ipfs.tech/) and let's try to work on the incentive system that we can put on that.
 
@@ -434,25 +434,25 @@ And I remember that kind of seemed that the incentivization for storage was much
 
 [[1:02:55]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3775s) **Bob Summerwill:** So all the way through until that point you were continuing to work as a sort of Geth team member.
 
-[[1:03:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3783s) **Viktor Trón:** Yes. I mean officially we were part of the, yes, the team. It's part of the [EF](/articles/stiftung-ethereum/) entity and kind of yeah, slowly kind of extending the team as the protocol got some movement. So yeah, it was interesting times because I remember in 2016 when after [Nick Johnson](/people/nick-johnson/) left, I hired some other people on the protocol and then yeah, that's what kind of, I emerged as the team leader at the time, kind of organically trying to pull together the threads.
+[[1:03:03]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3783s) **Viktor Trón:** Yes. I mean officially we were part of the, yes, the team. It's part of the [EF](/articles/stiftung-ethereum/) entity and kind of yeah, slowly kind of extending the team as the protocol got some movement. So yeah, it was interesting times because I remember in 2016 when after Nick Johnson left, I hired some other people on the protocol and then yeah, that's what kind of, I emerged as the team leader at the time, kind of organically trying to pull together the threads.
 
 <h3 id="swarm-foundation-independence">Swarm Foundation and independence</h3>
 
 [[1:04:00]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3840s) **Bob Summerwill:** So with the Swarm Foundation, how and when did that happen and how did you come to leave the Geth team, I guess?
 
-[[1:04:15]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3855s) **Viktor Trón:** Well, since 2018 autumn, actually 2018 summer, a person called [Albert Ni](/people/albert-ni/) started to offer help for Swarm. They were kind of asking what we need. They seemed very helpful.
+[[1:04:15]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3855s) **Viktor Trón:** Well, since 2018 autumn, actually 2018 summer, a person called Albert Ni started to offer help for Swarm. They were kind of asking what we need. They seemed very helpful.
 
-[[1:04:39]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3879s) **Bob Summerwill:** And that's [Albert Ni](/people/albert-ni/), is this?
+[[1:04:39]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3879s) **Bob Summerwill:** And that's Albert Ni, is this?
 
 [[1:04:43]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3883s) **Viktor Trón:** Yes, I think so, yeah.
 
 [[1:04:45]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3885s) **Bob Summerwill:** Who had basically joined the Ethereum Foundation at the same time as [Aya](/people/aya-miyaguchi/).
 
-[[1:04:50]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3890s) **Viktor Trón:** Yeah, yeah, I am very, very, I mean, you know, to be honest, I'm on very good terms with [Ming](/people/ming-chan/) and before. So when [Aya](/people/aya-miyaguchi/) came she seemed very helpful and tried to solve some staffing problems and things. But there's your negotiations started and I'm free. And after that it seems that by Prague we kind of got into some serious discussions and then. And after that we kind of, I think it was right at the last day of the Prague DEVCON was submitting the proposal for funding and that was very interesting because I never really got any serious feedback on that and always a bit wondered like what could have happened. And then there was some issues went on with [Sean O'Connor](/people/sean-oconnor/), he was the point of contact delegated by [Aya](/people/aya-miyaguchi/).
+[[1:04:50]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3890s) **Viktor Trón:** Yeah, yeah, I am very, very, I mean, you know, to be honest, I'm on very good terms with [Ming](/people/ming-chan/) and before. So when [Aya](/people/aya-miyaguchi/) came she seemed very helpful and tried to solve some staffing problems and things. But there's your negotiations started and I'm free. And after that it seems that by Prague we kind of got into some serious discussions and then. And after that we kind of, I think it was right at the last day of the Prague DEVCON was submitting the proposal for funding and that was very interesting because I never really got any serious feedback on that and always a bit wondered like what could have happened. And then there was some issues went on with Sean O'Connor, he was the point of contact delegated by [Aya](/people/aya-miyaguchi/).
 
 [[1:05:54]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3954s) **Bob Summerwill:** Who?
 
-[[1:05:55]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3955s) **Viktor Trón:** Sorry, [Sean O'Connor](/people/sean-oconnor/).
+[[1:05:55]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3955s) **Viktor Trón:** Sorry, Sean O'Connor.
 
 [[1:05:59]](https://www.youtube.com/watch?v=470q6U-TEMI&t=3959s) **Bob Summerwill:** Right.
 
@@ -466,7 +466,7 @@ And I remember that kind of seemed that the incentivization for storage was much
 
 [[1:08:31]](https://www.youtube.com/watch?v=470q6U-TEMI&t=4111s) **Viktor Trón:** Yes, not really. I think the Swarm code base was taken out of Geth quite a lot before. So I think maybe 2019, I'm not even sure when, but I think it was POC 4 I think. And when it was taken out I think it was, it's too expensive I guess or something. Anyway, it's not really a good idea to mix the two. We were able to connect. It's very, very separate and kind of separate development scheme agenda I guess.
 
-[[1:09:21]](https://www.youtube.com/watch?v=470q6U-TEMI&t=4161s) **Bob Summerwill:** Maybe [Nick Johnson](/people/nick-johnson/)'s sort of experience with spinning out ENS and the [ENS Foundation](https://ens.domains/), that would have preceded yours. So perhaps you were looking to that as a pattern. Sorry, we're getting some really bad audio. Can you maybe move a little closer?
+[[1:09:21]](https://www.youtube.com/watch?v=470q6U-TEMI&t=4161s) **Bob Summerwill:** Maybe Nick Johnson's sort of experience with spinning out ENS and the [ENS Foundation](https://ens.domains/), that would have preceded yours. So perhaps you were looking to that as a pattern. Sorry, we're getting some really bad audio. Can you maybe move a little closer?
 
 [[1:09:43]](https://www.youtube.com/watch?v=470q6U-TEMI&t=4183s) **Viktor Trón:** Yes. Can you hear me now?
 

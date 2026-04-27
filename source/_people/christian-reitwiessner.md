@@ -11,7 +11,7 @@ social:
   github: https://github.com/chriseth
 ---
 
-Christian Reitwießner was the lead developer of [Solidity](/articles/solidity/), Ethereum's primary smart contract programming language, which he designed alongside [Gavin Wood](/people/gavin-wood/). He joined the Ethereum Foundation in October 2014 and was based in the Berlin ETHDEV office, where he worked for nearly a decade.
+Christian Reitwießner was the lead developer of [Solidity](/articles/solidity/), Ethereum's primary smart contract programming language, which he designed alongside Gavin Wood. He joined the Ethereum Foundation in October 2014 and was based in the Berlin ETHDEV office, where he worked for nearly a decade.
 
 Fabian Vogelsteller, who sat in the same Berlin office building the [Mist](/articles/mist/) browser and [web3.js](https://github.com/ethereum/web3.js), described working closely with him:
 

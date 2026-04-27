@@ -12,6 +12,6 @@ description: The very first GUI for Ethereum development, prior to Mist.  Built 
   description="Joel Dietz and Joris Bontje explore the AlethZero Ethereum Client (C++ Proof of Concept v3.11)."
 %}
 
-[Yann Levreau](/people/yann-levreau) built AlethZero as an early attempt at a Mist-style browser before [Fabian Vogelsteller](/people/fabian-vogelsteller/) restarted that effort in JavaScript.
+Yann Levreau built AlethZero as an early attempt at a Mist-style browser before Fabian Vogelsteller restarted that effort in JavaScript.
 
-In [Fabian Vogelsteller's Early Days of Ethereum interview](/videos/episode012-fabian-vogelsteller/), [Bob Summerwill](/people/bob-summerwill/) described AlethZero as "a really ugly programmer tool, kind of like a million controls", and Fabian agreed it was "that early Mist browser."  The experience of AlethZero informed the decision to rebuild Mist as a JavaScript/Electron application.
+In [Fabian Vogelsteller's Early Days of Ethereum interview](/videos/episode012-fabian-vogelsteller/), Bob Summerwill described AlethZero as "a really ugly programmer tool, kind of like a million controls", and Fabian agreed it was "that early Mist browser."  The experience of AlethZero informed the decision to rebuild Mist as a JavaScript/Electron application.

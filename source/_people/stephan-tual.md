@@ -11,7 +11,7 @@ social:
   github: https://github.com/stephantual
 ---
 
-Stephan Tual served as Ethereum's Chief Communications Officer (CCO) from January 2014 to September 2015, leading adoption and education efforts. He founded the London Ethereum meetup and led the [UK ÐΞV hub](/articles/eth-dev-cic/). After leaving the Foundation, he co-founded [Slock.it](/articles/slock-it/) with [Christoph Jentzsch](/people/christoph-jentzsch/) and [Simon Jentzsch](/people/simon-jentzsch/).
+Stephan Tual served as Ethereum's Chief Communications Officer (CCO) from January 2014 to September 2015, leading adoption and education efforts. He founded the London Ethereum meetup and led the [UK ÐΞV hub](/articles/eth-dev-cic/). After leaving the Foundation, he co-founded [Slock.it](/articles/slock-it/) with Christoph Jentzsch and [Simon Jentzsch](/people/simon-jentzsch/).
 
 ## Role at Ethereum
 
@@ -19,7 +19,7 @@ Stephan described his responsibilities in his [first community update](/articles
 
 > "Hi, I'm Stephan Tual, and I've been responsible for Ethereum's adoption and education since January as CCO. I'm also leading our UK ÐΞV hub, located at Co-Work in Putney (South West London)."
 
-He led the communications team, which included Ian Meikle, [George Hallam](/people/george-hallam/), and [Ken Kappler](/people/ken-kappler/).
+He led the communications team, which included Ian Meikle, George Hallam, and Ken Kappler.
 
 ## Discovering Ethereum
 
@@ -29,11 +29,11 @@ Stephan recalled the moment he first encountered the Ethereum white paper:
 
 ## Community Building
 
-Under Stephan's leadership, the Ethereum community grew rapidly. By November 2014, there were over 85 Ethereum meetups and hackathons worldwide with more than 6,000 members. He and [Vitalik Buterin](/people/vitalik-buterin/) gave presentations at Cambridge University, and Ethereum participated in the Hackathon on Transparency at the University of Geneva.
+Under Stephan's leadership, the Ethereum community grew rapidly. By November 2014, there were over 85 Ethereum meetups and hackathons worldwide with more than 6,000 members. He and Vitalik Buterin gave presentations at Cambridge University, and Ethereum participated in the Hackathon on Transparency at the University of Geneva.
 
 ## The Red Wedding
 
-During the "[Red Wedding](/articles/red-wedding/)" in June 2014, Stephan was appointed to a leadership position alongside [Taylor Gerring](/people/taylor-gerring/) after Charles Hoskinson and [Amir Chetrit](/people/amir-chetrit/) were removed. Taylor recalled:
+During the "[Red Wedding](/articles/red-wedding/)" in June 2014, Stephan was appointed to a leadership position alongside Taylor Gerring after Charles Hoskinson and Amir Chetrit were removed. Taylor recalled:
 
 > "I like to think that by choosing to put Stephan and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered." — Taylor Gerring
 
@@ -66,7 +66,7 @@ After leaving the Foundation, Stephan co-founded [Slock.it](/articles/slock-it/)
 
 ## Epicenter Interview
 
-In April 2014, Stephan appeared alongside [Max Kaye](/people/max-kaye/) on Epicenter Bitcoin to discuss Ethereum and decentralized applications:
+In April 2014, Stephan appeared alongside Max Kaye on Epicenter Bitcoin to discuss Ethereum and decentralized applications:
 
 {% include content-embed.html
   title="Max Kaye & Stephan Tual: Ethereum and Decentralized Applications"
@@ -78,7 +78,7 @@ In April 2014, Stephan appeared alongside [Max Kaye](/people/max-kaye/) on Epice
 
 ## Explaining The DAO
 
-In August 2022, Stephan published an open letter on Reddit titled "Explaining the DAO one last time," setting the record straight from his perspective as a co-founder of [Slock.it](/articles/slock-it/). He emphasized that Slock.it had created and open-sourced a DAO framework based on [Vitalik Buterin](/people/vitalik-buterin/)'s whitepaper concept, and that "The DAO" was launched and operated by a community of volunteers — not by Slock.it:
+In August 2022, Stephan published an open letter on Reddit titled "Explaining the DAO one last time," setting the record straight from his perspective as a co-founder of [Slock.it](/articles/slock-it/). He emphasized that Slock.it had created and open-sourced a DAO framework based on Vitalik Buterin's whitepaper concept, and that "The DAO" was launched and operated by a community of volunteers — not by Slock.it:
 
 > "Slock.it was a traditional software consulting company that, in an effort to give back to the community, took it upon itself to write and make available a free, libre open source framework based on Vitalik's whitepaper for anyone to modify, launch and operate DAOs as they saw fit."
 

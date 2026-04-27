@@ -9,7 +9,7 @@ social:
   twitter: https://x.com/RoxanaSureanu
 ---
 
-Roxana Sureanu appears in Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/) as part of the London squat scene around [Amir Taaki](/people/amir-taaki/) that helped connect several future Ethereum contributors. Gavin recalled first meeting [Mihai Alisie](/people/mihai-alisie/) there when Mihai was in a room with Roxana, placing her inside the same early social environment from which Gavin entered Ethereum.
+Roxana Sureanu appears in Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/) as part of the London squat scene around Amir Taaki that helped connect several future Ethereum contributors. Gavin recalled first meeting Mihai Alisie there when Mihai was in a room with Roxana, placing her inside the same early social environment from which Gavin entered Ethereum.
 
 ## Primary Sources
 

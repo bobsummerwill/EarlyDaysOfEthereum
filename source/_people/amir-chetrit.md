@@ -6,15 +6,15 @@ start: Dec 2013
 end: Jun 2014
 ---
 
-Amir Chetrit is one of the eight Ethereum co-founders, known in early Ethereum circles as "Capitalist Amir" to distinguish him from [Amir Taaki](/people/amir-taaki/) ("Anarchist Amir"). Based in Israel, he was responsible for business development during Ethereum's earliest phase before being asked to step aside during the "Red Wedding" in June 2014.
+Amir Chetrit is one of the eight Ethereum co-founders, known in early Ethereum circles as "Capitalist Amir" to distinguish him from Amir Taaki ("Anarchist Amir"). Based in Israel, he was responsible for business development during Ethereum's earliest phase before being asked to step aside during the [Red Wedding](/articles/red-wedding/) in June 2014.
 
 ## Early Leadership Structure
 
-Amir was part of Ethereum's early business team alongside Charles Hoskinson, [Joe Lubin](/people/joe-lubin/), and [Anthony Di Iorio](/people/anthony-di-iorio/). [Kieren James-Lubin](/people/kieren-james-lubin/) described his role:
+Amir was part of Ethereum's early business team alongside Charles Hoskinson, Joe Lubin, and Anthony Di Iorio. Kieren James-Lubin described his role:
 
 > "Amir Chetrit, who is in Israel, he kind of did business development. He's a funny guy. I still see him every once in a while. Joe, my dad, and Anthony Di Iorio [were] the other business guys who probably had the most operating experience." — Kieren James-Lubin
 
-Episode 14 adds Di Iorio's view that Amir was not a peripheral figure in the earliest months. Di Iorio describes him as part of the initial five-person founder group with Vitalik, Mihai, Charles, and himself, before Gavin, Jeff, and Joe were added.
+Episode 14 adds Di Iorio's view that Amir was not a peripheral figure in the earliest months. Di Iorio describes him as part of the initial five-person founder group with Vitalik Buterin, Mihai Alisie, Charles Hoskinson, and himself, before Gavin Wood, Jeff Wilcke, and Joe Lubin were added.
 
 ## Miami and the Presale Delay
 
@@ -26,21 +26,21 @@ That account complicates the later narrative around Amir. Whatever frustrations 
 
 ## Questions About Contribution
 
-As Ethereum's development progressed, some team members began questioning Amir's actual contributions. [Taylor Gerring](/people/taylor-gerring/) recalled the growing frustration:
+As Ethereum's development progressed, some team members began questioning Amir's actual contributions. Taylor Gerring recalled the growing frustration:
 
 > "Amir Chetrit, who a lot of people, myself included, were kind of asking what contribution is this guy giving other than just being given a title of founder? Because he was supposed to be responsible for all the stuff that I was actually doing, and he wasn't really involved, like wasn't somebody I reported up to in any way." — Taylor Gerring
 
-At the Bitcoin Expo 2014 in Toronto, tensions came to a head:
+At [Bitcoin Expo 2014](/articles/bitcoin-expo/) in Toronto, tensions came to a head:
 
 > "I think those kind of conversations came to a head when he was wearing swag of a different organization in Toronto when we had that Bitcoin Expo 2014 and I ended up in the basement of the office there on the phone with like a Cloudflare type company to provide DDoS protection and I'm just like I don't understand why I'm on the phone having the big boy meeting and Amir, who's supposed to be doing this, is not." — Taylor Gerring
 
 ## The Red Wedding
 
-In June 2014, during what became known as the "Red Wedding," [Vitalik Buterin](/people/vitalik-buterin/) made the decision to restructure Ethereum's leadership. Taylor Gerring described the outcome:
+In June 2014, during what became known as the "Red Wedding," Vitalik Buterin made the decision to restructure Ethereum's leadership. Taylor Gerring described the outcome:
 
 > "I like to think that by choosing to put Stephan and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered." — Taylor Gerring
 
-[Anthony D'Onofrio](/people/anthony-d-onofrio/) noted Amir's departure more simply:
+Anthony D'Onofrio noted Amir's departure more simply:
 
 > "I guess Amir left, but that's another story."
 

@@ -11,7 +11,7 @@ Aaron Wright is a law professor at the Benjamin N. Cardozo School of Law at Yesh
 
 ## Cryptocurrency Research Group
 
-In 2014, Aaron joined the [Cryptocurrency Research Group](https://web.archive.org/web/20180206003702/http://ccrg.org/) alongside [Kieren James-Lubin](/people/kieren-james-lubin/) and [Vitalik Buterin](/people/vitalik-buterin/). As Kieren recalled in [Episode 1](/videos/episode001/):
+In 2014, Aaron joined the [Cryptocurrency Research Group](https://web.archive.org/web/20180206003702/http://ccrg.org/) alongside Kieren James-Lubin and Vitalik Buterin. As Kieren recalled in [Episode 1](/videos/episode001/):
 
 > "We agreed to work on a body called the Cryptocurrency Research Group and that was composed of sort of myself, Vitalik, and our friend Aaron Wright. He's since gone on to a number of Web3 projects, but at the time was a practicing attorney, but also a professor at Cardozo Law School."
 

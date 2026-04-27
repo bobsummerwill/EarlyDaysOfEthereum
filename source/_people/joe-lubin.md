@@ -10,17 +10,17 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Joseph_Lubin_(entrepreneur)
 ---
 
-Joe Lubin is one of Ethereum's eight co-founders. In the early months he sat on the business side of the project, entered the story through Toronto's Bitcoin Decentral hub, survived the June 2014 leadership purge, and later founded [ConsenSys](/articles/consensys/), the most influential commercial company in Ethereum's ecosystem.
+Joe Lubin is one of Ethereum's eight co-founders. In the early months he sat on the business side of the project, entered the story through Toronto's [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) hub, survived the June 2014 leadership purge, and later founded [ConsenSys](/articles/consensys/), the most influential commercial company in Ethereum's ecosystem.
 
 ## Joining Through Bitcoin Decentral
 
-Episode 14 adds the clearest origin story for Lubin's arrival. According to [Anthony Di Iorio](/people/anthony-di-iorio/), Lubin showed up at the January 1, 2014 launch of Bitcoin Decentral while visiting Toronto over the holidays. Vitalik invited him back to the space, the group got to know him quickly, and he was soon asked to join the Miami trip where Ethereum would be publicly unveiled.
+Episode 14 adds the clearest origin story for Lubin's arrival. According to Anthony Di Iorio, Lubin showed up at the January 1, 2014 launch of [Bitcoin Decentral](/videos/cointalk-013-bitcoin-decentral/) while visiting Toronto over the holidays. Vitalik Buterin invited him back to the space, the group got to know him quickly, and he was soon asked to join the Miami trip where Ethereum would be publicly unveiled.
 
-Di Iorio describes Lubin at that point as a former Wall Street figure who had been living in Jamaica and who immediately clicked with the emerging team. [Anthony D'Onofrio](/people/anthony-d-onofrio/) remembers something similar from the Miami house: he initially assumed Lubin was just "somebody's dad," then learned that the quiet older guy talking about life in Jamaica was in fact Joe Lubin.
+Di Iorio describes Lubin at that point as a former Wall Street figure who had been living in Jamaica and who immediately clicked with the emerging team. Anthony D'Onofrio remembers something similar from the Miami house: he initially assumed Lubin was just "somebody's dad," then learned that the quiet older guy talking about life in Jamaica was in fact Joe Lubin.
 
 ## Miami and the Public Emergence of Ethereum
 
-Lubin was part of the Miami house that [Anthony Di Iorio](/people/anthony-di-iorio/) rented for the North American Bitcoin Conference in late January 2014. [Taylor Gerring's](/people/taylor-gerring/) photos place him both in the house and in the crowd around [Vitalik Buterin](/people/vitalik-buterin/) immediately after Vitalik's first public Ethereum presentation.
+Lubin was part of the Miami house that Anthony Di Iorio rented for the North American Bitcoin Conference in late January 2014. Taylor Gerring's photos place him both in the house and in the crowd around Vitalik Buterin immediately after Vitalik's first public Ethereum presentation.
 
 ![The crowd around Vitalik after his Miami announcement](/images/personal/taylor-gerring/taylor-gerring_2014.01.26.jpeg)
 
@@ -30,7 +30,7 @@ Those images matter because they capture Lubin at the exact moment Ethereum stop
 
 ## Business Side and Early Funding
 
-[Kieren James-Lubin](/people/kieren-james-lubin/) later described the early internal split as "tech folks and business folks," with Joe, Kieren's father, and Anthony Di Iorio among the business people with the most operating experience. That lines up with how Joe appears in other early sources: not as one of the main protocol developers, but as one of the older organizers and funders around the project.
+Kieren James-Lubin later described the early internal split as "tech folks and business folks," with Joe, Kieren's father, and Anthony Di Iorio among the business people with the most operating experience. That lines up with how Joe appears in other early sources: not as one of the main protocol developers, but as one of the older organizers and funders around the project.
 
 > "Joe, my dad, and Anthony Di Iorio [were] the other business guys who probably had the most operating experience." — Kieren James-Lubin
 
@@ -40,7 +40,7 @@ Episode 5 also suggests Joe was involved in the arguments over how early Ethereu
 
 ## The Red Wedding and Its Aftermath
 
-During the June 2014 [Red Wedding](/articles/red-wedding/), Joe was one of the founders [Vitalik Buterin](/people/vitalik-buterin/) asked to continue. The post-shakeup group that remained was Mihai, Jeff, Gavin, Joe, and Anthony, with Charles Hoskinson and Amir Chetrit removed.
+During the June 2014 [Red Wedding](/articles/red-wedding/), Joe was one of the founders Vitalik Buterin asked to continue. The post-shakeup group that remained was Mihai Alisie, Jeff Wilcke, Gavin Wood, Joe, and Anthony, with Charles Hoskinson and Amir Chetrit removed.
 
 Anthony Di Iorio's later recollection adds an important nuance: Joe survived the restructuring, but in Anthony's telling both men "saw the writing on the wall." The project was becoming more development-led, more Swiss, and less centered on the earlier Toronto-business faction.
 

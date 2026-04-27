@@ -14,7 +14,7 @@ James "Jim" Hormuzdiar is the CTO and co-founder of [BlockApps](https://blockapp
 
 ## Background: Physics and China
 
-Jim has a PhD in physics and developed expertise in Haskell through his academic work. In 2011, he moved to China, where he met [Victor Wong](/people/victor-wong/) through a VC while both were working in Beijing:
+Jim has a PhD in physics and developed expertise in Haskell through his academic work. In 2011, he moved to China, where he met Victor Wong through a VC while both were working in Beijing:
 
 > "I didn't really know [Victor] particularly well at that time, but then I moved back and we got to know each other better."
 
@@ -28,7 +28,7 @@ What changed his mind was understanding the decentralization:
 
 > "What made me like decide that it was really onto something was the moment when I understood that like, okay, even if there is a bug somewhere, even if everything is exploited, there are so many people running this that there'll be a hard fork and everything will be fine."
 
-By September 2014, Jim began building an Ethereum client in Haskell with [Kieren James-Lubin](/people/kieren-james-lubin/).
+By September 2014, Jim began building an Ethereum client in Haskell with Kieren James-Lubin.
 
 ## Building the Haskell Client
 
@@ -100,7 +100,7 @@ Looking back on Ethereum's early days, Jim reflected on the unique energy of the
 
 ## The Early Days of Ethereum Project
 
-Jim is one of three hosts of the Early Days of Ethereum video series, alongside [Victor Wong](/people/victor-wong/) and [Kieren James-Lubin](/people/kieren-james-lubin/), documenting their first-hand accounts of blockchain history.
+Jim is one of three hosts of the Early Days of Ethereum video series, alongside Victor Wong and Kieren James-Lubin, documenting their first-hand accounts of blockchain history.
 
 ## Primary Sources
 

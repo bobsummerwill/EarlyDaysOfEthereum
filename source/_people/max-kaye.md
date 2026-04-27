@@ -20,7 +20,7 @@ Max was mentioned in the [original BitcoinTalk announcement](https://web.archive
 
 ## Epicenter Bitcoin Interview
 
-In April 2014, Max appeared alongside [Stephan Tual](/people/stephan-tual/) on Epicenter Bitcoin episode 16 to discuss Ethereum and decentralized applications:
+In April 2014, Max appeared alongside Stephan Tual on Epicenter Bitcoin episode 16 to discuss Ethereum and decentralized applications:
 
 {% include content-embed.html
   title="Max Kaye & Stephan Tual: Ethereum and Decentralized Applications"

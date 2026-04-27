@@ -7,7 +7,7 @@ social:
   youtube: https://youtu.be/QCVjk_PU-1U?t=760
 ---
 
-Jonathan James Harrison, known in early Bitcoin circles as "Johnny Bitcoin", was part of the London network around [Amir Taaki](/people/amir-taaki/) that helped connect [Gavin Wood](/people/gavin-wood/) to [Vitalik Buterin](/people/vitalik-buterin/) and the earliest Ethereum discussions.
+Jonathan James Harrison, known in early Bitcoin circles as "Johnny Bitcoin", was part of the London network around Amir Taaki that helped connect Gavin Wood to Vitalik Buterin and the earliest Ethereum discussions.
 
 ## Connection to Gavin Wood
 

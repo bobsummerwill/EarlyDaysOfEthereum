@@ -4,11 +4,11 @@ date: 2014-03-14
 description: "GitHub organization that served as the home for early Swarm development"
 ---
 
-Ethersphere was a GitHub organization created by [Viktor Trón](/people/viktor-tron/) that served as the collaborative home for [Swarm](/articles/swarm/) development. It was one of the first Ethereum-related "brands," alongside [Eris Industries](https://erisindustries.com/) (which later became [Monax](https://monax.io/)).
+Ethersphere was a GitHub organization created by Viktor Trón that served as the collaborative home for [Swarm](/articles/swarm/) development. It was one of the first Ethereum-related "brands," alongside [Eris Industries](https://erisindustries.com/) (which later became [Monax](https://monax.io/)).
 
 ## Origins
 
-[Viktor Trón](/people/viktor-tron/) registered Ethersphere as a GitHub organization on March 14, 2014. In his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/), Viktor described it as somewhat aspirational:
+Viktor Trón registered Ethersphere as a GitHub organization on March 14, 2014. In his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/), Viktor described it as somewhat aspirational:
 
 > "Well, it's kind of, it was wishful thinking that it might be Ethersphere but on the other hand I kind of, I did register that as an organization on GitHub at least and even I think it was pretty much one of the first Ethereum related brands in a way."
 
@@ -20,9 +20,9 @@ The organization became the working home for the Budapest-based team developing 
 
 The core Ethersphere team consisted of:
 
-- **[Viktor Trón](/people/viktor-tron/)** - Second to join [Jeff Wilcke](/people/jeff-wilcke/)'s Amsterdam team (after [Alex van de Sande](/people/alex-van-de-sande/)), hired in late 2014
-- **[Daniel Nagy](/people/daniel-nagy/)** - Contractor for [ETHDEV](/articles/eth-dev-cic/) from October 2014, brought the original Swarm concepts
-- **[Zsolt Felföldi](/people/zsolt-felfoldi/)** - Joined in 2015 to work on the light client
+- **Viktor Trón** - Second to join Jeff Wilcke's Amsterdam team (after Alex van de Sande), hired in late 2014
+- **Daniel Nagy** - Contractor for [ETHDEV](/articles/eth-dev-cic/) from October 2014, brought the original Swarm concepts
+- **Zsolt Felföldi** - Joined in 2015 to work on the light client
 
 Viktor noted that while he and Daniel were both at [DEVCON0](/articles/devcon0/), Zsolt joined later: "And later Zsolt Felföldi, like already hired to work on the light client. I think it was in 2015 already."
 

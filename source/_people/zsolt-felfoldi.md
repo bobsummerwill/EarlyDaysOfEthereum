@@ -9,7 +9,7 @@ social:
   twitter: https://twitter.com/zsfelfoldi
 ---
 
-Zsolt Felföldi is a long-time Geth core developer, primarily known for his work on the Light Client protocol. He has known [Daniel Nagy](/people/daniel-nagy/) since they met at high school in 1994.
+Zsolt Felföldi is a long-time Geth core developer, primarily known for his work on the Light Client protocol. He has known Daniel Nagy since they met at high school in 1994.
 
 Zsolt shared his Ethereum origin story:
 

@@ -10,27 +10,27 @@ social:
   github: https://github.com/mihaialisie
 ---
 
-Mihai Alisie is an Ethereum co-founder who played a central role in establishing the project's legal and organizational foundations. He co-founded [Bitcoin Magazine](https://bitcoinmagazine.com/) with [Vitalik Buterin](/people/vitalik-buterin/), incorporated the first Ethereum legal entities in Switzerland, and coined the term "[Crypto Valley](/articles/crypto-valley/)."
+Mihai Alisie is an Ethereum co-founder who played a central role in establishing the project's legal and organizational foundations. He co-founded [Bitcoin Magazine](https://bitcoinmagazine.com/) with Vitalik Buterin, incorporated the first Ethereum legal entities in Switzerland, and coined the term "[Crypto Valley](/articles/crypto-valley/)."
 
 ## Bitcoin Magazine
 
-Before Ethereum, Mihai co-founded Bitcoin Magazine with Vitalik Buterin, establishing a professional relationship that would carry into Ethereum's founding.
+Before Ethereum, Mihai co-founded [Bitcoin Magazine](https://bitcoinmagazine.com/) with Vitalik Buterin, establishing a professional relationship that would carry into Ethereum's founding.
 
-Gavin Wood recalled first meeting Mihai through [Amir Taaki](/people/amir-taaki/)'s London squat, where Amir introduced Mihai simply as "he does Bitcoin Magazine." That encounter predates Gavin's own involvement in Ethereum and places Mihai directly inside the social network from which several early contributors emerged.
+Gavin Wood recalled first meeting Mihai through Amir Taaki's London squat, where Amir introduced Mihai simply as "he does Bitcoin Magazine." That encounter predates Gavin's own involvement in Ethereum and places Mihai directly inside the social network from which several early contributors emerged.
 
 ## Connecting the Team
 
-[Taylor Gerring](/people/taylor-gerring/) met Mihai in Milan, Italy in late 2013 while working for [Wendell Davis](/people/wendell-davis/) at Hive Bitcoin wallet:
+Taylor Gerring met Mihai in Milan, Italy in late 2013 while working for Wendell Davis at Hive Bitcoin wallet:
 
 > "It would have been towards the end of that year was when I met Mihai Alisie in Milan, Italy. I think that was late 2013... Mihai is the one who ended up connecting me to Vitalik and the rest of the team." — Taylor Gerring
 
-[Viktor Trón](/people/viktor-tron/) also met Mihai at an early London Ethereum meetup organized by [Stephan Tual](/people/stephan-tual/) in 2014.
+Viktor Trón also met Mihai at an early London Ethereum meetup organized by Stephan Tual in 2014.
 
-Anthony Di Iorio's interview adds that he viewed Mihai as part of the initial five-person founder group and thought of him primarily then as Vitalik's Bitcoin Magazine partner working remotely from Romania.
+Anthony Di Iorio's interview adds that he viewed Mihai as part of the initial five-person founder group and thought of him primarily then as Vitalik Buterin's [Bitcoin Magazine](https://bitcoinmagazine.com/) partner working remotely from Romania.
 
 ## Remote Constraints
 
-Episode 14 also adds a practical detail about Mihai's early involvement: visa issues limited his travel. Di Iorio says Mihai could not attend the Miami conference and also could not make it to the Bitcoin Expo event in Canada, meaning that some of Ethereum's earliest in-person gatherings happened without one of its core co-founders physically present.
+Episode 14 also adds a practical detail about Mihai's early involvement: visa issues limited his travel. Anthony Di Iorio says Mihai could not attend the Miami conference and also could not make it to the [Bitcoin Expo 2014](/articles/bitcoin-expo/) event in Canada, meaning that some of Ethereum's earliest in-person gatherings happened without one of its core co-founders physically present.
 
 ## Founding the Legal Entities
 
@@ -38,9 +38,9 @@ Mihai was instrumental in establishing Ethereum's Swiss legal structure:
 
 **EthSuisse (February 28, 2014):** Mihai co-founded [Ethereum Switzerland GmbH](/articles/ethereum-switzerland-gmbh/) (the for-profit entity) with Swiss local Herbert Sterchi, serving as "president of the management partner."
 
-**Stiftung Ethereum (July 14, 2014):** Mihai co-founded the [Ethereum Foundation](/articles/stiftung-ethereum/) (the non-profit) alongside Vitalik and Taylor Gerring. He was one of the original three directors because they were the only ones physically present in Switzerland to sign the founding documents.
+**Stiftung Ethereum (July 14, 2014):** Mihai co-founded the [Ethereum Foundation](/articles/stiftung-ethereum/) (the non-profit) alongside Vitalik Buterin and Taylor Gerring. He was one of the original three directors because they were the only ones physically present in Switzerland to sign the founding documents.
 
-Taylor explained the circumstance:
+Taylor Gerring explained the circumstance:
 
 > "At first it was just Vitalik, Mihai, and myself were the three people. Part of that was because we were the only three people physically present in Switzerland at the time." — Taylor Gerring
 
@@ -62,11 +62,11 @@ He captured the project's organic growth:
 
 ## The Red Wedding
 
-During the "[Red Wedding](/articles/red-wedding/)" in June 2014, Mihai was among those Vitalik asked to continue, alongside [Jeff Wilcke](/people/jeff-wilcke/), [Gavin Wood](/people/gavin-wood/), [Joe Lubin](/people/joe-lubin/), and [Anthony Di Iorio](/people/anthony-di-iorio/).
+During the [Red Wedding](/articles/red-wedding/) in June 2014, Mihai was among those Vitalik Buterin asked to continue, alongside Jeff Wilcke, Gavin Wood, Joe Lubin, and Anthony Di Iorio.
 
 ## Recruitment
 
-Mihai assisted with recruitment efforts for the Ethereum development team. [Gavin Wood](/people/gavin-wood/) noted in his second development update:
+Mihai assisted with recruitment efforts for the Ethereum development team. Gavin Wood noted in his second development update:
 
 > "After doing some recruitment on behalf of ÐΞV in Bucharest with the help of Mihai Alisie and the lovely Roxanna Sureanu..."
 

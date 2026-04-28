@@ -16,7 +16,7 @@ Much of the Ethereum project's legal activity was organized through this for-pro
 * 8th July 2014: Herbert title changed to "manager"
 * 14th July 2014: Stiftung Ethereum legal entity joins as "partner" and Mihai title changed to "president of the management"
 * 23rd July 2014: Vitalik Buterin joins as "president of the management", Mihai title changed to "manager", Herbert resigns
-* 12th Mar 2015: Vitalik resigns
+* 12th Mar 2015: [Vitalik](/people/vitalik-buterin/) resigns
 * 14th Oct 2015: Taylor Gerring joins as "manager", Mihai resigns
-* 10th May 2016: Ming Chan joins as "liquidator", Taylor resigns
+* 10th May 2016: Ming Chan joins as "liquidator", [Taylor](/people/taylor-gerring/) resigns
 * 14th Oct 2018: The legal entity is formally dissolved, and is now "Ethereum Switzerland GmbH in Liquidation"

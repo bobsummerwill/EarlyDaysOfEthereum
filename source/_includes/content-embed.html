@@ -3,10 +3,14 @@
   {% if include.src %}
     <!-- VIDEO MODE -->
     {% assign is_local_video = false %}
+    {% assign is_archived_embed = false %}
     {% if include.src contains '.mp4' or include.src contains '.webm' or include.src contains '.ogg' %}
       {% unless include.src contains 'youtube.com' or include.src contains 'vimeo.com' or include.src contains 'http://' or include.src contains 'https://' %}
         {% assign is_local_video = true %}
       {% endunless %}
+    {% endif %}
+    {% if include.src contains 'web.archive.org/web/' and include.src contains '/embed/' %}
+      {% assign is_archived_embed = true %}
     {% endif %}
     
     <a href="{{ include.url | default: include.src }}" class="blog-embed-link-wrapper content-embed-link-wrapper">
@@ -20,6 +24,20 @@
             preload="none"
             {% if include.img %}poster="{{ include.img }}"{% endif %}
           ></video>
+          {% elsif is_archived_embed %}
+          {% if include.img %}
+          <img
+            class="video-embed-minimal content-embed-iframe content-embed-poster"
+            src="{{ include.img }}"
+            alt="{{ include.title | escape }}"
+            loading="lazy"
+          />
+          <div class="play-button">▶</div>
+          {% else %}
+          <div class="content-embed-archived-fallback">
+            <div class="play-button">▶</div>
+          </div>
+          {% endif %}
           {% else %}
           <iframe
             class="video-embed-minimal content-embed-iframe"

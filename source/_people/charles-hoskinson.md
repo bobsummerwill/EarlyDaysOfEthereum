@@ -16,7 +16,7 @@ Charles Hoskinson is one of the eight Ethereum co-founders who served as Ethereu
 
 Episode 14 adds the key origin story for Charles's entry into Ethereum. Before introducing him to Vitalik Buterin, Anthony Di Iorio says he already knew Charles through overlapping Bitcoin advocacy work. Di Iorio was building community and institutions in Canada; Charles was doing Bitcoin education work in the United States.
 
-When Vitalik showed Di Iorio the white paper in late 2013, Di Iorio says he wanted a second opinion from somebody he trusted. He showed it to Hoskinson, who immediately recognized the importance of the idea. Di Iorio presents that moment as the point where Charles got pulled into Ethereum.
+When [Vitalik](/people/vitalik-buterin/) showed Di Iorio the white paper in late 2013, Di Iorio says he wanted a second opinion from somebody he trusted. He showed it to Hoskinson, who immediately recognized the importance of the idea. Di Iorio presents that moment as the point where Charles got pulled into Ethereum.
 
 Anthony Di Iorio also recalls that Charles had already gone through one post-Bitcoin experiment via [BitShares](https://bitshares.org/) and Dan Larimer. That helps explain why Ethereum fit him so naturally: he was already looking beyond Bitcoin-only use cases and toward broader organizational and protocol systems.
 
@@ -42,13 +42,13 @@ That also explains why so much of the early conflict orbited him. Charles was pa
 
 ## Corporate vs Open Source
 
-One of the deepest disputes inside early Ethereum was not personal style but organizational philosophy. Taylor Gerring remembers Charles as being more in the "let's set this up like Google" camp, while Taylor himself wanted something open source and broadly accessible. [Episode 1](/videos/episode001/) adds another angle: Kieren James-Lubin says some people felt Charles was executing an effective business strategy, but also over-promising in ways that made others uncomfortable.
+One of the deepest disputes inside early Ethereum was not personal style but organizational philosophy. Taylor Gerring remembers Charles as being more in the "let's set this up like Google" camp, while [Taylor](/people/taylor-gerring/) himself wanted something open source and broadly accessible. [Episode 1](/videos/episode001/) adds another angle: Kieren James-Lubin says some people felt Charles was executing an effective business strategy, but also over-promising in ways that made others uncomfortable.
 
 > "Charles, I think on his part, was a little bit more on the let's set this up like Google, and make it a corporation, and I was definitely more on the side of open source and making it available to everybody." — Taylor Gerring
 
 ## Growing Distrust
 
-Taylor's later recollections describe a gradual loss of trust. He says the team became suspicious of Charles's claims and increasingly felt that the organization was not moving forward cleanly. By the time of Bitcoin Expo 2014 and the Zug months that followed, the question was no longer whether there was tension, but whether the project could keep functioning with that tension unresolved.
+[Taylor](/people/taylor-gerring/)'s later recollections describe a gradual loss of trust. He says the team became suspicious of Charles's claims and increasingly felt that the organization was not moving forward cleanly. By the time of Bitcoin Expo 2014 and the Zug months that followed, the question was no longer whether there was tension, but whether the project could keep functioning with that tension unresolved.
 
 > "By this point, we were fairly suspicious of Charles' claims. Here we were shopping, but tomorrow I will include photos when I realized it was more bravado than substance." — Taylor Gerring, March 11, 2022
 
@@ -60,7 +60,7 @@ Taylor's later recollections describe a gradual loss of trust. He says the team 
 
 The breaking point came on June 7, 2014 in Zug, during the meeting later called the [Red Wedding](/articles/red-wedding/). All eight co-founders were present. Vitalik Buterin ultimately decided to dissolve the original eight-person leadership structure and ask Mihai Alisie, Jeff Wilcke, Gavin Wood, Joe Lubin, and Anthony Di Iorio to continue, while Charles and Amir Chetrit were removed from leadership.
 
-Taylor Gerring remembers the day as emotionally exhausting and says the decision was entirely up to Vitalik Buterin. In his view, replacing Charles and Amir with Stephan Tual and Taylor was what finally allowed Ethereum to ship.
+Taylor Gerring remembers the day as emotionally exhausting and says the decision was entirely up to Vitalik Buterin. In his view, replacing Charles and [Amir](/people/amir-chetrit/) with Stephan Tual and [Taylor](/people/taylor-gerring/) was what finally allowed Ethereum to ship.
 
 > "I remember the day being very, very uncomfortable. Everybody had come to Zug. There were girlfriends and partners there in addition to just the people involved with Ethereum. And it was just very uncomfortable for a very long time. It was an emotionally exhausting day." — Taylor Gerring
 

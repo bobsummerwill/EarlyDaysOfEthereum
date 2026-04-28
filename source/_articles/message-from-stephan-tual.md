@@ -16,4 +16,4 @@ Due to divergence in personal values, Eth/Dev and I have mutually decided to par
 
 I want to thank each and everyone of you for your incredible enthusiasm and passion, helping pioneer what I believe is the most significant piece of software concept the world has ever seen. Your commitment inspired me, and on many occasions helped me keep going through a year and half of incredibly hard work.
 
-See you very soon, Stephan
+See you very soon, [Stephan](/people/stephan-tual/)

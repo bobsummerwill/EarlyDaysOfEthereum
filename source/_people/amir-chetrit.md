@@ -38,7 +38,7 @@ At [Bitcoin Expo 2014](/articles/bitcoin-expo/) in Toronto, tensions came to a h
 
 In June 2014, during what became known as the "Red Wedding," Vitalik Buterin made the decision to restructure Ethereum's leadership. Taylor Gerring described the outcome:
 
-> "I like to think that by choosing to put Stephan and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered." — Taylor Gerring
+> "I like to think that by choosing to put [Stephan](/people/stephan-tual/) and myself in place in leadership positions and asking Amir and Charles to move on to other things, I feel like we had the team in place to actually get Ethereum delivered." — Taylor Gerring
 
 Anthony D'Onofrio noted Amir's departure more simply:
 

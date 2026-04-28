@@ -15,7 +15,7 @@ Wendell was mentioned in the [original BitcoinTalk](https://web.archive.org/web/
 
 *"Wendell Davis - Strategic Partner and Branding (Hive Wallet)"*
 
-Taylor Gerring met Mihai Alisie in Milan in late 2013 while working for Wendell at Hive Bitcoin wallet. That connection led Taylor to Vitalik Buterin and the rest of the Ethereum team.
+Taylor Gerring met Mihai Alisie in Milan in late 2013 while working for Wendell at Hive Bitcoin wallet. That connection led [Taylor](/people/taylor-gerring/) to Vitalik Buterin and the rest of the Ethereum team.
 
 ## Miami January 2014
 

@@ -10,12 +10,24 @@
 
 {% if found_video %}
   {% assign video_src = found_video.embed.url %}
+  {% assign video_img = found_video.img %}
+  {% assign is_archived_video = false %}
+  {% if found_video.embed.url contains 'web.archive.org/web/' %}
+    {% assign is_archived_video = true %}
+  {% endif %}
+  {% if is_archived_video == false and found_video.embed.url contains 'youtube.com/embed/' %}
+    {% assign video_id = found_video.embed.url | split: '/embed/' | last | split: '?' | first %}
+    {% assign video_img = 'https://img.youtube.com/vi/' | append: video_id | append: '/hqdefault.jpg' %}
+  {% elsif is_archived_video == false and found_video.embed.url contains 'vimeo.com/video/' %}
+    {% assign vimeo_id = found_video.embed.url | split: '/video/' | last | split: '?' | first %}
+    {% assign video_img = 'https://vumbnail.com/' | append: vimeo_id | append: '.jpg' %}
+  {% endif %}
   
   {% assign formatted_date = found_video.date | date: "%B %d, %Y" %}
   
   {% include content-embed.html
     src=video_src
-    img=found_video.img
+    img=video_img
     title=found_video.title
     description=found_video.description
     author=found_video.author

@@ -32,7 +32,7 @@ Vitalik's relationship with Di Iorio went back further than that. Di Iorio says 
 
 Vitalik gave Ethereum's first major public presentation at the North American Bitcoin Conference in Miami on January 26, 2014. In that talk he framed Bitcoin as two things at once, money and a decentralized database, and argued that the next step was to generalize the underlying blockchain so developers could build many kinds of applications on top of it.
 
-Taylor Gerring remembered that talk as the moment the room erupted. The audience kept pressing in with questions until the organizers pushed the conversation outside, producing the now-iconic images of Vitalik being mobbed in the hallway. Taylor's photos and Anthony Di Iorio's episode both place Joe Lubin, Anthony Di Iorio, and much of the early team around him in those hours.
+Taylor Gerring remembered that talk as the moment the room erupted. The audience kept pressing in with questions until the organizers pushed the conversation outside, producing the now-iconic images of Vitalik being mobbed in the hallway. [Taylor](/people/taylor-gerring/)'s photos and Anthony Di Iorio's episode both place Joe Lubin, Anthony Di Iorio, and much of the early team around him in those hours.
 
 Episode 14 also clarifies how early the team's ambitions were. The January website had a countdown targeting an almost immediate sale, but after Miami the group realized the amount that might be raised was much larger than expected. The planned launch was halted and the project shifted into a slower, more legally cautious phase.
 
@@ -40,9 +40,9 @@ Episode 14 also clarifies how early the team's ambitions were. The January websi
 
 As the project moved to Switzerland, Vitalik remained the center of gravity even though he was not running a conventional company. Taylor Gerring recalled that in the early Zug period Vitalik was the person who most consistently came to stay and work there, and that his presence helped balance the different client teams.
 
-Taylor also describes one of Vitalik's early leadership weaknesses plainly: people learned that if they could "bend Vitalik's ear," they could influence direction. Even so, by June 2014 the decisive choices were his. During the [Red Wedding](/articles/red-wedding/), Taylor says Vitalik spent hours walking on the front patio before deciding to remove Charles Hoskinson and Amir Chetrit from leadership.
+[Taylor](/people/taylor-gerring/) also describes one of Vitalik's early leadership weaknesses plainly: people learned that if they could "bend Vitalik's ear," they could influence direction. Even so, by June 2014 the decisive choices were his. During the [Red Wedding](/articles/red-wedding/), [Taylor](/people/taylor-gerring/) says Vitalik spent hours walking on the front patio before deciding to remove Charles Hoskinson and Amir Chetrit from leadership.
 
-When the [Stiftung Ethereum](/articles/stiftung-ethereum/) legal entity was formed, Taylor says the original three directors were Vitalik, Mihai Alisie, and Taylor Gerring because they were the three people physically present in Switzerland who could sign. Vitalik also later became president of [Ethereum Switzerland GmbH](/articles/ethereum-switzerland-gmbh/) after the non-profit structure took over.
+When the [Stiftung Ethereum](/articles/stiftung-ethereum/) legal entity was formed, [Taylor](/people/taylor-gerring/) says the original three directors were Vitalik, Mihai Alisie, and Taylor Gerring because they were the three people physically present in Switzerland who could sign. Vitalik also later became president of [Ethereum Switzerland GmbH](/articles/ethereum-switzerland-gmbh/) after the non-profit structure took over.
 
 ## Technical and Philosophical Style
 

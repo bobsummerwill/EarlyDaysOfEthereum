@@ -2217,6 +2217,53 @@ main {
     line-height: 1.2;
 }
 
+.ethereum-presented-by {
+    margin: 0;
+    font-family: 'RobotoLight', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-transform: none;
+    line-height: var(--line-height);
+    color: var(--text-dark);
+}
+
+.ethereum-presenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-4xl);
+    margin-top: var(--spacing-6xl);
+}
+
+.ethereum-presenter-link {
+    display: block;
+    text-decoration: none;
+}
+
+.ethereum-presenter-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-3xl);
+}
+
+.ethereum-presenter-logo img {
+    height: auto;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: none !important;
+    border: none !important;
+}
+
+.ethereum-presenter-icon {
+    width: min(47px, 13vw);
+}
+
+.ethereum-presenter-wordmark {
+    width: min(108px, 29vw);
+}
+
 @media (max-width: 768px) {
     .ethereum-logo-section {
         padding: var(--spacing-4xl) 0;
@@ -2229,6 +2276,27 @@ main {
     
     .ethereum-text {
         font-size: 1.6em;
+    }
+
+    .ethereum-presented-by {
+        font-size: 1em;
+    }
+
+    .ethereum-presenter {
+        gap: var(--spacing-3xl);
+        margin-top: var(--spacing-5xl);
+    }
+
+    .ethereum-presenter-logo {
+        gap: var(--spacing-2xl);
+    }
+
+    .ethereum-presenter-icon {
+        width: min(38px, 12vw);
+    }
+
+    .ethereum-presenter-wordmark {
+        width: min(72px, 22vw);
     }
 }
 

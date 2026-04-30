@@ -9,6 +9,7 @@ social:
   github: https://github.com/tgerring
   linkedin: https://www.linkedin.com/in/taylorgerring/
   twitter: https://x.com/taylorgerring
+  wikipedia: https://en.wikipedia.org/wiki/Taylor_Gerring
 ---
 
 Taylor Gerring was one of the earliest Ethereum contributors and a founding director of the [Ethereum Foundation](/articles/stiftung-ethereum/). He was responsible for the Ethereum website and crowdsale infrastructure, later contributing to go-ethereum development.

@@ -6,6 +6,7 @@ social:
   github: https://github.com/petertodd
   website: https://petertodd.org/
   twitter: https://x.com/petabortodd
+  wikipedia: https://en.wikipedia.org/wiki/Peter_Todd_(programmer)
 ---
 
 Peter Todd is a Canadian software developer and applied cryptography consultant who was an early contributor to Bitcoin development. He studied at the Ontario College of Art and Design in Toronto before pursuing a career in cryptocurrency development.

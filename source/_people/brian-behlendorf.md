@@ -5,6 +5,7 @@ photo: /images/linkedin.com/2026.02.20/brian-behlendorf.jpg
 social:
   twitter: https://x.com/brianbehlendorf
   linkedin: https://www.linkedin.com/in/brianbehlendorf/
+  wikipedia: https://en.wikipedia.org/wiki/Brian_Behlendorf
 ---
 
 Brian Behlendorf is an open source pioneer, best known as a primary developer of the Apache HTTP Server and a founding member of the Apache Software Foundation. He served as Executive Director of the [Hyperledger](https://www.hyperledger.org/) project at the Linux Foundation.

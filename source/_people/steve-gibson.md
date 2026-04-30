@@ -4,4 +4,5 @@ photo: /images/elroy.twit.tv/2026.01.05/sites/default/files/styles/twit_album_ar
 social:
   twitter: https://x.com/SGgrc
   website: https://www.grc.com/
+  wikipedia: https://en.wikipedia.org/wiki/Steve_Gibson_(computer_programmer)
 ---

@@ -58,7 +58,7 @@ Vitalik Buterin gave a rare early presentation on Ethereum at the conference, ex
 
 The event also surfaced some of the internal tensions that would lead to the "Red Wedding" later that year. Taylor Gerring described issues with co-founder Amir Chetrit:
 
-> "I think those kind of conversations came to a head when he was wearing swag of a different organization in Toronto when we had that Bitcoin Expo 2014 and I ended up in the basement of the office there on the phone with like a Cloudflare type company to provide DDoS protection and I'm just like I don't understand why I'm on the phone having the big boy meeting and Amir, who's supposed to be doing this, is not." — Taylor Gerring
+> "I think those kind of conversations came to a head when he was wearing swag of a different organization in Toronto when we had that Bitcoin Expo 2014 and I ended up in the basement of the office there on the phone with like a Cloudflare type company to provide DDoS protection and I'm just like I don't understand why I'm on the phone having the big boy meeting and [Amir](/people/amir-chetrit/), who's supposed to be doing this, is not." — Taylor Gerring
 
 ## Attendees
 

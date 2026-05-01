@@ -1,0 +1,860 @@
+---
+title: "Early Days of Ethereum - Episode 14 - Anthony Di Iorio"
+date: 2026-05-01
+show: true
+guests: ["Anthony Di Iorio"]
+hosts: ["Bob Summerwill"]
+description: "Anthony Di Iorio traces his path from Austrian economics, [Free Talk Live](https://blog.freetalklive.com/), and Toronto's first Bitcoin meetup to funding Ethereum with proceeds from Satoshi Circle. He discusses the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/), Rush Wallet and KryptoKit, Bitcoin Decentral, bringing together Ethereum's early founders, the delayed presale, and the tensions that shaped the project's legal structure."
+img: /images/covers-for-conversations/episode014-anthony-di-iorio.png
+table_of_contents:
+  - link: "#introduction"
+    title: "Introduction"
+  - link: "#discovering-bitcoin-and-liberty"
+    title: "Discovering Bitcoin, Austrian economics, and liberty ideas"
+  - link: "#toronto-bitcoin-meetups"
+    title: "Toronto's first Bitcoin meetup and early community building"
+  - link: "#satoshi-circle-and-ethereum-funding"
+    title: "Satoshi Circle, early conferences, and the money that funded Ethereum"
+  - link: "#bitcoin-alliance-and-vitalik"
+    title: "The Bitcoin Alliance of Canada and getting to know Vitalik"
+  - link: "#atms-conferences-and-mining"
+    title: "ATMs, early conferences, and why he never mined"
+  - link: "#rush-wallet-kryptokit-and-jaxx"
+    title: "RUSHWALLET, KryptoKit, and the road to Jaxx"
+  - link: "#bitcoin-decentral-and-the-first-atm"
+    title: "Bitcoin Decentral and Toronto's Bitcoin ATM"
+  - link: "#forming-the-early-ethereum-team"
+    title: "Forming the early Ethereum team"
+  - link: "#miami-launch-plans-and-presale-delay"
+    title: "Miami launch plans and delaying the presale"
+  - link: "#founders-fiduciary-members-and-the-red-wedding"
+    title: 'Founders, fiduciary members, and the "Red Wedding"'
+  - link: "#ethereum-canada-switzerland-and-structure"
+    title: "Ethereum Canada, Switzerland, and early legal structure"
+  - link: "#bitcoin-expo-and-closing"
+    title: "Bitcoin Expo and closing reflections"
+---
+
+## Audio
+
+## Transcript
+
+<!-- TABLE_OF_CONTENTS -->
+
+<h3 id="introduction">Introduction</h3>
+
+**[0:02] Bob Summerwill:** So hello, I'm Bob Summerwill and this is Early Days of Ethereum. So today I'm delighted to have Anthony Di Iorio with us who is a co-founder of Ethereum, a very long time Bitcoin and blockchain advocate in Canada and especially in Toronto. We first met in 2015 when I had the pleasure of attending various of his meetups both in [Bitcoin Decentral](https://decentral.ca/) itself and at the [MaRS Discovery Center](https://www.marsdd.com/). And that was around the time of the launch of Ethereum. But yeah, delighted to have you, [Anthony](/people/anthony-di-iorio/).
+
+**[0:43] Anthony Di Iorio:** Great to be here, Bob. We finally were able to connect and get this done. So it's good to be speaking with you.
+
+**[0:48] Bob Summerwill:** Absolutely. So yeah, I mean your Bitcoin and blockchain journey went back several years before that. And then prior to that you obviously had nearby interests. So how did it all start for you?
+
+<h3 id="discovering-bitcoin-and-liberty">Discovering Bitcoin, Austrian economics, and liberty ideas</h3>
+
+**[1:07] Anthony Di Iorio:** For Bitcoin, to me it was mid 2012 when I first heard about it. I'd like to say, and it's actually not many people, I think Andreas Antonopoulos says that there's not one person that basically says they got it right away. And I can actually say I think I got it right away.
+
+I have a history of computers going back to the early 80s when I got my first personal computer, on modems before the Internet and [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) boards and just always been that computer tech person, decentralized tech with file sharing, all that stuff through the early 2000s and went to school for business.
+
+In 2008 my brother asked me to really learn or suggested I really learn what money is. And I went down the rabbit hole of really learning about the history of money and what money is. And this was at the time when the US was struggling with the financial crisis and the housing crisis.
+
+And I started digging into [Austrian School of Economics](https://en.wikipedia.org/wiki/Austrian_school_of_economics) and this was kind of prompted through a gentleman named [Peter Schiff](https://en.wikipedia.org/wiki/Peter_Schiff). Economist, liberty activist, entrepreneur, freedom oriented gentleman that had a five day a week podcast that I would listen to religiously for 18 months. I think it's around 2010, 2011. And just couldn't get enough of hearing him and his journeys. This was through the Wall Street issues and I just learned so much from him about economics.
+
+And he was a gentleman that had a video that came, it was a viral video that said "Peter Schiff was right" and this was a video of him being laughed off the news stations, [Fox News](https://en.wikipedia.org/wiki/Fox_News), [CNBC](https://en.wikipedia.org/wiki/CNBC) before the housing crisis and the financial crisis happened. He was predicting what was going to happen and just people thinking how much of a fool he was.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/sgRGBNekFIw"
+  url="https://www.youtube.com/watch?v=sgRGBNekFIw"
+  img="https://i.ytimg.com/vi/sgRGBNekFIw/hqdefault.jpg"
+  title="Peter Schiff was Right (2006-2007 Edition)"
+  description="This video, originally posted in 2008 by an unknown individual, was viewed over 2 million times before being removed from YouTube in late 2013. I decided to post a copy so that those searching for the original video will at least be able to view this copy. However, I doubt it will receive the 2 million plus views garnered by the original. In addition, its worth remembering just how clueless everyone was about the artificial nature of the prior recovery and the looming financial crisis, because all of those \"experts\" are just as clueless with regard to the current \"recovery\" and the much greater economic crisis that lies ahead."
+  author="Peter Schiff"
+  date="2013-12-30"
+%}
+
+So this video that I saw once was all these clips of him just basically being right with everything but just holding his ground and stating what was coming. And I thought, he predicted this. This may be some guy that the contrarian mentality is something I really dug into and I've always been a freedom oriented person. Never like being told what to do, didn't like school.
+
+So I just got kind of my economics education in 2010, 2011. And it was at the time like, okay, this is great and he's all about freedom.
+
+And I said, I remember typing in Google one day "top freedom podcasts" and this show called [Free Talk Live](https://blog.freetalklive.com/) showed up and I didn't know what it was. And it ended up being a liberty freedom podcast out of New Hampshire that was originally from Florida and the owners of that, [Ian](https://en.wikipedia.org/wiki/Ian_Freeman) and Mark, had moved to New Hampshire, taken their radio show that was initially in Florida and moved from a very unfree state to the freest state in the US as part of the [Free State Project](https://www.fsp.org/) which was a project that relocated people.
+
+They had a contest and decided what was the freest state in the US and they decided New Hampshire. And then this influx of people committed to move to New Hampshire so that they could start influencing and start working there to spread freedom. And they moved over there from Florida.
+
+*(Bob - Ian Freeman (born Ian Bernard) was convicted in 2022 on federal charges related to operating an unlicensed cryptocurrency exchange business, and was sentenced to eight years in federal prison in 2023.  He maintains his innocence, and that this was a politically motivated case.  There is a [Free Ian Now](https://www.freeiannow.org/) website.  Mark "Edge" Edginton is the other co-founder)*
+
+And the first episode that I listened to of their show, they mentioned Bitcoin. And mid 2012, I just lost 40%, 30% of my gold and silver kind of dabbling that I had done over the last number of months. And I had sold my property, I had a few properties that I sold, thinking that there was going to be an issue with the housing market in Canada like they had in the US.
+
+So I was sitting on this cash and heard about Bitcoin and I didn't know what it was. And that took me down that rabbit hole of Bitcoin and studying everything I could and getting on the [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) forums and just absorbing over the next few weeks and not sleeping.
+
+And I grasped it right away from my technology background and from just, it was like, and then my study of economics and leading up to, okay, this is great, but what do we do now? And there's an answer. There we go. There's the technology.
+
+*(Bob - A caller from Australia, called Jeremy West, made the [first mention of Bitcoin](https://www.facebook.com/watch/?v=10155469680659072) on a radio station on 28th December 2010, and Ian and Mark later met Gavin Andresen, who educated them some more)*
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/S5VS1Y7rGlM"
+  url="https://www.youtube.com/watch?v=S5VS1Y7rGlM"
+  img="https://i.ytimg.com/vi/S5VS1Y7rGlM/hqdefault.jpg"
+  title="Free Talk Live: the First Radio Station to Mention Bitcoin"
+  description="Join us to learn about the revolutionary radio show Free Talk Live. Their team is a great group of people! Here is their story."
+  author="Encrypted Couple"
+  date="2018-02-15"
+%}
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/VQ1nTUFkIiA"
+  url="https://www.youtube.com/watch?v=VQ1nTUFkIiA"
+  img="https://i.ytimg.com/vi/VQ1nTUFkIiA/hqdefault.jpg"
+  title="Mark Edge Interview: Free Talk Live, Early days of Bitcoin & What the Future might hold"
+  description="Mark Edge and [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) talk about how they heard about Bitcoin, what they liked about it, how Mark met Gavin Andresen (the person Satoshi handed over the Bitcoin project to), and how they see the future."
+  author="Bitcoin.com - Official Channel"
+  date="2019-08-21"
+%}
+
+So it really was something that aligned really well with me at the perfect time of my life because anything prior with the Internet and other things, that's when I was going through university when the Internet bubble happened.
+
+And I spent about 10 years accumulating entrepreneurial skills and business skills from 2000 to 2010. And I had a drilling company. I was doing geothermal drilling in 2008, 2009, and then figuring what I wanted to do and heard. This was a perfect timing, the perfect storm when I heard about Bitcoin.
+
+And of course you start looking to see if there's anything out there, people that you can start engaging with, and there wasn't in Toronto. There was nothing.
+
+
+
+<h3 id="toronto-bitcoin-meetups">Toronto's first Bitcoin meetup and early community building</h3>
+
+**[6:10] Bob Summerwill:** Right.
+
+**[6:10] Anthony Di Iorio:** And yeah, and I've been part of the [Mises Institute](https://mises.org/) meetup. I think it's a Mises meetup, so.
+
+**[6:16] Bob Summerwill:** Oh, right, right.
+
+**[6:18] Anthony Di Iorio:** So prior to that, I knew about meetup.com and I'd gone to a pub in Toronto called [Paupers Pub](https://pauperspub.com/).
+
+**[6:25] Bob Summerwill:** Yeah.
+
+**[6:25] Anthony Di Iorio:** And I went to a few of these Mises meetups and I said, hey, why don't I start a meetup? And I posted it, I did it at [Paupers Pub](https://pauperspub.com/), the first one, and I posted it and said I'm interested in Bitcoin, looking for others that are interested in it.
+
+And I think it was eight of us. I think it's eight or nine. I can't remember the very first one, but that's when I first met Vitalik Buterin and he came to the very first meetup that I had in Toronto in 2012. And Peter Todd was there and Dino Mark.
+
+*(Bob - there does not appear to be an exact public date of this first meetup, beyond that it was on a Saturday in November 2012.  The December event was on 1st December and had a [BitcoinTalk post](https://bitcointalk.org/index.php?topic=127358.0))*
+
+And this was the first community event for Bitcoin that happened in Toronto. And I think already Vancouver may have already had or Montreal maybe, Montreal had already the Embassy. I don't know if the Embassy was there at the time.
+
+But this was Toronto's first community event for Bitcoin and I set it up. And over the next weeks, months, years, that meetup turned into a weekly thing and I built that out.
+
+*(Bob - It appears that Bitcoin Embassy in Montreal was not [announced until June 2013](https://bitcoinmagazine.com/culture/interview-executive-director-montreal-bitcoin-embassy), but the first meetup in Vancouver was [way back on 25th May 2011](https://bitcointalk.org/index.php?topic=8646.0), incredibly)*
+
+<h3 id="satoshi-circle-and-ethereum-funding">Satoshi Circle, early conferences, and the money that funded Ethereum</h3>
+
+And over that year of 2012, early 2013, I put a post on Reddit actually end of 2012, or sorry, a gentleman put out a post on Reddit named Steve Dakh.
+
+**[7:35] Bob Summerwill:** Oh yeah, yeah.
+
+*(Bob - So Steve dug out [the Reddit post](https://www.reddit.com/r/Bitcoin/comments/19jvkr/im_a_web_developer_looking_for_ideas_to_build_a/)!  It was actually posted on Sun 3rd March 2013, and was very terse: "I'm a web developer looking for ideas to build a new Bitcoin related service. Anyone?")*
+
+**[7:36] Anthony Di Iorio:** He put a post out saying, I'm a developer. I'm looking for someone with business ideas that's interested in Bitcoin. I responded, two days later I'm in New Jersey. Him and I got together, became partners and put out a Bitcoin gambling site called Satoshi Circle.
+
+{% include content-embed.html
+  src="https://www.youtube.com/embed/gw93GXVbqYY"
+  url="https://www.youtube.com/watch?v=gw93GXVbqYY"
+  title="Bitcoin Casino Review Satoshi Circle"
+  description="Are you wondering about the Bitcoin Casino Satoshi Circle? Then you need to watch this video on Bitcoin Casino Review Satoshi Circle before you play!"
+  author="Bitcoin Gambling"
+  date="2014-11-27"
+%}
+
+So within like a couple days we had decided that we were going to work together. He was a developer. I put some funds in to get this Bitcoin visual gambling site off the ground, which was kind of like a visual representation of Satoshi Dice.
+
+So for those that don't know, Satoshi Dice, it was a provably fair gambling system where you would send from your wallet to an address to make a bet. And it was provably fair that the results were determined before the spin, before the actual thing happened. And if you won, you would get your money plus percentage return depending which address you sent your funds to. But there was no graphical interface or anything to it.
+
+So Steve Dakh and I decided to create a visual provably fair gaming system which had this roulette wheel and penguins and you would deposit into an instant address and then you would just press the button and it would spin around and if you won, you would get the funds sent back to your wallet, to your account.
+
+*(Bob - So they shipped this project really quickly.  The BitcoinTalk [official launch post](https://bitcointalk.org/index.php?topic=156727.0) was 23rd March 2013, under three weeks after Steve's Reddit post)*
+
+So we wanted to do something to make some money in Bitcoin to do some bigger things. That was always our plan. Let's do this now that we can then hopefully make some money and do something bigger.
+
+With that to really advance our enthusiasm and advance our work with what we saw was this amazing technology that allowed people to send value from one person to another anywhere in the world instantly. And the ethos was very much aligned with me. Everything that Bitcoin stands for and stood for.
+
+So it was something that I wanted to pursue and it was a great time. Perfect time for me to do this with my skill set and my business background. And it was a perfect opportunity there. So that was my first foray and first start into Bitcoin.
+
+**[9:35] Bob Summerwill:** Right, right. So yeah, I was looking back for some dates and things for these. So for the 2012 [Free Talk Live](https://blog.freetalklive.com/) episode, I think it might have been an interview and sort of little panel that [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) did at [PorcFest](https://porcfest.com/) 2012. So Porcfest, that's also kind of associated with the [Free State Project](https://www.fsp.org/), right? Kind of overlapping people on that event.
+
+**[10:11] Anthony Di Iorio:** Well, let's see. The idea of porcupine is the idea of don't tread on us or we bite back. It's the porcupine is kind of the animal that's representative of the state. So yeah, it could have been that. But they also talked about Bitcoin quite a bit on the show. So.
+
+**[10:31] Bob Summerwill:** Yeah, I mean, I was seeing the very first mention apparently was December 2010. And you'd mentioned Gavin Andresen as probably the first contact that that group had with Bitcoin. So when did you yourself first meet other bitcoiners like [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees) and others?
+
+**[11:04] Anthony Di Iorio:** So the meetup I started in late 2012. I think it was early 2013 that I went to the [Liberty Forum](https://nhlibertyforum.com/) in New Hampshire.
+
+*(Bob - [New Hampshire Liberty Forum 2013](https://web.archive.org/web/20130222172821/http://freestateproject.org/libertyforum) was held February 21-24, 2013, at the Crown Plaza in Nishua, NH)*
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20130222172821/http://freestateproject.org/libertyforum"
+  title="New Hampshire Liberty Forum 2013"
+  date="2013-02-21"
+  site="freestateproject.org"
+  img="/images/web.archive.org/2013.02.22/freestateproject.org/files/images/LF-card-banner.png"
+%}
+
+I drove down there with a friend of mine down to Boston. He had some family down there. And we specifically went to go see the [Liberty Forum](https://nhlibertyforum.com/), which is the other kind of big fest, big event aside from [PorcFest](https://porcfest.com/), the other big event in New Hampshire or one of the other events in New Hampshire.
+
+So I specifically went down there to that event knowing there was a big Bitcoin part of that event with the merchants accepting Bitcoin. And it was a panel with [Charlie Shrem](https://en.wikipedia.org/wiki/Charlie_Shrem), [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees).
+
+So I'm this nobody there. I've heard about them already and I'm just absorbing and just learning so much about this stuff. So that was my first kind of meeting with those three there. They wouldn't have remembered me from back then, but that was kind of my first effort to go outside of Toronto here and take the time to go to the US and to go to an event that was very themed very much around liberty, around Bitcoin.
+
+So that was kind of my first meeting. First big event that I did was early 2013 with that. So yeah, that would have been right when we were kind of getting Satoshi Circle off the ground.
+
+*(Bob - Satoshi Circle started a week or so after Anthony went to Liberty Forum)*
+
+**[12:14] Bob Summerwill:** Yeah. So I'm just looking. So apparently the day for your founding meetup was November 2012.
+
+**[12:24] Anthony Di Iorio:** That was my first meetup.
+
+**[12:26] Bob Summerwill:** First meetup.
+
+**[12:27] Anthony Di Iorio:** Yes.
+
+**[12:29] Bob Summerwill:** And then it looks like Liberty Forum was February 2013.
+
+**[12:36] Anthony Di Iorio:** That makes sense. That makes sense. Yep.
+
+**[12:41] Bob Summerwill:** And this is Steve, a Torontonian as well? Steve Dakh.
+
+**[12:46] Anthony Di Iorio:** No, as I mentioned, I flew down to New Jersey where he lived. He lived in New Jersey. So I flew down to his house and just didn't know this guy. Two days before I flew down.
+
+While we were there, we hammered out this game and it was launched in a couple days. And I think we made our money back. I think I put a $5,000 investment the first to get the thing off the ground and I think the first day we made that back.
+
+And then it was just a matter of the next few months just watching this game start to collect Bitcoin. And the ethos of Bitcoin with it being provably fair that every spin is provable, that the house is not cheating the player. But we had a house edge on there and it started accumulating.
+
+And I don't know if March, April, I ended up buying Steve Dakh out of it and ended up selling it. And I sold it for a few thousand Bitcoin there. So an investment of under $5,000 within a few months. Sold it for 3,000 Bitcoin when Bitcoin was at 100 bucks. So I sold for, I think it was about $300,000 at the time.
+
+*(As per the Coindesk article on [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/) a little lower down, he sold it in August 2013)*
+
+And I have to say, that's the actual money that funded Ethereum. That literally was the funding money that ended up going into the early days of funding Ethereum before Joe Lubin put more money.
+
+And that was the initial bootstrapping that we did was came from the sale of me selling Satoshi Circle.
+
+<h3 id="bitcoin-alliance-and-vitalik">The Bitcoin Alliance of Canada and getting to know Vitalik</h3>
+
+**[14:14] Bob Summerwill:** Right. And I'm just looking again at some further dates. So in April of that year of 2013, you founded the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/). So what was the thinking there? So I mean the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) predated that. But you were looking to do something rather different, right?
+
+![bac](/images/web.archive.org/2013.12.15/d3n8a8pro7vhmx.cloudfront.net/bitcoinalliance/pages/1/features/original/main_banner_red_leaf1.png)
+
+**[14:38] Anthony Di Iorio:** Yeah, definitely. It was, I'd gone down to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) conference in Miami, I think it was in Miami. And when they had, when they announced the first, the first, I think the first ATM maybe or Robocoin was there or that was when the first ASIC was announced or came out, something like that.
+
+But the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) for those, I guess that maybe don't know, back then was kind of this industry organization that was American focused, that was setting up to represent Bitcoin and it was getting a lot of flack for being very American centric. Let me just turn my light back on here. For being American centric.
+
+And I around that time wanted to start expanding out and becoming a, or started to lead a bigger charge in Canada for advocacy of Bitcoin.
+
+And I took the lead from the [Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) there to create this Canadian kind of advocacy organization called the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/). And I did it by, I learned from what they did.
+
+What the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation), what I was seeing was their kind of mistakes with how it became this American centric organization and the rest of the world was kind of like, yeah, kind of typical here, the way that this was done. This doesn't sound very decentralized. So the ethos wasn't really shining through of what the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) did.
+
+And I decided to do some things a bit differently. And I put out a press release across Canada stating who I was, my interest in Bitcoin and what I was looking to do was to create an organization that was going to help evangelize Bitcoin with media, with government. And I was looking for like-minded people to join me and if you're interested to send me an email or phone me up and let's start a conversation.
+
+So it was kind of my way to expand out of Toronto to do something more nationally. And I did a couple press releases and this was more about just kind of seeing who's interested. And a number of people called me, reached out, I started having conversations with all different provinces. And at a time I said let's get this going.
+
+And I put another press release stating that I want to start a board of directors. I want to establish an organization, and I'd like it to be fairly represented and done in a fair way. So I put out a press release stating, if you're interested in being on the board, let me know. If you're interested in being on the panel that decides who's on the board, let me know. But you can't be both.
+
+So I created this kind of separated panel of people that could decide who was on the board. And I created this opportunity for people to submit applications to be on the board. And I myself submitted an application.
+
+I think there were 15 or 20 applications came in. Something, I don't remember exact number, but people also said, I'll be the judges or I'll be part of this voting committee. So the applications came in, they were passed to the voting committee. The voting committee decided the board, the voting committee disbanded, and the board was there.
+
+So that's how I did things kind of again, to align with removing any type of situation where someone can say that didn't happen fairly or it wasn't done right. And so I'm always trying to do that.
+
+I'm always trying to figure out ways that you can remove deficiencies from something and create something where you've covered all, you've checked all the boxes and everything's been done in a way that you can kind of go back and say, well, I did this in the best way that I could to ensure that it's not going to have the deficiencies that potentially other things may have.
+
+So I learned from what the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) was feeling with how they set up, and I did it differently.
+
+And it led to this organization that had, I think it was, there were, I don't know if there were seven or eight board members from six different provinces, I believe. And that I then was elected by the board to be the executive director of the organization.
+
+*(Bob - the [inaugural board of directors](https://web.archive.org/web/20131129035924/http://rushprnews.com/2013/06/18/bitcoin-alliance-of-canada-inaugural-board-of-directors-announced) was announced on 18th June 2013)*
+
+And I spent the next number of months kind of traveling the world, representing Canada and kind of continuing now to expand nationally, internationally with my presence of evangelizing Canada's Bitcoin scene and other things. So I started local, expanded national, and then started traveling the world.
+
+And along the way I was seeing Vitalik Buterin, who had also dropped out of university. He had dropped out of university. At the time, he was traveling around the world working on this and exploring different various Bitcoin projects and initiatives. So I would run into him at different conferences. Like I ran into him in [Moe Levin's event in Amsterdam](https://bitcoinmagazine.com/industry-events/bitcoiners-from-around-the-world-meet-in-amsterdam-1380482873) ("Bitcoin EU Convention 2013", 26th to 28th September 2013) and in a number of other.
+
+{% include content-embed.html
+  url="https://bitcoinmagazine.com/industry-events/bitcoiners-from-around-the-world-meet-in-amsterdam-1380482873"
+  title="Bitcoiners From Around the World Meet in Amsterdam"
+  author="Vitalik Buterin"
+  date="2013-09-29"
+  site="Bitcoin Magazine"
+  img="/images/bitcoinmagazine.com/2026.04.30/wp-content/uploads/2024/11/bitcoiners-from-around-the-world-meet-in-amsterdam-696x522.jpg"
+%}
+
+He was coming to the meetups and I would. So we kind of just got to know each other and he was starting to work on my wallet company, KryptoKit and [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/), helping me out with that. So I just kind of got to know this kid over the next number of months.
+
+And seeing his progression from the first meetup, he was barely shy enough to say a word. Like he really was very, very timid and reserved and almost like just very, very. And then to see him months later on stage in Amsterdam and he had been writing a lot on [Bitcoin Magazine](https://bitcoinmagazine.com/) at the time and progressing his writing skills. And I just saw him kind of starting to flourish into the speaker, into the things.
+
+And I always felt he was very responsible and he would always be on time for his meetings. And he ended up doing, I think a three part series on me for [Bitcoin Magazine](https://bitcoinmagazine.com/).
+
+- [Part 1: Introducing the Bitcoin Alliance of Canada](https://bitcoinmagazine.com/articles/exploring-the-bitcoin-alliance-of-canada-part-i-1381547131) - 12th October 2013
+- [Part 2: Interview with Anthony Di Iorio](https://bitcoinmagazine.com/culture/bitcoin-in-canada-part-2-interview-with-anthony-di-iorio-1381964794) - 16th October 2013
+- [Part 3: Interview with Anthony Di Iorio on Bitcoin Gambling](https://bitcoinmagazine.com/culture/bitcoin-in-canada-part-3-interview-with-anthony-di-iorio-on-bitcoin-gambling-1382662547) - 25th October 2013
+
+And I remember him interviewing me in Amsterdam and talking about what I was doing with the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/)). I just got to know him and respected him and felt he was a very smart kid and getting to be a good writer. And we just kind of built up a relationship over the months.
+
+{% include content-embed.html
+  url="https://www.coindesk.com/markets/2013/12/02/bitcoin-alliance-launches-in-canada"
+  title="Bitcoin Alliance Launches in Canada"
+  description="As an educational resource, the organisation aims to assist users and promote the digital currency nationwide."
+  author="Danny Bradbury"
+  date="2013-12-02"
+  site="Coindesk"
+  img="/images/coindesk.com/2026.04.27/next/image/bitcoin-alliance-launches-in-canada.png"
+%}
+
+And I think me having the meetup as a place where he could also be coming down and getting together and meeting people like Peter Todd and others that were at the first meetup and subsequent meetups and taking this group from eight people to thousands of members and doing eventually weekly meetups. And yeah, that was kind of what was happening there in 2013.
+
+<h3 id="atms-conferences-and-mining">ATMs, early conferences, and why he never mined</h3>
+
+**[20:58] Bob Summerwill:** I was just looking at some more dates, keep looking at these dates. So it looks like there was maybe a tiny little bit of stuff going on in Vancouver prior, but not a great deal until the first Bitcoin ATM which was in October 2013.
+
+**[21:18] Anthony Di Iorio:** Yeah, Waves Cafe.
+
+{% include content-embed.html
+  url="https://www.coindesk.com/markets/2013/10/30/robocoin-launches-bitcoin-atm-in-vancouver"
+  title="Robocoin Launches Bitcoin ATM in Vancouver"
+  description="The first Bitcoin ATM launches in Vancouver."
+  author="Daniel Cawrey"
+  date="2013-10-30"
+  site="Coindesk"
+  img="/images/coindesk.com/2026.04.27/next/image/robocoin-launches-bitcoin-atm-in-vancouver.png"
+%}
+
+**[21:21] Bob Summerwill:** Cafe.
+
+**[21:23] Anthony Di Iorio:** I think it was Robocoin. Yeah, yeah, yeah.
+
+**[21:25] Bob Summerwill:** And then you had [Bitcoiniacs](https://www.bitcoiniacs.com/). That was a group sort of operation.
+
+**[21:30] Anthony Di Iorio:** They did it. That's right. And I like to say I think I had the second one in the world. I think I did.
+
+**[21:35] Bob Summerwill:** I think. Well, and what I do remember is you had the first Canadian made one.
+
+**[21:43] Anthony Di Iorio:** [BitAccess](https://bitaccess.ca/) boys. Yeah, yeah. And we'll talk a bit about more how that came about again to 2013, early 2014. But yeah, that was the Waves. The Vancouver guys were the first movers of that and the Robocoin.
+
+The Robocoin is what I saw down at the conference when I was down. I think it was my, was it Miami or, I think it was in Miami. Was it Miami down Orlando or Miami? The [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) Conference.
+
+**[22:09] Bob Summerwill:** Yeah, I couldn't find any specific.
+
+**[22:12] Anthony Di Iorio:** Yeah, yeah. Probably just gonna search for Robocoin, Butterfly Labs.
+
+**[22:20] Bob Summerwill:** Right?
+
+**[22:21] Anthony Di Iorio:** That was actually an interesting story that why I never got into mining and I'll tell you that. Let's see if I can find this conference though. But Bitcoin Foundation, it was definitely in Florida. 2013. Robocoin.
+
+**[22:42] Bob Summerwill:** I mean that must have been prior to the North American Bitcoin Conference. Moe's event. It must have been.
+
+**[22:50] Anthony Di Iorio:** This is the Bitcoin Miami Airport Conference Center. Bitcoin conference in 2013 is a Vice article I'm looking at right here. Conference which took place at the Miami Airport Conference Center. Featured enough. No, wait a second, wait a second. Yeah, yeah, this is it.
+
+The Winklevoss twins were at the event. I remember that. I remember seeing them. This is 2013. No, no, that was Disrupt San Francisco. No, it was. This was the Bitcoin Foundation Conference. It was in, yeah, Miami, Orlando. I can't remember but it's when the first ASIC was actually, I think the realistic. This was not the Butterfly Labs. This was, this was.
+
+I remember them following around what's his name. Okay. So mining. When I first heard about Bitcoin in 2012 was right when Butterfly Labs was announcing their ASICs and doing their pre-orders. And for those that don't know, Butterfly Labs was a mining, initial mining hardware company that ended up scheming and scamming and using people's pre-orders. And they got charged. It was a big debacle.
+
+But I thank them for being the reason I never got into mining. And you might say thank you for, not again, I bought instead. My thing was always to buy rather than mining.
+
+I learned really early on there was this guy, I even forget his name for Butterfly Labs. Just being a real douchebag to people on the forums and this guy looked like a real jerk. And one of my friends, Ernest from Toronto who was also at the first meetup, who had showed me his mining rigs. This was right when I first found out about Bitcoin. He actually sold me my first Bitcoin for like nine bucks or something like that I think.
+
+And he was just, I went to his office and he had his mining rig. I had no idea what mining rigs look like. And he told me what he was doing with Butterfly. He was buying these machines from them. And I went online and I started seeing Jordan. Was it Jordan from Butterfly Labs? But this guy's such a douche. And because of him I'm like, I'm not buying from them. This guy looks like such a jerk. Why would I do that?
+
+And because of that and what happened with Butterfly Labs is I never ever did any mining. I've never mined in my life. And that kind of, and instead I bought. I bought instead rather than mining. I never, I always thought the mining was this arms race thing that I could never. And I saw so many people losing their shirts and the guys I think in Montreal got destroyed with the Embassy there. Like just, so that was kind of, never gotten into the mining side of things.
+
+**[25:24] Bob Summerwill:** But very, very competitive.
+
+**[25:28] Anthony Di Iorio:** Very much, very much so. Yeah, I'm trying to still find the. I remember the Winklevoss twins being at the conference at the Foundation conference.
+
+And I'm seeing here now the North American Bitcoin Conference. November. That was January 25th. That was Moe's. What was it, man? That's where we announced Ethereum was there.
+
+**[25:50] Bob Summerwill:** That's right.
+
+<h3 id="rush-wallet-kryptokit-and-jaxx">RUSHWALLET, KryptoKit, and the road to Jaxx</h3>
+
+**[25:51] Anthony Di Iorio:** Don't want to jump. Yeah, but still 2013. Just sold the company, the gambling site. And then Steve Dakh and I realized we've got a wallet here. We've got, people are depositing funds into the game. We give them, we gave them a secret URL. That's how they would get into their account.
+
+We don't like passwords, we don't like logins. So our systems always worked with friction free. No account, you would get a secret URL. The URL would be your key to get into the gambling site and get to your account. We would give you a deposit address. You would send funds into a QR code instantly inside of the screen. You can probably pull up, if you look up Satoshi Circle, you'll see some images and you'll see some stuff from it.
+
+And we said, well, hey, we got a wallet here. Why don't we, at the time there was a wallet company that got hacked. Not Freewall. No. Oh, what was it called? It gotten hacked. And they were holding people's funds. And we said hey, let's make a wallet where you're not holding people's money.
+
+So that's what we did. We came up with a product called [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) and the idea of an instant Bitcoin wallet where you go to an address and you get a secret URL and you can create a thousand of them if you want. It's disposable if you want and you're not holding the keys. It's all client side. You could do it offline to get your keys and you could send the product.
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20140914083307/https://rushwallet.com/"
+  title="RUSHWALLET.com"
+  date="2013-05-27"
+  site="rushwallet.com"
+  img="/images/rushwallet.com/2013.05.27/rushwallet.png"
+%}
+
+And we don't want to hold your money. That just goes against the ethos of the space and never want to hold people's money. So this wallet failing that was holding people's money, we said, why don't we do one that's not holding people's money and people can hold their own.
+
+So that's where we started building wallets. And wallets, of course is the equivalent for me of the browser for the Internet. Right. It's the interface that allows people to manage and move value.
+
+So we realized and understood this was going to be, you're going to have the time where wallets are going to be that interface that people are using and needing in order to navigate Bitcoin. So it kind of was equivalent to the browser, early days of the browsers.
+
+And we started building Bitcoin wallets and started, we were the first, I think Chrome extension Bitcoin wallet ever. In fact, Ledger used our app to build their first initial Chrome extension. They forked us.
+
+I remember being in Europe at the Bitcoin conference the next year, I think that they put on in Europe. And I remember going to the Ledger booth before, just when they were starting out the company. And I'm at the booth and they're showing me their wallet. I'm like, hey, that's my software. That's it. So they were using KryptoKit as the interface. I'm like, guys, that's not open source. But that was actually, we were, yeah.
+
+So we did a lot of firsts with KryptoKit. We were the first Litecoin wallet. We were the first Dash wallet. We were the first other wallets that didn't exist. And we were actually the first that got onto the Apple Store.
+
+{% include content-embed.html
+  url="https://bitcoinmagazine.com/business/kryptokit-easy-to-use-in-browser-bitcoin-and-messaging-for-the-masses-1386742599"
+  title="KryptoKit: Easy-to-Use, In-Browser Bitcoin and Messaging for the Masses"
+  description="KryptoKit brings easy-to-use, in-browser Bitcoin and messaging tools to mainstream users."
+  author="Vitalik Buterin"
+  date="2013-12-11"
+  site="Bitcoin Magazine"
+  img="/images/bitcoinmagazine.com/wp-content/uploads/2024/11/kryptokit-easy-to-use-696x447.png"
+%}
+
+So we actually were, if you recall, back then, Apple didn't, they didn't like wallets, they didn't like anything crypto and they were banning stuff and Chrome didn't do that. And we were on Chrome.
+
+And in fact what happened for us is Chrome ended up taking us down because there was a malicious copycat of ours that went on and they mistakenly took down our app. And we thought that Google now was banning just like Apple was banning. And we were so freaked out because people couldn't get access to their Bitcoin because even though they had their keys.
+
+**[29:32] Bob Summerwill:** Right.
+
+**[29:33] Anthony Di Iorio:** So I was traveling and I remember Vitalik Buterin jumped in and solved the problem and everybody got their stuff. And we realized we actually got communication by Google saying, no, we're sorry, we made a mistake. We didn't mean to take your app down. In fact, we love Bitcoin. They sent an email to me on that.
+
+So we went from thinking that they were also following in suit with what Apple did and they were removing us. But in fact, that was confirmation actually that Google was fine with what we were doing and what we were doing with Bitcoin.
+
+And then Apple eventually came on and we ended up having a good relationship with Apple. And any coin that we put into our wallet, they started accepting into the Apple Store. It was very interesting.
+
+They were using us as lead to start exploring adding crypto into their products. And they would message us and say, hey, we see that you've added this. Are you good with that? Because every other product was getting removed because they eventually let Bitcoin in, but then they were relying on us to start adding new coins into our wallets and then they would add them into their ecosystem to allow it to be on the Apple Store.
+
+So we had this relationship with Apple which was pretty interesting as well.
+
+**[30:37] Bob Summerwill:** Apple notoriously don't like anybody getting anywhere near their payment chokehold. Yeah, a very lucrative business for them, having 30% of all commerce. So.
+
+**[30:55] Anthony Di Iorio:** Right. Ripe for disruption when you're doing things like that, I tell you.
+
+**[30:58] Bob Summerwill:** Absolutely. But yeah, it's interesting that that browser route was kind of the workaround. So yeah, you were very busy in 2013. I was just again looking for some of these dates. And it looks like [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) actually started a little bit earlier than Satoshi Circle.
+
+**[31:18] Anthony Di Iorio:** No, no, it would. No, it definitely wouldn't have been out. No, no, definitely not. We didn't consider doing the wallets till after, what,
+
+**[31:34] Bob Summerwill:** 27th was apparently the first public announcement.
+
+**[31:39] Anthony Di Iorio:** Of what? Of which?
+
+**[31:40] Bob Summerwill:** Of [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/).
+
+**[31:41] Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later.
+
+And then I sold it a few months later and then started working on the wallets and started out with [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) and that [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) turned into KryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
+
+*(Bob - Satoshi Circle was released in March 2013.  RUSHWALLET's [BitcoinTalk announcement](https://bitcointalk.org/index.php?topic=217112.0) was May 2013) and KryptoKit was [December 2013](https://bitcoinmagazine.com/business/kryptokit-easy-to-use-in-browser-bitcoin-and-messaging-for-the-masses-1386742599))*
+
+**[32:10] Bob Summerwill:** Yeah. Yeah, that's your continuum. And then yeah, you'd mentioned Vitalik Buterin interviews with you. So it looks like that was October 2013. The Amsterdam conference had been in September where you mentioned him speaking. So that was.
+
+**[32:30] Anthony Di Iorio:** We met at a coffee shop. We met at a coffee shop in Amsterdam and he did his interview with me for, I think it was three articles that he put out. There were three, I think three series of articles for the.
+
+**[32:40] Bob Summerwill:** Yeah.
+
+**[32:40] Anthony Di Iorio:** What I was doing in Canada that he was interviewing me for, for a few articles that he put out. I think it was three that he put out because there was the Alliance that was talked about. There's a few things kind of like a Canada series I think that he did. And I remember sitting down with him in Amsterdam and doing that interview. Yeah.
+
+**[33:02] Bob Summerwill:** And his, so his famous Bitcoin world travel was I believe from about June through to December of that year. So he would have been out of Toronto for that period. And then it was November that he wrote the White Paper.
+
+**[33:26] Anthony Di Iorio:** Yeah.
+
+**[33:27] Bob Summerwill:** So you were one of the very initial recipients there.
+
+**[33:31] Anthony Di Iorio:** I still think I was the first person he showed it to. Can't confirm. But I've always thought that. And I think that's the case. It was late November, late November, I believe. Yeah. And I could be wrong with that. I've always thought that's been the case, so could be wrong with that.
+
+But I read it and have to be frank that a lot of it went over my head, which a lot of his writings did and a lot of his stuff with the formulas and all the things. It's nothing but it's like I need some validation here.
+
+And there was a gentleman that I'd been dealing with at the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) because I've been doing the kind of the stuff in Canada for the evangelizing and he was doing it in the US and we connected and became friends. And he saw what I was doing with the wallets and he really thought that what I was doing with the interface was really the thing that was needed. And this was Charles Hoskinson.
+
+So before I introduced him to Vitalik Buterin, I had been dealing with [Charles](/people/charles-hoskinson/) for quite a while because of our paths crossing with our initiatives, our evangelizing initiatives. And as I was building products and doing things, always getting his validation and getting his thoughts.
+
+And so [Vitalik](/people/vitalik-buterin/) shows me this paper, I show it to [Charles](/people/charles-hoskinson/). [Charles](/people/charles-hoskinson/), like this is it. And.
+
+**[34:58] Bob Summerwill:** Right.
+
+**[34:59] Anthony Di Iorio:** And that's how [Charles](/people/charles-hoskinson/) kind of got into the mix with Ethereum.
+
+**[35:03] Bob Summerwill:** So his project there was called the Bitcoin Education Project.
+
+*(Charles [announced the project on BitcoinTalk](https://bitcointalk.org/index.php?topic=214325.0) on 23rd May 2013)*
+
+**[35:08] Anthony Di Iorio:** That's right. Bitcoin, yeah. He was on like Udemy, was on Udemy, I think.
+
+**[35:11] Bob Summerwill:** Oh, right, right. But I mean, I think so that was also 2013. I don't know that that went back into 2012, even maybe a little.
+
+**[35:19] Anthony Di Iorio:** No, no, I didn't meet him. It would have been 2013 that I met him. And he of course was part of Invictus with [BitShares](https://bitshares.org/). Right, right. And he had been unceremoniously ousted by Dan Larimer from BitShares. He was I think also the CEO at the time. And then that didn't work out. So he'd already had his kind of exploration into something after Bitcoin and working on things like that. So Ethereum was right down his alley and that's how he got brought into the mix.
+
+*(Bob - Charles' time at Invictus was brief.  He was a co-founder on 4th July 2013 and was out by December 2013)*
+
+<h3 id="bitcoin-decentral-and-the-first-atm">Bitcoin Decentral and Toronto's Bitcoin ATM</h3>
+
+**[35:57] Bob Summerwill:** Yeah, so it was late 2013 that [Charles](/people/charles-hoskinson/)'s time there ended. But [Charles](/people/charles-hoskinson/) wasn't the only person that you brought into the Ethereum effort early there.
+
+**[36:17] Anthony Di Iorio:** Yeah. So what was going on then was meetups were getting really successful 2013. And I lived up in a place called Richmond Hill, which was about a 45 minute drive from Toronto and I'd be commuting down into the city to do the meetups.
+
+And it just, finally I got to get down to Toronto and I moved down to Toronto, downtown Toronto. And I started looking for a place to do the meetups because we're struggling to get, when you're doing these free events at a restaurant, they kind of got to give you access and it comes, it comes struggle to get sometimes the venues.
+
+And I just had this concept and idea to have a hub, a space for my meetups and to bring people together to have a physical location.
+
+So it was kind of the fourth quarter of 2013. Sometimes I moved down there and I, King and Spadina area right downtown core Toronto where my condo was, and I started looking for a commercial space that I could lease to turn it into a decentralized tech hub.
+
+And found this really old building at King and Spadina, just kind of kitty corner to where I lived and took out a lease for that. This was end of 2013 and that became Bitcoin Decentral.
+
+And Vitalik Buterin was coming down daily as we were setting it up, getting ready to launch. And the [BitAccess](https://bitaccess.ca/) guys from Ottawa, Haseeb and the guys, and oh geez, this team of the startup that called me up and said we heard what you're doing with [Bitcoin Decentral](https://decentral.ca/), we'd love to have you, to give you the, to bring the first Bitcoin ATM.
+
+They started, they'd gotten together in some type of event and started to form a company and started to build the Bitcoin ATMs. And I said I'd love to do it. I bought their first machine and we installed it in [Bitcoin Decentral](https://decentral.ca/).
+
+Launched January 1, 2014. I did a meetup and you'll find all kinds of newspaper articles about the Bitcoin ATM in Toronto and line up out the door of my space.
+
+{% include video-embed.html
+  name="CoinTalk 013 - Bitcoin Decentral Launch Party!"
+%}
+
+And another gentleman happened to show up who had been in town visiting his parents over the Christmas holidays. And we met him and he seemed quite interesting and we invited him back. Vitalik Buterin invited him back to the space a couple days later and this turned out to be [Joseph Lubin](/people/joe-lubin).
+
+![Joe Lubin at Bitcoin Decentral launch party](/images/x.com/2026.04.30/BobSummerwill/status/2034640606899909046/photo/1/HDx9u7Za0AAjGej.jpg)
+
+*(Bob - Joe is the left-hand bald guy in this photo, not the most prominent bald one)*
+
+And [Joe](/people/joe-lubin) had been living in Jamaica, manager for a Jamaican singer at the time I believe, and had I think retired off of Wall Street and just visiting Toronto. Had an interest in Bitcoin and thought he was a really interesting guy and we connected very well with the team.
+
+And at that event we invited him down to Miami to join us down in Miami for the conference. Come, we're going there, can you make it? And he decided to come. And we'll talk about I guess the Miami thing.
+
+But he was, it was the meetup that drew him in. That happened to be the same time he was in Toronto just over the Christmas holidays, the New Year holiday break that he came to that meetup. And that kind of opened the door for him. And that was the. So yeah, so [Charles](/people/charles-hoskinson/) and then [Joe](/people/joe-lubin). Yeah, that was kind of.
+
+**[39:44] Bob Summerwill:** So I found the video for that, the opening event. The video was archived. So that was fantastic. I found it a little while ago.
+
+**[39:53] Anthony Di Iorio:** Oh really? I don't think I've seen that, I didn't know it existed.
+
+**[39:56] Bob Summerwill:** Yeah, it's great. So that was released through [Coin Talk](https://cointalk-archive.ca), which was Kyle Kurbegovich, I can't say his surname. Kovagovich.
+
+**[40:07] Anthony Di Iorio:** Yes, yes. Yeah, [Coin Talk](https://cointalk-archive.ca). Like Coin Talk Live. Coin Talk.
+
+**[40:12] Bob Summerwill:** It was just called [Coin Talk](https://cointalk-archive.ca).
+
+**[40:14] Anthony Di Iorio:** Okay, that's right. Ours was Decentral Talk Live. That's right.
+
+**[40:18] Bob Summerwill:** Yeah. So he seemed to focus more on events like reporting from events versus an ongoing piece. But yeah, there is a frame in that video where you can see [Joe](/people/joe-lubin), just a glance past. Yeah. And I also found out just yesterday that William Mougayar, that was his very first day as well. That was the first day he met Vitalik Buterin and the first day that he started that.
+
+**[40:50] Anthony Di Iorio:** Yeah, he. The start of his book actually. At the start of his book, William Mougayar's book, it actually, I think the first part is about him going up the steps of [Bitcoin Decentral](https://decentral.ca/) at the meetup that I was doing. I think that's his Blockchain for Business. What was it called? Blockchain for Business.
+
+**[41:04] Bob Summerwill:** Yeah, that's right.
+
+*(Bob - It was actually called The Business Blockchain)*
+
+{% include content-embed.html
+  url="https://www.oreilly.com/library/view/the-business-blockchain/9781119300311/"
+  title="The Business Blockchain"
+  author="William Mougayar"
+  date="2016-05-09"
+  img="/images/imageio.forbes.com/blogs-images/laurashin/files/2016/05/Mougayar-book-1200x577.jpg"
+%}
+
+**[41:06] Anthony Di Iorio:** Yeah, yeah. So that's, yeah. He mentions that when he meets Vitalik Buterin for the first time. It's at the meetup thing. So yeah, yeah. William was a heavy part of Decentral and Kyle Kurbegovich was co-working I think out of Decentral, at [Bitcoin Decentral](https://decentral.ca/), and a bunch of other people. It was kind of a, it became that kind of co-working space. My businesses were brought there and it became the first home of Ethereum. It's the first address. First home of Ethereum was Bitcoin Decentral and first company started.
+
+I started a, we needed to start hiring, doing things and you couldn't do without a business. And so I ended up, we agreed I'd start a for-profit entity in Toronto just to get something going and I started [Ethereum Canada](/articles/ethereum-canada-inc/). I was a sole director of this just to be able to start doing some stuff and hired our first HR guy, Richard Goldglass, hired Addison Cameron-Huff who was my lawyer at the time, who I'd like to say became the first Ethereum lawyer we had. What was the other lawyer's name who did a lot of work for us? He did a lot of work. All my stuff for Satoshi Circle and for Rush. But yeah, it was, let's get this going. That was the office. That's where me and Vitalik Buterin were and the other guys.
+
+*(Bob - Stuart Hoegner is the lawyer who Anthony was thinking of.  He was also the Legal Counsel for the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/))*
+
+You got Mihai Alisie who was Vitalik Buterin's partner at [Bitcoin Magazine](https://bitcoinmagazine.com/) working out of Romania. You had Charles Hoskinson out of Colorado, Amir Chetrit that [Vitalik](/people/vitalik-buterin/) had gotten to know while working with the guys at [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins). And that was the five. That was the initial five. [Amir](/people/amir-chetrit/), [Mihai](/people/mihai-alisie/), myself, [Charles](/people/charles-hoskinson/) and [Vitalik](/people/vitalik-buterin/). And that started happening in December.
+
+<h3 id="forming-the-early-ethereum-team">Forming the early Ethereum team</h3>
+
+**[43:00] Bob Summerwill:** For [Mihai](/people/mihai-alisie), presumably both Mihai Alisie and Amir Chetrit, you'd met through Vitalik Buterin, but not in person at that point.
+
+**[43:11] Anthony Di Iorio:** I met [Amir](/people/amir-chetrit/) specifically, I met at the [Inside Bitcoins in Las Vegas in 2013](https://www.coindesk.com/markets/2013/12/04/inside-bitcoins-conference-descends-on-las-vegas-next-week). That's right when we launched. That's right when we launched KryptoKit, I think that was. Right. That was.
+
+{% include content-embed.html
+  url="https://www.coindesk.com/markets/2013/12/10/kryptokit-launches-as-dark-wallets-biggest-rival"
+  title="Kryptokit Launches as Dark Wallet's Biggest Rival"
+  description="Will Kryptokit's secure, browser-based wallet overtake Dark Wallet as it approaches its crowdfunding target?"
+  author="Danny Bradbury"
+  date="2013-12-10"
+  site="Coindesk"
+  img="/images/coindesk.com/2026.04.27/next/image/kryptokit-launches-as-dark-wallets-biggest-rival.jpg"
+%}
+
+I had David Bailey beside me. That's where I first met David Bailey. I had him in a booth beside me for. He was, "Why Bitcoin" was his magazine and we met there.
+
+*(Bob - here is [press release](https://finance.yahoo.com/news/kryptokit-unveils-worlds-first-secure-180000893.html) for the KryptoKit launch)*
+
+That's right when we were launching. I think it was KryptoKit back then in late 2013 is where I met. Was it [Inside Bitcoins](https://www.coindesk.com/markets/2013/12/04/inside-bitcoins-conference-descends-on-las-vegas-next-week)? It was in Vegas.
+
+**[43:52] Bob Summerwill:** Yeah, at the MGM Grand.
+
+**[43:54] Anthony Di Iorio:** That's right. So that's right. I remember. That's right. I remember walking the streets with [Amir](/people/amir-chetrit/). That's kind of the first in-person time that I met [Amir](/people/amir-chetrit/). [Mihai](/people/mihai-alisie/) would have been much later. He couldn't even come to the conference in Canada because of his visa stuff. He couldn't get in. So it was much later after that I met [Mihai](/people/mihai-alisie/). Wait a second. Yeah, [Mihai](/people/mihai-alisie/) couldn't.
+
+**[44:17] Bob Summerwill:** He didn't make Miami either.
+
+**[44:19] Anthony Di Iorio:** No, he didn't make Miami or like he just, yeah, there was restrictions with him in Romania there.
+
+So imagine, you're starting this foray with people you don't really know too well, from different backgrounds, different things in different countries, different ages. And I'd already known that I didn't want partners. I learned that, Steve and I always had this push pull kind of thing that I'd known, I come to the conclusion I really don't want to have partners. I know I did.
+
+But the opportunity sometimes presents itself that you're like, let's just do this thing and you do this thing. But it kind of has been that. How amazing has things transpired, but also how much of a nightmare it was back then.
+
+**[45:02] Bob Summerwill:** So you didn't want any partners, but you got seven.
+
+**[45:06] Anthony Di Iorio:** Well, we had five. I had four to start up initially. Right. So there's the initial five. All right.
+
+But yeah, well, and then of course what makes this very interesting is not just this, but you're also in this, navigating this area of being visible founders of this new technology. That's, because Satoshi wasn't visible. We, yeah, I'd always been very clear of, I wanted to be visible with my stuff. Even I think back then, I think my phone number was on Reddit that you could call me to talk about this.
+
+Like part of the ethos is also transparency, openness, all these other things. So you make that decision to be public, you got to do things the right way, you've got to set up company, you got to do these things.
+
+But then you also have this kind of pull of the decentralized ethos and other people don't understand these things. And this is kind of where a lot of debates were, would be within the team of making sure we weren't going to jail, making sure that we structured things properly. That was a real big endeavor that we did in the early 2014 was this.
+
+We had no money. We didn't want to be doing any VC thing. We wanted to keep, we didn't want VCs getting involved. We met with many. We didn't want to do that. I was bootstrapping. Nobody else had any money. People were being promised some future something for the work they were doing. We were starting to accumulate a team and money was a big, big, big challenge that we didn't have.
+
+But we wanted to keep that freedom and we didn't want to lose that out.
+
+So it was tough. And there was also then the battle between speed and doing things properly. So you have some people on one side, let's do this quick. Who cares about regulation? Who cares? Let's just do.
+
+And then the other side, you get the kind of the elders in the room. And at the time, I know [Mihai](/people/mihai-alisie/) was around the same age as [Vitalik](/people/vitalik-buterin/). Like they're younger. They were kids, right? And then, hell, even [Charles](/people/charles-hoskinson/), I had no idea he was 25.
+
+**[47:17] Bob Summerwill:** 25, 25.
+
+**[47:19] Anthony Di Iorio:** When I, and I didn't know for months and when I learned his age, he was always looking like a guy to me that was older. I was floored that he was 25. He just, so he was relatively young. I don't even know how old is [Joe](/people/joe-lubin)? I don't even know how old [Joe](/people/joe-lubin) is. You know how old [Joe](/people/joe-lubin) is?
+
+**[47:37] Bob Summerwill:** 60, maybe 62.
+
+**[47:39] Anthony Di Iorio:** Something like that. Is he. Can you. I'd like to know because I'm 50. I'm 50. So.
+
+**[47:53] Bob Summerwill:** So he's 61 at the moment. He was born in '64.
+
+**[47:58] Anthony Di Iorio:** Yeah. So [Joe](/people/joe-lubin) was the elder. [Joe](/people/joe-lubin) was the elder and [Joe](/people/joe-lubin) was the, you know, yes, there was always that tug between speed and proper. And there was no money. And the sooner we could do the product sale, sooner the money could come in.
+
+But we need to make sure that we could sell the product to the US. In order to do that, we needed to make sure our lawyers. So there was this whole process that we had to undertake to make sure that we got that sign off from our lawyers that what we were doing was not going to get us into trouble.
+
+And that was a big problem. To try to convince the people that weren't making any money, didn't have any money, that it was very important we do this properly and we don't do this and screw this up. That's going to come back to haunt us down the road. And that was a big challenge and that was one of the internal tensions throughout 2014.
+
+<h3 id="miami-launch-plans-and-presale-delay">Miami launch plans and delaying the presale</h3>
+
+**[48:59] Bob Summerwill:** So something I only learned quite recently, having met Ryan Taylor who worked on the early websites, having worked with Vitalik Buterin and Mihai Alisie on [Bitcoin Magazine](https://bitcoinmagazine.com/), was that the version of the website which was up in January 2014, in the run up to the North American Bitcoin Conference, Vitalik Buterin's talk and the mansion that you'd paid for.
+
+![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg)
+
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislav Malahov, Charles Hoskinson, Anthony D'Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joe Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich.*
+
+**[49:30] Anthony Di Iorio:** Let me tell you. It was no mansion. It was a semi-detached. It was a split level home where the owner lived in the top. No, this was a very, very modest.
+
+**[49:42] Bob Summerwill:** Okay, home.
+
+**[49:43] Anthony Di Iorio:** So I just, yeah, that's. It was no mansion. But anyways, yes, it was a Bitcoin house. That was the, sorry, the Ethereum house in Miami that I rented for the conference. But yeah, Airbnb. But the website that.
+
+**[49:54] Bob Summerwill:** Was up at that time in January had got a countdown. The countdown was for the crowd sale that was meant to be on the 1st of February. That's what I understand.
+
+**[50:06] Anthony Di Iorio:** It was. This is what happened with that. So we go down to Miami, big announcement, got the house there. First time I'm meeting in person, Charles Hoskinson.
+
+First time I'm meeting this guy Gavin Wood, who Vitalik Buterin had said, hey, there's this guy from the UK, can't afford to get a ticket. Can you buy him a ticket? And I said, well, is he. Yeah, he's okay. So I flew Gavin in, Gavin Wood.
+
+And this was kind of a, the get together, we were really planning on launching it there even. I don't think it was even waiting till February. The initial plan was to put it out immediately.
+
+And I gotta say, it would have been a wrong move to do it because what had happened was after the [Vitalik](/people/vitalik-buterin/) talk and what we were hearing in our sources is that what we could collect and sell was going to be an astronomical amount that we weren't expecting. This is what happened.
+
+And if it wasn't for one person, Amir Chetrit, who had some common sense and said to the team, guys, there's no way we're doing this right now. Everybody else was drinking the Kool-Aid. Everybody else was saying, let's do this now. And [Amir](/people/amir-chetrit/) stepped in and said, no, the numbers are getting too nuts. This doesn't. We gotta step back and we put a halt on things.
+
+And that's when things kind of, okay, let's take a breath, figure this out properly. Let's jurisdiction shop, make sure that we're setting this up right. We can't do it in Canada. It's not set up properly. Let's go to Switzerland.
+
+And that was a really very important move that Amir Chetrit did. I believe that was one of those things that, I don't know if anybody talks about that, but that was a smart, smart move to delay and prepare.
+
+![Bob and Amir](/images/personal/bob-summerwill/twitter.com/2025.09.14/1967440888310989059/bob-and-amir.jpg)
+
+*(Bob Summerwill and Amir at BTC Miami, January 2018)*
+
+Because who knows where Ethereum would have been if we had done something dumb back then to jump the gun and not prepare properly with what needed to be done to get this technology off the ground. And I think we did it properly.
+
+We delayed with a lot of pressure until our lawyers in the US gave us the structure and go ahead to do it. And when we got that thumbs up from our lawyers there, that's when we did it. And it was a very tumultuous time leading up to that with zero money and people knocking. It was tough, but I think that was a savior for us to do things in the right fashion.
+
+**[52:35] Bob Summerwill:** And that was absolutely last minute from what I can see, because there's an archive for the website with six days left. So it was literally like at the wire that it will have been pulled.
+
+**[52:48] Anthony Di Iorio:** Yeah.
+
+**[52:48] Bob Summerwill:** And Ryan was saying he got a phone call sort of like late at night, quick, panicked. Take it down. Stop.
+
+**[52:55] Anthony Di Iorio:** Yeah, yeah.
+
+**[52:56] Bob Summerwill:** Remove the timer.
+
+**[52:58] Anthony Di Iorio:** That's right. But it was that. And I think it happened after the conference. I remember Amir Chetrit's face and I remember him telling us, guys. So that was good.
+
+And then, yeah, the Miami house was a lot of fun. We had some, we had, Gavin Wood worked his butt off the whole time there. He did nothing but work and code and got the first proof of concept out there. And he was a workhorse. While a lot of others were partying and doing some things, Gavin Wood was the guy that was sitting there on his thing doing his stuff.
+
+And that's kind of the famous picture, one of the few pictures I've had. I've lost so much stuff. Like, I brought Kyle Kurbegovich down to do the video. I paid him to film everything. I don't have that stuff. I have so little from back in the day.
+
+But I have that one photo that Gianni Dalerta took. I think Gianni took it. That one when we're on the couch there with myself and Charles Hoskinson and [Joe Lubin](/people/joe-lubin/) and Vitalik Buterin. I don't know if, in the Miami house.
+
+![Gianni Dalerta](/images/x.com/2026.04.30/GianniDalerta/status/1368074939966910467/photo/1/Evxg2K3XMAARFwk.jpeg)
+
+*(Jonathan Mohan, Unknown, Joe Lubin, Kyle Kurbegovich, Unknown, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, Unknown, Charles Hoskinson)*
+
+But I don't, I have very, very, very little stuff and would love to see more stuff, but I have so little because even back then, even the mobile phones and moving the photos and stages, literally very, very little stuff, which is unfortunate.
+
+But there was some good times in the Miami. I remember Adam B. Levine doing Let's Talk Bitcoin in the back. I remember Charles Hoskinson and Dan Larimer doing a debate after a debate. I remember Dan Larimer and Vitalik Buterin getting swarmed after the announcement and then Dan Larimer coming up and having that conversation and little hijack. The hijacking. Yes, yes.
+
+{% include video-embed.html
+  name="CoinTalk 015 – BTCMiami Debate Featuring Ethereum, Mastercoin and Bitshares"
+%}
+
+Yeah. So yeah, a lot of good. The Miami event was pretty cool. And Steve Dakh was down there as well.
+
+**[54:45] Bob Summerwill:** Yeah, yeah. So that discussion with Charles Hoskinson and Dan Larimer, and it was David Johnston was the other one on that panel who was talking about at the time.
+
+**[54:57] Anthony Di Iorio:** That's right. That was kind of the big things, right? That's what you had. You had [BitShares](https://bitshares.org/), you had [Mastercoin](https://www.omnilayer.org/), you had Bitcoin. And then Ethereum comes along, right? Yeah.
+
+**[55:06] Bob Summerwill:** So yeah, that video has also been preserved, which is great. And there were some photos from the house there, from Taylor Gerring had taken some photos there and Steve Dakh had got one or two that he shared with me. But they weren't so great.
+
+**[55:24] Anthony Di Iorio:** You ever care to share stuff or, I'm hoping you're going to be putting all your stuff out somehow doing something with it. Would love to dig into what you have.
+
+And reciprocally, I've got so much stuff in terms of Slack, I mean Skype channel. So much stuff that I've put into things that I haven't gone through in such a long time. But it's cool sometimes to just look at my chat between me and Vitalik Buterin from 2012 to.
+
+And our FM forum, which was the Fiduciary Members group, which was the founders group.
+
+That's. So yes, what you had is you had the Fiduciary Members, which is the FM. That's the founders. And we had five. We agreed to add three more. We added Jeff Wilcke, we added Gavin Wood and added Joe Lubin and that was it. There was a decision there. We're not any more founders. That's eight. That's it. So that became that.
+
+But the channel in Skype and everything was being done through Skype at the time. Right. So we had all these different channels with all these different people helping out and different things. But the FM group was the Fiduciary Member group and that was the five and then the eight.
+
+And then when Charles Hoskinson and Amir Chetrit were removed and Stephan Tual and Taylor Gerring were added in, they became part of the leadership channel, but not the founder. They weren't the founders. They became part of the leadership. And Charles Hoskinson and Amir Chetrit are always, to me, the founders. They're founders. No debating that. And I stick strong by saying there were five and then there were eight and that's it.
+
+Yeah. And people can understand sometimes they'll say something about, well, there's so many other people and this is just like. Yeah, but were you taking the legal risk? Were you putting in the capital? Were you, if someone's getting arrested, is that you or is that the people that have their names on the contracts, the names on the foundation or the names on the initial stuff.
+
+And we made that decision and the website backs up who the founders are. It's very clear on the, if you look back at the Wayback Machine, it's very clear who the progression of founders were and what other people's roles they had.
+
+So that's one of the things I'm a stickler for, for certain people that say that they're founders and aren't and weren't. And as you know, and you've said, I'm a stickler for accurate history.
+
+<h3 id="founders-fiduciary-members-and-the-red-wedding">Founders, fiduciary members, and the "Red Wedding"</h3>
+
+**[57:42] Bob Summerwill:** Yeah, yeah. I mean, same with the Fiduciary Members. Something pops into my mind there that maybe you can expand on a little bit is in the initial [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) post, it does talk about the fiduciary group. And then there was a large list of other people involved. Quite a long list there. But then that was changed around August where it basically chopped down the, well, it updated I guess with Charles Hoskinson and Amir Chetrit etc. out of the way. But it also did not use the word fiduciary anymore. And I'm wondering, do you remember what happened there? Was it a fear? So are you using that word?
+
+**[58:32] Anthony Di Iorio:** Do you mean on the website?
+
+**[58:34] Bob Summerwill:** No, on the [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) announcement thread.
+
+**[58:37] Anthony Di Iorio:** Oh.
+
+**[58:38] Bob Summerwill:** So there was the announcement in January there. But then that page was updated around August.
+
+**[58:46] Anthony Di Iorio:** Okay, so my recollection really is the Fiduciary Members was kind of our name internal that was used on the Skype channel FM. I don't recall its relationship to the forums. And if we ever mentioned that stuff there, I, maybe we did. I'm saying, you're saying that we did.
+
+But why things would have changed afterwards when you're dealing with August, because that's when things changed. That's when the shift happened towards we've got money now, we don't need these guys and we're going in this direction right now, which is what happened at the "Red Wedding". That kind of was the signal of what's changing here.
+
+*“[Mihai](/people/mihai-alisie/) was also with us” – Taylor Gerring, [Jun 3, 2022](https://twitter.com/TaylorGerring/status/1532829758123278336)*
+
+![Early Ethereum team photo](/images/x.com/2025.09.07/TaylorGerring/status/1532829758123278336/1532829758123278336_1.jpg)
+
+And Joe Lubin saw the writing on the wall. I believe that he wasn't going to be there anymore. I saw the writing on the wall that my time was going to be limited, moving forward and change. And the cards were stacked in the other side with [Taylor](/people/taylor-gerring/) and [Stephan](/people/stephan-tual/) joining in and the stalemate was no longer there.
+
+So that was kind of the, after that time, that's when things radically changed towards the development of the product, the setting up of things, the developer focused mentality and hey, it is what it is and it's led to some awesome things. So no regrets of anything there.
+
+But I saw the writing on the wall. I survived the "Red Wedding", Joe Lubin survived the "Red Wedding", but the writing was there that in the future things were going to be changing. And that's what happened.
+
+And it turned into a get the product out and Gavin Wood took the helm with a lot of that. And we were the stewards and the stewards, I stayed on for quite a while still. I was still helping sort things out back in Switzerland. Going back and forth and doing things. And I think it was 2016 that I officially left. I think.
+
+<h3 id="ethereum-canada-switzerland-and-structure">Ethereum Canada, Switzerland, and early legal structure</h3>
+
+**[1:00:41] Bob Summerwill:** 2015. This is the date I think you had on LinkedIn. But yeah, I mean prior to the foundation there. So you'd mentioned [Ethereum Canada](/articles/ethereum-canada-inc/). So I looked, so that was February 2014 that that started, which is very close to the same time that [EthSuisse](/articles/ethereum-switzerland-gmbh/) was formed by Mihai Alisie and I forget the name of the lawyer dude. So yeah, you had several months there of not-for-profit. You had these legal entities.
+
+**[1:01:17] Anthony Di Iorio:** Yeah, well the reason, the only reason we did that was for speed. The only reason was for speed. And I was the only director for speed. It just was literally we needed an entity to be able to do stuff with.
+
+It was not anything meant to be long lasting and it wasn't meant to something to be a for. It was literally just like a holding thing that we could start doing, hiring people, start doing things and that was what you need to start up.
+
+So that was literally just a temporary, meant to be a temporary. It eventually got rolled into my other companies because it didn't, it ended up just being kind of a shell afterwards and I rolled that into my other entities when I formed and amalgamated my entities into [Decentral](https://decentral.ca/).
+
+But it really didn't have any meaning down the road when everything got set up in Switzerland. But actually, no, actually it was supposed to be for the. Not Canada, Canada was literally just a shell of let's get set up and let's get things going.
+
+And then in Switzerland it was another one of the big debates, was are we going to go nonprofit or for profit. That was a massive debate that was happening in early 2014.
+
+And the decision was made to be a for-profit. The GmbH was agreed to. Yeah, it's what we were doing. And then we flew to Switzerland and that's when the coup happened. And yeah, we got there and we're told you're not here why you think you're here.
+
+We were there to sign documents. We created this entity. We had the formation documents. It was going to be signed by the eight founders. We all descended upon Zug to go sign that document. And then that's when the stuff went down and that's when it was determined that it was going to be a nonprofit.
+
+After from what came out of there, Vitalik Buterin determined it was going to be a nonprofit and I was not happy about that because I'd put a lot of money into this entity and I'd been promised certain things and this was not the deal. This was not what we had agreed on.
+
+But again no regrets and it is what it is. And who can deny what it's actually become. That's been the right path and I think it has. So.
+
+**[1:03:44] Bob Summerwill:** Yeah, so Herbert Sterchi was the.
+
+**[1:03:50] Anthony Di Iorio:** Yeah.
+
+**[1:03:51] Bob Summerwill:** Yeah. So he co-founded that or I guess helped Mihai Alisie with that.
+
+**[1:03:56] Anthony Di Iorio:** Yeah. You needed a local. There needed to be somebody that was local to be part of it. And that's where Herbert Sterchi came in. The reason why Herbert Sterchi was on there, I believe.
+
+**[1:04:08] Bob Summerwill:** Yeah. And so yeah, looking, the "Red Wedding" was June 7th. And I guess that was probably the first time that all eight people were in the same place.
+
+**[1:04:27] Anthony Di Iorio:** Maybe. I don't. We were back and forth a few times there. I can't recall. I don't know. No, I don't, maybe. I can't say for certain. I've been there a few times already with other guys. I do have some photos of me and Gavin Wood in there from previous events and stuff. So possibly. Yeah, yeah. We want to do it, Bob, do we want to do a second part sometime or continue this sometime? I think I got a hard, it's 5:30.
+
+**[1:04:53] Bob Summerwill:** Okay.
+
+**[1:04:54] Anthony Di Iorio:** I think I got a hard stop now.
+
+**[1:04:56] Bob Summerwill:** Okay. Can I just ask you one more thing?
+
+**[1:04:58] Anthony Di Iorio:** Yeah, sure.
+
+**[1:04:59] Bob Summerwill:** Do we have time to talk about [Bitcoin Expo](/articles/bitcoin-expo)?
+
+**[1:05:03] Anthony Di Iorio:** You want to do that now?
+
+**[1:05:05] Bob Summerwill:** If you have time just for a couple of minutes?
+
+**[1:05:07] Anthony Di Iorio:** Yeah, certainly. Yeah, yeah, I think I can manage that. Yeah.
+
+<h3 id="bitcoin-expo-and-closing">Bitcoin Expo and closing reflections</h3>
+
+**[1:05:11] Bob Summerwill:** So that was April 2014 and again fairly soon after the Miami and another kind of drumbeat on the path and a big sort of coming out for Ethereum. Right. Who were the sponsors?
+
+**[1:05:30] Anthony Di Iorio:** What it was was for the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/) we wanted to put on an event and it was sponsored by the Bitcoin Alliance event and I did it as a nonprofit and I funded it and I said this is going to be a nonprofit event that I want to do. And Ethereum became the lead sponsor and we got all kinds of other sponsors for this.
+
+So it was an event put on by the Alliance of Canada and it turned out to be an Ethereum kind of conference. It just was the timing and all the team came into Canada and that's where I did meet a lot of the guys for the first time. Rich, guys in from the UK, guys in from.
+
+Yeah, that was kind of the first time that we all got together and Mihai Alisie wasn't there, unfortunately. But that's, wait a second, wait a second. No, no, that was so Charles Hoskinson.
+
+{% include video-embed.html
+  name="Why I Joined Ethereum"
+%}
+
+**[1:06:13] Bob Summerwill:** Yeah, he wasn't. Charles Hoskinson was there. I'm not sure if [Gav](/people/gavin-wood/) came. No, [Gav](/people/gavin-wood/) did. Yes.
+
+**[1:06:20] Anthony Di Iorio:** No, Gavin Wood said no. I was getting my dates confused. Miami was the first time I met Charles Hoskinson in person and Gavin Wood in person and then they were both also at the event as well.
+
+Yeah, I think it was maybe about 800 people at the Metro Toronto Convention Center for this. I think it was 800 people. And yeah, everybody met up at [Bitcoin Decentral](https://decentral.ca/) to start and we all walked to the conference afterwards and what a great, it was an amazing time.
+
+I got some great photos of that actually of the tables and the opening night. And so there's quite a bit from there that I have. But yeah, I definitely consider that was the first Ethereum event.
+
+{% include video-embed.html
+  name="Ethereum Booth at the Bitcoin Expo 2014"
+%}
+
+**[1:07:03] Bob Summerwill:** And there was a hackathon as well. And there's a video that was.
+
+**[1:07:07] Anthony Di Iorio:** That was [Dark Wallet](https://github.com/darkwallet/darkwallet). That was, so I also got some good, I got Amir Taaki in to come speak. Amir Taaki. I remember, I think that's when he just got arrested or something, does something from skipping the New York turnstiles or something. He jumped over something like this.
+
+But there was a hackathon and I think Russell Verbeeten was the person that put that on with me. Like he was part of our event, part of the thing and Dark Wallet. Amir Taaki, I think won that Dark Wallet hackathon.
+
+{% include video-embed.html
+  name="Crypto Hackathon – Bitcoin Expo 2014!"
+%}
+
+{% include video-embed.html
+  name="In Crypto We Trust Hackathon Pitches - Bitcoin Expo 2014"
+%}
+
+I got some pictures from that too. I got a bunch of people. I should share my pictures with you. What I do have would give you those and show you them.
+
+**[1:07:45] Bob Summerwill:** That would be fantastic. But yeah, the video, the hackathon, there's so many people that you recognize in there.
+
+**[1:07:52] Anthony Di Iorio:** Is that public as well still? Is that video still online? Oh really?
+
+**[1:07:55] Bob Summerwill:** Yeah.
+
+**[1:07:55] Anthony Di Iorio:** Cool.
+
+**[1:07:56] Bob Summerwill:** Yeah, I can get you that.
+
+**[1:07:58] Anthony Di Iorio:** Yeah, I tell you, if you could send me whatever you want, I'd love to take a trip down seeing things. So it's good that, I really appreciate that you're taking the time to accumulate all this and to do this work. It's a lot that needs to be brought together, and I had so much stuff that I don't have, and it'd really be nice to see everything being put together. So yeah.
+
+**[1:08:17] Bob Summerwill:** Yeah. And with Kyle Kurbegovich, I'm still hoping to catch up with him. I'd reconstituted his [Coin Talk](https://cointalk-archive.ca) website and saved what I can from that, but there's lots of audio recordings there. Some of the, some of the video was lost. But there's audio interviews, like a number of them from Inside Bitcoins from Miami in 2014 there as well. And the opening of [Bitcoin Decentral](https://decentral.ca/) as well, which is a key day.
+
+*(Bob - that is a whole other project which is hosted at [cointalk-archive.ca](https://cointalk-archive.ca))*
+
+Okay, well, thanks so much for your time and yeah, I'd love to have a part two. We got quite far through, but it's a long story.
+
+**[1:09:05] Anthony Di Iorio:** Yeah, that's good, though. I appreciate the memories and thinking things through, so thanks for the conversation and yeah, I'd love to do another one too.
+
+**[1:09:12] Bob Summerwill:** Awesome. Okay, thanks, [Anthony](/people/anthony-di-iorio/).
+
+**[1:09:14] Anthony Di Iorio:** Thanks, Bob. Okay, cheers. Bye.

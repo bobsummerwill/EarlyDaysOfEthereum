@@ -15,7 +15,7 @@ Bob Summerwill was a core developer on Ethereum's [C++ client](/articles/cpp-eth
 
 ## Background
 
-Bob came to Ethereum with 15 years of C++ experience in the games industry. He first met [Vitalik Buterin](/people/vitalik-buterin/) in 2014 but didn't dive in until 2015, when a contract brought him to Toronto just as Ethereum was launching:
+Bob came to Ethereum with 15 years of C++ experience in the games industry. He first met Vitalik Buterin in 2014 but didn't dive in until 2015, when a contract brought him to Toronto just as Ethereum was launching:
 
 > "Moving to Toronto, there was just orders of magnitude more stuff going on - meetups and Anthony Di Iorio's Bitcoin Decentral co-working space and everything. So I got really addicted through that year and it was like, right, I can't not get involved."
 
@@ -25,7 +25,7 @@ He saw it as a once-in-a-generation opportunity:
 
 ## C++ Ethereum Client
 
-Bob started volunteering on [cpp-ethereum](/articles/cpp-ethereum/), setting himself the goal of getting Ethereum running on a smartwatch. This coincided with [Gavin Wood](/people/gavin-wood/)'s departure from the Foundation, leaving the C++ team understaffed:
+Bob started volunteering on [cpp-ethereum](/articles/cpp-ethereum/), setting himself the goal of getting Ethereum running on a smartwatch. This coincided with Gavin Wood's departure from the Foundation, leaving the C++ team understaffed:
 
 > "During that period I ended up being, I think, the only person in the world who was actually helping on that. No companies, nobody was helping."
 

@@ -23,7 +23,7 @@ Before Ethereum, Victor had founded companies in Beijing, gaining deep experienc
 
 Victor met [Jim Hormuzdiar](/people/james-hormuzdiar/) through a VC in Beijing while both were working in China. After returning to the US around 2014, they reconnected and began exploring blockchain technology together.
 
-Victor was part of the early Ethereum community, and in January 2015, he attended the [Crypto Economicon](/articles/crypto-economicon-1/) conference in San Francisco, where he met [Kieren James-Lubin](/people/kieren-james-lubin/) in person for the first time. The three would go on to found BlockApps together.
+Victor was part of the early Ethereum community, and in January 2015, he attended the [Crypto Economicon](/articles/crypto-economicon-1/) conference in San Francisco, where he met Kieren James-Lubin in person for the first time. The three would go on to found BlockApps together.
 
 ## BlockApps and the Haskell Client
 

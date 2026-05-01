@@ -13,11 +13,11 @@ social:
   website: https://kjameslubin.substack.com/
 ---
 
-Kieren James-Lubin is the CEO and co-founder of [BlockApps](https://blockapps.net) and one of the developers behind the Haskell Ethereum client. Son of [Joe Lubin](/people/joe-lubin/), he was present for some of the most pivotal moments in Ethereum's early history, including the "Red Wedding" in Zug. His lean startup background shaped his approach to making Ethereum accessible to enterprise developers.
+Kieren James-Lubin is the CEO and co-founder of [BlockApps](https://blockapps.net) and one of the developers behind the Haskell Ethereum client. Son of Joe Lubin, he was present for some of the most pivotal moments in Ethereum's early history, including the "Red Wedding" in Zug. His lean startup background shaped his approach to making Ethereum accessible to enterprise developers.
 
 ## Background: Mathematical Physics to Blockchain
 
-Before Ethereum, Kieren was pursuing a graduate degree in mathematical physics at UC Berkeley. In January 2014, his father [Joe Lubin](/people/joe-lubin/) emailed him from Miami during the Bitcoin conference where [Vitalik Buterin](/people/vitalik-buterin/) first publicly announced Ethereum.
+Before Ethereum, Kieren was pursuing a graduate degree in mathematical physics at UC Berkeley. In January 2014, his father Joe Lubin emailed him from Miami during the Bitcoin conference where Vitalik Buterin first publicly announced Ethereum.
 
 Joe sent Kieren several articles about this new project:
 
@@ -48,7 +48,7 @@ This approach initially met resistance from the cypherpunk-oriented Ethereum com
 
 ## Crypto Economicon and Meeting the Team
 
-In January 2015, Kieren attended the [Crypto Economicon](/articles/crypto-economicon-1/) conference in San Francisco, where he met [Victor Wong](/people/victor-wong/) and Jim in person for the first time. The conference featured many people who would go on to create major projects in the blockchain space.
+In January 2015, Kieren attended the [Crypto Economicon](/articles/crypto-economicon-1/) conference in San Francisco, where he met Victor Wong and Jim in person for the first time. The conference featured many people who would go on to create major projects in the blockchain space.
 
 > "That conference was like 60 people... almost everyone who went either is already a well-known figure, if they weren't then, or went on to do something really, really interesting."
 
@@ -94,7 +94,7 @@ The BlockApps team announced STRATO at [DEVCON1](/articles/devcon1/) in London, 
 
 ## Enterprise Ethereum Alliance
 
-At DEVCON2 in Shanghai (September 2016), the idea for the [Enterprise Ethereum Alliance](/articles/enterprise-ethereum-alliance/) was conceived at a Starbucks outside the conference center. Kieren was part of the founding discussions alongside [Victor Wong](/people/victor-wong/), [Jeremy Millar](/people/jeremy-millar/), and representatives from major enterprises.
+At DEVCON2 in Shanghai (September 2016), the idea for the [Enterprise Ethereum Alliance](/articles/enterprise-ethereum-alliance/) was conceived at a Starbucks outside the conference center. Kieren was part of the founding discussions alongside Victor Wong, Jeremy Millar, and representatives from major enterprises.
 
 ## Reflections on Cycles
 
@@ -104,7 +104,7 @@ Looking back on Ethereum's development, Kieren observed patterns that continue t
 
 ## The Early Days of Ethereum Project
 
-Kieren is one of three hosts of the Early Days of Ethereum video series, alongside [Victor Wong](/people/victor-wong/) and [Jim Hormuzdiar](/people/james-hormuzdiar/), documenting their first-hand accounts of blockchain history.
+Kieren is one of three hosts of the Early Days of Ethereum video series, alongside Victor Wong and [Jim Hormuzdiar](/people/james-hormuzdiar/), documenting their first-hand accounts of blockchain history.
 
 ## Primary Sources
 

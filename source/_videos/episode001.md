@@ -273,9 +273,9 @@ The first episode of the Early Days of Ethereum video series, independently prod
 
 [[26:30]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1590s) **Kieren:**  I want to give – yeah, I don't want to speak the whole time, but I have some info here that I forget if I told you guys at length. Okay, don't worry. In 2014, so basically I did work on the Ethereum project through a bunch of 2014.  As far as tech projects go, it was much more global, a little more European. But you had Canada, I had a bunch of people in Zug, Switzerland, a little bit in Israel in the early days.
 
-[[27:09]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named [Steven Nerayoff](/people/steven-nerayoff/), who is now kind of famous.  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named [Jonathan](/people/jonathan-mohan/), whose last name I couldn't find when I was writing this down.
+[[27:09]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1629s) **Kieren:**  We worked out of an office, my dad and I, and a guy named Steven Nerayoff, who is now kind of famous.  Actually, if you Google the name, you know, it's definitely an interesting and colorful story that I'll go into a little bit. And a guy named [Jonathan](/people/jonathan-mohan/), whose last name I couldn't find when I was writing this down.
 
-*(Edit: Kieren was thinking of [Jonathan Mohan](/people/jonathan-mohan/))*
+*(Edit: Kieren was thinking of Jonathan Mohan)*
 
 [[27:33]](https://www.youtube.com/watch?v=V2BJX9OkDNo&t=1653s) **Kieren:**  But [Jonathan](/people/jonathan-mohan/)'s a good guy. and I don't know if they kind of parted ways at some point or, you know, how that all happened. So we're working in this office in Times Square and, you know, really trying to find kind of different ways to advance the project, meeting with lots of people.
 

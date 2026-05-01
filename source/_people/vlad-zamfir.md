@@ -8,7 +8,7 @@ social:
   linkedin: https://www.linkedin.com/in/vlad-zamfir/
 ---
 
-Vlad Zamfir was one of Ethereum's most visible critics of simplistic on-chain governance models. In Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Brian Fabian Crain grouped Vlad with [Vitalik Buterin](/people/vitalik-buterin/) as a leading advocate for keeping governance more off-chain and socially mediated, and Gavin explicitly named Vlad among the people whose concerns about stakeholder voting he took seriously while designing [Polkadot](https://polkadot.network/)'s governance.
+Vlad Zamfir was one of Ethereum's most visible critics of simplistic on-chain governance models. In Gavin Wood's 2018 [Epicenter interview](/videos/gavin-wood-substrate-polkadot-on-chain-governance/), Brian Fabian Crain grouped Vlad with Vitalik Buterin as a leading advocate for keeping governance more off-chain and socially mediated, and Gavin explicitly named Vlad among the people whose concerns about stakeholder voting he took seriously while designing [Polkadot](https://polkadot.network/)'s governance.
 
 ## Primary Sources
 

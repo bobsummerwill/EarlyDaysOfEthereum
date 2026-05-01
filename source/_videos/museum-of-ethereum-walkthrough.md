@@ -122,7 +122,7 @@ So in 2022 [Taylor](/people/taylor-gerring/) released these onto Twitter. Very s
 
 ![The Ethereum team at the Miami house](/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg)
 
-*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top row: [Dino Mark](/people/dino-mark/), [Yanislav Malahov](/people/yanislav-malahov/), Charles Hoskinson, [Anthony D'Onofrio](/people/anthony-d-onofrio/), [Steve Dakh](/people/steve-dakh/), [Wendell Davis](/people/wendell-davis/), [Jonathan Mohan](/people/jonathan-mohan/), [Joseph Lubin](/people/joe-lubin/), Louis Parker. Bottom row: [Gavin Wood](/people/gavin-wood/), [Vitalik Buterin](/people/vitalik-buterin/), Anthony Di Iorio, [Taylor Gerring](/people/taylor-gerring/), [Jason Colby](/people/jason-colby/), [Kyle Kurbegovich](/people/kyle-kurbegovich/) - from [Taylor Gerring's photos](/articles/taylor-gerring-photos/))*
+*(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top row: Dino Mark, Yanislav Malahov, Charles Hoskinson, Anthony D'Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, [Joseph Lubin](/people/joe-lubin/), Louis Parker. Bottom row: Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich - from [Taylor Gerring's photos](/articles/taylor-gerring-photos/))*
 
 <h3 id="devcon0-archive-timeline">DEVCON0, the archive, and the timeline</h3>
 

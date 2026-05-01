@@ -2701,6 +2701,22 @@ main {
     height: 100%;
 }
 
+.content-embed-poster {
+    position: absolute;
+    inset: 0;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none;
+    object-fit: cover;
+    display: block;
+}
+
+.content-embed-archived-fallback {
+    position: absolute;
+    inset: 0;
+    background: #000;
+}
+
 .content-embed-meta {
     padding: 12px;
     background: var(--bg-card);

@@ -20,7 +20,7 @@ table_of_contents:
   - link: "#atms-conferences-and-mining"
     title: "ATMs, early conferences, and why he never mined"
   - link: "#rush-wallet-kryptokit-and-jaxx"
-    title: "Rush Wallet, KryptoKit, and the road to Jaxx"
+    title: "RUSHWALLET, KryptoKit, and the road to Jaxx"
   - link: "#bitcoin-decentral-and-the-first-atm"
     title: "Bitcoin Decentral and Toronto's Bitcoin ATM"
   - link: "#forming-the-early-ethereum-team"
@@ -104,7 +104,7 @@ And I grasped it right away from my technology background and from just, it was 
   url="https://www.youtube.com/watch?v=VQ1nTUFkIiA"
   img="https://i.ytimg.com/vi/VQ1nTUFkIiA/hqdefault.jpg"
   title="Mark Edge Interview: Free Talk Live, Early days of Bitcoin & What the Future might hold"
-  description="Mark Edge and Roger Ver talk about how they heard about Bitcoin, what they liked about it, how Mark met Gavin Andresen (the person Satoshi handed over the Bitcoin project to), and how they see the future."
+  description="Mark Edge and [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) talk about how they heard about Bitcoin, what they liked about it, how Mark met Gavin Andresen (the person Satoshi handed over the Bitcoin project to), and how they see the future."
   author="Bitcoin.com - Official Channel"
   date="2019-08-21"
 %}
@@ -174,19 +174,27 @@ With that to really advance our enthusiasm and advance our work with what we saw
 
 So it was something that I wanted to pursue and it was a great time. Perfect time for me to do this with my skill set and my business background. And it was a perfect opportunity there. So that was my first foray and first start into Bitcoin.
 
-**[9:35] Bob Summerwill:** Right, right. So yeah, I was looking back for some dates and things for these. So for the 2012 [Free Talk Live](https://blog.freetalklive.com/) episode, I think it might have been an interview and sort of little panel that Roger Ver did at [PorcFest](https://porcfest.com/) 2012. So Porcfest, that's also kind of associated with the [Free State Project](https://www.fsp.org/), right? Kind of overlapping people on that event.
+**[9:35] Bob Summerwill:** Right, right. So yeah, I was looking back for some dates and things for these. So for the 2012 [Free Talk Live](https://blog.freetalklive.com/) episode, I think it might have been an interview and sort of little panel that [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) did at [PorcFest](https://porcfest.com/) 2012. So Porcfest, that's also kind of associated with the [Free State Project](https://www.fsp.org/), right? Kind of overlapping people on that event.
 
 **[10:11] Anthony Di Iorio:** Well, let's see. The idea of porcupine is the idea of don't tread on us or we bite back. It's the porcupine is kind of the animal that's representative of the state. So yeah, it could have been that. But they also talked about Bitcoin quite a bit on the show. So.
 
-**[10:31] Bob Summerwill:** Yeah, I mean, I was seeing the very first mention apparently was December 2010. And you'd mentioned Gavin Andresen as probably the first contact that that group had with Bitcoin. So when did you yourself first meet other bitcoiners like Roger Ver and Erik Voorhees and others?
+**[10:31] Bob Summerwill:** Yeah, I mean, I was seeing the very first mention apparently was December 2010. And you'd mentioned Gavin Andresen as probably the first contact that that group had with Bitcoin. So when did you yourself first meet other bitcoiners like [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees) and others?
 
 **[11:04] Anthony Di Iorio:** So the meetup I started in late 2012. I think it was early 2013 that I went to the [Liberty Forum](https://nhlibertyforum.com/) in New Hampshire.
 
-*(Bob - New Hampshire Liberty Forum 2013 was held February 21-24, 2013, at the Crown Plaza in Nishua, NH)*
+*(Bob - [New Hampshire Liberty Forum 2013](https://web.archive.org/web/20130222172821/http://freestateproject.org/libertyforum) was held February 21-24, 2013, at the Crown Plaza in Nishua, NH)*
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20130222172821/http://freestateproject.org/libertyforum"
+  title="New Hampshire Liberty Forum 2013"
+  date="2013-02-21"
+  site="freestateproject.org"
+  img="/images/web.archive.org/2013.02.22/freestateproject.org/files/images/LF-card-banner.png"
+%}
 
 I drove down there with a friend of mine down to Boston. He had some family down there. And we specifically went to go see the [Liberty Forum](https://nhlibertyforum.com/), which is the other kind of big fest, big event aside from [PorcFest](https://porcfest.com/), the other big event in New Hampshire or one of the other events in New Hampshire.
 
-So I specifically went down there to that event knowing there was a big Bitcoin part of that event with the merchants accepting Bitcoin. And it was a panel with [Charlie Shrem](https://en.wikipedia.org/wiki/Charlie_Shrem), Roger Ver and Erik Voorhees.
+So I specifically went down there to that event knowing there was a big Bitcoin part of that event with the merchants accepting Bitcoin. And it was a panel with [Charlie Shrem](https://en.wikipedia.org/wiki/Charlie_Shrem), [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees).
 
 So I'm this nobody there. I've heard about them already and I'm just absorbing and just learning so much about this stuff. So that was my first kind of meeting with those three there. They wouldn't have remembered me from back then, but that was kind of my first effort to go outside of Toronto here and take the time to go to the US and to go to an event that was very themed very much around liberty, around Bitcoin.
 
@@ -262,7 +270,16 @@ And I spent the next number of months kind of traveling the world, representing 
 
 And along the way I was seeing Vitalik Buterin, who had also dropped out of university. He had dropped out of university. At the time, he was traveling around the world working on this and exploring different various Bitcoin projects and initiatives. So I would run into him at different conferences. Like I ran into him in [Moe Levin's event in Amsterdam](https://bitcoinmagazine.com/industry-events/bitcoiners-from-around-the-world-meet-in-amsterdam-1380482873) ("Bitcoin EU Convention 2013", 26th to 28th September 2013) and in a number of other.
 
-He was coming to the meetups and I would. So we kind of just got to know each other and he was starting to work on my wallet company, KryptoKit and Rush Wallet, helping me out with that. So I just kind of got to know this kid over the next number of months.
+{% include content-embed.html
+  url="https://bitcoinmagazine.com/industry-events/bitcoiners-from-around-the-world-meet-in-amsterdam-1380482873"
+  title="Bitcoiners From Around the World Meet in Amsterdam"
+  author="Vitalik Buterin"
+  date="2013-09-29"
+  site="Bitcoin Magazine"
+  img="/images/bitcoinmagazine.com/2026.04.30/wp-content/uploads/2024/11/bitcoiners-from-around-the-world-meet-in-amsterdam-696x522.jpg"
+%}
+
+He was coming to the meetups and I would. So we kind of just got to know each other and he was starting to work on my wallet company, KryptoKit and [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/), helping me out with that. So I just kind of got to know this kid over the next number of months.
 
 And seeing his progression from the first meetup, he was barely shy enough to say a word. Like he really was very, very timid and reserved and almost like just very, very. And then to see him months later on stage in Amsterdam and he had been writing a lot on [Bitcoin Magazine](https://bitcoinmagazine.com/) at the time and progressing his writing skills. And I just saw him kind of starting to flourish into the speaker, into the things.
 
@@ -348,7 +365,7 @@ And I'm seeing here now the North American Bitcoin Conference. November. That wa
 
 **[25:50] Bob Summerwill:** That's right.
 
-<h3 id="rush-wallet-kryptokit-and-jaxx">Rush Wallet, KryptoKit, and the road to Jaxx</h3>
+<h3 id="rush-wallet-kryptokit-and-jaxx">RUSHWALLET, KryptoKit, and the road to Jaxx</h3>
 
 **[25:51] Anthony Di Iorio:** Don't want to jump. Yeah, but still 2013. Just sold the company, the gambling site. And then Steve Dakh and I realized we've got a wallet here. We've got, people are depositing funds into the game. We give them, we gave them a secret URL. That's how they would get into their account.
 
@@ -356,7 +373,15 @@ We don't like passwords, we don't like logins. So our systems always worked with
 
 And we said, well, hey, we got a wallet here. Why don't we, at the time there was a wallet company that got hacked. Not Freewall. No. Oh, what was it called? It gotten hacked. And they were holding people's funds. And we said hey, let's make a wallet where you're not holding people's money.
 
-So that's what we did. We came up with a product called Rush Wallet and the idea of an instant Bitcoin wallet where you go to an address and you get a secret URL and you can create a thousand of them if you want. It's disposable if you want and you're not holding the keys. It's all client side. You could do it offline to get your keys and you could send the product.
+So that's what we did. We came up with a product called [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) and the idea of an instant Bitcoin wallet where you go to an address and you get a secret URL and you can create a thousand of them if you want. It's disposable if you want and you're not holding the keys. It's all client side. You could do it offline to get your keys and you could send the product.
+
+{% include content-embed.html
+  url="https://web.archive.org/web/20140914083307/https://rushwallet.com/"
+  title="RUSHWALLET.com"
+  date="2013-05-27"
+  site="rushwallet.com"
+  img="/images/rushwallet.com/2013.05.27/rushwallet.png"
+%}
 
 And we don't want to hold your money. That just goes against the ethos of the space and never want to hold people's money. So this wallet failing that was holding people's money, we said, why don't we do one that's not holding people's money and people can hold their own.
 
@@ -400,7 +425,7 @@ So we had this relationship with Apple which was pretty interesting as well.
 
 **[30:55] Anthony Di Iorio:** Right. Ripe for disruption when you're doing things like that, I tell you.
 
-**[30:58] Bob Summerwill:** Absolutely. But yeah, it's interesting that that browser route was kind of the workaround. So yeah, you were very busy in 2013. I was just again looking for some of these dates. And it looks like Rush Wallet actually started a little bit earlier than Satoshi Circle.
+**[30:58] Bob Summerwill:** Absolutely. But yeah, it's interesting that that browser route was kind of the workaround. So yeah, you were very busy in 2013. I was just again looking for some of these dates. And it looks like [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) actually started a little bit earlier than Satoshi Circle.
 
 **[31:18] Anthony Di Iorio:** No, no, it would. No, it definitely wouldn't have been out. No, no, definitely not. We didn't consider doing the wallets till after, what,
 
@@ -408,11 +433,11 @@ So we had this relationship with Apple which was pretty interesting as well.
 
 **[31:39] Anthony Di Iorio:** Of what? Of which?
 
-**[31:40] Bob Summerwill:** Of Rush Wallet.
+**[31:40] Bob Summerwill:** Of [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/).
 
 **[31:41] Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later.
 
-And then I sold it a few months later and then started working on the wallets and started out with Rush Wallet and that Rush Wallet turned into KryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
+And then I sold it a few months later and then started working on the wallets and started out with [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) and that [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) turned into KryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
 
 *(Bob - Satoshi Circle was released in March 2013.  RUSHWALLET's [BitcoinTalk announcement](https://bitcointalk.org/index.php?topic=217112.0) was May 2013) and KryptoKit was [December 2013](https://bitcoinmagazine.com/business/kryptokit-easy-to-use-in-browser-bitcoin-and-messaging-for-the-masses-1386742599))*
 
@@ -480,7 +505,11 @@ Launched January 1, 2014. I did a meetup and you'll find all kinds of newspaper 
   name="CoinTalk 013 - Bitcoin Decentral Launch Party!"
 %}
 
-And another gentleman happened to show up who had been in town visiting his parents over the Christmas holidays. And we met him and he seemed quite interesting and we invited him back. Vitalik Buterin invited him back to the space a couple days later and this turned out to be Joseph Lubin.
+And another gentleman happened to show up who had been in town visiting his parents over the Christmas holidays. And we met him and he seemed quite interesting and we invited him back. Vitalik Buterin invited him back to the space a couple days later and this turned out to be [Joseph Lubin](/people/joe-lubin).
+
+![Joe Lubin at Bitcoin Decentral launch party](/images/x.com/2026.04.30/BobSummerwill/status/2034640606899909046/photo/1/HDx9u7Za0AAjGej.jpg)
+
+*(Bob - Joe is the left-hand bald guy in this photo, not the most prominent bald one)*
 
 And [Joe](/people/joe-lubin) had been living in Jamaica, manager for a Jamaican singer at the time I believe, and had I think retired off of Wall Street and just visiting Toronto. Had an interest in Bitcoin and thought he was a really interesting guy and we connected very well with the team.
 
@@ -505,6 +534,16 @@ But he was, it was the meetup that drew him in. That happened to be the same tim
 **[40:50] Anthony Di Iorio:** Yeah, he. The start of his book actually. At the start of his book, William Mougayar's book, it actually, I think the first part is about him going up the steps of [Bitcoin Decentral](https://decentral.ca/) at the meetup that I was doing. I think that's his Blockchain for Business. What was it called? Blockchain for Business.
 
 **[41:04] Bob Summerwill:** Yeah, that's right.
+
+*(Bob - It was actually called The Business Blockchain)*
+
+{% include content-embed.html
+  url="https://www.oreilly.com/library/view/the-business-blockchain/9781119300311/"
+  title="The Business Blockchain"
+  author="William Mougayar"
+  date="2016-05-09"
+  img="/images/imageio.forbes.com/blogs-images/laurashin/files/2016/05/Mougayar-book-1200x577.jpg"
+%}
 
 **[41:06] Anthony Di Iorio:** Yeah, yeah. So that's, yeah. He mentions that when he meets Vitalik Buterin for the first time. It's at the meetup thing. So yeah, yeah. William was a heavy part of Decentral and Kyle Kurbegovich was co-working I think out of Decentral, at [Bitcoin Decentral](https://decentral.ca/), and a bunch of other people. It was kind of a, it became that kind of co-working space. My businesses were brought there and it became the first home of Ethereum. It's the first address. First home of Ethereum was Bitcoin Decentral and first company started.
 
@@ -636,7 +675,11 @@ And then, yeah, the Miami house was a lot of fun. We had some, we had, Gavin Woo
 
 And that's kind of the famous picture, one of the few pictures I've had. I've lost so much stuff. Like, I brought Kyle Kurbegovich down to do the video. I paid him to film everything. I don't have that stuff. I have so little from back in the day.
 
-But I have that one photo that [Gianni D'Alerta](https://x.com/GianniDalerta) took. I think [Gianni](https://x.com/GianniDalerta) took it. That one when we're on the couch there with myself and Charles Hoskinson and [Joe Lubin](/people/joe-lubin/) and Vitalik Buterin. I don't know if, in the Miami house.
+But I have that one photo that Gianni Dalerta took. I think Gianni took it. That one when we're on the couch there with myself and Charles Hoskinson and [Joe Lubin](/people/joe-lubin/) and Vitalik Buterin. I don't know if, in the Miami house.
+
+![Gianni Dalerta](/images/x.com/2026.04.30/GianniDalerta/status/1368074939966910467/photo/1/Evxg2K3XMAARFwk.jpeg)
+
+*(Jonathan Mohan, Unknown, Joe Lubin, Kyle Kurbegovich, Unknown, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, Unknown, Charles Hoskinson)*
 
 But I don't, I have very, very, very little stuff and would love to see more stuff, but I have so little because even back then, even the mobile phones and moving the photos and stages, literally very, very little stuff, which is unfortunate.
 

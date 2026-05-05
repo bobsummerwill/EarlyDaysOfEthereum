@@ -25,6 +25,12 @@ Gavin started building the C++ implementation of Ethereum just days after Christ
 
 > "Various other people sort of joined in on the efforts in December, including Gav and Jeff who started the C++ and Go clients, respectively, at the very end—at the very end of December, kind of Christmas projects for them both." — Bob Summerwill
 
+## Miami
+
+Episode 14 adds Anthony Di Iorio's account of how Gavin got to the January 2014 Miami conference. According to Di Iorio, Vitalik Buterin told him there was a promising developer in the UK who could not afford the trip, and Di Iorio paid for Gavin's ticket.
+
+Di Iorio also recalls that Miami was the first time he met Gavin in person and describes him as the workhorse of the house. While others were socializing, Gavin was coding intensely and, in Di Iorio's telling, got the first proof of concept out there.
+
 ## The Yellow Paper
 
 In April 2014, Gavin published the [Yellow Paper](/articles/yellow-paper/)—the formal mathematical specification of the Ethereum protocol. This document provided the rigorous technical foundation that enabled multiple independent implementations to achieve consensus.
@@ -65,7 +71,7 @@ Christoph Jentzsch observed the contrast between development styles:
 
 > "There was always a fight between Geth and the C++ team about who's the best. And Gavin was having a big ego. And Jeff was more like, just give me the new spec, I just code it." — Christoph Jentzsch
 
-Fabian Vogelsteller, hired by Jeff's Amsterdam team but sitting in Gavin's Berlin C++ office, experienced the team dynamics firsthand:
+Fabian Vogelsteller, hired by Jeff Wilcke's Amsterdam team but sitting in Gavin's Berlin C++ office, experienced the team dynamics firsthand:
 
 > "I also realized that Jeffrey's team and Gavin's team was a little disconnected... Gavin really wanted to kind of keep everybody under a bucket and he didn't want that we talked to this team. But I kind of found back ways and back channels to make them sync up." — Fabian Vogelsteller ([Episode 12](/videos/episode012-fabian-vogelsteller/))
 
@@ -79,11 +85,11 @@ Gavin organized [DEVCON0](/articles/devcon0/), the first Ethereum developer symp
 
 ## The Red Wedding
 
-Gavin was present at the June 2014 "[Red Wedding](/articles/red-wedding/)" meeting in Zug where Charles Hoskinson and Amir Chetrit were removed from leadership. He remained part of the continuing leadership group alongside Vitalik Buterin, Jeff Wilcke, Joe Lubin, and Anthony Di Iorio.
+Gavin was present at the June 2014 [Red Wedding](/articles/red-wedding/) meeting in Zug where Charles Hoskinson and Amir Chetrit were removed from leadership. He remained part of the continuing leadership group alongside Vitalik Buterin, Jeff Wilcke, Joe Lubin, and Anthony Di Iorio.
 
 ## Departure and Ethcore
 
-During the Ethereum Foundation's 2015 funding crisis, tensions grew. Jacob Czepluch observed the early formation of what would become Ethcore:
+During the Ethereum Foundation's 2015 funding crisis, tensions grew. Jacob Czepluch observed the early formation of what would become [Ethcore](/articles/ethcore/):
 
 > "Sitting as the only person working on the Python client in that office in my small corner, I had a lot of fun kind of following how people came and went and went into Gavin's office and had a chat there with him and Jutta or whatever."
 
@@ -104,3 +110,4 @@ This profile draws from multiple Early Days of Ethereum sources:
 - [Episode 7](/videos/episode007-jacob-czepluch/) with Jacob Czepluch
 - [Episode 12](/videos/episode012-fabian-vogelsteller/) with Fabian Vogelsteller
 - [Episode 13](/videos/episode013-alex-van-de-sande/) with Alex van de Sande
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)

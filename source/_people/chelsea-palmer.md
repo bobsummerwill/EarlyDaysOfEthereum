@@ -28,7 +28,7 @@ She focused on outreach and making blockchain accessible to newcomers:
 
 ## Broader Ethereum Community
 
-Chelsea was active in the wider Ethereum community, attending and organizing events. In October 2018, she hosted a discussion on radical exchange economics with Glen Weyl and [Bob Summerwill](/people/bob-summerwill/) at Microsoft's Vancouver offices.
+Chelsea was active in the wider Ethereum community, attending and organizing events. In October 2018, she hosted a discussion on radical exchange economics with Glen Weyl and Bob Summerwill at Microsoft's Vancouver offices.
 
 {% include content-embed.html
   url="https://medium.com/wearekickback/devcon4-prep-reading-series-interview-with-chelsea-palmer-about-spankchain-doge-and-diversity-db5055d7d882"

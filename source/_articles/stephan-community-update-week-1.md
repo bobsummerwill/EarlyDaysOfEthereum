@@ -65,4 +65,4 @@ And of course, last but not least, expect a major refresh to our website, with b
 
 The question we're going to continue asking ourselves everyday is how do we support you, the community, in building kick-ass dapps and being successful in your venture on our platform. I hope the above gives you a quick intro as to our plans. I'll be issuing regular updates both on this blog and on our youtube.
 
-Stephan (stephan.nospam.tual@ethdev.com)
+[Stephan](/people/stephan-tual/) (stephan.nospam.tual@ethdev.com)

@@ -8,9 +8,9 @@ Whisper (protocol name: SHH) was the peer-to-peer messaging protocol designed to
 
 ## Origins
 
-The protocol was conceived in May 2014 as part of [Gavin Wood](/people/gavin-wood/)'s Web3 vision, first presented at meetups in London's East End. The name "Whisper" and protocol identifier "SHH" were part of [Vitalik Buterin](/people/vitalik-buterin/)'s playful naming conventions - along with "BZZ" for Swarm, these names used Icelandic-inspired letters and onomatopoeia.
+The protocol was conceived in May 2014 as part of Gavin Wood's Web3 vision, first presented at meetups in London's East End. The name "Whisper" and protocol identifier "SHH" were part of Vitalik Buterin's playful naming conventions - along with "BZZ" for Swarm, these names used Icelandic-inspired letters and onomatopoeia.
 
-[Viktor Trón](/people/viktor-tron/) recalled in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/):
+Viktor Trón recalled in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/):
 
 > "That's when BZZ, SSH was invented. Also Vitalik's gimmicks."
 
@@ -28,13 +28,13 @@ The protocol used a flooding approach where messages propagated through the netw
 
 ## Development
 
-[Vlad Gluhovsky](/people/vlad-gluhovsky/) was the primary developer of Whisper, working on the protocol from 2015. The protocol went through several versions:
+Vlad Gluhovsky was the primary developer of Whisper, working on the protocol from 2015. The protocol went through several versions:
 
 - **Whisper v2** - Early implementation in Geth
 - **Whisper v5** - Major revision with improved efficiency
 - **Whisper v6** - Final version before deprecation
 
-Vlad presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) with [Guillaume Ballet](/people/guillaume-ballet/), explaining the protocol's privacy properties and technical architecture.
+Vlad presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) with Guillaume Ballet, explaining the protocol's privacy properties and technical architecture.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/koZizelOUeI"

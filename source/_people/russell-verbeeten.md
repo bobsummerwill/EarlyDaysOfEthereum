@@ -15,16 +15,16 @@ Russell Verbeeten was an early Ethereum team member focused on education. He was
 
 ## CryptoCurrency Certification Consortium (C4)
 
-Russell was a co-founder and Director of the CryptoCurrency Certification Consortium (C4), where he worked alongside [Michael Perklin](/people/michael-perklin/) to create the Certified Bitcoin Professional (CBP) certification. Russell had been independently looking to start an education project in the Bitcoin space when he connected with Perklin and Joshua McDougall.
+Russell was a co-founder and Director of the CryptoCurrency Certification Consortium (C4), where he worked alongside Michael Perklin to create the Certified Bitcoin Professional (CBP) certification. Russell had been independently looking to start an education project in the Bitcoin space when he connected with Perklin and Joshua McDougall.
 
 The CBP committee that defined the certification included several people connected to the early Ethereum project:
 
-- [Vitalik Buterin](/people/vitalik-buterin/)
-- [Steve Dakh](/people/steve-dakh/) (KryptoKit, RushWallet)
-- [Anthony Di Iorio](/people/anthony-di-iorio/) (Decentral, KryptoKit)
-- [Charles Hoskinson](/people/charles-hoskinson/) (Bitcoin Education Project)
-- [Peter Todd](/people/peter-todd/) (Bitcoin Core Developer)
-- [Ethan Wilding](/people/ethan-wilding/) (Decentral)
+- Vitalik Buterin
+- Steve Dakh (KryptoKit, RushWallet)
+- Anthony Di Iorio (Decentral, KryptoKit)
+- Charles Hoskinson (Bitcoin Education Project)
+- Peter Todd (Bitcoin Core Developer)
+- Ethan Wilding (Decentral)
 
 {% include content-embed.html
   url="https://blog.cryptoconsortium.org/how-we-defined-the-certified-bitcoin-professional/"

@@ -9,7 +9,7 @@ social:
   twitter: https://x.com/crainbf
 ---
 
-Brian Fabian Crain co-hosted the 2018 [Epicenter interview with Gavin Wood](/videos/gavin-wood-substrate-polkadot-on-chain-governance/) alongside [Meher Roy](/people/meher-roy/). In the introduction, Brian described [Chorus One](https://chorus.one/) as the pair's main focus since the end of the previous year and framed their work on validators and staking infrastructure as part of the context for the conversation about [Polkadot](https://polkadot.network/).
+Brian Fabian Crain co-hosted the 2018 [Epicenter interview with Gavin Wood](/videos/gavin-wood-substrate-polkadot-on-chain-governance/) alongside Meher Roy. In the introduction, Brian described [Chorus One](https://chorus.one/) as the pair's main focus since the end of the previous year and framed their work on validators and staking infrastructure as part of the context for the conversation about [Polkadot](https://polkadot.network/).
 
 ## Primary Sources
 

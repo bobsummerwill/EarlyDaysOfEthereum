@@ -8,7 +8,7 @@ devp2p is the peer-to-peer networking protocol stack developed for Ethereum, han
 
 ## Origins
 
-The devp2p protocol emerged from early 2014 development work, with [Alex Leverington](/people/alex-leverington/) being a key contributor to the design. [Viktor Trón](/people/viktor-tron/) recalled working on devp2p specs after meeting Alex at [DEVCON0](/articles/devcon0/):
+The devp2p protocol emerged from early 2014 development work, with Alex Leverington being a key contributor to the design. Viktor Trón recalled working on devp2p specs after meeting Alex at [DEVCON0](/articles/devcon0/):
 
 > "Especially special memory is my meeting with Alex Leverington... the peer to peer fame. Yeah, very interesting. We had lots of discussions. Yeah, very adamant on, very stubborn with his own way of thinking about the protocol."
 
@@ -24,7 +24,7 @@ The protocol runs over TCP and uses ECIES for encryption and node identity based
 
 ## "Not Invented Here"
 
-[Viktor Trón](/people/viktor-tron/) noted in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/) that Ethereum suffered from "not invented here" syndrome:
+Viktor Trón noted in his [Early Days of Ethereum interview](/videos/episode010-viktor-tron/) that Ethereum suffered from "not invented here" syndrome:
 
 > "You know how Ethereum kind of suffered like this kind of, what's the word for this?... Not invented here syndrome... the RLP, RLPx stuff. Then we have their own serialization protocol, like the devp2p as well."
 

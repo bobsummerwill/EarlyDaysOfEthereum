@@ -1,6 +1,6 @@
 ---
 name: David Johnston
-description: BitAngels co-founder, early blockchain investor, coined the term "Dapps"
+description: Mastercoin and BitAngels organizer in Ethereum's early conference orbit
 photo: /images/custom-images.strikinglycdn.com/2026.01.05/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/170364/149100_501598.jpeg
 social:
   github: https://github.com/DavidAJohnston
@@ -10,8 +10,16 @@ social:
   medium: https://djohnstonec.medium.com/
 ---
 
-David Johnston is an early Bitcoin and blockchain entrepreneur who co-founded the BitAngels Network in May 2013, one of the first angel investor groups focused on cryptocurrency and blockchain startups. He is credited with coining the term "Decentralized Applications" (Dapps) in 2013.
+David Johnston appears in the Early Days of Ethereum sources as an important counterpart in the broader "cryptocurrency 2.0" scene rather than as an Ethereum insider.
 
-Johnston co-founded the Dapp Fund in early 2014 and later established Yeoman's Capital, his family office, in 2016. He went on to lead strategy at DLTx, a publicly traded company, in 2021.
+The key source is the [CoinTalk BTCMiami debate](/videos/cointalk-015-btcmiami-debate/), where Johnston introduced himself as executive director of BitAngels and a board director of the [Mastercoin Foundation](https://www.omnilayer.org/). He shared that stage with Charles Hoskinson and [Dan Larimer](https://en.wikipedia.org/wiki/Dan_Larimer), making him one of the principal representatives of the other major programmable-blockchain direction Ethereum was being compared against in early 2014.
 
-In the early Ethereum ecosystem, Johnston was an active participant in the broader Bitcoin and cryptocurrency community during the period when Ethereum was being conceived and launched. He had prior experience founding multiple technology startups, including a multi-million dollar renewable energy project at age 19.
+Episode 14 with Anthony Di Iorio confirms that this debate was remembered inside the Ethereum camp as one of the marquee side events around Miami. The [Bitcoin Expo 2014](/articles/bitcoin-expo/) page then places Johnston in Toronto a few months later as part of the same conference circuit through which Ethereum was building recognition.
+
+So the repo-local picture is straightforward: David Johnston mattered because he represented one of the strongest adjacent alternatives at the moment Ethereum was entering public view.
+
+## Primary Sources
+
+- [CoinTalk 015 - BTCMiami Debate Featuring Ethereum, Mastercoin and Bitshares](/videos/cointalk-015-btcmiami-debate/)
+- [Episode 14: Anthony Di Iorio](/videos/episode014-anthony-di-iorio/)
+- [Bitcoin Expo 2014](/articles/bitcoin-expo/)

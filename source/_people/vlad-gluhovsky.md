@@ -19,7 +19,7 @@ Working on Whisper from 2015, Vlad developed the protocol through several major 
 
 The protocol was designed for "dark, ephemeral communication" - messages could not be traced to their origin, were not permanently stored, and provided plausible deniability. This privacy-focused approach used a flooding mechanism where nodes received many messages they couldn't decrypt, providing cover traffic that obscured communication patterns.
 
-Vlad presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) with [Guillaume Ballet](/people/guillaume-ballet/), explaining the protocol's privacy properties and technical architecture:
+Vlad presented "Whisper: Achieving Darkness" at Devcon 3 in Cancún (November 2017) with Guillaume Ballet, explaining the protocol's privacy properties and technical architecture:
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/koZizelOUeI"

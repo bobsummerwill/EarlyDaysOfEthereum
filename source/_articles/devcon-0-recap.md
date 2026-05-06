@@ -5,13 +5,15 @@ author: George Hallam
 description: "A comprehensive recap of the first Ethereum developer conference held in Berlin from November 24-28, 2014, covering mission, processes, languages, ÐApps, architecture, security, and future blockchain theory"
 embed:
   url: https://blog.ethereum.org/2014/12/05/devcon-0-recap
-  img: /images/blog.ethereum.org/2026.01.05/blog_images/DEV-CON-POSTERSblog.jpg
+  img: /images/blog.ethereum.org/2026.05.05/images/posts/DEV-CON-POSTERSblog.jpg
   site: Ethereum Foundation Blog
 ---
 
 **Day 1 - Monday 24th Nov - ÐΞV: Mission and Processes**
 
 The first day of ÐΞVcon-0 kicked off early at 7am with the Ethereum UK communications team arriving at the venue (Ethereum Dev UG's workspace in Kreuzberg, Berlin) to set up the 4K high quality recording equipment and arrange the space for the event.
+
+![Before set-up](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6467-16.jpeg)
 
 After a quick coffee and croissant/pain au chocolat, everyone was ready for the first presentation - "Ethereum ÐΞVcon-0 - Gavin: Welcome! Our mission: ÐApps" which was delivered by Gavin Wood. [Gavin](/people/gavin-wood/) made it very clear within this presentation the need for decentralised applications in today's society with two very powerful opening quotes, "Progress has led to the concentration of power" and "Our mission therefore is decentralisation". Following the presentation on ÐApps, [Gavin](/people/gavin-wood/) invited everyone present to introduce themselves and explain their roles in Ethereum. It was humbling to see how Ethereum has attracted such a magnificent team of incredibly talented people from such a wide variety of backgrounds.
 
@@ -21,9 +23,13 @@ After a quick coffee and croissant/pain au chocolat, everyone was ready for the 
 
 Next up, Stephan Tual gave a talk highlighting the important role of the UK based communications team in building a strong and populous Ethereum community. He also touched on the streamlining of internal communications procedures to maximise Ethereum's core team efficiency. With 81 Ethereum meetup/hackathons taking place from Tehran to New York and with over 6000 members worldwide, the Ethereum community has grown exponentially over the past 11 months. Still, there is always more to be done. With the inclusion of 4 new members to the team, new educational tools on the horizon and increased interaction with the community, [Stephan](/people/stephan-tual/) hopes Ethereum can become a worldwide phenomenon as we move forward to the release of the genesis block.
 
+![IMG_6668](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6668.jpeg)
+
 **--> MISSING VIDEO <--**
 
 Straight after [Stephan](/people/stephan-tual/)'s talk, Sven Ehlert gave an insightful presentation on how Scrum and Agile will be utilised to again maximise the efficiency of Ethereum's software development. This will be achieved by focusing on the key elements of the "product" that are needed for completion, and by applying incremental development goals with short deadlines for each of the individual developer teams (Mist, C++, Solidity etc). This will hopefully increase the overall output whilst breaking down what is a truly enormous project into manageable pieces.
+
+![Sven](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6684-26.jpeg)
 
 {% include video-embed.html
   name="Ethereum ÐΞVcon-0 - How will Scrum work for us?"
@@ -32,6 +38,8 @@ Straight after [Stephan](/people/stephan-tual/)'s talk, Sven Ehlert gave an insi
 **(NB: This one was not on the DEVCON0 playlist but was on YouTube)**
 
 Finally to cap off the first day, Alex van de Sande gave an update on Mist, the Ethereum Go client's ÐApp Navigator. As many of you will have seen in [Alex](/people/alex-van-de-sande/)'s recent Mist presentation, the ÐApp Navigator will be an incredibly useful and powerful tool for people looking to interact with Ethereum and will really help make it accessible and easy to use by everyone from the outset - which is of course important for swift adoption.
+
+![Alex](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6775-30.jpeg)
 
 **--> MISSING VIDEO <--**
 
@@ -45,6 +53,8 @@ After Monday's introduction and team updates, day 2 would focus strongly on the 
 
 This was followed by a brief chat from [Gavin](/people/gavin-wood/) this time focusing on the importance of secure documentation in ÐApp Development. The concept is to intertwine documentation and code in Solidity so that the documentation can be used by the client to alert the user of any significant actions that may take place as a consequence of running the code in certain smart contracts.
 
+![Gav blog-44](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/Gav-blog-44.jpg)
+
 **--> MISSING VIDEO?  OR PART OF THE SAME TALK? <--**
 
 Marek Kotewicz then gave an update on the Javascript API in a workshop setting allowing a lot of to-and-fro with the audience. He explained how it works, how to use it with smart contracts and what tools will be available to enable its use and uptake in the future.
@@ -52,6 +62,8 @@ Marek Kotewicz then gave an update on the Javascript API in a workshop setting a
 **--> MISSING VIDEO <--**
 
 After lunch, Piotr Zieliński presented on Golem, a project that aims to use Ethereum to coordinate a P2P distributed computation network for research use. Participants of the network share their computing power and in return receive a token of worth, incentivising their continued participation. Users can also access the resources to implement their own tasks and distribute them across the network.
+
+![Golem](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6830-34.jpeg)
 
 {% include video-embed.html
   name="Ethereum ÐΞVcon-0: Golem"
@@ -77,6 +89,8 @@ Wednesday's presentation and panel content offered a great opportunity to get th
 
 The morning commenced with Vinay Gupta leading a workshop which had everyone present trying to come up with a definitive answer to "What is Ethereum?". It turns out it's not as easy as we thought! Each person had a chance to stand up and offer their own personal 30 second definition on what Ethereum is. The answers were diverse, and it was interesting to see how people changed their angle of approach depending on which audience the explanation was aimed at.
 
+![Blog Collage-55](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/Blog-Collage-55.jpg)
+
 {% include video-embed.html
   name="Ethereum ÐΞVcon-0: How to Sell Ideas"
 %}
@@ -85,9 +99,13 @@ The morning commenced with Vinay Gupta leading a workshop which had everyone pre
 
 Following Vinay's workshop, Martin Becze brought everyone up to speed with node-ethereum - a Node.js project he has been working on with Joseph Chow in Palo Alto. The talk started by outlining the ethereumjs-lib and node-etheruem's architecture, then focused on areas where the client differs in structure from the other C++, Go and Python client implementations. Jeff Wilcke also gave a brief update on Ethereum Go client on the whiteboard before the panel discussion.
 
+![Martin](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_6921-57.jpeg)
+
 **--> MISSING VIDEO <--**
 
 The presentation space was then rearranged for the panel with Gavin Wood (Ethereum C++), Jeff Wilcke (Ethereum Go), Heiko Hees (Pythereum) and Martin Becze (Node-Ethereum). Each took turns outlining how each client handles state transactions, moves account balances, runs the EVM and saves data to accounts whilst handling sucides and out-of-gas exceptions. Questions where then posed by the audience, discussions continued on late into the night as day 3 drew to a close.
+
+![Client panel-61](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/Client-panel-61.jpg)
 
 **--> MISSING VIDEO <--**
 
@@ -101,9 +119,13 @@ To this end, Sven Ehlert, Jutta Steiner and Heiko Hees kicked off the morning wi
 
 After the workshop, Christoph Jentzsch presented on the why and how of unit testing in the Ethereum project. In his talk, [Christoph](/people/christoph-jentzsch/) described several different types of test that need to be carried out - unit tests, integration tests and system tests. He also explained the different tools available to make it easy for every developer involved in Ethereum to get working on the huge amount of testing that needs to be carried out before it's released.
 
+![Christoph](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_7000.jpeg)
+
 **--> MISSING VIDEO <--**
 
 Next, Jutta Steiner took the stage to deliver a talk on "Achieving Security". She explained how our approach to security is to initiate both an internal audit and a massive external audit with established software security firms, academics, blockchain research firms and companies interested in utilising Ethereum all taking part. [Jutta](/people/jutta-steiner/) is also working on a bounty program which will be open to the community rewarding those who test and explore the protocol and software. We'll be releasing more information on this shortly if you wish to take part.
+
+![IMG_7007-65](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_7007-65.jpeg)
 
 **--> MISSING VIDEO <--**
 
@@ -131,6 +153,8 @@ The fifth and final day of DEVcon 0! After a week of talking about the near futu
 
 Vitalik Buterin and Vlad Zamfir started off day five with a whiteboard presentation on Ethereum 1.x. There are several problems that need to be solved as blockchain technology moves forward in the future - scalability and blockchain interoperability being at the forefront of those issues. The idea of Ethereum interacting with thousands of other blockchains is an attractive one, this in itself solves certain scalability problems in that work can distributed across many chains as opposed to bloating one central chain.
 
+![Vitalik and Vlad](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_7636-69.jpeg)
+
 {% include video-embed.html
   name="Ethereum ÐΞVcon-0: Ethereum 1.x: On blockchain interop and scaling"
 %}
@@ -142,6 +166,8 @@ Vitalik Buterin and Vlad Zamfir started off day five with a whiteboard presentat
 %}
 
 After lunch, Juan Benet of Filecoin/IPFS showed the audience the technology behind IPFS and Bitswap. He also presented some Ethereum/IPFS use cases such as content addressed files, IPNS naming and high performance distributed filesystem and tool integration.
+
+![Juan](/images/blog.ethereum.org/2026.05.05/images/posts/2014/12/IMG_7642-73.jpeg)
 
 **--> MISSING VIDEO <--**
 

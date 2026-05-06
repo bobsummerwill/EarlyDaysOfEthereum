@@ -6,6 +6,8 @@ guests: ["Anthony Di Iorio"]
 hosts: ["Bob Summerwill"]
 description: "Anthony Di Iorio traces his path from Austrian economics, [Free Talk Live](https://blog.freetalklive.com/), and Toronto's first Bitcoin meetup to funding Ethereum with proceeds from Satoshi Circle. He discusses the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/), Rush Wallet and KryptoKit, Bitcoin Decentral, bringing together Ethereum's early founders, the delayed presale, and the tensions that shaped the project's legal structure."
 img: /images/covers-for-conversations/episode014-anthony-di-iorio.png
+embed:
+  url: https://www.youtube.com/embed/498V7UuPpIo
 table_of_contents:
   - link: "#introduction"
     title: "Introduction"
@@ -37,21 +39,27 @@ table_of_contents:
 
 ## Audio
 
+<audio controls style="width: 100%; max-width: 600px;">
+  <source src="/assets/audio/episode014-anthony-di-iorio.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ## Transcript
 
 <!-- TABLE_OF_CONTENTS -->
 
 <h3 id="introduction">Introduction</h3>
 
-**[0:02] Bob Summerwill:** So hello, I'm Bob Summerwill and this is Early Days of Ethereum. So today I'm delighted to have Anthony Di Iorio with us who is a co-founder of Ethereum, a very long time Bitcoin and blockchain advocate in Canada and especially in Toronto. We first met in 2015 when I had the pleasure of attending various of his meetups both in [Bitcoin Decentral](https://decentral.ca/) itself and at the [MaRS Discovery Center](https://www.marsdd.com/). And that was around the time of the launch of Ethereum. But yeah, delighted to have you, [Anthony](/people/anthony-di-iorio/).
+**[00:02](https://www.youtube.com/watch?v=498V7UuPpIo&t=2s) Bob Summerwill:** So hello, I'm Bob Summerwill and this is Early Days of Ethereum. So today I'm delighted to have Anthony Di Iorio with us who is a co-founder of Ethereum, a very long time Bitcoin and blockchain advocate in Canada and especially in Toronto. We first met in 2015 when I had the pleasure of attending various of his meetups both in [Bitcoin Decentral](https://decentral.ca/) itself and at the [MaRS Discovery Center](https://www.marsdd.com/). And that was around the time of the launch of Ethereum. But yeah, delighted to have you, [Anthony](/people/anthony-di-iorio/).
 
-**[0:43] Anthony Di Iorio:** Great to be here, Bob. We finally were able to connect and get this done. So it's good to be speaking with you.
+**[00:43](https://www.youtube.com/watch?v=498V7UuPpIo&t=43s) Anthony Di Iorio:** Great to be here, Bob. We finally were able to connect and get this done. So it's good to be speaking with you.
 
-**[0:48] Bob Summerwill:** Absolutely. So yeah, I mean your Bitcoin and blockchain journey went back several years before that. And then prior to that you obviously had nearby interests. So how did it all start for you?
+**[00:48](https://www.youtube.com/watch?v=498V7UuPpIo&t=48s) Bob Summerwill:** Absolutely. So yeah, I mean your Bitcoin and blockchain journey went back several years before that. And then prior to that you obviously had nearby interests. So how did it all start for you?
 
 <h3 id="discovering-bitcoin-and-liberty">Discovering Bitcoin, Austrian economics, and liberty ideas</h3>
 
-**[1:07] Anthony Di Iorio:** For Bitcoin, to me it was mid 2012 when I first heard about it. I'd like to say, and it's actually not many people, I think Andreas Antonopoulos says that there's not one person that basically says they got it right away. And I can actually say I think I got it right away.
+**[01:07](https://www.youtube.com/watch?v=498V7UuPpIo&t=67s) Anthony Di Iorio:** For Bitcoin, to me it was mid 2012 when I first heard about it. I'd like to say, and it's actually not many people, I think Andreas Antonopoulos says that there's not one person that basically says they got it right away. And I can actually say I think I got it right away.
 
 I have a history of computers going back to the early 80s when I got my first personal computer, on modems before the Internet and [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) boards and just always been that computer tech person, decentralized tech with file sharing, all that stuff through the early 2000s and went to school for business.
 
@@ -119,17 +127,17 @@ And of course you start looking to see if there's anything out there, people tha
 
 <h3 id="toronto-bitcoin-meetups">Toronto's first Bitcoin meetup and early community building</h3>
 
-**[6:10] Bob Summerwill:** Right.
+**[06:10](https://www.youtube.com/watch?v=498V7UuPpIo&t=370s) Bob Summerwill:** Right.
 
-**[6:10] Anthony Di Iorio:** And yeah, and I've been part of the [Mises Institute](https://mises.org/) meetup. I think it's a Mises meetup, so.
+**[06:10](https://www.youtube.com/watch?v=498V7UuPpIo&t=370s) Anthony Di Iorio:** And yeah, and I've been part of the [Mises Institute](https://mises.org/) meetup. I think it's a Mises meetup, so.
 
-**[6:16] Bob Summerwill:** Oh, right, right.
+**[06:16](https://www.youtube.com/watch?v=498V7UuPpIo&t=376s) Bob Summerwill:** Oh, right, right.
 
-**[6:18] Anthony Di Iorio:** So prior to that, I knew about meetup.com and I'd gone to a pub in Toronto called [Paupers Pub](https://pauperspub.com/).
+**[06:18](https://www.youtube.com/watch?v=498V7UuPpIo&t=378s) Anthony Di Iorio:** So prior to that, I knew about meetup.com and I'd gone to a pub in Toronto called [Paupers Pub](https://pauperspub.com/).
 
-**[6:25] Bob Summerwill:** Yeah.
+**[06:25](https://www.youtube.com/watch?v=498V7UuPpIo&t=385s) Bob Summerwill:** Yeah.
 
-**[6:25] Anthony Di Iorio:** And I went to a few of these Mises meetups and I said, hey, why don't I start a meetup? And I posted it, I did it at [Paupers Pub](https://pauperspub.com/), the first one, and I posted it and said I'm interested in Bitcoin, looking for others that are interested in it.
+**[06:25](https://www.youtube.com/watch?v=498V7UuPpIo&t=385s) Anthony Di Iorio:** And I went to a few of these Mises meetups and I said, hey, why don't I start a meetup? And I posted it, I did it at [Paupers Pub](https://pauperspub.com/), the first one, and I posted it and said I'm interested in Bitcoin, looking for others that are interested in it.
 
 And I think it was eight of us. I think it's eight or nine. I can't remember the very first one, but that's when I first met Vitalik Buterin and he came to the very first meetup that I had in Toronto in 2012. And Peter Todd was there and Dino Mark.
 
@@ -145,11 +153,11 @@ But this was Toronto's first community event for Bitcoin and I set it up. And ov
 
 And over that year of 2012, early 2013, I put a post on Reddit actually end of 2012, or sorry, a gentleman put out a post on Reddit named Steve Dakh.
 
-**[7:35] Bob Summerwill:** Oh yeah, yeah.
+**[07:35](https://www.youtube.com/watch?v=498V7UuPpIo&t=455s) Bob Summerwill:** Oh yeah, yeah.
 
 *(Bob - So Steve dug out [the Reddit post](https://www.reddit.com/r/Bitcoin/comments/19jvkr/im_a_web_developer_looking_for_ideas_to_build_a/)!  It was actually posted on Sun 3rd March 2013, and was very terse: "I'm a web developer looking for ideas to build a new Bitcoin related service. Anyone?")*
 
-**[7:36] Anthony Di Iorio:** He put a post out saying, I'm a developer. I'm looking for someone with business ideas that's interested in Bitcoin. I responded, two days later I'm in New Jersey. Him and I got together, became partners and put out a Bitcoin gambling site called Satoshi Circle.
+**[07:36](https://www.youtube.com/watch?v=498V7UuPpIo&t=456s) Anthony Di Iorio:** He put a post out saying, I'm a developer. I'm looking for someone with business ideas that's interested in Bitcoin. I responded, two days later I'm in New Jersey. Him and I got together, became partners and put out a Bitcoin gambling site called Satoshi Circle.
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/gw93GXVbqYY"
@@ -174,13 +182,13 @@ With that to really advance our enthusiasm and advance our work with what we saw
 
 So it was something that I wanted to pursue and it was a great time. Perfect time for me to do this with my skill set and my business background. And it was a perfect opportunity there. So that was my first foray and first start into Bitcoin.
 
-**[9:35] Bob Summerwill:** Right, right. So yeah, I was looking back for some dates and things for these. So for the 2012 [Free Talk Live](https://blog.freetalklive.com/) episode, I think it might have been an interview and sort of little panel that [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) did at [PorcFest](https://porcfest.com/) 2012. So Porcfest, that's also kind of associated with the [Free State Project](https://www.fsp.org/), right? Kind of overlapping people on that event.
+**[09:35](https://www.youtube.com/watch?v=498V7UuPpIo&t=575s) Bob Summerwill:** Right, right. So yeah, I was looking back for some dates and things for these. So for the 2012 [Free Talk Live](https://blog.freetalklive.com/) episode, I think it might have been an interview and sort of little panel that [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) did at [PorcFest](https://porcfest.com/) 2012. So Porcfest, that's also kind of associated with the [Free State Project](https://www.fsp.org/), right? Kind of overlapping people on that event.
 
-**[10:11] Anthony Di Iorio:** Well, let's see. The idea of porcupine is the idea of don't tread on us or we bite back. It's the porcupine is kind of the animal that's representative of the state. So yeah, it could have been that. But they also talked about Bitcoin quite a bit on the show. So.
+**[10:11](https://www.youtube.com/watch?v=498V7UuPpIo&t=611s) Anthony Di Iorio:** Well, let's see. The idea of porcupine is the idea of don't tread on us or we bite back. It's the porcupine is kind of the animal that's representative of the state. So yeah, it could have been that. But they also talked about Bitcoin quite a bit on the show. So.
 
-**[10:31] Bob Summerwill:** Yeah, I mean, I was seeing the very first mention apparently was December 2010. And you'd mentioned Gavin Andresen as probably the first contact that that group had with Bitcoin. So when did you yourself first meet other bitcoiners like [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees) and others?
+**[10:31](https://www.youtube.com/watch?v=498V7UuPpIo&t=631s) Bob Summerwill:** Yeah, I mean, I was seeing the very first mention apparently was December 2010. And you'd mentioned Gavin Andresen as probably the first contact that that group had with Bitcoin. So when did you yourself first meet other bitcoiners like [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver) and [Erik Voorhees](https://en.wikipedia.org/wiki/Erik_Voorhees) and others?
 
-**[11:04] Anthony Di Iorio:** So the meetup I started in late 2012. I think it was early 2013 that I went to the [Liberty Forum](https://nhlibertyforum.com/) in New Hampshire.
+**[11:04](https://www.youtube.com/watch?v=498V7UuPpIo&t=664s) Anthony Di Iorio:** So the meetup I started in late 2012. I think it was early 2013 that I went to the [Liberty Forum](https://nhlibertyforum.com/) in New Hampshire.
 
 *(Bob - [New Hampshire Liberty Forum 2013](https://web.archive.org/web/20130222172821/http://freestateproject.org/libertyforum) was held February 21-24, 2013, at the Crown Plaza in Nishua, NH)*
 
@@ -202,21 +210,21 @@ So that was kind of my first meeting. First big event that I did was early 2013 
 
 *(Bob - Satoshi Circle started a week or so after Anthony went to Liberty Forum)*
 
-**[12:14] Bob Summerwill:** Yeah. So I'm just looking. So apparently the day for your founding meetup was November 2012.
+**[12:14](https://www.youtube.com/watch?v=498V7UuPpIo&t=734s) Bob Summerwill:** Yeah. So I'm just looking. So apparently the day for your founding meetup was November 2012.
 
-**[12:24] Anthony Di Iorio:** That was my first meetup.
+**[12:24](https://www.youtube.com/watch?v=498V7UuPpIo&t=744s) Anthony Di Iorio:** That was my first meetup.
 
-**[12:26] Bob Summerwill:** First meetup.
+**[12:26](https://www.youtube.com/watch?v=498V7UuPpIo&t=746s) Bob Summerwill:** First meetup.
 
-**[12:27] Anthony Di Iorio:** Yes.
+**[12:27](https://www.youtube.com/watch?v=498V7UuPpIo&t=747s) Anthony Di Iorio:** Yes.
 
-**[12:29] Bob Summerwill:** And then it looks like Liberty Forum was February 2013.
+**[12:29](https://www.youtube.com/watch?v=498V7UuPpIo&t=749s) Bob Summerwill:** And then it looks like Liberty Forum was February 2013.
 
-**[12:36] Anthony Di Iorio:** That makes sense. That makes sense. Yep.
+**[12:36](https://www.youtube.com/watch?v=498V7UuPpIo&t=756s) Anthony Di Iorio:** That makes sense. That makes sense. Yep.
 
-**[12:41] Bob Summerwill:** And this is Steve, a Torontonian as well? Steve Dakh.
+**[12:41](https://www.youtube.com/watch?v=498V7UuPpIo&t=761s) Bob Summerwill:** And this is Steve, a Torontonian as well? Steve Dakh.
 
-**[12:46] Anthony Di Iorio:** No, as I mentioned, I flew down to New Jersey where he lived. He lived in New Jersey. So I flew down to his house and just didn't know this guy. Two days before I flew down.
+**[12:46](https://www.youtube.com/watch?v=498V7UuPpIo&t=766s) Anthony Di Iorio:** No, as I mentioned, I flew down to New Jersey where he lived. He lived in New Jersey. So I flew down to his house and just didn't know this guy. Two days before I flew down.
 
 While we were there, we hammered out this game and it was launched in a couple days. And I think we made our money back. I think I put a $5,000 investment the first to get the thing off the ground and I think the first day we made that back.
 
@@ -232,11 +240,11 @@ And that was the initial bootstrapping that we did was came from the sale of me 
 
 <h3 id="bitcoin-alliance-and-vitalik">The Bitcoin Alliance of Canada and getting to know Vitalik</h3>
 
-**[14:14] Bob Summerwill:** Right. And I'm just looking again at some further dates. So in April of that year of 2013, you founded the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/). So what was the thinking there? So I mean the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) predated that. But you were looking to do something rather different, right?
+**[14:14](https://www.youtube.com/watch?v=498V7UuPpIo&t=854s) Bob Summerwill:** Right. And I'm just looking again at some further dates. So in April of that year of 2013, you founded the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/). So what was the thinking there? So I mean the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) predated that. But you were looking to do something rather different, right?
 
 ![bac](/images/web.archive.org/2013.12.15/d3n8a8pro7vhmx.cloudfront.net/bitcoinalliance/pages/1/features/original/main_banner_red_leaf1.png)
 
-**[14:38] Anthony Di Iorio:** Yeah, definitely. It was, I'd gone down to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) conference in Miami, I think it was in Miami. And when they had, when they announced the first, the first, I think the first ATM maybe or Robocoin was there or that was when the first ASIC was announced or came out, something like that.
+**[14:38](https://www.youtube.com/watch?v=498V7UuPpIo&t=878s) Anthony Di Iorio:** Yeah, definitely. It was, I'd gone down to the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) conference in Miami, I think it was in Miami. And when they had, when they announced the first, the first, I think the first ATM maybe or Robocoin was there or that was when the first ASIC was announced or came out, something like that.
 
 But the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) for those, I guess that maybe don't know, back then was kind of this industry organization that was American focused, that was setting up to represent Bitcoin and it was getting a lot of flack for being very American centric. Let me just turn my light back on here. For being American centric.
 
@@ -305,9 +313,9 @@ And I think me having the meetup as a place where he could also be coming down a
 
 <h3 id="atms-conferences-and-mining">ATMs, early conferences, and why he never mined</h3>
 
-**[20:58] Bob Summerwill:** I was just looking at some more dates, keep looking at these dates. So it looks like there was maybe a tiny little bit of stuff going on in Vancouver prior, but not a great deal until the first Bitcoin ATM which was in October 2013.
+**[20:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=1258s) Bob Summerwill:** I was just looking at some more dates, keep looking at these dates. So it looks like there was maybe a tiny little bit of stuff going on in Vancouver prior, but not a great deal until the first Bitcoin ATM which was in October 2013.
 
-**[21:18] Anthony Di Iorio:** Yeah, Waves Cafe.
+**[21:18](https://www.youtube.com/watch?v=498V7UuPpIo&t=1278s) Anthony Di Iorio:** Yeah, Waves Cafe.
 
 {% include content-embed.html
   url="https://www.coindesk.com/markets/2013/10/30/robocoin-launches-bitcoin-atm-in-vancouver"
@@ -319,31 +327,31 @@ And I think me having the meetup as a place where he could also be coming down a
   img="/images/coindesk.com/2026.04.27/next/image/robocoin-launches-bitcoin-atm-in-vancouver.png"
 %}
 
-**[21:21] Bob Summerwill:** Cafe.
+**[21:21](https://www.youtube.com/watch?v=498V7UuPpIo&t=1281s) Bob Summerwill:** Cafe.
 
-**[21:23] Anthony Di Iorio:** I think it was Robocoin. Yeah, yeah, yeah.
+**[21:23](https://www.youtube.com/watch?v=498V7UuPpIo&t=1283s) Anthony Di Iorio:** I think it was Robocoin. Yeah, yeah, yeah.
 
-**[21:25] Bob Summerwill:** And then you had [Bitcoiniacs](https://www.bitcoiniacs.com/). That was a group sort of operation.
+**[21:25](https://www.youtube.com/watch?v=498V7UuPpIo&t=1285s) Bob Summerwill:** And then you had [Bitcoiniacs](https://www.bitcoiniacs.com/). That was a group sort of operation.
 
-**[21:30] Anthony Di Iorio:** They did it. That's right. And I like to say I think I had the second one in the world. I think I did.
+**[21:30](https://www.youtube.com/watch?v=498V7UuPpIo&t=1290s) Anthony Di Iorio:** They did it. That's right. And I like to say I think I had the second one in the world. I think I did.
 
-**[21:35] Bob Summerwill:** I think. Well, and what I do remember is you had the first Canadian made one.
+**[21:35](https://www.youtube.com/watch?v=498V7UuPpIo&t=1295s) Bob Summerwill:** I think. Well, and what I do remember is you had the first Canadian made one.
 
-**[21:43] Anthony Di Iorio:** [BitAccess](https://bitaccess.ca/) boys. Yeah, yeah. And we'll talk a bit about more how that came about again to 2013, early 2014. But yeah, that was the Waves. The Vancouver guys were the first movers of that and the Robocoin.
+**[21:43](https://www.youtube.com/watch?v=498V7UuPpIo&t=1303s) Anthony Di Iorio:** [BitAccess](https://bitaccess.ca/) boys. Yeah, yeah. And we'll talk a bit about more how that came about again to 2013, early 2014. But yeah, that was the Waves. The Vancouver guys were the first movers of that and the Robocoin.
 
 The Robocoin is what I saw down at the conference when I was down. I think it was my, was it Miami or, I think it was in Miami. Was it Miami down Orlando or Miami? The [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) Conference.
 
-**[22:09] Bob Summerwill:** Yeah, I couldn't find any specific.
+**[22:09](https://www.youtube.com/watch?v=498V7UuPpIo&t=1329s) Bob Summerwill:** Yeah, I couldn't find any specific.
 
-**[22:12] Anthony Di Iorio:** Yeah, yeah. Probably just gonna search for Robocoin, Butterfly Labs.
+**[22:12](https://www.youtube.com/watch?v=498V7UuPpIo&t=1332s) Anthony Di Iorio:** Yeah, yeah. Probably just gonna search for Robocoin, Butterfly Labs.
 
-**[22:20] Bob Summerwill:** Right?
+**[22:20](https://www.youtube.com/watch?v=498V7UuPpIo&t=1340s) Bob Summerwill:** Right?
 
-**[22:21] Anthony Di Iorio:** That was actually an interesting story that why I never got into mining and I'll tell you that. Let's see if I can find this conference though. But Bitcoin Foundation, it was definitely in Florida. 2013. Robocoin.
+**[22:21](https://www.youtube.com/watch?v=498V7UuPpIo&t=1341s) Anthony Di Iorio:** That was actually an interesting story that why I never got into mining and I'll tell you that. Let's see if I can find this conference though. But Bitcoin Foundation, it was definitely in Florida. 2013. Robocoin.
 
-**[22:42] Bob Summerwill:** I mean that must have been prior to the North American Bitcoin Conference. Moe's event. It must have been.
+**[22:42](https://www.youtube.com/watch?v=498V7UuPpIo&t=1362s) Bob Summerwill:** I mean that must have been prior to the North American Bitcoin Conference. Moe's event. It must have been.
 
-**[22:50] Anthony Di Iorio:** This is the Bitcoin Miami Airport Conference Center. Bitcoin conference in 2013 is a Vice article I'm looking at right here. Conference which took place at the Miami Airport Conference Center. Featured enough. No, wait a second, wait a second. Yeah, yeah, this is it.
+**[22:50](https://www.youtube.com/watch?v=498V7UuPpIo&t=1370s) Anthony Di Iorio:** This is the Bitcoin Miami Airport Conference Center. Bitcoin conference in 2013 is a Vice article I'm looking at right here. Conference which took place at the Miami Airport Conference Center. Featured enough. No, wait a second, wait a second. Yeah, yeah, this is it.
 
 The Winklevoss twins were at the event. I remember that. I remember seeing them. This is 2013. No, no, that was Disrupt San Francisco. No, it was. This was the Bitcoin Foundation Conference. It was in, yeah, Miami, Orlando. I can't remember but it's when the first ASIC was actually, I think the realistic. This was not the Butterfly Labs. This was, this was.
 
@@ -357,17 +365,17 @@ And he was just, I went to his office and he had his mining rig. I had no idea w
 
 And because of that and what happened with Butterfly Labs is I never ever did any mining. I've never mined in my life. And that kind of, and instead I bought. I bought instead rather than mining. I never, I always thought the mining was this arms race thing that I could never. And I saw so many people losing their shirts and the guys I think in Montreal got destroyed with the Embassy there. Like just, so that was kind of, never gotten into the mining side of things.
 
-**[25:24] Bob Summerwill:** But very, very competitive.
+**[25:24](https://www.youtube.com/watch?v=498V7UuPpIo&t=1524s) Bob Summerwill:** But very, very competitive.
 
-**[25:28] Anthony Di Iorio:** Very much, very much so. Yeah, I'm trying to still find the. I remember the Winklevoss twins being at the conference at the Foundation conference.
+**[25:28](https://www.youtube.com/watch?v=498V7UuPpIo&t=1528s) Anthony Di Iorio:** Very much, very much so. Yeah, I'm trying to still find the. I remember the Winklevoss twins being at the conference at the Foundation conference.
 
 And I'm seeing here now the North American Bitcoin Conference. November. That was January 25th. That was Moe's. What was it, man? That's where we announced Ethereum was there.
 
-**[25:50] Bob Summerwill:** That's right.
+**[25:50](https://www.youtube.com/watch?v=498V7UuPpIo&t=1550s) Bob Summerwill:** That's right.
 
 <h3 id="rush-wallet-kryptokit-and-jaxx">RUSHWALLET, KryptoKit, and the road to Jaxx</h3>
 
-**[25:51] Anthony Di Iorio:** Don't want to jump. Yeah, but still 2013. Just sold the company, the gambling site. And then Steve Dakh and I realized we've got a wallet here. We've got, people are depositing funds into the game. We give them, we gave them a secret URL. That's how they would get into their account.
+**[25:51](https://www.youtube.com/watch?v=498V7UuPpIo&t=1551s) Anthony Di Iorio:** Don't want to jump. Yeah, but still 2013. Just sold the company, the gambling site. And then Steve Dakh and I realized we've got a wallet here. We've got, people are depositing funds into the game. We give them, we gave them a secret URL. That's how they would get into their account.
 
 We don't like passwords, we don't like logins. So our systems always worked with friction free. No account, you would get a secret URL. The URL would be your key to get into the gambling site and get to your account. We would give you a deposit address. You would send funds into a QR code instantly inside of the screen. You can probably pull up, if you look up Satoshi Circle, you'll see some images and you'll see some stuff from it.
 
@@ -409,9 +417,9 @@ So we actually were, if you recall, back then, Apple didn't, they didn't like wa
 
 And in fact what happened for us is Chrome ended up taking us down because there was a malicious copycat of ours that went on and they mistakenly took down our app. And we thought that Google now was banning just like Apple was banning. And we were so freaked out because people couldn't get access to their Bitcoin because even though they had their keys.
 
-**[29:32] Bob Summerwill:** Right.
+**[29:32](https://www.youtube.com/watch?v=498V7UuPpIo&t=1772s) Bob Summerwill:** Right.
 
-**[29:33] Anthony Di Iorio:** So I was traveling and I remember Vitalik Buterin jumped in and solved the problem and everybody got their stuff. And we realized we actually got communication by Google saying, no, we're sorry, we made a mistake. We didn't mean to take your app down. In fact, we love Bitcoin. They sent an email to me on that.
+**[29:33](https://www.youtube.com/watch?v=498V7UuPpIo&t=1773s) Anthony Di Iorio:** So I was traveling and I remember Vitalik Buterin jumped in and solved the problem and everybody got their stuff. And we realized we actually got communication by Google saying, no, we're sorry, we made a mistake. We didn't mean to take your app down. In fact, we love Bitcoin. They sent an email to me on that.
 
 So we went from thinking that they were also following in suit with what Apple did and they were removing us. But in fact, that was confirmation actually that Google was fine with what we were doing and what we were doing with Bitcoin.
 
@@ -421,41 +429,41 @@ They were using us as lead to start exploring adding crypto into their products.
 
 So we had this relationship with Apple which was pretty interesting as well.
 
-**[30:37] Bob Summerwill:** Apple notoriously don't like anybody getting anywhere near their payment chokehold. Yeah, a very lucrative business for them, having 30% of all commerce. So.
+**[30:37](https://www.youtube.com/watch?v=498V7UuPpIo&t=1837s) Bob Summerwill:** Apple notoriously don't like anybody getting anywhere near their payment chokehold. Yeah, a very lucrative business for them, having 30% of all commerce. So.
 
-**[30:55] Anthony Di Iorio:** Right. Ripe for disruption when you're doing things like that, I tell you.
+**[30:55](https://www.youtube.com/watch?v=498V7UuPpIo&t=1855s) Anthony Di Iorio:** Right. Ripe for disruption when you're doing things like that, I tell you.
 
-**[30:58] Bob Summerwill:** Absolutely. But yeah, it's interesting that that browser route was kind of the workaround. So yeah, you were very busy in 2013. I was just again looking for some of these dates. And it looks like [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) actually started a little bit earlier than Satoshi Circle.
+**[30:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=1858s) Bob Summerwill:** Absolutely. But yeah, it's interesting that that browser route was kind of the workaround. So yeah, you were very busy in 2013. I was just again looking for some of these dates. And it looks like [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) actually started a little bit earlier than Satoshi Circle.
 
-**[31:18] Anthony Di Iorio:** No, no, it would. No, it definitely wouldn't have been out. No, no, definitely not. We didn't consider doing the wallets till after, what,
+**[31:18](https://www.youtube.com/watch?v=498V7UuPpIo&t=1878s) Anthony Di Iorio:** No, no, it would. No, it definitely wouldn't have been out. No, no, definitely not. We didn't consider doing the wallets till after, what,
 
-**[31:34] Bob Summerwill:** 27th was apparently the first public announcement.
+**[31:34](https://www.youtube.com/watch?v=498V7UuPpIo&t=1894s) Bob Summerwill:** 27th was apparently the first public announcement.
 
-**[31:39] Anthony Di Iorio:** Of what? Of which?
+**[31:39](https://www.youtube.com/watch?v=498V7UuPpIo&t=1899s) Anthony Di Iorio:** Of what? Of which?
 
-**[31:40] Bob Summerwill:** Of [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/).
+**[31:40](https://www.youtube.com/watch?v=498V7UuPpIo&t=1900s) Bob Summerwill:** Of [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/).
 
-**[31:41] Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later.
+**[31:41](https://www.youtube.com/watch?v=498V7UuPpIo&t=1901s) Anthony Di Iorio:** Oh, but no, but no. Early 2013 was Satoshi Circle. So I started, we launched, yeah, so we launched. We started building in 2012, Satoshi Circle. We launched it a couple days later.
 
 And then I sold it a few months later and then started working on the wallets and started out with [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) and that [RUSHWALLET](https://web.archive.org/web/20140914083307/https://rushwallet.com/) turned into KryptoKit, turned into Jaxx, turned into Jaxx eventually Jaxx Liberty after that. So that's.
 
 *(Bob - Satoshi Circle was released in March 2013.  RUSHWALLET's [BitcoinTalk announcement](https://bitcointalk.org/index.php?topic=217112.0) was May 2013) and KryptoKit was [December 2013](https://bitcoinmagazine.com/business/kryptokit-easy-to-use-in-browser-bitcoin-and-messaging-for-the-masses-1386742599))*
 
-**[32:10] Bob Summerwill:** Yeah. Yeah, that's your continuum. And then yeah, you'd mentioned Vitalik Buterin interviews with you. So it looks like that was October 2013. The Amsterdam conference had been in September where you mentioned him speaking. So that was.
+**[32:10](https://www.youtube.com/watch?v=498V7UuPpIo&t=1930s) Bob Summerwill:** Yeah. Yeah, that's your continuum. And then yeah, you'd mentioned Vitalik Buterin interviews with you. So it looks like that was October 2013. The Amsterdam conference had been in September where you mentioned him speaking. So that was.
 
-**[32:30] Anthony Di Iorio:** We met at a coffee shop. We met at a coffee shop in Amsterdam and he did his interview with me for, I think it was three articles that he put out. There were three, I think three series of articles for the.
+**[32:30](https://www.youtube.com/watch?v=498V7UuPpIo&t=1950s) Anthony Di Iorio:** We met at a coffee shop. We met at a coffee shop in Amsterdam and he did his interview with me for, I think it was three articles that he put out. There were three, I think three series of articles for the.
 
-**[32:40] Bob Summerwill:** Yeah.
+**[32:40](https://www.youtube.com/watch?v=498V7UuPpIo&t=1960s) Bob Summerwill:** Yeah.
 
-**[32:40] Anthony Di Iorio:** What I was doing in Canada that he was interviewing me for, for a few articles that he put out. I think it was three that he put out because there was the Alliance that was talked about. There's a few things kind of like a Canada series I think that he did. And I remember sitting down with him in Amsterdam and doing that interview. Yeah.
+**[32:40](https://www.youtube.com/watch?v=498V7UuPpIo&t=1960s) Anthony Di Iorio:** What I was doing in Canada that he was interviewing me for, for a few articles that he put out. I think it was three that he put out because there was the Alliance that was talked about. There's a few things kind of like a Canada series I think that he did. And I remember sitting down with him in Amsterdam and doing that interview. Yeah.
 
-**[33:02] Bob Summerwill:** And his, so his famous Bitcoin world travel was I believe from about June through to December of that year. So he would have been out of Toronto for that period. And then it was November that he wrote the White Paper.
+**[33:02](https://www.youtube.com/watch?v=498V7UuPpIo&t=1982s) Bob Summerwill:** And his, so his famous Bitcoin world travel was I believe from about June through to December of that year. So he would have been out of Toronto for that period. And then it was November that he wrote the White Paper.
 
-**[33:26] Anthony Di Iorio:** Yeah.
+**[33:26](https://www.youtube.com/watch?v=498V7UuPpIo&t=2006s) Anthony Di Iorio:** Yeah.
 
-**[33:27] Bob Summerwill:** So you were one of the very initial recipients there.
+**[33:27](https://www.youtube.com/watch?v=498V7UuPpIo&t=2007s) Bob Summerwill:** So you were one of the very initial recipients there.
 
-**[33:31] Anthony Di Iorio:** I still think I was the first person he showed it to. Can't confirm. But I've always thought that. And I think that's the case. It was late November, late November, I believe. Yeah. And I could be wrong with that. I've always thought that's been the case, so could be wrong with that.
+**[33:31](https://www.youtube.com/watch?v=498V7UuPpIo&t=2011s) Anthony Di Iorio:** I still think I was the first person he showed it to. Can't confirm. But I've always thought that. And I think that's the case. It was late November, late November, I believe. Yeah. And I could be wrong with that. I've always thought that's been the case, so could be wrong with that.
 
 But I read it and have to be frank that a lot of it went over my head, which a lot of his writings did and a lot of his stuff with the formulas and all the things. It's nothing but it's like I need some validation here.
 
@@ -465,27 +473,27 @@ So before I introduced him to Vitalik Buterin, I had been dealing with [Charles]
 
 And so [Vitalik](/people/vitalik-buterin/) shows me this paper, I show it to [Charles](/people/charles-hoskinson/). [Charles](/people/charles-hoskinson/), like this is it. And.
 
-**[34:58] Bob Summerwill:** Right.
+**[34:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=2098s) Bob Summerwill:** Right.
 
-**[34:59] Anthony Di Iorio:** And that's how [Charles](/people/charles-hoskinson/) kind of got into the mix with Ethereum.
+**[34:59](https://www.youtube.com/watch?v=498V7UuPpIo&t=2099s) Anthony Di Iorio:** And that's how [Charles](/people/charles-hoskinson/) kind of got into the mix with Ethereum.
 
-**[35:03] Bob Summerwill:** So his project there was called the Bitcoin Education Project.
+**[35:03](https://www.youtube.com/watch?v=498V7UuPpIo&t=2103s) Bob Summerwill:** So his project there was called the Bitcoin Education Project.
 
 *(Charles [announced the project on BitcoinTalk](https://bitcointalk.org/index.php?topic=214325.0) on 23rd May 2013)*
 
-**[35:08] Anthony Di Iorio:** That's right. Bitcoin, yeah. He was on like Udemy, was on Udemy, I think.
+**[35:08](https://www.youtube.com/watch?v=498V7UuPpIo&t=2108s) Anthony Di Iorio:** That's right. Bitcoin, yeah. He was on like Udemy, was on Udemy, I think.
 
-**[35:11] Bob Summerwill:** Oh, right, right. But I mean, I think so that was also 2013. I don't know that that went back into 2012, even maybe a little.
+**[35:11](https://www.youtube.com/watch?v=498V7UuPpIo&t=2111s) Bob Summerwill:** Oh, right, right. But I mean, I think so that was also 2013. I don't know that that went back into 2012, even maybe a little.
 
-**[35:19] Anthony Di Iorio:** No, no, I didn't meet him. It would have been 2013 that I met him. And he of course was part of Invictus with [BitShares](https://bitshares.org/). Right, right. And he had been unceremoniously ousted by Dan Larimer from BitShares. He was I think also the CEO at the time. And then that didn't work out. So he'd already had his kind of exploration into something after Bitcoin and working on things like that. So Ethereum was right down his alley and that's how he got brought into the mix.
+**[35:19](https://www.youtube.com/watch?v=498V7UuPpIo&t=2119s) Anthony Di Iorio:** No, no, I didn't meet him. It would have been 2013 that I met him. And he of course was part of Invictus with [BitShares](https://bitshares.org/). Right, right. And he had been unceremoniously ousted by Dan Larimer from BitShares. He was I think also the CEO at the time. And then that didn't work out. So he'd already had his kind of exploration into something after Bitcoin and working on things like that. So Ethereum was right down his alley and that's how he got brought into the mix.
 
 *(Bob - Charles' time at Invictus was brief.  He was a co-founder on 4th July 2013 and was out by December 2013)*
 
 <h3 id="bitcoin-decentral-and-the-first-atm">Bitcoin Decentral and Toronto's Bitcoin ATM</h3>
 
-**[35:57] Bob Summerwill:** Yeah, so it was late 2013 that [Charles](/people/charles-hoskinson/)'s time there ended. But [Charles](/people/charles-hoskinson/) wasn't the only person that you brought into the Ethereum effort early there.
+**[35:57](https://www.youtube.com/watch?v=498V7UuPpIo&t=2157s) Bob Summerwill:** Yeah, so it was late 2013 that [Charles](/people/charles-hoskinson/)'s time there ended. But [Charles](/people/charles-hoskinson/) wasn't the only person that you brought into the Ethereum effort early there.
 
-**[36:17] Anthony Di Iorio:** Yeah. So what was going on then was meetups were getting really successful 2013. And I lived up in a place called Richmond Hill, which was about a 45 minute drive from Toronto and I'd be commuting down into the city to do the meetups.
+**[36:17](https://www.youtube.com/watch?v=498V7UuPpIo&t=2177s) Anthony Di Iorio:** Yeah. So what was going on then was meetups were getting really successful 2013. And I lived up in a place called Richmond Hill, which was about a 45 minute drive from Toronto and I'd be commuting down into the city to do the meetups.
 
 And it just, finally I got to get down to Toronto and I moved down to Toronto, downtown Toronto. And I started looking for a place to do the meetups because we're struggling to get, when you're doing these free events at a restaurant, they kind of got to give you access and it comes, it comes struggle to get sometimes the venues.
 
@@ -517,23 +525,23 @@ And at that event we invited him down to Miami to join us down in Miami for the 
 
 But he was, it was the meetup that drew him in. That happened to be the same time he was in Toronto just over the Christmas holidays, the New Year holiday break that he came to that meetup. And that kind of opened the door for him. And that was the. So yeah, so [Charles](/people/charles-hoskinson/) and then [Joe](/people/joe-lubin). Yeah, that was kind of.
 
-**[39:44] Bob Summerwill:** So I found the video for that, the opening event. The video was archived. So that was fantastic. I found it a little while ago.
+**[39:44](https://www.youtube.com/watch?v=498V7UuPpIo&t=2384s) Bob Summerwill:** So I found the video for that, the opening event. The video was archived. So that was fantastic. I found it a little while ago.
 
-**[39:53] Anthony Di Iorio:** Oh really? I don't think I've seen that, I didn't know it existed.
+**[39:53](https://www.youtube.com/watch?v=498V7UuPpIo&t=2393s) Anthony Di Iorio:** Oh really? I don't think I've seen that, I didn't know it existed.
 
-**[39:56] Bob Summerwill:** Yeah, it's great. So that was released through [Coin Talk](https://cointalk-archive.ca), which was Kyle Kurbegovich, I can't say his surname. Kovagovich.
+**[39:56](https://www.youtube.com/watch?v=498V7UuPpIo&t=2396s) Bob Summerwill:** Yeah, it's great. So that was released through [Coin Talk](https://cointalk-archive.ca), which was Kyle Kurbegovich, I can't say his surname. Kovagovich.
 
-**[40:07] Anthony Di Iorio:** Yes, yes. Yeah, [Coin Talk](https://cointalk-archive.ca). Like Coin Talk Live. Coin Talk.
+**[40:07](https://www.youtube.com/watch?v=498V7UuPpIo&t=2407s) Anthony Di Iorio:** Yes, yes. Yeah, [Coin Talk](https://cointalk-archive.ca). Like Coin Talk Live. Coin Talk.
 
-**[40:12] Bob Summerwill:** It was just called [Coin Talk](https://cointalk-archive.ca).
+**[40:12](https://www.youtube.com/watch?v=498V7UuPpIo&t=2412s) Bob Summerwill:** It was just called [Coin Talk](https://cointalk-archive.ca).
 
-**[40:14] Anthony Di Iorio:** Okay, that's right. Ours was Decentral Talk Live. That's right.
+**[40:14](https://www.youtube.com/watch?v=498V7UuPpIo&t=2414s) Anthony Di Iorio:** Okay, that's right. Ours was Decentral Talk Live. That's right.
 
-**[40:18] Bob Summerwill:** Yeah. So he seemed to focus more on events like reporting from events versus an ongoing piece. But yeah, there is a frame in that video where you can see [Joe](/people/joe-lubin), just a glance past. Yeah. And I also found out just yesterday that William Mougayar, that was his very first day as well. That was the first day he met Vitalik Buterin and the first day that he started that.
+**[40:18](https://www.youtube.com/watch?v=498V7UuPpIo&t=2418s) Bob Summerwill:** Yeah. So he seemed to focus more on events like reporting from events versus an ongoing piece. But yeah, there is a frame in that video where you can see [Joe](/people/joe-lubin), just a glance past. Yeah. And I also found out just yesterday that William Mougayar, that was his very first day as well. That was the first day he met Vitalik Buterin and the first day that he started that.
 
-**[40:50] Anthony Di Iorio:** Yeah, he. The start of his book actually. At the start of his book, William Mougayar's book, it actually, I think the first part is about him going up the steps of [Bitcoin Decentral](https://decentral.ca/) at the meetup that I was doing. I think that's his Blockchain for Business. What was it called? Blockchain for Business.
+**[40:50](https://www.youtube.com/watch?v=498V7UuPpIo&t=2450s) Anthony Di Iorio:** Yeah, he. The start of his book actually. At the start of his book, William Mougayar's book, it actually, I think the first part is about him going up the steps of [Bitcoin Decentral](https://decentral.ca/) at the meetup that I was doing. I think that's his Blockchain for Business. What was it called? Blockchain for Business.
 
-**[41:04] Bob Summerwill:** Yeah, that's right.
+**[41:04](https://www.youtube.com/watch?v=498V7UuPpIo&t=2464s) Bob Summerwill:** Yeah, that's right.
 
 *(Bob - It was actually called The Business Blockchain)*
 
@@ -545,7 +553,7 @@ But he was, it was the meetup that drew him in. That happened to be the same tim
   img="/images/imageio.forbes.com/blogs-images/laurashin/files/2016/05/Mougayar-book-1200x577.jpg"
 %}
 
-**[41:06] Anthony Di Iorio:** Yeah, yeah. So that's, yeah. He mentions that when he meets Vitalik Buterin for the first time. It's at the meetup thing. So yeah, yeah. William was a heavy part of Decentral and Kyle Kurbegovich was co-working I think out of Decentral, at [Bitcoin Decentral](https://decentral.ca/), and a bunch of other people. It was kind of a, it became that kind of co-working space. My businesses were brought there and it became the first home of Ethereum. It's the first address. First home of Ethereum was Bitcoin Decentral and first company started.
+**[41:06](https://www.youtube.com/watch?v=498V7UuPpIo&t=2466s) Anthony Di Iorio:** Yeah, yeah. So that's, yeah. He mentions that when he meets Vitalik Buterin for the first time. It's at the meetup thing. So yeah, yeah. William was a heavy part of Decentral and Kyle Kurbegovich was co-working I think out of Decentral, at [Bitcoin Decentral](https://decentral.ca/), and a bunch of other people. It was kind of a, it became that kind of co-working space. My businesses were brought there and it became the first home of Ethereum. It's the first address. First home of Ethereum was Bitcoin Decentral and first company started.
 
 I started a, we needed to start hiring, doing things and you couldn't do without a business. And so I ended up, we agreed I'd start a for-profit entity in Toronto just to get something going and I started [Ethereum Canada](/articles/ethereum-canada-inc/). I was a sole director of this just to be able to start doing some stuff and hired our first HR guy, Richard Goldglass, hired Addison Cameron-Huff who was my lawyer at the time, who I'd like to say became the first Ethereum lawyer we had. What was the other lawyer's name who did a lot of work for us? He did a lot of work. All my stuff for Satoshi Circle and for Rush. But yeah, it was, let's get this going. That was the office. That's where me and Vitalik Buterin were and the other guys.
 
@@ -555,9 +563,9 @@ You got Mihai Alisie who was Vitalik Buterin's partner at [Bitcoin Magazine](htt
 
 <h3 id="forming-the-early-ethereum-team">Forming the early Ethereum team</h3>
 
-**[43:00] Bob Summerwill:** For [Mihai](/people/mihai-alisie), presumably both Mihai Alisie and Amir Chetrit, you'd met through Vitalik Buterin, but not in person at that point.
+**[43:00](https://www.youtube.com/watch?v=498V7UuPpIo&t=2580s) Bob Summerwill:** For [Mihai](/people/mihai-alisie), presumably both Mihai Alisie and Amir Chetrit, you'd met through Vitalik Buterin, but not in person at that point.
 
-**[43:11] Anthony Di Iorio:** I met [Amir](/people/amir-chetrit/) specifically, I met at the [Inside Bitcoins in Las Vegas in 2013](https://www.coindesk.com/markets/2013/12/04/inside-bitcoins-conference-descends-on-las-vegas-next-week). That's right when we launched. That's right when we launched KryptoKit, I think that was. Right. That was.
+**[43:11](https://www.youtube.com/watch?v=498V7UuPpIo&t=2591s) Anthony Di Iorio:** I met [Amir](/people/amir-chetrit/) specifically, I met at the [Inside Bitcoins in Las Vegas in 2013](https://www.coindesk.com/markets/2013/12/04/inside-bitcoins-conference-descends-on-las-vegas-next-week). That's right when we launched. That's right when we launched KryptoKit, I think that was. Right. That was.
 
 {% include content-embed.html
   url="https://www.coindesk.com/markets/2013/12/10/kryptokit-launches-as-dark-wallets-biggest-rival"
@@ -575,21 +583,21 @@ I had David Bailey beside me. That's where I first met David Bailey. I had him i
 
 That's right when we were launching. I think it was KryptoKit back then in late 2013 is where I met. Was it [Inside Bitcoins](https://www.coindesk.com/markets/2013/12/04/inside-bitcoins-conference-descends-on-las-vegas-next-week)? It was in Vegas.
 
-**[43:52] Bob Summerwill:** Yeah, at the MGM Grand.
+**[43:52](https://www.youtube.com/watch?v=498V7UuPpIo&t=2632s) Bob Summerwill:** Yeah, at the MGM Grand.
 
-**[43:54] Anthony Di Iorio:** That's right. So that's right. I remember. That's right. I remember walking the streets with [Amir](/people/amir-chetrit/). That's kind of the first in-person time that I met [Amir](/people/amir-chetrit/). [Mihai](/people/mihai-alisie/) would have been much later. He couldn't even come to the conference in Canada because of his visa stuff. He couldn't get in. So it was much later after that I met [Mihai](/people/mihai-alisie/). Wait a second. Yeah, [Mihai](/people/mihai-alisie/) couldn't.
+**[43:54](https://www.youtube.com/watch?v=498V7UuPpIo&t=2634s) Anthony Di Iorio:** That's right. So that's right. I remember. That's right. I remember walking the streets with [Amir](/people/amir-chetrit/). That's kind of the first in-person time that I met [Amir](/people/amir-chetrit/). [Mihai](/people/mihai-alisie/) would have been much later. He couldn't even come to the conference in Canada because of his visa stuff. He couldn't get in. So it was much later after that I met [Mihai](/people/mihai-alisie/). Wait a second. Yeah, [Mihai](/people/mihai-alisie/) couldn't.
 
-**[44:17] Bob Summerwill:** He didn't make Miami either.
+**[44:17](https://www.youtube.com/watch?v=498V7UuPpIo&t=2657s) Bob Summerwill:** He didn't make Miami either.
 
-**[44:19] Anthony Di Iorio:** No, he didn't make Miami or like he just, yeah, there was restrictions with him in Romania there.
+**[44:19](https://www.youtube.com/watch?v=498V7UuPpIo&t=2659s) Anthony Di Iorio:** No, he didn't make Miami or like he just, yeah, there was restrictions with him in Romania there.
 
 So imagine, you're starting this foray with people you don't really know too well, from different backgrounds, different things in different countries, different ages. And I'd already known that I didn't want partners. I learned that, Steve and I always had this push pull kind of thing that I'd known, I come to the conclusion I really don't want to have partners. I know I did.
 
 But the opportunity sometimes presents itself that you're like, let's just do this thing and you do this thing. But it kind of has been that. How amazing has things transpired, but also how much of a nightmare it was back then.
 
-**[45:02] Bob Summerwill:** So you didn't want any partners, but you got seven.
+**[45:02](https://www.youtube.com/watch?v=498V7UuPpIo&t=2702s) Bob Summerwill:** So you didn't want any partners, but you got seven.
 
-**[45:06] Anthony Di Iorio:** Well, we had five. I had four to start up initially. Right. So there's the initial five. All right.
+**[45:06](https://www.youtube.com/watch?v=498V7UuPpIo&t=2706s) Anthony Di Iorio:** Well, we had five. I had four to start up initially. Right. So there's the initial five. All right.
 
 But yeah, well, and then of course what makes this very interesting is not just this, but you're also in this, navigating this area of being visible founders of this new technology. That's, because Satoshi wasn't visible. We, yeah, I'd always been very clear of, I wanted to be visible with my stuff. Even I think back then, I think my phone number was on Reddit that you could call me to talk about this.
 
@@ -605,17 +613,17 @@ So it was tough. And there was also then the battle between speed and doing thin
 
 And then the other side, you get the kind of the elders in the room. And at the time, I know [Mihai](/people/mihai-alisie/) was around the same age as [Vitalik](/people/vitalik-buterin/). Like they're younger. They were kids, right? And then, hell, even [Charles](/people/charles-hoskinson/), I had no idea he was 25.
 
-**[47:17] Bob Summerwill:** 25, 25.
+**[47:17](https://www.youtube.com/watch?v=498V7UuPpIo&t=2837s) Bob Summerwill:** 25, 25.
 
-**[47:19] Anthony Di Iorio:** When I, and I didn't know for months and when I learned his age, he was always looking like a guy to me that was older. I was floored that he was 25. He just, so he was relatively young. I don't even know how old is [Joe](/people/joe-lubin)? I don't even know how old [Joe](/people/joe-lubin) is. You know how old [Joe](/people/joe-lubin) is?
+**[47:19](https://www.youtube.com/watch?v=498V7UuPpIo&t=2839s) Anthony Di Iorio:** When I, and I didn't know for months and when I learned his age, he was always looking like a guy to me that was older. I was floored that he was 25. He just, so he was relatively young. I don't even know how old is [Joe](/people/joe-lubin)? I don't even know how old [Joe](/people/joe-lubin) is. You know how old [Joe](/people/joe-lubin) is?
 
-**[47:37] Bob Summerwill:** 60, maybe 62.
+**[47:37](https://www.youtube.com/watch?v=498V7UuPpIo&t=2857s) Bob Summerwill:** 60, maybe 62.
 
-**[47:39] Anthony Di Iorio:** Something like that. Is he. Can you. I'd like to know because I'm 50. I'm 50. So.
+**[47:39](https://www.youtube.com/watch?v=498V7UuPpIo&t=2859s) Anthony Di Iorio:** Something like that. Is he. Can you. I'd like to know because I'm 50. I'm 50. So.
 
-**[47:53] Bob Summerwill:** So he's 61 at the moment. He was born in '64.
+**[47:53](https://www.youtube.com/watch?v=498V7UuPpIo&t=2873s) Bob Summerwill:** So he's 61 at the moment. He was born in '64.
 
-**[47:58] Anthony Di Iorio:** Yeah. So [Joe](/people/joe-lubin) was the elder. [Joe](/people/joe-lubin) was the elder and [Joe](/people/joe-lubin) was the, you know, yes, there was always that tug between speed and proper. And there was no money. And the sooner we could do the product sale, sooner the money could come in.
+**[47:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=2878s) Anthony Di Iorio:** Yeah. So [Joe](/people/joe-lubin) was the elder. [Joe](/people/joe-lubin) was the elder and [Joe](/people/joe-lubin) was the, you know, yes, there was always that tug between speed and proper. And there was no money. And the sooner we could do the product sale, sooner the money could come in.
 
 But we need to make sure that we could sell the product to the US. In order to do that, we needed to make sure our lawyers. So there was this whole process that we had to undertake to make sure that we got that sign off from our lawyers that what we were doing was not going to get us into trouble.
 
@@ -623,21 +631,21 @@ And that was a big problem. To try to convince the people that weren't making an
 
 <h3 id="miami-launch-plans-and-presale-delay">Miami launch plans and delaying the presale</h3>
 
-**[48:59] Bob Summerwill:** So something I only learned quite recently, having met Ryan Taylor who worked on the early websites, having worked with Vitalik Buterin and Mihai Alisie on [Bitcoin Magazine](https://bitcoinmagazine.com/), was that the version of the website which was up in January 2014, in the run up to the North American Bitcoin Conference, Vitalik Buterin's talk and the mansion that you'd paid for.
+**[48:59](https://www.youtube.com/watch?v=498V7UuPpIo&t=2939s) Bob Summerwill:** So something I only learned quite recently, having met Ryan Taylor who worked on the early websites, having worked with Vitalik Buterin and Mihai Alisie on [Bitcoin Magazine](https://bitcoinmagazine.com/), was that the version of the website which was up in January 2014, in the run up to the North American Bitcoin Conference, Vitalik Buterin's talk and the mansion that you'd paid for.
 
 ![Early Ethereum team photo](/images/personal/taylor-gerring/taylor-gerring_2014.01.31.jpeg)
 
 *(The Ethereum team in their Miami house rented by Anthony Di Iorio for the 2014 Bitcoin conference. Top (left to right): Dino Mark, Yanislav Malahov, Charles Hoskinson, Anthony D'Onofrio, Steve Dakh, Wendell Davis, Jonathan Mohan, Joe Lubin, Louis Parker. Bottom (left to right): Gavin Wood, Vitalik Buterin, Anthony Di Iorio, Taylor Gerring, Jason Colby, Kyle Kurbegovich.*
 
-**[49:30] Anthony Di Iorio:** Let me tell you. It was no mansion. It was a semi-detached. It was a split level home where the owner lived in the top. No, this was a very, very modest.
+**[49:30](https://www.youtube.com/watch?v=498V7UuPpIo&t=2970s) Anthony Di Iorio:** Let me tell you. It was no mansion. It was a semi-detached. It was a split level home where the owner lived in the top. No, this was a very, very modest.
 
-**[49:42] Bob Summerwill:** Okay, home.
+**[49:42](https://www.youtube.com/watch?v=498V7UuPpIo&t=2982s) Bob Summerwill:** Okay, home.
 
-**[49:43] Anthony Di Iorio:** So I just, yeah, that's. It was no mansion. But anyways, yes, it was a Bitcoin house. That was the, sorry, the Ethereum house in Miami that I rented for the conference. But yeah, Airbnb. But the website that.
+**[49:43](https://www.youtube.com/watch?v=498V7UuPpIo&t=2983s) Anthony Di Iorio:** So I just, yeah, that's. It was no mansion. But anyways, yes, it was a Bitcoin house. That was the, sorry, the Ethereum house in Miami that I rented for the conference. But yeah, Airbnb. But the website that.
 
-**[49:54] Bob Summerwill:** Was up at that time in January had got a countdown. The countdown was for the crowd sale that was meant to be on the 1st of February. That's what I understand.
+**[49:54](https://www.youtube.com/watch?v=498V7UuPpIo&t=2994s) Bob Summerwill:** Was up at that time in January had got a countdown. The countdown was for the crowd sale that was meant to be on the 1st of February. That's what I understand.
 
-**[50:06] Anthony Di Iorio:** It was. This is what happened with that. So we go down to Miami, big announcement, got the house there. First time I'm meeting in person, Charles Hoskinson.
+**[50:06](https://www.youtube.com/watch?v=498V7UuPpIo&t=3006s) Anthony Di Iorio:** It was. This is what happened with that. So we go down to Miami, big announcement, got the house there. First time I'm meeting in person, Charles Hoskinson.
 
 First time I'm meeting this guy Gavin Wood, who Vitalik Buterin had said, hey, there's this guy from the UK, can't afford to get a ticket. Can you buy him a ticket? And I said, well, is he. Yeah, he's okay. So I flew Gavin in, Gavin Wood.
 
@@ -659,17 +667,17 @@ Because who knows where Ethereum would have been if we had done something dumb b
 
 We delayed with a lot of pressure until our lawyers in the US gave us the structure and go ahead to do it. And when we got that thumbs up from our lawyers there, that's when we did it. And it was a very tumultuous time leading up to that with zero money and people knocking. It was tough, but I think that was a savior for us to do things in the right fashion.
 
-**[52:35] Bob Summerwill:** And that was absolutely last minute from what I can see, because there's an archive for the website with six days left. So it was literally like at the wire that it will have been pulled.
+**[52:35](https://www.youtube.com/watch?v=498V7UuPpIo&t=3155s) Bob Summerwill:** And that was absolutely last minute from what I can see, because there's an archive for the website with six days left. So it was literally like at the wire that it will have been pulled.
 
-**[52:48] Anthony Di Iorio:** Yeah.
+**[52:48](https://www.youtube.com/watch?v=498V7UuPpIo&t=3168s) Anthony Di Iorio:** Yeah.
 
-**[52:48] Bob Summerwill:** And Ryan was saying he got a phone call sort of like late at night, quick, panicked. Take it down. Stop.
+**[52:48](https://www.youtube.com/watch?v=498V7UuPpIo&t=3168s) Bob Summerwill:** And Ryan was saying he got a phone call sort of like late at night, quick, panicked. Take it down. Stop.
 
-**[52:55] Anthony Di Iorio:** Yeah, yeah.
+**[52:55](https://www.youtube.com/watch?v=498V7UuPpIo&t=3175s) Anthony Di Iorio:** Yeah, yeah.
 
-**[52:56] Bob Summerwill:** Remove the timer.
+**[52:56](https://www.youtube.com/watch?v=498V7UuPpIo&t=3176s) Bob Summerwill:** Remove the timer.
 
-**[52:58] Anthony Di Iorio:** That's right. But it was that. And I think it happened after the conference. I remember Amir Chetrit's face and I remember him telling us, guys. So that was good.
+**[52:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=3178s) Anthony Di Iorio:** That's right. But it was that. And I think it happened after the conference. I remember Amir Chetrit's face and I remember him telling us, guys. So that was good.
 
 And then, yeah, the Miami house was a lot of fun. We had some, we had, Gavin Wood worked his butt off the whole time there. He did nothing but work and code and got the first proof of concept out there. And he was a workhorse. While a lot of others were partying and doing some things, Gavin Wood was the guy that was sitting there on his thing doing his stuff.
 
@@ -691,13 +699,13 @@ But there was some good times in the Miami. I remember Adam B. Levine doing Let'
 
 Yeah. So yeah, a lot of good. The Miami event was pretty cool. And Steve Dakh was down there as well.
 
-**[54:45] Bob Summerwill:** Yeah, yeah. So that discussion with Charles Hoskinson and Dan Larimer, and it was David Johnston was the other one on that panel who was talking about at the time.
+**[54:45](https://www.youtube.com/watch?v=498V7UuPpIo&t=3285s) Bob Summerwill:** Yeah, yeah. So that discussion with Charles Hoskinson and Dan Larimer, and it was David Johnston was the other one on that panel who was talking about at the time.
 
-**[54:57] Anthony Di Iorio:** That's right. That was kind of the big things, right? That's what you had. You had [BitShares](https://bitshares.org/), you had [Mastercoin](https://www.omnilayer.org/), you had Bitcoin. And then Ethereum comes along, right? Yeah.
+**[54:57](https://www.youtube.com/watch?v=498V7UuPpIo&t=3297s) Anthony Di Iorio:** That's right. That was kind of the big things, right? That's what you had. You had [BitShares](https://bitshares.org/), you had [Mastercoin](https://www.omnilayer.org/), you had Bitcoin. And then Ethereum comes along, right? Yeah.
 
-**[55:06] Bob Summerwill:** So yeah, that video has also been preserved, which is great. And there were some photos from the house there, from Taylor Gerring had taken some photos there and Steve Dakh had got one or two that he shared with me. But they weren't so great.
+**[55:06](https://www.youtube.com/watch?v=498V7UuPpIo&t=3306s) Bob Summerwill:** So yeah, that video has also been preserved, which is great. And there were some photos from the house there, from Taylor Gerring had taken some photos there and Steve Dakh had got one or two that he shared with me. But they weren't so great.
 
-**[55:24] Anthony Di Iorio:** You ever care to share stuff or, I'm hoping you're going to be putting all your stuff out somehow doing something with it. Would love to dig into what you have.
+**[55:24](https://www.youtube.com/watch?v=498V7UuPpIo&t=3324s) Anthony Di Iorio:** You ever care to share stuff or, I'm hoping you're going to be putting all your stuff out somehow doing something with it. Would love to dig into what you have.
 
 And reciprocally, I've got so much stuff in terms of Slack, I mean Skype channel. So much stuff that I've put into things that I haven't gone through in such a long time. But it's cool sometimes to just look at my chat between me and Vitalik Buterin from 2012 to.
 
@@ -717,17 +725,17 @@ So that's one of the things I'm a stickler for, for certain people that say that
 
 <h3 id="founders-fiduciary-members-and-the-red-wedding">Founders, fiduciary members, and the "Red Wedding"</h3>
 
-**[57:42] Bob Summerwill:** Yeah, yeah. I mean, same with the Fiduciary Members. Something pops into my mind there that maybe you can expand on a little bit is in the initial [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) post, it does talk about the fiduciary group. And then there was a large list of other people involved. Quite a long list there. But then that was changed around August where it basically chopped down the, well, it updated I guess with Charles Hoskinson and Amir Chetrit etc. out of the way. But it also did not use the word fiduciary anymore. And I'm wondering, do you remember what happened there? Was it a fear? So are you using that word?
+**[57:42](https://www.youtube.com/watch?v=498V7UuPpIo&t=3462s) Bob Summerwill:** Yeah, yeah. I mean, same with the Fiduciary Members. Something pops into my mind there that maybe you can expand on a little bit is in the initial [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) post, it does talk about the fiduciary group. And then there was a large list of other people involved. Quite a long list there. But then that was changed around August where it basically chopped down the, well, it updated I guess with Charles Hoskinson and Amir Chetrit etc. out of the way. But it also did not use the word fiduciary anymore. And I'm wondering, do you remember what happened there? Was it a fear? So are you using that word?
 
-**[58:32] Anthony Di Iorio:** Do you mean on the website?
+**[58:32](https://www.youtube.com/watch?v=498V7UuPpIo&t=3512s) Anthony Di Iorio:** Do you mean on the website?
 
-**[58:34] Bob Summerwill:** No, on the [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) announcement thread.
+**[58:34](https://www.youtube.com/watch?v=498V7UuPpIo&t=3514s) Bob Summerwill:** No, on the [Bitcoin Talk](https://en.wikipedia.org/wiki/Bitcointalk) announcement thread.
 
-**[58:37] Anthony Di Iorio:** Oh.
+**[58:37](https://www.youtube.com/watch?v=498V7UuPpIo&t=3517s) Anthony Di Iorio:** Oh.
 
-**[58:38] Bob Summerwill:** So there was the announcement in January there. But then that page was updated around August.
+**[58:38](https://www.youtube.com/watch?v=498V7UuPpIo&t=3518s) Bob Summerwill:** So there was the announcement in January there. But then that page was updated around August.
 
-**[58:46] Anthony Di Iorio:** Okay, so my recollection really is the Fiduciary Members was kind of our name internal that was used on the Skype channel FM. I don't recall its relationship to the forums. And if we ever mentioned that stuff there, I, maybe we did. I'm saying, you're saying that we did.
+**[58:46](https://www.youtube.com/watch?v=498V7UuPpIo&t=3526s) Anthony Di Iorio:** Okay, so my recollection really is the Fiduciary Members was kind of our name internal that was used on the Skype channel FM. I don't recall its relationship to the forums. And if we ever mentioned that stuff there, I, maybe we did. I'm saying, you're saying that we did.
 
 But why things would have changed afterwards when you're dealing with August, because that's when things changed. That's when the shift happened towards we've got money now, we don't need these guys and we're going in this direction right now, which is what happened at the "Red Wedding". That kind of was the signal of what's changing here.
 
@@ -745,9 +753,9 @@ And it turned into a get the product out and Gavin Wood took the helm with a lot
 
 <h3 id="ethereum-canada-switzerland-and-structure">Ethereum Canada, Switzerland, and early legal structure</h3>
 
-**[1:00:41] Bob Summerwill:** 2015. This is the date I think you had on LinkedIn. But yeah, I mean prior to the foundation there. So you'd mentioned [Ethereum Canada](/articles/ethereum-canada-inc/). So I looked, so that was February 2014 that that started, which is very close to the same time that [EthSuisse](/articles/ethereum-switzerland-gmbh/) was formed by Mihai Alisie and I forget the name of the lawyer dude. So yeah, you had several months there of not-for-profit. You had these legal entities.
+**[1:00:41](https://www.youtube.com/watch?v=498V7UuPpIo&t=3641s) Bob Summerwill:** 2015. This is the date I think you had on LinkedIn. But yeah, I mean prior to the foundation there. So you'd mentioned [Ethereum Canada](/articles/ethereum-canada-inc/). So I looked, so that was February 2014 that that started, which is very close to the same time that [EthSuisse](/articles/ethereum-switzerland-gmbh/) was formed by Mihai Alisie and I forget the name of the lawyer dude. So yeah, you had several months there of not-for-profit. You had these legal entities.
 
-**[1:01:17] Anthony Di Iorio:** Yeah, well the reason, the only reason we did that was for speed. The only reason was for speed. And I was the only director for speed. It just was literally we needed an entity to be able to do stuff with.
+**[1:01:17](https://www.youtube.com/watch?v=498V7UuPpIo&t=3677s) Anthony Di Iorio:** Yeah, well the reason, the only reason we did that was for speed. The only reason was for speed. And I was the only director for speed. It just was literally we needed an entity to be able to do stuff with.
 
 It was not anything meant to be long lasting and it wasn't meant to something to be a for. It was literally just like a holding thing that we could start doing, hiring people, start doing things and that was what you need to start up.
 
@@ -765,39 +773,39 @@ After from what came out of there, Vitalik Buterin determined it was going to be
 
 But again no regrets and it is what it is. And who can deny what it's actually become. That's been the right path and I think it has. So.
 
-**[1:03:44] Bob Summerwill:** Yeah, so Herbert Sterchi was the.
+**[1:03:44](https://www.youtube.com/watch?v=498V7UuPpIo&t=3824s) Bob Summerwill:** Yeah, so Herbert Sterchi was the.
 
-**[1:03:50] Anthony Di Iorio:** Yeah.
+**[1:03:50](https://www.youtube.com/watch?v=498V7UuPpIo&t=3830s) Anthony Di Iorio:** Yeah.
 
-**[1:03:51] Bob Summerwill:** Yeah. So he co-founded that or I guess helped Mihai Alisie with that.
+**[1:03:51](https://www.youtube.com/watch?v=498V7UuPpIo&t=3831s) Bob Summerwill:** Yeah. So he co-founded that or I guess helped Mihai Alisie with that.
 
-**[1:03:56] Anthony Di Iorio:** Yeah. You needed a local. There needed to be somebody that was local to be part of it. And that's where Herbert Sterchi came in. The reason why Herbert Sterchi was on there, I believe.
+**[1:03:56](https://www.youtube.com/watch?v=498V7UuPpIo&t=3836s) Anthony Di Iorio:** Yeah. You needed a local. There needed to be somebody that was local to be part of it. And that's where Herbert Sterchi came in. The reason why Herbert Sterchi was on there, I believe.
 
-**[1:04:08] Bob Summerwill:** Yeah. And so yeah, looking, the "Red Wedding" was June 7th. And I guess that was probably the first time that all eight people were in the same place.
+**[1:04:08](https://www.youtube.com/watch?v=498V7UuPpIo&t=3848s) Bob Summerwill:** Yeah. And so yeah, looking, the "Red Wedding" was June 7th. And I guess that was probably the first time that all eight people were in the same place.
 
-**[1:04:27] Anthony Di Iorio:** Maybe. I don't. We were back and forth a few times there. I can't recall. I don't know. No, I don't, maybe. I can't say for certain. I've been there a few times already with other guys. I do have some photos of me and Gavin Wood in there from previous events and stuff. So possibly. Yeah, yeah. We want to do it, Bob, do we want to do a second part sometime or continue this sometime? I think I got a hard, it's 5:30.
+**[1:04:27](https://www.youtube.com/watch?v=498V7UuPpIo&t=3867s) Anthony Di Iorio:** Maybe. I don't. We were back and forth a few times there. I can't recall. I don't know. No, I don't, maybe. I can't say for certain. I've been there a few times already with other guys. I do have some photos of me and Gavin Wood in there from previous events and stuff. So possibly. Yeah, yeah. We want to do it, Bob, do we want to do a second part sometime or continue this sometime? I think I got a hard, it's 5:30.
 
-**[1:04:53] Bob Summerwill:** Okay.
+**[1:04:53](https://www.youtube.com/watch?v=498V7UuPpIo&t=3893s) Bob Summerwill:** Okay.
 
-**[1:04:54] Anthony Di Iorio:** I think I got a hard stop now.
+**[1:04:54](https://www.youtube.com/watch?v=498V7UuPpIo&t=3894s) Anthony Di Iorio:** I think I got a hard stop now.
 
-**[1:04:56] Bob Summerwill:** Okay. Can I just ask you one more thing?
+**[1:04:56](https://www.youtube.com/watch?v=498V7UuPpIo&t=3896s) Bob Summerwill:** Okay. Can I just ask you one more thing?
 
-**[1:04:58] Anthony Di Iorio:** Yeah, sure.
+**[1:04:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=3898s) Anthony Di Iorio:** Yeah, sure.
 
-**[1:04:59] Bob Summerwill:** Do we have time to talk about [Bitcoin Expo](/articles/bitcoin-expo)?
+**[1:04:59](https://www.youtube.com/watch?v=498V7UuPpIo&t=3899s) Bob Summerwill:** Do we have time to talk about [Bitcoin Expo](/articles/bitcoin-expo)?
 
-**[1:05:03] Anthony Di Iorio:** You want to do that now?
+**[1:05:03](https://www.youtube.com/watch?v=498V7UuPpIo&t=3903s) Anthony Di Iorio:** You want to do that now?
 
-**[1:05:05] Bob Summerwill:** If you have time just for a couple of minutes?
+**[1:05:05](https://www.youtube.com/watch?v=498V7UuPpIo&t=3905s) Bob Summerwill:** If you have time just for a couple of minutes?
 
-**[1:05:07] Anthony Di Iorio:** Yeah, certainly. Yeah, yeah, I think I can manage that. Yeah.
+**[1:05:07](https://www.youtube.com/watch?v=498V7UuPpIo&t=3907s) Anthony Di Iorio:** Yeah, certainly. Yeah, yeah, I think I can manage that. Yeah.
 
 <h3 id="bitcoin-expo-and-closing">Bitcoin Expo and closing reflections</h3>
 
-**[1:05:11] Bob Summerwill:** So that was April 2014 and again fairly soon after the Miami and another kind of drumbeat on the path and a big sort of coming out for Ethereum. Right. Who were the sponsors?
+**[1:05:11](https://www.youtube.com/watch?v=498V7UuPpIo&t=3911s) Bob Summerwill:** So that was April 2014 and again fairly soon after the Miami and another kind of drumbeat on the path and a big sort of coming out for Ethereum. Right. Who were the sponsors?
 
-**[1:05:30] Anthony Di Iorio:** What it was was for the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/) we wanted to put on an event and it was sponsored by the Bitcoin Alliance event and I did it as a nonprofit and I funded it and I said this is going to be a nonprofit event that I want to do. And Ethereum became the lead sponsor and we got all kinds of other sponsors for this.
+**[1:05:30](https://www.youtube.com/watch?v=498V7UuPpIo&t=3930s) Anthony Di Iorio:** What it was was for the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/) we wanted to put on an event and it was sponsored by the Bitcoin Alliance event and I did it as a nonprofit and I funded it and I said this is going to be a nonprofit event that I want to do. And Ethereum became the lead sponsor and we got all kinds of other sponsors for this.
 
 So it was an event put on by the Alliance of Canada and it turned out to be an Ethereum kind of conference. It just was the timing and all the team came into Canada and that's where I did meet a lot of the guys for the first time. Rich, guys in from the UK, guys in from.
 
@@ -807,9 +815,9 @@ Yeah, that was kind of the first time that we all got together and Mihai Alisie 
   name="Why I Joined Ethereum"
 %}
 
-**[1:06:13] Bob Summerwill:** Yeah, he wasn't. Charles Hoskinson was there. I'm not sure if [Gav](/people/gavin-wood/) came. No, [Gav](/people/gavin-wood/) did. Yes.
+**[1:06:13](https://www.youtube.com/watch?v=498V7UuPpIo&t=3973s) Bob Summerwill:** Yeah, he wasn't. Charles Hoskinson was there. I'm not sure if [Gav](/people/gavin-wood/) came. No, [Gav](/people/gavin-wood/) did. Yes.
 
-**[1:06:20] Anthony Di Iorio:** No, Gavin Wood said no. I was getting my dates confused. Miami was the first time I met Charles Hoskinson in person and Gavin Wood in person and then they were both also at the event as well.
+**[1:06:20](https://www.youtube.com/watch?v=498V7UuPpIo&t=3980s) Anthony Di Iorio:** No, Gavin Wood said no. I was getting my dates confused. Miami was the first time I met Charles Hoskinson in person and Gavin Wood in person and then they were both also at the event as well.
 
 Yeah, I think it was maybe about 800 people at the Metro Toronto Convention Center for this. I think it was 800 people. And yeah, everybody met up at [Bitcoin Decentral](https://decentral.ca/) to start and we all walked to the conference afterwards and what a great, it was an amazing time.
 
@@ -819,9 +827,9 @@ I got some great photos of that actually of the tables and the opening night. An
   name="Ethereum Booth at the Bitcoin Expo 2014"
 %}
 
-**[1:07:03] Bob Summerwill:** And there was a hackathon as well. And there's a video that was.
+**[1:07:03](https://www.youtube.com/watch?v=498V7UuPpIo&t=4023s) Bob Summerwill:** And there was a hackathon as well. And there's a video that was.
 
-**[1:07:07] Anthony Di Iorio:** That was [Dark Wallet](https://github.com/darkwallet/darkwallet). That was, so I also got some good, I got Amir Taaki in to come speak. Amir Taaki. I remember, I think that's when he just got arrested or something, does something from skipping the New York turnstiles or something. He jumped over something like this.
+**[1:07:07](https://www.youtube.com/watch?v=498V7UuPpIo&t=4027s) Anthony Di Iorio:** That was [Dark Wallet](https://github.com/darkwallet/darkwallet). That was, so I also got some good, I got Amir Taaki in to come speak. Amir Taaki. I remember, I think that's when he just got arrested or something, does something from skipping the New York turnstiles or something. He jumped over something like this.
 
 But there was a hackathon and I think Russell Verbeeten was the person that put that on with me. Like he was part of our event, part of the thing and Dark Wallet. Amir Taaki, I think won that Dark Wallet hackathon.
 
@@ -835,26 +843,26 @@ But there was a hackathon and I think Russell Verbeeten was the person that put 
 
 I got some pictures from that too. I got a bunch of people. I should share my pictures with you. What I do have would give you those and show you them.
 
-**[1:07:45] Bob Summerwill:** That would be fantastic. But yeah, the video, the hackathon, there's so many people that you recognize in there.
+**[1:07:45](https://www.youtube.com/watch?v=498V7UuPpIo&t=4065s) Bob Summerwill:** That would be fantastic. But yeah, the video, the hackathon, there's so many people that you recognize in there.
 
-**[1:07:52] Anthony Di Iorio:** Is that public as well still? Is that video still online? Oh really?
+**[1:07:52](https://www.youtube.com/watch?v=498V7UuPpIo&t=4072s) Anthony Di Iorio:** Is that public as well still? Is that video still online? Oh really?
 
-**[1:07:55] Bob Summerwill:** Yeah.
+**[1:07:55](https://www.youtube.com/watch?v=498V7UuPpIo&t=4075s) Bob Summerwill:** Yeah.
 
-**[1:07:55] Anthony Di Iorio:** Cool.
+**[1:07:55](https://www.youtube.com/watch?v=498V7UuPpIo&t=4075s) Anthony Di Iorio:** Cool.
 
-**[1:07:56] Bob Summerwill:** Yeah, I can get you that.
+**[1:07:56](https://www.youtube.com/watch?v=498V7UuPpIo&t=4076s) Bob Summerwill:** Yeah, I can get you that.
 
-**[1:07:58] Anthony Di Iorio:** Yeah, I tell you, if you could send me whatever you want, I'd love to take a trip down seeing things. So it's good that, I really appreciate that you're taking the time to accumulate all this and to do this work. It's a lot that needs to be brought together, and I had so much stuff that I don't have, and it'd really be nice to see everything being put together. So yeah.
+**[1:07:58](https://www.youtube.com/watch?v=498V7UuPpIo&t=4078s) Anthony Di Iorio:** Yeah, I tell you, if you could send me whatever you want, I'd love to take a trip down seeing things. So it's good that, I really appreciate that you're taking the time to accumulate all this and to do this work. It's a lot that needs to be brought together, and I had so much stuff that I don't have, and it'd really be nice to see everything being put together. So yeah.
 
-**[1:08:17] Bob Summerwill:** Yeah. And with Kyle Kurbegovich, I'm still hoping to catch up with him. I'd reconstituted his [Coin Talk](https://cointalk-archive.ca) website and saved what I can from that, but there's lots of audio recordings there. Some of the, some of the video was lost. But there's audio interviews, like a number of them from Inside Bitcoins from Miami in 2014 there as well. And the opening of [Bitcoin Decentral](https://decentral.ca/) as well, which is a key day.
+**[1:08:17](https://www.youtube.com/watch?v=498V7UuPpIo&t=4097s) Bob Summerwill:** Yeah. And with Kyle Kurbegovich, I'm still hoping to catch up with him. I'd reconstituted his [Coin Talk](https://cointalk-archive.ca) website and saved what I can from that, but there's lots of audio recordings there. Some of the, some of the video was lost. But there's audio interviews, like a number of them from Inside Bitcoins from Miami in 2014 there as well. And the opening of [Bitcoin Decentral](https://decentral.ca/) as well, which is a key day.
 
 *(Bob - that is a whole other project which is hosted at [cointalk-archive.ca](https://cointalk-archive.ca))*
 
 Okay, well, thanks so much for your time and yeah, I'd love to have a part two. We got quite far through, but it's a long story.
 
-**[1:09:05] Anthony Di Iorio:** Yeah, that's good, though. I appreciate the memories and thinking things through, so thanks for the conversation and yeah, I'd love to do another one too.
+**[1:09:05](https://www.youtube.com/watch?v=498V7UuPpIo&t=4145s) Anthony Di Iorio:** Yeah, that's good, though. I appreciate the memories and thinking things through, so thanks for the conversation and yeah, I'd love to do another one too.
 
-**[1:09:12] Bob Summerwill:** Awesome. Okay, thanks, [Anthony](/people/anthony-di-iorio/).
+**[1:09:12](https://www.youtube.com/watch?v=498V7UuPpIo&t=4152s) Bob Summerwill:** Awesome. Okay, thanks, [Anthony](/people/anthony-di-iorio/).
 
-**[1:09:14] Anthony Di Iorio:** Thanks, Bob. Okay, cheers. Bye.
+**[1:09:14](https://www.youtube.com/watch?v=498V7UuPpIo&t=4154s) Anthony Di Iorio:** Thanks, Bob. Okay, cheers. Bye.

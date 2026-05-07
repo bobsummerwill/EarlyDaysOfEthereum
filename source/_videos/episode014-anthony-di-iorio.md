@@ -687,7 +687,7 @@ But I have that one photo that Gianni Dalerta took. I think Gianni took it. That
 
 ![Gianni Dalerta](/images/x.com/2026.04.30/GianniDalerta/status/1368074939966910467/photo/1/Evxg2K3XMAARFwk.jpeg)
 
-*(Jonathan Mohan, Unknown, Joe Lubin, Kyle Kurbegovich, Unknown, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, Unknown, Charles Hoskinson)*
+*(Jonathan Mohan, Wendell Davis, Joe Lubin, Kyle Kurbegovich, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, [Cole Ippoliti](https://www.instagram.com/colecoldwater), Charles Hoskinson)*
 
 But I don't, I have very, very, very little stuff and would love to see more stuff, but I have so little because even back then, even the mobile phones and moving the photos and stages, literally very, very little stuff, which is unfortunate.
 

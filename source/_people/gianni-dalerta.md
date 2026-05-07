@@ -18,7 +18,7 @@ He took this wonderful photo at the house in Miami on 23rd January, just prior t
 
 ![Gianni Dalerta](/images/x.com/2026.04.30/GianniDalerta/status/1368074939966910467/photo/1/Evxg2K3XMAARFwk.jpeg)
 
-*(Jonathan Mohan, Unknown, Joe Lubin, Kyle Kurbegovich, Unknown, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, Unknown, Charles Hoskinson)*
+*(Jonathan Mohan, Wendell Davis, Joe Lubin, Kyle Kurbegovich, Vitalik Buterin, Anthony Di Iorio, Jason Colby, Amir Chetrit, Unknown, Charles Hoskinson)*
 
 Vitalik's talk:
 

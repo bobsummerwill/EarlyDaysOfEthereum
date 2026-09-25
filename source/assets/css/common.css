@@ -296,21 +296,6 @@
  */
 
 /**
- * Footer Link Override - Specific styling for footer branding
- * 
- * Uses !important to override default link styles for footer branding.
- * High specificity required for third-party integration.
- */
-.footer-strato-link,
-.footer-strato-link:visited,
-.footer-strato-link:hover,
-.footer-strato-link:active {
-    color: var(--bg-white) !important;
-    font-weight: bold !important;
-    text-decoration: underline !important;
-}
-
-/**
  * Document Body - Main container with centered layout
  * 
  * Implements centered layout with max-width constraint.
@@ -2217,53 +2202,6 @@ main {
     line-height: 1.2;
 }
 
-.ethereum-presented-by {
-    margin: 0;
-    font-family: 'RobotoLight', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
-    font-size: 1em;
-    font-weight: 400;
-    letter-spacing: normal;
-    text-transform: none;
-    line-height: var(--line-height);
-    color: var(--text-dark);
-}
-
-.ethereum-presenter {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--spacing-4xl);
-    margin-top: var(--spacing-6xl);
-}
-
-.ethereum-presenter-link {
-    display: block;
-    text-decoration: none;
-}
-
-.ethereum-presenter-logo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--spacing-3xl);
-}
-
-.ethereum-presenter-logo img {
-    height: auto;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-    background: none !important;
-    border: none !important;
-}
-
-.ethereum-presenter-icon {
-    width: min(47px, 13vw);
-}
-
-.ethereum-presenter-wordmark {
-    width: min(108px, 29vw);
-}
-
 @media (max-width: 768px) {
     .ethereum-logo-section {
         padding: var(--spacing-4xl) 0;
@@ -2276,27 +2214,6 @@ main {
     
     .ethereum-text {
         font-size: 1.6em;
-    }
-
-    .ethereum-presented-by {
-        font-size: 1em;
-    }
-
-    .ethereum-presenter {
-        gap: var(--spacing-3xl);
-        margin-top: var(--spacing-5xl);
-    }
-
-    .ethereum-presenter-logo {
-        gap: var(--spacing-2xl);
-    }
-
-    .ethereum-presenter-icon {
-        width: min(38px, 12vw);
-    }
-
-    .ethereum-presenter-wordmark {
-        width: min(72px, 22vw);
     }
 }
 
@@ -2344,72 +2261,10 @@ main {
 .footer-gradient {
     background: linear-gradient(90deg, #007acc 0%, #005fa3 100%);
     color: #fff;
-    padding: 32px 0 18px 0;
+    padding: 18px 16px;
     text-align: center;
     border-top: none;
     font-size: 1em;
-}
-
-.footer-desktop {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-}
-
-.footer-desktop > * + * {
-    margin-top: 18px;
-}
-
-.footer-mobile {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-}
-
-.footer-mobile > * + * {
-    margin-top: 18px;
-}
-
-.footer-brand-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-bottom: 6px;
-}
-
-.footer-brand-link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-}
-
-.footer-brand-logo {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    background: #fff;
-    padding: 4px;
-    margin-right: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
-}
-
-.footer-brand-text {
-    color: #fff;
-    font-weight: 700;
-    font-size: 1.1em;
-    letter-spacing: 0.01em;
-}
-
-.footer-brand-text-block {
-    color: #fff;
-    font-weight: 700;
-    font-size: 1.1em;
-    letter-spacing: 0.01em;
-    display: block;
 }
 
 .footer-contribution-text {
@@ -2421,31 +2276,6 @@ main {
 .footer-link {
     color: #fff;
     text-decoration: underline;
-}
-
-.footer-mobile-brand-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding-bottom: 6px;
-}
-
-.footer-mobile-brand-link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-decoration: none;
-}
-
-.footer-mobile-brand-logo {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    background: #fff;
-    padding: 4px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
 }
 
 /**
@@ -2999,14 +2829,4 @@ main {
     color: var(--text-lighter);
     font-size: 0.85em;
     margin-left: var(--spacing-sm);
-}
-
-@media (max-width: 768px) {
-    .footer-desktop {
-        display: none;
-    }
-    
-    .footer-mobile {
-        display: flex;
-    }
 }

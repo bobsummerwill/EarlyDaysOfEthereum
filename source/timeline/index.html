@@ -14,7 +14,7 @@ title: Timeline
 <h1>Timeline</h1>
 
 <p>
-  A combined chronological view of all articles and videos documenting the early days of Ethereum.
+  A combined chronological view of all articles and videos documenting the early days of Ethereum. Conversations are listed separately on the <a href="/conversations/">Conversations</a> page.
 </p>
 
 {% assign items_with_dates = "" | split: "" %}
@@ -30,7 +30,9 @@ title: Timeline
     {% endif %}
 {% endfor %}
 
-{% for video in site.videos %}
+{% comment %}Conversations have their own page, so leave them out here.{% endcomment %}
+{% assign timeline_videos = site.videos | where_exp: "video", "video.type != 'conversation'" %}
+{% for video in timeline_videos %}
     {% if video.date %}
         {% assign items_with_dates = items_with_dates | push: video %}
     {% else %}
@@ -42,7 +44,7 @@ title: Timeline
 {% assign sorted_undated_items = items_without_dates | sort_natural: 'title' %}
 
 <div class="stats">
-    {{ sorted_items.size | plus: sorted_undated_items.size }} items ({{ site.articles.size }} articles, {{ site.videos.size }} videos)
+    {{ sorted_items.size | plus: sorted_undated_items.size }} items ({{ site.articles.size }} articles, {{ timeline_videos.size }} videos)
 </div>
 
 <h2 class="grid-section-heading">Timeline</h2>

@@ -1,7 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 13 - Alex van de Sande"
 date: 2026-04-24
-show: true
+type: conversation
 guests: ["Alex van de Sande"]
 hosts: ["Bob Summerwill"]
 description: "Alex van de Sande explains why [Mist](/articles/mist/) still resonates with early Ethereum builders, revisits the original Web3 vision built around Ethereum, [Swarm](/articles/swarm/), and [Whisper](/articles/whisper/), describes how local-first ideas ran into syncing and usability limits, recounts how he joined ETHDEV after redesigning [AlethZero](/articles/aleth-zero/), reflects on [ENS](https://ens.domains/) growing from a simple feature into a major ecosystem, and argues that transparent onchain governance remains one of crypto's strongest real-world use cases."

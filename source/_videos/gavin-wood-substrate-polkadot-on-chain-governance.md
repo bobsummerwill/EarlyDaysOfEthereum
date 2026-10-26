@@ -1,7 +1,6 @@
 ---
 title: "Gavin Wood - Substrate, Polkadot and the Case for On-Chain Governance"
 date: 2018-10-31
-type: conversation
 author: "Epicenter"
 hosts: ["Brian Fabian Crain", "Meher Roy"]
 guests: ["Gavin Wood"]

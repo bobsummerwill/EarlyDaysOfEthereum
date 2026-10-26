@@ -1,7 +1,7 @@
 ---
 title: "Early Days of Ethereum - Episode 14 - Anthony Di Iorio"
 date: 2026-05-06
-show: true
+type: conversation
 guests: ["Anthony Di Iorio"]
 hosts: ["Bob Summerwill"]
 description: "Anthony Di Iorio traces his path from Austrian economics, [Free Talk Live](https://blog.freetalklive.com/), and Toronto's first Bitcoin meetup to funding Ethereum with proceeds from Satoshi Circle. He discusses the [Bitcoin Alliance of Canada](https://web.archive.org/web/20131206090641/http://www.bitcoinalliance.ca/), Rush Wallet and KryptoKit, Bitcoin Decentral, bringing together Ethereum's early founders, the delayed presale, and the tensions that shaped the project's legal structure."

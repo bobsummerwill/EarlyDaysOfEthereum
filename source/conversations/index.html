@@ -18,7 +18,7 @@ title: Conversations
 </p>
 
 {% assign sorted_videos = site.videos | sort: 'date' | reverse %}
-{% assign conversation_videos = sorted_videos %}
+{% assign conversation_videos = sorted_videos | where: "type", "conversation" %}
 
 <div class="stats">
     {{ conversation_videos.size }} conversations
